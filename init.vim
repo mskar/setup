@@ -32,18 +32,11 @@ call plug#begin(expand('~/.config/nvim/plugged'))
 "" Plug install packages
 "*****************************************************************************
 " the main R plugin providing RStudio-esque features
-Plug 'jalvesaq/Nvim-R'
-" autocompletion for R
-" assuming you're using vim-plug: https://github.com/junegunn/vim-plug
+" autocompletion for R: https://github.com/gaalcaras/ncm-R
 Plug 'ncm2/ncm2'
 Plug 'roxma/nvim-yarp'
+Plug 'jalvesaq/Nvim-R'
 Plug 'gaalcaras/ncm-R'
-
-" NOTE: you need to install completion sources to get completions. Check
-" our wiki page for a list of sources: https://github.com/ncm2/ncm2/wiki
-Plug 'ncm2/ncm2-bufword'
-Plug 'ncm2/ncm2-tmux'
-Plug 'ncm2/ncm2-path'
 
 " Vim 8 only
 if !has('nvim')
@@ -54,22 +47,35 @@ endif
 " Further configuration might be required, read below
 Plug 'sirver/UltiSnips'
 Plug 'ncm2/ncm2-ultisnips'
+
+" NOTE: you need to install completion sources to get completions. Check
+" our wiki page for a list of sources: https://github.com/ncm2/ncm2/wiki
+Plug 'ncm2/ncm2-bufword'
+Plug 'ncm2/ncm2-tmux'
+Plug 'ncm2/ncm2-path'
+
 " R setup: https://kadekillary.work/post/nvim-r/
 " R setup: https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
 " For Rmarkdown syntax
+Plug 'vim-pandoc/vim-rmarkdown'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 " From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
 Plug 'machakann/vim-highlightedyank'
 
+" https://github.com/liuchengxu/vim-which-key#introduction
+Plug 'liuchengxu/vim-which-key'
+
+Plug 'ervandew/supertab'
+
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-unimpaired'
+Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-fugitive'
 
 Plug 'scrooloose/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
-Plug 'tpope/vim-commentary'
-Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'airblade/vim-gitgutter'
@@ -80,7 +86,7 @@ Plug 'Raimondi/delimitMate'
 Plug 'majutsushi/tagbar'
 Plug 'scrooloose/syntastic'
 Plug 'Yggdroot/indentLine'
-Plug 'avelino/vim-bootstrap-updater'
+Plug 'godlygeek/tabular'
 Plug 'sheerun/vim-polyglot'
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
@@ -272,6 +278,7 @@ let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tagbar#enabled = 1
 let g:airline_skip_empty_sections = 1
 
+let g:SuperTabDefaultCompletionType = "<c-n>"
 "*****************************************************************************
 "" Abbreviations
 "*****************************************************************************
@@ -650,6 +657,14 @@ let g:airline#extensions#virtualenv#enabled = 1
 let g:polyglot_disabled = ['python']
 let python_highlight_all = 1
 
+" Snakemake
+au BufNewFile,BufRead Snakefile set syntax=snakemake
+au BufNewFile,BufRead *.smk set syntax=snakemake
+au BufNewFile,BufRead *.snk set syntax=snakemake
+au BufNewFile,BufRead *.snakefile set syntax=snakemake
+au FileType snakemake let Comment="#"
+au FileType snakemake setlocal completeopt=menuone,longest
+au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
 "*****************************************************************************
 "*****************************************************************************
