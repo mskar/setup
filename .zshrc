@@ -141,9 +141,12 @@ export EDITOR='nvim'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias v="nvim"
+disable r
+alias r="ranger" # R will start an R interactive session
+alias n="nvim ~/notes/$(date '+%Y-%m-%d').md"
 # alias python=python3
 # export PATH=/usr/local/bin/python3:$PATH
-export PATH=/Users/marskar/miniconda3/bin:$PATH
+export PATH=$HOME/miniconda3/bin:$PATH
 # export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 # taken from https://dougblack.io/words/zsh-vi-mode.html
 bindkey -v
@@ -153,6 +156,15 @@ bindkey '^N' down-history
 bindkey '^?' backward-delete-char
 bindkey '^h' backward-delete-char
 bindkey '^w' backward-kill-word
+bindkey '^u' backward-kill-line
+bindkey '^d' delete-char
+bindkey '^k' kill-line
+bindkey '^a' beginning-of-line
+bindkey '^e' end-of-line
+bindkey '^f' forward-char
+bindkey '^b' backward-char
+bindkey '^_' undo
+
 # bindkey '^r' history-incremental-search-backward
 
 # taken from https://emily.st/2013/05/03/zsh-vi-cursor/
@@ -183,4 +195,3 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 prompt_context() {}
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-
