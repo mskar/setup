@@ -164,6 +164,14 @@ bindkey '^e' end-of-line
 bindkey '^f' forward-char
 bindkey '^b' backward-char
 bindkey '^_' undo
+bindkey '^y' yank
+bindkey '\ef' forward-word
+bindkey '\eb' backward-word
+bindkey '\ed' delete-word
+bindkey '\e.' insert-last-word
+bindkey '\et' transpose-words
+bindkey '\eu' up-case-word
+bindkey '\el' down-case-word
 
 # bindkey '^r' history-incremental-search-backward
 
