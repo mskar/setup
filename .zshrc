@@ -165,6 +165,7 @@ bindkey '^f' forward-char
 bindkey '^b' backward-char
 bindkey '^_' undo
 bindkey '^y' yank
+bindkey '\ey' yank-pop
 bindkey '\ef' forward-word
 bindkey '\eb' backward-word
 bindkey '\ed' delete-word
