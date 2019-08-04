@@ -85,6 +85,7 @@ Plug 'scrooloose/syntastic'
 Plug 'Yggdroot/indentLine'
 Plug 'godlygeek/tabular'
 Plug 'sheerun/vim-polyglot'
+Plug 'junegunn/vim-peekaboo'
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
 else
