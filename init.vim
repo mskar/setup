@@ -387,23 +387,29 @@ cnoremap <C-l> <right>
 " Move one character backward
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
+" Bash yank (paste/put)
+inoremap <C-y> <C-o>"-p
 
 " Alt keys specific to MacOS
 " <a-d> = delete word forward; opposite of <c-w>
-inoremap ∂ <C-o>dw
-cnoremap ∂ <S-Right><C-w>
+inoremap <a-d> <C-o>dw
+cnoremap <a-d> <S-Right><C-w>
 " <a-k> = move up; opposite of <a-j>
-inoremap ˚ <up>
-cnoremap ˚ <up>
+inoremap <a-k> <up>
+cnoremap <a-k> <up>
 " <a-j> = move down; opposite of <a-k>
-inoremap ∆ <down>
-cnoremap ∆ <down>
+inoremap <a-j> <down>
+cnoremap <a-j> <down>
 " <a-f> = move one word forward; opposite of <a-b>
-inoremap ƒ <C-o>w
-cnoremap ƒ <S-Right>
+inoremap <a-f> <C-o>w
+cnoremap <a-f> <S-Right>
 " <a-b> = move one word backward; opposite of <a-f>
-inoremap ∫ <C-o>b
-cnoremap ∫ <S-Left>
+inoremap <a-b> <C-o>b
+cnoremap <a-b> <S-Left>
+" <a-u> = uppercase to word end; opposite of <a-l>
+inoremap <a-u> <C-o>gUe
+" <a-u> = lowercase to word end; opposite of <a-u>
+inoremap <a-l> <C-o>gue
 
 " Nvim-R mappings
 " Keyboard shortcuts for <- -> and other operators in R specific files
