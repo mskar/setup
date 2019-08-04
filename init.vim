@@ -387,8 +387,6 @@ cnoremap <C-l> <right>
 " Move one character backward
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
-" Bash yank (paste/put)
-inoremap <C-y> <C-o>"-p
 
 " Alt keys specific to MacOS
 " <a-d> = delete word forward; opposite of <c-w>
