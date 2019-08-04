@@ -63,9 +63,6 @@ Plug 'vim-pandoc/vim-pandoc-syntax'
 " From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
 Plug 'machakann/vim-highlightedyank'
 
-" https://github.com/liuchengxu/vim-which-key#introduction
-Plug 'liuchengxu/vim-which-key'
-
 Plug 'ervandew/supertab'
 
 Plug 'tpope/vim-surround'
@@ -242,7 +239,8 @@ else
 
 endif
 
-
+" From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
+:set inccommand=nosplit
 
 "" Disable the blinking cursor.
 set gcr=a:blinkon0
