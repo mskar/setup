@@ -144,6 +144,8 @@ alias v="nvim"
 disable r
 alias r="ranger" # R will start an R interactive session
 alias n="nvim ~/notes/$(date '+%Y-%m-%d').md"
+alias s="git status"
+alias d="git diff"
 # alias python=python3
 # export PATH=/usr/local/bin/python3:$PATH
 export PATH=$HOME/miniconda3/bin:$PATH
