@@ -103,6 +103,24 @@ bash install_miniconda.sh
 ## Install [R Language Support](http://holgerbrandl.github.io/r4intellij/) plugin
 ## Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M/N/P to IDE
 
+## Setup Jupyter Lab
+conda install -yc conda-forge nodejs jupyter
+
+jupyter labextension install @jupyterlab/git
+
+pip install --upgrade jupyterlab-git
+
+jupyter serverextension enable --py jupyterlab_git
+
+jupyter labextension install @jupyterlab/github
+
+pip install jupyterlab_github
+
+jupyter labextension install jupyterlab_vim
+
+## Provide access token to GitHub extension
+## https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
+
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 conda install -yc r rstudio
 
