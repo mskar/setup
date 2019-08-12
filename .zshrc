@@ -107,7 +107,7 @@ POWERLEVEL9K_VI_MODE_NORMAL_BACKGROUND='black'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions brew)
+plugins=(git zsh-autosuggestions brew zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -202,7 +202,6 @@ zle -N zle-keymap-select
 
 export KEYTIMEOUT=1
 
-source .oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
 prompt_context() {}
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
