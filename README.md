@@ -104,7 +104,7 @@ bash install_miniconda.sh
 ## Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M/N/P to IDE
 
 ## Setup Jupyter Lab
-conda install -yc conda-forge nodejs jupyter
+conda install -yc conda-forge nodejs jupyter jupyterlab
 
 jupyter labextension install @jupyterlab/git
 
