@@ -34,8 +34,11 @@ brew install zsh
 
 ## Download dotfiles (configuration files)
 curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 
 # Install terminal tools (e.g. pdftotext)
