@@ -202,7 +202,7 @@ zle -N zle-keymap-select
 
 export KEYTIMEOUT=1
 
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source .oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
 prompt_context() {}
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
