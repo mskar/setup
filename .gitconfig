@@ -1,14 +1,15 @@
     # core {{{
     [core]
-        editor = /usr/bin/vim
+        editor = /usr/local/bin/nvim
         excludesfile = /Users/np/.gitignore_global
         pager=less -x4
+	autocrlf = input
 
     #}}}
     # user {{{
     [user]
-        email = marskar@gmail.com
-        name = Martin Skarzynski
+	email = marskar@gmail.com
+	name = Martin Skarzynski
     #}}}
 
     # color {{{
@@ -51,14 +52,25 @@
     # alias {{{
     [alias]
         # add {{{
-        a = !git add . && git status
+        a = !git add && git status
         aa = !git add . && git add -u . && git status
         ac = !git add . && git commit
         ai = add --interactive
         au = !git add -u . && git status
         #acm = !git add . && git commit -m
         # git acm message without quotes
-        acm = "!f() { git add . && git commit -m \"$(echo $@)\"; }; f";
+        acm = "!f() { git add --all && git commit -m \"$(echo $@)\"; }; f";
+        acam = "!f() { git add --all && git commit --amend -m \"$(echo $@)\"; }; f";
+        cam = "!f() { git commit -am \"$(echo $@)\"; }; f";
+        caam = "!f() { git commit --amend -am \"$(echo $@)\"; }; f";
+        acmp = "!f() { git add --all && git commit -m \"$(echo $@)\" && git push; }; f";
+        acamp = "!f() { git add --all && git commit --amend -m \"$(echo $@)\" && git push; }; f";
+        camp = "!f() { git commit -am \"$(echo $@)\" && git push; }; f";
+        caamp = "!f() { git commit --amend -am \"$(echo $@)\" && git push; }; f";
+        acp = !git add --all && git commit && git push
+        cap = !git commit --all && git push
+        # g = "!f() { git commit -am \"$(echo $@)\" && git push; }; f" "$([ -z \"$(git status --porcelain | grep '^\\s\\?A\\s\\|^AM\\s')\" ] || git status --porcelain | grep '^\\s\\?A\\s\\|^AM\\s' | awk 'BEGIN{print \"Added:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?C\\s')\" ] || git status --porcelain | grep '^\\s\\?C\\s' | awk 'BEGIN{print \"Copied:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?D\\s')\" ] || git status --porcelain | grep '^\\s\\?D\\s' | awk 'BEGIN{print \"Deleted:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?M\\s')\" ] || git status --porcelain | grep '^\\s\\?M\\s' | awk 'BEGIN{print \"Modified:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?R\\s')\" ] || git status --porcelain | grep '^\\s\\?R\\s' | awk 'BEGIN{print \"Renamed:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')";
+        # ga = "!f() { git add --all && git commit -m \"$(echo $@)\" && git push; }; f" "$([ -z \"$(git status --porcelain | grep '^\\s\\?A\\s\\|^AM\\s\\|^??\\s')\" ] || git status --porcelain | grep '^\\s\\?A\\s\\|^AM\\s\\|^??\\s' | awk 'BEGIN{print \"Added:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?C\\s')\" ] || git status --porcelain | grep '^\\s\\?C\\s' | awk 'BEGIN{print \"Copied:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?D\\s')\" ] || git status --porcelain | grep '^\\s\\?D\\s' | awk 'BEGIN{print \"Deleted:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?M\\s')\" ] || git status --porcelain | grep '^\\s\\?M\\s' | awk 'BEGIN{print \"Modified:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?R\\s')\" ] || git status --porcelain | grep '^\\s\\?R\\s' | awk 'BEGIN{print \"Renamed:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')";
         #}}}
         # alias {{{
         # list all aliases
@@ -67,7 +79,8 @@
         #}}}
         # branch {{{
         b = branch
-        bra = branch -ra
+        ba = branch -a
+        br = branch -r
         #}}}
         # checkout {{{
         co = checkout
@@ -84,9 +97,7 @@
         c = commit
         cm = commit -m
         ca = commit --all
-        cam = commit --all -m
         caa = commit --all --amend
-        caam = commit --all --amend -m
         amend = commit --amend --reuse-message=HEAD
         amendm = commit --amend -m
         #}}}
@@ -101,18 +112,28 @@
         diffr  = "!f() { git diff "$1"^.."$1"; }; f"
         #}}}
         # log {{{
-        l = log --pretty=format:\"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]\" --decorate
-        ld = log --pretty=format:\"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]\" --decorate --date=short
+        l = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
+        ln = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
+        ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --stat
+        ld = log --pretty=format:"%C(yellow)%h\\ %C(green)[%ad]%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
+        lr = log --pretty=format:"%C(yellow)%h\\ %C(green)[%ad]%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
         lf = log --name-status --oneline
         lt = log --graph --decorate --pretty=oneline --abbrev-commit
         ll = log --stat --abbrev-commit
         lld = log --stat --abbrev-commit --date=short
         llt = log --graph --decorate --pretty=oneline --abbrev-commit
-        ls = log --pretty=format:"%C(green)%h\\ %C(yellow)[%ad]%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
-        ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
         lc  = "!f() { git ll "$1"^.."$1"; }; f"
         lnc = log --pretty=format:"%h\\ %s\\ [%cn]"
         lu = log -u
+        #}}}
+        # push {{{
+        p = push
+        pf = push --force
+        #}}}
+        # pull {{{
+        u = pull
+        ur = pull --rebase
+        ure = pull --rebase --edit
         #}}}
         # remote commands {{{
         url = remote -v
@@ -129,6 +150,8 @@
         sl = stash list
         sa = stash apply
         ss = stash save
+        spa = !git stash save && git pull && git stash apply
+        spp = !git stash save && git pull && git stash pop
         # }}}
         # status {{{
         s = status
@@ -157,7 +180,7 @@
     [rebase]
       autosquash = true
     [filter "lfs"]
-    	clean = git-lfs clean %f
-    	smudge = git-lfs smudge %f
-    	required = true
-
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+        required = true
+	process = git-lfs filter-process
