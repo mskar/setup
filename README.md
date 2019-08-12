@@ -18,6 +18,8 @@ https://pqrs.org/osx/karabiner/
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
 ##### Change right_command+hjkl to arrow keys (from Examples)
 ##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
+##### Emacs key bindings [control+keys] (rev 10) (from Emacs key bindings (rev 12))
+##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
 
 # Mac Terminal
@@ -29,6 +31,12 @@ brew install neovim
 
 ## Install zsh
 brew install zsh
+
+## Download dotfiles (configuration files)
+curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
+curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 
 # Install terminal tools (e.g. pdftotext)
 brew install xpdf
@@ -62,13 +70,6 @@ brew cask install shiftit
 ## Install flycut
 brew cask install flycut
 
-## Move [.gitconfig](https://raw.githubusercontent.com/py4ds/setup/blob/master/.gitconfig), [.ideavimrc](https://raw.githubusercontent.com/py4ds/setup/blob/master/.ideavimrc), [.pypirc](https://raw.githubusercontent.com/py4ds/setup/blob/master/.pypirc), and [.vimrc](https://raw.githubusercontent.com/py4ds/setup/blob/master/.vimrc) to ~ and change password in `.pypirc`
-
-## Move [init.vim](https://raw.githubusercontent.com/py4ds/setup/blob/master/init.vim) to ~/.config/nvim/ or [generate a new file](https://github.com/avelino/vim-bootstrap#vim-bootstrap)
-mkdir .config/
-
-mkdir .config/nvim
-
 ## Install oh-my-zsh et al.
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
@@ -79,11 +80,9 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 
-## Move [.zshrc](https://raw.githubusercontent.com/py4ds/setup/blob/master/.zshrc) to ~ and restart terminal
-
 # Python and R
 
-## [Install Anaconda](https://www.anaconda.com/distribution/): this includes vs code text editor
+## [Install Anaconda](https://www.anaconda.com/distribution/): this can include the VS code text editor
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o install_miniconda.sh
 bash install_miniconda.sh
 
