@@ -52,7 +52,7 @@
     # alias {{{
     [alias]
         # add {{{
-        a = !git add && git status
+        a = !git add
         aa = !git add . && git add -u . && git status
         ac = !git add . && git commit
         ai = add --interactive
