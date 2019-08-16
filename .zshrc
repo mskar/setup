@@ -143,7 +143,7 @@ export EDITOR='nvim'
 alias v="nvim"
 disable r
 alias r="ranger" # R will start an R interactive session
-alias n="nvim ~/notes/$(date '+%Y-%m-%d').md"
+alias n="f() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; f";
 alias s="git status"
 alias d="git diff"
 # alias python=python3
