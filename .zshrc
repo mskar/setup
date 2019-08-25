@@ -149,6 +149,7 @@ alias h='fc -l'
 alias s="git status"
 alias d="git diff"
 alias gl="git log"
+alias 0="dirs -v"
 # alias python=python3
 # export PATH=/usr/local/bin/python3:$PATH
 export PATH=$HOME/miniconda3/bin:$PATH
