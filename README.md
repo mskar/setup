@@ -21,7 +21,6 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/karabiner.json -o ~/.c
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
 ##### Change right_command+hjkl to arrow keys (from Examples)
 ##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
-##### Emacs key bindings [control+keys] (rev 10) (from Emacs key bindings (rev 12))
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
 # Mac Terminal
