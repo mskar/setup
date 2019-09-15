@@ -141,15 +141,48 @@ export EDITOR='nvim'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias 0="dirs -v"
-alias c="f() { git clone $(echo '$@' '${@#*.*/}'); }; f";
+alias aca="git add --all && git commit --amend --reuse-message=HEAD"
+alias acam="func() { git add --all && git commit --amend -m '$(echo $@)'; }; func";
+alias acamp="func() { git add --all && git commit --amend -m '$(echo $@)' && git push; }; func";
+alias acap="git add --all && git commit --amend --reuse-message=HEAD && git push"
+alias acm="func() { git add --all && git commit -m '$(echo $@)'; }; func";
+alias acmp="func() { git add --all && git commit -m '$(echo $@)' && git push; }; func";
+alias b="git branch"
+alias ba="git branch -a"
+alias br="git branch -r"
+alias c="func() { git clone $(echo '$@' '${@#*.*/}'); }; func";
+alias caa="git commit --amend -a --reuse-message=HEAD"
+alias caam="func() { git commit --amend -am '$(echo $@)'; }; func";
+alias caamp="func() { git commit --amend -am '$(echo $@)' && git push; }; func";
+alias caap="git commit --amend -a --reuse-message=HEAD && git push"
+alias cam="func() { git commit -am '$(echo $@)'; }; func";
+alias camp="func() { git commit -am '$(echo $@)' && git push; }; func";
+alias co="git checkout"
+alias coh="git checkout HEAD"
+alias com="git checkout master"
+alias cp="git cherry-pick"
 alias d="git diff"
-alias gl="git log"
+alias e="func() { nvim $(echo '$(find ./$@ | fzf)'); }; func";
+alias f="func() { cd $(echo '$(find ./$@ | fzf)'); }; func";
 alias h='fc -l'
-alias n="f() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; f";
-alias p="git pull && git push"
+alias l="git log"
+alias n="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
+alias o="func() { open $(echo '$(find ./$@ | fzf)'); }; func";
+alias p="git push"
+alias pf="git push --force"
 alias r="ranger" # R will start an R interactive session
+alias rh="git reset HEAD"
+alias rv="git remote -v"
 alias s="git status"
-alias t="f() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; f";
+alias sa="git stash apply"
+alias sc="git stash clear"
+alias sd="git stash drop"
+alias sl="git stash list"
+alias sp="git stash pop"
+alias spa="git stash save && git pull && git stash apply"
+alias spp="git stash save && git pull && git stash pop"
+alias ss="git stash show"
+alias t="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; func";
 alias u="git pull"
 alias ur="git pull --rebase"
 alias v="nvim"
