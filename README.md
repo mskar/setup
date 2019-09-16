@@ -33,6 +33,10 @@ brew install neovim
 ## Install zsh
 brew install zsh
 
+## Install fzf
+brew install fzf
+$(brew --prefix)/opt/fzf/install
+
 ## Download dotfiles (configuration files)
 curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc
 
@@ -56,14 +60,14 @@ brew cask install font-firacode-nerd-font
 brew cask install iterm2
 
 ## In iterm2, select Fura Code Nerdfont size 18 in Profiles > Text > Change Font and check Use Ligatures
-## In iterm2, select Appearance > Theme: Dark
+## In iterm2, select Appearance > Theme: Minimal
+## In iterm2, select Profiles > Keys: Both option keys to Esc+
 
 ## Install java and JDK to stop the the JDK popups
 brew cask install java
 
 ## Install chrome and vivaldi browsers (firefox already installed)
 brew cask install google-chrome
-brew cask install vivaldi
 
 ## Install keycastr
 brew cask install keycastr
