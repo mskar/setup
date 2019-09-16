@@ -142,27 +142,18 @@ export EDITOR='nvim'
 
 alias 0="dirs -v"
 alias aca="git add --all && git commit --amend --reuse-message=HEAD"
-alias acam="func() { git add --all && git commit --amend -m '$(echo $@)'; }; func";
-alias acamp="func() { git add --all && git commit --amend -m '$(echo $@)' && git push; }; func";
 alias acap="git add --all && git commit --amend --reuse-message=HEAD && git push"
-alias acm="func() { git add --all && git commit -m '$(echo $@)'; }; func";
-alias acmp="func() { git add --all && git commit -m '$(echo $@)' && git push; }; func";
 alias b="git branch"
 alias ba="git branch -a"
 alias br="git branch -r"
 alias c="func() { git clone $(echo '$@' '${@#*.*/}'); }; func";
 alias caa="git commit --amend -a --reuse-message=HEAD"
-alias caam="func() { git commit --amend -am '$(echo $@)'; }; func";
-alias caamp="func() { git commit --amend -am '$(echo $@)' && git push; }; func";
 alias caap="git commit --amend -a --reuse-message=HEAD && git push"
-alias cam="func() { git commit -am '$(echo $@)'; }; func";
-alias camp="func() { git commit -am '$(echo $@)' && git push; }; func";
 alias co="git checkout"
 alias coh="git checkout HEAD"
 alias com="git checkout master"
-alias cp="git cherry-pick"
 alias d="git diff"
-alias e="func() { nvim $(echo '$(find ./$@ | fzf)'); }; func";
+alias e="func() { nvim [ -z $(echo '$(find ./$@ | fzf)') ]; }; func";
 alias f="func() { cd $(echo '$(find ./$@ | fzf)'); }; func";
 alias h='fc -l'
 alias l="git log"
