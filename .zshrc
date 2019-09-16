@@ -146,14 +146,14 @@ alias acap="git add --all && git commit --amend --reuse-message=HEAD && git push
 alias b="git branch"
 alias ba="git branch -a"
 alias br="git branch -r"
-alias c="func() { git clone $(echo '$@' '${@#*.*/}'); }; func";
+alias c="func() { git clone $(echo '$@ ${@#*.*/}'); }; func";
 alias caa="git commit --amend -a --reuse-message=HEAD"
 alias caap="git commit --amend -a --reuse-message=HEAD && git push"
 alias co="git checkout"
 alias coh="git checkout HEAD"
 alias com="git checkout master"
 alias d="git diff"
-alias e="func() { nvim [ -z $(echo '$(find ./$@ | fzf)') ]; }; func";
+alias e="func() { nvim $(echo '$(find ./$@ | fzf)'); }; func";
 alias f="func() { cd $(echo '$(find ./$@ -type d | fzf)'); }; func";
 alias h='fc -l'
 alias l="git log"
