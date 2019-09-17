@@ -1,3 +1,11 @@
+# Why Mac?
+## Modifier keys
+### The Command key is used for MacOS keyboard shortcuts, limiting conflicts with Unix shortcuts that use Alt/Option or Control.
+### The best option would be to install Linux on a Mac and configure the modifier keys (Cmd/Alt/Ctrl) to work like in MacOS, but who has time for that?
+## Longevity
+### Macs are built to last. I am writing this in 2019 on a 2014 MacBook Air. No PC has ever lasted this long in my experience.
+## MacOS
+### MacOS is UNIX-based, unlike the Windows, though the Windows Subsystem for Linux
 # Mac System Preferences
 ## In System Preferences > Keyboard > Keyboard:
 ### Key Repeat: Fast

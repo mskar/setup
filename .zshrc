@@ -158,7 +158,7 @@ alias f="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$
 alias h='fc -l'
 alias l="git log"
 alias n="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
-alias o="func() { open $(echo '$(find ./$@ | fzf)'); }; func";
+alias o="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && open $(echo '$filename'); }; func";
 alias p="git push"
 alias pf="git push --force"
 alias r="ranger" # R will start an R interactive session
