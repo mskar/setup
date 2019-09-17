@@ -153,8 +153,8 @@ alias co="git checkout"
 alias coh="git checkout HEAD"
 alias com="git checkout master"
 alias d="git diff"
-alias e="func() { nvim $(echo '$(find ./$@ -type f | fzf)'); }; func";
-alias f="func() { cd $(echo '$(find ./$@ -type d | fzf)'); }; func";
+alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
+alias f="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$directory'); }; func";
 alias h='fc -l'
 alias l="git log"
 alias n="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
