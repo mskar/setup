@@ -185,14 +185,12 @@ alias t="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; func";
 alias u="git pull"
 alias ur="git pull --rebase"
 alias v="nvim"
-disable r
 # alias python=python3
 # export PATH=/usr/local/bin/python3:$PATH
 export PATH=$HOME/miniconda3/bin:$PATH
 # export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 # taken from https://dougblack.io/words/zsh-vi-mode.html
 bindkey -v
-
 bindkey '^P' up-history
 bindkey '^N' down-history
 bindkey '^?' backward-delete-char
