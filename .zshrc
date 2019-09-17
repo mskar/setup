@@ -168,8 +168,8 @@ alias f="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$
 alias g="func() { nvim $(echo '$(grep -l $@ * | tr "\n" " ")'); }; func";
 alias h='fc -l'
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
-alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn] %Cred%d' --decorate --date=short"
-alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn] %Cred%d' --decorate --date=relative"
+alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
+alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias n="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
 alias o="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && open $(echo '$filename'); }; func";
 alias p="git push"
