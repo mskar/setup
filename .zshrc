@@ -141,12 +141,14 @@ export EDITOR='nvim'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias 0="dirs -v"
+alias a="git add"
 alias aca="git add --all && git commit --amend --reuse-message=HEAD"
 alias acam="func() { message=$(echo '$@') && git add --all && git commit --amend -m $(echo '$message'); }; func"
 alias acamp="func() { message=$(echo '$@') && git add --all && git commit --amend -m $(echo '$message') && git push; }; func"
 alias acap="git add --all && git commit --amend --reuse-message=HEAD && git push"
 alias acm="func() { message=$(echo '$@') && git add --all && git commit -m $(echo '$message'); }; func"
 alias acmp="func() { message=$(echo '$@') && git add --all && git commit -m $(echo '$message') && git push; }; func"
+alias ai="git add --interactive"
 alias b="git branch"
 alias ba="git branch -a"
 alias br="git branch -r"
@@ -165,11 +167,14 @@ alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '
 alias f="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$directory'); }; func";
 alias g="func() { nvim $(echo '$(grep -l $@ * | tr "\n" " ")'); }; func";
 alias h='fc -l'
-alias l="git log"
+alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
+alias l="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn] %Cred%d' --decorate --date=short"
+alias l="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn] %Cred%d' --decorate --date=relative"
 alias n="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
 alias o="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && open $(echo '$filename'); }; func";
 alias p="git push"
 alias pf="git push --force"
+alias pom="git push origin master"
 alias r="ranger" # R will start an R interactive session
 alias rh="git reset HEAD"
 alias rv="git remote -v"
