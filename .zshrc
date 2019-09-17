@@ -163,6 +163,7 @@ alias com="git checkout master"
 alias d="git diff"
 alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
 alias f="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$directory'); }; func";
+alias g="func() { nvim $(echo '$(grep -l $@ * | tr "\n" " ")'); }; func";
 alias h='fc -l'
 alias l="git log"
 alias n="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
