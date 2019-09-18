@@ -166,7 +166,8 @@ alias d="git diff"
 alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
 alias f="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$directory'); }; func";
 alias g="func() { nvim $(echo '$(grep -l $@ * | tr "\n" " ")'); }; func";
-alias h='fc -l'
+alias h='history'
+alias j='jupyter lab'
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
