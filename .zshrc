@@ -167,11 +167,11 @@ alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '
 alias f="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$directory'); }; func";
 alias g="func() { nvim $(echo '$(grep -l $@ * | tr "\n" " ")'); }; func";
 alias h='history'
-alias j='jupyter lab'
+alias j="func() { notebook=$(echo '$(find ./$@ -type f -name "*.ipynb" | fzf)') && jupyter lab $(echo '$notebook'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
-alias n="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
+alias n="func() { mkdir -p ~/notes && nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
 alias o="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && open $(echo '$filename'); }; func";
 alias p="git push"
 alias pf="git push --force"
@@ -188,7 +188,7 @@ alias sp="git stash pop"
 alias spa="git stash save && git pull && git stash apply"
 alias spp="git stash save && git pull && git stash pop"
 alias ss="git stash show"
-alias t="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; func";
+alias t="func() { mkdir -p ~/notes && nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; func";
 alias u="git pull"
 alias ur="git pull --rebase"
 alias v="nvim"
