@@ -191,36 +191,37 @@ alias t="func() { nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; func";
 alias u="git pull"
 alias ur="git pull --rebase"
 alias v="nvim"
-# alias python=python3
+
+# brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
+# miniconda python
 export PATH=$HOME/miniconda3/bin:$PATH
-# export PATH="/usr/local/opt/python/libexec/bin:$PATH"
-# taken from https://dougblack.io/words/zsh-vi-mode.html
-bindkey -v
-bindkey '^P' up-history
-bindkey '^N' down-history
-bindkey '^?' backward-delete-char
-bindkey '^h' backward-delete-char
-bindkey '^w' backward-kill-word
-bindkey '^u' backward-kill-line
-bindkey '^d' delete-char
-bindkey '^k' kill-line
-bindkey '^a' beginning-of-line
-bindkey '^e' end-of-line
-bindkey '^f' forward-char
-bindkey '^b' backward-char
-bindkey '^_' undo
-bindkey '^y' yank
-bindkey '\ey' yank-pop
-bindkey '\ef' forward-word
+
+bindkey '\e.' insert-last-word
 bindkey '\eb' backward-word
 bindkey '\ed' delete-word
-bindkey '\e.' insert-last-word
+bindkey '\ef' forward-word
+bindkey '\el' down-case-word
 bindkey '\et' transpose-words
 bindkey '\eu' up-case-word
-bindkey '\el' down-case-word
+bindkey '\ey' yank-pop
+bindkey '^?' backward-delete-char
+bindkey '^n' down-history
+bindkey '^p' up-history
+bindkey '^_' undo
+bindkey '^a' beginning-of-line
+bindkey '^b' backward-char
+bindkey '^d' delete-char
+bindkey '^e' end-of-line
+bindkey '^f' forward-char
+bindkey '^h' backward-delete-char
+bindkey '^k' kill-line
+bindkey '^u' backward-kill-line
+bindkey '^w' backward-kill-word
+bindkey '^y' yank
+bindkey -v
 
-# bindkey '^r' history-incremental-search-backward
+# the above is modified from https://dougblack.io/words/zsh-vi-mode.html
 
 # taken from https://emily.st/2013/05/03/zsh-vi-cursor/
 function zle-keymap-select zle-line-init
