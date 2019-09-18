@@ -198,6 +198,7 @@ alias v="nvim"
 # miniconda python
 export PATH=$HOME/miniconda3/bin:$PATH
 
+bindkey -v
 bindkey '\e.' insert-last-word
 bindkey '\eb' backward-word
 bindkey '\ed' delete-word
@@ -220,7 +221,6 @@ bindkey '^k' kill-line
 bindkey '^u' backward-kill-line
 bindkey '^w' backward-kill-word
 bindkey '^y' yank
-bindkey -v
 
 # the above is modified from https://dougblack.io/words/zsh-vi-mode.html
 
