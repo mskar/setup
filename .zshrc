@@ -161,6 +161,8 @@ alias cam="func() { message=$(echo '$@') && git commit -am $(echo '$message'); }
 alias camp="func() { message=$(echo '$@') && git commit -am $(echo '$message') && git push; }; func"
 alias cf="func() { git clean -f; }; func";
 alias cfd="func() { git clean -fd; }; func";
+alias cn="func() { git clean -n; }; func";
+alias cnd="func() { git clean -nd; }; func";
 alias co="git checkout"
 alias coh1="git checkout HEAD^"
 alias coh="git checkout HEAD"
