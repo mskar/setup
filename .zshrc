@@ -169,10 +169,15 @@ alias coh="git checkout HEAD"
 alias com="git checkout master"
 alias d="git diff"
 alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
-alias f="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$directory'); }; func";
+alias f="func() { for $(echo '$1') in $(echo '$2'); do; $(echo '$3'); done; }; func";
 alias g="func() { nvim $(echo '$(grep -l $@ * | tr "\n" " ")'); }; func";
 alias h='history'
-alias j="func() { notebook=$(echo '$(find ./$@ -type f -name "*.ipynb" | fzf)') && jupyter lab $(echo '$notebook'); }; func";
+alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
+alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
+alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
+alias j="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$directory'); }; func";
+alias jl="func() { notebook=$(echo '$(find ./$@ -type f -name "*.ipynb" | fzf)') && jupyter lab $(echo '$notebook'); }; func";
+alias jn="func() { notebook=$(echo '$(find ./$@ -type f -name "*.ipynb" | fzf)') && jupyter notebook $(echo '$notebook'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
