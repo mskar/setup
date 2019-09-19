@@ -173,6 +173,7 @@ alias f="func() { for $(echo '$1') in $(echo '$2'); do; $(echo '$3'); done; }; f
 alias g="func() { nvim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
 alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
+alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { directory=$(echo '$(find ./$@ -type d | fzf)') && cd $(echo '$directory'); }; func";
