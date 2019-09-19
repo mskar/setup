@@ -152,7 +152,7 @@ alias ai="git add --interactive"
 alias b="git branch"
 alias ba="git branch -a"
 alias br="git branch -r"
-alias c="func() { git clone $(echo '$@ ${@#*.*/}'); }; func";
+alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); }; func";
 alias caa="git commit --amend -a --reuse-message=HEAD"
 alias caam="func() { message=$(echo '$@') && git commit --amend -am $(echo '$message'); }; func"
 alias caamp="func() { message=$(echo '$@') && git commit --amend -am $(echo '$message') && git push; }; func"
@@ -170,7 +170,7 @@ alias com="git checkout master"
 alias d="git diff"
 alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
 alias f="func() { for $(echo '$1') in $(echo '$2'); do; $(echo '$3'); done; }; func";
-alias g="func() { nvim $(echo '$(grep -l $@ * | tr "\n" " ")'); }; func";
+alias g="func() { nvim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
 alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
@@ -181,7 +181,8 @@ alias jn="func() { notebook=$(echo '$(find ./$@ -type f -name "*.ipynb" | fzf)')
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
-alias n="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
+alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
+alias n="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias o="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && open $(echo '$filename'); }; func";
 alias p="git push"
 alias pf="git push --force"
@@ -201,7 +202,7 @@ alias sp="git stash pop"
 alias spa="git stash save && git pull && git stash apply"
 alias spp="git stash save && git pull && git stash pop"
 alias ss="git stash show"
-alias t="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; func";
+alias t="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
