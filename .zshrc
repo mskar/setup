@@ -159,6 +159,8 @@ alias caamp="func() { message=$(echo '$@') && git commit --amend -am $(echo '$me
 alias caap="git commit --amend -a --reuse-message=HEAD && git push"
 alias cam="func() { message=$(echo '$@') && git commit -am $(echo '$message'); }; func"
 alias camp="func() { message=$(echo '$@') && git commit -am $(echo '$message') && git push; }; func"
+alias cf="func() { git clean -f; }; func";
+alias cfd="func() { git clean -fd; }; func";
 alias co="git checkout"
 alias coh1="git checkout HEAD^"
 alias coh="git checkout HEAD"
@@ -172,7 +174,7 @@ alias j="func() { notebook=$(echo '$(find ./$@ -type f -name "*.ipynb" | fzf)') 
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
-alias n="func() { mkdir -p ~/notes && nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
+alias n="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').md; }; func";
 alias o="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && open $(echo '$filename'); }; func";
 alias p="git push"
 alias pf="git push --force"
@@ -192,7 +194,7 @@ alias sp="git stash pop"
 alias spa="git stash save && git pull && git stash apply"
 alias spp="git stash save && git pull && git stash pop"
 alias ss="git stash show"
-alias t="func() { mkdir -p ~/notes && nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; func";
+alias t="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$@').tsv; }; func";
 alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
