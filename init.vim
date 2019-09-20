@@ -1,4 +1,4 @@
-" vim-bootstrap b0a75e4
+" vim-bootstrap
 
 "*****************************************************************************
 "" Vim-PLug core
@@ -15,7 +15,7 @@ if !filereadable(vimplug_exists)
   endif
   echo "Installing Vim-Plug..."
   echo ""
-  silent !\curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+  silent exec "!\curl -fLo " . vimplug_exists . " --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim"
   let g:not_finish_vimplug = "yes"
 
   autocmd VimEnter * PlugInstall
@@ -27,61 +27,23 @@ call plug#begin(expand('~/.config/nvim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
-" the main R plugin providing RStudio-esque features
-" autocompletion for R: https://github.com/gaalcaras/ncm-R
-Plug 'ncm2/ncm2'
-Plug 'roxma/nvim-yarp'
-Plug 'jalvesaq/Nvim-R'
-Plug 'gaalcaras/ncm-R'
-
-" Vim 8 only
-if !has('nvim')
-    Plug 'roxma/vim-hug-neovim-rpc'
-endif
-
-" Optional: for snippet support
-" Further configuration might be required, read below
-Plug 'sirver/UltiSnips'
-Plug 'ncm2/ncm2-ultisnips'
-
-" NOTE: you need to install completion sources to get completions. Check
-" our wiki page for a list of sources: https://github.com/ncm2/ncm2/wiki
-Plug 'ncm2/ncm2-bufword'
-Plug 'ncm2/ncm2-tmux'
-Plug 'ncm2/ncm2-path'
-
-" R setup: https://kadekillary.work/post/nvim-r/
-" R setup: https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
-" For Rmarkdown syntax
-Plug 'vim-pandoc/vim-rmarkdown'
-Plug 'vim-pandoc/vim-pandoc'
-Plug 'vim-pandoc/vim-pandoc-syntax'
-" From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
-Plug 'machakann/vim-highlightedyank'
-
-Plug 'ervandew/supertab'
-
-Plug 'tpope/vim-surround'
-Plug 'tpope/vim-repeat'
-Plug 'tpope/vim-unimpaired'
-Plug 'tpope/vim-commentary'
-Plug 'tpope/vim-fugitive'
-
 Plug 'scrooloose/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
+Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'airblade/vim-gitgutter'
 Plug 'vim-scripts/grep.vim'
 Plug 'vim-scripts/CSApprox'
-Plug 'bronson/vim-trailing-whitespace'
 Plug 'Raimondi/delimitMate'
 Plug 'majutsushi/tagbar'
-Plug 'scrooloose/syntastic'
+Plug 'w0rp/ale'
 Plug 'Yggdroot/indentLine'
-Plug 'godlygeek/tabular'
+Plug 'avelino/vim-bootstrap-updater'
 Plug 'sheerun/vim-polyglot'
-Plug 'junegunn/vim-peekaboo'
+Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
+
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
 else
@@ -98,14 +60,12 @@ Plug 'Shougo/vimproc.vim', {'do': g:make}
 Plug 'xolox/vim-misc'
 Plug 'xolox/vim-session'
 
-if v:version >= 703
-  Plug 'Shougo/vimshell.vim'
-endif
-
+"" Snippets
+Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 
 "" Color
-Plug 'dracula/vim'
+Plug 'tomasr/molokai'
 
 "*****************************************************************************
 "" Custom bundles
@@ -127,6 +87,9 @@ endif
 
 call plug#end()
 
+" Required:
+filetype plugin indent on
+
 
 "*****************************************************************************
 "" Basic Setup
@@ -139,7 +102,7 @@ set fileencodings=utf-8
 "" Fix backspace indent
 set backspace=indent,eol,start
 
-"" Tabs. May be overriten by autocmd rules
+"" Tabs. May be overridden by autocmd rules
 set tabstop=4
 set softtabstop=0
 set shiftwidth=4
@@ -202,7 +165,10 @@ else
   let g:indentLine_char = '┆'
   let g:indentLine_faster = 1
 
+
 endif
+
+
 
 "" Disable the blinking cursor.
 set gcr=a:blinkon0
@@ -232,8 +198,8 @@ endif
 
 " vim-airline
 let g:airline_theme = 'powerlineish'
-let g:airline#extensions#syntastic#enabled = 1
 let g:airline#extensions#branch#enabled = 1
+let g:airline#extensions#ale#enabled = 1
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tagbar#enabled = 1
 let g:airline_skip_empty_sections = 1
@@ -273,6 +239,7 @@ let Grep_Skip_Dirs = '.git node_modules'
 
 " terminal emulation
 nnoremap <silent> <leader>sh :terminal<CR>
+
 
 "*****************************************************************************
 "" Commands
@@ -430,13 +397,12 @@ noremap <Leader>ga :Gwrite<CR>
 noremap <leader>gc :Gwrite<bar>Gcommit<CR>
 noremap <Leader>gp :Gpush<CR>
 noremap <Leader>gu :Gpull<CR>
-noremap <Leader>gl :Glog<CR>
 noremap <Leader>gs :Gstatus<CR>
 noremap <Leader>gb :Gblame<CR>
 noremap <Leader>gd :Gvdiff<CR>
 noremap <Leader>gr :Gremove<CR>
+noremap <Leader>gl :Glog<CR>
 noremap <Leader>gg :Gwrite<CR>:Gcommit -m "working on %"<CR>:Gpush<CR>
-
 
 " session management
 nnoremap <leader>so :OpenSession<Space>
@@ -522,14 +488,8 @@ let g:UltiSnipsJumpForwardTrigger="<tab>"
 let g:UltiSnipsJumpBackwardTrigger="<c-b>"
 let g:UltiSnipsEditSplit="vertical"
 
-" syntastic
-let g:syntastic_always_populate_loc_list=1
-let g:syntastic_error_symbol='✗'
-let g:syntastic_warning_symbol='⚠'
-let g:syntastic_style_error_symbol = '✗'
-let g:syntastic_style_warning_symbol = '⚠'
-let g:syntastic_auto_loc_list=1
-let g:syntastic_aggregate_errors = 1
+" ale
+let g:ale_linters = {}
 
 " Tagbar
 nmap <silent> <F4> :TagbarToggle<CR>
@@ -641,8 +601,6 @@ endif
 "*****************************************************************************
 "" Convenience variables
 "*****************************************************************************
-
-let g:airline_powerline_fonts = 1
 
 " vim-airline
 if !exists('g:airline_symbols')

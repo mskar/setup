@@ -186,7 +186,8 @@ alias la="ls -a"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
-alias n="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias n="nvim"
+alias nd="nvim -d"
 alias o="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && open $(echo '$filename'); }; func";
 alias p="git push"
 alias pf="git push --force"
@@ -211,7 +212,9 @@ alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="nvim"
+alias v="vim"
+alias vd="vimdiff"
+alias w="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
