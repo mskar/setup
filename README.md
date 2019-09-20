@@ -14,93 +14,76 @@
 ## Remove most icons from Dock
 ## Drag and Drop Documents from Finder to the Dock in between Applications and Download
 ## 2-finger click on Dock and Turn Dock Hiding On
-## Add Home to to Finder sidebar
+## Add Home to Finder sidebar
 ## Under General > Appearance select 'Use Dark menu bar and Dock' and 'Automatically hide and show the menu bar'
 
+## Install Homebrew (this also installs xcode tools needed for git)
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 # Karabiner
-## Install Karabiner-Elements from homepage dmg
-https://pqrs.org/osx/karabiner/
-#### Could also try `brew cask install karabiner-elements` if version is the same
-
-## Download dotfile (configuration file)
+## Install Karabiner-Elements from homepage dmg https://pqrs.org/osx/karabiner/
+brew cask install karabiner-elements
+## Download karabiner dotfile (configuration file)
 curl https://raw.githubusercontent.com/py4ds/setup/master/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
-
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
 ##### Change right_command+hjkl to arrow keys (from Examples)
 ##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
-# Mac Terminal
-## Install homebrew (this also installs xcode tools needed for git)
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-## Install neovim
-brew install neovim
-
-## Install zsh
-brew install zsh
-
-## Install fzf
-brew install fzf
-$(brew --prefix)/opt/fzf/install
-
-## Download dotfiles (configuration files)
-curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc
-
-curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
-
-curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
-
-curl https://raw.githubusercontent.com/py4ds/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
-
-# Install terminal tools (e.g. pdftotext)
-brew install xpdf
-
 ## Install Fira Code Nerdfont
-brew tap caskroom/fonts
-
-brew cask install font-firacode-nerd-font
-
-## In terminal, set Default background to black, text to white, and select Fura Code Nerdfont size 18
+brew tap caskroom/fonts && brew cask install font-firacode-nerd-font
+## In terminal, under Profiles > Text: Set background to black, set text to white, and select Fura Code Nerdfont size 18
 
 ## Install iterm2
 brew cask install iterm2
-
-## In iterm2, select Fura Code Nerdfont size 18 in Profiles > Text > Change Font and check Use Ligatures
 ## In iterm2, select Appearance > Theme: Minimal
 ## In iterm2, select Profiles > Keys: Both option keys to Esc+
+## In iterm2, select Fura Code Nerdfont size 18 in Profiles > Text > Change Font and check Use Ligatures
 
-## Install java and JDK to stop the the JDK popups
-brew cask install java
+## Install oh-my-zsh et al.
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+### When prompted to change shell, enter Y
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc && source ~/.zshrc
 
-## Install chrome and vivaldi browsers (firefox already installed)
-brew cask install google-chrome
+## Install fzf
+brew install fzf && $(brew --prefix)/opt/fzf/install
 
-## Install keycastr
-brew cask install keycastr
+## TODO: set up bash and vim before installing zsh and neovim
+## TODO: transfer all gitconfig aliases to bashrc and zshrc
+## TODO: what does vim depend on (e.g. python, ctags)?
+## Download and source dotfiles (configuration files)
+curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
+curl https://raw.githubusercontent.com/py4ds/setup/master/.vimrc -o ~/.vimrc && source ~/.vimrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/.vimrc.local.bundles -o ~/.vimrc.local.bundles
 
-## Install shiftit
-brew cask install shiftit
+## Install neovim
+brew install neovim
+curl https://raw.githubusercontent.com/py4ds/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs && source ~/.config/nvim/init.vim
+## TODO: what does neovim depend on?
+brew install ctags
+pip install flake8 jedi
+pip install neovim
 
 ## Install flycut
 brew cask install flycut
 
-## Install oh-my-zsh et al.
+## Install shiftit
+brew cask install shiftit
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# Install terminal tools (e.g. pdftotext)
+brew install xpdf
 
-git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
-
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+## Install keycastr
+brew cask install keycastr
 
 # Python and R
 
 ## [Install Anaconda](https://www.anaconda.com/distribution/): this can include the VS code text editor
-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o install_miniconda.sh
-bash install_miniconda.sh
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o install_miniconda.sh && bash install_miniconda.sh
 
 # Install PyCharm: no command line installer (only on Ubuntu using snap)
 ## Select MacOS X 10.5+ Keymap and add Hide All Tool Windows shortcut: Cmd+0 and Save As...: Cmd+Shift+S
@@ -113,34 +96,25 @@ bash install_miniconda.sh
 ## Install [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport) plugin
 ## Install [R Language Support](http://holgerbrandl.github.io/r4intellij/) plugin
 ## Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M/N/P to IDE
+curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
+
+## Install java and JDK to stop the the JDK popups
+brew cask install java
 
 ## Setup Jupyter Lab
 conda install -yc conda-forge nodejs jupyter jupyterlab
-
 jupyter labextension install @jupyterlab/git
-
 pip install --upgrade jupyterlab-git
-
 jupyter serverextension enable --py jupyterlab_git
-
 jupyter labextension install @jupyterlab/github
-
 pip install jupyterlab_github
-
 jupyter labextension install jupyterlab_vim
-
 ## Provide access token to GitHub extension
 ## https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 conda install -yc r rstudio
-
-## Copy rstudio `user-settings` file to `~/.rstudio-desktop/monitored/user-settings`
-## Copy rstudio shortcuts (`rstudio_bindings.json` & `editor_bindings.json`) to `~/.R/rstudio/keybindings/`
-
-## Neovim setup
-brew install ctags
-
-pip install flake8 jedi
-
-pip3 install neovim
+## TODO: Are these the latest rstudio config filenames?
+curl https://raw.githubusercontent.com/py4ds/setup/master/user-settings -o ~/.rstudio-desktop/monitored/user-settings
+curl https://raw.githubusercontent.com/py4ds/setup/master/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json
+curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json
