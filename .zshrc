@@ -184,6 +184,7 @@ alias jl="func() { notebook=$(echo '$(find ./$@ -type f -name "*.ipynb" | fzf)')
 alias jn="func() { notebook=$(echo '$(find ./$@ -type f -name "*.ipynb" | fzf)') && jupyter notebook $(echo '$notebook'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
+alias la="ls -a"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
