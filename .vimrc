@@ -1,4 +1,4 @@
-" vim-bootstrap 
+" vim-bootstrap (https://vim-bootstrap.com)
 
 "*****************************************************************************
 "" Vim-PLug core
@@ -474,23 +474,23 @@ if has('macunix')
   vmap <C-c> :w !pbcopy<CR><CR>
 endif
 
-"" Buffer nav (for when unimpaired is broken)
-nnoremap [B :bfirst<CR>
-nnoremap [b :bprevious<CR>
-nnoremap ]B :blast<CR>
-nnoremap ]b :bnext<CR>
+"" Buffer nav (for when unimpaired is not loaded)
+" nnoremap [B :bfirst<CR>
+" nnoremap [b :bprevious<CR>
+" nnoremap ]B :blast<CR>
+" nnoremap ]b :bnext<CR>
 
 "" Close buffer
-noremap <leader>c :bd<CR>
+" noremap <leader>c :bd<CR>
 
 "" Clean search (highlight)
 nnoremap <silent> <leader><leader> :noh<cr>
 
 "" Switching windows
-noremap <C-j> <C-w>j
-noremap <C-k> <C-w>k
-noremap <C-l> <C-w>l
-noremap <C-h> <C-w>h
+" noremap <C-j> <C-w>j
+" noremap <C-k> <C-w>k
+" noremap <C-l> <C-w>l
+" noremap <C-h> <C-w>h
 
 "" Vmap for maintain Visual Mode after shifting > and <
 vmap < <gv
@@ -589,119 +589,3 @@ else
   let g:airline_symbols.linenr = ''
 endif
 
-" vim bootstrap (https://vim-bootstrap.com) ends here
-
-highlight Normal ctermfg=white ctermbg=black
-
-" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
-set timeoutlen=10 ttimeoutlen=1
-
-"" Directories for swp files
-set nobackup
-set noswapfile
-
-" https://vim.fandom.com/wiki/Change_cursor_shape_in_different_modes
-let &t_SI.="\e[5 q" "SI = start INSERT mode
-let &t_SR.="\e[4 q" "SR = start REPLACE mode
-let &t_EI.="\e[1 q" "EI = end insert mode NORMAL mode (ELSE)
-
-" Share system clipboard ("+) and unnamed ("") registers
-" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
-" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
-set clipboard=unnamed
-if has('unnamedplus')
-  set clipboard=unnamed,unnamedplus
-endif
-set go+=a
-"Include some of the neovim defaults, others below
-set autoindent
-set belloff=all
-set complete=.,w,b,u,t,i
-set display+=lastline
-set formatoptions=tcqj
-set history=10000
-set tabpagemax=50
-
-" Show partially typed commands in the statusline
-set showcmd
-
-" (In times of great desperation) allow use of the mouse
-set mouse=a
-
-" Don't try to be backwards compatible with vi
-set nocompatible
-
-" Copied from https://github.com/mcantor/no_plugins
-
-" FINDING FILES:
-
-" Search down into subfolders
-" Provides tab-completion for all file-related tasks
-set path+=**
-
-" Display all matching files when we tab complete
-set wildmenu
-
-" NOW WE CAN:
-" - Hit tab to :find by partial match
-" - Use * to make it fuzzy
-
-" THINGS TO CONSIDER:
-" - :b lets you autocomplete any open buffer
-" AUTOCOMPLETE:
-
-" The good stuff is documented in |ins-completion|
-
-" HIGHLIGHTS:
-" - ^x^n for JUST this file
-" - ^x^f for filenames (works with our path trick!)
-" - ^x^] for tags only
-" - ^n for anything specified by the 'complete' option
-
-" NOW WE CAN:
-" - Use ^n and ^p to go back and forth in the suggestion list
-
-" FILE BROWSING:
-
-" Tweaks for browsing
-let g:netrw_banner=0        " disable annoying banner
-let g:netrw_browse_split=4  " open in prior window
-let g:netrw_altv=1          " open splits to the right
-let g:netrw_liststyle=3     " tree view
-let g:netrw_list_hide=netrw_gitignore#Hide()
-let g:netrw_list_hide.=',\(^\|\s\s\)\zs\.\S\+'
-
-" NOW WE CAN:
-" - :edit a folder to open a file browser
-" - <CR>/v/t to open in an h-split/v-split/tab
-" - check |netrw-browse-maps| for more mappings
-
-" Copied from https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim
-" Really great explanation of many things below: https://dougblack.io/words/a-good-vimrc.html
-
-" Don't redraw while executing macros (good performance config)
-set lazyredraw 
-
-" For regular expressions turn magic on
-" set magic
-
-" Show matching brackets when text indicator is over them
-set showmatch 
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Text, tab and indent related
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Be smart when using tabs ;)
-set smarttab
-
-" Linebreak on 500 characters
-set lbr
-set tw=500
-
-set smartindent "Smart indent
-set wrap "Wrap lines
-
-" taken from https://gist.github.com/millermedeiros/1262085
-" --- performance / buffer ---
-set hidden                  " can put buffer to the background without writing to disk, will remember history/marks.
-set ttyfast                 " Send more characters at a given time.
