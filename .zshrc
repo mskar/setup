@@ -31,13 +31,14 @@ POWERLEVEL9K_VCS_MODIFIED_BACKGROUND='09'
 
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(vi_mode)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir time background_jobs ram virtualenv anaconda battery)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir date time background_jobs ram virtualenv anaconda battery)
 
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 
 #POWERLEVEL9K_CUSTOM_TIME_FORMAT="%D{\uf017 %H:%M:%S}"
-POWERLEVEL9K_TIME_FORMAT="%D{\uf017 %H:%M \uf073 %d.%m.%y}"
+POWERLEVEL9K_DATE_FORMAT="%D{%Y-%m-%d}"
+POWERLEVEL9K_TIME_FORMAT="%D{%H:%M:%S}"
 
 POWERLEVEL9K_STATUS_VERBOSE=false
 #https://github.com/bhilburn/powerlevel9k
@@ -107,7 +108,7 @@ POWERLEVEL9K_VI_MODE_NORMAL_BACKGROUND='black'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions brew zsh-syntax-highlighting)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
