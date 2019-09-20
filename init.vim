@@ -722,3 +722,9 @@ else
 endif
 
 highlight Normal ctermfg=white ctermbg=black
+
+" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
+set timeoutlen=10 ttimeoutlen=1
+
+" https://github.com/neovim/neovim/wiki/FAQ#how-to-change-cursor-shape-in-the-terminal
+set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50
