@@ -30,14 +30,12 @@ POWERLEVEL9K_VCS_MODIFIED_BACKGROUND='09'
 #POWERLEVEL9K_VCS_UNTRACKED_ICON='?'
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(vi_mode)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir date time background_jobs ram virtualenv anaconda battery)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir time background_jobs ram virtualenv anaconda battery)
 
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 
-#POWERLEVEL9K_CUSTOM_TIME_FORMAT="%D{\uf017 %H:%M:%S}"
-POWERLEVEL9K_DATE_FORMAT="%D{%Y-%m-%d}"
-POWERLEVEL9K_TIME_FORMAT="%D{%H:%M:%S}"
+POWERLEVEL9K_TIME_FORMAT="%D{%Y-%m-%d \uf073 %H:%M \uf017}"
 
 POWERLEVEL9K_STATUS_VERBOSE=false
 #https://github.com/bhilburn/powerlevel9k
