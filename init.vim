@@ -3,10 +3,6 @@
 "*****************************************************************************
 "" Vim-PLug core
 "*****************************************************************************
-if has('vim_starting')
-  set nocompatible               " Be iMproved
-endif
-
 let vimplug_exists=expand('~/.config/nvim/autoload/plug.vim')
 
 let g:vim_bootstrap_langs = "python"
@@ -131,29 +127,6 @@ endif
 
 call plug#end()
 
-" enable ncm2 for all buffers
-autocmd BufEnter * call ncm2#enable_for_buffer()
-
-" IMPORTANTE: :help Ncm2PopupOpen for more information
-set completeopt=noinsert,menuone
-
-" au User Ncm2PopupOpen set completeopt=noinsert,menuone
-" au User Ncm2PopupClose set completeopt=menuone
-
-" Press enter key to trigger snippet expansion
-" The parameters are the same as `:help feedkeys()`
-inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
-
-" c-j c-k for moving in snippet
-" let g:UltiSnipsExpandTrigger		= "<Plug>(ultisnips_expand)"
-let g:UltiSnipsJumpForwardTrigger	= "<c-j>"
-let g:UltiSnipsJumpBackwardTrigger	= "<c-k>"
-let g:UltiSnipsRemoveSelectModeMappings = 0
-
-
-" Required:
-filetype plugin indent on
-
 
 "*****************************************************************************
 "" Basic Setup
@@ -162,9 +135,6 @@ filetype plugin indent on
 set encoding=utf-8
 set fileencoding=utf-8
 set fileencodings=utf-8
-set bomb
-set binary
-
 
 "" Fix backspace indent
 set backspace=indent,eol,start
@@ -187,10 +157,6 @@ set incsearch
 set ignorecase
 set smartcase
 
-"" Directories for swp files
-set nobackup
-set noswapfile
-
 set fileformats=unix,dos,mac
 
 if exists('$SHELL')
@@ -211,13 +177,11 @@ let g:session_command_aliases = 1
 syntax on
 set ruler
 set number relativenumber
-" set cursorline
 
 let no_buffers_menu=1
 if !exists('g:not_finish_vimplug')
   colorscheme dracula
 endif
-highlight Normal ctermfg=white ctermbg=black
 
 set mousemodel=popup
 set t_Co=256
@@ -239,9 +203,6 @@ else
   let g:indentLine_faster = 1
 
 endif
-
-" From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
-:set inccommand=nosplit
 
 "" Disable the blinking cursor.
 set gcr=a:blinkon0
@@ -277,7 +238,6 @@ let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tagbar#enabled = 1
 let g:airline_skip_empty_sections = 1
 
-let g:SuperTabDefaultCompletionType = "<c-n>"
 "*****************************************************************************
 "" Abbreviations
 "*****************************************************************************
@@ -311,16 +271,14 @@ let Grep_Default_Options = '-IR'
 let Grep_Skip_Files = '*.log *.db'
 let Grep_Skip_Dirs = '.git node_modules'
 
-" vimshell.vim
-let g:vimshell_user_prompt = 'fnamemodify(getcwd(), ":~")'
-let g:vimshell_prompt =  '$ '
-
 " terminal emulation
-if g:vim_bootstrap_editor == 'nvim'
-  nnoremap <silent> <leader>sh :terminal<CR>
-else
-  nnoremap <silent> <leader>sh :VimShellCreate<CR>
-endif
+nnoremap <silent> <leader>sh :terminal<CR>
+
+"*****************************************************************************
+"" Commands
+"*****************************************************************************
+" remove trailing whitespaces
+command! FixWhitespace :%s/\s\+$//e
 
 "*****************************************************************************
 "" Functions
@@ -651,8 +609,9 @@ let g:jedi#show_call_signatures = "0"
 let g:jedi#completions_command = "<C-Space>"
 let g:jedi#smart_auto_mappings = 0
 
-" syntastic
-let g:syntastic_python_checkers=['python', 'flake8']
+" ale
+:call extend(g:ale_linters, {
+    \'python': ['flake8'], })
 
 " vim-airline
 let g:airline#extensions#virtualenv#enabled = 1
@@ -721,6 +680,8 @@ else
   let g:airline_symbols.linenr = ''
 endif
 
+" vim bootstrap (https://vim-bootstrap.com) ends here
+
 highlight Normal ctermfg=white ctermbg=black
 
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
@@ -728,3 +689,34 @@ set timeoutlen=10 ttimeoutlen=1
 
 " https://github.com/neovim/neovim/wiki/FAQ#how-to-change-cursor-shape-in-the-terminal
 set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50
+
+" enable ncm2 for all buffers
+autocmd BufEnter * call ncm2#enable_for_buffer()
+
+" IMPORTANTE: :help Ncm2PopupOpen for more information
+set completeopt=noinsert,menuone
+
+" au User Ncm2PopupOpen set completeopt=noinsert,menuone
+" au User Ncm2PopupClose set completeopt=menuone
+
+" Press enter key to trigger snippet expansion
+" The parameters are the same as `:help feedkeys()`
+inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
+
+" c-j c-k for moving in snippet
+" let g:UltiSnipsExpandTrigger		= "<Plug>(ultisnips_expand)"
+let g:UltiSnipsJumpForwardTrigger	= "<c-j>"
+let g:UltiSnipsJumpBackwardTrigger	= "<c-k>"
+let g:UltiSnipsRemoveSelectModeMappings = 0
+
+
+" Required:
+filetype plugin indent on
+
+"" Directories for swp files
+set nobackup
+set noswapfile
+
+" From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
+:set inccommand=nosplit
+let g:SuperTabDefaultCompletionType = "<c-n>"
