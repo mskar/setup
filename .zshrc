@@ -29,7 +29,6 @@ POWERLEVEL9K_VCS_UNTRACKED_FOREGROUND='black'
 POWERLEVEL9K_VCS_MODIFIED_BACKGROUND='09'
 #POWERLEVEL9K_VCS_UNTRACKED_ICON='?'
 
-
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(vi_mode)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir date time background_jobs ram virtualenv anaconda battery)
 
@@ -144,22 +143,22 @@ export EDITOR='nvim'
 alias 0="dirs -v"
 alias a="git add"
 alias aca="git add --all && git commit --amend --reuse-message=HEAD"
-alias acam="func() { message=$(echo '$@') && git add --all && git commit --amend -m $(echo '$message'); }; func"
-alias acamp="func() { message=$(echo '$@') && git add --all && git commit --amend -m $(echo '$message') && git push; }; func"
+alias acam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit --amend -m $(echo '$message'); }; func"
+alias acamp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit --amend -m $(echo '$message') && git push; }; func"
 alias acap="git add --all && git commit --amend --reuse-message=HEAD && git push"
-alias acm="func() { message=$(echo '$@') && git add --all && git commit -m $(echo '$message'); }; func"
-alias acmp="func() { message=$(echo '$@') && git add --all && git commit -m $(echo '$message') && git push; }; func"
+alias acm="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit -m $(echo '$message'); }; func"
+alias acmp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit -m $(echo '$message') && git push; }; func"
 alias ai="git add --interactive"
 alias b="git branch"
 alias ba="git branch -a"
 alias br="git branch -r"
 alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); }; func";
 alias caa="git commit --amend -a --reuse-message=HEAD"
-alias caam="func() { message=$(echo '$@') && git commit --amend -am $(echo '$message'); }; func"
-alias caamp="func() { message=$(echo '$@') && git commit --amend -am $(echo '$message') && git push; }; func"
+alias caam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit --amend -am $(echo '$message'); }; func"
+alias caamp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit --amend -am $(echo '$message') && git push; }; func"
 alias caap="git commit --amend -a --reuse-message=HEAD && git push"
-alias cam="func() { message=$(echo '$@') && git commit -am $(echo '$message'); }; func"
-alias camp="func() { message=$(echo '$@') && git commit -am $(echo '$message') && git push; }; func"
+alias cam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -am $(echo '$message'); }; func"
+alias camp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -am $(echo '$message') && git push; }; func"
 alias cf="func() { git clean -f; }; func";
 alias cfd="func() { git clean -fd; }; func";
 alias cn="func() { git clean -n; }; func";
@@ -169,6 +168,8 @@ alias coh1="git checkout HEAD^"
 alias coh="git checkout HEAD"
 alias com="git checkout master"
 alias d="git diff"
+alias dh1="git diff HEAD^"
+alias dh="git diff HEAD"
 alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
 alias f="func() { for $(echo '$1') in $(echo '$2'); do; $(echo '$3'); done; }; func";
 alias g="func() { nvim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
