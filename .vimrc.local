@@ -112,3 +112,7 @@ set ttyfast                 " Send more characters at a given time.
 
 " Show partially typed commands in the statusline
 set showcmd
+
+if !exists('##TextYankPost')
+  map y <Plug>(highlightedyank)
+endif
