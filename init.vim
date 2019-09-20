@@ -517,10 +517,10 @@ if has('macunix')
 endif
 
 "" Buffer nav
-" noremap <leader>z :bp<CR>
-" noremap <leader>q :bp<CR>
-" noremap <leader>x :bn<CR>
-" noremap <leader>w :bn<CR>
+noremap [B :bfirst<CR>
+noremap [b :bprevious<CR>
+noremap ]B :blast<CR>
+noremap ]b :bnext<CR>
 
 "" Close buffer
 " noremap <leader>c :bd<CR>
