@@ -65,8 +65,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim && source ~/.config/nvim/init.vim
 ## TODO: what do vim and neovim depend on?
 brew install ctags
-pip install flake8 jedi
-pip install neovim
+pip install flake8 jedi neovim
 
 ## Install flycut
 brew cask install flycut
@@ -78,25 +77,31 @@ brew cask install shiftit
 brew install xpdf
 
 ## Install keycastr
-brew cask install keycastr
+# brew cask install keycastr
 
 # Python and R
 
 ## [Install Anaconda](https://www.anaconda.com/distribution/): this can include the VS code text editor
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o install_miniconda.sh && bash install_miniconda.sh
 
-# Install PyCharm: no command line installer (only on Ubuntu using snap)
-## Select MacOS X 10.5+ Keymap and add Hide All Tool Windows shortcut: Cmd+0 and Save As...: Cmd+Shift+S
-## In Appearance & Behavior > Appearance, Use Dark Window headers and select Fura Code Nerd Font size 18
-## In Editor > Font, select Fura Code Nerd Font size 18 and Enable font ligatures
-## Check Change font size (Zoom) with Command+Mouse Wheel in Editor > General
-## Check Show Whitespace in Editor > General > Appearance
-## If you use the Deep Ocean Editor theme from the [Material UI](https://www.material-theme.com/) plugin, change docstring color to [`30B000`](https://www.beautycolorcode.com/30b000)
-## Install [IdeaVim](https://github.com/JetBrains/ideavim) plugin
-## Install [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport) plugin
-## Install [R Language Support](http://holgerbrandl.github.io/r4intellij/) plugin
-## Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M/N/P to IDE
+## Install PyCharm (on Ubuntu use snap)
+brew cask install pycharm
 curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
+## Sync settings from https://github.com/marskar/PyCharm
+## Under File > Settings Repository..., select Overwrite Local
+
+### Settings
+### Select MacOS X 10.5+ Keymap and add Hide All Tool Windows shortcut: Cmd+0 and Save As...: Cmd+Shift+S
+### In Appearance & Behavior > Appearance, Use Dark Window headers and select Fura Code Nerd Font size 18
+### In Editor > Font, select Fura Code Nerd Font size 18 and Enable font ligatures
+### Check Change font size (Zoom) with Command+Mouse Wheel in Editor > General
+### Check Show Whitespace in Editor > General > Appearance
+### If you use the Deep Ocean Editor theme from the [Material UI](https://www.material-theme.com/) plugin, change docstring color to [`30B000`](https://www.beautycolorcode.com/30b000)
+### Install [IdeaVim](https://github.com/JetBrains/ideavim) plugin
+### Install [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport) plugin
+### Install [Markdown](https://plugins.jetbrains.com/plugin/7793-markdown/) plugin
+### Install [R Language Support](http://holgerbrandl.github.io/r4intellij/) plugin
+### Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M to IDE
 
 ## Install java and JDK to stop the the JDK popups
 brew cask install java
@@ -106,15 +111,14 @@ conda install -yc conda-forge nodejs jupyter jupyterlab
 jupyter labextension install @jupyterlab/git
 pip install --upgrade jupyterlab-git
 jupyter serverextension enable --py jupyterlab_git
-jupyter labextension install @jupyterlab/github
-pip install jupyterlab_github
 jupyter labextension install jupyterlab_vim
+# jupyter labextension install @jupyterlab/github
+# pip install jupyterlab_github
 ## Provide access token to GitHub extension
 ## https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 conda install -yc r rstudio
-## TODO: Are these the latest rstudio config filenames?
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json
