@@ -143,7 +143,7 @@ alias a="git add"
 alias aca="git add --all && git commit --amend --reuse-message=HEAD"
 alias acam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit --amend -m $(echo '$message'); }; func"
 alias acamp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit --amend -m $(echo '$message') && git push; }; func"
-alias acap="git add --all && git commit --amend --reuse-message=HEAD && git push"
+alias acap="git add --all && git commit --amend --reuse-message=HEAD && git push --force"
 alias acm="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit -m $(echo '$message'); }; func"
 alias acmp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit -m $(echo '$message') && git push; }; func"
 alias ai="git add --interactive"
@@ -154,7 +154,7 @@ alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); };
 alias caa="git commit --amend -a --reuse-message=HEAD"
 alias caam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit --amend -am $(echo '$message'); }; func"
 alias caamp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit --amend -am $(echo '$message') && git push; }; func"
-alias caap="git commit --amend -a --reuse-message=HEAD && git push"
+alias caap="git commit --amend -a --reuse-message=HEAD && git push --force"
 alias cam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -am $(echo '$message'); }; func"
 alias camp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -am $(echo '$message') && git push; }; func"
 alias cf="func() { git clean -f; }; func";
@@ -169,8 +169,17 @@ alias d="git diff"
 alias dh1="git diff HEAD^"
 alias dh="git diff HEAD"
 alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
+alias ea="func() { nvim $(echo '$(find ./$@ -type f | tr "\n" " ")'); }; func";
+alias ed="func() { nvim -d $(echo '$(find ./$@ -type f | tr "\n" " ")'); }; func";
+alias eva="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && vim $(echo '$filename'); }; func";
+alias evd="func() { vimdiff $(echo '$(find ./$@ -type f | tr "\n" " ")'); }; func";
 alias f="func() { for $(echo '$1') in $(echo '$2'); do; $(echo '$3'); done; }; func";
-alias g="func() { nvim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
+alias g="func() { filename=$(echo '$(grep -lr $@ * | fzf)') && nvim $(echo '$filename'); }; func";
+alias ga="func() { nvim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
+alias gd="func() { nvim -d $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
+alias gv="func() { filename=$(echo '$(grep -lr $@ * | fzf)') && vim $(echo '$filename'); }; func";
+alias gva="func() { vim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
+alias gvd="func() { vimdiff $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
 alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
@@ -208,6 +217,7 @@ alias spa="git stash save && git pull && git stash apply"
 alias spp="git stash save && git pull && git stash pop"
 alias ss="git stash show"
 alias t="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
+alias tv="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; vim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
@@ -215,6 +225,7 @@ alias urum="git pull --rebase upstream master"
 alias v="/usr/local/bin/vim"
 alias vd="/usr/local/bin/vimdiff"
 alias w="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias wv="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; vim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH

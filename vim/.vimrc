@@ -303,49 +303,6 @@ set autoread
 "" Mappings
 "*****************************************************************************
 
-" Emacs and bash style insert mode shortcuts
-" Delete one character forward; the opposite of <C-h>
-inoremap <C-d> <Delete>
-cnoremap <C-d> <Delete>
-" Delete everything forward; the opposite of <C-u>
-" Can't find a way to do this in command mode
-inoremap <C-k> <C-o>D
-" Move to end of the line; already exists in command mode: c_ctrl-e
-inoremap <C-e> <End>
-" Move to start of the line; like in vim command mode: c_ctrl-b
-" To insert previously inserted text use <C-r>.
-inoremap <C-a> <Home>
-cnoremap <C-a> <Home>
-" Move one character forward; <c-f> is too useful to remap for : / ?
-inoremap <C-f> <right>
-cnoremap <C-l> <right>
-" Move one character backward
-inoremap <C-b> <left>
-cnoremap <C-b> <left>
-
-" Alt keys specific to MacOS
-" <a-d> = Delete word forward; opposite of <c-w>
-inoremap <A-d> <C-o>de
-cnoremap <A-d> <S-Right><C-w>
-" <a-k> = Move up; opposite of <a-j>
-inoremap <A-k> <up>
-cnoremap <A-k> <up>
-" <a-j> = Move down; opposite of <a-k>
-inoremap <A-j> <down>
-cnoremap <A-j> <down>
-" <a-f> = Move one word forward; opposite of <a-b>
-inoremap <A-f> <C-o>w
-cnoremap <A-f> <S-Right>
-" <a-b> = Move one word backward; opposite of <a-f>
-inoremap <A-b> <C-o>b
-cnoremap <A-b> <S-Left>
-" <a-u> = Uppercase to word end; opposite of <a-l>
-inoremap <A-u> <C-[>gUeea
-" <a-l> = Lowercase to word end; opposite of <a-u>
-inoremap <A-l> <C-[>gueea
-" <a-t> = Swap current word with previous word
-inoremap <A-t> <C-[>diwbPldepa
-
 "" Split
 " noremap <Leader>h :<C-u>split<CR>
 " noremap <Leader>v :<C-u>vsplit<CR>
@@ -401,44 +358,10 @@ if executable('rg')
 endif
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
-
-" Fuzzy finder (FZF)
-" https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
-nnoremap <silent> <leader>a :Ag<CR>
 nnoremap <silent> <leader>b :Buffers<CR>
-nnoremap <silent> <leader>B :Bcommits<CR>
-nnoremap <silent> <leader>c :Commands<CR>
-nnoremap <silent> <leader>C :Commits<CR>
-nnoremap <silent> <leader>f :Gfiles<CR>
-nnoremap <silent> <leader>F :Files<CR>
-nnoremap <silent> <leader>h :History<CR>
-nnoremap <silent> <leader>H :Helptags<CR>
-nnoremap <silent> <leader>: :History:<CR>
-nnoremap <silent> <leader>/ :History/<CR>
-nnoremap <silent> <leader>? :History?<CR>
-nnoremap <silent> <leader>m :Maps<CR>
-nnoremap <silent> <leader>' :Marks<CR>
-nnoremap <silent> <leader>l :BLines<CR>
-nnoremap <silent> <leader>L :Lines<CR>
-" s is for syntax
-nnoremap <silent> <leader>r :Rg<CR>
-nnoremap <silent> <leader>s :Filetypes<CR>
-nnoremap <silent> <Leader>t :BTags<CR>
-nnoremap <silent> <Leader>T :Tags<CR>
 nnoremap <silent> <leader>z :FZF -m<CR>
-
-" https://github.com/junegunn/fzf.vim#usage
-" Mapping selecting mappings
-nmap <leader><tab> <plug>(fzf-maps-n)
-xmap <leader><tab> <plug>(fzf-maps-x)
-omap <leader><tab> <plug>(fzf-maps-o)
-" Insert mode completion
-imap <c-x><c-k> <plug>(fzf-complete-word)
-imap <c-x><c-f> <plug>(fzf-complete-path)
-imap <c-x><c-j> <plug>(fzf-complete-file-ag)
-imap <c-x><c-l> <plug>(fzf-complete-line)
-" Advanced customization using autoload functions
-inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
+"Recovery commands from history through FZF
+nnoremap <silent> <leader>h :History<CR>
 
 " snippets
 let g:UltiSnipsExpandTrigger="<tab>"
@@ -460,7 +383,6 @@ if has('autocmd')
 endif
 
 "" Copy/Paste/Cut
-set clipboard=unnamed
 if has('unnamedplus')
   set clipboard=unnamed,unnamedplus
 endif
@@ -589,4 +511,3 @@ else
   let g:airline_symbols.readonly = ''
   let g:airline_symbols.linenr = ''
 endif
-
