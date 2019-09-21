@@ -52,18 +52,18 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc && 
 ## Install fzf
 brew install fzf && $(brew --prefix)/opt/fzf/install
 
-## TODO: set up bash and vim before installing zsh and neovim
-## TODO: transfer all gitconfig aliases to bashrc and zshrc
-## TODO: what does vim depend on (e.g. python, ctags)?
 ## Download and source dotfiles (configuration files)
 curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
-curl https://raw.githubusercontent.com/py4ds/setup/master/.vimrc -o ~/.vimrc && source ~/.vimrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/.vimrc.local -o ~/.vimrc.local
 curl https://raw.githubusercontent.com/py4ds/setup/master/.vimrc.local.bundles -o ~/.vimrc.local.bundles
+curl https://raw.githubusercontent.com/py4ds/setup/master/.vimrc -o ~/.vimrc && source ~/.vimrc
 
 ## Install neovim
 brew install neovim
-curl https://raw.githubusercontent.com/py4ds/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs && source ~/.config/nvim/init.vim
-## TODO: what does neovim depend on?
+curl https://raw.githubusercontent.com/py4ds/setup/master/init.vim -o ~/.config/nvim/local_init.vim --create-dirs
+curl https://raw.githubusercontent.com/py4ds/setup/master/init.vim -o ~/.config/nvim/local_bundles.vim
+curl https://raw.githubusercontent.com/py4ds/setup/master/init.vim -o ~/.config/nvim/init.vim && source ~/.config/nvim/init.vim
+## TODO: what do vim and neovim depend on?
 brew install ctags
 pip install flake8 jedi
 pip install neovim
