@@ -166,6 +166,8 @@ alias coh1="git checkout HEAD^"
 alias coh="git checkout HEAD"
 alias com="git checkout master"
 alias d="git diff"
+alias dt="git difftool --tool vimdiff"
+alias dtc="git difftool --tool vimdiff --cached" # --staged is a synonym of --cached
 alias dh1="git diff HEAD^"
 alias dh="git diff HEAD"
 alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";

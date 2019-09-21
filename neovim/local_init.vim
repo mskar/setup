@@ -146,28 +146,39 @@ set timeoutlen=1000 ttimeoutlen=10
 set nobackup
 set noswapfile
 
+" (In times of great desperation) allow use of the mouse
+set mouse=a
+
 " https://github.com/neovim/neovim/wiki/FAQ#how-to-change-cursor-shape-in-the-terminal
 set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50
 
-" enable ncm2 for all buffers
-autocmd BufEnter * call ncm2#enable_for_buffer()
+" Share system clipboard ("+) and unnamed ("") registers
+" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
+" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
+set clipboard=unnamed
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
+set go+=a
 
-" IMPORTANT: :help Ncm2PopupOpen for more information
-set completeopt=noinsert,menuone
+" Neovim defaults https://neovim.io/doc/user/vim_diff.html
+" 'autoindent' is enabled
+" 'background' defaults to "dark" (unless set automatically by the terminal/UI)
+" 'belloff' defaults to "all"
+" 'compatible' is always disabled
+" 'complete' excludes "i"
+" 'cscopeverbose' is enabled
+" 'display' defaults to "lastline,msgsep"
+" 'history' defaults to 10000 (the maximum)
+" 'showcmd' is enabled
+" 'sidescroll' defaults to 1
+" 'smarttab' is enabled
+" 'tabpagemax' defaults to 50
+" 'wildmenu' is enabled
+" 'wildoptions' defaults to "pum,tagfile"
 
-" au User Ncm2PopupOpen set completeopt=noinsert,menuone
-" au User Ncm2PopupClose set completeopt=menuone
-
-" Press enter key to trigger snippet expansion
-" The parameters are the same as `:help feedkeys()`
-inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
-
-" c-j c-k for moving in snippet
-" let g:UltiSnipsExpandTrigger		= "<Plug>(ultisnips_expand)"
-let g:UltiSnipsJumpForwardTrigger	= "<c-j>"
-let g:UltiSnipsJumpBackwardTrigger	= "<c-k>"
-let g:UltiSnipsRemoveSelectModeMappings = 0
-
-" From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
-:set inccommand=nosplit
-let g:SuperTabDefaultCompletionType = "<c-n>"
+" Neovim defaults?
+set path+=** " Provides tab-completion for all file-related tasks
+set lazyredraw " Don't redraw while executing macros (good performance config)
+set showmatch " Show matching brackets when text indicator is over them
+set hidden " can put buffer to the background without writing to disk, will remember history/marks.

@@ -1,186 +1,48 @@
-    # core {{{
-    [core]
-        editor = /usr/local/bin/nvim
-        excludesfile = /Users/np/.gitignore_global
-        pager=less -x4
-	autocrlf = input
-
-    #}}}
-    # user {{{
-    [user]
-	email = marskar@gmail.com
-	name = Martin Skarzynski
-    #}}}
-
-    # color {{{
-    [color]
-        branch = auto
-        diff = auto
-        status = auto
-
-    [color "branch"]
-        current = red reverse
-        local = blue
-        remote = green
-
-    [color "diff"]
-        meta = yellow
-        frag = magenta
-        old = red bold
-        new = green
-        plain = white
-
-    [color "status"]
-        added = yellow
-        changed = green
-        untracked = cyan
-
-    # }}}
-    # push/pull/diff/options {{{
-    [push]
-        default = current
-    [pull]
-        default = current
-    [diff]
-        mnemonicprefix = true
-    [branch]
-        autosetuprebase = always
-    [apply]
-        whitespace = nowarn
-
-    #}}}
-    # alias {{{
-    [alias]
-        # add {{{
-        a = !git add
-        aa = !git add . && git add -u . && git status
-        ac = !git add . && git commit
-        ai = add --interactive
-        au = !git add -u . && git status
-        #acm = !git add . && git commit -m
-        # git acm message without quotes
-        acm = "!f() { git add --all && git commit -m \"$(echo $@)\"; }; f";
-        acam = "!f() { git add --all && git commit --amend -m \"$(echo $@)\"; }; f";
-        cam = "!f() { git commit -am \"$(echo $@)\"; }; f";
-        caam = "!f() { git commit --amend -am \"$(echo $@)\"; }; f";
-        acmp = "!f() { git add --all && git commit -m \"$(echo $@)\" && git push; }; f";
-        acamp = "!f() { git add --all && git commit --amend -m \"$(echo $@)\" && git push; }; f";
-        camp = "!f() { git commit -am \"$(echo $@)\" && git push; }; f";
-        caamp = "!f() { git commit --amend -am \"$(echo $@)\" && git push; }; f";
-        acp = !git add --all && git commit && git push
-        cap = !git commit --all && git push
-        # g = "!f() { git commit -am \"$(echo $@)\" && git push; }; f" "$([ -z \"$(git status --porcelain | grep '^\\s\\?A\\s\\|^AM\\s')\" ] || git status --porcelain | grep '^\\s\\?A\\s\\|^AM\\s' | awk 'BEGIN{print \"Added:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?C\\s')\" ] || git status --porcelain | grep '^\\s\\?C\\s' | awk 'BEGIN{print \"Copied:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?D\\s')\" ] || git status --porcelain | grep '^\\s\\?D\\s' | awk 'BEGIN{print \"Deleted:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?M\\s')\" ] || git status --porcelain | grep '^\\s\\?M\\s' | awk 'BEGIN{print \"Modified:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?R\\s')\" ] || git status --porcelain | grep '^\\s\\?R\\s' | awk 'BEGIN{print \"Renamed:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')";
-        # ga = "!f() { git add --all && git commit -m \"$(echo $@)\" && git push; }; f" "$([ -z \"$(git status --porcelain | grep '^\\s\\?A\\s\\|^AM\\s\\|^??\\s')\" ] || git status --porcelain | grep '^\\s\\?A\\s\\|^AM\\s\\|^??\\s' | awk 'BEGIN{print \"Added:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?C\\s')\" ] || git status --porcelain | grep '^\\s\\?C\\s' | awk 'BEGIN{print \"Copied:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?D\\s')\" ] || git status --porcelain | grep '^\\s\\?D\\s' | awk 'BEGIN{print \"Deleted:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?M\\s')\" ] || git status --porcelain | grep '^\\s\\?M\\s' | awk 'BEGIN{print \"Modified:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')" "$([ -z \"$(git status --porcelain | grep '^\\s\\?R\\s')\" ] || git status --porcelain | grep '^\\s\\?R\\s' | awk 'BEGIN{print \"Renamed:\"} {printf \"%s%s\",(NR>1?\", \":\"\"), $2} END{print \"\"}')";
-        #}}}
-        # alias {{{
-        # list all aliases
-        alias = config --get-regexp ^alias\\.
-        aliases = "!git config -l | grep alias | cut -c 7-"
-        #}}}
-        # branch {{{
-        b = branch
-        ba = branch -a
-        br = branch -r
-        #}}}
-        # checkout {{{
-        co = checkout
-        com = checkout master
-        coh = checkout HEAD
-        #}}}
-        # cherry-pick {{{
-        cp = cherry-pick
-        #}}}
-        # clone {{{
-        cloner = clone --recursive
-        #}}}
-        # commit {{{
-        c = commit
-        cm = commit -m
-        ca = commit --all
-        caa = commit --all --amend
-        amend = commit --amend --reuse-message=HEAD
-        amendm = commit --amend -m
-        #}}}
-        # diff {{{
-        d = diff --color-words
-        dh = diff --color-words HEAD^
-        dw = diff --word-diff
-        dc = diff --cached
-        # diff last commit
-        dch = diff --cached HEAD^
-        dr  = "!f() { git diff -w "$1"^.."$1"; }; f"
-        diffr  = "!f() { git diff "$1"^.."$1"; }; f"
-        #}}}
-        # log {{{
-        l = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
-        ln = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
-        ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --stat
-        ld = log --pretty=format:"%C(yellow)%h\\ %C(green)[%ad]%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
-        lr = log --pretty=format:"%C(yellow)%h\\ %C(green)[%ad]%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
-        lf = log --name-status --oneline
-        lt = log --graph --decorate --pretty=oneline --abbrev-commit
-        ll = log --stat --abbrev-commit
-        lld = log --stat --abbrev-commit --date=short
-        llt = log --graph --decorate --pretty=oneline --abbrev-commit
-        lc  = "!f() { git ll "$1"^.."$1"; }; f"
-        lnc = log --pretty=format:"%h\\ %s\\ [%cn]"
-        lu = log -u
-        #}}}
-        # push {{{
-        p = push
-        pf = push --force
-        #}}}
-        # pull {{{
-        u = pull
-        ur = pull --rebase
-        ure = pull --rebase --edit
-        #}}}
-        # remote commands {{{
-        url = remote -v
-        #}}}
-        # reset commands {{{
-        r = reset
-        r1 = reset HEAD^
-        r2 = reset HEAD^^
-        rh = reset --hard
-        rh1 = reset HEAD^ --hard
-        rh2 = reset HEAD^^ --hard
-        # }}}
-        # stash {{{
-        sl = stash list
-        sa = stash apply
-        ss = stash save
-        spa = !git stash save && git pull && git stash apply
-        spp = !git stash save && git pull && git stash pop
-        # }}}
-        # status {{{
-        s = status
-        # }}}
-        # svn (Bidirectional operation between a Subversion repository and Git) {{{
-        svnr = svn rebase
-        svnd = svn dcommit
-        svnl = svn log --oneline --show-commit
-        # }}}
-        # various useful {{{
-        # last tag created
-        lasttag = describe --tags --abbrev=0
-        lt = describe --tags --abbrev=0
-        # conflict/merges
-        ours = "!f() { git co --ours $@ && git add $@; }; f"
-        theirs = "!f() { git co --theirs $@ && git add $@; }; f"
-        #}}}
-
-        # worktree {{{
-        w = worktree
-        wl = worktree list
-        # }}}
-    # }}}
-    [rerere]
-      enabled = false
-    [rebase]
-      autosquash = true
-    [filter "lfs"]
-	clean = git-lfs clean -- %f
-	smudge = git-lfs smudge -- %f
-        required = true
-	process = git-lfs filter-process
+[apply]
+    whitespace = nowarn
+[branch]
+    autosetuprebase = always
+[core]
+    editor = /usr/local/bin/nvim
+    excludesfile = /Users/np/.gitignore_global
+    pager=less -x4
+    autocrlf = input
+[color]
+    branch = auto
+    diff = auto
+    status = auto
+[color "branch"]
+    current = red reverse
+    local = blue
+    remote = green
+[color "diff"]
+    meta = yellow
+    frag = magenta
+    old = red bold
+    new = green
+    plain = white
+[color "status"]
+    added = yellow
+    changed = green
+    untracked = cyan
+[diff]
+	tool = vimdiff
+    mnemonicprefix = true
+[filter "lfs"]
+    clean = git-lfs clean -- %f
+    smudge = git-lfs smudge -- %f
+    required = true
+    process = git-lfs filter-process
+[mergetool "vimdiff"]
+	path = nvim
+[push]
+    default = current
+[pull]
+    default = current
+[rerere]
+    enabled = false
+[rebase]
+    autosquash = true
+[user]
+    email = marskar@gmail.com
+    name = Martin Skarzynski
