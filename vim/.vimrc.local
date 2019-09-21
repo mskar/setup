@@ -85,7 +85,6 @@ au FileType snakemake let Comment="#"
 au FileType snakemake setlocal completeopt=menuone,longest
 au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
-highlight Normal ctermfg=white ctermbg=black
 
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
 set timeoutlen=1000 ttimeoutlen=10
@@ -124,7 +123,6 @@ set sidescroll=1
 set smarttab
 set tabpagemax=50
 set wildmenu " Display all matching files when we tab complete
-set wildoptions="pum,tagfile"
 
 " Neovim defaults?
 set path+=** " Provides tab-completion for all file-related tasks
@@ -135,3 +133,4 @@ set hidden " can put buffer to the background without writing to disk, will reme
 if !exists('##TextYankPost')
   map y <Plug>(highlightedyank)
 endif
+

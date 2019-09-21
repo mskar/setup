@@ -137,8 +137,6 @@ au FileType snakemake let Comment="#"
 au FileType snakemake setlocal completeopt=menuone,longest
 au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
-highlight Normal ctermfg=white ctermbg=black
-
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
 set timeoutlen=1000 ttimeoutlen=10
 
@@ -174,7 +172,6 @@ set go+=a
 " 'smarttab' is enabled
 " 'tabpagemax' defaults to 50
 " 'wildmenu' is enabled
-" 'wildoptions' defaults to "pum,tagfile"
 
 " Neovim defaults?
 set path+=** " Provides tab-completion for all file-related tasks
