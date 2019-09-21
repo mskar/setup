@@ -212,8 +212,8 @@ alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="vim"
-alias vd="vimdiff"
+alias v="/usr/local/bin/vim"
+alias vd="/usr/local/bin/vimdiff"
 alias w="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 
 # brew installed python
