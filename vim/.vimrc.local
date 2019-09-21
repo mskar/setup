@@ -118,7 +118,6 @@ set belloff=all
 set nocompatible
 set complete=.,w,b,u,t
 set cscopeverbose
-set display=lastline,msgsep
 set history=10000
 set showcmd " Show partially typed commands in the statusline
 set sidescroll=1

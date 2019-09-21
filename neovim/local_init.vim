@@ -168,7 +168,6 @@ set go+=a
 " 'compatible' is always disabled
 " 'complete' excludes "i"
 " 'cscopeverbose' is enabled
-" 'display' defaults to "lastline,msgsep"
 " 'history' defaults to 10000 (the maximum)
 " 'showcmd' is enabled
 " 'sidescroll' defaults to 1
