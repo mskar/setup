@@ -502,6 +502,7 @@ if has('autocmd')
 endif
 
 "" Copy/Paste/Cut
+set clipboard=unnamed
 if has('unnamedplus')
   set clipboard=unnamed,unnamedplus
 endif
