@@ -352,9 +352,9 @@ inoremap <A-t> <C-[>diwbPldepa
 
 "" Git
 noremap <Leader>ga :Gwrite<CR>
-noremap <Leader>gc :Gcommit<CR>
-noremap <Leader>gsh :Gpush<CR>
-noremap <Leader>gll :Gpull<CR>
+noremap <leader>gc :Gwrite<bar>Gcommit<CR>
+noremap <Leader>gp :Gpush<CR>
+noremap <Leader>gu :Gpull<CR>
 noremap <Leader>gs :Gstatus<CR>
 noremap <Leader>gb :Gblame<CR>
 noremap <Leader>gd :Gvdiff<CR>
