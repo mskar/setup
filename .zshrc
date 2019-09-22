@@ -259,6 +259,23 @@ bindkey '^y' yank
 
 # the above is modified from https://dougblack.io/words/zsh-vi-mode.html
 
+# ctrl-d in normalmode brings up info about the thing under the caret!!!
+
+# https://www.youtube.com/watch?v=eLEo4OQ-cuQ
+# Use vim keys in tab complete menu:
+bindkey -M menuselect 'h' vi-backward-char
+bindkey -M menuselect 'k' vi-up-line-or-history
+bindkey -M menuselect 'l' vi-forward-char
+bindkey -M menuselect 'j' vi-down-line-or-history
+
+# https://nuclearsquid.com/writings/edit-long-commands/
+# Enable Ctrl-x-e to edit command line
+autoload -U edit-command-line; zle -N edit-command-line
+# Emacs style
+bindkey '^x^e' edit-command-line
+# Vi style:
+# bindkey -M vicmd v edit-command-line
+
 # taken from https://emily.st/2013/05/03/zsh-vi-cursor/
 function zle-keymap-select zle-line-init
 {
@@ -284,5 +301,6 @@ zle -N zle-keymap-select
 export KEYTIMEOUT=1
 
 prompt_context() {}
+
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
