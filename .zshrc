@@ -219,14 +219,14 @@ alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="vim"
-alias vd="vimdiff"
-alias vf="func() { vim $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
-alias vff="func() { filename=$(echo '$(find $@ -type f -not -path "*.git*" | fzf)') && vim $(echo '$filename'); }; func";
-alias vg="func() { vim $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias vgf="func() { filename=$(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf)') && vim $(echo '$filename'); }; func";
-alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; vim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
-alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; vim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
+alias v="/usr/local/bin/vim"
+alias vd="/usr/local/bin/vimdiff"
+alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
+alias vff="func() { filename=$(echo '$(find $@ -type f -not -path "*.git*" | fzf)') && v $(echo '$filename'); }; func";
+alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
+alias vgf="func() { filename=$(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf)') && v $(echo '$filename'); }; func";
+alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
