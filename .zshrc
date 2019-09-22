@@ -157,10 +157,10 @@ alias caamp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else
 alias caap="git commit --amend -a --reuse-message=HEAD && git push --force"
 alias cam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -am $(echo '$message'); }; func"
 alias camp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -am $(echo '$message') && git push; }; func"
-alias cf="func() { git clean -f; }; func";
-alias cfd="func() { git clean -fd; }; func";
-alias cn="func() { git clean -n; }; func";
-alias cnd="func() { git clean -nd; }; func";
+alias cf="git clean -f"
+alias cfd="git clean -fd"
+alias cn="git clean -n"
+alias cnd="git clean -nd"
 alias co="git checkout"
 alias coh1="git checkout HEAD^"
 alias coh="git checkout HEAD"
