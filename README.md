@@ -32,11 +32,12 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/karabiner.json -o ~/.c
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
 ## Install Fira Code Nerdfont
-brew tap caskroom/fonts && brew cask install font-firacode-nerd-font
+brew cask install caskroom/fonts/font-firacode-nerd-font
 ## In terminal, under Profiles > Text: Set background to black, set text to white, and select Fura Code Nerdfont size 18
 
 ## Install iterm2
 brew cask install iterm2
+curl https://raw.githubusercontent.com/py4ds/setup/master/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
 ## In iterm2, select Appearance > Theme: Minimal
 ## In iterm2, select Profiles > Keys: Both option keys to Esc+
 ## In iterm2, select Profiles > Terminal, Under Notifications, Silence bell
