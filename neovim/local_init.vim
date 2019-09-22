@@ -178,3 +178,5 @@ set path+=** " Provides tab-completion for all file-related tasks
 set lazyredraw " Don't redraw while executing macros (good performance config)
 set showmatch " Show matching brackets when text indicator is over them
 set hidden " can put buffer to the background without writing to disk, will remember history/marks.
+
+highlight Normal ctermfg=white ctermbg=black

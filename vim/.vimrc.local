@@ -134,3 +134,4 @@ if !exists('##TextYankPost')
   map y <Plug>(highlightedyank)
 endif
 
+highlight Normal ctermfg=white ctermbg=black

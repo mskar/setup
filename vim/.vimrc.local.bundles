@@ -55,4 +55,4 @@ if v:version >= 703
 endif
 
 "" Color
-Plug 'dracula/vim'
+" Plug 'dracula/vim', { 'as': 'dracula' }

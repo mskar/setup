@@ -143,7 +143,7 @@ set ruler
 set number relativenumber
 
 let no_buffers_menu=1
-silent! colorscheme dracula
+silent! colorscheme molokai
 
 set mousemodel=popup
 set t_Co=256
@@ -499,5 +499,3 @@ else
   let g:airline_symbols.readonly = ''
   let g:airline_symbols.linenr = ''
 endif
-
-highlight Normal ctermfg=white ctermbg=black
