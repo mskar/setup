@@ -166,22 +166,14 @@ alias coh1="git checkout HEAD^"
 alias coh="git checkout HEAD"
 alias com="git checkout master"
 alias d="git diff"
+alias dc="git diff --cached" # --staged is a synonym of --cached
 alias dt="git difftool --tool vimdiff"
 alias dtc="git difftool --tool vimdiff --cached" # --staged is a synonym of --cached
 alias dh1="git diff HEAD^"
 alias dh="git diff HEAD"
-alias e="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
-alias ea="func() { nvim $(echo '$(find ./$@ -type f | tr "\n" " ")'); }; func";
-alias ed="func() { nvim -d $(echo '$(find ./$@ -type f | tr "\n" " ")'); }; func";
-alias eva="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && vim $(echo '$filename'); }; func";
-alias evd="func() { vimdiff $(echo '$(find ./$@ -type f | tr "\n" " ")'); }; func";
+alias e="export"
 alias f="func() { for $(echo '$1') in $(echo '$2'); do; $(echo '$3'); done; }; func";
-alias g="func() { filename=$(echo '$(grep -lr $@ * | fzf)') && nvim $(echo '$filename'); }; func";
-alias ga="func() { nvim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
-alias gd="func() { nvim -d $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
-alias gv="func() { filename=$(echo '$(grep -lr $@ * | fzf)') && vim $(echo '$filename'); }; func";
-alias gva="func() { vim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
-alias gvd="func() { vimdiff $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
+alias g="grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn}";
 alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
@@ -199,6 +191,12 @@ alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
 alias n="nvim"
 alias nd="nvim -d"
+alias nf="func() { nvim $(echo '$(find ./$@ -type f | tr "\n" " ")'); }; func";
+alias nff="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && nvim $(echo '$filename'); }; func";
+alias ng="func() { nvim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
+alias ngf="func() { filename=$(echo '$(grep -lr $@ * | fzf)') && nvim $(echo '$filename'); }; func";
+alias nn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && open $(echo '$filename'); }; func";
 alias p="git push"
 alias pf="git push --force"
@@ -218,16 +216,19 @@ alias sp="git stash pop"
 alias spa="git stash save && git pull && git stash apply"
 alias spp="git stash save && git pull && git stash pop"
 alias ss="git stash show"
-alias t="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
-alias tv="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; vim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
+alias t="tree"
 alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="/usr/local/bin/vim"
-alias vd="/usr/local/bin/vimdiff"
-alias w="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
-alias wv="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; vim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias v="vim"
+alias vd="vimdiff"
+alias vf="func() { vim $(echo '$(find ./$@ -type f | tr "\n" " ")'); }; func";
+alias vff="func() { filename=$(echo '$(find ./$@ -type f | fzf)') && vim $(echo '$filename'); }; func";
+alias vg="func() { vim $(echo '$(grep -lr $@ * | tr "\n" " ")'); }; func";
+alias vgf="func() { filename=$(echo '$(grep -lr $@ * | fzf)') && vim $(echo '$filename'); }; func";
+alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; vim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; vim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH

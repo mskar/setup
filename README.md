@@ -39,6 +39,7 @@ brew tap caskroom/fonts && brew cask install font-firacode-nerd-font
 brew cask install iterm2
 ## In iterm2, select Appearance > Theme: Minimal
 ## In iterm2, select Profiles > Keys: Both option keys to Esc+
+## In iterm2, select Profiles > Terminal, Under Notifications, Silence bell
 ## In iterm2, select Fura Code Nerdfont size 18 in Profiles > Text > Change Font and check Use Ligatures
 
 ## Install oh-my-zsh et al.
@@ -51,6 +52,9 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc && 
 
 ## Install fzf
 brew install fzf && $(brew --prefix)/opt/fzf/install
+
+## Install tree
+brew install tree
 
 ## Download and source dotfiles (configuration files)
 curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
@@ -122,3 +126,14 @@ conda install -yc r rstudio
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json
+
+## Install Visual Studio Code
+brew cask install visual-studio-code
+curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User
+curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User
+code --install-extension ms-python.python
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension vscodevim.vim
+
+# Set up calendar
+
