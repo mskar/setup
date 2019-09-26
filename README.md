@@ -38,6 +38,7 @@ brew cask install caskroom/fonts/font-firacode-nerd-font
 ## Install iterm2
 brew cask install iterm2
 curl https://raw.githubusercontent.com/py4ds/setup/master/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
+## In iterm2, select General > Preferences: Select load preferences from a local folder or URL
 ## In iterm2, select Appearance > Theme: Minimal
 ## In iterm2, select Profiles > Keys: Both option keys to Esc+
 ## In iterm2, select Profiles > Terminal, Under Notifications, Silence bell
@@ -62,6 +63,15 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitco
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local.bundles -o ~/.vimrc.local.bundles
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc && source ~/.vimrc
+
+## Or clone the github repo and copy the dotfiles to the right places
+git clone https://github.com/py4ds/setup ~/py4ds/setup
+cp ~/py4ds/setup/.zshrc ~
+cp ~/py4ds/setup/.ideavimrc ~
+cp ~/py4ds/setup/com.googlecode.iterm2.plist ~
+cp ~/py4ds/setup/vim/.vimrc* ~
+mkdir -p ~/.config/nvim/ && cp ~/py4ds/setup/neovim/*.vim ~/.config/nvim/
+mkdir -p ~/.config/karabiner/ && cp ~/py4ds/setup/karabiner.json ~/.config/karabiner/
 
 ## Install neovim
 brew install neovim
@@ -136,5 +146,6 @@ code --install-extension ms-python.python
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension vscodevim.vim
 
-# Set up calendar
+# Install inkscape (to create vector art)
+brew install caskformula/caskformula/inkscape
 
