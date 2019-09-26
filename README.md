@@ -146,6 +146,7 @@ code --install-extension ms-python.python
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension vscodevim.vim
 
-# Install inkscape (to create vector art)
-brew install caskformula/caskformula/inkscape
+# Install inkscape (to create vector art, e.g. logos)
+brew cask install xquartz
+brew cask install inkscape
 
