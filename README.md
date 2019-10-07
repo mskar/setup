@@ -37,6 +37,7 @@ brew cask install caskroom/fonts/font-firacode-nerd-font
 
 ## Install iterm2
 brew cask install iterm2
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
 ## In iterm2, select General > Preferences: Select load preferences from a local folder or URL
 ## In iterm2, select Appearance > Theme: Minimal
@@ -47,9 +48,13 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/com.googlecode.iterm2.
 ## Install oh-my-zsh et al.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ### When prompted to change shell, enter Y
+
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
+
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
+
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc && source ~/.zshrc
 
 ## Install fzf
@@ -60,26 +65,40 @@ brew install tree
 
 ## Download and source dotfiles (configuration files)
 curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local.bundles -o ~/.vimrc.local.bundles
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc && source ~/.vimrc
 
 ## Or clone the github repo and copy the dotfiles to the right places
 git clone https://github.com/py4ds/setup ~/py4ds/setup
+
 cp ~/py4ds/setup/.zshrc ~
+
 cp ~/py4ds/setup/.ideavimrc ~
+
 cp ~/py4ds/setup/com.googlecode.iterm2.plist ~
+
 cp ~/py4ds/setup/vim/.vimrc* ~
+
 mkdir -p ~/.config/nvim/ && cp ~/py4ds/setup/neovim/*.vim ~/.config/nvim/
+
 mkdir -p ~/.config/karabiner/ && cp ~/py4ds/setup/karabiner.json ~/.config/karabiner/
 
 ## Install neovim
 brew install neovim
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/local_init.vim --create-dirs
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/local_bundles.vim
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim && source ~/.config/nvim/init.vim
+
 ## TODO: what do vim and neovim depend on?
 brew install ctags
+
 pip install flake8 jedi neovim
 
 ## Install flycut
@@ -101,6 +120,7 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o i
 
 ## Install PyCharm (on Ubuntu use snap)
 brew cask install pycharm
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
 ## Sync settings from https://github.com/marskar/PyCharm
 ## Under File > Settings Repository..., select Overwrite Local
@@ -123,9 +143,13 @@ brew cask install java
 
 ## Setup Jupyter Lab
 conda install -yc conda-forge nodejs jupyter jupyterlab
+
 jupyter labextension install @jupyterlab/git
+
 pip install --upgrade jupyterlab-git
+
 jupyter serverextension enable --py jupyterlab_git
+
 jupyter labextension install jupyterlab_vim
 # jupyter labextension install @jupyterlab/github
 # pip install jupyterlab_github
@@ -134,19 +158,28 @@ jupyter labextension install jupyterlab_vim
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 conda install -yc r rstudio
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json
 
 ## Install Visual Studio Code
 brew cask install visual-studio-code
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User
+
 code --install-extension ms-python.python
+
 code --install-extension ms-vsliveshare.vsliveshare
+
 code --install-extension vscodevim.vim
 
 # Install inkscape (to create vector art, e.g. logos)
 brew cask install xquartz
+
 brew cask install inkscape
 
