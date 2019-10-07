@@ -7,8 +7,12 @@
 # Install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - Activate Windows Subsystem for Linux via the Windows Features GUI
 
+# Install Hyper terminal
+
+curl https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf -o /mnt/c/Users/{userName}/AppData/Roaming/Hyper/.hyper.js
+
 # Install FuraCode
-curl https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf
+curl https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf 
 
 ## [Kali Linux](https://www.microsoft.com/store/apps/9PKR34TNCV07)
 1. install git: `sudo apt-get install git`
