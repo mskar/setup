@@ -156,5 +156,34 @@ module.exports = {
   keymaps: {
     // Example
     // 'window:devtools': 'cmd+alt+o',
+  "window:preferences": "alt+,",
+  "zoom:reset": "alt+0",
+  "zoom:in": "alt+=",
+  "zoom:out": "alt+-",
+  "window:new": "alt+n",
+  "window:minimize": "alt+m",
+  "window:close": "alt+q",
+  "tab:new": "alt+t",
+  "tab:next": [
+    "alt+shift+]",
+    "ctrl+shift+]",
+    "ctrl+shift+right",
+    "ctrl+alt+right",
+    "ctrl+tab"
+  ],
+  "tab:prev": [
+    "alt+shift+[",
+    "ctrl+shift+[",
+    "ctrl+shift+left",
+    "ctrl+alt+left",
+    "ctrl+shift+tab"
+  ],
+  "pane:close": "alt+w",
+  "editor:undo": "alt+z",
+  "editor:redo": "alt+shift+z",
+  "editor:cut": "alt+x",
+  "editor:copy": "alt+c",
+  "editor:paste": "alt+v",
+  "editor:selectAll": "alt+a",
   },
 };
