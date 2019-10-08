@@ -46,3 +46,5 @@
 [user]
     email = marskar@gmail.com
     name = Martin Skarzynski
+[credential]
+	helper = cache --timeout=3600
