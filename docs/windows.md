@@ -47,6 +47,18 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local.bundl
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc && source ~/.vimrc
 
+# Install miniconda
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o install_miniconda.sh && bash install_miniconda.sh
+
+# Install scikit-learn JupyterLab and nodejs (required for git extension)
+conda install -yc conda-forge jupyterlab nodejs scikit-learn numpy pandas matplotlib seaborn
+
+# Install JupyterLab git extension
+pip install jupyterlab-git
+
+jupyter labextension install @jupyterlab/git
+
+jupyter serverextension enable --py jupyterlab_git
 
 # Work in progress section
 2. Install homebrew: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"`
@@ -54,3 +66,4 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
 4. `brew install zsh`
 
 ## [Kali Linux](https://www.microsoft.com/store/apps/9PKR34TNCV07)
+
