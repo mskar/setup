@@ -56,6 +56,8 @@ conda install -yc conda-forge jupyterlab nodejs scikit-learn numpy pandas matplo
 # Install JupyterLab git extension
 pip install jupyterlab-git
 
+## Building the extension was too slow in hyper
+## I used ubuntu console instead
 jupyter labextension install @jupyterlab/git
 
 jupyter serverextension enable --py jupyterlab_git
