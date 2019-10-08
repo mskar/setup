@@ -30,12 +30,13 @@ POWERLEVEL9K_VCS_MODIFIED_BACKGROUND='09'
 #POWERLEVEL9K_VCS_UNTRACKED_ICON='?'
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(vi_mode)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir time background_jobs ram virtualenv anaconda battery)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir date time background_jobs ram virtualenv anaconda battery)
 
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 
-POWERLEVEL9K_TIME_FORMAT="%D{%Y-%m-%d \uf073 %H:%M \uf017}"
+POWERLEVEL9K_DATE_FORMAT="%D{%Y-%m-%d}"
+POWERLEVEL9K_TIME_FORMAT="%D{%H:%M}"
 
 POWERLEVEL9K_STATUS_VERBOSE=false
 #https://github.com/bhilburn/powerlevel9k
@@ -219,8 +220,8 @@ alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="/usr/local/bin/vim"
-alias vd="/usr/local/bin/vimdiff"
+alias v="/usr/bin/vim"
+alias vd="/usr/bin/vimdiff"
 alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
 alias vff="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
@@ -281,8 +282,8 @@ function zle-keymap-select zle-line-init
 {
     # change cursor shape in iTerm2
     case $KEYMAP in
-        vicmd)      print -n -- "\E]50;CursorShape=0\C-G";;  # block cursor
-        viins|main) print -n -- "\E]50;CursorShape=1\C-G";;  # line cursor
+        vicmd)      echo -ne '\e[1 q';; # block cursor
+        viins|main) echo -ne '\e[5 q';; # line cursor
     esac
 
     zle reset-prompt
@@ -291,7 +292,7 @@ function zle-keymap-select zle-line-init
 
 function zle-line-finish
 {
-    print -n -- "\E]50;CursorShape=0\C-G"  # block cursor
+    echo -ne '\e[1 q' # block cursor
 }
 
 zle -N zle-line-init
