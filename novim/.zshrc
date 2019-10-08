@@ -219,8 +219,8 @@ alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="/usr/local/bin/vim"
-alias vd="/usr/local/bin/vimdiff"
+alias v="/usr/bin/vim"
+alias vd="/usr/bin/vimdiff"
 alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
 alias vff="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
