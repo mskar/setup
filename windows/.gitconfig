@@ -1,0 +1,50 @@
+[apply]
+    whitespace = nowarn
+[branch]
+    autosetuprebase = always
+[core]
+    editor = /usr/local/bin/nvim
+    excludesfile = /Users/np/.gitignore_global
+    pager=less -x4
+    autocrlf = input
+[color]
+    branch = auto
+    diff = auto
+    status = auto
+[color "branch"]
+    current = red reverse
+    local = blue
+    remote = green
+[color "diff"]
+    meta = yellow
+    frag = magenta
+    old = red bold
+    new = green
+    plain = white
+[color "status"]
+    added = yellow
+    changed = green
+    untracked = cyan
+[diff]
+	tool = vimdiff
+    mnemonicprefix = true
+[filter "lfs"]
+    clean = git-lfs clean -- %f
+    smudge = git-lfs smudge -- %f
+    required = true
+    process = git-lfs filter-process
+[mergetool "vimdiff"]
+	path = nvim
+[push]
+    default = current
+[pull]
+    default = current
+[rerere]
+    enabled = false
+[rebase]
+    autosquash = true
+[user]
+    email = marskar@gmail.com
+    name = Martin Skarzynski
+[credential]
+	helper = "/mnt/c/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe"
