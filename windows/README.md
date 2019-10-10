@@ -8,17 +8,24 @@
 - Activate Windows Subsystem for Linux via the Windows Features GUI
 
 # Install Hyper terminal https://hyper.is/
-# Add hyper config file to the path below (Replace username in the path)
-curl https://raw.githubusercontent.com/py4ds/setup/master/.hyper.js -o /mnt/c/Users/{userName}/AppData/Roaming/Hyper/.hyper.js
+
+# In Hyper
+wsl.exe
 
 # Update apt-get
-sudo apt-get update
+sudo apt-get update && apt-get upgrade
+
+# Install curl
+sudo apt install curl -y
+
+# Add hyper config file to the path below (Replace userName in the path in the `curl` command below)
+curl https://raw.githubusercontent.com/py4ds/setup/master/.hyper.js -o /mnt/c/Users/{userName}/AppData/Roaming/Hyper/.hyper.js
 
 # Install Z shell
-sudo apt install zsh
+sudo apt install zsh -y
 
-# Make bash start zsh automatically
-echo "if [ -t 1 ]; then\n\texec zsh\nfi" >> ~/.bashrc
+# Install git
+sudo apt install git -y
 
 # [Install FiraCode font](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Regular/complete/Fura%20Code%20Regular%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf) (download and double click)
 
@@ -45,7 +52,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local.bundles -o ~/.vimrc.local.bundles
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc && source ~/.vimrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
 
 # Install miniconda
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o install_miniconda.sh && bash install_miniconda.sh
