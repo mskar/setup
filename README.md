@@ -70,7 +70,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local.bundles -o ~/.vimrc.local.bundles
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc && source ~/.vimrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
 
 ## Or clone the github repo and copy the dotfiles to the right places
 git clone https://github.com/py4ds/setup ~/py4ds/setup
@@ -94,7 +94,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/local_bundles.vim
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim && source ~/.config/nvim/init.vim
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim
 
 ## TODO: what do vim and neovim depend on?
 brew install ctags
