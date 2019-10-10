@@ -27,6 +27,11 @@ sudo apt install zsh -y
 # Install git
 sudo apt install git -y
 
+# Install vim and neovim
+sudo apt install vim -y
+sudo apt install neovim -y
+sudo apt install make -y
+
 # [Install FiraCode font](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Regular/complete/Fura%20Code%20Regular%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf) (download and double click)
 
 # Install oh-my-zsh
@@ -39,7 +44,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc && source ~/.zshrc
+curl https://raw.githubusercontent.com/py4ds/setup/blob/master/windows/.zshrc -o ~/.zshrc && source ~/.zshrc
 
 # Install fzf
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
