@@ -51,10 +51,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o install_miniconda.sh && bash install_miniconda.sh
 
 # Install scikit-learn JupyterLab and nodejs (required for git extension)
-conda install -yc conda-forge jupyterlab nodejs scikit-learn numpy pandas matplotlib seaborn
-
-# Install JupyterLab git extension
-pip install jupyterlab-git
+conda install -yc conda-forge nodejs scikit-learn numpy pandas matplotlib seaborn jupyterlab jupyterlab-git
 
 ## Building the extension was too slow in hyper
 ## I used ubuntu console instead

@@ -141,12 +141,10 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideav
 ## Install java and JDK to stop the the JDK popups
 brew cask install java
 
-## Setup Jupyter Lab
-conda install -yc conda-forge nodejs jupyter jupyterlab
+## Setup Jupyter Lab with the jupyterlab-git extension
+conda install -yc conda-forge nodejs jupyterlab jupyterlab-git
 
 jupyter labextension install @jupyterlab/git
-
-pip install --upgrade jupyterlab-git
 
 jupyter serverextension enable --py jupyterlab_git
 
