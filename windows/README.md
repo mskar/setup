@@ -48,6 +48,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/blob/master/windows/.zshrc -o
 
 # Install fzf
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+
 ~/.fzf/install
 
 # Add git and vim config files
