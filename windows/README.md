@@ -19,7 +19,7 @@ sudo apt-get update && apt-get upgrade
 sudo apt install curl -y
 
 # Add hyper config file to the path below (Replace userName in the path in the `curl` command below)
-curl https://raw.githubusercontent.com/py4ds/setup/master/.hyper.js -o /mnt/c/Users/{userName}/AppData/Roaming/Hyper/.hyper.js
+curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.hyper.js -o /mnt/c/Users/{userName}/AppData/Roaming/Hyper/.hyper.js
 
 # Install Z shell
 sudo apt install zsh -y
