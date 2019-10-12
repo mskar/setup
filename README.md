@@ -90,9 +90,9 @@ mkdir -p ~/.config/karabiner/ && cp ~/py4ds/setup/karabiner.json ~/.config/karab
 ## Install neovim
 brew install neovim
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/local_init.vim --create-dirs
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_init.vim -o ~/.config/nvim/local_init.vim --create-dirs
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/local_bundles.vim
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_bundles.vim -o ~/.config/nvim/local_bundles.vim
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim
 
