@@ -28,7 +28,7 @@ sudo apt install zsh -y
 sudo apt install git -y
 
 # Install vim and neovim
-sudo apt install vim-gtk -y
+sudo apt install vim-gtk3 -y
 sudo apt install neovim -y
 sudo apt install make -y
 
