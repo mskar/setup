@@ -1,4 +1,4 @@
-#IfWinActive, ahk_exe Chrome.exe
+#if WinActive("ahk_exe Chrome.exe") or WinActive("ahk_exe Firefox.exe")
     ^h::Send {Backspace}
     ^w::Send ^{Backspace}
     !d::Send ^{Delete}
