@@ -3,10 +3,10 @@
     ^w::Send ^{Backspace}{Ctrl down}
     ^d::Send {Ctrl up}{Delete}{Ctrl down}
     !d::Send ^{Delete}
-    ^k::Send +{End}{Delete}{Ctrl down}
-    ^u::Send +{Home}{Delete}{Ctrl down}
-    ^a::Send {Home}{Ctrl down}
-    ^e::Send {End}{Ctrl down}
+    ^k::Send {Ctrl up}{Shift down}{End}{Shift up}{Delete}{Ctrl down}
+    ^u::Send {Ctrl up}{Shift down}{Home}{Shift up}{Delete}{Ctrl down}
+    ^a::Send {Ctrl up}{Home}{Ctrl down}
+    ^e::Send {Ctrl up}{End}{Ctrl down}
     ^b::Send {Ctrl up}{Left}{Ctrl down}
     ^f::Send {Ctrl up}{Right}{Ctrl down}
     !b::Send ^{Left}
