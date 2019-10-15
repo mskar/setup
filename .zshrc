@@ -191,9 +191,9 @@ alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
 alias n="nvim"
 alias nd="nvim -d"
 alias nf="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
-alias nff="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | fzf) || echo -h'); }; func";
+alias nff="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
 alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias ngf="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf || echo -h)'); }; func";
+alias ngf="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias nn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="func() { open $(echo '$(find $@ -type f -not -path "*.git*" | fzf || echo -h)'); }; func";
@@ -220,12 +220,12 @@ alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="/usr/bin/vim"
-alias vd="/usr/bin/vimdiff"
+alias v="vim"
+alias vd="vim -d"
 alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
-alias vff="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf || echo -h)'); }; func";
+alias vff="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias vgf="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf || echo -h)'); }; func";
+alias vgf="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 
