@@ -1,5 +1,5 @@
 !`::Send {Alt down}+{Tab}
-#if WinActive("ahk_exe Chrome.exe") or WinActive("ahk_exe Firefox.exe") or WinActive("ahk_exe Outlook.exe")
+#if WinActive("ahk_exe Chrome.exe") or WinActive("ahk_exe Firefox.exe") or WinActive("ahk_exe Outlook.exe") or WinActive("ahk_exe Explorer.exe")
     !a::Send ^a
     !c::Send ^c
     !n::Send ^n

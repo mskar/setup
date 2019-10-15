@@ -1,4 +1,4 @@
-#if WinActive("ahk_exe Chrome.exe") or WinActive("ahk_exe Firefox.exe") or WinActive("ahk_exe Outlook.exe")
+#if WinActive("ahk_exe Chrome.exe") or WinActive("ahk_exe Firefox.exe") or WinActive("ahk_exe Outlook.exe") or WinActive("ahk_exe Explorer.exe")
     ^h::Send {Ctrl up}{Backspace}{Ctrl down}
     ^w::Send ^{Backspace}{Ctrl down}
     ^d::Send {Ctrl up}{Delete}{Ctrl down}
