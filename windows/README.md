@@ -1,8 +1,9 @@
-# Remap CapsLock to control/esc and alt+h/j/k/l to arrow keys
-1. Download and run [CapsUnlocked](https://github.com/kshenoy/CapsUnlocked/releases)
-2. Install [AutoHotkey](https://www.autohotkey.com/), in home directory if necessary
-3. Create a ShellNew directory in C://Windows if necessary
-4. Move ahk scripts to StartUp https://www.autohotkey.com/docs/FAQ.htm#Startup 
+# Remap CapsLock to control/esc and right alt+h/j/k/l to arrow keys
+# Remap windows ctrl shortcuts to left alt and windows windows key to bash alt shortcuts
+# The most important is [CapsUnlocked script](https://github.com/kshenoy/CapsUnlocked/releases)
+1. Install [AutoHotkey](https://www.autohotkey.com/), in home directory if necessary
+2. Create a ShellNew directory in C://Windows if necessary
+3. Move ahk scripts to StartUp https://www.autohotkey.com/docs/FAQ.htm#Startup
   - Replace username in this path: `C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 # Install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - Activate Windows Subsystem for Linux via the Windows Features GUI
