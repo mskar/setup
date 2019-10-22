@@ -4,7 +4,8 @@
 1. Install [AutoHotkey](https://www.autohotkey.com/), in home directory if necessary
 2. Create a ShellNew directory in C://Windows if necessary
 3. Move ahk scripts to StartUp https://www.autohotkey.com/docs/FAQ.htm#Startup
-  - Replace username in this path: `C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+  - Replace username in this Windows path, if using Explorer.exe: `C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+  - Replace username in this UNIX path, if using a UNIX terminal: `"/mnt/c/Users/USERNAME/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup"`
 # Install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - Activate Windows Subsystem for Linux via the Windows Features GUI
 
