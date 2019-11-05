@@ -175,8 +175,9 @@ alias dtyc="git difftool -yt vimdiff --cached" # --staged is a synonym of --cach
 alias dh1="git diff HEAD^"
 alias dh="git diff HEAD"
 alias e="export"
-alias f="func() { for $(echo '$1') in $(echo '$2'); do; $(echo '$3'); done; }; func";
-alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}";
+alias f="func() { for i in $(echo 'ls $1'); do; echo $(i); done; }; func";
+alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
+alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
@@ -203,6 +204,7 @@ alias p="git push"
 alias pf="git push --force"
 alias pom="git push origin master"
 alias r="ranger" # R will start an R interactive session
+alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
 alias rau="git remote add upstream"
 alias rh1="git reset HEAD^"
