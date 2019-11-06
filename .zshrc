@@ -175,7 +175,9 @@ alias dtyc="git difftool -yt vimdiff --cached" # --staged is a synonym of --cach
 alias dh1="git diff HEAD^"
 alias dh="git diff HEAD"
 alias e="export"
-alias f="func() { for i in $(echo 'ls $1'); do; echo $(i); done; }; func";
+alias f="find . -not -path '*.git*' -type f -name"
+alias f="func() { find . -name $(echo '$@') -type f -not -path '*.git*'; }; func";
+alias ff="func() { find . -name $(echo '$@') -type f -not -path '*.git*' | fzf -m || echo -h; }; func";
 alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias h='history'
@@ -191,6 +193,7 @@ alias la="ls -a"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
+alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
 alias nd="nvim -d"
 alias nf="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
