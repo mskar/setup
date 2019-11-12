@@ -196,8 +196,7 @@ alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
 alias nd="nvim -d"
-alias nf="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
-alias nff="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
+alias nf="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
 alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias ngf="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias nn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
@@ -230,8 +229,7 @@ alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
 alias v="vim"
 alias vd="vim -d"
-alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | tr "\n" " ")'); }; func";
-alias vff="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
+alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias vgf="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
