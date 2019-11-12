@@ -207,6 +207,7 @@ alias p="git push"
 alias pf="git push --force"
 alias pom="git push origin master"
 alias r="ranger" # R will start an R interactive session
+alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
 alias rau="git remote add upstream"
