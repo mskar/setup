@@ -318,6 +318,8 @@ noremap <Leader>gd :Gvdiff<CR>
 noremap <Leader>gr :Gremove<CR>
 noremap <Leader>gl :Glog<CR>
 noremap <Leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
+nnoremap gh :diffget //2<CR>
+nnoremap gl :diffget //3<CR>
 
 " session management
 nnoremap <leader>so :OpenSession<Space>
