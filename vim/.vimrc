@@ -317,7 +317,7 @@ noremap <Leader>gb :Gblame<CR>
 noremap <Leader>gd :Gvdiff<CR>
 noremap <Leader>gr :Gremove<CR>
 noremap <Leader>gl :Glog<CR>
-noremap <Leader>gg :Gwrite<CR>:Gcommit -m "working on %"<CR>:Gpush<CR>
+noremap <Leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
 
 " session management
 nnoremap <leader>so :OpenSession<Space>
