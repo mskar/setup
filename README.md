@@ -113,6 +113,14 @@ brew install xpdf
 ## Install keycastr
 # brew cask install keycastr
 
+## Install tmux
+brew install tmux
+
+## Install oh my tmux
+git clone https://github.com/gpakosz/.tmux ~/.tmux
+ln -s -f ~/.tmux/.tmux.conf
+curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
+
 # Python and R
 
 ## [Install Anaconda](https://www.anaconda.com/distribution/): this can include the VS code text editor
