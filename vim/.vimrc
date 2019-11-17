@@ -309,6 +309,7 @@ set autoread
 
 "" Git
 noremap <Leader>ga :Gwrite<CR>
+noremap <Leader>w :Gwrite<CR>
 noremap <leader>gc :Gwrite<bar>Gcommit<CR>
 noremap <Leader>gp :Gpush<CR>
 noremap <Leader>gu :Gpull<CR>

@@ -97,8 +97,8 @@ let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
 nnoremap <silent> <leader>a :Ag<CR>
 nnoremap <silent> <leader>B :Bcommits<CR>
-nnoremap <silent> <leader>c :Commands<CR>
-nnoremap <silent> <leader>C :Commits<CR>
+nnoremap <silent> <leader>c :Commits<CR>
+nnoremap <silent> <leader>C :Commands<CR>
 nnoremap <silent> <leader>f :Gfiles<CR>
 nnoremap <silent> <leader>F :Files<CR>
 nnoremap <silent> <leader>H :Helptags<CR>
