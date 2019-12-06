@@ -268,6 +268,7 @@ bindkey '^h' backward-delete-char
 bindkey '^k' kill-line
 bindkey '^u' backward-kill-line
 bindkey '^w' backward-kill-word
+bindkey '\ew' backward-kill-word
 bindkey '^y' yank
 
 # the above is modified from https://dougblack.io/words/zsh-vi-mode.html
