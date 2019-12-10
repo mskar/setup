@@ -2,6 +2,7 @@
     #b::Send ^{Left}
     #d::Send ^{Delete}
     #f::Send ^{Right}
+    #h::Send ^{Backspace}
     ^a::Send {Ctrl up}{Home}{Ctrl down}
     ^b::Send {Ctrl up}{Left}{Ctrl down}
     ^d::Send {Ctrl up}{Delete}{Ctrl down}
