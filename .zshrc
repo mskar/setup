@@ -205,13 +205,16 @@ alias o="func() { open $(echo '$(find $@ -type f -not -path "*.git*" | fzf || ec
 alias p="git push"
 alias pf="git push --force"
 alias pom="git push origin master"
-alias r="ranger" # R will start an R interactive session
+alias r="ranger"
 alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
 alias rau="git remote add upstream"
+alias rc="git rebase --continue"
 alias rh1="git reset HEAD^"
 alias rh="git reset HEAD"
+alias rq="git rebase --quit"
+alias rs="git rebase --skip"
 alias rv="git remote -v"
 alias s="git status"
 alias sa="git stash apply"
@@ -233,8 +236,8 @@ alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="vim"
-alias vd="vim -d"
+alias v="/usr/local/bin/vim"
+alias vd="v -d"
 alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias vgf="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
@@ -268,7 +271,7 @@ bindkey '^h' backward-delete-char
 bindkey '^k' kill-line
 bindkey '^u' backward-kill-line
 bindkey '^w' backward-kill-word
-bindkey '\ew' backward-kill-word
+bindkey '\eh' backward-kill-word
 bindkey '^y' yank
 
 # the above is modified from https://dougblack.io/words/zsh-vi-mode.html

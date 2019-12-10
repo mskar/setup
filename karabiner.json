@@ -1211,7 +1211,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "w",
+                                    "key_code": "h",
                                     "modifiers": {
                                         "mandatory": [
                                             "option"
