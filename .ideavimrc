@@ -140,7 +140,7 @@ inoremap <C-f> <right>
 " Move one character backward; <c-b> moves to the start of the line in ideavim command mode
 inoremap <C-b> <left>
 
-" Alt keys specific to MacOS
+" Alt keys
 " <a-d> = delete word forward; opposite of <c-w>
 inoremap <a-d> <C-o>dw
 " <a-h> = delete word backward; same as <c-w>
