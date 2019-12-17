@@ -142,13 +142,15 @@ inoremap <C-b> <left>
 
 " Alt keys specific to MacOS
 " <a-d> = delete word forward; opposite of <c-w>
-inoremap ∂ <C-o>dw
+inoremap <a-d> <C-o>dw
+" <a-h> = delete word backward; same as <c-w>
+inoremap <a-h> <C-w>
 " <a-k> = move up; opposite of <a-j>
-inoremap ˚ <up>
+inoremap <a-k> <up>
 " <a-j> = move down; opposite of <a-k>
-inoremap ∆ <down>
+inoremap <a-j> <down>
 " <a-f> = move one word forward; opposite of <a-b>
-inoremap ƒ <C-o>w
+inoremap <a-f> <C-o>w
 " <a-b> = move one word backward; opposite of <a-f>
-inoremap ∫ <C-o>b
+inoremap <a-b> <C-o>b
 
