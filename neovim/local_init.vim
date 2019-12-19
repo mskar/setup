@@ -54,6 +54,7 @@ tnoremap <C-w>H <C-\><C-n><C-w>H
 tnoremap <C-w>J <C-\><C-n><C-w>J
 tnoremap <C-w>K <C-\><C-n><C-w>K
 tnoremap <C-w>L <C-\><C-n><C-w>L
+tnoremap <C-w>N <C-\><C-n>
 tnoremap <C-w>P <C-\><C-n><C-w>P
 tnoremap <C-w>R <C-\><C-n><C-w>R
 tnoremap <C-w>S <C-\><C-n><C-w>S
