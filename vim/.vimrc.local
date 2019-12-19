@@ -18,7 +18,13 @@ cnoremap <C-l> <right>
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
 
-" Alt keys specific to MacOS
+" Switch buffers
+tnoremap <C-w>; <C-\><C-n>:bn<CR>
+tnoremap <C-w>, <C-\><C-n>:bp<CR>
+nnoremap <C-w>; <C-\><C-n>:bn<CR>
+nnoremap <C-w>, <C-\><C-n>:bp<CR>
+
+" Alt keys
 " <a-d> = Delete word forward; opposite of <c-w>
 inoremap <A-d> <C-o>de
 cnoremap <A-d> <S-Right><C-w>

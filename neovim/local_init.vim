@@ -110,6 +110,10 @@ tnoremap <C-w><C-z> <C-\><C-n><C-w>z
 tnoremap <C-w><C-]> <C-\><C-n><C-w>]
 tnoremap <C-w><C-^> <C-\><C-n><C-w>^
 tnoremap <C-w><C-_> <C-\><C-n><C-w>_
+tnoremap <C-w>; <C-\><C-n>:bn<CR>
+tnoremap <C-w>, <C-\><C-n>:bp<CR>
+nnoremap <C-w>; <C-\><C-n>:bn<CR>
+nnoremap <C-w>, <C-\><C-n>:bp<CR>
 
 " Nvim-R mappings
 " Keyboard shortcuts for <- -> and other operators in R specific files
