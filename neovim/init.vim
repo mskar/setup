@@ -1,4 +1,4 @@
-" vim-bootstrap (https://vim-bootstrap.com)
+    " vim-bootstrap (https://vim-bootstrap.com)
 
 "*****************************************************************************
 "" Vim-PLug core

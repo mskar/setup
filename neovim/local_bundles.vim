@@ -17,6 +17,7 @@ Plug 'ncm2/ncm2'
 Plug 'roxma/nvim-yarp'
 Plug 'jalvesaq/Nvim-R'
 Plug 'gaalcaras/ncm-R'
+Plug 'bfredl/nvim-miniyank'
 
 " Vim 8 only
 if !has('nvim')

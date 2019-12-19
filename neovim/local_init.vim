@@ -1,3 +1,6 @@
+" https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
+map p <Plug>(miniyank-autoput)
+map P <Plug>(miniyank-autoPut)
 " Emacs and bash style insert mode shortcuts
 " Delete one character forward; the opposite of <C-h>
 inoremap <C-d> <Delete>
@@ -18,7 +21,7 @@ cnoremap <C-l> <right>
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
 
-" Alt keys specific to MacOS
+" Alt keys
 " <a-d> = Delete word forward; opposite of <c-w>
 inoremap <A-d> <C-o>de
 cnoremap <A-d> <S-Right><C-w>
@@ -41,11 +44,77 @@ inoremap <A-l> <C-[>gueea
 " <a-t> = Swap current word with previous word
 inoremap <A-t> <C-[>diwbPldepa
 
+" Terminal like in vim
+tnoremap <C-w>+ <C-\><C-n><C-w>+
+tnoremap <C-w>- <C-\><C-n><C-w>-
+tnoremap <C-w>< <C-\><C-n><C-w><
+tnoremap <C-w>= <C-\><C-n><C-w>=
+tnoremap <C-w>> <C-\><C-n><C-w>>
+tnoremap <C-w>H <C-\><C-n><C-w>H
+tnoremap <C-w>J <C-\><C-n><C-w>J
+tnoremap <C-w>K <C-\><C-n><C-w>K
+tnoremap <C-w>L <C-\><C-n><C-w>L
+tnoremap <C-w>P <C-\><C-n><C-w>P
+tnoremap <C-w>R <C-\><C-n><C-w>R
+tnoremap <C-w>S <C-\><C-n><C-w>S
+tnoremap <C-w>T <C-\><C-n><C-w>T
+tnoremap <C-w>W <C-\><C-n><C-w>W
+tnoremap <C-w>] <C-\><C-n><C-w>]
+tnoremap <C-w>^ <C-\><C-n><C-w>^
+tnoremap <C-w>_ <C-\><C-n><C-w>_
+tnoremap <C-w>b <C-\><C-n><C-w>b
+tnoremap <C-w>c <C-\><C-n><C-w>c
+tnoremap <C-w>d <C-\><C-n><C-w>d
+tnoremap <C-w>f <C-\><C-n><C-w>f
+tnoremap <C-w>g <C-\><C-n><C-w>g
+tnoremap <C-w>h <C-\><C-n><C-w>h
+tnoremap <C-w>i <C-\><C-n><C-w>i
+tnoremap <C-w>j <C-\><C-n><C-w>j
+tnoremap <C-w>k <C-\><C-n><C-w>k
+tnoremap <C-w>l <C-\><C-n><C-w>l
+tnoremap <C-w>n <C-\><C-n><C-w>n
+tnoremap <C-w>o <C-\><C-n><C-w>o
+tnoremap <C-w>p <C-\><C-n><C-w>p
+tnoremap <C-w>q <C-\><C-n><C-w>q
+tnoremap <C-w>r <C-\><C-n><C-w>r
+tnoremap <C-w>s <C-\><C-n><C-w>s
+tnoremap <C-w>t <C-\><C-n><C-w>t
+tnoremap <C-w>v <C-\><C-n><C-w>v
+tnoremap <C-w>w <C-\><C-n><C-w>w
+tnoremap <C-w>x <C-\><C-n><C-w>x
+tnoremap <C-w>z <C-\><C-n><C-w>z
+tnoremap <C-w>} <C-\><C-n><C-w>}
+tnoremap <C-w>: <C-\><C-n>:
+tnoremap <C-w><C-b> <C-\><C-n><C-w>b
+tnoremap <C-w><C-c> <C-\><C-n><C-w>c
+tnoremap <C-w><C-d> <C-\><C-n><C-w>d
+tnoremap <C-w><C-f> <C-\><C-n><C-w>f
+tnoremap <C-w><C-g> <C-\><C-n><C-w>g
+tnoremap <C-w><C-h> <C-\><C-n><C-w>h
+tnoremap <C-w><C-i> <C-\><C-n><C-w>i
+tnoremap <C-w><C-j> <C-\><C-n><C-w>j
+tnoremap <C-w><C-k> <C-\><C-n><C-w>k
+tnoremap <C-w><C-l> <C-\><C-n><C-w>l
+tnoremap <C-w><C-n> <C-\><C-n><C-w>n
+tnoremap <C-w><C-o> <C-\><C-n><C-w>o
+tnoremap <C-w><C-p> <C-\><C-n><C-w>p
+tnoremap <C-w><C-q> <C-\><C-n><C-w>q
+tnoremap <C-w><C-r> <C-\><C-n><C-w>r
+tnoremap <C-w><C-s> <C-\><C-n><C-w>s
+tnoremap <C-w><C-t> <C-\><C-n><C-w>t
+tnoremap <C-w><C-v> <C-\><C-n><C-w>v
+tnoremap <C-w><C-w> <C-\><C-n><C-w>w
+tnoremap <C-w><C-x> <C-\><C-n><C-w>x
+tnoremap <C-w><C-z> <C-\><C-n><C-w>z
+tnoremap <C-w><C-]> <C-\><C-n><C-w>]
+tnoremap <C-w><C-^> <C-\><C-n><C-w>^
+tnoremap <C-w><C-_> <C-\><C-n><C-w>_
+
 " Nvim-R mappings
 " Keyboard shortcuts for <- -> and other operators in R specific files
 " https://github.com/jalvesaq/Nvim-R/issues/85
 " The trailing spaces below are intentional!
-autocmd FileType r inoremap <buffer> ;m <Esc>:normal! a %>%<CR>a<CR>
+autocmd FileType r inoremap <buffer> ;n <Esc>:normal! a %>%<CR>a<CR>
 autocmd FileType rmd inoremap <buffer> ;n <Esc>:normal! a %>%<CR>a<CR>
 autocmd FileType r inoremap <buffer> ;m <Esc>:normal! a %>%<CR>a 
 autocmd FileType rmd inoremap <buffer> ;m <Esc>:normal! a %>%<CR>a 
