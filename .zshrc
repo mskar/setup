@@ -178,6 +178,7 @@ alias e="export"
 alias f="find . -not -path '*.git*' -type f -name"
 alias f="func() { find . -name $(echo '$@') -type f -not -path '*.git*'; }; func";
 alias ff="func() { find . -name $(echo '$@') -type f -not -path '*.git*' | fzf -m || echo -h; }; func";
+# alias fixname="for f in *\ *; do mv $f '$(date "+%Y-%m-%d")_${f// /-}"; done;"
 alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias h='history'
@@ -200,6 +201,7 @@ alias nf="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || e
 alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias ngf="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias nn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="func() { open $(echo '$(find $@ -type f -not -path "*.git*" | fzf || echo -h)'); }; func";
 alias p="git push"
@@ -242,6 +244,7 @@ alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || e
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias vgf="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 
 # brew installed python
