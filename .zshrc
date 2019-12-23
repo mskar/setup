@@ -106,7 +106,7 @@ POWERLEVEL9K_VI_MODE_NORMAL_BACKGROUND='black'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting z)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -177,7 +177,7 @@ alias dh="git diff HEAD"
 alias e="export"
 alias f="find . -not -path '*.git*' -type f -name"
 alias f="func() { find . -name $(echo '$@') -type f -not -path '*.git*'; }; func";
-alias ff="func() { find . -name $(echo '$@') -type f -not -path '*.git*' | fzf -m || echo -h; }; func";
+alias ff="func() { find . -name $(echo '$@') -type f -not -path '*.git*' | fzf -m; }; func";
 # alias fixname="for f in *\ *; do mv $f '$(date "+%Y-%m-%d")_${f// /-}"; done;"
 alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
@@ -198,12 +198,13 @@ alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; fun
 alias n="nvim"
 alias nd="nvim -d"
 alias nf="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
-alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias ngf="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
+# alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
+alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias nn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
-alias o="func() { open $(echo '$(find $@ -type f -not -path "*.git*" | fzf || echo -h)'); }; func";
+alias o="open"
+alias of="func() { open $(echo '$(find $@ -type f -not -path "*.git*" | fzf || echo -h)'); }; func";
 alias p="git push"
 alias pf="git push --force"
 alias pom="git push origin master"
@@ -241,11 +242,17 @@ alias urum="git pull --rebase upstream master"
 alias v="/usr/local/bin/vim"
 alias vd="v -d"
 alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
-alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias vgf="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
+# alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
+alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
+# z command is used by the z plugin
+alias zc="z -c" # restrict matches to subdirectories of the current directory
+alias zl="z -l" # list all dirs matching foo (by frecency)
+alias zr="z -r" # cd to highest ranked dir matching foo
+alias zt="z -t" # cd to most recently accessed dir matching foo
+alias zx="z -x" # remove the current directory from the datafile
 
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
