@@ -30,13 +30,12 @@ POWERLEVEL9K_VCS_MODIFIED_BACKGROUND='09'
 #POWERLEVEL9K_VCS_UNTRACKED_ICON='?'
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(vi_mode)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir date time background_jobs ram virtualenv anaconda battery)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir time background_jobs ram virtualenv anaconda battery)
 
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 
-POWERLEVEL9K_DATE_FORMAT="%D{%Y-%m-%d}"
-POWERLEVEL9K_TIME_FORMAT="%D{%H:%M}"
+POWERLEVEL9K_TIME_FORMAT="%D{%Y-%m-%d \uf073 %H:%M \uf017}"
 
 POWERLEVEL9K_STATUS_VERBOSE=false
 #https://github.com/bhilburn/powerlevel9k
@@ -190,7 +189,11 @@ alias jl="func() { jupyter lab $(echo '$(find $@ -type f -name "*.ipynb" -not -p
 alias jn="func() { jupyter notebook $(echo '$(find $@ -type f -name "*.ipynb" -not -path "*.git*"| fzf || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
+alias lp="git log -p"
 alias la="ls -a"
+alias lah="ls -ah"
+alias lal="ls -al"
+alias ll="ls -l"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
@@ -225,8 +228,8 @@ alias sc="git stash clear"
 alias sd="git stash drop"
 alias sl="git stash list"
 alias sp="git stash pop"
-alias spa="git stash save && git pull && git stash apply"
-alias spp="git stash save && git pull && git stash pop"
+alias spa="git stash save --all && git pull && git stash apply"
+alias spp="git stash save --all && git pull && git stash pop"
 alias ss="git stash show"
 alias t="tmux"
 alias ta="tmux attach -t"
