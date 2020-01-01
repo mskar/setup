@@ -165,14 +165,14 @@ alias co="git checkout"
 alias coh1="git checkout HEAD^"
 alias coh="git checkout HEAD"
 alias com="git checkout master"
-alias d="git diff"
-alias dc="git diff --cached" # --staged is a synonym of --cached
+alias d="git diff --word-diff=color"
+alias dc="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dt="git difftool --tool vimdiff"
 alias dtc="git difftool --tool vimdiff --cached" # --staged is a synonym of --cached
 alias dty="git difftool -yt vimdiff"
 alias dtyc="git difftool -yt vimdiff --cached" # --staged is a synonym of --cached
-alias dh1="git diff HEAD^"
-alias dh="git diff HEAD"
+alias dh1="git diff --word-diff=color HEAD^"
+alias dh="git diff --word-diff=color HEAD"
 alias e="export"
 alias f="find . -not -path '*.git*' -type f -name"
 alias f="func() { find . -name $(echo '$@') -type f -not -path '*.git*'; }; func";
@@ -189,7 +189,7 @@ alias jl="func() { jupyter lab $(echo '$(find $@ -type f -name "*.ipynb" -not -p
 alias jn="func() { jupyter notebook $(echo '$(find $@ -type f -name "*.ipynb" -not -path "*.git*"| fzf || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
-alias lp="git log -p"
+alias lp="git log -p --word-diff=color"
 alias la="ls -a"
 alias lah="ls -ah"
 alias lal="ls -al"
