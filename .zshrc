@@ -179,7 +179,7 @@ alias dh="git diff --word-diff=color HEAD"
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
-alias ff="func() { fd --type f $(echo '$@') | fzf -m; }; func";
+alias fl='fasd -fl'
 alias fn="fasd -fe nvim"
 alias fo="fasd -fe open"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
@@ -257,8 +257,10 @@ alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/note
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 # get z alias from from fasd plugin instead of z plugin
-alias zl="fasd -l" # list all paths
-alias zs="fasd -s" # list all paths with scores
+alias zl="fasd -dl" # list all directories
+alias zn="fasd -de nvim"
+alias zo="fasd -de open"
+alias zv="fasd -de '$EDITOR'"
 
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
