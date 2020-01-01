@@ -30,7 +30,7 @@ POWERLEVEL9K_VCS_MODIFIED_BACKGROUND='09'
 #POWERLEVEL9K_VCS_UNTRACKED_ICON='?'
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(vi_mode)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs dir time background_jobs ram virtualenv anaconda battery)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status background_jobs vcs dir time ram virtualenv anaconda battery)
 
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
@@ -105,7 +105,7 @@ POWERLEVEL9K_VI_MODE_NORMAL_BACKGROUND='black'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting z)
+plugins=(fasd fd fzf git zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -118,7 +118,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
-export EDITOR='nvim'
+export EDITOR='/usr/local/bin/vim'
 # else
 #   export EDITOR='mvim'
 # fi
@@ -137,6 +137,9 @@ export EDITOR='nvim'
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Inititialize fasd and its aliases
+eval "$(fasd --init auto)"
 
 alias 0="dirs -v"
 alias a="git add"
@@ -174,9 +177,12 @@ alias dtyc="git difftool -yt vimdiff --cached" # --staged is a synonym of --cach
 alias dh1="git diff --word-diff=color HEAD^"
 alias dh="git diff --word-diff=color HEAD"
 alias e="export"
-alias f="find . -not -path '*.git*' -type f -name"
-alias f="func() { find . -name $(echo '$@') -type f -not -path '*.git*'; }; func";
-alias ff="func() { find . -name $(echo '$@') -type f -not -path '*.git*' | fzf -m; }; func";
+# use fasd builtin f alias: alias f='fasd -f'
+# use fd instead of find
+alias ff="func() { fd --type f $(echo '$@') | fzf -m; }; func";
+alias fn="fasd -fe nvim"
+alias fo="fasd -fe open"
+alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 # alias fixname="for f in *\ *; do mv $f '$(date "+%Y-%m-%d")_${f// /-}"; done;"
 alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
@@ -184,9 +190,9 @@ alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
-alias j="func() { directory=$(echo '$(find $@ -type d -not -path "*.git*" | fzf)') && cd $(echo '$directory'); }; func";
-alias jl="func() { jupyter lab $(echo '$(find $@ -type f -name "*.ipynb" -not -path "*.git*"| fzf || echo -h)'); }; func";
-alias jn="func() { jupyter notebook $(echo '$(find $@ -type f -name "*.ipynb" -not -path "*.git*"| fzf || echo -h)'); }; func";
+alias j="func() { directory=$(echo '$(fd --type d $@ | fzf)') && cd $(echo '$directory'); }; func";
+alias jl="func() { jupyter lab $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
+alias jn="func() { jupyter notebook $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias lp="git log -p --word-diff=color"
@@ -200,14 +206,14 @@ alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
 alias nd="nvim -d"
-alias nf="func() { n $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
+alias nf="func() { n $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 # alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias nn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="open"
-alias of="func() { open $(echo '$(find $@ -type f -not -path "*.git*" | fzf || echo -h)'); }; func";
+alias of="func() { open $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 alias p="git push"
 alias pf="git push --force"
 alias pom="git push origin master"
@@ -242,20 +248,17 @@ alias u="git pull"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
-alias v="/usr/local/bin/vim"
+alias v="$EDITOR"
 alias vd="v -d"
-alias vf="func() { v $(echo '$(find $@ -type f -not -path "*.git*" | fzf -m || echo -h)'); }; func";
+alias vf="func() { v $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 # alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
-# z command is used by the z plugin
-alias zc="z -c" # restrict matches to subdirectories of the current directory
-alias zl="z -l" # list all dirs matching foo (by frecency)
-alias zr="z -r" # cd to highest ranked dir matching foo
-alias zt="z -t" # cd to most recently accessed dir matching foo
-alias zx="z -x" # remove the current directory from the datafile
+# get z alias from from fasd plugin instead of z plugin
+alias zl="fasd -l" # list all paths
+alias zs="fasd -s" # list all paths with scores
 
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
