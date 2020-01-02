@@ -194,7 +194,7 @@ alias fn="fasd -fe nvim"
 alias fo="fasd -fe open"
 alias fp="fasd -fe pycharm"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
-# alias fixname="for f in *\ *; do mv $f '$(date "+%Y-%m-%d")_${f// /-}"; done;"
+alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
 alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias h='history'
