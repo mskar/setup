@@ -143,6 +143,7 @@ eval "$(fasd --init auto)"
 
 alias 0="dirs -v"
 alias a="git add"
+alias aa="git add --all"
 alias aca="git add --all && git commit --amend"
 alias acam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit --amend -m $(echo '$message'); }; func"
 alias acamp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit --amend -m $(echo '$message') && git push --force; }; func"
