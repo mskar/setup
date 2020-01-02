@@ -189,8 +189,10 @@ alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
 alias fl='fasd -fl'
+alias fc="fasd -fe code" # overwrites fc bash command, instead use up or ^r then ^x^e
 alias fn="fasd -fe nvim"
 alias fo="fasd -fe open"
+alias fp="fasd -fe pycharm"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 # alias fixname="for f in *\ *; do mv $f '$(date "+%Y-%m-%d")_${f// /-}"; done;"
 alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
@@ -227,6 +229,10 @@ alias od="func() { open $(echo '$(find $@ -type d -not -path "*.*" | fzf -m  || 
 alias of="func() { open $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 alias oo="open $(echo '$(fasd -al | fzf -m || echo -h)')"
 alias p="git push"
+alias pc="pycharm"
+alias pd="pycharm diff"
+alias py="python"
+alias pm="pycharm merge"
 alias pf="git push --force"
 alias pom="git push origin master"
 alias r="ranger"
@@ -269,10 +275,12 @@ alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * 
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
-# get z alias from from fasd plugin instead of z plugin
+# use z alias from fasd plugin instead of z plugin
+alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
 alias zn="fasd -de nvim"
 alias zo="fasd -de open"
+alias zp="fasd -de pycharm"
 alias zv="fasd -de '$EDITOR'"
 
 # brew installed python
