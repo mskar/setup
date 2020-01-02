@@ -324,6 +324,11 @@ bindkey '^x^e' edit-command-line
 # Vi style:
 # bindkey -M vicmd v edit-command-line
 
+# https://github.com/clvv/fasd#tab-completion
+bindkey '^X^A' fasd-complete    # C-x C-a to do fasd-complete (files and directories)
+bindkey '^X^F' fasd-complete-f  # C-x C-f to do fasd-complete-f (only files)
+bindkey '^X^D' fasd-complete-d  # C-x C-d to do fasd-complete-d (only directories)
+
 # taken from https://emily.st/2013/05/03/zsh-vi-cursor/
 function zle-keymap-select zle-line-init
 {
@@ -352,3 +357,8 @@ prompt_context() {}
 
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+# https://github.com/sharkdp/fd#using-fd-with-fzf
+# https://github.com/junegunn/fzf#respecting-gitignore
+export FZF_DEFAULT_COMMAND="fd --type file --color=always"
+export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
+export FZF_DEFAULT_OPTS="--ansi"
