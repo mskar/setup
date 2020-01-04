@@ -174,17 +174,15 @@ alias cfd="git clean -fd"
 alias cn="git clean -n"
 alias cnd="git clean -nd"
 alias co="git checkout"
-alias coh1="git checkout HEAD^"
-alias coh="git checkout HEAD"
+alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff --word-diff=color"
 alias dc="git diff --word-diff=color --cached" # --staged is a synonym of --cached
+alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dt="git difftool --tool vimdiff"
 alias dtc="git difftool --tool vimdiff --cached" # --staged is a synonym of --cached
 alias dty="git difftool -yt vimdiff"
 alias dtyc="git difftool -yt vimdiff --cached" # --staged is a synonym of --cached
-alias dh1="git diff --word-diff=color HEAD^"
-alias dh="git diff --word-diff=color HEAD"
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
@@ -241,8 +239,10 @@ alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv
 alias ra="git remote add"
 alias rau="git remote add upstream"
 alias rc="git rebase --continue"
-alias rh1="git reset HEAD^"
-alias rh="git reset HEAD"
+alias rs="git reset --soft" # resets by default to HEAD
+alias rh="func() { git reset $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
+alias rhh="func() { git reset --hard $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
+alias rsh="func() { git reset --soft $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias rq="git rebase --quit"
 alias rs="git rebase --skip"
 alias rv="git remote -v"
