@@ -145,13 +145,13 @@ alias 0="dirs -v"
 alias a="git add"
 alias aa="git add --all"
 alias aca="git add --all && git commit --amend"
-alias acam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit --amend -m $(echo '$message'); }; func"
-alias acamp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit --amend -m $(echo '$message') && git push --force; }; func"
+alias acam="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
+alias acamp="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias acap="git add --all && git commit --amend && git push --force"
 alias acar="git add --all && git commit --amend --reuse-message=HEAD --reset-author"
 alias acarp="git add --all && git commit --amend --reuse-message=HEAD --reset-author && git push --force"
-alias acm="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit -m $(echo '$message'); }; func"
-alias acmp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | cut -c4- | tr "\n" " ")'); fi && git add --all && git commit -m $(echo '$message') && git push; }; func"
+alias acm="func() { git add --all && git commit -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
+alias acmp="func() { git add --all && git commit -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias acp="git add --all && git commit && git push"
 alias acrp="git add --all && git commit --reuse-message=HEAD --reset-author && git push"
 alias ai="git add --interactive"
@@ -160,18 +160,18 @@ alias ba="git branch -a"
 alias br="git branch -r"
 alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); }; func";
 alias caa="git commit --amend -a"
-alias caam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit --amend -am $(echo '$message'); }; func"
-alias caamp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit --amend -am $(echo '$message') && git push --force; }; func"
+alias caam="func() { git commit --amend -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
+alias caamp="func() { git commit --amend -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias caap="git commit --amend -a && git push --force"
 alias caar="git commit --amend -a --reuse-message=HEAD --reset-author"
 alias caarp="git commit --amend -a --reuse-message=HEAD --reset-author && git push --force"
-alias cam="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -am $(echo '$message'); }; func"
-alias camp="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -am $(echo '$message') && git push; }; func"
+alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
+alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
 alias cf="git clean -f"
 alias cfd="git clean -fd"
-alias cm="func() { if $(echo '[ ! -z $1 ]'); then; message=$(echo '$@'); else; message='Changed files: '$(echo '$(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")'); fi && git commit -m $(echo '$message'); }; func"
+alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cn="git clean -n"
 alias cnd="git clean -nd"
 alias co="git checkout"
