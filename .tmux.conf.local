@@ -310,3 +310,13 @@ bind M-h resize-pane -L 10
 bind M-l resize-pane -R 10
 # https://unix.stackexchange.com/questions/30270/tmux-disable-confirmation-prompt-on-kill-window
 bind-key X kill-pane
+
+# List of plugins
+set -g @plugin 'tmux-plugins/tpm'
+set -g @plugin 'tmux-plugins/tmux-resurrect'
+set -g @plugin 'tmux-plugins/tmux-continuum'
+set -g @plugin 'tmux-plugins/tmux-yank'
+set -g @plugin 'christoomey/vim-tmux-navigator'
+
+# # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
+run -b '~/.tmux/plugins/tpm/tpm'
