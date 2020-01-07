@@ -35,7 +35,7 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status background_jobs vcs dir time ram virt
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 
-POWERLEVEL9K_TIME_FORMAT="%D{%Y-%m-%d \uf073 %H:%M \uf017}"
+POWERLEVEL9K_TIME_FORMAT="%D{%Y-%m-%d \uf073 %H:%M}" # \uf017 = clock
 
 POWERLEVEL9K_STATUS_VERBOSE=false
 #https://github.com/bhilburn/powerlevel9k
@@ -178,12 +178,16 @@ alias co="git checkout"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff --word-diff=color"
-alias dc="git diff --word-diff=color --cached" # --staged is a synonym of --cached
+alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
-alias dt="git difftool --tool vimdiff"
-alias dtc="git difftool --tool vimdiff --cached" # --staged is a synonym of --cached
-alias dty="git difftool -yt vimdiff"
-alias dtyc="git difftool -yt vimdiff --cached" # --staged is a synonym of --cached
+alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
+alias dcs="git difftool -yt code --extcmd 'code --wait --diff' --cached"
+alias dn="git difftool -yt nvim --extcmd 'nvim -d'"
+alias dns="git difftool -yt nvim --extcmd 'nvim -d' --cached"
+# alias dp="git difftool -yt pycharm --extcmd 'pycharm diff $LOCAL $REMOTE'"
+# alias dps="git difftool -yt pycharm --extcmd 'pycharm diff'"
+alias dv="git difftool -yt vimdiff"
+alias dvs="git difftool -yt vimdiff --cached" # --staged is a synonym of --cached
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
@@ -214,6 +218,13 @@ alias ll="ls -l"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
+alias mt="git mergetool -yt vimdiff"
+alias mc="git mergetool -yt code --extcmd 'code --wait'"
+alias mcs="git mergetool -yt code --extcmd 'code --wait' --cached"
+alias mn="git mergetool -yt nvim --extcmd 'nvim -d'"
+alias mns="git mergetool -yt nvim --extcmd 'nvim -d' --cached"
+# alias mp="git mergetool -yt pycharm --extcmd 'pycharm merge'"
+# alias mps="git mergetool -yt pycharm --extcmd 'pycharm merge'"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
 alias nd="nvim -d"
