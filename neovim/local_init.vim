@@ -26,11 +26,11 @@ cnoremap <C-b> <left>
 inoremap <A-d> <C-o>de
 cnoremap <A-d> <S-Right><C-w>
 " <a-k> = Move up; opposite of <a-j>
-inoremap <A-k> <up>
-cnoremap <A-k> <up>
+" inoremap <A-k> <up>
+" cnoremap <A-k> <up>
 " <a-j> = Move down; opposite of <a-k>
-inoremap <A-j> <down>
-cnoremap <A-j> <down>
+" inoremap <A-j> <down>
+" cnoremap <A-j> <down>
 " <a-f> = Move one word forward; opposite of <a-b>
 inoremap <A-f> <C-o>w
 cnoremap <A-f> <S-Right>
@@ -40,7 +40,7 @@ cnoremap <A-b> <S-Left>
 " <a-u> = Uppercase to word end; opposite of <a-l>
 inoremap <A-u> <C-[>gUeea
 " <a-l> = Lowercase to word end; opposite of <a-u>
-inoremap <A-l> <C-[>gueea
+" inoremap <A-l> <C-[>gueea
 " <a-t> = Swap current word with previous word
 inoremap <A-t> <C-[>diwbPldepa
 
@@ -213,15 +213,6 @@ au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
 set timeoutlen=1000 ttimeoutlen=10
-
-" Vim Tmux Navigator: change mappings to use alt instead of ctrl
-let g:tmux_navigator_no_mappings = 1
-
-nnoremap <silent> <a-h> :TmuxNavigateLeft<cr>
-nnoremap <silent> <a-j> :TmuxNavigateDown<cr>
-nnoremap <silent> <a-k> :TmuxNavigateUp<cr>
-nnoremap <silent> <a-l> :TmuxNavigateRight<cr>
-nnoremap <silent> <a-\> :TmuxNavigatePrevious<cr>
 
 "" Directories for swp files
 set nobackup

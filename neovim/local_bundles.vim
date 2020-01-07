@@ -21,8 +21,6 @@ Plug 'bfredl/nvim-miniyank'
 
 " Autocompletion using language server protocol
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-" Move seamlessly between vim windows and tmux panes
-Plug 'christoomey/vim-tmux-navigator'
 
 " Vim 8 only
 if !has('nvim')
@@ -48,7 +46,6 @@ Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 " From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
 Plug 'machakann/vim-highlightedyank'
-Plug 'ervandew/supertab'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-unimpaired'
