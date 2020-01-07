@@ -199,7 +199,9 @@ alias fp="fasd -fe pycharm"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
 alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
+alias gi="grep -i --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
+alias gir="grep -ir --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";

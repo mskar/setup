@@ -19,6 +19,11 @@ Plug 'jalvesaq/Nvim-R'
 Plug 'gaalcaras/ncm-R'
 Plug 'bfredl/nvim-miniyank'
 
+" Autocompletion using language server protocol
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" Move seamlessly between vim windows and tmux panes
+Plug 'christoomey/vim-tmux-navigator'
+
 " Vim 8 only
 if !has('nvim')
     Plug 'roxma/vim-hug-neovim-rpc'

@@ -120,6 +120,7 @@ brew install tmux
 git clone https://github.com/gpakosz/.tmux ~/.tmux
 ln -s -f ~/.tmux/.tmux.conf
 curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 # Python and R
 
