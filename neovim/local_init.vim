@@ -221,7 +221,7 @@ set nowritebackup
 
 " Setting suggested by coc.nvim
 " Better display for messages
-set cmdheight=2
+set cmdheight=1 "coc recommends 2
 
 " You will have bad experience for diagnostic messages when it's default 4000.
 set updatetime=300
