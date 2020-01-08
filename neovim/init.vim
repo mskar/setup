@@ -172,7 +172,7 @@ set gcr=a:blinkon0
 set scrolloff=3
 
 "" Status bar
-set laststatus=2
+set laststatus=1
 
 "" Use modeline overrides
 set modeline
