@@ -333,5 +333,7 @@ if !exists('##TextYankPost')
   map y <Plug>(highlightedyank)
 endif
 
+highlight VertSplit ctermbg=NONE guibg=NONE
+set fillchars+=vert:│
 set laststatus=0
 highlight Normal ctermfg=white ctermbg=black

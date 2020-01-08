@@ -449,5 +449,7 @@ set lazyredraw " Don't redraw while executing macros (good performance config)
 set showmatch " Show matching brackets when text indicator is over them
 set hidden " can put buffer to the background without writing to disk, will remember history/marks.
 
+highlight VertSplit ctermbg=NONE guibg=NONE
+set fillchars+=vert:│
 set laststatus=0
 highlight Normal ctermfg=white ctermbg=black
