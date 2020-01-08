@@ -13,7 +13,6 @@ inoremap <C-a> <Home>
 cnoremap <C-a> <Home>
 " Move one character forward; <c-f> is too useful to remap for : / ?
 inoremap <C-f> <right>
-" cnoremap <C-l> <right>
 " Move one character backward
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
@@ -47,20 +46,23 @@ inoremap <A-u> <C-[>gUeea
 " <a-t> = Swap current word with previous word
 inoremap <A-t> <C-[>diwbPldepa
 
+"" pandoc plugin
+" let g:pandoc#modules#disabled = ["folding"]
+let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
+
 " Fuzzy finder (FZF)
-" https://github.com/junegunn/fzf#as-vim-plugin
-set rtp+=/usr/local/opt/fzf
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
 nnoremap <silent> <leader>A :Ag<CR>
-nnoremap <silent> <leader>B :Bcommits<CR>
+nnoremap <silent> <leader>B :BCommits<CR>
 nnoremap <silent> <leader>c :Commits<CR>
 nnoremap <silent> <leader>C :Commands<CR>
-nnoremap <silent> <leader>gf :Gfiles<CR>
+nnoremap <silent> <leader>gf :GFiles<CR>
 nnoremap <silent> <leader>F :Files<CR>
 nnoremap <silent> <leader>H :Helptags<CR>
 nnoremap <silent> <leader>: :History:<CR>
 nnoremap <silent> <leader>/ :History/<CR>
-nnoremap <silent> <leader>? :History?<CR>
+nnoremap <silent> g: :History:<CR>
+nnoremap <silent> g/ :History/<CR>
 nnoremap <silent> <leader>m :Maps<CR>
 nnoremap <silent> <leader>' :Marks<CR>
 nnoremap <silent> <leader>l :BLines<CR>
@@ -98,8 +100,8 @@ set timeoutlen=1000 ttimeoutlen=10
 
 "" Directories for swp files
 set nobackup
-set nowritebackup
 set noswapfile
+set nowritebackup
 
 " Setting suggested by coc.nvim
 " Better display for messages
@@ -265,4 +267,5 @@ if !exists('##TextYankPost')
   map y <Plug>(highlightedyank)
 endif
 
+set laststatus=0
 highlight Normal ctermfg=white ctermbg=black

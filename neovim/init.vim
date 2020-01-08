@@ -27,19 +27,12 @@ call plug#begin(expand('~/.config/nvim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
-Plug 'scrooloose/nerdtree'
-Plug 'jistr/vim-nerdtree-tabs'
+Plug 'preservim/nerdtree'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-fugitive'
-Plug 'vim-airline/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
 Plug 'airblade/vim-gitgutter'
 Plug 'vim-scripts/grep.vim'
-Plug 'vim-scripts/CSApprox'
 Plug 'Raimondi/delimitMate'
-Plug 'majutsushi/tagbar'
-Plug 'Yggdroot/indentLine'
-Plug 'avelino/vim-bootstrap-updater'
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
 
@@ -49,11 +42,6 @@ else
   Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --bin' }
   Plug 'junegunn/fzf.vim'
 endif
-let g:make = 'gmake'
-if exists('make')
-        let g:make = 'make'
-endif
-Plug 'Shougo/vimproc.vim', {'do': g:make}
 
 "" Vim-Session
 Plug 'xolox/vim-misc'
@@ -73,7 +61,6 @@ Plug 'tomasr/molokai'
 " python
 "" Python Bundle
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
-
 
 "*****************************************************************************
 "*****************************************************************************
@@ -96,7 +83,6 @@ filetype plugin indent on
 set encoding=utf-8
 set fileencoding=utf-8
 set fileencodings=utf-8
-
 
 "" Fix backspace indent
 set backspace=indent,eol,start
@@ -148,57 +134,14 @@ set t_Co=256
 set guioptions=egmrti
 set gfn=Monospace\ 10
 
-if has("gui_running")
-  if has("gui_mac") || has("gui_macvim")
-    set guifont=Menlo:h12
-    set transparency=7
-  endif
-else
-  let g:CSApprox_loaded = 1
-
-  " IndentLine
-  let g:indentLine_enabled = 1
-  let g:indentLine_concealcursor = 0
-  let g:indentLine_char = '┆'
-  let g:indentLine_faster = 1
-
-
-endif
-
-
-
-"" Disable the blinking cursor.
-set gcr=a:blinkon0
-set scrolloff=3
-
-"" Status bar
-set laststatus=1
-
-"" Use modeline overrides
-set modeline
-set modelines=10
-
 set title
 set titleold="Terminal"
 set titlestring=%F
-
-set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)\
 
 " Search mappings: These will make it so that going to the next one in a
 " search will center on the line it's found in.
 nnoremap n nzzzv
 nnoremap N Nzzzv
-
-if exists("*fugitive#statusline")
-  set statusline+=%{fugitive#statusline()}
-endif
-
-" vim-airline
-let g:airline_theme = 'powerlineish'
-let g:airline#extensions#branch#enabled = 1
-let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tagbar#enabled = 1
-let g:airline_skip_empty_sections = 1
 
 "*****************************************************************************
 "" Abbreviations
@@ -224,18 +167,16 @@ let g:nerdtree_tabs_focus_on_files=1
 let g:NERDTreeMapOpenInTabSilent = '<RightMouse>'
 let g:NERDTreeWinSize = 50
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.pyc,*.db,*.sqlite
-nnoremap <silent> <F2> :NERDTreeFind<CR>
-nnoremap <silent> <F3> :NERDTreeToggle<CR>
+nnoremap <silent> <leader>n :NERDTreeToggle<CR>
 
 " grep.vim
-" nnoremap <silent> <leader>r :Rgrep<CR>
+nnoremap <silent> <leader>rg :Rgrep<CR>
 let Grep_Default_Options = '-IR'
 let Grep_Skip_Files = '*.log *.db'
 let Grep_Skip_Dirs = '.git node_modules'
 
 " terminal emulation
 nnoremap <silent> <leader>sh :terminal<CR>
-
 
 "*****************************************************************************
 "" Commands
@@ -288,22 +229,18 @@ set autoread
 "" Mappings
 "*****************************************************************************
 
-"" Split
-" noremap <Leader>h :<C-u>split<CR>
-" noremap <Leader>v :<C-u>vsplit<CR>
-
 "" Git
-noremap <Leader>ga :Gwrite<CR>
-noremap <Leader>w :Gwrite<CR>
+noremap <leader>ga :Gwrite<CR>
+noremap <leader>w :Gwrite<CR>
 noremap <leader>gc :Gwrite<bar>Gcommit<CR>
-noremap <Leader>gp :Gpush<CR>
-noremap <Leader>gu :Gpull<CR>
-noremap <Leader>gs :Gstatus<CR>
-noremap <Leader>gb :Gblame<CR>
-noremap <Leader>gd :Gvdiff<CR>
-noremap <Leader>gr :Gremove<CR>
-noremap <Leader>gl :Glog<CR>
-noremap <Leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
+noremap <leader>gp :Gpush<CR>
+noremap <leader>gu :Gpull<CR>
+noremap <leader>gs :Gstatus<CR>
+noremap <leader>gb :Gblame<CR>
+noremap <leader>gd :Gvdiff<CR>
+noremap <leader>gr :Gremove<CR>
+noremap <leader>gl :Glog<CR>
+noremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
 nnoremap gh :diffget //2<CR>
 nnoremap gl :diffget //3<CR>
 
@@ -313,19 +250,14 @@ nnoremap <leader>ss :SaveSession<Space>
 nnoremap <leader>sd :DeleteSession<CR>
 nnoremap <leader>sc :CloseSession<CR>
 
-"" Tabs
-" nnoremap <Tab> gt
-nnoremap <S-Tab> gT
-nnoremap <silent> <S-t> :tabnew<CR>
-
 "" Set working directory
 nnoremap <leader>. :lcd %:p:h<CR>
 
 "" Opens an edit command with the path of the currently edited file filled in
-noremap <Leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
+noremap <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
 
 "" Opens a tab edit command with the path of the currently edited file filled
-noremap <Leader>te :tabe <C-R>=expand("%:p:h") . "/" <CR>
+noremap <leader>te :tabe <C-R>=expand("%:p:h") . "/" <CR>
 
 "" fzf.vim
 set wildmode=list:longest,list:full
@@ -347,6 +279,7 @@ endif
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 nnoremap <silent> <leader>b :Buffers<CR>
+nnoremap <silent> gb :Buffers<CR>
 nnoremap <silent> <leader>z :FZF -m<CR>
 "Recovery commands from history through FZF
 nnoremap <silent> <leader>h :History<CR>
@@ -356,10 +289,6 @@ let g:UltiSnipsExpandTrigger="<tab>"
 let g:UltiSnipsJumpForwardTrigger="<tab>"
 let g:UltiSnipsJumpBackwardTrigger="<c-b>"
 let g:UltiSnipsEditSplit="vertical"
-
-" Tagbar
-nmap <silent> <F4> :TagbarToggle<CR>
-let g:tagbar_autofocus = 1
 
 " Disable visualbell
 set noerrorbells visualbell t_vb=
@@ -382,23 +311,8 @@ if has('macunix')
   vmap <C-c> :w !pbcopy<CR><CR>
 endif
 
-"" Buffer nav
-" noremap [B :bfirst<CR>
-" noremap [b :bprevious<CR>
-" noremap ]B :blast<CR>
-" noremap ]b :bnext<CR>
-
-"" Close buffer
-" noremap <leader>c :bd<CR>
-
 "" Clean search (highlight)
 nnoremap <silent> <leader><leader> :noh<cr>
-
-"" Switching windows
-" noremap <C-j> <C-w>j
-" noremap <C-k> <C-w>k
-" noremap <C-l> <C-w>l
-" noremap <C-h> <C-w>h
 
 "" Vmap for maintain Visual Mode after shifting > and <
 vmap < <gv
@@ -409,7 +323,7 @@ vnoremap J :m '>+1<CR>gv=gv
 vnoremap K :m '<-2<CR>gv=gv
 
 "" Open current line on GitHub
-nnoremap <Leader>o :.Gbrowse<CR>
+nnoremap <leader>o :.Gbrowse<CR>
 
 "*****************************************************************************
 "" Custom configs
@@ -424,15 +338,10 @@ augroup vimrc-python
       \ cinwords=if,elif,else,for,while,try,except,finally,def,class,with
 augroup END
 
-" vim-airline
-let g:airline#extensions#virtualenv#enabled = 1
-
 " Syntax highlight
 " Default highlight is better than polyglot
 let g:polyglot_disabled = ['python']
 let python_highlight_all = 1
-
-
 
 "*****************************************************************************
 "*****************************************************************************
@@ -440,44 +349,4 @@ let python_highlight_all = 1
 "" Include user's local vim config
 if filereadable(expand("~/.config/nvim/local_init.vim"))
   source ~/.config/nvim/local_init.vim
-endif
-
-"*****************************************************************************
-"" Convenience variables
-"*****************************************************************************
-
-" vim-airline
-if !exists('g:airline_symbols')
-  let g:airline_symbols = {}
-endif
-
-if !exists('g:airline_powerline_fonts')
-  let g:airline#extensions#tabline#left_sep = ' '
-  let g:airline#extensions#tabline#left_alt_sep = '|'
-  let g:airline_left_sep          = '▶'
-  let g:airline_left_alt_sep      = '»'
-  let g:airline_right_sep         = '◀'
-  let g:airline_right_alt_sep     = '«'
-  let g:airline#extensions#branch#prefix     = '⤴' "➔, ➥, ⎇
-  let g:airline#extensions#readonly#symbol   = '⊘'
-  let g:airline#extensions#linecolumn#prefix = '¶'
-  let g:airline#extensions#paste#symbol      = 'ρ'
-  let g:airline_symbols.linenr    = '␊'
-  let g:airline_symbols.branch    = '⎇'
-  let g:airline_symbols.paste     = 'ρ'
-  let g:airline_symbols.paste     = 'Þ'
-  let g:airline_symbols.paste     = '∥'
-  let g:airline_symbols.whitespace = 'Ξ'
-else
-  let g:airline#extensions#tabline#left_sep = ''
-  let g:airline#extensions#tabline#left_alt_sep = ''
-
-  " powerline symbols
-  let g:airline_left_sep = ''
-  let g:airline_left_alt_sep = ''
-  let g:airline_right_sep = ''
-  let g:airline_right_alt_sep = ''
-  let g:airline_symbols.branch = ''
-  let g:airline_symbols.readonly = ''
-  let g:airline_symbols.linenr = ''
 endif

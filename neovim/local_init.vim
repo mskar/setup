@@ -16,10 +16,15 @@ inoremap <C-a> <Home>
 cnoremap <C-a> <Home>
 " Move one character forward; <c-f> is too useful to remap for : / ?
 inoremap <C-f> <right>
-cnoremap <C-l> <right>
 " Move one character backward
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
+
+" Switch buffers
+tnoremap <C-w>; <C-\><C-n>:bn<CR>
+tnoremap <C-w>, <C-\><C-n>:bp<CR>
+nnoremap <C-w>; <C-\><C-n>:bn<CR>
+nnoremap <C-w>, <C-\><C-n>:bp<CR>
 
 " Alt keys
 " <a-d> = Delete word forward; opposite of <c-w>
@@ -170,15 +175,16 @@ let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
 nnoremap <silent> <leader>A :Ag<CR>
-nnoremap <silent> <leader>B :Bcommits<CR>
+nnoremap <silent> <leader>B :BCommits<CR>
 nnoremap <silent> <leader>c :Commits<CR>
 nnoremap <silent> <leader>C :Commands<CR>
-nnoremap <silent> <leader>gf :Gfiles<CR>
+nnoremap <silent> <leader>gf :GFiles<CR>
 nnoremap <silent> <leader>F :Files<CR>
 nnoremap <silent> <leader>H :Helptags<CR>
 nnoremap <silent> <leader>: :History:<CR>
 nnoremap <silent> <leader>/ :History/<CR>
-nnoremap <silent> <leader>? :History?<CR>
+nnoremap <silent> g: :History:<CR>
+nnoremap <silent> g/ :History/<CR>
 nnoremap <silent> <leader>m :Maps<CR>
 nnoremap <silent> <leader>' :Marks<CR>
 nnoremap <silent> <leader>l :BLines<CR>
@@ -377,4 +383,5 @@ set lazyredraw " Don't redraw while executing macros (good performance config)
 set showmatch " Show matching brackets when text indicator is over them
 set hidden " can put buffer to the background without writing to disk, will remember history/marks.
 
+set laststatus=0
 highlight Normal ctermfg=white ctermbg=black
