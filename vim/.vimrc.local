@@ -46,6 +46,72 @@ inoremap <A-u> <C-[>gUeea
 " <a-t> = Swap current word with previous word
 inoremap <A-t> <C-[>diwbPldepa
 
+" Run :file everytime I use a window command
+" Similar to how ]b and [b from unimpaired work
+nnoremap <C-w>+ <C-w>+<C-g>
+nnoremap <C-w>- <C-w>-<C-g>
+nnoremap <C-w>< <C-w><<C-g>
+nnoremap <C-w>= <C-w>=<C-g>
+nnoremap <C-w>> <C-w>><C-g>
+nnoremap <C-w>H <C-w>H<C-g>
+nnoremap <C-w>J <C-w>J<C-g>
+nnoremap <C-w>K <C-w>K<C-g>
+nnoremap <C-w>L <C-w>L<C-g>
+nnoremap <C-w>P <C-w>P<C-g>
+nnoremap <C-w>R <C-w>R<C-g>
+nnoremap <C-w>S <C-w>S<C-g>
+nnoremap <C-w>T <C-w>T<C-g>
+nnoremap <C-w>W <C-w>W<C-g>
+nnoremap <C-w>] <C-w>]<C-g>
+nnoremap <C-w>^ <C-w>^<C-g>
+nnoremap <C-w>_ <C-w>_<C-g>
+nnoremap <C-w>b <C-w>b<C-g>
+nnoremap <C-w>c <C-w>c<C-g>
+nnoremap <C-w>d <C-w>d<C-g>
+nnoremap <C-w>f <C-w>f<C-g>
+nnoremap <C-w>g <C-w>g<C-g>
+nnoremap <C-w>h <C-w>h<C-g>
+nnoremap <C-w>i <C-w>i<C-g>
+nnoremap <C-w>j <C-w>j<C-g>
+nnoremap <C-w>k <C-w>k<C-g>
+nnoremap <C-w>l <C-w>l<C-g>
+nnoremap <C-w>n <C-w>n<C-g>
+nnoremap <C-w>o <C-w>o<C-g>
+nnoremap <C-w>p <C-w>p<C-g>
+nnoremap <C-w>q <C-w>q<C-g>
+nnoremap <C-w>r <C-w>r<C-g>
+nnoremap <C-w>s <C-w>s<C-g>
+nnoremap <C-w>t <C-w>t<C-g>
+nnoremap <C-w>v <C-w>v<C-g>
+nnoremap <C-w>w <C-w>w<C-g>
+nnoremap <C-w>x <C-w>x<C-g>
+nnoremap <C-w>z <C-w>z<C-g>
+nnoremap <C-w>} <C-w>}<C-g>
+nnoremap <C-w><C-b> <C-w>b<C-g>
+nnoremap <C-w><C-c> <C-w>c<C-g>
+nnoremap <C-w><C-d> <C-w>d<C-g>
+nnoremap <C-w><C-f> <C-w>f<C-g>
+nnoremap <C-w><C-g> <C-w>g<C-g>
+nnoremap <C-w><C-h> <C-w>h<C-g>
+nnoremap <C-w><C-i> <C-w>i<C-g>
+nnoremap <C-w><C-j> <C-w>j<C-g>
+nnoremap <C-w><C-k> <C-w>k<C-g>
+nnoremap <C-w><C-l> <C-w>l<C-g>
+nnoremap <C-w><C-n> <C-w>n<C-g>
+nnoremap <C-w><C-o> <C-w>o<C-g>
+nnoremap <C-w><C-p> <C-w>p<C-g>
+nnoremap <C-w><C-q> <C-w>q<C-g>
+nnoremap <C-w><C-r> <C-w>r<C-g>
+nnoremap <C-w><C-s> <C-w>s<C-g>
+nnoremap <C-w><C-t> <C-w>t<C-g>
+nnoremap <C-w><C-v> <C-w>v<C-g>
+nnoremap <C-w><C-w> <C-w>w<C-g>
+nnoremap <C-w><C-x> <C-w>x<C-g>
+nnoremap <C-w><C-z> <C-w>z<C-g>
+nnoremap <C-w><C-]> <C-w>]<C-g>
+nnoremap <C-w><C-^> <C-w>^<C-g>
+nnoremap <C-w><C-_> <C-w>_<C-g>
+
 "" pandoc plugin
 " let g:pandoc#modules#disabled = ["folding"]
 let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
