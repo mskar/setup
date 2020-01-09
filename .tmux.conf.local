@@ -268,7 +268,7 @@ tmux_conf_theme_clock_style='24'
 #   - false (default)
 # on macOS, this requires installing reattach-to-user-namespace, see README.md
 # on Linux, this requires xsel or xclip
-tmux_conf_copy_to_os_clipboard=false
+tmux_conf_copy_to_os_clipboard=true
 
 
 # -- user customizations -------------------------------------------------------
@@ -309,7 +309,10 @@ bind M-j resize-pane -D 10
 bind M-h resize-pane -L 10
 bind M-l resize-pane -R 10
 # https://unix.stackexchange.com/questions/30270/tmux-disable-confirmation-prompt-on-kill-window
-bind-key X kill-pane
+bind X kill-pane
+
+# hide current pane with prefix x, to kill a pane use ctrl-d or run exit in empty terminal
+bind x select-pane -t :.+ \; resize-pane -Z
 
 # List of plugins
 set -g @plugin 'tmux-plugins/tpm'
