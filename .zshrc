@@ -208,6 +208,7 @@ alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; 
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { directory=$(echo '$(find $@ -type d -not -path "*.*" | fzf)') && cd $(echo '$directory'); }; func";
 alias jj="func() { directory=$(echo '$(fasd -dl | fzf)') && cd $(echo '$directory'); }; func";
+alias jj="func() { directory=$(echo '$(dirs | tr " " "\n" | fzf -m)') && cd $(echo '$directory'); }; func";
 alias jl="func() { jupyter lab $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
 alias jn="func() { jupyter notebook $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
