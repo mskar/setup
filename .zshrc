@@ -237,7 +237,7 @@ alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * 
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="n $(echo '$(fasd -fl | fzf -m || echo -h)')"
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
-alias nr="func() { n $(echo '$(n -c "pu =v:oldfiles" -es +%p +q! | fzf -m || echo -h)'); }; func"; # uses viminfo, shada files are binary
+alias nr="func() { n $(echo '$(n -es "+pu =v:oldfiles" +%p +q! | fzf -m || echo -h)'); }; func";
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="open"
@@ -294,6 +294,7 @@ alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
 alias vr="func() { v $(echo '$(grep -e "^> ~" -e "^> /" ~/.viminfo | cut -c3- | fzf -m || echo -h)'); }; func";
+alias vr="func() { v $(echo '$(v -u ~/.vimrc -es "+set nonumber" "+pu =v:oldfiles" +%p +q! | fzf -m || echo -h)'); }; func";
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias vv="v $(echo '$(fasd -fl | fzf -m || echo -h)')"
