@@ -230,11 +230,14 @@ alias mns="git mergetool -yt nvim --extcmd 'nvim -d' --cached"
 # alias mps="git mergetool -yt pycharm --extcmd 'pycharm merge'"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
-alias nd="nvim -d"
+alias nd="nvim --diff"
 alias nf="func() { n $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 # alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
+alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="n $(echo '$(fasd -fl | fzf -m || echo -h)')"
+alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
+alias nr="func() { n $(echo '$(grep -e "^> ~" -e "^> /" ~/.viminfo | cut -c3- | fzf -m || echo -h)'); }; func"; # uses viminfo, shada files are binary
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="open"
@@ -271,7 +274,7 @@ alias spa="git stash save --all && git pull && git stash apply"
 alias spp="git stash save --all && git pull && git stash pop"
 alias ss="git stash show"
 alias t="tmux"
-alias tt="tmux attach -t $(echo '$(tmux list-sessions | fzf -m | cut -d : -f 1)')"
+alias tt="tmux attach -t $(echo '$(tmux list-sessions | fzf -m | cut -d: -f1)')"
 alias ta="tmux attach -t"
 alias ti="tmux info"
 alias tk="tmux kill-session -t"
@@ -283,14 +286,17 @@ alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
-alias vd="v -d"
-alias vf="func() { v $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
-alias vv="v $(echo '$(fasd -fl | fzf -m || echo -h)')"
 # alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
+alias vd="v --diff"
+alias vf="func() { v $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
+alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
+alias vr="func() { v $(echo '$(grep -e "^> ~" -e "^> /" ~/.viminfo | cut -c3- | fzf -m || echo -h)'); }; func";
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
+alias vv="v $(echo '$(fasd -fl | fzf -m || echo -h)')"
 # use z alias from fasd plugin instead of z plugin
 alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
