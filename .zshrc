@@ -237,7 +237,7 @@ alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * 
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="n $(echo '$(fasd -fl | fzf -m || echo -h)')"
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
-alias nr="func() { n $(echo '$(n -c "pu =v:oldfiles" -es +%p | fzf -m || echo -h)'); }; func"; # uses viminfo, shada files are binary
+alias nr="func() { n $(echo '$(n -c "pu =v:oldfiles" -es +%p +q! | fzf -m || echo -h)'); }; func"; # uses viminfo, shada files are binary
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="open"
