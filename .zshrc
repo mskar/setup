@@ -207,10 +207,10 @@ alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { directory=$(echo '$(find $@ -type d -not -path "*.*" | fzf)') && cd $(echo '$directory'); }; func";
-alias jj="func() { directory=$(echo '$(fasd -dl | fzf)') && cd $(echo '$directory'); }; func";
 alias jj="func() { directory=$(echo '$(dirs | tr " " "\n" | fzf -m)') && cd $(echo '$directory'); }; func";
-alias jl="func() { jupyter lab $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
-alias jn="func() { jupyter notebook $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
+alias jj="func() { directory=$(echo '$(fasd -dl | fzf)') && cd $(echo '$directory'); }; func";
+alias jl="func() { jupyter lab $(echo '$(fd ${@:-.} --type f --extension ipynb | fzf -m || echo -h)'); }; func";
+alias jn="func() { jupyter notebook $(echo '$(fd ${@:-.} --type f --extension ipynb | fzf -m || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias lp="git log -p --word-diff=color"
@@ -230,8 +230,8 @@ alias mns="git mergetool -yt nvim --extcmd 'nvim -d' --cached"
 # alias mps="git mergetool -yt pycharm --extcmd 'pycharm merge'"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
-alias nd="nvim --diff"
-alias nf="func() { n $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
+alias nd="nvim -d"
+alias nf="func() { n $(echo '$(fd ${@:-.} --type f | fzf -m || echo -h)'); }; func";
 # alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
@@ -287,14 +287,14 @@ alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
 # alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias vd="v --diff"
-alias vf="func() { v $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
+alias vd="v -d"
+alias vf="func() { v $(echo '$(fd ${@:-.} --type f | fzf -m || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
 # alias vr="v $(echo '${$(v -u ~/.vimrc -es "+set nonumber" "+pu =v:oldfiles" +%p +q! | fzf -m || echo -h)/\~/$HOME}')"
-alias vr="v $(echo '${$(grep -e "^> " ~/.viminfo | cut -c3- | fzf -m || echo -h)/\~/$HOME}')"
+alias vr="v $(echo '${$(grep "^> " ~/.viminfo | cut -c3- | fzf -m || echo -h)/\~/$HOME}')"
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias vv="v $(echo '$(fasd -fl | fzf -m || echo -h)')"
