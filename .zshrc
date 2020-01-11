@@ -206,7 +206,7 @@ alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
-alias j="func() { directory=$(echo '$(find ${@:-$(pwd)} -type d -not -path "*.*" | fzf)') && cd $(echo '$directory'); }; func";
+alias j="func() { directory=$(echo '$(fd ^ $@ --type d | fzf)') && cd $(echo '$directory'); }; func";
 alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf -m)') && cd $(echo '$directory')"
 alias jj="directory=$(echo '$(fasd -dl | fzf)') && cd $(echo '$directory')"
 alias jl="func() { jupyter lab $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
@@ -241,7 +241,7 @@ alias nr="n $(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m || echo -
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="open"
-alias od="func() { o $(echo '$(find ${@:-$(pwd)} -type d -not -path "*.*" | fzf -m  || echo -h)'); }; func";
+alias od="func() { o $(echo '$(fd ^ $@ --type d | fzf -m  || echo -h)'); }; func";
 alias of="func() { o $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 alias oo="o $(echo '$(fasd -al | fzf -m || echo -h)')"
 alias p="git push"
