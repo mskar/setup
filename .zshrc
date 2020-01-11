@@ -206,11 +206,11 @@ alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
-alias j="func() { directory=$(echo '$(find $@ -type d -not -path "*.*" | fzf)') && cd $(echo '$directory'); }; func";
-alias jj="func() { directory=$(echo '$(dirs | tr " " "\n" | fzf -m)') && cd $(echo '$directory'); }; func";
-alias jj="func() { directory=$(echo '$(fasd -dl | fzf)') && cd $(echo '$directory'); }; func";
-alias jl="func() { jupyter lab $(echo '$(fd ${@:-.} --type f --extension ipynb | fzf -m || echo -h)'); }; func";
-alias jn="func() { jupyter notebook $(echo '$(fd ${@:-.} --type f --extension ipynb | fzf -m || echo -h)'); }; func";
+alias j="func() { directory=$(echo '$(find ${@:-$(pwd)} -type d -not -path "*.*" | fzf)') && cd $(echo '$directory'); }; func";
+alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf -m)') && cd $(echo '$directory')"
+alias jj="directory=$(echo '$(fasd -dl | fzf)') && cd $(echo '$directory')"
+alias jl="func() { jupyter lab $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
+alias jn="func() { jupyter notebook $(echo '$(fd $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias lp="git log -p --word-diff=color"
@@ -241,7 +241,7 @@ alias nr="n $(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m || echo -
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="open"
-alias od="func() { open $(echo '$(find $@ -type d -not -path "*.*" | fzf -m  || echo -h)'); }; func";
+alias od="func() { open $(echo '$(find ${@:-$(pwd)} -type d -not -path "*.*" | fzf -m  || echo -h)'); }; func";
 alias of="func() { open $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 alias oo="open $(echo '$(fasd -al | fzf -m || echo -h)')"
 alias p="git push"
