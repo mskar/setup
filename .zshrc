@@ -230,8 +230,8 @@ alias mns="git mergetool -yt nvim --extcmd 'nvim -d' --cached"
 # alias mps="git mergetool -yt pycharm --extcmd 'pycharm merge'"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
-alias nd="nvim -d"
-alias nf="func() { n $(echo '$(fd ${@:-.} --type f | fzf -m || echo -h)'); }; func";
+alias nd="n -d"
+alias nf="func() { n $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 # alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
@@ -241,9 +241,9 @@ alias nr="n $(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m || echo -
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias o="open"
-alias od="func() { open $(echo '$(find ${@:-$(pwd)} -type d -not -path "*.*" | fzf -m  || echo -h)'); }; func";
-alias of="func() { open $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
-alias oo="open $(echo '$(fasd -al | fzf -m || echo -h)')"
+alias od="func() { o $(echo '$(find ${@:-$(pwd)} -type d -not -path "*.*" | fzf -m  || echo -h)'); }; func";
+alias of="func() { o $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
+alias oo="o $(echo '$(fasd -al | fzf -m || echo -h)')"
 alias p="git push"
 alias pc="pycharm"
 alias pd="pycharm diff"
@@ -288,7 +288,7 @@ alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
 # alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias vd="v -d"
-alias vf="func() { v $(echo '$(fd ${@:-.} --type f | fzf -m || echo -h)'); }; func";
+alias vf="func() { v $(echo '$(fd $@ --type f | fzf -m || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
