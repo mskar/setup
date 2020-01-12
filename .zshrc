@@ -233,7 +233,8 @@ alias n="nvim"
 alias nd="n -d"
 alias nf="func() { n $(echo '$(fd ^ $@ --type f | fzf -m || echo -h)'); }; func";
 # alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
+alias ng="func() { n $(echo '$(grep $@ * -nr --exclude-dir={.git,.idea,.vscode} | fzf -m | cut -d: -f1 || echo -h)'); }; func";
+alias nl="func() { n $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m || echo -h)'); }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="n $(echo '$(fasd -fl | fzf -m || echo -h)')"
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
@@ -289,7 +290,8 @@ alias v="$EDITOR"
 # alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
 alias vd="v -d"
 alias vf="func() { v $(echo '$(fd ^ $@ --type f | fzf -m || echo -h)'); }; func";
-alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | fzf -m || echo -h)'); }; func";
+alias vg="func() { v $(echo '$(grep $@ * -nr --exclude-dir={.git,.idea,.vscode} | fzf -m | cut -d: -f1 || echo -h)'); }; func";
+alias vl="func() { v $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m || echo -h)'); }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
