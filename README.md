@@ -123,8 +123,13 @@ brew install tmux
 
 ## Install oh my tmux
 git clone https://github.com/gpakosz/.tmux ~/.tmux
+
 ln -s -f ~/.tmux/.tmux.conf
+
+cp ~/.tmux/.tmux.conf.local ~
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
+
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 # Python and R
