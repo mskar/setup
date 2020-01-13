@@ -99,7 +99,10 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.
 
 ## Set up SpaceVim
 git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
-curl https://raw.githubusercontent.com/py4ds/setup/master/init.toml -o ~/.SpaceVim.d/init.toml --create-dirs
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o ~/.SpaceVim.d/init.toml --create-dirs
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 
 ## TODO: what do vim and neovim depend on?
 brew install ctags
