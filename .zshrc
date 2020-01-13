@@ -181,9 +181,11 @@ alias d="git diff --word-diff=color"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
-alias dcs="git difftool -yt code --extcmd 'code --wait --diff' --cached"
+alias dcs="git difftool -yt code --extcmd 'code --wait --diff' --cached" # --staged is a synonym of --cached
 alias dn="git difftool -yt nvim --extcmd 'nvim -d'"
-alias dns="git difftool -yt nvim --extcmd 'nvim -d' --cached"
+alias dns="git difftool -yt nvim --extcmd 'nvim -d' --cached" # --staged is a synonym of --cached
+alias du="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
+alias dus="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached" # --staged is a synonym of --cached
 # alias dp="git difftool -yt pycharm --extcmd 'pycharm diff $LOCAL $REMOTE'"
 # alias dps="git difftool -yt pycharm --extcmd 'pycharm diff'"
 alias dv="git difftool -yt vimdiff"
@@ -196,8 +198,8 @@ alias fc="fasd -fe code" # overwrites fc bash command, instead use up or ^r then
 alias fn="fasd -fe nvim"
 alias fo="fasd -fe open"
 alias fp="fasd -fe pycharm"
+alias fu="fasd -fe 'nvim -u ~/.SpaceVim/init.vim'"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
-alias fs="fasd -fe 'vim -u ~/.SpaceVim/vimrc'"
 alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
 alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gi="grep -i --color=auto --exclude-dir={.git,.idea,.vscode}"
@@ -222,19 +224,20 @@ alias ll="ls -l"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
-alias mt="git mergetool -yt vimdiff"
 alias mc="git mergetool -yt code --extcmd 'code --wait'"
 alias mcs="git mergetool -yt code --extcmd 'code --wait' --cached"
 alias mn="git mergetool -yt nvim --extcmd 'nvim -d'"
 alias mns="git mergetool -yt nvim --extcmd 'nvim -d' --cached"
+alias mt="git mergetool -yt vimdiff" # mv is taken
+alias mts="git mergetool -yt vimdiff --cached"
+alias mu="git mergetool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
+alias mus="git mergetool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached"
 # alias mp="git mergetool -yt pycharm --extcmd 'pycharm merge'"
 # alias mps="git mergetool -yt pycharm --extcmd 'pycharm merge'"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
-alias nd="n -d"
+alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias nf="func() { n $(echo '$(fd ^ $@ --type f | fzf -m || echo -h)'); }; func";
-# alias ng="func() { n $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias ng="func() { n $(echo '$(grep $@ * -nr --exclude-dir={.git,.idea,.vscode} | fzf -m | cut -d: -f1 || echo -h)'); }; func";
 alias nl="func() { n $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m || echo -h)'); }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="n $(echo '$(fasd -fl | fzf -m || echo -h)')"
@@ -242,6 +245,7 @@ alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
 alias nr="n $(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m || echo -h)')"
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
+alias nu="n -u ~/.SpaceVim/init.vim"
 alias o="open"
 alias od="func() { o $(echo '$(fd ^ $@ --type d | fzf -m  || echo -h)'); }; func";
 alias of="func() { o $(echo '$(fd ^ $@ --type f | fzf -m || echo -h)'); }; func";
@@ -275,7 +279,6 @@ alias sp="git stash pop"
 alias spa="git stash save --all && git pull && git stash apply"
 alias spp="git stash save --all && git pull && git stash pop"
 alias ss="git stash show"
-alias sv="vim -u ~/.SpaceVim/vimrc"
 alias t="tmux"
 alias tt="tmux attach -t $(echo '$(tmux list-sessions | fzf -m | cut -d: -f1)')"
 alias ta="tmux attach -t"
@@ -285,12 +288,13 @@ alias tl="tmux list-sessions"
 alias tn="tmux new -s"
 alias ts="tmux switch -t"
 alias u="git pull"
+alias uo="git pull origin"
+alias uom="git pull origin master"
 alias ur="git pull --rebase"
 alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
-# alias vg="func() { v $(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} $@ * | tr "\n" " ")'); }; func";
-alias vd="v -d"
+alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vf="func() { v $(echo '$(fd ^ $@ --type f | fzf -m || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep $@ * -nr --exclude-dir={.git,.idea,.vscode} | fzf -m | cut -d: -f1 || echo -h)'); }; func";
 alias vl="func() { v $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m || echo -h)'); }; func";
@@ -301,14 +305,15 @@ alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
 alias vr="v $(echo '${$(grep "^> " ~/.viminfo | cut -c3- | fzf -m || echo -h)/\~/$HOME}')"
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
+alias vu="v -u ~/.SpaceVim/vimrc"
 alias vv="v $(echo '$(fasd -fl | fzf -m || echo -h)')"
 # use z alias from fasd plugin instead of z plugin
 alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
 alias zn="fasd -de nvim"
-alias zs="fasd -de 'vim -u ~/.SpaceVim/vimrc'"
 alias zo="fasd -de open"
 alias zp="fasd -de pycharm"
+alias zu="fasd -de 'vim -u ~/.SpaceVim/vimrc'"
 alias zv="fasd -de '$EDITOR'"
 
 # brew installed python
