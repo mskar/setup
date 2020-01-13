@@ -198,7 +198,8 @@ alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
 alias fl='fasd -fl'
-# fc is a built-in command that is used by fzf ctrl-r
+# fc is a builtin command that is used by fzf ctrl-r
+alias fd="fdfind"
 alias fn="fasd -fe nvim"
 alias fo="fasd -fe open"
 alias fp="fasd -fe pycharm"
@@ -213,11 +214,11 @@ alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
-alias j="func() { directory=$(echo '$(fd ^ $@ --type d | fzf)') && cd $(echo '$directory'); }; func";
+alias j="func() { directory=$(echo '$(fdfind ^ $@ --type d | fzf)') && cd $(echo '$directory'); }; func";
 alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf -m)') && cd $(echo '$directory')"
 alias jj="directory=$(echo '$(fasd -dl | fzf)') && cd $(echo '$directory')"
-alias jl="func() { jupyter lab $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
-alias jn="func() { jupyter notebook $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
+alias jl="func() { jupyter lab $(echo '$(fdfind ^ $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
+alias jn="func() { jupyter notebook $(echo '$(fdfind ^ $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias lp="git log -p --word-diff=color"
@@ -241,7 +242,7 @@ alias mus="git mergetool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cac
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
-alias nf="func() { n $(echo '$(fd ^ $@ --type f | fzf -m || echo -h)'); }; func";
+alias nf="func() { n $(echo '$(fdfind ^ $@ --type f | fzf -m || echo -h)'); }; func";
 alias nl="func() { n $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m || echo -h)'); }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="n $(echo '$(fasd -fl | fzf -m || echo -h)')"
@@ -251,8 +252,8 @@ alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias nu="n -u ~/.SpaceVim/init.vim"
 alias o="open"
-alias od="func() { o $(echo '$(fd ^ $@ --type d | fzf -m  || echo -h)'); }; func";
-alias of="func() { o $(echo '$(fd ^ $@ --type f | fzf -m || echo -h)'); }; func";
+alias od="func() { o $(echo '$(fdfind ^ $@ --type d | fzf -m  || echo -h)'); }; func";
+alias of="func() { o $(echo '$(fdfind ^ $@ --type f | fzf -m || echo -h)'); }; func";
 alias oo="o $(echo '$(fasd -al | fzf -m || echo -h)')"
 alias p="git push"
 alias pc="pycharm"
@@ -299,7 +300,7 @@ alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
-alias vf="func() { v $(echo '$(fd ^ $@ --type f | fzf -m || echo -h)'); }; func";
+alias vf="func() { v $(echo '$(fdfind ^ $@ --type f | fzf -m || echo -h)'); }; func";
 alias vg="func() { v $(echo '$(grep $@ * -nr --exclude-dir={.git,.idea,.vscode} | fzf -m | cut -d: -f1 || echo -h)'); }; func";
 alias vl="func() { v $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m || echo -h)'); }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
@@ -404,6 +405,6 @@ prompt_context() {}
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 # https://github.com/sharkdp/fd#using-fd-with-fzf
 # https://github.com/junegunn/fzf#respecting-gitignore
-export FZF_DEFAULT_COMMAND="fd --type file --color=always"
+export FZF_DEFAULT_COMMAND="fdfind --color=always"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 export FZF_DEFAULT_OPTS="--ansi"
