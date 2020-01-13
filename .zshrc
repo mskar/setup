@@ -118,7 +118,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
-export EDITOR='/usr/local/bin/vim'
+export EDITOR='/usr/bin/vim'
 # else
 #   export EDITOR='mvim'
 # fi
@@ -157,6 +157,7 @@ alias acrp="git add --all && git commit --reuse-message=HEAD --reset-author && g
 alias ai="git add --interactive"
 alias b="git branch"
 alias ba="git branch -a"
+alias bb="git checkout $(echo '$(git --no-pager branch | fzf)')"
 alias br="git branch -r"
 alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); }; func";
 alias caa="git commit --amend -a"
@@ -169,15 +170,18 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
+alias cc="git checkout $(echo '$(git log --pretty=format:"%h:%cd %s [%cn]" --date=short | fzf | cut -d: -f1)')"
 alias cf="git clean -f"
 alias cfd="git clean -fd"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cn="git clean -n"
 alias cnd="git clean -nd"
 alias co="git checkout"
+alias cob="git checkout -b"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff --word-diff=color"
+alias dd="git diff --word-diff=color $(echo '$(git log --pretty=format:"%h:%cd %s [%cn]" --date=short | fzf | cut -d: -f1)')"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
