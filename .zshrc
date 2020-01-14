@@ -170,7 +170,7 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
-cc() { sha=$(git log --color=always --format="%C(yellow)%h:%C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d" $@ | fzf --ansi --no-sort --reverse --tiebreak=index --bind=ctrl-s:toggle-sort | cut -d: -f1) && git checkout $sha }
+cc() { git checkout $(git log --color=always --format="%C(yellow)%h:%C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d" $@ | fzf --ansi --no-sort --reverse --tiebreak=index --bind=ctrl-s:toggle-sort | cut -d: -f1) }
 alias cf="git clean -f"
 alias cfd="git clean -fd"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
