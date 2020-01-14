@@ -215,7 +215,7 @@ alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; 
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { directory=$(echo '$(fd ^ $@ --type d | fzf)') && cd $(echo '$directory'); }; func";
 # alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf)') && cd $(echo '$directory')"
-alias jj="directory=$(echo '$(fasd -dl | fzf)') && cd $(echo '$directory')"
+alias jj="directory=$(echo '$(fasd -Rdl | fzf)') && cd $(echo '$directory')"
 alias jl="func() { jupyter lab $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
 alias jn="func() { jupyter notebook $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
@@ -245,7 +245,7 @@ alias nf="func() { n $(echo '$(fd ^ $@ --type f | fzf -m --no-sort --preview "ba
 alias ng="func() { n $(echo '$(grep $@ * -nr --exclude-dir={.git,.idea,.vscode} | fzf -m | cut -d: -f1)'); }; func";
 alias nl="func() { n $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)'); }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
-alias nn="n $(echo '$(fasd -fl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)')"
+alias nn="n $(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)')"
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
 alias nr="n $(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)')"
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
@@ -254,7 +254,7 @@ alias nu="n -u ~/.SpaceVim/init.vim"
 alias o="open"
 alias od="func() { o $(echo '$(fd ^ $@ --type d | fzf -m  || echo -h)'); }; func";
 alias of="func() { o $(echo '$(fd ^ $@ --type f | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)'); }; func";
-alias oo="o $(echo '$(fasd -al | fzf -m || echo -h)')"
+alias oo="o $(echo '$(fasd -Ral | fzf -m || echo -h)')"
 alias p="git push"
 alias pc="pycharm"
 alias pd="pycharm diff"
@@ -311,7 +311,7 @@ alias vr="v $(echo '${$(grep "^> " ~/.viminfo | cut -c3- | fzf -m || echo -h)/\~
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias vu="v -u ~/.SpaceVim/vimrc"
-alias vv="v $(echo '$(fasd -fl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)')"
+alias vv="v $(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)')"
 # use z alias from fasd plugin instead of z plugin
 alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
