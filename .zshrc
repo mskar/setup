@@ -301,7 +301,7 @@ alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vf="func() { v $(echo '$(fd ^ $@ --type f | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)'); }; func";
-alias vg="func() { v $(echo '$(grep $@ * -nr --exclude-dir={.git,.idea,.vscode} | fzf -m | cut -d: -f1)'); }; func";
+vg() { v $(grep $@ * -nr | fzf | awk -F: '{printf "%s +%s", $1, $2}') }
 alias vl="func() { v $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)'); }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
