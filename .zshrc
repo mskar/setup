@@ -246,7 +246,8 @@ alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; fun
 alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias nf="func() { n $(echo '$(fd ^ $@ --type f | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)'); }; func";
-alias ng="func() { n $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
+# alias ng="func() { n $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
+alias ng="func() { read -r file line <<<$(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")') && [ ! -z $(echo '$file') ] || [ ! -z $(echo '$line') ] && n $(echo '$file' '$line'); }; func";
 alias nl="func() { n $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)'); }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="n $(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)')"
@@ -305,7 +306,8 @@ alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vf="func() { v $(echo '$(fd ^ $@ --type f | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)'); }; func";
-alias vg="func() { v $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
+# alias vg="func() { v $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
+alias vg="func() { read -r file line <<<$(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")') && [ ! -z $(echo '$file') ] || [ ! -z $(echo '$line') ] && v $(echo '$file' '$line'); }; func";
 alias vl="func() { v $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)'); }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
