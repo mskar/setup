@@ -313,7 +313,7 @@ alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
 # alias vr="v $(echo '${$(v -u ~/.vimrc -es "+set nonumber" "+pu =v:oldfiles" +%p +q! | fzf -m || echo -h)/\~/$HOME}')"
-alias vr="v $(echo '$(grep "^> " ~/.viminfo | cut -c3- | sed "s+~+$HOME+" | fzf  -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)')"
+alias vr="v $(echo '$(grep "^> " ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf  -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)')"
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias vu="v -u ~/.SpaceVim/vimrc"
