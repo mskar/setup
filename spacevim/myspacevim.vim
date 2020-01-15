@@ -1,5 +1,6 @@
 function! myspacevim#after() abort
     unmap <c-c>
+    unmap ,<space>
 endfunction
 
 " https://github.com/liuchengxu/space-vim/issues/356
