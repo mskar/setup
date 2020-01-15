@@ -220,8 +220,8 @@ alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); els
 alias j="func() { directory=$(echo '$(fd ^ $@ --type d | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse)') && cd $(echo '$directory'); }; func";
 # alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf)') && cd $(echo '$directory')"
 alias jj="directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse)') && cd $(echo '$directory')"
-alias jl="func() { jupyter lab $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
-alias jn="func() { jupyter notebook $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m || echo -h)'); }; func";
+alias jl="func() { jupyter lab $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --preview="jupyter nbconvert --to markdown {} --stdout" || echo -h)'); }; func";
+alias jn="func() { jupyter notebook $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --preview="jupyter nbconvert --to markdown {} --stdout" || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias lp="git log -p --word-diff=color"
@@ -251,7 +251,7 @@ alias nl="func() { n $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} 
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="n $(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)')"
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
-alias nr="n $(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" || echo -h)')"
+alias nr="n $(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)')"
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias nu="n -u ~/.SpaceVim/init.vim"
