@@ -217,9 +217,9 @@ alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
-alias j="func() { directory=$(echo '$(fd ^ $@ --type d | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse)') && cd $(echo '$directory'); }; func";
+alias j="func() { local directory; directory=$(echo '$(fd ^ $@ --type d | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse)') && cd $(echo '$directory'); }; func";
 # alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf)') && cd $(echo '$directory')"
-alias jj="directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse)') && cd $(echo '$directory')"
+alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse)') && cd $(echo '$directory'); }; func";
 alias jl="func() { jupyter lab $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --preview="jupyter nbconvert --to markdown {} --stdout" || echo -h)'); }; func";
 alias jn="func() { jupyter notebook $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --preview="jupyter nbconvert --to markdown {} --stdout" || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
@@ -307,7 +307,7 @@ alias v="$EDITOR"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vf="func() { v $(echo '$(fd ^ $@ --type f | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)'); }; func";
 # alias vg="func() { v $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
-alias vg="func() { read -r file line <<<$(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")') && [ ! -z $(echo '$file') ] || [ ! -z $(echo '$line') ] && v $(echo '$file' '$line'); }; func";
+alias vg="func() { local file; local line; read -r file line <<<$(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")') && [ ! -z $(echo '$file') ] || [ ! -z $(echo '$line') ] && v $(echo '$file' '$line'); }; func";
 alias vl="func() { v $(echo '$(grep $@ * -lr --exclude-dir={.git,.idea,.vscode} | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)'); }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
