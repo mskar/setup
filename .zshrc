@@ -217,9 +217,9 @@ alias h='history'
 alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
-alias j="func() { local directory; directory=$(echo '$(fd ^ $@ --type d | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse)') && cd $(echo '$directory'); }; func";
+alias j="func() { local directory; directory=$(echo '$(fd ^ $@ --type d | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
 # alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf)') && cd $(echo '$directory')"
-alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse)') && cd $(echo '$directory'); }; func";
+alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
 alias jl="func() { jupyter lab $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --preview="jupyter nbconvert --to markdown {} --stdout" || echo -h)'); }; func";
 alias jn="func() { jupyter notebook $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --preview="jupyter nbconvert --to markdown {} --stdout" || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
@@ -257,7 +257,7 @@ alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias nu="n -u ~/.SpaceVim/init.vim"
 alias o="open"
-alias od="func() { o $(echo '$(fd ^ $@ --type d | fzf -m --no-sort --preview="CLICOLOR_FORCE=1 ls -G {}" --reverse || echo -h)'); }; func";
+alias od="func() { o $(echo '$(fd ^ $@ --type d | fzf -m --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse || echo -h)'); }; func";
 alias of="func() { o $(echo '$(fd ^ $@ --type f | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse || echo -h)'); }; func";
 alias oo="o $(echo '$(fasd -Ral | fzf -m || echo -h)')"
 alias p="git push"
