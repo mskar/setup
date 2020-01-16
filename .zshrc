@@ -194,10 +194,10 @@ alias dn="git difftool -yt nvim --extcmd 'nvim -d'"
 alias dns="git difftool -yt nvim --extcmd 'nvim -d' --cached" # --staged is a synonym of --cached
 alias du="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
 alias dus="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached" # --staged is a synonym of --cached
+alias dt="git difftool -yt vimdiff" # difftool is dt to match mergetool (nt)
+alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cached
 # alias dp="git difftool -yt pycharm --extcmd 'pycharm diff $LOCAL $REMOTE'"
 # alias dps="git difftool -yt pycharm --extcmd 'pycharm diff'"
-alias dv="git difftool -yt vimdiff"
-alias dvs="git difftool -yt vimdiff --cached" # --staged is a synonym of --cached
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
@@ -220,8 +220,8 @@ alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); els
 alias j="func() { local directory; directory=$(echo '$(fd ^ $@ --type d | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
 # alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf)') && cd $(echo '$directory')"
 alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
-alias jl="func() { jupyter lab $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --preview="jupyter nbconvert --to markdown {} --stdout" || echo -h)'); }; func";
-alias jn="func() { jupyter notebook $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --preview="jupyter nbconvert --to markdown {} --stdout" || echo -h)'); }; func";
+alias jl="func() { jupyter lab $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout" --reverse || echo -h)'); }; func";
+alias jn="func() { jupyter notebook $(echo '$(fd ^ $@ --type f --extension ipynb | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout" --reverse || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias lp="git log -p --word-diff=color"
