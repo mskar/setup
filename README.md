@@ -60,6 +60,9 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc && 
 ## Install fzf
 brew install fzf && $(brew --prefix)/opt/fzf/install
 
+## Install bat - for fzf file preview
+brew install bat
+
 ## Install tree
 brew install tree
 
@@ -115,7 +118,7 @@ brew cask install flycut
 ## Install shiftit
 brew cask install shiftit
 
-# Install terminal tools (e.g. pdftotext)
+# Install terminal tools (e.g. pdftotext - for fzf PDF file preview)
 brew install xpdf
 
 ## Install keycastr
