@@ -143,7 +143,7 @@ eval "$(fasd --init auto)"
 
 alias 0="dirs -v"
 alias a="git add"
-alias aa="func() { git add $(echo '$(git status -s $@ | fzf --ansi --no-sort --preview="file=\$(echo {} | cut -c4- ); if $(echo {} | grep ^??); then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse --tiebreak=index | cut -c4-)'); }; func"
+alias aa="func() { git add $(echo '$(git status -s $@ | fzf --ansi --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse --tiebreak=index | cut -c4-)'); }; func"
 alias aca="git add --all && git commit --amend"
 alias acam="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acamp="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
