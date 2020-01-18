@@ -174,15 +174,12 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
-alias cc="func() { git checkout $(echo '$(git log --color=always --date=short --format="%Cblue%h:%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d" $@ | fzf --ansi --no-sort --reverse --tiebreak=index | cut -d: -f1)'); }; func"
-alias cf="git clean -f"
-alias cfd="git clean -fd"
+alias cc="func() { git checkout $(echo '$@ -- $(git log --color=always --date=short --format="%Cblue%h:%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d" | fzf --ansi --no-sort --reverse --tiebreak=index | cut -d: -f1)'); }; func"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cn="git clean -n"
 alias cnd="git clean -nd"
 alias co="git checkout"
 alias cob="git checkout -b"
-alias coco="func() { git checkout $@ HEAD -- $(echo '$(git status -s --untracked-files=no $@ | grep -e ^M -e "^ M" | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | cut -c4- )" --reverse --tiebreak=index | cut -c4-)'); }; func"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff --word-diff=color"
@@ -202,6 +199,7 @@ alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cache
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
+alias ff="func() { git checkout HEAD $(echo '$@ -- $(git diff HEAD --name-only --relative --diff-filter=M | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always -- {}" --reverse --tiebreak=index)'); }; func"
 alias fl='fasd -fl'
 # fc is a built-in command that is used by fzf ctrl-r
 alias fn="fasd -fe nvim"
@@ -274,7 +272,7 @@ alias pf="git push --force"
 alias pom="git push origin master"
 # alias r="ranger"
 alias r="git reset"
-alias rr="func() { local files; files=$(echo '$(git status -s --untracked-files=no $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | cut -c4- )" --reverse --tiebreak=index | cut -c4-)') && [ ! -z $(echo '$files') ] && git reset HEAD -- $(echo '$files'); }; func"
+alias rr="func() { local files; files=$(echo '$(git diff --cached --name-only --relative | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always {}" --reverse --tiebreak=index)') && git reset HEAD $(echo '$@ -- $files'); }; func"
 # alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
@@ -283,7 +281,7 @@ alias rc="git rebase --continue"
 alias rs="git reset --soft" # resets by default to HEAD
 alias rh="func() { git reset $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias rhh="func() { git reset --hard $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
-alias rsh="func() { git reset --soft $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
+alias rhs="func() { git reset --soft $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias rq="git rebase --quit"
 alias rs="git rebase --skip"
 alias rv="git remote -v"
