@@ -159,7 +159,7 @@ alias acrp="git add --all && git commit --reuse-message=HEAD --reset-author && g
 alias ai="git add --interactive"
 alias b="git branch"
 alias ba="git branch -a"
-alias bb="func() { git checkout $(echo '$@ -- $(git branch --color=always | fzf --ansi --no-sort --preview="git diff --color=always \$(echo \$(git rev-parse --abbrev-ref HEAD)..{})" --reverse)'); }; func"
+alias bb="func() { git checkout $(echo '$@ $(git branch --color=always | fzf --ansi --no-sort --preview="git diff --color=always \$(echo \$(git rev-parse --abbrev-ref HEAD)..{})" --reverse)'); }; func"
 alias br="git branch -r"
 alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); }; func";
 alias ca="git commit -a"
