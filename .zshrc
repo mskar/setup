@@ -199,7 +199,7 @@ alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cache
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
-alias ff="func() { git checkout HEAD $(echo '$@ -- $(git diff HEAD --name-only --relative --diff-filter=M | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always -- {}" --reverse --tiebreak=index)'); }; func"
+alias ff="func() { git checkout HEAD $(echo '$@ -- $(git diff HEAD --name-status --relative --diff-filter=M | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always -- \$(echo {} | cut -c3-)" --reverse --tiebreak=index | cut -c3-)'); }; func"
 alias fl='fasd -fl'
 # fc is a built-in command that is used by fzf ctrl-r
 alias fn="fasd -fe nvim"
@@ -272,7 +272,7 @@ alias pf="git push --force"
 alias pom="git push origin master"
 # alias r="ranger"
 alias r="git reset"
-alias rr="func() { local files; files=$(echo '$(git diff --cached --name-only --relative | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always {}" --reverse --tiebreak=index)') && git reset HEAD $(echo '$@ -- $files'); }; func"
+alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | -c3-)" --reverse --tiebreak=index | cut -c3-)') && git reset HEAD $(echo '$@ -- $files'); }; func"
 # alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
