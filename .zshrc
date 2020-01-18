@@ -183,7 +183,7 @@ alias cob="git checkout -b"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff --word-diff=color"
-alias dd="func() { git diff --word-diff=color $(echo '$(git log --color=always --date=short --format="%Cblue%h:%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d" $@ | fzf --ansi --no-sort --reverse --tiebreak=index | cut -d: -f1)'); }; func"
+alias dd="func() { git diff --word-diff=color $(echo '$@ -- $(git log --color=always --date=short --format="%Cblue%h:%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d" | fzf --ansi --no-sort --reverse --tiebreak=index | cut -d: -f1)'); }; func"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
