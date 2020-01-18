@@ -143,7 +143,7 @@ eval "$(fasd --init auto)"
 
 alias 0="dirs -v"
 alias a="git add"
-alias aa="func() { git add $(echo '$(git status -s $@ | fzf --ansi --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse --tiebreak=index | cut -c4-)'); }; func"
+alias aa="func() { git add $(echo '$(git status -s $@ | fzf --ansi -m --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse --tiebreak=index | cut -c4-)'); }; func"
 alias aca="git add --all && git commit --amend"
 alias acam="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acamp="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
@@ -182,6 +182,7 @@ alias cn="git clean -n"
 alias cnd="git clean -nd"
 alias co="git checkout"
 alias cob="git checkout -b"
+alias coco="func() { git checkout $@ HEAD -- $(echo '$(git status -s --untracked-files=no $@ | grep -e ^M -e "^ M" | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | cut -c4- )" --reverse --tiebreak=index | cut -c4-)'); }; func"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff --word-diff=color"
@@ -271,8 +272,10 @@ alias py="python"
 alias pm="pycharm merge"
 alias pf="git push --force"
 alias pom="git push origin master"
-alias r="ranger"
-alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
+# alias r="ranger"
+alias r="git reset"
+alias rr="func() { local files; files=$(echo '$(git status -s --untracked-files=no $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | cut -c4- )" --reverse --tiebreak=index | cut -c4-)') && [ ! -z $(echo '$files') ] && git reset HEAD -- $(echo '$files'); }; func"
+# alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
 alias rau="git remote add upstream"
