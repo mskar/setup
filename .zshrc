@@ -105,7 +105,7 @@ POWERLEVEL9K_VI_MODE_NORMAL_BACKGROUND='black'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(fasd fd fzf tmux git zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(fasd fd fzf git github tmux zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
