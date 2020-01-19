@@ -214,7 +214,19 @@ alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gi="grep -i --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=auto --exclude-dir={.git,.idea,.vscode}"
-alias h='history'
+alias h='hub'
+alias hb="hub browse"
+alias ho="hub compare"
+alias hc="hub create"
+alias hd="hub delete"
+alias hf="hub fork"
+alias hg="hub gist"
+alias hu="hub pull-request"
+alias hp="hub pr"
+alias hs="hub ci-status"
+alias hi="hub issue"
+alias hr="hub release"
+alias hs="hub sync"
 # alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias i="func() { echo $(echo 'echo $@ | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore'); }; func";
 alias ii="func() { echo $(echo '$(git ls-files --others --exclude-standard | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore)'); }; func";
