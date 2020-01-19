@@ -174,7 +174,7 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
-alias cc="func() { git checkout $(echo '$@ -- $(git log --color=always --date=short --format="%Cblue%h:%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d" | fzf --ansi --no-sort --reverse --tiebreak=index | cut -d: -f1)'); }; func"
+alias cc="func() { git checkout $(echo '$@ -- $(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" | fzf --ansi --no-sort --preview="git diff --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse --tiebreak=index | rev | cut -d: -f1 | rev)'); }; func"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cn="git clean -n"
 alias cnd="git clean -nd"
