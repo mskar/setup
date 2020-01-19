@@ -141,7 +141,7 @@ export EDITOR='/usr/local/bin/vim'
 # Inititialize fasd and its aliases
 eval "$(fasd --init auto)"
 
-alias 0="dirs -v"
+alias 0="directory=$(echo '$(dirs -v | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG \$(echo {} | cut -c3- | sed s+~+$HOME+)" --reverse | cut -c3- | sed s+~+$HOME+)') && cd $(echo '$directory')"
 alias a="git add"
 alias aa="func() { git add $(echo '$@ -- $(git status -s | fzf --ansi -m --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse --tiebreak=index | cut -c4-)'); }; func"
 alias aca="git add --all && git commit --amend"
@@ -174,7 +174,7 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
-alias cc="func() { git checkout $(echo '$@ $(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" | fzf --ansi --no-sort --preview="git diff --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse --tiebreak=index | rev | cut -d: -f1 | rev)'); }; func"
+alias cc="func() { git checkout $(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" $@ | fzf --ansi --no-sort --preview="git diff --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse --tiebreak=index | rev | cut -d: -f1 | rev) $@'); }; func"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cf="git clean -f"
 alias cfd="git clean -fd"
@@ -185,7 +185,7 @@ alias cob="git checkout -b"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff --word-diff=color"
-alias dd="func() { git diff --word-diff=color $(echo '$@ $(git log --color=always --date=short --format="%Cblue%h:%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d" | fzf --ansi --no-sort --reverse --tiebreak=index | cut -d: -f1)'); }; func"
+alias dd="func() { git diff --word-diff=color $(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" $@ | fzf --ansi --no-sort --preview="git diff --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse --tiebreak=index | rev | cut -d: -f1 | rev) $@'); }; func"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
@@ -233,7 +233,6 @@ alias ii="func() { echo $(echo '$(git ls-files --others --exclude-standard | fzf
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
-# alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf)') && cd $(echo '$directory')"
 alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
 alias jl="func() { jupyter lab $(echo '$(fd --type f --extension ipynb ^ $@ | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md" --reverse || echo -h)'); }; func";
 alias jn="func() { jupyter notebook $(echo '$(fd --type f --extension ipynb ^ $@ | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md" --reverse || echo -h)'); }; func";

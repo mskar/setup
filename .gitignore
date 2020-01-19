@@ -303,10 +303,3 @@ Temporary Items
 .idea/vcs.xml
 neovim/generate.init.vim
 vim/generate.vimrc
-  
-
-tr   
-
-sed s/ /
-/g
-echo
