@@ -277,7 +277,7 @@ alias oh="func() { local files; files=$(echo '$(fd -e html --type f ^ $@ | fzf -
 alias op="func() { local files; files=$(echo '$(fd -e pdf --type f ^ $@ | fzf -m --no-sort --preview "pdftotext -l 2 {} -" --reverse)') && [ ! -z $(echo '$files') ] && o $(echo '$files'); }; func";
 alias or="func() { local files; files=$(echo '$(fd -e Rproj --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && o $(echo '$files'); }; func";
 alias oo="func() { local both; both=$(echo '$(fasd -Ral | fzf -m --no-sort --reverse)') && [ ! -z $(echo '$both') ] && o $(echo '$both'); }; func"
-alias ow="func() { local files; files=$(echo '$(fd -e docx -e doc --type f ^ $@ | fzf -m --no-sort --preview "pandoc {}" --reverse)') && [ ! -z $(echo '$files') ] && o $(echo '$files'); }; func";
+alias ow="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf -m --no-sort --preview "pandoc {} -t markdown" --reverse)') && [ ! -z $(echo '$files') ] && o $(echo '$files'); }; func";
 alias p="git push"
 alias pc="pycharm"
 alias pd="pycharm diff"
