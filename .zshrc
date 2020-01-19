@@ -210,10 +210,10 @@ alias fp="fasd -fe pycharm"
 alias fu="fasd -fe 'nvim -u ~/.SpaceVim/init.vim'"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
-alias g="grep --color=auto --exclude-dir={.git,.idea,.vscode}"
-alias gi="grep -i --color=auto --exclude-dir={.git,.idea,.vscode}"
-alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
-alias gir="grep -ir --color=auto --exclude-dir={.git,.idea,.vscode}"
+alias g="grep --color=always --exclude-dir={.git,.idea,.vscode}"
+alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
+alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
+alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
 alias h='hub'
 alias hb="hub browse"
 alias ho="hub compare"
@@ -261,8 +261,8 @@ alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias nf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && n -- $(echo '$files'); }; func";
 # alias ng="func() { n $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
-alias ng="func() { local file line; read file line <<< $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always ${@:-^} * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")') && [ ! -z $(echo '$file') ] && [ -z $(echo '$line') ] && n $(echo '$line -- $file'); }; func";
-alias nl="func() { local files; files=$(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} ${@:-^} * | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && n -- $(echo '$files'); }; func";
+alias ng="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n ${@:-^} | cut -d: -f1,2 | fzf --ansi --no-sort --preview "rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="60%" --reverse | sed "s/:/ +/")') && [ ! -z $(echo '$file') ] && [ ! -z $(echo '$line') ] && n $(echo '$line -- $file'); }; func";
+alias nl="func() { local files; files=$(echo '$(rg -l ${@:-^} | fzf -m --no-sort --preview "rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ ! -z $(echo '$files') ] && n -- $(echo '$files'); }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && n $(echo '$@ -- $files'); }; func";
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
@@ -329,13 +329,13 @@ alias v="$EDITOR"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && v -- $(echo '$files'); }; func";
 # alias vg="func() { v $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
-alias vg="func() { local file line; read file line <<< $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always ${@:-^} * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")') && [ ! -z $(echo '$file') ] && [ -z $(echo '$line') ] && v $(echo '$line -- $file'); }; func";
-alias vl="func() { local files; files=$(echo '$(grep -lr --exclude-dir={.git,.idea,.vscode} ${@:-^} * | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && v -- $(echo '$files'); }; func";
+alias vg="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n ${@:-^} | cut -d: -f1,2 | fzf --ansi --no-sort --preview "rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="60%" --reverse | sed "s/:/ +/")') && [ ! -z $(echo '$file') ] && [ ! -z $(echo '$line') ] && v $(echo '$line -- $file'); }; func";
+alias vl="func() { local files; files=$(echo '$(rg -l ${@:-^} | fzf -m --no-sort --preview "rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ ! -z $(echo '$files') ] && v -- $(echo '$files'); }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
 # alias vr="v $(echo '${$(v -u ~/.vimrc -es "+set nonumber" "+pu =v:oldfiles" +%p +q! | fzf -m || echo -h)/\~/$HOME}')"
-alias vr="func() { local files; files=$(echo '$(grep -e "^> ~" -e "> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf  -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && v $(echo '$@ -- $files'); }; func";
+alias vr="func() { local files; files=$(echo '$(rg -e "^> ~" -e "> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf  -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && v $(echo '$@ -- $files'); }; func";
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias vu="v -u ~/.SpaceVim/vimrc"
