@@ -213,14 +213,16 @@ alias gi="grep -i --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias h='history'
-alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
+# alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
+alias i="func() { echo $(echo 'echo $@ | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore'); }; func";
+alias ii="func() { echo $(echo '$(git ls-files --others --exclude-standard | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse | tr " " "\n") >> $(git rev-parse --show-toplevel)/.gitignore'); }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
 # alias jj="directory=$(echo '$(dirs | tr " " "\n" | fzf)') && cd $(echo '$directory')"
 alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
-alias jl="func() { jupyter lab $(echo '$(fd --type f --extension ipynb ^ $@ | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout" --reverse || echo -h)'); }; func";
-alias jn="func() { jupyter notebook $(echo '$(fd --type f --extension ipynb ^ $@ | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout" --reverse || echo -h)'); }; func";
+alias jl="func() { jupyter lab $(echo '$(fd --type f --extension ipynb ^ $@ | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md" --reverse || echo -h)'); }; func";
+alias jn="func() { jupyter notebook $(echo '$(fd --type f --extension ipynb ^ $@ | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md" --reverse || echo -h)'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
 alias lp="git log -p --word-diff=color"
