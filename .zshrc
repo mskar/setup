@@ -176,6 +176,8 @@ alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
 alias cc="func() { git checkout $(echo '$@ $(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" | fzf --ansi --no-sort --preview="git diff --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse --tiebreak=index | rev | cut -d: -f1 | rev)'); }; func"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
+alias cf="git clean -f"
+alias cfd="git clean -fd"
 alias cn="git clean -n"
 alias cnd="git clean -nd"
 alias co="git checkout"
@@ -215,7 +217,7 @@ alias gir="grep -ir --color=auto --exclude-dir={.git,.idea,.vscode}"
 alias h='history'
 # alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias i="func() { echo $(echo 'echo $@ | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore'); }; func";
-alias ii="func() { echo $(echo '$(git ls-files --others --exclude-standard | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse | tr " " "\n") >> $(git rev-parse --show-toplevel)/.gitignore'); }; func";
+alias ii="func() { echo $(echo '$(git ls-files --others --exclude-standard | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore)'); }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --no-sort --preview="CLICOLOR_FORCE=1 ls -FG {}" --reverse)') && cd $(echo '$directory'); }; func";
