@@ -288,7 +288,7 @@ alias pf="git push --force"
 alias pom="git push origin master"
 # alias r="ranger"
 alias r="git reset"
-alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | -c3-)" --reverse --tiebreak=index | cut -c3-)') && git reset HEAD $(echo '$@ -- $files'); }; func"
+alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | -c3-)" --reverse --tiebreak=index | cut -c3-)') && [ ! -z $(echo '$files') ] && git reset HEAD $(echo '$@ -- $files'); }; func"
 # alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
@@ -341,6 +341,7 @@ alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/note
 alias vu="v -u ~/.SpaceVim/vimrc"
 alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ ! -z $(echo '$files') ] && v $(echo '$@ -- $files'); }; func";
 # use z alias from fasd plugin instead of z plugin
+alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf -m --no-sort --preview "pdftotext -l 2 {} -" --reverse)') && [ ! -z $(echo '$files') ] && webstorm $(echo '$files'); }; func";
 alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
 alias zn="fasd -de nvim"
