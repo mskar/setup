@@ -191,7 +191,7 @@ alias co="git checkout"
 alias cob="git checkout -b"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
-alias d="git diff --word-diff=color"
+alias d="git diff"
 alias dd="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff HEAD --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git diff $(echo '$commit -- $@') }; func"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
@@ -218,15 +218,7 @@ alias fu="fasd -fe 'nvim -u ~/.SpaceVim/init.vim'"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
 alias g="grep --color=always --exclude-dir={.git,.idea,.vscode}"
-# idea:
-# 1) search for string in all commits:
-#    git grep <string> $(git rev-list --all --abbrev-commit)
-# 2) keep first 2 fields delimited by :, then deduplicate (uniq):
-#    cut -d: -f1,2 | uniq
-# 3) use output (commit:file) for preview:
-#    git grep -n <string> {} | cut -d: -f3,4
-# 4) select commit:file, checkout commit or file from commit
-alias gg="git grep --color=always" # https://git-scm.com/book/en/v2/Git-Tools-Searching
+alias gg="func() { local matches; matches=$(echo '$(git grep -l $1 $(git rev-list --all --abbrev-commit) -- ${@:2} | fzf --no-sort --preview "git grep --color=always -hn $1 {}" --preview-window="70%" --reverse | tr ":" " ")') && [ $(echo '$matches') ] && echo $(echo '$matches') | xargs git checkout; }; func"
 alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
