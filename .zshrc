@@ -105,7 +105,14 @@ POWERLEVEL9K_VI_MODE_NORMAL_BACKGROUND='black'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(fasd fd fzf git github tmux zsh-autosuggestions zsh-syntax-highlighting)
+# fasd # I don't think this plugin does anything useful: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/fasd
+# fd # Adds completion for fd: https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/fd/_fd
+# fzf # enables fzf fuzzy auto-completion and key bindings: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/fzf
+# git # I don't think this plugin does anything useful: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git
+# github # TODO Replace these functions with alises: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/github
+# ripgrep # Adds completion for ripgrep: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/ripgrep
+# tmux # I don't think this plugin does anything useful: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/tmux
+plugins=(zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -211,6 +218,15 @@ alias fu="fasd -fe 'nvim -u ~/.SpaceVim/init.vim'"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
 alias g="grep --color=always --exclude-dir={.git,.idea,.vscode}"
+# idea:
+# 1) search for string in all commits:
+#    git grep <string> $(git rev-list --all --abbrev-commit)
+# 2) keep first 2 fields delimited by :, then deduplicate (uniq):
+#    cut -d: -f1,2 | uniq
+# 3) use output (commit:file) for preview:
+#    git grep -n <string> {} | cut -d: -f3,4
+# 4) select commit:file, checkout commit or file from commit
+alias gg="git grep --color=always" # https://git-scm.com/book/en/v2/Git-Tools-Searching
 alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
