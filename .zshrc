@@ -150,7 +150,7 @@ eval "$(fasd --init auto)"
 
 alias 0="directory=$(echo '$(dirs -v | fzf --no-sort --preview="exa --classify --color=always --oneline \$(echo {} | cut -c3- | sed s+~+$HOME+)" --reverse | cut -c3- | sed s+~+$HOME+)') && cd $(echo '$directory')"
 alias a="git add"
-alias aa="func() { git add $(echo '$@ -- $(git status -s | fzf --ansi -m --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse | cut -c4-)'); }; func"
+alias aa="func() { local files; files=$(echo '$(git status -s $@ | grep -v "^. " | fzf --ansi -m --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs git add --; }; func"
 alias aca="git add --all && git commit --amend"
 alias acam="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acamp="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
@@ -208,7 +208,7 @@ alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cache
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
-alias ff="func() { git checkout HEAD $(echo '$@ -- $(git diff HEAD --name-status --relative --diff-filter=M | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always -- \$(echo {} | cut -c3-)" --reverse | cut -c3-)'); }; func"
+alias ff="func() { local files; files=$(echo '$(git diff HEAD --name-status --relative --diff-filter=M $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | cut -c3-)" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs git checkout HEAD --; }; func"
 alias fl='fasd -fl'
 # fc is a built-in command that is used by fzf ctrl-r
 alias fn="fasd -fe nvim"
@@ -305,7 +305,7 @@ alias pf="git push --force"
 alias pom="git push origin master"
 # alias r="ranger"
 alias r="git reset"
-alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | -c3-)" --reverse | cut -c3-)') && [ $(echo '$files') ] && git reset HEAD $(echo '$@ -- $files'); }; func"
+alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | cut -c3-)" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs git reset HEAD --; }; func"
 # alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
