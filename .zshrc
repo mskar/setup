@@ -181,7 +181,7 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
-alias cc="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff HEAD --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
+alias cc="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff --color=always \$(echo {} | rev | cut -d: -f1 | rev) -- $*" --reverse | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cf="git clean -f"
 alias cfd="git clean -fd"
@@ -192,7 +192,8 @@ alias cob="git checkout -b"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff"
-alias dd="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff HEAD --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git diff $(echo '$commit -- $@') }; func"
+alias dw="git diff --word-diff=color"
+alias dd="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff --color=always \$(echo {} | rev | cut -d: -f1 | rev) -- $*" --reverse | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git diff $(echo '$commit -- $@') }; func"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
