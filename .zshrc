@@ -143,7 +143,7 @@ eval "$(fasd --init auto)"
 
 alias 0="directory=$(echo '$(dirs -v | fzf --no-sort --preview="exa --classify --color=always --oneline \$(echo {} | cut -c3- | sed s+~+$HOME+)" --reverse | cut -c3- | sed s+~+$HOME+)') && cd $(echo '$directory')"
 alias a="git add"
-alias aa="func() { git add $(echo '$@ -- $(git status -s | fzf --ansi -m --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse --tiebreak=index | cut -c4-)'); }; func"
+alias aa="func() { git add $(echo '$@ -- $(git status -s | fzf --ansi -m --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file; else; git diff --color=always \$file; fi" --reverse | cut -c4-)'); }; func"
 alias aca="git add --all && git commit --amend"
 alias acam="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acamp="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
@@ -174,7 +174,7 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
-alias cc="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff HEAD --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse --tiebreak=index | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
+alias cc="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff HEAD --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cf="git clean -f"
 alias cfd="git clean -fd"
@@ -185,7 +185,7 @@ alias cob="git checkout -b"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff --word-diff=color"
-alias dd="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff HEAD --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse --tiebreak=index | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git diff $(echo '$commit -- $@') }; func"
+alias dd="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff HEAD --color=always \$(echo {} | rev | cut -d: -f1 | rev)" --reverse | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git diff $(echo '$commit -- $@') }; func"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
@@ -201,7 +201,7 @@ alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cache
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
-alias ff="func() { git checkout HEAD $(echo '$@ -- $(git diff HEAD --name-status --relative --diff-filter=M | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always -- \$(echo {} | cut -c3-)" --reverse --tiebreak=index | cut -c3-)'); }; func"
+alias ff="func() { git checkout HEAD $(echo '$@ -- $(git diff HEAD --name-status --relative --diff-filter=M | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always -- \$(echo {} | cut -c3-)" --reverse | cut -c3-)'); }; func"
 alias fl='fasd -fl'
 # fc is a built-in command that is used by fzf ctrl-r
 alias fn="fasd -fe nvim"
@@ -289,7 +289,7 @@ alias pf="git push --force"
 alias pom="git push origin master"
 # alias r="ranger"
 alias r="git reset"
-alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | -c3-)" --reverse --tiebreak=index | cut -c3-)') && [ $(echo '$files') ] && git reset HEAD $(echo '$@ -- $files'); }; func"
+alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | -c3-)" --reverse | cut -c3-)') && [ $(echo '$files') ] && git reset HEAD $(echo '$@ -- $files'); }; func"
 # alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
@@ -304,13 +304,17 @@ alias rs="git rebase --skip"
 alias rv="git remote -v"
 alias s="git status"
 alias sa="git stash apply"
+alias sb="git stash branch"
 alias sc="git stash clear"
 alias sd="git stash drop"
 alias sl="git stash list"
-alias sp="git stash pop"
-alias spa="git stash save --all && git pull && git stash apply"
-alias spp="git stash save --all && git pull && git stash pop"
-alias ss="git stash show"
+alias sp="git stash push"
+alias ss="func() { local stash; stash=$(echo '$(git stash list --color=always --format="%Cblue%gd:%C(yellow)%ar %Creset%s %Cgreen[%cn]%Cred%d" | fzf --ansi --no-sort --preview="git stash show --color=always \$(echo {} | cut -d: -f1)" --reverse | cut -d: -f1)') && [ $(echo '$stash') ] && git stash pop $(echo '$stash') }; func"
+alias su="git stash push && git pull"
+alias sub="git stash push && git pull && git stash branch"
+alias suc="git stash push && git pull && git stash clear"
+alias sud="git stash push && git pull && git stash drop"
+alias sup="git stash push && git pull && git stash pop"
 alias sz="source ~/.zshrc"
 alias t="tmux"
 alias tt="tmux attach -t $(echo '$(tmux list-sessions | fzf -m --no-sort | cut -d: -f1)')"
