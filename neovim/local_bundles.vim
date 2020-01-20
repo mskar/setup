@@ -16,6 +16,7 @@
 Plug 'ncm2/ncm2'
 Plug 'roxma/nvim-yarp'
 Plug 'jalvesaq/Nvim-R'
+Plug 'jalvesaq/zotcite'
 Plug 'gaalcaras/ncm-R'
 Plug 'bfredl/nvim-miniyank'
 
