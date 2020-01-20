@@ -250,8 +250,8 @@ alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; 
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --no-sort --preview="exa --classify --color=always --oneline {}" --reverse)') && cd $(echo '$directory'); }; func";
 alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --no-sort --preview="exa --classify --color=always --oneline {}" --reverse)') && cd $(echo '$directory'); }; func";
-alias jl="func() { local ipynb; ipynb=$(echo '$(fd --type f --extension ipynb ^ $@ | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md" --reverse)') && [ $(echo '$ipynb') ] && jupyter lab $(echo '$ipynb'); }; func";
-alias jn="func() { local ipynb; ipynb=$(echo '$(fd --type f --extension ipynb ^ $@ | fzf -m --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md" --reverse)') && [ $(echo '$ipynb') ] && jupyter notebook $(echo '$ipynb'); }; func";
+alias jl="func() { local ipynb; ipynb=$(echo '$(fd --type f --extension ipynb ^ $@ | fzf --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md" --reverse)') && [ $(echo '$ipynb') ] && jupyter lab $(echo '$ipynb'); }; func";
+alias jn="func() { local ipynb; ipynb=$(echo '$(fd --type f --extension ipynb ^ $@ | fzf --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md" --reverse)') && [ $(echo '$ipynb') ] && jupyter notebook $(echo '$ipynb'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias kk="func() {local untracked; untracked=$(echo '$(git clean -dfnx | sed s/^Would\ remove\ // | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$untracked') ] && echo $(echo '$untracked') | xargs git clean -dfx; }; func";
 alias l="git log --pretty=format:'%C(yellow)%h %Creset%s %Cblue[%cn]%Cred%d' --decorate"
@@ -276,29 +276,29 @@ alias mus="git mergetool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cac
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
-alias nf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && n -- $(echo '$files'); }; func";
+alias nf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '-- $files') | xargs nvim; }; func";
 # alias ng="func() { n $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
 alias ng="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n ${@:-^} | cut -d: -f1,2 | fzf --ansi --no-sort --preview "rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="60%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && n $(echo '$line -- $file'); }; func";
-alias nl="func() { local files; files=$(echo '$(rg -l ${@:-^} | fzf -m --no-sort --preview "rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && n -- $(echo '$files'); }; func";
+alias nl="func() { local files; files=$(echo '$(rg -l ${@:-^} | fzf -m --no-sort --preview "rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '-- $files') | xargs nvim; }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
-alias nn="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && n $(echo '$@ -- $files'); }; func";
+alias nn="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$@ -- $files') | xargs nvim; }; func";
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
-alias nr="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && n $(echo '$@ -- $files'); }; func"
+alias nr="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$@ -- $files') | xargs nvim; }; func"
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias nu="n -u ~/.SpaceVim/init.vim"
 alias o="open"
-alias od="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf -m --no-sort --preview="exa --classify --color=always --oneline {}" --reverse)') && [ $(echo '$directory') ] && o $(echo '$directory'); }; func";
-alias of="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && o $(echo '$files'); }; func";
-alias oh="func() { local files; files=$(echo '$(fd -e html --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && o $(echo '$files'); }; func";
-alias op="func() { local files; files=$(echo '$(fd -e pdf --type f ^ $@ | fzf -m --no-sort --preview "pdftotext -l 2 {} -" --reverse)') && [ $(echo '$files') ] && o $(echo '$files'); }; func";
-alias or="func() { local files; files=$(echo '$(fd -e Rproj --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && o $(echo '$files'); }; func";
-alias oo="func() { local both; both=$(echo '$(fasd -Ral | fzf -m --no-sort --reverse)') && [ $(echo '$both') ] && o $(echo '$both'); }; func"
-alias ow="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf -m --no-sort --preview "pandoc {} -t markdown" --reverse)') && [ $(echo '$files') ] && o $(echo '$files'); }; func";
+alias od="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf -m --no-sort --preview="exa --classify --color=always --oneline {}" --reverse)') && [ $(echo '$directory') ] && echo $(echo '$directory') | xargs open; }; func";
+alias of="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs open; }; func";
+alias oh="func() { local files; files=$(echo '$(fd -e html --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs open; }; func";
+alias op="func() { local files; files=$(echo '$(fd -e pdf --type f ^ $@ | fzf -m --no-sort --preview "pdftotext -l 2 {} -" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs open; }; func";
+alias or="func() { local files; files=$(echo '$(fd -e Rproj --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs open; }; func";
+alias oo="func() { local both; both=$(echo '$(fasd -Ral | fzf -m --no-sort --reverse)') && [ $(echo '$both') ] && echo $(echo '$both') | xargs open; }; func"
+alias ow="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf -m --no-sort --preview "pandoc {} -t markdown" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs open; }; func";
 alias p="git push"
 alias pc="pycharm"
 alias pd="pycharm diff"
-alias pp="func() { local files; files=$(echo '$(fd -e py --type f ^ $@ | fzf -m --no-sort --preview "pdftotext -l 2 {} -" --reverse)') && [ $(echo '$files') ] && pc $(echo '$files'); }; func";
+alias pp="func() { local files; files=$(echo '$(fd -e py --type f ^ $@ | fzf -m --no-sort --preview "pdftotext -l 2 {} -" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs pycharm; }; func";
 alias py="python"
 alias pm="pycharm merge"
 alias pf="git push --force"
@@ -348,21 +348,20 @@ alias uru="git pull --rebase upstream"
 alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
-alias vf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && v -- $(echo '$files'); }; func";
-# alias vg="func() { v $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
+alias vf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '-- $files') | xargs -o $EDITOR; }; func";
 alias vg="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n ${@:-^} | cut -d: -f1,2 | fzf --ansi --no-sort --preview "rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="60%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && v $(echo '$line -- $file'); }; func";
-alias vl="func() { local files; files=$(echo '$(rg -l ${@:-^} | fzf -m --no-sort --preview "rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && v -- $(echo '$files'); }; func";
+alias vl="func() { local files; files=$(echo '$(rg -l ${@:-^} | fzf -m --no-sort --preview "rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '-- $files') | xargs -o $EDITOR; }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
 # alias vr="v $(echo '${$(v -u ~/.vimrc -es "+set nonumber" "+pu =v:oldfiles" +%p +q! | fzf -m || echo -h)/\~/$HOME}')"
-alias vr="func() { local files; files=$(echo '$(rg -e "^> ~" -e "> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf  -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && v $(echo '$@ -- $files'); }; func";
+alias vr="func() { local files; files=$(echo '$(rg -e "^> ~" -e "> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$@ -- $files') | xargs -o $EDITOR; }; func";
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias vu="v -u ~/.SpaceVim/vimrc"
-alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && v $(echo '$@ -- $files'); }; func";
+alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$@ -- $files') | xargs -o $EDITOR; }; func";
 # use z alias from fasd plugin instead of z plugin
-alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf -m --no-sort --preview "pdftotext -l 2 {} -" --reverse)') && [ $(echo '$files') ] && webstorm $(echo '$files'); }; func";
+alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf -m --no-sort --preview "pdftotext -l 2 {} -" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | xargs webstorm; }; func";
 alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
 alias zn="fasd -de nvim"
