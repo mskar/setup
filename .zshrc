@@ -270,6 +270,7 @@ alias mus="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cach
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
+alias ne="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$@ -- $files') | xargs nvim; }; func"
 alias nf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '-- $files') | xargs nvim; }; func";
 # alias ng="func() { n $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
 alias ng="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n ${@:-^} | cut -d: -f1,2 | fzf --ansi --no-sort --preview "rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="60%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && n $(echo '$line -- $file'); }; func";
@@ -277,7 +278,7 @@ alias nl="func() { local files; files=$(echo '$(rg -l ${@:-^} | fzf -m --no-sort
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$@ -- $files') | xargs nvim; }; func";
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
-alias nr="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$@ -- $files') | xargs nvim; }; func"
+alias nr="func() { local files; files=$(echo '$(rg -e "^> ~/" -e "^> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf -m --no-sort --preview "bat --style=numbers --color=always {}" --reverse)') && [ $(echo '$files') ] && echo $(echo '$@ -- $files') | xargs nvim; }; func";
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias nu="n -u ~/.SpaceVim/init.vim"
