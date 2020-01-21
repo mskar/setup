@@ -202,7 +202,7 @@ alias dn="git difftool -yt nvim --extcmd 'nvim -d'"
 alias dns="git difftool -yt nvim --extcmd 'nvim -d' --cached" # --staged is a synonym of --cached
 alias du="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
 alias dus="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached" # --staged is a synonym of --cached
-alias dt="git difftool -yt vimdiff" # difftool is dt to match mergetool (nt)
+alias dt="git difftool -yt vimdiff" # difftool is dt to match mergetool (mt)
 alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cached
 # alias dp="git difftool -yt pycharm --extcmd 'pycharm diff $LOCAL $REMOTE'"
 # alias dps="git difftool -yt pycharm --extcmd 'pycharm diff'"
@@ -256,16 +256,17 @@ alias ll="ls -l"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
-alias mc="git mergetool -yt code --extcmd 'code --wait'"
-alias mcs="git mergetool -yt code --extcmd 'code --wait' --cached"
-alias mn="git mergetool -yt nvim --extcmd 'nvim -d'"
-alias mns="git mergetool -yt nvim --extcmd 'nvim -d' --cached"
-alias mt="git mergetool -yt vimdiff" # mv is taken
-alias mts="git mergetool -yt vimdiff --cached"
-alias mu="git mergetool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
-alias mus="git mergetool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached"
-# alias mp="git mergetool -yt pycharm --extcmd 'pycharm merge'"
-# alias mps="git mergetool -yt pycharm --extcmd 'pycharm merge'"
+alias mm="func() { local file; file=$(echo '$(git diff --name-only --diff-filter=U | fzf --no-sort --preview="git log --color=always --date=short --format=\"%C(yellow)%ad %Creset%s%C(auto)%d %Cblue%cn\" -p --merge {}" --preview-window="70%" --reverse)') && [ $(echo '$file') ] && $EDITOR +Gvdiff! $(echo '-- $file'); }; func";
+alias mc="git mergetool -t code --extcmd 'code --wait'"
+alias mcs="git mergetool -t code --extcmd 'code --wait' --cached"
+alias mn="git mergetool -t nvim --extcmd 'nvim -d'"
+alias mns="git mergetool -t nvim --extcmd 'nvim -d' --cached"
+alias mt="git mergetool -t vimdiff" # mv is taken
+alias mts="git mergetool -t vimdiff --cached"
+alias mu="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
+alias mus="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached"
+# alias mp="git mergetool -t pycharm --extcmd 'pycharm merge'"
+# alias mps="git mergetool -t pycharm --extcmd 'pycharm merge'"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
