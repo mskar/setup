@@ -150,7 +150,7 @@ eval "$(fasd --init auto)"
 
 alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --no-sort --preview="exa --classify --color=always --oneline {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && cd $(echo '$directory')"
 alias a="git add"
-alias aa="func() { local files; files=$(echo '$(git status -s $@ | grep -v "^. " | fzf --ansi -m --no-sort --preview="file=\$(echo {} | cut -c4- ); if [[ {} == ??* ]]; then; git diff --color=always --no-index -- /dev/null \$file | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always \$file | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" --preview-window="70%" --reverse | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs git add --; }; func"
+alias aa="func() { local files; files=$(echo '$(git ls-files -dmo --exclude-standard | fzf --ansi -m --no-sort --preview="if [[ \$(git status -s {}) == ??* ]]; then; git diff --color=always --no-index -- /dev/null {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add --; }; func"
 alias aca="git add --all && git commit --amend"
 alias acam="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acamp="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
@@ -299,7 +299,7 @@ alias pf="git push --force"
 alias pom="git push origin master"
 # alias r="ranger"
 alias r="git reset"
-alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | cut -c3-) | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git reset HEAD --; }; func"
+alias rr="func() { local files; files=$(echo '$(git diff --cached --name-only --relative $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git reset HEAD --; }; func"
 # alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
