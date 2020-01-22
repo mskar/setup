@@ -352,7 +352,7 @@ alias vr="func() { local files; files=$(echo '$(rg -e "^> ~/" -e "^> /" ~/.vimin
 alias vs="func() { v -S $(echo '~/.vim/session/$1.vim'); }; func";
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias vu="v -u ~/.SpaceVim/vimrc"
-alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf --delimiter / -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | sed s/\ //g | sed s/./\&\|/g | sed s/$/$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR $(echo '$@') --; }; func";
+alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf --delimiter / -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR $(echo '$@') --; }; func";
 # use z alias from fasd plugin instead of z plugin
 alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 webstorm; }; func";
 alias zc="fasd -de code"
