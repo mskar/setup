@@ -256,7 +256,7 @@ alias ll="ls -l"
 alias ld="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=short"
 alias lr="git log --pretty=format:'%C(yellow)%h %C(green)[%ad] %Creset%s %Cblue[%cn]%Cred%d' --decorate --date=relative"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
-alias mm="func() { local file; file=$(echo '$(git diff --name-only --diff-filter=U | fzf --no-sort --preview="git log --color=always --date=short --format=\"%C(yellow)%ad %Creset%s%C(auto)%d %Cblue%cn\" -p --merge {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$file') ] && $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
+alias mm="func() { local file; file=$(echo '$(git diff --name-only --diff-filter=U | fzf --no-sort --preview="git log --color=always --date=short --format=\"%C(yellow)%ad %Creset%s%C(auto)%d %Cblue%cn\" -p --merge {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
 alias mc="git mergetool -t code --extcmd 'code --wait'"
 alias mcs="git mergetool -t code --extcmd 'code --wait' --cached"
 alias mn="git mergetool -t nvim --extcmd 'nvim -d'"
@@ -273,7 +273,7 @@ alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ne="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func"
 alias nf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 # alias ng="func() { n $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
-alias ng="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n $@ | cut -d: -f1,2 | fzf --ansi --no-sort --preview="rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="70%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && n $(echo '$line -- $file'); }; func";
+alias ng="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n $@ | cut -d: -f1,2 | fzf --ansi --no-sort --preview="rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="70%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 nvim $(echo '$line') --; }; func";
 alias nl="func() { local files; files=$(echo '$(rg -l $@ | fzf -m --no-sort --preview="rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\\|/g | sed s/$/\\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
@@ -344,7 +344,7 @@ alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR; }; func";
-alias vg="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n $@ | cut -d: -f1,2 | fzf --ansi --no-sort --preview="rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="70%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && v $(echo '$line -- $file'); }; func";
+alias vg="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n $@ | cut -d: -f1,2 | fzf --ansi --no-sort --preview="rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="70%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 $EDITOR $(echo '$line') --; }; func";
 alias vl="func() { local files; files=$(echo '$(rg -l $@ | fzf -m --no-sort --preview="rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR; }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
