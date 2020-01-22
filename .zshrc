@@ -272,9 +272,8 @@ alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ne="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func"
 alias nf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
-# alias ng="func() { n $(echo '$(grep -nr --exclude-dir={.git,.idea,.vscode} --color=always $@ * | fzf --ansi --no-sort --reverse | cut -d: -f1,2 | sed "s/:/ +/")'); }; func";
-alias ng="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n $@ | cut -d: -f1,2 | fzf --ansi --no-sort --preview="rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="70%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 nvim $(echo '$line') --; }; func";
-alias nl="func() { local files; files=$(echo '$(rg -l $@ | fzf -m --no-sort --preview="rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
+alias ng="func() { local file; file=$(echo '$(rg -l $@ | fzf --no-sort --preview="rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 nvim +$(echo '$(rg -n $@ $file | head -n 1 | cut -d: -f1)') --; }; func";
+alias nl="func() { local files; files=$(echo '$(rg -l $@ | fzf -m --no-sort --preview="rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim --; }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
 alias nn="func() { local files; files=$(echo '$(fasd -Rfl | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\\|/g | sed s/$/\\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
@@ -344,8 +343,8 @@ alias urum="git pull --rebase upstream master"
 alias v="$EDITOR"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | rg -e {q} -e ^ --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR; }; func";
-alias vg="func() { local file line; read file line <<< $(echo '$(rg --color=always --colors "path:fg:blue" -n $@ | cut -d: -f1,2 | fzf --ansi --no-sort --preview="rg --color=always -n $@ \$(echo {} | cut -d: -f1)" --preview-window="70%" --reverse | sed "s/:/ +/")') && [ $(echo '$file') ] && [ $(echo '$line') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 $EDITOR $(echo '$line') --; }; func";
-alias vl="func() { local files; files=$(echo '$(rg -l $@ | fzf -m --no-sort --preview="rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR; }; func";
+alias vg="func() { local file; file=$(echo '$(rg -l $@ | fzf --no-sort --preview="rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +$(echo '$(rg -n $@ $file | head -n 1 | cut -d: -f1)') --; }; func";
+alias vl="func() { local files; files=$(echo '$(rg -l $@ | fzf -m --no-sort --preview="rg --color=always -n $@ {}" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR --; }; func";
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vn="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
