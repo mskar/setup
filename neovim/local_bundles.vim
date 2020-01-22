@@ -52,7 +52,6 @@ Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-unimpaired'
 Plug 'bronson/vim-trailing-whitespace'
 Plug 'godlygeek/tabular'
-Plug 'junegunn/vim-peekaboo'
 
 if v:version >= 703
   Plug 'Shougo/vimshell.vim'
