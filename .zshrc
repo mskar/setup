@@ -219,7 +219,7 @@ alias fu="fasd -fe 'nvim -u ~/.SpaceVim/init.vim'"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
 alias g="grep --color=always --exclude-dir={.git,.idea,.vscode}"
-alias gg="func() { local commit_file; commit_file=$(echo '$(git grep -l ${1:-^} $(git rev-list --all --abbrev-commit) -- ${@:2} | fzf --no-sort --preview="git grep --color=always -hn ${1:-^} {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | tr ":" " ")') && [ $(echo '$commit_file') ] && echo $(echo '$commit_file') | xargs git checkout; }; func"
+alias gg="func() { local commit_file; commit_file=$(echo '$(git grep -l ${1:-^} $(git rev-list --all --abbrev-commit) -- ${@:2} | fzf --no-sort --preview="git grep --color=always -hn ${1:-^} {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | xargs)') && [ $(echo '$commit_file') ] && echo $(echo '$commit_file') | tr ':' '\0' | xargs -0 git checkout; }; func"
 alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
