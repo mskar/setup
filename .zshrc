@@ -181,7 +181,7 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
-alias cc="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%ad %Creset%s %Cgreen[%cn]%Cred%d:%Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff --color=always \$(echo {} | rev | cut -d: -f1 | rev) -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" --reverse | rev | cut -d: -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
+alias cc="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%Creset%s%Cred%d %Cgreen%cn %Cblue%h" -- $@ | fzf --ansi --no-sort --preview="git diff --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" --reverse | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cf="git clean -f"
 alias cfd="git clean -fd"
