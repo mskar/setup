@@ -150,7 +150,7 @@ eval "$(fasd --init auto)"
 
 alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter=/ --no-sort --preview="exa --classify --color=always --oneline {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && cd $(echo '$directory')"
 alias a="git add"
-alias aa="func() { local files; files=$(echo '$(git status -s | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="if [ \$(git ls-files --other --exclude-standard {2..} | sed s/\ //g) ]; then; git diff --color=always --no-index -- /dev/null {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" --preview-window="70%" --reverse | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add $(echo '$@') --; }; func"
+alias aa="func() { local files; files=$(echo '$(git status -s | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --nth=2.. --no-sort --preview="if [ \$(git ls-files --other --exclude-standard {2..} | sed s/\ //g) ]; then; git diff --color=always --no-index -- /dev/null {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" --preview-window="70%" --reverse | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add $(echo '$@') --; }; func"
 alias aca="git add --all && git commit --amend"
 alias acam="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acamp="func() { git add --all && git commit --amend -m \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
@@ -209,7 +209,7 @@ alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cache
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
-alias ff="func() { local files; files=$(echo '$(git diff HEAD --name-status --relative --diff-filter=M $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="git diff HEAD --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git checkout HEAD --; }; func"
+alias ff="func() { local files; files=$(echo '$(git diff HEAD --name-status --relative --diff-filter=M $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --nth=2.. --no-sort --preview="git diff HEAD --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git checkout HEAD --; }; func"
 alias fl='fasd -fl'
 # fc is a built-in command that is used by fzf ctrl-r
 alias fn="fasd -fe nvim"
@@ -256,7 +256,7 @@ alias ll="ls -l"
 alias ld="git log --format='%C(yellow)%ad %Creset%s %Cred%D %Cgreen%cn %Cblue%h' --date=short"
 alias lr="git log --format='%C(yellow)%>(12,trunc)%ar %Creset%<(80,trunc)%s %Cblue%h %Cgreen%<(17,trunc)%cn %Cred%D'"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
-alias mm="func() { local file; file=$(echo '$(git diff --name-status --diff-filter=U | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="git log --color=always --format=\"%Creset%s %Cred%D %C(yellow)%ar %Cgreen%cn\" -p --merge {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
+alias mm="func() { local file; file=$(echo '$(git diff --name-status --diff-filter=U | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --nth=2.. --no-sort --preview="git log --color=always --format=\"%Creset%s %Cred%D %C(yellow)%ar %Cgreen%cn\" -p --merge {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
 alias mc="git mergetool -t code --extcmd 'code --wait'"
 alias mcs="git mergetool -t code --extcmd 'code --wait' --cached"
 alias mn="git mergetool -t nvim --extcmd 'nvim -d'"
@@ -301,7 +301,7 @@ alias pf="git push --force"
 alias pom="git push origin master"
 # alias r="ranger"
 alias r="git reset"
-alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="git diff HEAD --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git reset HEAD --; }; func"
+alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --nth=2.. --no-sort --preview="git diff HEAD --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git reset HEAD --; }; func"
 # alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
