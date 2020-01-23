@@ -209,7 +209,7 @@ alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cache
 alias e="export"
 # use fasd builtin f alias: alias f='fasd -f'
 # use fd instead of find
-alias ff="func() { local files; files=$(echo '$(git diff HEAD --name-status --relative --diff-filter=M $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always \$(echo {} | cut -c3-) | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git checkout HEAD --; }; func"
+alias ff="func() { local files; files=$(echo '$(git diff HEAD --name-status --relative --diff-filter=M $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git checkout HEAD --; }; func"
 alias fl='fasd -fl'
 # fc is a built-in command that is used by fzf ctrl-r
 alias fn="fasd -fe nvim"
