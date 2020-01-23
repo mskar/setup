@@ -219,7 +219,7 @@ alias fu="fasd -fe 'nvim -u ~/.SpaceVim/init.vim'"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
 alias g="grep --color=always --exclude-dir={.git,.idea,.vscode}"
-alias gg="func() { local commit_file; commit_file=$(echo '$(git grep -l ${1:-^} $(git rev-list --all --abbrev-commit) -- ${@:2} | fzf --no-sort --preview="git grep --color=always -hn ${1:-^} {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | xargs)') && [ $(echo '$commit_file') ] && echo $(echo '$commit_file') | tr ':' '\0' | xargs -0 git checkout; }; func"
+alias gg="func() { local commit_file; commit_file=$(echo '$(git grep -l ${1:-^} $(git rev-list --all --abbrev-commit) -- ${@:2} | fzf --delimiter=: --no-sort --preview="git diff HEAD --color=always {1} {2} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$commit_file') ] && echo -n $(echo '$commit_file') | tr ':' '\0' | xargs -0 git checkout; }; func"
 alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
@@ -299,7 +299,7 @@ alias pf="git push --force"
 alias pom="git push origin master"
 # alias r="ranger"
 alias r="git reset"
-alias rr="func() { local files; files=$(echo '$(git diff --cached --name-only --relative $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git reset HEAD --; }; func"
+alias rr="func() { local files; files=$(echo '$(git diff --cached --name-status --relative $@ | fzf --ansi -m --no-sort --preview="git diff HEAD --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git reset HEAD --; }; func"
 # alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
 alias ra="git remote add"
