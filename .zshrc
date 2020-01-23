@@ -166,7 +166,7 @@ alias acrp="git add --all && git commit --reuse-message=HEAD --reset-author && g
 alias ai="git add --interactive"
 alias b="git branch"
 alias ba="git branch -a"
-alias bb="func() { local branch; branch=$(echo '$(git branch --color=always -v | fzf --ansi --no-sort --preview="git diff --color=always \$(echo \$(git rev-parse --abbrev-ref HEAD)..\$(echo {} | cut -c3- | cut -d\  -f1)) | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3- | cut -d " " -f1)') && [ $(echo '$branch') ] && git checkout $(echo '$branch'); }; func"
+alias bb="func() { local branch; branch=$(echo '$(git branch --color=always -v | fzf --ansi --no-sort --preview="git diff --color=always \$(echo \$(git rev-parse --abbrev-ref HEAD)..{2}) | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3- | cut -d " " -f1)') && [ $(echo '$branch') ] && git checkout $(echo '$branch'); }; func"
 alias br="git branch -r"
 alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); }; func";
 alias ca="git commit -a"
