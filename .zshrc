@@ -238,7 +238,7 @@ alias hr="hub release"
 alias hs="hub sync"
 # alias i="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias i="func() { echo $(echo 'echo $@ | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore'); }; func";
-alias ii="func() { echo $(echo '$(git ls-files --others --exclude-standard | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore)'); }; func";
+alias ii="func() { local files; files=$(echo '$(git ls-files --others --exclude-standard | fzf -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -I file sh -c 'echo "file" >> \$(git rev-parse --show-toplevel)/.gitignore'; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --no-sort --preview="exa --classify --color=always --oneline {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --preview-window="70%" --reverse)') && cd $(echo '$directory'); }; func";
