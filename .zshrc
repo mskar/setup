@@ -181,7 +181,7 @@ alias cam="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git st
 alias camp="func() { git commit -am \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit -a && git push"
 alias carp="git commit -a --reuse-message=HEAD --reset-author && git push"
-alias cc="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%>(12,trunc)%ar %Creset%s%Cred%d %Cgreen%cn %Cblue%h" -- $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="git diff --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" --reverse | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
+alias cc="func() { local commit; commit=$(echo '$(git log --color=always --format="%C(yellow)%>(12,trunc)%ar %Creset%s %Cred%D %Cgreen%cn %Cblue%h" -- $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --nth=1,2,4..-2 --no-sort --preview="git diff --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" --reverse | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
 alias cm="func() { git commit -m \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cf="git clean -f"
 alias cfd="git clean -fd"
@@ -193,7 +193,7 @@ alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
 alias d="git diff"
 alias dw="git diff --word-diff=color"
-alias dd="func() { local commit; commit=$(echo '$(git log --color=always --date=short --format="%C(yellow)%>(12,trunc)%ar %Creset%s%Cred%d %Cgreen%cn %Cblue%h" -- $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="git diff --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" --reverse | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && git diff $(echo '$commit -- $@') }; func"
+alias dd="func() { local commit; commit=$(echo '$(git log --color=always --format="%C(yellow)%>(12,trunc)%ar %Creset%s %Cred%D %Cgreen%cn %Cblue%h" -- $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --nth=1,2,4..-2 --no-sort --preview="git diff --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" --reverse | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && git diff $(echo '$commit -- $@') }; func"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
@@ -219,7 +219,7 @@ alias fu="fasd -fe 'nvim -u ~/.SpaceVim/init.vim'"
 alias fv="fasd -fe '$EDITOR'" # relies on EDITOR variable from line 121
 alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
 alias g="grep --color=always --exclude-dir={.git,.idea,.vscode}"
-alias gg="func() { local commit_file; commit_file=$(echo '$(git grep -l ${1:-^} $(git rev-list --all --abbrev-commit) -- ${@:2} | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter=: --no-sort --preview="git diff HEAD --color=always {1} {2} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$commit_file') ] && echo -n $(echo '$commit_file') | tr ':' '\0' | xargs -0 git checkout; }; func"
+alias gg="func() { local commit_file; commit_file=$(echo '$(git grep -l ${1:-^} $(git rev-list --all --abbrev-commit) -- ${@:2} | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter=: --nth=2.. --no-sort --preview="git diff HEAD --color=always {1} {2} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$commit_file') ] && echo -n $(echo '$commit_file') | tr ':' '\0' | xargs -0 git checkout; }; func"
 alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
@@ -253,10 +253,10 @@ alias la="ls -a"
 alias lah="ls -ah"
 alias lal="ls -al"
 alias ll="ls -l"
-alias ld="git log --format='%C(yellow)%ad %Creset%s%Cred%d %Cgreen%cn %Cblue%h' --date=short"
+alias ld="git log --format='%C(yellow)%ad %Creset%s %Cred%D %Cgreen%cn %Cblue%h' --date=short"
 alias lr="git log --format='%C(yellow)%>(12,trunc)%ar %Creset%<(80,trunc)%s %Cblue%h %Cgreen%<(17,trunc)%cn %Cred%D'"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
-alias mm="func() { local file; file=$(echo '$(git diff --name-status --diff-filter=U | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="git log --color=always --format=\"%Creset%s%Cred%d %C(yellow)%ar %Cgreen%cn\" -p --merge {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
+alias mm="func() { local file; file=$(echo '$(git diff --name-status --diff-filter=U | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="git log --color=always --format=\"%Creset%s %Cred%D %C(yellow)%ar %Cgreen%cn\" -p --merge {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse | cut -c3-)') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
 alias mc="git mergetool -t code --extcmd 'code --wait'"
 alias mcs="git mergetool -t code --extcmd 'code --wait' --cached"
 alias mn="git mergetool -t nvim --extcmd 'nvim -d'"
@@ -285,16 +285,16 @@ alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/note
 alias nu="n -u ~/.SpaceVim/init.vim"
 alias o="open"
 alias od="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="exa --classify --color=always --oneline {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --preview-window="70%" --reverse)') && [ $(echo '$directory') ] && echo $(echo '$directory') | tr '\n' '\0' | xargs -0 open; }; func";
-alias of="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter / -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
-alias oh="func() { local files; files=$(echo '$(fd -e html --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter / -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
+alias of="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
+alias oh="func() { local files; files=$(echo '$(fd -e html --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
 alias op="func() { local files; files=$(echo '$(fd -e pdf --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="pdftotext -l 2 {} - | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
-alias or="func() { local files; files=$(echo '$(fd -e Rproj --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter / -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
+alias or="func() { local files; files=$(echo '$(fd -e Rproj --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
 alias oo="func() { local both; both=$(echo '$(fasd -Ral | fzf -m --no-sort --reverse)') && [ $(echo '$both') ] && echo $(echo '$both') | tr '\n' '\0' | xargs -0 open; }; func"
-alias ow="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter / -m --no-sort --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
+alias ow="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
 alias p="git push"
 alias pc="pycharm"
 alias pd="pycharm diff"
-alias pp="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter / -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 pycharm; }; func";
+alias pp="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 pycharm; }; func";
 alias py="python"
 alias pm="pycharm merge"
 alias pf="git push --force"
@@ -321,7 +321,7 @@ alias sc="git stash clear"
 alias sd="git stash drop"
 alias sl="git stash list"
 alias sp="git stash push"
-alias ss="func() { local stash; stash=$(echo '$(git stash list --color=always --format="%C(yellow)%>(12,trunc)%ar %Creset%s%Cred%d %Cgreen%cn %Cblue%gd" | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="git stash show --color=always {-1} | rg -e {q} -e ^ --color=always" --preview-window="60%" --reverse | rev | cut -d " " -f1 | rev)') && [ $(echo '$stash') ] && git stash pop $(echo '$stash') }; func"
+alias ss="func() { local stash; stash=$(echo '$(git stash list --color=always --format="%C(yellow)%>(12,trunc)%ar %Creset%s %Cgreen%cn %Cblue%gd" | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --nth=1,2,4..-2 --no-sort --preview="git stash show --color=always {-1} | rg -e {q} -e ^ --color=always" --preview-window="60%" --reverse | rev | cut -d " " -f1 | rev)') && [ $(echo '$stash') ] && git stash pop $(echo '$stash') }; func"
 alias su="git stash push && git pull"
 alias sub="git stash push && git pull && git stash branch"
 alias suc="git stash push && git pull && git stash clear"
