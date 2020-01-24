@@ -148,7 +148,7 @@ export EDITOR='/usr/local/bin/vim'
 # Inititialize fasd and its aliases
 eval "$(fasd --init auto)"
 
-alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter=/ --no-sort --preview="exa --classify --color=always --oneline {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && cd $(echo '$directory')"
+alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter=/ --no-sort --preview="exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && cd $(echo '$directory')"
 alias a="git add"
 alias aa="func() { local files; files=$(echo '$(git status -s | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --nth=2.. --no-sort --preview="if [ \$(git ls-files --other --exclude-standard {2..} | sed s/\ //g) ]; then; git diff --color=always --no-index -- /dev/null {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" --preview-window="70%" --reverse | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add $(echo '$@') --; }; func"
 alias aca="git add --all && git commit --amend"
@@ -191,8 +191,9 @@ alias co="git checkout"
 alias cob="git checkout -b"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
-alias d="git diff"
+alias d="git diff --word-diff=color"
 alias dw="git diff --word-diff=color"
+alias dl="git diff --word-diff=color"
 alias dd="func() { local commit; commit=$(echo '$(git log --color=always --format="%C(yellow)%>(12,trunc)%ar %Creset%s %Cred%D %Cgreen%cn %Cblue%h" -- $@ | fzf --ansi --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --nth=1,2,4..-2 --no-sort --preview="git diff --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" --reverse | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && git diff $(echo '$commit -- $@') }; func"
 alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
@@ -241,8 +242,8 @@ alias i="func() { echo $(echo 'echo $@ | tr " " "\n" >> $(git rev-parse --show-t
 alias ii="func() { local files; files=$(echo '$(git ls-files --others --exclude-standard | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -I file bash -c 'echo "file" >> \$(git rev-parse --show-toplevel)/.gitignore'; }; func";
 alias ie="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
 alias iee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
-alias j="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="exa --classify --color=always --oneline {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --preview-window="70%" --reverse)') && cd $(echo '$directory'); }; func";
-alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter=/ --no-sort --preview="exa --classify --color=always --oneline {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --preview-window="70%" --reverse --with-nth=4..)') && cd $(echo '$directory'); }; func";
+alias j="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --preview-window="70%" --reverse)') && cd $(echo '$directory'); }; func";
+alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter=/ --no-sort --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --preview-window="70%" --reverse --with-nth=4..)') && cd $(echo '$directory'); }; func";
 alias jl="func() { local ipynb; ipynb=$(echo '$(fd --type f --extension ipynb ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$ipynb') ] && jupyter lab $(echo '$ipynb'); }; func";
 alias jn="func() { local ipynb; ipynb=$(echo '$(fd --type f --extension ipynb ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --no-sort --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$ipynb') ] && jupyter notebook $(echo '$ipynb'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
@@ -284,7 +285,7 @@ alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias nu="n -u ~/.SpaceVim/init.vim"
 alias o="open"
-alias od="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="exa --classify --color=always --oneline {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --preview-window="70%" --reverse)') && [ $(echo '$directory') ] && echo $(echo '$directory') | tr '\n' '\0' | xargs -0 open; }; func";
+alias od="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --preview-window="70%" --reverse)') && [ $(echo '$directory') ] && echo $(echo '$directory') | tr '\n' '\0' | xargs -0 open; }; func";
 alias of="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
 alias oh="func() { local files; files=$(echo '$(fd -e html --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
 alias op="func() { local files; files=$(echo '$(fd -e pdf --type f ^ $@ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --no-sort --preview="pdftotext -l 2 {} - | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
@@ -453,3 +454,17 @@ prompt_context() {}
 # https://github.com/junegunn/fzf#respecting-gitignore
 export FZF_DEFAULT_COMMAND="fd --type file"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
+
+# https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
+export FZF_DEFAULT_OPTS='--no-height --select-1 --exit-0'
+export FZF_CTRL_T_OPTS="--preview 'bat --style=numbers --color=always {}' --preview-window='70%' --bind 'alt-p:toggle-preview'"
+export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap --bind 'alt-p:toggle-preview'"
+
+fzf-history-widget-accept() {
+  fzf-history-widget
+  zle accept-line
+}
+zle     -N     fzf-history-widget-accept
+bindkey '^X^R' fzf-history-widget-accept
+
+export FZF_ALT_C_OPTS="--preview 'exa --all --classify --color=always -L=2 -T {}' --preview-window='70%' --bind 'alt-p:toggle-preview'"
