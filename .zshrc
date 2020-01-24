@@ -368,6 +368,19 @@ alias zp="fasd -de pycharm"
 alias zu="fasd -de 'vim -u ~/.SpaceVim/vimrc'"
 alias zv="fasd -de '$EDITOR'"
 
+# Suffix aliases: use with fzf ctrl-t: even with multiple files
+# first file listed determines the command used to open all files
+# e.g. `open` will be used when running `image.png file.txt`
+# putting file.txt first will open both files in $EDITOR
+# Run *.md to open all markdown files in $EDITOR
+alias -s ipynb='jupyter lab'
+alias -s zip=unzip
+alias -s {R,r,rmd,Rmd,vim}=nvim
+alias -s {ahk,js,json,md,py,sh,toml,tex,txt,yaml,yml}=$EDITOR
+alias -s {csv,tsv}=scim
+alias -s {doc,docx,html,pdf,ppt,pptx,xls,xlsx}=open
+alias -s {gif,jpeg,jpg,png,tiff}=open
+
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
 # miniconda python
@@ -457,7 +470,7 @@ export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 export FZF_DEFAULT_OPTS='--no-height --select-1 --exit-0'
-export FZF_CTRL_T_OPTS="--preview 'bat --style=numbers --color=always {}' --preview-window='70%' --bind 'alt-p:toggle-preview'"
+export FZF_CTRL_T_OPTS="-m --preview 'bat --style=numbers --color=always {}' --preview-window='70%' --bind 'alt-p:toggle-preview'"
 export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap --bind 'alt-p:toggle-preview'"
 
 fzf-history-widget-accept() {

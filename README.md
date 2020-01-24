@@ -138,6 +138,10 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf.local -o ~/
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
+# Instal sc-im
+# brew tap nickolasburr/pfa
+brew install sc-im
+
 # Python and R
 
 ## [Install Anaconda](https://www.anaconda.com/distribution/): this can include the VS code text editor
