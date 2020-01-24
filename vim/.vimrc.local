@@ -113,7 +113,7 @@ nnoremap <C-w><C-^> <C-w>^<C-g>
 nnoremap <C-w><C-_> <C-w>_<C-g>
 
 "" pandoc plugin
-" let g:pandoc#modules#disabled = ["folding"]
+let g:pandoc#modules#disabled = ["folding"]
 let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 
 " Fuzzy finder (FZF)
