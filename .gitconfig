@@ -28,6 +28,8 @@
 [diff]
 	tool = vimdiff
     mnemonicprefix = true
+[difftool "vimdiff"]
+    cmd = vimdiff $LOCAL $REMOTE
 [filter "lfs"]
     clean = git-lfs clean -- %f
     smudge = git-lfs smudge -- %f
