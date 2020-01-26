@@ -148,7 +148,7 @@ export EDITOR='/usr/local/bin/vim'
 # Inititialize fasd and its aliases
 eval "$(fasd --init auto)"
 
-alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap --delimiter=/ --no-sort --preview="exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && cd $(echo '$directory')"
+alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --preview="exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="70%" --reverse --with-nth=4..)') && cd $(echo '$directory')"
 alias a="git add"
 alias aa="func() { local files; files=$(echo '$(git status -s | fzf --bind=alt-p:toggle-preview,alt-w:toggle-preview-wrap -m --nth=2.. --no-sort --preview="if [ \$(git ls-files --other --exclude-standard {2..} | sed s/\ //g) ]; then; git diff HEAD --color=always --color-words --no-index -- /dev/null {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff HEAD --color=always --color-words {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" --preview-window="70%" --reverse | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add $(echo '$@') --; }; func"
 alias aca="git add --all && git commit --amend"
@@ -469,9 +469,10 @@ export FZF_DEFAULT_COMMAND="fd --type file"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
-export FZF_DEFAULT_OPTS='--no-height --select-1 --exit-0'
-export FZF_CTRL_T_OPTS="-m --preview 'bat --style=numbers --color=always {}' --preview-window='70%' --bind 'alt-p:toggle-preview'"
-export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap --bind 'alt-p:toggle-preview'"
+
+export FZF_DEFAULT_OPTS="--bind=change:top,alt-p:toggle-preview,alt-w:toggle-preview-wrap --cycle --exit-0 --inline-info --no-height --no-sort --preview='bat --style=numbers --color=always {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always || exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --preview-window='70%' --reverse --select-1"
+export FZF_CTRL_T_OPTS="-m --preview 'bat --style=numbers --color=always {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always'"
+export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
 
 fzf-history-widget-accept() {
   fzf-history-widget
@@ -480,4 +481,4 @@ fzf-history-widget-accept() {
 zle     -N     fzf-history-widget-accept
 bindkey '^X^R' fzf-history-widget-accept
 
-export FZF_ALT_C_OPTS="--preview 'exa --all --classify --color=always -L=2 -T {}' --preview-window='70%' --bind 'alt-p:toggle-preview'"
+export FZF_ALT_C_OPTS="--preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always'"
