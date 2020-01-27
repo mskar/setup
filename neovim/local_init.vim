@@ -1,3 +1,4 @@
+let g:python3_host_prog="~/miniconda3/envs/r/bin/python3"
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 map p <Plug>(miniyank-autoput)
 map P <Plug>(miniyank-autoPut)
