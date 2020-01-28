@@ -1,9 +1,33 @@
+" ncm-R: https://github.com/gaalcaras/ncm-R
+" requires the lines below to satisfy ncm2 dependencies
+" https://github.com/ncm2/ncm2#install
 set completeopt=noinsert,menuone,noselect
-" autocmd BufEnter *.[Rr],*.Rmd call ncm2#enable_for_buffer()
 autocmd BufEnter * call ncm2#enable_for_buffer()
+" For now, use coc in vim and ncm in neovim
+" Later, try to use ncm just for r/rmd files as below
+" autocmd BufEnter *.[Rr],*.Rmd call ncm2#enable_for_buffer()
+" or switch to coc entirely if the R LSP gets better
+" https://github.com/REditorSupport/languageserver/issues/167
+
+" https://github.com/gaalcaras/ncm-R#getting-the-snippets-to-work
+" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc
+" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
+" http://vimcasts.org/episodes/meet-ultisnips/
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<tab>"
+let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
+" https://github.com/SirVer/ultisnips#quick-start
+" If you want :UltiSnipsEdit to split your window.
+let g:UltiSnipsEditSplit="vertical"
+" https://github.com/ncm2/ncm2-ultisnips
+" Press enter key to trigger snippet expansion
+" The parameters are the same as `:help feedkeys()`
+inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
+
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 map p <Plug>(miniyank-autoput)
 map P <Plug>(miniyank-autoPut)
+
 " Emacs and bash style insert mode shortcuts
 " Delete one character forward; the opposite of <C-h>
 inoremap <C-d> <Delete>

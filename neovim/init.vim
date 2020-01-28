@@ -31,7 +31,6 @@ Plug 'preservim/nerdtree'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
-Plug 'vim-scripts/grep.vim'
 Plug 'Raimondi/delimitMate'
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
@@ -44,12 +43,7 @@ else
 endif
 
 "" Vim-Session
-Plug 'xolox/vim-misc'
 Plug 'xolox/vim-session'
-
-"" Snippets
-Plug 'SirVer/ultisnips'
-Plug 'honza/vim-snippets'
 
 "" Color
 Plug 'tomasr/molokai'
@@ -289,12 +283,6 @@ nnoremap <silent> gb :Buffers<CR>
 nnoremap <silent> <leader>z :FZF -m<CR>
 "Recovery commands from history through FZF
 nnoremap <silent> <leader>h :History<CR>
-
-" snippets
-let g:UltiSnipsExpandTrigger="<tab>"
-let g:UltiSnipsJumpForwardTrigger="<tab>"
-let g:UltiSnipsJumpBackwardTrigger="<c-b>"
-let g:UltiSnipsEditSplit="vertical"
 
 " Disable visualbell
 set noerrorbells visualbell t_vb=
