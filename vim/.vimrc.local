@@ -18,10 +18,14 @@ inoremap <C-b> <left>
 cnoremap <C-b> <left>
 
 " Switch buffers
-tnoremap <C-w>; <C-\><C-n>:bn<CR>
-tnoremap <C-w>, <C-\><C-n>:bp<CR>
-nnoremap <C-w>; <C-\><C-n>:bn<CR>
-nnoremap <C-w>, <C-\><C-n>:bp<CR>
+tnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
+tnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
+nnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
+nnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
+nnoremap ]b <C-\><C-n>:bn<CR><C-g>
+nnoremap ]b <C-\><C-n>:bn<CR><C-g>
+tnoremap [b <C-\><C-n>:bn<CR><C-g>
+tnoremap [b <C-\><C-n>:bn<CR><C-g>
 
 " Alt keys
 " <a-d> = Delete word forward; opposite of <c-w>
