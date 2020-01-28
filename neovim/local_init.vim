@@ -221,20 +221,12 @@ nnoremap <C-w>, <C-\><C-n>:bp<CR>
 " Keyboard shortcuts for <- -> and other operators in R specific files
 " https://github.com/jalvesaq/Nvim-R/issues/85
 " The trailing spaces below are intentional!
-autocmd FileType r inoremap <buffer> ;n <Esc>:normal! a %>%<CR>a<CR>
-autocmd FileType rmd inoremap <buffer> ;n <Esc>:normal! a %>%<CR>a<CR>
-autocmd FileType r inoremap <buffer> ;m <Esc>:normal! a %>%<CR>a 
-autocmd FileType rmd inoremap <buffer> ;m <Esc>:normal! a %>%<CR>a 
-autocmd FileType r inoremap <buffer> ;i <Esc>:normal! a %in%<CR>a 
-autocmd FileType rmd inoremap <buffer> ;i <Esc>:normal! a %in%<CR>a 
-autocmd FileType r inoremap <buffer> ;, <Esc>:normal! a <-<CR>a 
-autocmd FileType rmd inoremap <buffer> ;, <Esc>:normal! a <-<CR>a 
-autocmd FileType r inoremap <buffer> ;. <Esc>:normal! a -><CR>a 
-autocmd FileType rmd inoremap <buffer> ;. <Esc>:normal! a -><CR>a 
-autocmd FileType r inoremap <buffer> ;/ <Esc>:normal! a %/%<CR>a 
-autocmd FileType rmd inoremap <buffer> ;/ <Esc>:normal! a %/%<CR>a 
-autocmd FileType r inoremap <buffer> ;8 <Esc>:normal! a %*%<CR>a 
-autocmd FileType rmd inoremap <buffer> ;8 <Esc>:normal! a %*%<CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-n> <Esc>:normal! a %>%<CR>a<CR>
+autocmd FileType r,rmd inoremap <buffer> <A-m> <Esc>:normal! a %>%<CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-i> <Esc>:normal! a %in%<CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-,> <Esc>:normal! a <-<CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-.> <Esc>:normal! a -><CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-/> <Esc>:normal! a %/%<CR>a 
 
 autocmd FileType rmd nnoremap <buffer> <leader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
 autocmd FileType rmd nnoremap <buffer> <leader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
@@ -243,7 +235,6 @@ autocmd FileType python nnoremap <buffer> <leader><CR> :w ! python3<CR>
 " http://sherifsoliman.com/2017/07/22/nvim-r/
 " press alt+, to have Nvim-R insert the assignment operator: <-
 let R_assign_map = "<A-,>"
-
 
 " set a minimum source editor width
 " let R_min_editor_width = 80
@@ -258,12 +249,10 @@ let R_show_args = 1
 " let R_objbr_opendf = 0
 " remapping the basic :: send line
 nmap <space> <Plug>RSendLine
-" remapping selection :: send multiple lines
-vmap <space> <Plug>RDSendSelection
 " remapping selection :: send multiple lines + echo lines
-vmap <space>e <Plug>RESendSelection
+vmap <space> <Plug>RESendSelection
 " from https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
-nmap <space>p <Plug>RPrintObj
+" nmap <space>p <Plug>RPrintObj
 
 "" pandoc plugin
 let g:pandoc#modules#disabled = ["folding"]
