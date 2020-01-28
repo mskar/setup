@@ -20,9 +20,6 @@ Plug 'jalvesaq/zotcite'
 Plug 'gaalcaras/ncm-R'
 Plug 'bfredl/nvim-miniyank'
 
-" Autocompletion using language server protocol
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
 " Vim 8 only
 if !has('nvim')
     Plug 'roxma/vim-hug-neovim-rpc'
