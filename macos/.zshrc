@@ -384,7 +384,7 @@ alias -s {gif,jpeg,jpg,png,tiff}=open
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
 # miniconda python
-export PATH=$HOME/miniconda3/bin:$PATH
+export PATH=$HOME/miniconda/bin:$PATH
 
 bindkey -v
 bindkey '\e.' insert-last-word

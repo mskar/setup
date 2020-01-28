@@ -60,8 +60,19 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zsh
 ## Install fzf
 brew install fzf && $(brew --prefix)/opt/fzf/install
 
+# Python and R
+
+## [Install Anaconda](https://www.anaconda.com/distribution/): this can include the VS code text editor
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O ~/miniconda.sh
+bash ~/miniconda.sh -b -p $HOME/miniconda
+
+## Install python packages for neovim for vim
+conda install -c conda-forge pynvim neovim
 ## Install bat - for fzf file preview
 brew install bat
+
+## Install exa
+brew install exa
 
 ## Install tree
 brew install tree
@@ -107,11 +118,6 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o 
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 
-## TODO: what do vim and neovim depend on?
-brew install ctags
-
-pip install flake8 jedi neovim
-
 ## Install flycut
 brew cask install flycut
 
@@ -142,10 +148,6 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 # brew tap nickolasburr/pfa
 brew install sc-im
 
-# Python and R
-
-## [Install Anaconda](https://www.anaconda.com/distribution/): this can include the VS code text editor
-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o install_miniconda.sh && bash install_miniconda.sh
 
 ## Install PyCharm (on Ubuntu use snap)
 brew cask install pycharm
