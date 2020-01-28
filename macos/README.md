@@ -21,10 +21,10 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Karabiner
-## Install Karabiner-Elements from homepage dmg https://pqrs.org/osx/karabiner/
+## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
 brew cask install karabiner-elements
 ## Download karabiner dotfile (configuration file)
-curl https://raw.githubusercontent.com/py4ds/setup/master/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
 ##### Change right_command+hjkl to arrow keys (from Examples)
@@ -38,7 +38,7 @@ brew cask install caskroom/fonts/font-firacode-nerd-font
 ## Install iterm2
 brew cask install iterm2
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
 ## In iterm2, select General > Preferences: Select load preferences from a local folder or URL
 ## In iterm2, select Appearance > Theme: Minimal
 ## In iterm2, select Profiles > Keys: Both option keys to Esc+
@@ -55,7 +55,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/.zshrc -o ~/.zshrc && source ~/.zshrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zshrc && source ~/.zshrc
 
 ## Install fzf
 brew install fzf && $(brew --prefix)/opt/fzf/install
