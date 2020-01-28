@@ -59,9 +59,5 @@ Plug 'tpope/vim-unimpaired'
 Plug 'bronson/vim-trailing-whitespace'
 Plug 'godlygeek/tabular'
 
-if v:version >= 703
-  Plug 'Shougo/vimshell.vim'
-endif
-
 "" Color
 " Plug 'dracula/vim', { 'as': 'dracula' }

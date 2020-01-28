@@ -1,3 +1,4 @@
+set completeopt=noinsert,menuone ",noselect
 " Emacs and bash style insert mode shortcuts
 " Delete one character forward; the opposite of <C-h>
 inoremap <C-d> <Delete>
