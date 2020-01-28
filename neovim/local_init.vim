@@ -1,7 +1,7 @@
 " ncm-R: https://github.com/gaalcaras/ncm-R
 " requires the lines below to satisfy ncm2 dependencies
 " https://github.com/ncm2/ncm2#install
-set completeopt=noinsert,menuone,noselect
+set completeopt=noinsert,menuone ",noselect
 autocmd BufEnter * call ncm2#enable_for_buffer()
 " For now, use coc in vim and ncm in neovim
 " Later, try to use ncm just for r/rmd files as below
