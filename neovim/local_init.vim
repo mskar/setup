@@ -53,20 +53,20 @@ tnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
 nnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
 nnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
 nnoremap ]b <C-\><C-n>:bn<CR><C-g>
-nnoremap ]b <C-\><C-n>:bn<CR><C-g>
-tnoremap [b <C-\><C-n>:bn<CR><C-g>
-tnoremap [b <C-\><C-n>:bn<CR><C-g>
+nnoremap [b <C-\><C-n>:bp<CR><C-g>
+tnoremap ]b <C-\><C-n>:bn<CR><C-g>
+tnoremap [b <C-\><C-n>:bp<CR><C-g>
 
 " Alt keys
 " <a-d> = Delete word forward; opposite of <c-w>
 inoremap <A-d> <C-o>de
 cnoremap <A-d> <S-Right><C-w>
 " <a-k> = Move up; opposite of <a-j>
-" inoremap <A-k> <up>
-" cnoremap <A-k> <up>
+inoremap <A-k> <up>
+cnoremap <A-k> <up>
 " <a-j> = Move down; opposite of <a-k>
-" inoremap <A-j> <down>
-" cnoremap <A-j> <down>
+inoremap <A-j> <down>
+cnoremap <A-j> <down>
 " <a-f> = Move one word forward; opposite of <a-b>
 inoremap <A-f> <C-o>w
 cnoremap <A-f> <S-Right>
@@ -76,7 +76,7 @@ cnoremap <A-b> <S-Left>
 " <a-u> = Uppercase to word end; opposite of <a-l>
 inoremap <A-u> <C-[>gUeea
 " <a-l> = Lowercase to word end; opposite of <a-u>
-" inoremap <A-l> <C-[>gueea
+inoremap <A-l> <C-[>gueea
 " <a-t> = Swap current word with previous word
 inoremap <A-t> <C-[>diwbPldepa
 
