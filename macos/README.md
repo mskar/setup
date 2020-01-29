@@ -110,6 +110,9 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_bundles.v
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim
 
+## Install and symlink macvim
+brew install macvim
+ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
 
 ## Set up SpaceVim
 git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
