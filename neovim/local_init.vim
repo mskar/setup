@@ -61,6 +61,9 @@ tnoremap [b <C-\><C-n>:bp<CR><C-g>
 " <a-d> = Delete word forward; opposite of <c-w>
 inoremap <A-d> <C-o>de
 cnoremap <A-d> <S-Right><C-w>
+" <a-h> = Delete word backward; opposite of <a-d>, same as <c-w>
+inoremap <A-h> <C-w>
+cnoremap <A-h> <C-w>
 " <a-k> = Move up; opposite of <a-j>
 inoremap <A-k> <up>
 cnoremap <A-k> <up>
