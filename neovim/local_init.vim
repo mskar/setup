@@ -113,12 +113,15 @@ nnoremap <C-w>j <C-w>j<C-g>
 nnoremap <C-w>k <C-w>k<C-g>
 nnoremap <C-w>l <C-w>l<C-g>
 nnoremap <C-w>n <C-w>n<C-g>
-nnoremap <C-w>o <C-w>o<C-g>
+" https://vi.stackexchange.com/questions/241/undo-only-window
+nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR><C-g>
 nnoremap <C-w>p <C-w>p<C-g>
 nnoremap <C-w>q <C-w>q<C-g>
 nnoremap <C-w>r <C-w>r<C-g>
 nnoremap <C-w>s <C-w>s<C-g>
 nnoremap <C-w>t <C-w>t<C-g>
+" https://vi.stackexchange.com/questions/241/undo-only-window
+nnoremap <C-w>u :source ~/session.vim<CR>
 nnoremap <C-w>v <C-w>v<C-g>
 nnoremap <C-w>w <C-w>w<C-g>
 nnoremap <C-w>x <C-w>x<C-g>
@@ -246,14 +249,52 @@ let R_assign_map = "<A-,>"
 " let R_rconsole_width = 1000
 
 " show arguments for functions during omnicompletion
-let R_show_args = 1
+" let R_show_args = 1
+
+" https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/
+" let g:rout_follow_colorscheme = 1
+" let g:Rout_more_colors = 1
 
 " Don't expand a dataframe to show columns by default
 " let R_objbr_opendf = 0
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2152
+" Only use the mappings listed below
+let R_user_maps_only = 1
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
 " remapping the basic :: send line
-nmap <space> <Plug>RSendLine
+nmap <space> <Plug>RDSendLine
 " remapping selection :: send multiple lines + echo lines
-vmap <space> <Plug>RESendSelection
+vmap <space> <Plug>REDSendSelection
+" remapping double character mappings to single character
+
+nmap <LocalLeader>a <Plug>RShowArgs
+nmap <LocalLeader>b <Plug>REDSendMBlock
+nmap <LocalLeader>c <Plug>REDSendChunk
+nmap <LocalLeader>e <Plug>RShowEx
+nmap <LocalLeader>f <Plug>RDSendFunction
+nmap <LocalLeader>g <Plug>RPlot
+nmap <LocalLeader>h <Plug>RHelp
+nmap <LocalLeader>m <Plug>RSendMotion
+nmap <LocalLeader>n <Plug>RNextRChunk
+nmap <LocalLeader>N <Plug>RPreviousRChunk
+nmap <LocalLeader>o <Plug>RSendSelAndInsertOutput
+vmap <LocalLeader>o <Plug>RSendSelAndInsertOutput
+nmap <LocalLeader>p <Plug>REDSendParagraph
+nmap <LocalLeader>q <Plug>RClose
+nmap <LocalLeader>s <Plug>RStart
+nmap <LocalLeader>S :RStop<CR>
+
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt
+" Emulate Tmux ^az
+function ZoomWindow()
+    let cpos = getpos(".")
+    tabnew %
+    redraw
+    call cursor(cpos[1], cpos[2])
+    normal! zz
+endfunction
+nmap gz :call ZoomWindow()<CR>
+
 " from https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
 " nmap <space>p <Plug>RPrintObj
 
