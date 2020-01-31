@@ -1,3 +1,39 @@
+" Fuzzy finder (FZF)
+" https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
+nnoremap <silent> <leader>A :Ag<CR>
+nnoremap <silent> <leader>B :BCommits<CR>
+nnoremap <silent> <leader>c :Commits<CR>
+nnoremap <silent> <leader>C :Commands<CR>
+nnoremap <silent> <leader>gf :GFiles<CR>
+nnoremap <silent> <leader>F :Files<CR>
+nnoremap <silent> <leader>H :Helptags<CR>
+nnoremap <silent> <leader>: :History:<CR>
+nnoremap <silent> <leader>/ :History/<CR>
+nnoremap <silent> g: :History:<CR>
+nnoremap <silent> g/ :History/<CR>
+nnoremap <silent> <leader>m :Maps<CR>
+nnoremap <silent> <leader>' :Marks<CR>
+nnoremap <silent> <leader>l :BLines<CR>
+nnoremap <silent> <leader>L :Lines<CR>
+" s is for syntax
+nnoremap <silent> <leader>R :Rg<CR>
+nnoremap <silent> <leader>y :Filetypes<CR>
+nnoremap <silent> <Leader>t :BTags<CR>
+nnoremap <silent> <Leader>T :Tags<CR>
+
+" https://github.com/junegunn/fzf.vim#usage
+" Mapping selecting mappings
+nmap <leader><tab> <plug>(fzf-maps-n)
+xmap <leader><tab> <plug>(fzf-maps-x)
+omap <leader><tab> <plug>(fzf-maps-o)
+" Insert mode completion
+imap <c-x><c-k> <plug>(fzf-complete-word)
+imap <c-x><c-f> <plug>(fzf-complete-path)
+imap <c-x><c-j> <plug>(fzf-complete-file-ag)
+imap <c-x><c-l> <plug>(fzf-complete-line)
+" Advanced customization using autoload functions
+inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
+
 " ncm-R: https://github.com/gaalcaras/ncm-R
 " requires the lines below to satisfy ncm2 dependencies
 " https://github.com/ncm2/ncm2#install
@@ -262,20 +298,19 @@ let R_assign_map = "<A-,>"
 let R_user_maps_only = 1
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
 " remapping the basic :: send line
-nmap <space> <Plug>RDSendLine
+autocmd FileType r,rmd nmap <buffer><A-Enter> :call SendLineToR("down")<CR>
 " remapping selection :: send multiple lines + echo lines
-vmap <space> <Plug>REDSendSelection
+vmap <A-Enter> <Plug>REDSendSelection
 " remapping double character mappings to single character
 
 nmap <LocalLeader>a <Plug>RShowArgs
 nmap <LocalLeader>b <Plug>REDSendMBlock
-nmap <LocalLeader>c <Plug>REDSendChunk
+nmap <LocalLeader>c <Plug>REDSendChunk<Plug>RNextRChunk
 nmap <LocalLeader>e <Plug>RShowEx
 nmap <LocalLeader>f <Plug>RDSendFunction
 nmap <LocalLeader>g <Plug>RPlot
 nmap <LocalLeader>h <Plug>RHelp
 nmap <LocalLeader>m <Plug>RSendMotion
-nmap <LocalLeader>n <Plug>RNextRChunk
 nmap <LocalLeader>N <Plug>RPreviousRChunk
 nmap <LocalLeader>o <Plug>RSendSelAndInsertOutput
 vmap <LocalLeader>o <Plug>RSendSelAndInsertOutput
@@ -301,42 +336,6 @@ nmap gz :call ZoomWindow()<CR>
 "" pandoc plugin
 let g:pandoc#modules#disabled = ["folding"]
 let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
-
-" Fuzzy finder (FZF)
-" https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
-nnoremap <silent> <leader>A :Ag<CR>
-nnoremap <silent> <leader>B :BCommits<CR>
-nnoremap <silent> <leader>c :Commits<CR>
-nnoremap <silent> <leader>C :Commands<CR>
-nnoremap <silent> <leader>gf :GFiles<CR>
-nnoremap <silent> <leader>F :Files<CR>
-nnoremap <silent> <leader>H :Helptags<CR>
-nnoremap <silent> <leader>: :History:<CR>
-nnoremap <silent> <leader>/ :History/<CR>
-nnoremap <silent> g: :History:<CR>
-nnoremap <silent> g/ :History/<CR>
-nnoremap <silent> <leader>m :Maps<CR>
-nnoremap <silent> <leader>' :Marks<CR>
-nnoremap <silent> <leader>l :BLines<CR>
-nnoremap <silent> <leader>L :Lines<CR>
-" s is for syntax
-nnoremap <silent> <leader>R :Rg<CR>
-nnoremap <silent> <leader>y :Filetypes<CR>
-nnoremap <silent> <Leader>t :BTags<CR>
-nnoremap <silent> <Leader>T :Tags<CR>
-
-" https://github.com/junegunn/fzf.vim#usage
-" Mapping selecting mappings
-nmap <leader><tab> <plug>(fzf-maps-n)
-xmap <leader><tab> <plug>(fzf-maps-x)
-omap <leader><tab> <plug>(fzf-maps-o)
-" Insert mode completion
-imap <c-x><c-k> <plug>(fzf-complete-word)
-imap <c-x><c-f> <plug>(fzf-complete-path)
-imap <c-x><c-j> <plug>(fzf-complete-file-ag)
-imap <c-x><c-l> <plug>(fzf-complete-line)
-" Advanced customization using autoload functions
-inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
 
 " Snakemake
 au BufNewFile,BufRead Snakefile set syntax=snakemake
