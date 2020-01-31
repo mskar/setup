@@ -201,8 +201,8 @@ alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cach
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
 alias dcs="git difftool -yt code --extcmd 'code --wait --diff' --cached" # --staged is a synonym of --cached
-alias dn="git difftool -yt nvim --extcmd 'nvim -d'"
-alias dns="git difftool -yt nvim --extcmd 'nvim -d' --cached" # --staged is a synonym of --cached
+alias dn="git difftool -yt nvim --extcmd 'nvim -d +file'"
+alias dns="git difftool -yt nvim --extcmd 'nvim -d +file' --cached" # --staged is a synonym of --cached
 alias du="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
 alias dus="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached" # --staged is a synonym of --cached
 alias dt="git difftool -yt vimdiff" # difftool is dt to match mergetool (mt)
@@ -215,7 +215,7 @@ alias e="export"
 alias ff="func() { local files; files=$(echo '$(git diff HEAD --diff-filter=M --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git checkout HEAD --; }; func"
 alias fl='fasd -fl'
 # fc is a built-in command that is used by fzf ctrl-r
-alias fn="fasd -fe nvim"
+alias fn="fasd -fe 'nvim +file'"
 alias fo="fasd -fe open"
 alias fp="fasd -fe pycharm"
 alias fu="fasd -fe 'nvim -u ~/.SpaceVim/init.vim'"
@@ -259,11 +259,11 @@ alias ll="func() { local commit; commit=$(echo '$(git log --color=always --forma
 alias ld="git log --format='%C(cyan)%ad %Creset%s %Cred%D %Cgreen%cn %Cblue%h' --date=short"
 alias lr="git log --format='%C(cyan)%>(12,trunc)%ar %Creset%<(80,trunc)%s %Cblue%h %Cgreen%<(17,trunc)%cn %Cred%D'"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
-alias mm="func() { local file; file=$(echo '$(git diff --diff-filter=U --name-only --relative | fzf --bind="alt-o:execute-silent(git checkout --ours {} && git add {})+reload(git diff --diff-filter=U --name-only --relative),alt-t:execute-silent(git checkout --theirs {} && git add {})+reload(git diff --diff-filter=U --name-only --relative)" --preview="git log --color=always --color-words --format=\"%n%C(cyan)%>(12,trunc)%ar %Cred%D %Creset%s %Cgreen%cn %Cblue%h\" --merge --patch -- {} | sed 1d | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
+alias mm="func() { local file; file=$(echo '$(git diff --diff-filter=U --name-only --relative | fzf --bind="alt-o:execute-silent(git checkout --ours {} && git add {})+reload(git diff --diff-filter=U --name-only --relative),alt-t:execute-silent(git checkout --theirs {} && git add {})+reload(git diff --diff-filter=U --name-only --relative)" --preview="git log --color=always --color-words --format=\"%n%C(cyan)%>(12,trunc)%ar %Cred%D %Creset%s %Cgreen%cn %Cblue%h\" --merge --patch -- {} | sed 1d | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! +file -- $(echo '$file'); }; func";
 alias mc="git mergetool -t code --extcmd 'code --wait'"
 alias mcs="git mergetool -t code --extcmd 'code --wait' --cached"
-alias mn="git mergetool -t nvim --extcmd 'nvim -d'"
-alias mns="git mergetool -t nvim --extcmd 'nvim -d' --cached"
+alias mn="git mergetool -t nvim --extcmd 'nvim -d +file'"
+alias mns="git mergetool -t nvim --extcmd 'nvim -d +file' --cached"
 alias mt="git mergetool -t vimdiff" # mv is taken
 alias mts="git mergetool -t vimdiff --cached"
 alias mu="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
@@ -271,21 +271,21 @@ alias mus="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cach
 # alias mp="git mergetool -t pycharm --extcmd 'pycharm merge'"
 # alias mps="git mergetool -t pycharm --extcmd 'pycharm merge'"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
-alias n="nvim"
+alias n="nvim +file"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
-alias ne="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf --delimiter=/ --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
-alias nf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
-alias ng="func() { local file; file=$(echo '$(rg -l $@ | fzf --no-multi --preview="bat --style=plain --color=always {} | rg --color=always -n $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && echo $(echo '$file') | sed s+~+$HOME+ | tr '\n' '\0' | xargs -0 nvim +$(echo '$(rg -n $@ $file | head -n 1 | cut -d: -f1)') --; }; func";
+alias ne="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf --delimiter=/ --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim +file $(echo '$@') --; }; func";
+alias nf="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim +file $(echo '$@') --; }; func";
+alias ng="func() { local file; file=$(echo '$(rg -l $@ | fzf --no-multi --preview="bat --style=plain --color=always {} | rg --color=always -n $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && echo $(echo '$file') | sed s+~+$HOME+ | tr '\n' '\0' | xargs -0 nvim +file +$(echo '$(rg -n $@ $file | head -n 1 | cut -d: -f1)') --; }; func";
 alias nh="n -c History" # this only works with -c, not --cmd
-alias nl="func() { local files; files=$(echo '$(rg -l $@ | fzf --preview="bat --style=plain --color=always {} | rg --color=always -n $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed s+~+$HOME+ | tr '\n' '\0' | xargs -0 nvim --; }; func";
-alias nn="func() { local files; files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
+alias nl="func() { local files; files=$(echo '$(rg -l $@ | fzf --preview="bat --style=plain --color=always {} | rg --color=always -n $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed s+~+$HOME+ | tr '\n' '\0' | xargs -0 nvim +file --; }; func";
+alias nn="func() { local files; files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim +file $(echo '$@') --; }; func";
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
-alias np="func() { local files; files=$(echo '$(fd -e pdf --type f ^ $@ | fzf --preview="pdftotext -l 2 {} - | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -n1 -I '{}' pdftotext '{}' && echo $(echo '${files//.pdf/.txt}') | tr '\n' '\0' | xargs -0 nvim --; }; func";
-alias nr="func() { local files; files=$(echo '$(rg -e "^> ~/" -e "^> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
+alias np="func() { local files; files=$(echo '$(fd -e pdf --type f ^ $@ | fzf --preview="pdftotext -l 2 {} - | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -n1 -I '{}' pdftotext '{}' && echo $(echo '${files//.pdf/.txt}') | tr '\n' '\0' | xargs -0 nvim +file --; }; func";
+alias nr="func() { local files; files=$(echo '$(rg -e "^> ~/" -e "^> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim +file $(echo '$@') --; }; func";
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
-alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
+alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim +file ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias nu="n -u ~/.SpaceVim/init.vim"
-alias nw="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -n 1 -I{} pandoc {} -f docx -t markdown -o {}.md && echo $(echo '${files//.docx/.docx.md}') | tr '\n' '\0' | xargs -0 nvim --; }; func";
+alias nw="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -n 1 -I{} pandoc {} -f docx -t markdown -o {}.md && echo $(echo '${files//.docx/.docx.md}') | tr '\n' '\0' | xargs -0 nvim +file --; }; func";
 alias o="open"
 alias od="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)")') && [ $(echo '$directory') ] && echo $(echo '$directory') | tr '\n' '\0' | xargs -0 open; }; func";
 alias of="func() { local files; files=$(echo '$(fd --type f ^ $@ | fzf --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func";
@@ -362,7 +362,7 @@ alias vw="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf -
 alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf --delimiter=/ --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 webstorm; }; func";
 alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
-alias zn="fasd -de nvim"
+alias zn="fasd -de 'nvim +file'"
 alias zo="fasd -de open"
 alias zp="fasd -de pycharm"
 alias zu="fasd -de 'vim -u ~/.SpaceVim/vimrc'"
@@ -375,8 +375,8 @@ alias zv="fasd -de '$EDITOR'"
 # Run *.md to open all markdown files in $EDITOR
 alias -s ipynb='jupyter lab'
 alias -s zip=unzip
-alias -s {R,r,rmd,Rmd,vim}=nvim
-alias -s {ahk,js,json,md,py,sh,toml,tex,txt,yaml,yml}=$EDITOR
+alias -s {R,r,rmd,Rmd,vim}="nvim +file"
+alias -s {ahk,js,json,md,py,sh,toml,tex,txt,yaml,yml}="$EDITOR"
 alias -s {csv,tsv}=scim
 alias -s {doc,docx,html,pdf,ppt,pptx,xls,xlsx}=open
 alias -s {gif,jpeg,jpg,png,tiff}=open
@@ -384,7 +384,7 @@ alias -s {gif,jpeg,jpg,png,tiff}=open
 # brew installed python
 # export PATH=/usr/local/bin/python3:$PATH
 # miniconda python
-export PATH=$HOME/miniconda/bin:$PATH
+export PATH=$HOME/miniconda3/bin:$PATH
 
 bindkey -v
 bindkey '\e.' insert-last-word
