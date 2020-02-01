@@ -160,8 +160,8 @@ alias ac="git add --all && git commit"
 alias acm="func() { git add --all && git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acmp="func() { git add --all && git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias acp="git add --all && git commit && git push"
-alias acr="git add --all && git commit --reuse-message=HEAD --reset-author"
-alias acrp="git add --all && git commit --reuse-message=HEAD --reset-author && git push"
+alias acr="git add --all && git commit --reedit-message=HEAD --reset-author"
+alias acrp="git add --all && git commit --reedit-message=HEAD --reset-author && git push"
 alias ai="git add --interactive"
 alias ap="git add --patch"
 alias b="git branch"
@@ -171,7 +171,7 @@ alias br="git branch --remotes"
 alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); }; func";
 alias ca="git commit --all"
 alias caa="git commit --amend --all"
-alias car="git commit --all --reuse-message=HEAD --reset-author"
+alias car="git commit --all --reedit-message=HEAD --reset-author"
 alias caam="func() { git commit --amend --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias caamp="func() { git commit --amend --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push --force; }; func";
 alias caap="git commit --amend --all && git push --force"
@@ -180,11 +180,14 @@ alias caarp="git commit --amend --all --reuse-message=HEAD --reset-author && git
 alias cam="func() { git commit --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias camp="func() { git commit --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cap="git commit --all && git push"
-alias carp="git commit --all --reuse-message=HEAD --reset-author && git push"
+alias carp="git commit --all --reedit-message=HEAD --reset-author && git push"
 alias cc="func() { local commit; commit=$(echo '$(git log --color=always --format="%C(cyan)%>(12,trunc)%ar %Creset%s %Cred%D %Cgreen%cn %Cblue%h" --graph -- $@ | fzf --ansi --nth=1,2,4..-2 --no-multi --preview="git show --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
 alias cm="func() { git commit --message \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cmp="func() { git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cmpf="func() { git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push --force; }; func";
+alias cr="git commit --reedit-message=HEAD --reset-author"
+alias crp="git commit --reedit-message=HEAD --reset-author && git push"
+alias crpf="git commit --reedit-message=HEAD --reset-author && git push --force"
 alias cf="git clean -f"
 alias cfd="git clean -fd"
 alias cn="git clean -n"
