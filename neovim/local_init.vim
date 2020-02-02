@@ -121,6 +121,8 @@ inoremap <A-t> <C-[>diwbPldepa
 
 " Run :file everytime I use a window command
 " Similar to how ]b and [b from unimpaired work
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
+" To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
 nnoremap <C-w>+ <C-w>+<C-g>
 nnoremap <C-w>- <C-w>-<C-g>
 nnoremap <C-w>< <C-w><<C-g>
@@ -269,6 +271,7 @@ autocmd FileType r,rmd inoremap <buffer> <A-i> <Esc>:normal! a %in%<CR>a
 autocmd FileType r,rmd inoremap <buffer> <A-,> <Esc>:normal! a <-<CR>a 
 autocmd FileType r,rmd inoremap <buffer> <A-.> <Esc>:normal! a -><CR>a 
 autocmd FileType r,rmd inoremap <buffer> <A-/> <Esc>:normal! a %/%<CR>a 
+autocmd FileType rmd inoremap <buffer> <A-i> <Esc>:normal! a ```{r}<CR>```<Esc>O
 
 autocmd FileType rmd nnoremap <buffer> <leader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
 autocmd FileType rmd nnoremap <buffer> <leader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
@@ -296,46 +299,58 @@ let R_assign_map = "<A-,>"
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2152
 " Only use the mappings listed below
 let R_user_maps_only = 1
+" Do not replace grave accent with chunk delimiters in Rmd files
+" Use alt-i to insert code chunks instead
+let R_rmdchunk = 0
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
-" remapping the basic :: send line
-autocmd FileType r,rmd nmap <buffer><A-Enter> :call SendLineToR("down")<CR>
-" remapping selection :: send multiple lines + echo lines
+" https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
+" Remappings based on RStudio shortcuts: https://rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf
+"" Remapping the basic :: send line
+autocmd FileType r,rmd nnoremap <silent><buffer><A-Enter> :call SendLineToR("down")<CR>
+autocmd FileType r nnoremap <silent><buffer><A-S-Enter> :call SendFileToR("echo")<CR>
+autocmd FileType rmd nnoremap <silent><buffer><A-S-Enter> :call b:SendChunkToR("echo", "down")<CR>
+"" Remapping selection :: send multiple lines + echo lines
 vmap <A-Enter> <Plug>REDSendSelection
-" remapping double character mappings to single character
+autocmd FileType r,rmd nnoremap <silent><buffer><A-S-0> :call RClearAll()<CR>
+autocmd FileType r nnoremap <silent><buffer><A-a> :call SendAboveLinesToR()<CR>
+autocmd FileType rmd nnoremap <silent><buffer><A-p> :call SendFHChunkToR()<CR>
+autocmd FileType rmd nnoremap <silent><buffer><A-i> :normal! a ```{r}<CR>```<Esc>O
+autocmd FileType r,rmd nnoremap <silent><buffer><C-l> :call RClearConsole()<CR>
+" Remapping double character nvim-R mappings to single character
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>- :call RBrOpenCloseLs(0)<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>0 :call RObjBrowser()<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>; :call MovePosRCodeComment("normal")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>= :call RBrOpenCloseLs(1)<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>a :call :call SendFileToR("echo")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>b :call SendMBlockToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>c :call b:SendChunkToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>d :call RSetWD()<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>e :call RAction("example")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>f :call SendFunctionToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>g :call RAction("plot")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>h :call RAction("help")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>i :call RAction("print")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>k :call RKnit()<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>l :call g:SendCmdToR("ls()")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>m :set opfunc=SendMotionToR<CR>g@
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>n :call RAction("nvim.names")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>o :call SendLineToRAndInsertOutput()<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>p :call SendParagraphToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>q :call RQuit("nosave")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>r :call RAction("args")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>s :call StartR("R")<CR>:RStop<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>t :call RAction("str")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>u :call RAction("summary")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>v :call RAction("viewdf", ", location='vsplit'")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>w :call RMakeRmd("word_document")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>x :call RComment("normal")<CR>
 
-nmap <LocalLeader>a <Plug>RShowArgs
-nmap <LocalLeader>b <Plug>REDSendMBlock
-nmap <LocalLeader>c <Plug>REDSendChunk<Plug>RNextRChunk
-nmap <LocalLeader>e <Plug>RShowEx
-nmap <LocalLeader>f <Plug>RDSendFunction
-nmap <LocalLeader>g <Plug>RPlot
-nmap <LocalLeader>h <Plug>RHelp
-nmap <LocalLeader>m <Plug>RSendMotion
-nmap <LocalLeader>N <Plug>RPreviousRChunk
-nmap <LocalLeader>o <Plug>RSendSelAndInsertOutput
-vmap <LocalLeader>o <Plug>RSendSelAndInsertOutput
-nmap <LocalLeader>p <Plug>REDSendParagraph
-nmap <LocalLeader>q <Plug>RClose
-nmap <LocalLeader>s <Plug>RStart
-nmap <LocalLeader>S :RStop<CR>
-
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt
-" Emulate Tmux ^az
-function ZoomWindow()
-    let cpos = getpos(".")
-    tabnew %
-    redraw
-    call cursor(cpos[1], cpos[2])
-    normal! zz
-endfunction
-nmap gz :call ZoomWindow()<CR>
-
-" from https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
-" nmap <space>p <Plug>RPrintObj
-
-"" pandoc plugin
+" vim-pandoc inserts citations with <C-x><C-o>
+" disable automatic folding by vim-pandoc
 let g:pandoc#modules#disabled = ["folding"]
 let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
+" In addition to vim-pandoc, zotcite and nvim-r can insert citations
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
 
 " Snakemake
 au BufNewFile,BufRead Snakefile set syntax=snakemake
