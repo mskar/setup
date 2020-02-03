@@ -311,6 +311,7 @@ autocmd FileType r nnoremap <silent><buffer><A-S-Enter> :call SendFileToR("echo"
 autocmd FileType rmd nnoremap <silent><buffer><A-S-Enter> :call b:SendChunkToR("echo", "down")<CR>
 "" Remapping selection :: send multiple lines + echo lines
 vmap <A-Enter> <Plug>REDSendSelection
+vmap <localleader>o <Plug>RSendSelAndInsertOutput
 autocmd FileType r,rmd nnoremap <silent><buffer><A-S-0> :call RClearAll()<CR>
 autocmd FileType r nnoremap <silent><buffer><A-a> :call SendAboveLinesToR()<CR>
 autocmd FileType rmd nnoremap <silent><buffer><A-p> :call SendFHChunkToR()<CR>
