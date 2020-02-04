@@ -63,7 +63,7 @@ brew install fzf && $(brew --prefix)/opt/fzf/install
 # Python and R
 
 ## [Install Anaconda](https://www.anaconda.com/distribution/): this can include the VS code text editor
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O ~/miniconda.sh
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 bash ~/miniconda.sh -b -p $HOME/miniconda
 
 ## Install python packages for neovim for vim
