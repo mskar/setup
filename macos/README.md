@@ -66,8 +66,10 @@ brew install fzf && $(brew --prefix)/opt/fzf/install
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 bash ~/miniconda.sh -b -p $HOME/miniconda
 
-## Install python packages for neovim for vim
-conda install -c conda-forge pynvim neovim
+## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
+### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
+conda install -yc conda-forge nodejs pynvim neovim pybtex
+
 ## Install bat - for fzf file preview
 brew install bat
 
@@ -176,7 +178,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideav
 brew cask install java
 
 ## Setup Jupyter Lab with the jupyterlab-git extension
-conda install -yc conda-forge nodejs jupyterlab jupyterlab-git
+conda install -yc conda-forge jupyterlab jupyterlab-git
 
 jupyter labextension install @jupyterlab/git
 
