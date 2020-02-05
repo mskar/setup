@@ -1,50 +1,3 @@
-# Why Mac?
-## Modifier keys
-### The Command key is used for MacOS keyboard shortcuts, limiting conflicts with Unix shortcuts that use Alt/Option or Control.
-### The best option would be to install Linux on a Mac and configure the modifier keys (Cmd/Alt/Ctrl) to work like in MacOS, but who has time for that?
-## Longevity
-### Macs are built to last. I am writing this in 2019 on a 2014 MacBook Air. No PC has ever lasted this long in my experience.
-## MacOS
-### MacOS is UNIX-based, unlike the Windows, though the Windows Subsystem for Linux
-# Mac System Preferences
-## In System Preferences > Keyboard > Keyboard:
-### Key Repeat: Fast
-### Delay Until Repeat: Short
-### Caps Lock Key: Escape
-## Remove most icons from Dock
-## Drag and Drop Documents from Finder to the Dock in between Applications and Download
-## 2-finger click on Dock and Turn Dock Hiding On
-## Add Home to Finder sidebar
-## Under General > Appearance select 'Use Dark menu bar and Dock' and 'Automatically hide and show the menu bar'
-
-## Install Homebrew (this also installs xcode tools needed for git)
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-# Karabiner
-## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
-brew cask install karabiner-elements
-## Download karabiner dotfile (configuration file)
-curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
-#### Under Complex modifications > Rules you should see
-##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
-##### Change right_command+hjkl to arrow keys (from Examples)
-##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
-##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
-
-## Install Fira Code Nerdfont
-brew cask install caskroom/fonts/font-firacode-nerd-font
-## In terminal, under Profiles > Text: Set background to black, set text to white, and select Fura Code Nerdfont size 18
-
-## Install iterm2
-brew cask install iterm2
-
-curl https://raw.githubusercontent.com/py4ds/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
-## In iterm2, select General > Preferences: Select load preferences from a local folder or URL
-## In iterm2, select Appearance > Theme: Minimal
-## In iterm2, select Profiles > Keys: Both option keys to Esc+
-## In iterm2, select Profiles > Terminal, Under Notifications, Silence bell
-## In iterm2, select Fura Code Nerdfont size 18 in Profiles > Text > Change Font and check Use Ligatures
-
 ## Install oh-my-zsh et al.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ### When prompted to change shell, enter Y
@@ -55,10 +8,10 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zshrc && source ~/.zshrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/linux/.zshrc -o ~/.zshrc && source ~/.zshrc
 
 ## Install fzf
-brew install fzf && $(brew --prefix)/opt/fzf/install
+sudo apt install fzf && $(brew --prefix)/opt/fzf/install
 
 # Python and R
 
@@ -71,13 +24,13 @@ bash ~/miniconda.sh -b -p $HOME/miniconda
 conda install -yc conda-forge nodejs pynvim neovim pybtex
 
 ## Install bat - for fzf file preview
-brew install bat
+sudo apt install bat
 
 ## Install exa
-brew install exa
+sudo apt install exa
 
 ## Install tree
-brew install tree
+sudo apt install tree
 
 ## Download and source dotfiles (configuration files)
 curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
@@ -104,7 +57,7 @@ mkdir -p ~/.config/nvim/ && cp ~/py4ds/setup/neovim/*.vim ~/.config/nvim/
 mkdir -p ~/.config/karabiner/ && cp ~/py4ds/setup/karabiner.json ~/.config/karabiner/
 
 ## Install neovim
-brew install neovim
+sudo apt install neovim
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_init.vim -o ~/.config/nvim/local_init.vim --create-dirs
 
@@ -112,9 +65,9 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_bundles.v
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim
 
-## Install and symlink macvim
-brew install macvim
-ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
+## Install and symlink linuxvim
+sudo apt install linuxvim
+ln -s /usr/local/Cellar/linuxvim/**/MacVim.app/ /Applications/MacVim.app
 
 ## Set up SpaceVim
 git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
@@ -130,13 +83,13 @@ brew cask install flycut
 brew cask install shiftit
 
 # Install terminal tools (e.g. pdftotext - for fzf PDF file preview)
-brew install xpdf
+sudo apt install xpdf
 
 ## Install keycastr
 # brew cask install keycastr
 
 ## Install tmux
-brew install tmux
+sudo apt install tmux
 
 ## Install oh my tmux
 git clone https://github.com/gpakosz/.tmux ~/.tmux
@@ -151,11 +104,11 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 # Install sc-im
 # brew tap nickolasburr/pfa
-brew install sc-im
+sudo apt install sc-im
 
 
-## Install PyCharm (on Ubuntu use snap)
-brew cask install pycharm
+## Install PyCharm (Ubuntu only?)
+snap install pycharm
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
 ## Sync settings from https://github.com/marskar/PyCharm
@@ -175,7 +128,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideav
 ### Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M to IDE
 
 ## Install java and JDK to stop the the JDK popups
-brew cask install java
+sudo apt install java
 
 ## Setup Jupyter Lab with the jupyterlab-git extension
 conda install -yc conda-forge jupyterlab jupyterlab-git
@@ -200,7 +153,20 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_binding
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json
 
 ## Install Visual Studio Code
-brew cask install visual-studio-code
+### https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/
+#### First, update the packages index and install the dependencies by typing:
+sudo apt update
+sudo apt install software-properties-common apt-transport-https wget
+
+#### Next, import the Microsoft GPG key using the following wget command:
+wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+
+#### #### And enable the Visual Studio Code repository by typing:
+sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+
+#### Once the apt repository is enabled, install the latest version of Visual Studio Code with:
+sudo apt update
+sudo apt install code
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User
 
@@ -213,7 +179,5 @@ code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension vscodevim.vim
 
 # Install inkscape (to create vector art, e.g. logos)
-brew cask install xquartz
 
-brew cask install inkscape
 
