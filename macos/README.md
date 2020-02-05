@@ -76,6 +76,12 @@ brew install bat
 ## Install exa
 brew install exa
 
+## Install fasd
+brew install fasd
+
+## Install fd
+brew install fd
+
 ## Install tree
 brew install tree
 

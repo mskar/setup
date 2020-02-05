@@ -29,6 +29,12 @@ sudo apt install bat
 ## Install exa
 sudo apt install exa
 
+## Install fasd
+sudo apt install fasd
+
+## Install fd
+sudo apt install fd-find
+
 ## Install tree
 sudo apt install tree
 
