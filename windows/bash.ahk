@@ -1,8 +1,8 @@
 #if WinActive("ahk_exe Chrome.exe") or WinActive("ahk_exe Firefox.exe") or WinActive("ahk_exe Outlook.exe") or WinActive("ahk_exe Explorer.exe")
-    #b::Send ^{Left}
-    #d::Send ^{Delete}
-    #f::Send ^{Right}
-    #h::Send ^{Backspace}
+    !b::Send ^{Left}
+    !d::Send ^{Delete}
+    !f::Send ^{Right}
+    !h::Send ^{Backspace}
     ^a::Send {Ctrl up}{Home}{Ctrl down}
     ^b::Send {Ctrl up}{Left}{Ctrl down}
     ^d::Send {Ctrl up}{Delete}{Ctrl down}
