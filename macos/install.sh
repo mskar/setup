@@ -125,10 +125,23 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
-conda install -yc conda-forge nodejs neovim pybtex
-
+conda install -yc conda-forge nodejs neovim pybtex jupyterlab jupyterlab-git
 ## Or clone the github repo and copy the dotfiles to the right places
 ## using the cp_dotfiles.sh script
+
+## Set up jupyterlab-git extension
+jupyter labextension install @jupyterlab/git
+
+jupyter serverextension enable --py jupyterlab_git
+
+jupyter labextension install jupyterlab_vim
+
+## Set up jupyterlab-github extension
+#### jupyter labextension install @jupyterlab/github
+#### pip install jupyterlab_github
+##### Provide access token to GitHub extension
+##### https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
+
 
 ## Setup PyCharm
 ### Sync settings from https://github.com/marskar/PyCharm
@@ -146,19 +159,6 @@ conda install -yc conda-forge nodejs neovim pybtex
 ### Install [R Language Support](http://holgerbrandl.github.io/r4intellij/) plugin
 ### Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M to IDE
 
-## Set up JupyterLab with the jupyterlab-git extension
-conda install -yc conda-forge jupyterlab jupyterlab-git
-
-jupyter labextension install @jupyterlab/git
-
-jupyter serverextension enable --py jupyterlab_git
-
-jupyter labextension install jupyterlab_vim
-# jupyter labextension install @jupyterlab/github
-# pip install jupyterlab_github
-## Provide access token to GitHub extension
-## https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
-
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 conda install -yc r rstudio
 
@@ -168,5 +168,5 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_binding
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json
 
-## Install and symlink macvim
-# ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
+### Install and symlink macvim (brew installed macvim conflicts with brew installed vim)
+##### ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
