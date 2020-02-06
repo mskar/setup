@@ -51,7 +51,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/macos/com.googlecode.i
 ## In iterm2, select Profiles > Terminal, Under Notifications, Silence bell
 ## In iterm2, select Fura Code Nerdfont size 18 in Profiles > Text > Change Font and check Use Ligatures
 
-## Download karabiner dotfile (configuration file)
+## Set up karabiner
 curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
@@ -59,7 +59,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -
 ##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
-## Setup Visual Studio Code
+## Set up Visual Studio Code
 curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User
@@ -71,7 +71,7 @@ code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension vscodevim.vim
 
 # Shell programs needed for aliases
-## Install fzf
+## Install fzf (fuzzy finder)
 ## Install bat and exa (for fzf file preview)
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
@@ -170,4 +170,3 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindin
 
 ## Install and symlink macvim
 # ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
-
