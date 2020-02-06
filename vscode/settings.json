@@ -27,6 +27,14 @@
         },
         {
             "before": [
+                "<C-d>"
+            ],
+            "commands": [
+                "deleteRight"
+            ],
+        },
+        {
+            "before": [
                 "<C-e>"
             ],
             "commands": [
