@@ -19,6 +19,14 @@
     "vim.insertModeKeyBindings": [
         {
             "before": [
+                "<C-a>"
+            ],
+            "commands": [
+                "cursorHome"
+            ],
+        },
+        {
+            "before": [
                 "<C-e>"
             ],
             "commands": [
@@ -27,11 +35,19 @@
         },
         {
             "before": [
-                "<C-a>"
+                "<C-k>"
             ],
             "commands": [
-                "cursorHome"
+                "deleteAllRight"
             ],
-        }
+        },
+        {
+            "before": [
+                "<C-u>"
+            ],
+            "commands": [
+                "deleteAllLeft"
+            ],
+        },
     ],
 }
