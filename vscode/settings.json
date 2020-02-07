@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
     "editor.minimap.enabled": false,
     "python.autoComplete.addBrackets": true,
     "editor.tabCompletion": "on",

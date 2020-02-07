@@ -1,3 +1,17 @@
 // Place your key bindings in this file to override the defaults
 [
+  { "key": "alt+d", "command": "deleteWordRight", "when": "textInputFocus && !editorReadonly" },
+  { "key": "alt+d", "command": "workbench.action.terminal.deleteWordRight", "when": "terminalFocus" },
+  { "key": "ctrl+alt+d", "command": "deleteWordPartRight", "when": "textInputFocus && !editorReadonly" },
+  { "key": "alt+h", "command": "deleteWordLeft", "when": "textInputFocus && !editorReadonly" },
+  { "key": "alt+h", "command": "workbench.action.terminal.deleteWordLeft", "when": "terminalFocus" },
+  { "key": "ctrl+alt+h", "command": "deleteWordPartLeft", "when": "textInputFocus && !editorReadonly" },
+  { "key": "alt+b", "command": "cursorWordStartLeft", "when": "textInputFocus" },
+  { "key": "ctrl+alt+b", "command": "cursorWordPartLeft", "when": "textInputFocus" },
+  { "key": "shift+alt+b", "command": "cursorWordStartLeftSelect", "when": "textInputFocus" },
+  { "key": "ctrl+shift+alt+b", "command": "cursorWordPartLeftSelect", "when": "textInputFocus" },
+  { "key": "alt+f", "command": "cursorWordEndRight", "when": "textInputFocus" },
+  { "key": "ctrl+alt+f", "command": "cursorWordPartRight", "when": "textInputFocus" },
+  { "key": "shift+alt+f", "command": "cursorWordEndRightSelect", "when": "textInputFocus" },
+  { "key": "ctrl+shift+alt+f", "command": "cursorWordPartRightSelect", "when": "textInputFocus" },
 ]
