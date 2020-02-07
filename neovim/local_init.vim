@@ -37,6 +37,7 @@ inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
 " ncm-R: https://github.com/gaalcaras/ncm-R
 " requires the lines below to satisfy ncm2 dependencies
 " https://github.com/ncm2/ncm2#install
+" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L16
 set completeopt=noinsert,menuone,noselect
 autocmd BufEnter * call ncm2#enable_for_buffer()
 " For now, use coc in vim and ncm in neovim
@@ -59,6 +60,25 @@ let g:UltiSnipsEditSplit="vertical"
 " Press enter key to trigger snippet expansion
 " The parameters are the same as `:help feedkeys()`
 inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
+
+" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L19
+let g:UltiSnipsExpandTrigger = "<Plug>(ultisnips_expand_or_jump)"
+let g:UltiSnipsJumpForwardTrigger = "<Plug>(ultisnips_expand_or_jump)"
+
+function! UltiSnipsExpandOrJumpOrTab()
+  call UltiSnips#ExpandSnippetOrJump()
+  if g:ulti_expand_or_jump_res > 0
+    return ""
+  else
+    return "\<Tab>"
+  endif
+endfunction
+
+inoremap <silent> <expr> <Tab> ncm2_ultisnips#expand_or("\<Plug>(ultisnips_try_expand)")
+
+inoremap <silent> <Plug>(ultisnips_try_expand) <C-R>=UltiSnipsExpandOrJumpOrTab()<CR>
+
+snoremap <silent> <Tab> <Esc>:call UltiSnips#ExpandSnippetOrJump()<cr>
 
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 map p <Plug>(miniyank-autoput)

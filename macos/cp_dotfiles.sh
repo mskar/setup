@@ -2,7 +2,7 @@
 # zsh
 cp ~/py4ds/setup/macos/.zshrc ~
 # ideavim
-cp ~/py4ds/setup/.ideavimrc ~
+cp ~/py4ds/setup/ideavim/.ideavimrc ~
 # iterm
 cp ~/py4ds/setup/macos/com.googlecode.iterm2.plist ~
 # vim
@@ -14,3 +14,5 @@ mkdir -p ~/.config/karabiner/ && cp ~/py4ds/setup/macos/karabiner.json ~/.config
 # Rstudio
 mkdir -p ~/.R/rstudio/keybindings && cp ~/py4ds/setup/rstudio/*.json ~/.R/rstudio/keybindings/
 mkdir -p ~/.rstudio-desktop/monitored/ && cp ~/py4ds/setup/rstudio/user-settings ~/.rstudio-desktop/monitored/user-settings/
+# vscode
+cp ~/py4ds/setup/vscode/*.json ~/Library/Application\ Support/Code/User/
