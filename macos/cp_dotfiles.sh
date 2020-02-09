@@ -15,4 +15,4 @@ mkdir -p ~/.config/karabiner/ && cp ~/py4ds/setup/macos/karabiner.json ~/.config
 mkdir -p ~/.R/rstudio/keybindings && cp ~/py4ds/setup/rstudio/*.json ~/.R/rstudio/keybindings/
 mkdir -p ~/.rstudio-desktop/monitored/ && cp ~/py4ds/setup/rstudio/user-settings ~/.rstudio-desktop/monitored/user-settings/
 # vscode
-cp ~/py4ds/setup/vscode/*.json ~/Library/Application\ Support/Code/User/
+mkdir -p ~/Library/Application\ Support/Code/User/ && cp ~/py4ds/setup/vscode/*.json ~/Library/Application\ Support/Code/User/
