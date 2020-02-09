@@ -16,3 +16,5 @@ mkdir -p ~/.R/rstudio/keybindings && cp ~/py4ds/setup/rstudio/*.json ~/.R/rstudi
 mkdir -p ~/.rstudio-desktop/monitored/ && cp ~/py4ds/setup/rstudio/user-settings ~/.rstudio-desktop/monitored/user-settings/
 # vscode
 mkdir -p ~/Library/Application\ Support/Code/User/ && cp ~/py4ds/setup/vscode/*.json ~/Library/Application\ Support/Code/User/
+# tmux
+cp ~/py4ds/setup/.tmux.conf.local ~
