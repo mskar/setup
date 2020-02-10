@@ -31,7 +31,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zshrc && source ~/.zshrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zshrc
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
 
@@ -108,6 +108,8 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideav
 ## Set up oh my tmux
 git clone https://github.com/gpakosz/.tmux ~/.tmux
 
+cd
+
 ln -s -f ~/.tmux/.tmux.conf
 
 cp ~/.tmux/.tmux.conf.local ~
@@ -125,14 +127,15 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
-conda install -yc conda-forge nodejs neovim pybtex jupyterlab jupyterlab-git
+# I don't use jupyterlab-git, I only demo it in classes
+conda install -yc conda-forge nodejs neovim pybtex jupyterlab # jupyterlab-git
 ## Or clone the github repo and copy the dotfiles to the right places
 ## using the cp_dotfiles.sh script
 
 ## Set up jupyterlab-git extension
-jupyter labextension install @jupyterlab/git
+##### jupyter labextension install @jupyterlab/git
 
-jupyter serverextension enable --py jupyterlab_git
+##### jupyter serverextension enable --py jupyterlab_git
 
 jupyter labextension install jupyterlab_vim
 
@@ -160,7 +163,8 @@ jupyter labextension install jupyterlab_vim
 ### Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M to IDE
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
-conda install -yc r rstudio
+##### Installing r into base environment breaks nvim-R
+conda create -n r -yc conda-forge rstudio r-essentials r-tidymodels r-tidyverse
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
 
