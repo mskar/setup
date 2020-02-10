@@ -51,6 +51,12 @@ tnoremap [b <C-\><C-n>:bp<CR><C-g>
 " <a-t> = Swap current word with previous word
 " inoremap <A-t> <C-[>diwbPldepa
 
+" Run :file everytime I switch to alternate file (^6)
+nnoremap <C-6> <C-6><C-g>
+" Run :file everytime I go thru the jump list
+nnoremap <C-o> <C-o><C-g>
+nnoremap <C-i> <C-i><C-g>
+
 " Run :file everytime I use a window command
 " Similar to how ]b and [b from unimpaired work
 nnoremap <C-w>+ <C-w>+<C-g>
