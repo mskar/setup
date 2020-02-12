@@ -317,6 +317,7 @@ alias cern="conda env remove -n"
 alias cerp="conda env remove -p"
 alias ceu="conda env update"
 alias ci="conda install -yc conda-forge"
+alias ciz="conda init zsh"
 alias cl="conda list"
 
 # edit file(s)
