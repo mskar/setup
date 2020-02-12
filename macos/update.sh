@@ -38,7 +38,7 @@ code --install-extension ms-vsliveshare.vsliveshare
 
 code --install-extension vscodevim.vim
 
-brew install bat exa fasd fd r fzf neovim sc-im tmux vim xpdf
+brew install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf
 
 $(brew --prefix)/opt/fzf/install
 

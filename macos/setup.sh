@@ -82,7 +82,7 @@ code --install-extension vscodevim.vim
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install bat exa fasd fd r fzf neovim sc-im tmux vim xpdf
+brew install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf
 ## Install fzf key bindings and fuzzy completion
 $(brew --prefix)/opt/fzf/install
 ## Download dotfiles (configuration files)
