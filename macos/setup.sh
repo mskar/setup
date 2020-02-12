@@ -43,7 +43,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitco
 # Font and Applications
 ## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
 ## Install Fira Code Nerdfont and .app programs
-brew cask install caskroom/fonts/font-firacode-nerd-font flycut iterm2 karabiner-elements shiftit visual-studio-code jetbrains-toolbox
+brew cask install homebrew/cask-fonts/font-firacode-nerd-font flycut iterm2 karabiner-elements shiftit visual-studio-code jetbrains-toolbox
 
 ## Set up mac terminal
 ### In terminal, under Profiles > Text: Set background to black, set text to white, and select Fura Code Nerdfont size 18
@@ -179,3 +179,4 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindin
 
 ### Install and symlink macvim (brew installed macvim conflicts with brew installed vim)
 ##### ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
+conda init zsh

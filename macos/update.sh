@@ -1,5 +1,19 @@
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
+brew cask install homebrew/cask-fonts/font-firacode-nerd-font
+
+brew cask install flycut
+
+brew cask install iterm2
+
+brew cask install karabiner-elements
+
+brew cask install shiftit
+
+brew cask install visual-studio-code
+
+brew cask install jetbrains-toolbox
+
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
 
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
@@ -66,12 +80,10 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 
 conda install -yc conda-forge nodejs neovim pybtex jupyterlab # jupyterlab-git
 
-jupyter labextension install jupyterlab_vim
-
-conda create -n r -yc conda-forge rstudio r-essentials r-tidymodels r-tidyverse
-
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json
+
+conda init zsh
