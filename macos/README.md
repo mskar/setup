@@ -1,1 +1,1 @@
-install.sh
+setup.sh

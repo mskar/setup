@@ -66,7 +66,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/keybindings.jso
 
 code --install-extension ms-python.python
 
-code --install-extension ms-vsliveshare.vsliveshare
+##### code --install-extension ms-vsliveshare.vsliveshare
 
 code --install-extension vscodevim.vim
 
