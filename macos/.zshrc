@@ -266,9 +266,10 @@ alias p="git push"
 alias pf="git push --force"
 alias pom="git push origin master"
 ## rebase
-alias rc="git rebase --continue"
-alias rq="git rebase --quit"
-alias rs="git rebase --skip"
+alias rba="git rebase --abort"
+alias rbc="git rebase --continue"
+alias rbq="git rebase --quit"
+alias rbs="git rebase --skip"
 ## remote
 alias ra="git remote add"
 alias rau="git remote add upstream"
@@ -457,7 +458,7 @@ alias sz="source ~/.zshrc"
 alias -s ipynb='jupyter lab'
 alias -s zip=unzip
 alias -s {R,r,rmd,Rmd,vim}="nvim +file"
-alias -s {ahk,js,json,md,py,sh,toml,tex,txt,yaml,yml}="$EDITOR"
+alias -s {ahk,js,json,md,py,rst,sh,toml,tex,txt,yaml,yml}="$EDITOR"
 alias -s {csv,tsv}=scim
 alias -s {doc,docx,html,pdf,ppt,pptx,xls,xlsx}=open
 alias -s {gif,jpeg,jpg,png,tiff}=open
