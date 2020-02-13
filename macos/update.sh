@@ -78,7 +78,11 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~
 
 bash ~/miniconda.sh -bp $HOME/miniconda
 
-conda install -yc conda-forge nodejs neovim pybtex jupyterlab # jupyterlab-git
+conda install -yc conda-forge nodejs neovim pybtex
+
+conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
+
+conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
 

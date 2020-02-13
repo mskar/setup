@@ -132,17 +132,15 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
-# I don't use jupyterlab-git, I only demo it in classes
-conda install -yc conda-forge nodejs neovim pybtex jupyterlab # jupyterlab-git
-## Or clone the github repo and copy the dotfiles to the right places
-## using the cp_dotfiles.sh script
+conda install -yc conda-forge nodejs neovim pybtex
 
-## Set up jupyterlab-git extension
+#### I don't use jupyterlab-git extension, I only demo it in classes
 ##### jupyter labextension install @jupyterlab/git
-
 ##### jupyter serverextension enable --py jupyterlab_git
 
-jupyter labextension install jupyterlab_vim
+conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
+
+##### jupyter labextension install jupyterlab_vim
 
 ## Set up jupyterlab-github extension
 #### jupyter labextension install @jupyterlab/github
@@ -169,7 +167,7 @@ jupyter labextension install jupyterlab_vim
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 ##### Installing r into base environment breaks nvim-R
-conda create -n r -yc conda-forge rstudio r-essentials r-tidymodels r-tidyverse
+conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
 
