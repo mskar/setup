@@ -40,7 +40,7 @@ code --install-extension vscodevim.vim
 
 brew install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf
 
-$(brew --prefix)/opt/fzf/install
+$(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
 

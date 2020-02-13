@@ -84,7 +84,7 @@ code --install-extension vscodevim.vim
 ## Install vim and neovim
 brew install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf
 ## Install fzf key bindings and fuzzy completion
-$(brew --prefix)/opt/fzf/install
+$(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
 ## Download dotfiles (configuration files)
 ### Vim
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
