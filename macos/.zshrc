@@ -310,6 +310,7 @@ alias br="git branch --remotes"
 alias bs="brew search"
 ## conda
 alias ca="conda activate"
+alias cda="conda deactivate"
 alias cec="conda env create -yc conda-forge -n"
 alias cee="conda env export > environment.yaml"
 alias cel="conda env list"
@@ -564,3 +565,19 @@ zle     -N     fzf-history-widget-accept
 bindkey '^X^R' fzf-history-widget-accept
 
 export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/Users/marskar/miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/Users/marskar/miniconda/etc/profile.d/conda.sh" ]; then
+        . "/Users/marskar/miniconda/etc/profile.d/conda.sh"
+    else
+        export PATH="/Users/marskar/miniconda/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
