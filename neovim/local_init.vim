@@ -84,24 +84,32 @@ snoremap <silent> <Tab> <Esc>:call UltiSnips#ExpandSnippetOrJump()<cr>
 map p <Plug>(miniyank-autoput)
 map P <Plug>(miniyank-autoPut)
 
-" Emacs and bash style insert mode shortcuts
-" Delete one character forward; the opposite of <C-h>
-inoremap <C-d> <Delete>
-cnoremap <C-d> <Delete>
-" Delete everything forward; the opposite of <C-u>
-" Can't find a way to do this in command mode
-inoremap <C-k> <C-o>D
-" Move to end of the line; already exists in command mode: c_ctrl-e
-inoremap <C-e> <End>
 " Move to start of the line; like in vim command mode: c_ctrl-b
 " To insert previously inserted text use <C-r>.
 inoremap <C-a> <Home>
 cnoremap <C-a> <Home>
-" Move one character forward; <c-f> is too useful to remap for : / ?
-inoremap <C-f> <right>
 " Move one character backward
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
+" Emacs and bash style insert mode shortcuts
+" Delete one character forward; the opposite of <C-h>
+inoremap <C-d> <Delete>
+cnoremap <C-d> <Delete>
+" Move to end of the line; already exists in command mode: c_ctrl-e
+inoremap <C-e> <End>
+" Move one character forward; <c-f> is too useful to remap for : / ?
+inoremap <C-f> <right>
+" Delete everything forward; the opposite of <C-u>
+" Can't find a way to do this in command mode
+inoremap <C-k> <C-o>D
+" Delete everything backward; the opposite of <C-k>
+" This already exists in vim, but I want the killed text to go to my clipboard
+inoremap <C-u> <C-o>d0
+" Delete word backward; the opposite of <A-d>
+" This already exists in vim, but I want the killed text to go to my clipboard
+inoremap <C-w> <C-o>db
+" Make ctrl-y work like in bash/emacs with <c-u> <c-k> <c-w> <a-d> <a-h>
+inoremap <C-y> <C-R>+
 
 " Switch buffers
 tnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
@@ -118,7 +126,8 @@ tnoremap [b <C-\><C-n>:bp<CR><C-g>
 inoremap <A-d> <C-o>de
 cnoremap <A-d> <S-Right><C-w>
 " <a-h> = Delete word backward; opposite of <a-d>, same as <c-w>
-inoremap <A-h> <C-w>
+" I could use <c-w>, but I want the killed text to go to my clipboard
+inoremap <A-h> <C-o>db
 cnoremap <A-h> <C-w>
 " <a-k> = Move up; opposite of <a-j>
 inoremap <A-k> <up>
