@@ -192,7 +192,6 @@ alias cc="func() { local commit; commit=$(echo '$(git log --color=always --forma
 alias cm="func() { git commit --message \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cmp="func() { git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cmpf="func() { git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push --force; }; func";
-alias cr="git commit --reedit-message=HEAD --reset-author"
 alias crp="git commit --reedit-message=HEAD --reset-author && git push"
 alias crpf="git commit --reedit-message=HEAD --reset-author && git push --force"
 ## clean
@@ -311,6 +310,7 @@ alias bs="brew search"
 ## conda
 alias ca="conda activate"
 alias cda="conda deactivate"
+alias ce="conda env"
 alias cec="conda env create -yc conda-forge -n"
 alias cee="conda env export > environment.yaml"
 alias cel="conda env list"
@@ -321,6 +321,8 @@ alias ceu="conda env update"
 alias ci="conda install -yc conda-forge"
 alias ciz="conda init zsh"
 alias cl="conda list"
+alias cr="conda remove"
+alias cu="conda update"
 
 # edit file(s)
 ## fasd
