@@ -156,13 +156,19 @@ alias aca="git add --all && git commit --amend"
 alias acam="func() { git add --all && git commit --amend --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acamp="func() { git add --all && git commit --amend --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push --force; }; func";
 alias acap="git add --all && git commit --amend && git push --force"
-alias acar="git add --all && git commit --amend --reuse-message=HEAD --reset-author"
-alias acarp="git add --all && git commit --amend --reuse-message=HEAD --reset-author && git push --force"
+alias acare="git add --all && git commit --amend --reedit-message=HEAD --reset-author"
+alias acarep="git add --all && git commit --amend --reedit-message=HEAD --reset-author && git push --force"
+alias acaru="git add --all && git commit --amend --reuse-message=HEAD --reset-author"
+alias acarup="git add --all && git commit --amend --reuse-message=HEAD --reset-author && git push --force"
 alias acm="func() { git add --all && git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias acmp="func() { git add --all && git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias acp="git add --all && git commit && git push"
-alias acr="git add --all && git commit --reedit-message=HEAD --reset-author"
-alias acrp="git add --all && git commit --reedit-message=HEAD --reset-author && git push"
+alias acre="git add --all && git commit --reedit-message=HEAD --reset-author"
+alias acrep="git add --all && git commit --reedit-message=HEAD --reset-author && git push"
+alias acrepf="git add --all && git commit --reedit-message=HEAD --reset-author && git push --force"
+alias acru="git add --all && git commit --reuse-message=HEAD --reset-author"
+alias acrup="git add --all && git commit --reuse-message=HEAD --reset-author && git push"
+alias acrupf="git add --all && git commit --reuse-message=HEAD --reset-author && git push --force"
 alias ai="git add --interactive"
 alias amend="git commit --amend --reuse-message=HEAD --reset-author"
 alias amendp="git commit --amend --reuse-message=HEAD --reset-author && git push --force"
@@ -180,20 +186,31 @@ alias caa="git commit --amend --all"
 alias caam="func() { git commit --amend --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias caamp="func() { git commit --amend --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push --force; }; func";
 alias caap="git commit --amend --all && git push --force"
-alias caar="git commit --amend --all --reuse-message=HEAD --reset-author"
-alias caarp="git commit --amend --all --reuse-message=HEAD --reset-author && git push --force"
+alias caare="git commit --amend --all --reedit-message=HEAD --reset-author"
+alias caarep="git commit --amend --all --reedit-message=HEAD --reset-author && git push --force"
+alias caaru="git commit --amend --all --reuse-message=HEAD --reset-author"
+alias caarup="git commit --amend --all --reuse-message=HEAD --reset-author && git push --force"
 alias cam="func() { git commit --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; }; func";
 alias camp="func() { git commit --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias campf="func() { git commit --all --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push --force; }; func";
 alias cap="git commit --all && git push"
-alias car="git commit --all --reedit-message=HEAD --reset-author"
-alias carp="git commit --all --reedit-message=HEAD --reset-author && git push"
+alias capf="git commit --all && git push --force"
+alias care="git commit --all --reedit-message=HEAD --reset-author"
+alias carep="git commit --all --reedit-message=HEAD --reset-author && git push"
+alias carepf="git commit --all --reedit-message=HEAD --reset-author && git push --force"
+alias caru="git commit --all --reuse-message=HEAD --reset-author"
+alias carup="git commit --all --reuse-message=HEAD --reset-author && git push"
+alias carupf="git commit --all --reuse-message=HEAD --reset-author && git push --force"
 alias cc="func() { local commit; commit=$(echo '$(git log --color=always --format="%C(cyan)%>(12,trunc)%ar %Creset%s %Cred%D %Cgreen%cn %Cblue%h" --graph -- $@ | fzf --ansi --nth=1,2,4..-2 --no-multi --preview="git show --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && git checkout $(echo '$commit -- $@') }; func"
 alias cm="func() { git commit --message \"$(echo '${*:-Changed files: $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " ")}')\"; }; func";
 alias cmp="func() { git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push; }; func";
 alias cmpf="func() { git commit --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" && git push --force; }; func";
-alias crp="git commit --reedit-message=HEAD --reset-author && git push"
-alias crpf="git commit --reedit-message=HEAD --reset-author && git push --force"
+alias cre="git commit --reedit-message=HEAD --reset-author"
+alias crep="git commit --reedit-message=HEAD --reset-author && git push"
+alias crepf="git commit --reedit-message=HEAD --reset-author && git push --force"
+alias cru="git commit --reuse-message=HEAD --reset-author"
+alias crup="git commit --reuse-message=HEAD --reset-author && git push"
+alias crupf="git commit --reuse-message=HEAD --reset-author && git push --force"
 ## clean
 alias cf="git clean -f"
 alias cfd="git clean -fd"
