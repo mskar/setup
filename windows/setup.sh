@@ -17,6 +17,8 @@
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
+sudo apt update && sudo apt upgrade
+
 sudo apt install bat exa fasd fd-find fzf hub neovim r sc-im tmux vim xpdf zsh
 
 ## Install fzf key bindings and fuzzy completion
