@@ -19,6 +19,10 @@
 ## Install vim and neovim
 sudo apt update && sudo apt upgrade
 
+# bat not found on ubuntu, debian, or kali
+# exa not found on kali
+# Install bat: https://github.com/sharkdp/bat#on-ubuntu
+# sudo dpkg -i bat_0.12.1_amd64.deb
 sudo apt install bat exa fasd fd-find fzf hub neovim r sc-im tmux vim xpdf zsh
 
 ## Install fzf key bindings and fuzzy completion
