@@ -20,7 +20,7 @@
 sudo apt install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf zsh
 
 ## Install fzf key bindings and fuzzy completion
-$(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
+# $(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
 
 ## Install oh-my-zsh et al.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
@@ -88,7 +88,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 # Python and R
 
 ## Install miniconda Python
-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/miniconda.sh
 
 bash ~/miniconda.sh -bp $HOME/miniconda
 

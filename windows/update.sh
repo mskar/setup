@@ -1,3 +1,5 @@
+sudo apt install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf zsh
+
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 brew cask install homebrew/cask-fonts/font-firacode-nerd-font
@@ -40,7 +42,7 @@ code --install-extension vscodevim.vim
 
 brew install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf
 
-$(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
+# $(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
 
@@ -74,7 +76,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf.local -o ~/
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/miniconda.sh
 
 bash ~/miniconda.sh -bp $HOME/miniconda
 
