@@ -1,174 +1,83 @@
-" Fuzzy finder (FZF)
-" https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
-nnoremap <silent> <leader>A :Ag<CR>
-nnoremap <silent> <leader>B :BCommits<CR>
-nnoremap <silent> <leader>c :Commits<CR>
-nnoremap <silent> <leader>C :Commands<CR>
-nnoremap <silent> <leader>gf :GFiles<CR>
-nnoremap <silent> <leader>F :Files<CR>
-nnoremap <silent> <leader>H :Helptags<CR>
-nnoremap <silent> <leader>: :History:<CR>
-nnoremap <silent> <leader>/ :History/<CR>
-nnoremap <silent> g: :History:<CR>
-nnoremap <silent> g/ :History/<CR>
-nnoremap <silent> <leader>m :Maps<CR>
-nnoremap <silent> <leader>' :Marks<CR>
-nnoremap <silent> <leader>l :BLines<CR>
-nnoremap <silent> <leader>L :Lines<CR>
-" s is for syntax
-nnoremap <silent> <leader>R :Rg<CR>
-nnoremap <silent> <leader>y :Filetypes<CR>
-nnoremap <silent> <Leader>t :BTags<CR>
-nnoremap <silent> <Leader>T :Tags<CR>
-
-" https://github.com/junegunn/fzf.vim#usage
-" Mapping selecting mappings
-nmap <leader><tab> <plug>(fzf-maps-n)
-xmap <leader><tab> <plug>(fzf-maps-x)
-omap <leader><tab> <plug>(fzf-maps-o)
-" Insert mode completion
-imap <c-x><c-k> <plug>(fzf-complete-word)
-imap <c-x><c-f> <plug>(fzf-complete-path)
-imap <c-x><c-j> <plug>(fzf-complete-file-ag)
-imap <c-x><c-l> <plug>(fzf-complete-line)
-" Advanced customization using autoload functions
-inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
-
-" ncm-R: https://github.com/gaalcaras/ncm-R
-" requires the lines below to satisfy ncm2 dependencies
-" https://github.com/ncm2/ncm2#install
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L16
-set completeopt=noinsert,menuone,noselect
-autocmd BufEnter * call ncm2#enable_for_buffer()
-" For now, use coc in vim and ncm in neovim
-" Later, try to use ncm just for r/rmd files as below
-" autocmd BufEnter *.[Rr],*.Rmd call ncm2#enable_for_buffer()
-" or switch to coc entirely if the R LSP gets better
-" https://github.com/REditorSupport/languageserver/issues/167
-
-" https://github.com/gaalcaras/ncm-R#getting-the-snippets-to-work
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc
-" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
-" http://vimcasts.org/episodes/meet-ultisnips/
-let g:UltiSnipsExpandTrigger="<tab>"
-let g:UltiSnipsJumpForwardTrigger="<tab>"
-let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
-" https://github.com/SirVer/ultisnips#quick-start
-" If you want :UltiSnipsEdit to split your window.
-let g:UltiSnipsEditSplit="vertical"
-" https://github.com/ncm2/ncm2-ultisnips
-" Press enter key to trigger snippet expansion
-" The parameters are the same as `:help feedkeys()`
-inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
-
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L19
-let g:UltiSnipsExpandTrigger = "<Plug>(ultisnips_expand_or_jump)"
-let g:UltiSnipsJumpForwardTrigger = "<Plug>(ultisnips_expand_or_jump)"
-
-function! UltiSnipsExpandOrJumpOrTab()
-  call UltiSnips#ExpandSnippetOrJump()
-  if g:ulti_expand_or_jump_res > 0
-    return ""
-  else
-    return "\<Tab>"
-  endif
-endfunction
-
-inoremap <silent> <expr> <Tab> ncm2_ultisnips#expand_or("\<Plug>(ultisnips_try_expand)")
-
-inoremap <silent> <Plug>(ultisnips_try_expand) <C-R>=UltiSnipsExpandOrJumpOrTab()<CR>
-
-snoremap <silent> <Tab> <Esc>:call UltiSnips#ExpandSnippetOrJump()<cr>
-
-" https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
-map p <Plug>(miniyank-autoput)
-map P <Plug>(miniyank-autoPut)
-
-" Move to start of the line; like in vim command mode: c_ctrl-b
+" Emacs and bash style insert mode CTRL shortcuts
+" <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b
 " To insert previously inserted text use <C-r>.
 inoremap <C-a> <Home>
 cnoremap <C-a> <Home>
-" Move one character backward
+" <C-b> = Move one character backward
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
-" Emacs and bash style insert mode shortcuts
-" Delete one character forward; the opposite of <C-h>
-inoremap <C-d> <Delete>
+" <C-d> = Delete one character forward; the opposite of <C-h>
+" I could use <Delete>, but I want <C-d> to use visual mode like <C-h>
+inoremap <C-d> <C-o>vx
 cnoremap <C-d> <Delete>
-" Move to end of the line; already exists in command mode: c_ctrl-e
+" <C-e> = Move to end of the line; already exists in command mode: c_ctrl-e
 inoremap <C-e> <End>
-" Move one character forward; <c-f> is too useful to remap for : / ?
+" <C-f> = Move one character forward; <C-f> is too useful (for : / ?) to remap
 inoremap <C-f> <right>
-" Delete everything forward; the opposite of <C-u>
+" <C-h> = Delete one character backward; the opposite of <C-d>
+" This already exis in vim but I want the killed text to go to my clipboard
+" inoremap <C-h> <Esc>vs
+inoremap <C-h> <left><C-o>vx
+" <C-k> = Delete everything forward; the opposite of <C-u>
 " Can't find a way to do this in command mode
-inoremap <C-k> <C-o>D
-" Delete everything backward; the opposite of <C-k>
-" This already exists in vim, but I want the killed text to go to my clipboard
-inoremap <C-u> <C-o>d0
-" Delete word backward; the opposite of <A-d>
-" This already exists in vim, but I want the killed text to go to my clipboard
-inoremap <C-w> <C-o>db
-" Make ctrl-y work like in bash/emacs with <c-u> <c-k> <c-w> <a-d> <a-h>
+" I could use <C-o>D, but I want to use visual to
+inoremap <C-k> <C-o>v$<left>x
+" <C-u> = Delete everything backward; the opposite of <C-k>
+" This already exists in vim but I want the killed text to go to my clipboard
+" inoremap <C-u> <Esc>v0s
+inoremap <C-u> <left><C-o>v0x
+" <C-w> = Delete word backward; the opposite of <A-d>
+" This already exists in vim but I want the killed text to go to my clipboard
+" inoremap <C-w> <Esc>vT s
+inoremap <C-w> <left><C-o>vT x
+" <C-y> = paste like in bash/emacs (relies on deleted text going to the system clipboard)
 inoremap <C-y> <C-R>+
+" <C-_> = undo like in bash/emacs (relies on the fact that other remapping use visual mode)
+inoremap <C-_> <Esc>u`>a
 
-" Switch buffers
-tnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
-tnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
-nnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
-nnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
-nnoremap ]b <C-\><C-n>:bn<CR><C-g>
-nnoremap [b <C-\><C-n>:bp<CR><C-g>
-tnoremap ]b <C-\><C-n>:bn<CR><C-g>
-tnoremap [b <C-\><C-n>:bp<CR><C-g>
-
-" Alt keys
-" <a-d> = Delete word forward; opposite of <c-w>
-inoremap <A-d> <C-o>de
+" Emacs and bash style insert mode ALT shortcuts
+" <A-d> = Delete word forward; opposite of <C-w>
+" I could use <C-o>de, but I want to use visual mode to match <C-u> and <C-y>
+inoremap <A-d> <C-o>vt x
 cnoremap <A-d> <S-Right><C-w>
-" <a-h> = Delete word backward; opposite of <a-d>, same as <c-w>
-" I could use <c-w>, but I want the killed text to go to my clipboard
-inoremap <A-h> <C-o>db
+" <A-h> = Delete word backward; opposite of <A-d>, same as <C-w>
+" I could use <C-w>, but I want the killed text to go to my clipboard
+inoremap <A-h> <left><C-o>vT x
 cnoremap <A-h> <C-w>
-" <a-k> = Move up; opposite of <a-j>
+" <A-k> = Move up; opposite of <A-j>
 inoremap <A-k> <up>
 cnoremap <A-k> <up>
-" <a-j> = Move down; opposite of <a-k>
+" <A-j> = Move down; opposite of <A-k>
 inoremap <A-j> <down>
 cnoremap <A-j> <down>
-" <a-f> = Move one word forward; opposite of <a-b>
+" <A-f> = Move one word forward; opposite of <A-b>
 inoremap <A-f> <C-o>w
 cnoremap <A-f> <S-Right>
-" <a-b> = Move one word backward; opposite of <a-f>
+" <A-b> = Move one word backward; opposite of <A-f>
 inoremap <A-b> <C-o>b
 cnoremap <A-b> <S-Left>
-" <a-u> = Uppercase to word end; opposite of <a-l>
-inoremap <A-u> <C-[>gUeea
-" <a-l> = Lowercase to word end; opposite of <a-u>
-inoremap <A-l> <C-[>gueea
-" <a-t> = Swap current word with previous word
-inoremap <A-t> <C-[>diwbPldepa
-
-" https://vim.fandom.com/wiki/Moving_through_camel_case_words
-" Use one of the following to define the camel characters.
-" Stop on capital letters.
-" CamelCaseWord
-let g:camelchar = "A-Z"
-" Also stop on numbers.
-let g:camelchar = "A-Z0-9"
-" Include '.' for class member, ',' for separator, ';' end-statement, " and <[< bracket starts and "'` quotes.
-let g:camelchar = "A-Z0-9.,;:{([`'\""
-nnoremap <silent><A-C-b> :<C-u>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>
-nnoremap <silent><A-C-f> :<C-u>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>
-inoremap <silent><A-C-b> <C-o>:call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>
-inoremap <silent><A-C-f> <C-o>:call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>
-vnoremap <silent><A-C-b> :<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>v`>o
-vnoremap <silent><A-C-f> <Esc>`>:<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>v`<o
+" <A-u> = Uppercase to WORD end; opposite of <A-l>
+inoremap <A-u> <Esc>gUeea
+" <A-l> = Lowercase to word end; opposite of <A-u>
+inoremap <A-l> <Esc>gueea
+" <A-t> = Swap current word with previous word
+inoremap <A-t> <Esc>diwbPldepa
 
 " Run :file everytime I switch to alternate file (^6)
-nnoremap <C-6> <C-6><C-g>
+nnoremap <C-^> <C-^><C-g>
+tnoremap <C-^> <C-\><C-n><C-^><C-g>
 " Run :file everytime I go thru the jump list
 nnoremap <C-o> <C-o><C-g>
 nnoremap <C-i> <C-i><C-g>
+" Switch buffers
+nnoremap <C-w>; :bn<CR><C-g>
+nnoremap <C-w>, :bp<CR><C-g>
+tnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
+tnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
+nnoremap ]b :bn<CR><C-g>
+nnoremap [b :bp<CR><C-g>
+tnoremap ]b <C-\><C-n>:bn<CR><C-g>
+tnoremap [b <C-\><C-n>:bp<CR><C-g>
 
 " Run :file everytime I use a window command
 " Similar to how ]b and [b from unimpaired work
@@ -311,6 +220,108 @@ tnoremap <C-w>; <C-\><C-n>:bn<CR>
 tnoremap <C-w>, <C-\><C-n>:bp<CR>
 nnoremap <C-w>; <C-\><C-n>:bn<CR>
 nnoremap <C-w>, <C-\><C-n>:bp<CR>
+
+" Fuzzy finder (FZF)
+" https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
+nnoremap <silent> <leader>A :Ag<CR>
+nnoremap <silent> <leader>B :BCommits<CR>
+nnoremap <silent> <leader>c :Commits<CR>
+nnoremap <silent> <leader>C :Commands<CR>
+nnoremap <silent> <leader>gf :GFiles<CR>
+nnoremap <silent> <leader>F :Files<CR>
+nnoremap <silent> <leader>H :Helptags<CR>
+nnoremap <silent> <leader>: :History:<CR>
+nnoremap <silent> <leader>/ :History/<CR>
+nnoremap <silent> g: :History:<CR>
+nnoremap <silent> g/ :History/<CR>
+nnoremap <silent> <leader>m :Maps<CR>
+nnoremap <silent> <leader>' :Marks<CR>
+nnoremap <silent> <leader>l :BLines<CR>
+nnoremap <silent> <leader>L :Lines<CR>
+" s is for syntax
+nnoremap <silent> <leader>R :Rg<CR>
+nnoremap <silent> <leader>y :Filetypes<CR>
+nnoremap <silent> <Leader>t :BTags<CR>
+nnoremap <silent> <Leader>T :Tags<CR>
+
+" https://github.com/junegunn/fzf.vim#usage
+" Mapping selecting mappings
+nmap <leader><tab> <plug>(fzf-maps-n)
+xmap <leader><tab> <plug>(fzf-maps-x)
+omap <leader><tab> <plug>(fzf-maps-o)
+" Insert mode completion
+imap <c-x><c-k> <plug>(fzf-complete-word)
+imap <c-x><c-f> <plug>(fzf-complete-path)
+imap <c-x><c-j> <plug>(fzf-complete-file-ag)
+imap <c-x><c-l> <plug>(fzf-complete-line)
+" Advanced customization using autoload functions
+inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
+
+" ncm-R: https://github.com/gaalcaras/ncm-R
+" requires the lines below to satisfy ncm2 dependencies
+" https://github.com/ncm2/ncm2#install
+" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L16
+set completeopt=noinsert,menuone,noselect
+autocmd BufEnter * call ncm2#enable_for_buffer()
+" For now, use coc in vim and ncm in neovim
+" Later, try to use ncm just for r/rmd files as below
+" autocmd BufEnter *.[Rr],*.Rmd call ncm2#enable_for_buffer()
+" or switch to coc entirely if the R LSP gets better
+" https://github.com/REditorSupport/languageserver/issues/167
+
+" https://github.com/gaalcaras/ncm-R#getting-the-snippets-to-work
+" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc
+" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
+" http://vimcasts.org/episodes/meet-ultisnips/
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<tab>"
+let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
+" https://github.com/SirVer/ultisnips#quick-start
+" If you want :UltiSnipsEdit to split your window.
+let g:UltiSnipsEditSplit="vertical"
+" https://github.com/ncm2/ncm2-ultisnips
+" Press enter key to trigger snippet expansion
+" The parameters are the same as `:help feedkeys()`
+inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
+
+" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L19
+let g:UltiSnipsExpandTrigger = "<Plug>(ultisnips_expand_or_jump)"
+let g:UltiSnipsJumpForwardTrigger = "<Plug>(ultisnips_expand_or_jump)"
+
+function! UltiSnipsExpandOrJumpOrTab()
+  call UltiSnips#ExpandSnippetOrJump()
+  if g:ulti_expand_or_jump_res > 0
+    return ""
+  else
+    return "\<Tab>"
+  endif
+endfunction
+
+inoremap <silent> <expr> <Tab> ncm2_ultisnips#expand_or("\<Plug>(ultisnips_try_expand)")
+
+inoremap <silent> <Plug>(ultisnips_try_expand) <C-R>=UltiSnipsExpandOrJumpOrTab()<CR>
+
+snoremap <silent> <Tab> <Esc>:call UltiSnips#ExpandSnippetOrJump()<cr>
+
+" https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
+map p <Plug>(miniyank-autoput)
+map P <Plug>(miniyank-autoPut)
+
+" https://vim.fandom.com/wiki/Moving_through_camel_case_words
+" Use one of the following to define the camel characters.
+" Stop on capital letters.
+" CamelCaseWord
+let g:camelchar = "A-Z"
+" Also stop on numbers.
+let g:camelchar = "A-Z0-9"
+" Include '.' for class member, ',' for separator, ';' end-statement, " and <[< bracket starts and "'` quotes.
+let g:camelchar = "A-Z0-9.,;:{([`'\""
+nnoremap <silent><A-C-b> :<C-u>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>
+nnoremap <silent><A-C-f> :<C-u>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>
+inoremap <silent><A-C-b> <C-o>:call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>
+inoremap <silent><A-C-f> <C-o>:call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>
+vnoremap <silent><A-C-b> :<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>v`>o
+vnoremap <silent><A-C-f> <Esc>`>:<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>v`<o
 
 " Nvim-R mappings
 " Keyboard shortcuts for <- -> and other operators in R specific files

@@ -1,77 +1,89 @@
-set completeopt=noinsert,menuone ",noselect
-" Emacs and bash style insert mode shortcuts
-" Move to start of the line; like in vim command mode: c_ctrl-b
+" Emacs and bash style insert mode CTRL shortcuts
+" <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b
 " To insert previously inserted text use <C-r>.
 inoremap <C-a> <Home>
 cnoremap <C-a> <Home>
-" Move one character backward
+" <C-b> = Move one character backward
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
-" Emacs and bash style insert mode shortcuts
-" Delete one character forward; the opposite of <C-h>
-inoremap <C-d> <Delete>
+" <C-d> = Delete one character forward; the opposite of <C-h>
+" I could use <Delete>, but I want <C-d> to use visual mode like <C-h>
+inoremap <C-d> <C-o>vx
 cnoremap <C-d> <Delete>
-" Move to end of the line; already exists in command mode: c_ctrl-e
+" <C-e> = Move to end of the line; already exists in command mode: c_ctrl-e
 inoremap <C-e> <End>
-" Move one character forward; <c-f> is too useful to remap for : / ?
+" <C-f> = Move one character forward; <C-f> is too useful (for : / ?) to remap
 inoremap <C-f> <right>
-" Delete everything forward; the opposite of <C-u>
+" <C-h> = Delete one character backward; the opposite of <C-d>
+" This already exis in vim but I want the killed text to go to my clipboard
+" inoremap <C-h> <Esc>vs
+inoremap <C-h> <left><C-o>vx
+" <C-k> = Delete everything forward; the opposite of <C-u>
 " Can't find a way to do this in command mode
-inoremap <C-k> <C-o>D
-" Delete everything backward; the opposite of <C-k>
-" This already exists in vim, but I want the killed text to go to my clipboard
-inoremap <C-u> <C-o>d0
-" Delete word backward; the opposite of <A-d>
-" This already exists in vim, but I want the killed text to go to my clipboard
-inoremap <C-w> <C-o>db
-" Make ctrl-y work like in bash/emacs with <c-u> <c-k> <c-w> <a-d> <a-h>
+" I could use <C-o>D, but I want to use visual to
+inoremap <C-k> <C-o>v$<left>x
+" <C-u> = Delete everything backward; the opposite of <C-k>
+" This already exists in vim but I want the killed text to go to my clipboard
+" inoremap <C-u> <Esc>v0s
+inoremap <C-u> <left><C-o>v0x
+" <C-w> = Delete word backward; the opposite of <A-d>
+" This already exists in vim but I want the killed text to go to my clipboard
+" inoremap <C-w> <Esc>vT s
+inoremap <C-w> <left><C-o>vT x
+" <C-y> = paste like in bash/emacs (relies on deleted text going to the system clipboard)
 inoremap <C-y> <C-R>+
-
-" Switch buffers
-tnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
-tnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
-nnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
-nnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
-nnoremap ]b <C-\><C-n>:bn<CR><C-g>
-nnoremap [b <C-\><C-n>:bp<CR><C-g>
-tnoremap ]b <C-\><C-n>:bn<CR><C-g>
-tnoremap [b <C-\><C-n>:bp<CR><C-g>
+" <C-_> = undo like in bash/emacs (relies on the fact that other remapping use visual mode)
+inoremap <C-_> <Esc>u`>a
 
 " Alt keys (work in neovim, not vim)
-" " <a-d> = Delete word forward; opposite of <c-w>
-" inoremap <A-d> <C-o>de
+" " Emacs and bash style insert mode ALT shortcuts
+" " <A-d> = Delete word forward; opposite of <C-w>
+" " I could use <C-o>de, but I want to use visual mode to match <C-u> and <C-y>
+" inoremap <A-d> <C-o>vt x
 " cnoremap <A-d> <S-Right><C-w>
-" " <a-h> = Delete word backward; opposite of <a-d>, same as <c-w>
-" " I could use <c-w>, but I want the killed text to go to my clipboard
-" inoremap <A-h> <C-o>db
+" " <A-h> = Delete word backward; opposite of <A-d>, same as <C-w>
+" " I could use <C-w>, but I want the killed text to go to my clipboard
+" inoremap <A-h> <left><C-o>vT x
 " cnoremap <A-h> <C-w>
-" " <a-k> = Move up; opposite of <a-j>
+" " <A-k> = Move up; opposite of <A-j>
 " inoremap <A-k> <up>
 " cnoremap <A-k> <up>
-" " <a-j> = Move down; opposite of <a-k>
+" " <A-j> = Move down; opposite of <A-k>
 " inoremap <A-j> <down>
 " cnoremap <A-j> <down>
-" " <a-f> = Move one word forward; opposite of <a-b>
+" " <A-f> = Move one word forward; opposite of <A-b>
 " inoremap <A-f> <C-o>w
 " cnoremap <A-f> <S-Right>
-" " <a-b> = Move one word backward; opposite of <a-f>
+" " <A-b> = Move one word backward; opposite of <A-f>
 " inoremap <A-b> <C-o>b
 " cnoremap <A-b> <S-Left>
-" " <a-u> = Uppercase to word end; opposite of <a-l>
-" inoremap <A-u> <C-[>gUeea
-" " <a-l> = Lowercase to word end; opposite of <a-u>
-" inoremap <A-l> <C-[>gueea
-" " <a-t> = Swap current word with previous word
-" inoremap <A-t> <C-[>diwbPldepa
+" " <A-u> = Uppercase to WORD end; opposite of <A-l>
+" inoremap <A-u> <Esc>gUeea
+" " <A-l> = Lowercase to word end; opposite of <A-u>
+" inoremap <A-l> <Esc>gueea
+" " <A-t> = Swap current word with previous word
+" inoremap <A-t> <Esc>diwbPldepa
 
 " Run :file everytime I switch to alternate file (^6)
-nnoremap <C-6> <C-6><C-g>
+nnoremap <C-^> <C-^><C-g>
+tnoremap <C-^> <C-\><C-n><C-^><C-g>
 " Run :file everytime I go thru the jump list
 nnoremap <C-o> <C-o><C-g>
 nnoremap <C-i> <C-i><C-g>
+" Switch buffers
+nnoremap <C-w>; :bn<CR><C-g>
+nnoremap <C-w>, :bp<CR><C-g>
+tnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
+tnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
+nnoremap ]b :bn<CR><C-g>
+nnoremap [b :bp<CR><C-g>
+tnoremap ]b <C-\><C-n>:bn<CR><C-g>
+tnoremap [b <C-\><C-n>:bp<CR><C-g>
 
 " Run :file everytime I use a window command
 " Similar to how ]b and [b from unimpaired work
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
+" To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
 nnoremap <C-w>+ <C-w>+<C-g>
 nnoremap <C-w>- <C-w>-<C-g>
 nnoremap <C-w>< <C-w><<C-g>
@@ -100,12 +112,15 @@ nnoremap <C-w>j <C-w>j<C-g>
 nnoremap <C-w>k <C-w>k<C-g>
 nnoremap <C-w>l <C-w>l<C-g>
 nnoremap <C-w>n <C-w>n<C-g>
-nnoremap <C-w>o <C-w>o<C-g>
+" https://vi.stackexchange.com/questions/241/undo-only-window
+nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR><C-g>
 nnoremap <C-w>p <C-w>p<C-g>
 nnoremap <C-w>q <C-w>q<C-g>
 nnoremap <C-w>r <C-w>r<C-g>
 nnoremap <C-w>s <C-w>s<C-g>
 nnoremap <C-w>t <C-w>t<C-g>
+" https://vi.stackexchange.com/questions/241/undo-only-window
+nnoremap <C-w>u :source ~/session.vim<CR>
 nnoremap <C-w>v <C-w>v<C-g>
 nnoremap <C-w>w <C-w>w<C-g>
 nnoremap <C-w>x <C-w>x<C-g>
@@ -135,10 +150,6 @@ nnoremap <C-w><C-z> <C-w>z<C-g>
 nnoremap <C-w><C-]> <C-w>]<C-g>
 nnoremap <C-w><C-^> <C-w>^<C-g>
 nnoremap <C-w><C-_> <C-w>_<C-g>
-
-"" pandoc plugin
-let g:pandoc#modules#disabled = ["folding"]
-let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
@@ -176,6 +187,13 @@ imap <c-x><c-l> <plug>(fzf-complete-line)
 " Advanced customization using autoload functions
 inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
 
+" vim-pandoc inserts citations with <C-x><C-o>
+" disable automatic folding by vim-pandoc
+let g:pandoc#modules#disabled = ["folding"]
+let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
+" In addition to vim-pandoc, zotcite and nvim-r can insert citations
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
+
 " Snakemake
 au BufNewFile,BufRead Snakefile set syntax=snakemake
 au BufNewFile,BufRead *.smk set syntax=snakemake
@@ -193,6 +211,7 @@ set nobackup
 set noswapfile
 set nowritebackup
 
+set completeopt=noinsert,menuone ",noselect
 " Setting suggested by coc.nvim
 " Better display for messages
 set cmdheight=1 " coc recommends 2
