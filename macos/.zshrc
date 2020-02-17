@@ -282,7 +282,10 @@ alias mus="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cach
 ## push
 alias p="git push"
 alias pf="git push --force"
+alias po="git push origin"
+alias pof="git push origin --force"
 alias pom="git push origin master"
+alias pomf="git push origin master --force"
 ## rebase
 alias rba="git rebase --abort"
 alias rbc="git rebase --continue"
@@ -290,7 +293,18 @@ alias rbq="git rebase --quit"
 alias rbs="git rebase --skip"
 ## remote
 alias ra="git remote add"
+alias rah="func() { git remote add hub https://github.com/$(echo '$@'); }; func";
+alias ral="func() { git remote add lab https://gitlab.com/$(echo '$@'); }; func";
+alias rao="git remote add origin"
 alias rau="git remote add upstream"
+alias rrm="git remote remove"
+alias rrmo="git remote remove origin"
+alias rrmu="git remote remove upstream"
+alias rsu="git remote set-url"
+alias rsuo="git remote set-url origin"
+alias rsuoa="func() { git remote set-url origin $(echo '$@') --add; }; func";
+alias rsuu="git remote set-url upstream"
+alias rsuua="func() { git remote set-url upstream $(echo '$@') --add; }; func";
 alias rv="git remote -v"
 ## reset
 alias r="git reset"
