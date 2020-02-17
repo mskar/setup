@@ -29,7 +29,7 @@ sudo apt install bat exa fasd fd-find fzf hub neovim r sc-im tmux vim xpdf zsh
 # $(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
 
 ## Install oh-my-zsh et al.
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" --unattended
 ### When prompted to change shell, enter Y
 
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
