@@ -493,13 +493,12 @@ bindkey -M viins '\e.' insert-last-word
 bindkey -M viins '\eb' backward-word
 bindkey -M viins '\ed' kill-word
 bindkey -M viins '\ef' forward-word
+bindkey -M viins '\eh' backward-kill-word
 bindkey -M viins '\el' down-case-word
 bindkey -M viins '\et' transpose-words
 bindkey -M viins '\eu' up-case-word
 bindkey -M viins '\ey' yank-pop
 bindkey -M viins '^?' backward-delete-char
-bindkey -M viins '^n' down-history
-bindkey -M viins '^p' up-history
 bindkey -M viins '^_' undo
 bindkey -M viins '^a' beginning-of-line
 bindkey -M viins '^b' backward-char
@@ -508,9 +507,10 @@ bindkey -M viins '^e' end-of-line
 bindkey -M viins '^f' forward-char
 bindkey -M viins '^h' backward-delete-char
 bindkey -M viins '^k' kill-line
+bindkey -M viins '^n' down-history
+bindkey -M viins '^p' up-history
 bindkey -M viins '^u' backward-kill-line
 bindkey -M viins '^w' backward-kill-word
-bindkey -M viins '\eh' backward-kill-word
 bindkey -M viins '^y' yank
 
 # the above is modified from https://dougblack.io/words/zsh-vi-mode.html
