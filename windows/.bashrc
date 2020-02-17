@@ -1,33 +1,35 @@
-# ~/.bashrc: executed by bash(1) for non-login shells.
+# ~/.bash_profile
 
 # Truncate current working directory in prompt
 # https://unix.stackexchange.com/a/266265
-get_PS1(){
-    limit=20
-    curdir="~${PWD#$HOME}"
-    if [[ "${#curdir}" -gt "$limit" ]]; then
-        right="${curdir:$((${#curdir}-$limit)):${#curdir}}"
-        PS1="...${right} \$ "
-    else
-        PS1="\w \$ "
-    fi
-}
-PROMPT_COMMAND=get_PS1
+# get_PS1(){
+#     limit=20
+#     curdir="~${PWD#$HOME}"
+#     if [[ "${#curdir}" -gt "$limit" ]]; then
+#         right="${curdir:$((${#curdir}-$limit)):${#curdir}}"
+#         PS1="...${right} \$ "
+#     else
+#         PS1="\w \$ "
+#     fi
+# }
+# PROMPT_COMMAND=get_PS1
+PS1="\$ "
 
-export EDITOR='/usr/bin/vim'
+export EDITOR='/usr/local/bin/vim'
 
 # Inititialize fasd and its aliases
 eval "$(fasd --init auto)"
 
 # Aliases
 ## inspired by oh my zsh
+alias cd="func() { if [ $(echo '$#') -eq 0 ]; then cd "$HOME"; else pushd $(echo '$1') > /dev/null && pwd; fi; }; func"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 # alias /="cd /"
 alias ~="cd ~"
-# alias -="cd -"
+- () { cd -; }
 alias 1="cd -"
 alias 2="cd -2"
 alias 3="cd -3"
@@ -306,8 +308,10 @@ alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 
 ## jump through the filesystem
-alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --preview="exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=3..)') && cd $(echo '$directory')"
-alias j="func() { local directory; directory=$(echo '$(fdfind --type d ^ $@ | fzf --no-multi --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)")') && cd $(echo '$directory'); }; func"; alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --delimiter=/ --no-multi --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --with-nth=3..)') && cd $(echo '$directory'); }; func"; alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func"; ### use fasd builtin zz alias
+alias 0="directory=$(echo '$(dirs -v | cut -c5- | sed s+~+$HOME+ | fzf --delimiter=/ --preview="exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=3..)') && cd $(echo '$directory')"
+alias j="func() { local directory; directory=$(echo '$(fdfind --type d ^ $@ | fzf --no-multi --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)")') && cd $(echo '$directory'); }; func"
+alias jj="func() { local directory; directory=$(echo '$(fasd -Rdl | fzf --delimiter=/ --no-multi --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --with-nth=4..)') && cd $(echo '$directory'); }; func"
+alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func"
 
 ## make directory
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
@@ -345,6 +349,7 @@ alias zo="fasd -de open"
 alias zp="fasd -de pycharm"
 alias zu="fasd -de 'vim -u ~/.SpaceVim/vimrc'"
 alias zv="fasd -de '$EDITOR'"
+#### use fasd builtin zz alias
 
 ## Misc
 ### remove spaces from names
@@ -367,16 +372,24 @@ export PATH=$HOME/miniconda/bin:$PATH
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
+# https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
+export FZF_DEFAULT_OPTS="--bind=change:top,alt-p:toggle-preview,alt-w:toggle-preview-wrap --cycle --exit-0 --inline-info --multi --no-height --no-sort --preview='bat --style=numbers --color=always {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --preview-window='70%:hidden' --reverse --tiebreak=index"
+export FZF_CTRL_T_OPTS="--select-1"
+export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
+export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
+# Directly executing the command (CTRL-X CTRL-R)
+# bind "$(bind -s | grep '^"\\C-r"' | sed 's/"/"\\C-x/' | sed 's/"$/\\C-m"/')"
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/root/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/Users/marskar/miniconda/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/root/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/root/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "/Users/marskar/miniconda/etc/profile.d/conda.sh" ]; then
+        . "/Users/marskar/miniconda/etc/profile.d/conda.sh"
     else
-        export PATH="/root/miniconda3/bin:$PATH"
+        export PATH="/Users/marskar/miniconda/bin:$PATH"
     fi
 fi
 unset __conda_setup
