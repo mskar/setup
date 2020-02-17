@@ -2,6 +2,10 @@ sudo apt update && sudo apt upgrade
 
 sudo apt install bat exa fasd fd-find fzf hub neovim tmux vim xpdf zsh
 
+curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.bashrc -o ~/.bashrc
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.inputrc -o ~/.inputrc
+
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" --unattended
 
 brew cask install homebrew/cask-fonts/font-firacode-nerd-font

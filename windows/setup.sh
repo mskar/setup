@@ -28,6 +28,11 @@ sudo apt install bat exa fasd fd-find fzf hub neovim r sc-im tmux vim xpdf zsh
 ## Install fzf key bindings and fuzzy completion
 # $(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
 
+# Use Bash as main shell
+curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.bashrc -o ~/.bashrc
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.inputrc -o ~/.inputrc
+
 ## Install oh-my-zsh et al.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" --unattended
 ### When prompted to change shell, enter Y
