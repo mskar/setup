@@ -6,13 +6,15 @@ brew cask install flycut
 
 brew cask install iterm2
 
+brew cask install jetbrains-toolbox
+
 brew cask install karabiner-elements
+
+brew cask install r
 
 brew cask install shiftit
 
 brew cask install visual-studio-code
-
-brew cask install jetbrains-toolbox
 
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
 
@@ -38,9 +40,13 @@ code --install-extension ms-vsliveshare.vsliveshare
 
 code --install-extension vscodevim.vim
 
-brew install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf
+brew install bash bat exa fasd fd fzf hub neovim sc-im tmux vim xpdf
 
 $(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.bash_profile -o ~/.bash_profile
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.inputrc -o ~/.inputrc
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
 

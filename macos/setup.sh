@@ -43,7 +43,9 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitco
 # Font and Applications
 ## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
 ## Install Fira Code Nerdfont and .app programs
-brew cask install homebrew/cask-fonts/font-firacode-nerd-font flycut iterm2 karabiner-elements shiftit visual-studio-code jetbrains-toolbox
+## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
+### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
+brew cask install homebrew/cask-fonts/font-firacode-nerd-font flycut iterm2 jetbrains-toolbox karabiner-elements r shiftit visual-studio-code
 
 ## Set up mac terminal
 ### In terminal, under Profiles > Text: Set background to black, set text to white, and select Fura Code Nerdfont size 18
@@ -79,12 +81,17 @@ code --install-extension vscodevim.vim
 ## Install fzf (fuzzy finder)
 ## Install bat and exa (for fzf file preview)
 ## Install fasd and fd (to provide inputs for fzf)
-## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install bat exa fasd fd fzf hub neovim r sc-im tmux vim xpdf
+brew install bash bat exa fasd fd fzf hub neovim sc-im tmux vim xpdf
 ## Install fzf key bindings and fuzzy completion
-$(brew --prefix)/opt/fzf/install --no-bash --no-fish --key-bindings --completion --update-rc
+$(brew --prefix)/opt/fzf/install --no-fish --key-bindings --completion --update-rc
+
+# Use Bash as a backup
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.bash_profile -o ~/.bash_profile
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.inputrc -o ~/.inputrc
+
 ## Download dotfiles (configuration files)
 ### Vim
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
