@@ -71,11 +71,11 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/settings.json -
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User/keybindings.json
 
-code --install-extension ms-python.python
+code --install-extension ms-python.python --force
 
-##### code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension ms-vsliveshare.vsliveshare --force
 
-code --install-extension vscodevim.vim
+code --install-extension vscodevim.vim --force
 
 # Shell programs needed for aliases
 ## Install fzf (fuzzy finder)
