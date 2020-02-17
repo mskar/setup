@@ -22,6 +22,7 @@ eval "$(fasd --init auto)"
 
 # Aliases
 ## inspired by oh my zsh
+### https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet#commands
 alias cd="func() { if [ $(echo '$#') -eq 0 ]; then cd "$HOME"; else pushd $(echo '$1') > /dev/null && pwd; fi; }; func"
 alias ..="cd .."
 alias ...="cd ../.."
