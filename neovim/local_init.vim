@@ -29,7 +29,7 @@ inoremap <C-u> <left><C-o>v0x
 " <C-w> = Delete word backward; the opposite of <A-d>
 " This already exists in vim but I want the killed text to go to my clipboard
 " inoremap <C-w> <Esc>vT s
-inoremap <C-w> <left><C-o>vT x
+inoremap <C-w> <left><C-o>vBx
 " <C-y> = paste like in bash/emacs (relies on deleted text going to the system clipboard)
 inoremap <C-y> <C-R>+
 " <C-_> = undo like in bash/emacs (relies on the fact that other remapping use visual mode)
@@ -38,11 +38,11 @@ inoremap <C-_> <Esc>u`>a
 " Emacs and bash style insert mode ALT shortcuts
 " <A-d> = Delete word forward; opposite of <C-w>
 " I could use <C-o>de, but I want to use visual mode to match <C-u> and <C-y>
-inoremap <A-d> <C-o>vt x
+inoremap <A-d> <C-o>vEx
 cnoremap <A-d> <S-Right><C-w>
 " <A-h> = Delete word backward; opposite of <A-d>, same as <C-w>
 " I could use <C-w>, but I want the killed text to go to my clipboard
-inoremap <A-h> <left><C-o>vT x
+inoremap <A-h> <left><C-o>vBx
 cnoremap <A-h> <C-w>
 " <A-k> = Move up; opposite of <A-j>
 inoremap <A-k> <up>
@@ -62,6 +62,8 @@ inoremap <A-u> <Esc>gUeea
 inoremap <A-l> <Esc>gueea
 " <A-t> = Swap current word with previous word
 inoremap <A-t> <Esc>diwbPldepa
+" <A-.> = Insert previously inserted text (if any)
+inoremap <A-.> <Esc>a<C-r>.
 
 " Run :file everytime I switch to alternate file (^6)
 nnoremap <C-^> <C-^><C-g>
@@ -324,6 +326,8 @@ vnoremap <silent><A-C-b> :<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.
 vnoremap <silent><A-C-f> <Esc>`>:<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>v`<o
 
 " Nvim-R mappings
+autocmd FileType r,rmd nnoremap <buffer> <C-w>a :!wmctrl -r "R Graphics" -b add,above
+autocmd FileType r,rmd nnoremap <buffer> <C-w>A :!wmctrl -r "R Graphics" -b remove,above
 " Keyboard shortcuts for <- -> and other operators in R specific files
 " https://github.com/jalvesaq/Nvim-R/issues/85
 " The trailing spaces below are intentional!
@@ -335,10 +339,10 @@ autocmd FileType r,rmd inoremap <buffer> <A-.> <Esc>:normal! a -><CR>a
 autocmd FileType r,rmd inoremap <buffer> <A-/> <Esc>:normal! a %/%<CR>a 
 autocmd FileType rmd inoremap <buffer> <A-i> <Esc>:normal! a ```{r}<CR>```<Esc>O
 
-autocmd FileType rmd nnoremap <buffer> <leader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
-autocmd FileType rmd nnoremap <buffer> <leader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
-autocmd FileType r nnoremap <buffer> <leader><CR> :w<CR> :!Rscript %<CR>
-autocmd FileType python nnoremap <buffer> <leader><CR> :w ! python3<CR>
+autocmd FileType rmd nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
+autocmd FileType rmd nnoremap <buffer> <localleader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
+autocmd FileType r nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript %<CR>
+autocmd FileType python nnoremap <buffer> <localleader><CR> :w ! python3<CR>
 " http://sherifsoliman.com/2017/07/22/nvim-r/
 " press alt+, to have Nvim-R insert the assignment operator: <-
 let R_assign_map = "<A-,>"

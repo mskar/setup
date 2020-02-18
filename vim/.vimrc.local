@@ -29,7 +29,7 @@ inoremap <C-u> <left><C-o>v0x
 " <C-w> = Delete word backward; the opposite of <A-d>
 " This already exists in vim but I want the killed text to go to my clipboard
 " inoremap <C-w> <Esc>vT s
-inoremap <C-w> <left><C-o>vT x
+inoremap <C-w> <left><C-o>vBx
 " <C-y> = paste like in bash/emacs (relies on deleted text going to the system clipboard)
 inoremap <C-y> <C-R>+
 " <C-_> = undo like in bash/emacs (relies on the fact that other remapping use visual mode)
@@ -39,11 +39,11 @@ inoremap <C-_> <Esc>u`>a
 " " Emacs and bash style insert mode ALT shortcuts
 " " <A-d> = Delete word forward; opposite of <C-w>
 " " I could use <C-o>de, but I want to use visual mode to match <C-u> and <C-y>
-" inoremap <A-d> <C-o>vt x
+" inoremap <A-d> <C-o>vex
 " cnoremap <A-d> <S-Right><C-w>
 " " <A-h> = Delete word backward; opposite of <A-d>, same as <C-w>
 " " I could use <C-w>, but I want the killed text to go to my clipboard
-" inoremap <A-h> <left><C-o>vT x
+" inoremap <A-h> <left><C-o>vbx
 " cnoremap <A-h> <C-w>
 " " <A-k> = Move up; opposite of <A-j>
 " inoremap <A-k> <up>
