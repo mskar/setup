@@ -1,6 +1,6 @@
 # This repo contains my setup files for Mac, Linux, Windows.
 ## This README is a symlink to the [setup.sh](macos/setup.sh) script in the [macos](macos) directory.
-#### Look in the [windows](windows) folder, to see my setup for Windows Subsystem for Linux (WSL), Windows Terminal, and AutoHotkey.
+#### Look in the [windows](windows) folder, to see my setup for Windows Subsystem for Linux (WSL), Windows Terminal, and AutoHotkey (eventually to be replaced by the [KSM](https://windowsreport.com/powertoys-key-remapper/) [PowerToy](https://github.com/microsoft/PowerToys)).
 #### Look in the [linux](linux) directory, to see my everything related to linux (including WSL).
 # Why Mac?
 ## MacOS
