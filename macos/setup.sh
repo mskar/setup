@@ -115,7 +115,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o 
 curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 
 ### JetBrains IDEs
-curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
 
 ## Set up oh my tmux
 git clone https://github.com/gpakosz/.tmux ~/.tmux

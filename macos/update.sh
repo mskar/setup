@@ -66,7 +66,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o 
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/.ideavimrc -o ~/.ideavimrc
+curl https://raw.githubusercontent.com/py4ds/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
 
 git clone https://github.com/gpakosz/.tmux ~/.tmux
 
