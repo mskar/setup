@@ -1,65 +1,65 @@
 " Emacs and bash style insert mode CTRL shortcuts
-" <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b
-" To insert previously inserted text use <C-r>.
+" <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
 inoremap <C-a> <Home>
 cnoremap <C-a> <Home>
-" <C-b> = Move one character backward
-inoremap <C-b> <left>
-cnoremap <C-b> <left>
+" <C-b> = Move one character backward; the opposite of <C-f>
+inoremap <C-b> <Left>
+cnoremap <C-b> <Left>
 " <C-d> = Delete one character forward; the opposite of <C-h>
 inoremap <C-d> <C-g>u<Delete>
+cnoremap <C-d> <Delete>
 " <C-e> = Move to end of the line; the opposite of <C-a>; already exists in command mode: c_ctrl-e
 inoremap <C-e> <End>
 " <C-f> = Move one character forward; the opposite of <C-b>; <C-f> is too useful (for : / ?) to remap
-inoremap <C-f> <right>
-" <C-h> = Delete one character backward; the opposite of <C-d>
-" inoremap <C-h> <Esc>vs
+inoremap <C-f> <Right>
+" <C-h> = Delete one character backward; the opposite of <C-d>; already exists in command mode: c_ctrl-h
 inoremap <C-h> <C-g>u<BS>
-" <C-k> = Delete everything forward; the opposite of <C-u>
-" https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
+" <C-k> = Delete to end of line; the opposite of <C-u>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/; https://superuser.com/a/855997
 inoremap <expr> <C-k> col(".") == col("$") ? "<Del>" : "<C-o>d$"
-" https://superuser.com/a/855997
 cnoremap <C-k> <C-\>estrpart(getcmdline(),0,getcmdpos()-1)<CR>
-" <C-u> = Delete everything backward; the opposite of <C-k>; already exists in command mode: c_ctrl-u
-inoremap <C-u> <C-g>u<C-u>
-" <C-w> = Delete inoremap <C-w> <C-g>u<C-w>
-inoremap <C-w> <C-g>u<C-w>
-" <C-_> = undo like in bash/emacs (this works really well)
-" inoremap <C-_> <C-o>u<C-o>gi
-inoremap <C-_> <C-o>u<Esc>gi
-" <C-r> = paste from register
+" <C-r> = make paste from register undoable in insert mode; already exists in command mode: c_ctrl-r
 inoremap <C-r> <C-g>u<C-r>
-" <C-y> = paste like in bash/emacs
+" <C-u> = Delete to start of line; the opposite of <C-k>; already exists in command mode: c_ctrl-u
+inoremap <C-u> <C-g>u<C-u>
+" <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
+inoremap <C-w> <C-g>u<C-w>
+" <C-y> = Paste like in bash/emacs
 inoremap <C-y> <C-R>+
+cnoremap <C-y> <C-R>+
+" <C-_> = Undo like in bash/emacs (this works really well)
+inoremap <C-_> <C-o>u
 
 " Emacs and bash style insert mode ALT shortcuts
-" <A-d> =  word w>
-" https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
-inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
-cnoremap <A-d> <S-Right><C-w>
-" <A-h> = Delete word backward; opposite of <A-d>, same as <C-w>
-inoremap <A-h> <C-g>u<C-w>
-cnoremap <A-h> <C-w>
-" <A-k> = Move up; opposite of <A-j>
-inoremap <A-k> <up>
-cnoremap <A-k> <up>
-" <A-j> = Move down; opposite of <A-k>
-inoremap <A-j> <down>
-cnoremap <A-j> <down>
-" <A-f> = Move one word forward; opposite of <A-b>
-inoremap <A-f> <S-right>
-cnoremap <A-f> <S-right>
 " <A-b> = Move one word backward; opposite of <A-f>
 inoremap <A-b> <S-left>
 cnoremap <A-b> <S-left>
-" <A-u> = Uppercase to WORD end; opposite of <A-l>
-inoremap <A-u> <Esc>gUeea
+" <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
+inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
+cnoremap <A-d> <S-Right><C-w>
+" <A-f> = Move one word forward; opposite of <A-b>
+inoremap <A-f> <S-right>
+cnoremap <A-f> <S-right>
+" <A-h> = Delete word backward; opposite of <A-d>; same as <C-w>
+inoremap <A-h> <C-g>u<C-w>
+cnoremap <A-h> <C-w>
+" <A-j> = Move down; opposite of <A-k>
+inoremap <A-j> <down>
+cnoremap <A-j> <down>
+" <A-k> = Move up; opposite of <A-j>
+inoremap <A-k> <up>
+cnoremap <A-k> <up>
 " <A-l> = Lowercase to word end; opposite of <A-u>
 inoremap <A-l> <Esc>gueea
+cnoremap <A-l> <C-f>guee<C-c>
 " <A-t> = Swap current word with previous word
 inoremap <A-t> <Esc>diwbPldepa
+cnoremap <A-t> <C-f>diwbPldep<C-c>
+" <A-u> = Uppercase to WORD end; opposite of <A-l>
+inoremap <A-u> <Esc>gUeea
+cnoremap <A-u> <C-f>gUee<C-c>
 " <A-.> = Insert previously inserted text (if any)
 inoremap <A-.> <Esc>a<C-r>.
+cnoremap <A-.> <C-r>.
 
 " Run :file everytime I switch to alternate file (^6)
 nnoremap <C-^> <C-^><C-g>

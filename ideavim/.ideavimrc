@@ -126,31 +126,55 @@ nnoremap <Bslash>x :action ReopenClosedTab<CR>
 " clear search highlighting when hitting backslash twice
 nnoremap <Bslash><Bslash> :nohlsearch<CR>
 
-" Emacs and bash style insert mode shortcuts
-" cnoremap is not working in ideavim
-" Delete one character forward; the opposite of <C-h>; <c-d> starts debugger in ideavim command mode
-inoremap <C-d> <Delete>
-" <c-k> is an IDE shortcut that works everywhere
-" Move to end of the line; already exists in command mode: c_ctrl-e
-inoremap <C-e> <End>
-" Move to start of the line; already works in ideavim command mode: same as <c-b>
+" Emacs and bash style insert mode CTRL shortcuts
+" <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
 inoremap <C-a> <Home>
-" Move one character forward; <c-f> does nothing in ideavim command mode
-inoremap <C-f> <right>
-" Move one character backward; <c-b> moves to the start of the line in ideavim command mode
-inoremap <C-b> <left>
+cnoremap <C-a> <Home>
+" <C-b> = Move one character backward
+inoremap <C-b> <Left>
+cnoremap <C-b> <Left>
+" <C-d> = Delete one character forward; the opposite of <C-h>
+inoremap <C-d> <Delete>
+cnoremap <C-d> <Delete>
+" <C-e> = Move to end of the line; the opposite of <C-a>; already exists in command mode: c_ctrl-e
+inoremap <C-e> <End>
+" <C-f> = Move one character forward; the opposite of <C-b>; <C-f> is too useful (for : / ?) to remap
+inoremap <C-f> <Right>
+" <C-h> = Delete one character backward; the opposite of <C-d>; already exists in command mode: c_ctrl-h
+" <C-k> = Delete to end of line; the opposite of <C-u>
+inoremap <C-k> <C-o>:action EditorDeleteToLineEnd<CR>
+" <C-u> = Delete to start of line; the opposite of <C-k>; already exists in command mode: c_ctrl-u
+" <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
+" <C-y> = Paste like in bash/emacs
+inoremap <C-y> <C-R>+
+cnoremap <C-y> <C-R>+
+" <C-_> = Undo like in bash/emacs (this works really well)
+inoremap <C--> <C-o>u
 
-" Alt keys
-" <a-d> = delete word forward; opposite of <c-w>
-inoremap <a-d> <C-o>dw
-" <a-h> = delete word backward; same as <c-w>
-inoremap <a-h> <C-w>
-" <a-k> = move up; opposite of <a-j>
-inoremap <a-k> <up>
-" <a-j> = move down; opposite of <a-k>
-inoremap <a-j> <down>
-" <a-f> = move one word forward; opposite of <a-b>
-inoremap <a-f> <C-o>w
-" <a-b> = move one word backward; opposite of <a-f>
-inoremap <a-b> <C-o>b
-
+" Emacs and bash style insert mode ALT shortcuts
+" <A-b> = Move one word backward; opposite of <A-f>
+inoremap <A-b> <S-left>
+cnoremap <A-b> <S-left>
+" <A-d> = Delete word forward; opposite of <A-h> and <C-w>
+inoremap <A-d> <C-o>:action EditorDeleteToWordEnd<CR>
+cnoremap <A-d> <S-Right><C-w>
+" <A-f> = Move one word forward; opposite of <A-b>
+inoremap <A-f> <S-right>
+cnoremap <A-f> <S-right>
+" <A-h> = Delete word backward; opposite of <A-d>, same as <C-w>
+inoremap <A-h> <C-w>
+cnoremap <A-h> <C-w>
+" <A-j> = Move down; opposite of <A-k>
+inoremap <A-j> <down>
+cnoremap <A-j> <down>
+" <A-k> = Move up; opposite of <A-j>
+inoremap <A-k> <up>
+cnoremap <A-k> <up>
+" <A-l> = Lowercase to word end; opposite of <A-u>
+inoremap <A-l> <Esc>gueea
+" <A-t> = Swap current word with previous word
+inoremap <A-t> <Esc>diwbPldepa
+" <A-u> = Uppercase to WORD end; opposite of <A-l>
+inoremap <A-u> <Esc>gUeea
+" <A-.> = Insert previously inserted text (if any)
+inoremap <A-.> <Esc>a<C-r>.
