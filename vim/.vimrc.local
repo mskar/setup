@@ -23,31 +23,31 @@ inoremap <C-r> <C-g>u<C-r>
 inoremap <C-u> <C-g>u<C-u>
 " <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
 inoremap <C-w> <C-g>u<C-w>
-" <C-y> = Paste like in bash/emacs
-inoremap <C-y> <C-R>+
-cnoremap <C-y> <C-R>+
+" <C-y> = Paste from system clipboard (not from killring like in bash/emacs)
+inoremap <C-y> <C-r>+
+cnoremap <C-y> <C-r>+
 " <C-_> = Undo like in bash/emacs (this works really well)
 inoremap <C-_> <C-o>u
 
 " " Emacs and bash style insert mode ALT shortcuts
 " " <A-b> = Move one word backward; opposite of <A-f>
-" inoremap <A-b> <S-left>
-" cnoremap <A-b> <S-left>
+" inoremap <A-b> <S-Left>
+" cnoremap <A-b> <S-Left>
 " " <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
 " inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
 " cnoremap <A-d> <S-Right><C-w>
 " " <A-f> = Move one word forward; opposite of <A-b>
-" inoremap <A-f> <S-right>
-" cnoremap <A-f> <S-right>
+" inoremap <A-f> <S-Right>
+" cnoremap <A-f> <S-Right>
 " " <A-h> = Delete word backward; opposite of <A-d>; same as <C-w>
 " inoremap <A-h> <C-g>u<C-w>
 " cnoremap <A-h> <C-w>
 " " <A-j> = Move down; opposite of <A-k>
-" inoremap <A-j> <down>
-" cnoremap <A-j> <down>
+" inoremap <A-j> <Down>
+" cnoremap <A-j> <Down>
 " " <A-k> = Move up; opposite of <A-j>
-" inoremap <A-k> <up>
-" cnoremap <A-k> <up>
+" inoremap <A-k> <Up>
+" cnoremap <A-k> <Up>
 " " <A-l> = Lowercase to word end; opposite of <A-u>
 " inoremap <A-l> <Esc>gueea
 " cnoremap <A-l> <C-f>guee<C-c>

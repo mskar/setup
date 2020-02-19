@@ -18,22 +18,31 @@ set commentary
 " https://github.com/JetBrains/ideavim/blob/master/doc/set-commands.md
 
 " Integrate with system clipboard
-set clipboard=unnamedplus,unnamed
+" set clipboard=unnamedplus,unnamed
+" Add ideaput to clipboard option to perform a put via the IDE
+" set clipboard+=ideaput
+set clipboard=unnamedplus,unnamed,ideaput
+" If set, creation of global mark will trigger creation of IDE's bookmark and vice versa.
+set ideamarks
+" If set, join command will be performed via IDE
+set ideajoin
 
 " The ":substitute" flag 'g' is default on
+" the ":substitute" flag 'g' is by default
 " No need to add g at the end substitution command
-set gdefault
+" set gdefault
 
-" Highlight search results
+" Highlight matches with the current search pattern
 set hlsearch
 
 " Ignore case when searching
 set ignorecase
 
 " Makes search act like search in modern browsers
+" Show where search pattern typed so far matches
 set incsearch
 
-" pairs of characters that "%" can match
+" Pairs of characters that "%" can match
 set matchpairs=(:),[:],{:},<:>
 
 " number formats recognized for CTRL-A command
@@ -61,7 +70,7 @@ set wrapscan
 " ============================================================================
 " IDE actions
 " ============================================================================
-"
+
 nnoremap <Space> :action ExecuteInPyConsoleAction<CR>
 vnoremap <Space> :action ExecuteInPyConsoleAction<CR>
 
@@ -76,8 +85,8 @@ nnoremap g; :action JumpToLastChange<CR>
 nnoremap g, :action JumpToNextChange<CR>
 
 " unimpaired-style mappings
-nnoremap [<space> O<esc>j
-nnoremap ]<space> o<esc>k]
+nnoremap [<Space> O<Esc>j
+nnoremap ]<Space> o<Esc>k]
 nnoremap ]b :action GotoNextBookmark<CR>
 nnoremap [b :action GotoPreviousBookmark<CR>
 nnoremap ]e :action GotoNextError<CR>
@@ -99,7 +108,7 @@ nnoremap yop :action TogglePresentationMode <CR>
 nnoremap yos :action EditorToggleShowWhitespaces <CR>
 nnoremap yow :action EditorToggleUseSoftWraps <CR>
 
-" backslash as leader key mappings
+" Backslash as leader key mappings
 nnoremap <Bslash>a :action SelectAllOccurrences<CR>
 nnoremap <Bslash>b :action ShowBookmarks<CR>
 nnoremap <Bslash>c :action ActivatePythonConsoleToolWindow<CR>
@@ -129,52 +138,40 @@ nnoremap <Bslash><Bslash> :nohlsearch<CR>
 " Emacs and bash style insert mode CTRL shortcuts
 " <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
 inoremap <C-a> <Home>
-cnoremap <C-a> <Home>
 " <C-b> = Move one character backward
 inoremap <C-b> <Left>
-cnoremap <C-b> <Left>
 " <C-d> = Delete one character forward; the opposite of <C-h>
 inoremap <C-d> <Delete>
-cnoremap <C-d> <Delete>
 " <C-e> = Move to end of the line; the opposite of <C-a>; already exists in command mode: c_ctrl-e
 inoremap <C-e> <End>
-" <C-f> = Move one character forward; the opposite of <C-b>; <C-f> is too useful (for : / ?) to remap
+" <C-f> = Move one character forward; the opposite of <C-b>
 inoremap <C-f> <Right>
 " <C-h> = Delete one character backward; the opposite of <C-d>; already exists in command mode: c_ctrl-h
 " <C-k> = Delete to end of line; the opposite of <C-u>
 inoremap <C-k> <C-o>:action EditorDeleteToLineEnd<CR>
 " <C-u> = Delete to start of line; the opposite of <C-k>; already exists in command mode: c_ctrl-u
 " <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
-" <C-y> = Paste like in bash/emacs
-inoremap <C-y> <C-R>+
-cnoremap <C-y> <C-R>+
+" <C-y> = Paste from system clipboard (not from killring like in bash/emacs)
+inoremap <C-y> <C-r>+
 " <C-_> = Undo like in bash/emacs (this works really well)
 inoremap <C--> <C-o>u
 
 " Emacs and bash style insert mode ALT shortcuts
 " <A-b> = Move one word backward; opposite of <A-f>
-inoremap <A-b> <S-left>
-cnoremap <A-b> <S-left>
+inoremap <A-b> <S-Left>
 " <A-d> = Delete word forward; opposite of <A-h> and <C-w>
-inoremap <A-d> <C-o>:action EditorDeleteToWordEnd<CR>
-cnoremap <A-d> <S-Right><C-w>
+inoremap <A-d> <C-o>:action EditorKillToWordEnd<CR>
 " <A-f> = Move one word forward; opposite of <A-b>
-inoremap <A-f> <S-right>
-cnoremap <A-f> <S-right>
+inoremap <A-f> <S-Right>
 " <A-h> = Delete word backward; opposite of <A-d>, same as <C-w>
 inoremap <A-h> <C-w>
-cnoremap <A-h> <C-w>
 " <A-j> = Move down; opposite of <A-k>
-inoremap <A-j> <down>
-cnoremap <A-j> <down>
+inoremap <A-j> <Down>
 " <A-k> = Move up; opposite of <A-j>
-inoremap <A-k> <up>
-cnoremap <A-k> <up>
-" <A-l> = Lowercase to word end; opposite of <A-u>
+inoremap <A-k> <Up>
+" <A-l> = Lowercase to word end; opposite of <A-u> (works)
 inoremap <A-l> <Esc>gueea
-" <A-t> = Swap current word with previous word
+" <A-t> = Swap current word with previous word (works)
 inoremap <A-t> <Esc>diwbPldepa
-" <A-u> = Uppercase to WORD end; opposite of <A-l>
+" <A-u> = Uppercase to WORD end; opposite of <A-l> (does not work)
 inoremap <A-u> <Esc>gUeea
-" <A-.> = Insert previously inserted text (if any)
-inoremap <A-.> <Esc>a<C-r>.
