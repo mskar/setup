@@ -3,47 +3,41 @@
 " To insert previously inserted text use <C-r>.
 inoremap <C-a> <Home>
 cnoremap <C-a> <Home>
-" <C-b> = Move one character backward
+" <C-b> = Move one character backward; the opposite of <C-f>
 inoremap <C-b> <left>
 cnoremap <C-b> <left>
 " <C-d> = Delete one character forward; the opposite of <C-h>
-" I could use <Delete>, but I want <C-d> to use visual mode like <C-h>
-inoremap <C-d> <C-o>vx
-cnoremap <C-d> <Delete>
-" <C-e> = Move to end of the line; already exists in command mode: c_ctrl-e
+inoremap <C-d> <C-g>u<Delete>
+" <C-e> = Move to end of the line; the opposite of <C-a>; already exists in command mode: c_ctrl-e
 inoremap <C-e> <End>
-" <C-f> = Move one character forward; <C-f> is too useful (for : / ?) to remap
+" <C-f> = Move one character forward; the opposite of <C-b>; <C-f> is too useful (for : / ?) to remap
 inoremap <C-f> <right>
-" <C-h> = Delete one character backward; the opposite of <C-d>
-" This already exis in vim but I want the killed text to go to my clipboard
-" inoremap <C-h> <Esc>vs
-inoremap <C-h> <left><C-o>vx
+" <C-h> = Delete one character backward; the opposite of <C-d>; already exists in insert and command mode
+inoremap <C-h> <C-g>u<BS>
 " <C-k> = Delete everything forward; the opposite of <C-u>
-" Can't find a way to do this in command mode
-" I could use <C-o>D, but I want to use visual to
-inoremap <C-k> <C-o>v$<left>x
-" <C-u> = Delete everything backward; the opposite of <C-k>
-" This already exists in vim but I want the killed text to go to my clipboard
-" inoremap <C-u> <Esc>v0s
-inoremap <C-u> <left><C-o>v0x
-" <C-w> = Delete word backward; the opposite of <A-d>
-" This already exists in vim but I want the killed text to go to my clipboard
-" inoremap <C-w> <Esc>vT s
-inoremap <C-w> <left><C-o>vBx
-" <C-y> = paste like in bash/emacs (relies on deleted text going to the system clipboard)
-inoremap <C-y> <C-R>+
-" <C-_> = undo like in bash/emacs (relies on the fact that other remapping use visual mode)
-inoremap <C-_> <Esc>u`>a
+" https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
+inoremap <expr> <C-k> col(".") == col("$") ? "<Del>" : "<C-o>d$"
+" https://superuser.com/a/855997
+cnoremap <C-k> <C-\>estrpart(getcmdline(),0,getcmdpos()-1)<CR>
+" <C-u> = Delete everything backward; the opposite of <C-k>; already exists in insert and command mode
+inoremap <C-u> <C-g>u<C-u>
+" <C-w> = Delete word backward; same as <A-h> below
+inoremap <C-w> <C-g>u<C-w>
+" <C-_> = undo like in bash/emacs (this works really well)
+" inoremap <C-_> <C-o>u<C-o>gi
+inoremap <C-_> <C-o>u<Esc>gi
+" <C-r> = undoable paste from register
+inoremap <C-r> <C-g>u<C-r>
+" <C-y> = paste like in bash/emacs
+inoremap <C-y> <C-r>+
 
-" Alt keys (work in neovim, not vim)
 " " Emacs and bash style insert mode ALT shortcuts
-" " <A-d> = Delete word forward; opposite of <C-w>
-" " I could use <C-o>de, but I want to use visual mode to match <C-u> and <C-y>
-" inoremap <A-d> <C-o>vex
+" " <A-d> =  word w>
+" " https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
+" inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
 " cnoremap <A-d> <S-Right><C-w>
 " " <A-h> = Delete word backward; opposite of <A-d>, same as <C-w>
-" " I could use <C-w>, but I want the killed text to go to my clipboard
-" inoremap <A-h> <left><C-o>vbx
+" inoremap <A-h> <C-g>u<C-w>
 " cnoremap <A-h> <C-w>
 " " <A-k> = Move up; opposite of <A-j>
 " inoremap <A-k> <up>
@@ -52,17 +46,19 @@ inoremap <C-_> <Esc>u`>a
 " inoremap <A-j> <down>
 " cnoremap <A-j> <down>
 " " <A-f> = Move one word forward; opposite of <A-b>
-" inoremap <A-f> <C-o>w
-" cnoremap <A-f> <S-Right>
+" inoremap <A-f> <S-right>
+" cnoremap <A-f> <S-right>
 " " <A-b> = Move one word backward; opposite of <A-f>
-" inoremap <A-b> <C-o>b
-" cnoremap <A-b> <S-Left>
+" inoremap <A-b> <S-left>
+" cnoremap <A-b> <S-left>
 " " <A-u> = Uppercase to WORD end; opposite of <A-l>
 " inoremap <A-u> <Esc>gUeea
 " " <A-l> = Lowercase to word end; opposite of <A-u>
 " inoremap <A-l> <Esc>gueea
 " " <A-t> = Swap current word with previous word
 " inoremap <A-t> <Esc>diwbPldepa
+" " <A-.> = Insert previously inserted text (if any)
+" inoremap <A-.> <Esc>a<C-r>.
 
 " Run :file everytime I switch to alternate file (^6)
 nnoremap <C-^> <C-^><C-g>

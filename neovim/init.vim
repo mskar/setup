@@ -222,13 +222,13 @@ set autoread
 "*****************************************************************************
 
 "" Git
-noremap <leader>ga :Gwrite<CR>
+noremap ga :Gwrite<CR>
 noremap <leader>w :Gwrite<CR>
 noremap <leader>gc :Gwrite<bar>Gcommit<CR>
 noremap <leader>gp :Gpush<CR>
 noremap <leader>gu :Gpull<CR>
-noremap <leader>gs :Gstatus<CR>
-noremap <leader>gb :Gblame<CR>
+noremap gs :Gstatus<CR>
+noremap gb :Gblame<CR>
 noremap <leader>gd :Gvdiff<CR>
 noremap <leader>gr :Gremove<CR>
 noremap <leader>gl :Glog<CR>
