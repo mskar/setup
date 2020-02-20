@@ -1,105 +1,72 @@
-# If ENV is pipenv, run export PIPENV_VENV_IN_PROJECT=1
-# Otherwise, .venv will not be in the current project.
+# This Makefile will update your Mac
+# If you need to set up a new Mac, run setup.sh
 
-PROJECT_NAME = my_project
-PROJECT_DESC = "A short description of the project."
-ENV = virtualenv
-PYTHON = .venv/bin/python3
-LINTER = black
-DOCS = $(wildcard docs/*.rst docs/*.md docs/*.ipynb)
-TESTS = $(wildcard tests/*.py)
-SRC = $(wildcard src/*/*.py)
+VENV_NAME_R = r
+VENV_NAME_PYTHON = py
 
 
-env: .venv/bin/activate
-docs: docs/_build/html/index.html
+all: brew flycut font gitconfig iterm-config iterm jetbrains-toolbox karabiner omz pl9k rstats shiftit vscode zauto zshrc zsynt
 
-.venv/bin/activate: setup.py
-ifneq ($(ENV), $(filter $(ENV),conda venv))
-	pip install $(ENV)
-endif
-ifeq ($(ENV), $(filter $(ENV),virtualenv venv))
-	test -d .venv || python -m $(ENV) .venv
-endif
-ifeq ($(ENV), conda)
-	test -d .venv || conda create -yp .venv python=3
-endif
-ifeq ($(ENV), pipenv)
-	test -d .venv || pipenv --three
-	pipenv install pip
-	pipenv install --editable .
-else
-	${PYTHON} -m pip install --upgrade pip
-	${PYTHON} -m pip install --editable .
-endif
-	touch .venv/bin/activate
+bash: /usr/local/Cellar/bash ~/.bash_profile ~/.inputrc
+bat: /usr/local/Cellar/bat
+brew: /usr/local/Cellar/
+conda: ~/miniconda.sh ~/miniconda
+exa: /usr/local/Cellar/exa
+fasd: /usr/local/Cellar/fasd
+fd: /usr/local/Cellar/fd
+flycut: /usr/local/Caskroom/flycut
+font: /usr/local/Caskroom/font-firacode-nerd-font
+fzf: /usr/local/Cellar/fzf
+gitconfig: ~/.gitconfig
+hub: /usr/local/Cellar/hub
+iterm: /usr/local/Caskroom/iterm2 ~/com.googlecode.iterm2.plist
+jetbrains: /usr/local/Caskroom/jetbrains-toolbox ~/.ideavimrc
+karabiner: /usr/local/Caskroom/karabiner-elements ~/.config/karabiner/karabiner.json
+neovim: /usr/local/Cellar/neovim ~/.config/nvim/local_init.vim ~/.config/nvim/local_bundles.vim ~/.config/nvim/init.vim
+omz: ~/.oh-my-zsh
+pl9k: ~/.oh-my-zsh/themes/powerlevel9k
+rstats: /usr/local/Caskroom/r
+scim: /usr/local/Cellar/sc-im
+shiftit: /usr/local/Caskroom/shiftit
+tmux: /usr/local/Cellar/tmux ~/.tmux ~/.tmux.conf.local ~/.tmux/plugins/tpm
+vim: /usr/local/Cellar/vim ~/.vimrc.local ~/.vimrc.local.bundles ~/.vimrc
+spacevim: ~/.SpaceVim ~/.SpaceVim.d/init.toml ~/.SpaceVim.d/autoload/myspacevim.vim
+vscode: /usr/local/Caskroom/visual-studio-code ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json $(wildcard ~/.vscode/extensions/ms-python.python-* ~/.vscode/extensions/vscodevim.vim-* ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
+xpdf: /usr/local/Cellar/xpdf
+zsh: ~/.zshrc ~/.oh-my-zsh/plugins/zsh-syntax-highlighting  ~/.oh-my-zsh/plugins/zsh-autosuggestions
 
-test: env
-ifeq ($(ENV), pipenv)
-	pipenv install pytest-mypy
-else
-	${PYTHON} -m pip install pytest-mypy
-endif
-	${PYTHON} -m pytest src tests
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+/usr/local/Cellar/:
+	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+~/.oh-my-zsh:
+	sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+~/.oh-my-zsh/themes/powerlevel9k:
+	git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
+~/.oh-my-zsh/plugins/zsh-autosuggestions:
+	git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
+~/.oh-my-zsh/plugins/zsh-syntax-highlighting:
+	git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+~/.zshrc:
+	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zshrc
+~/.gitconfig:
+	curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
+/usr/local/Caskroom/font-firacode-nerd-font:
+	brew cask install homebrew/cask-fonts/font-firacode-nerd-font
+/usr/local/Caskroom/flycut:
+	brew cask install flycut
+/usr/local/Caskroom/iterm2:
+	brew cask install iterm2
+/usr/local/Caskroom/jetbrains-toolbox:
+	brew cask install jetbrains-toolbox
+/usr/local/Caskroom/karabiner-elements:
+	brew cask install karabiner-elements
+/usr/local/Caskroom/r:
+	brew cask install r
+/usr/local/Caskroom/shiftit:
+	brew cask install shiftit
+/usr/local/Caskroom/visual-studio-code:
+	brew cask install visual-studio-code
+~/com.googlecode.iterm2.plist:
+	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
 
-lint: env
-ifeq ($(ENV), pipenv)
-	pipenv install $(LINTER)
-else
-	${PYTHON} -m pip install $(LINTER)
-endif
-	${PYTHON} -m $(LINTER) src tests
-
-docs/_build/html/index.html: $(DOCS) $(TESTS) $(SRC)
-	sphinx-build -M html docs/ docs/_build
-
-repo: .git/
-
-.git/:
-	cd $(PROJECT_NAME)
-	curl --user 'marskar' https://api.github.com/user/repos --data '{"name":"$(PROJECT_NAME)","description":"$(PROJECT_DESC)"}'
-	test -f README.md || echo "$(PROJECT_NAME)" >> README.md
-	git init
-	git add --all
-	git commit --message "First commit"
-	git remote add origin https://github.com/marskar/$(PROJECT_NAME).git
-	git push --set-upstream origin master
-
-clone:
-	git clone https://github.com/$(USER)/$(REPO)
-	cd $(REPO)
-
-clean:
-	rm -rf build/
-	rm -rf dist/
-	rm -rf .eggs/
-	find . -name '*.egg-info' -exec rm -rf {} +
-	find . -name '*.egg' -exec rm -f {} +
-
-commit:
-	git add --all
-	[ -z "`git status --porcelain`" ] || git commit --message "Edit version `python setup.py --version`"
-	git push
-
-patch: commit
-	bumpversion --current-version `python setup.py --version` patch setup.py
-	git commit --all --message "Bump version to `python setup.py --version`"
-	git push
-
-minor: commit
-	bumpversion --current-version `python setup.py --version` minor setup.py
-	git commit --all --message "Bump version to `python setup.py --version`"
-	git push
-
-major: commit
-	bumpversion --current-version `python setup.py --version` major setup.py
-	git commit --all --message "Bump version to `python setup.py --version`"
-	git push
-
-dist: clean
-	python setup.py sdist bdist_wheel
-
-release: dist
-	twine upload dist/*
-
-.PHONY: env test lint clean commit patch minor major dist release
+.PHONY: brew omz pl9k zauto zsynt
