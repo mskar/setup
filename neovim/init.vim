@@ -110,7 +110,7 @@ endif
 "*****************************************************************************
 syntax on
 set ruler
-set number relativenumber
+" Use impaired's yon and yor to toggle set number relativenumber, respectively
 
 let no_buffers_menu=1
 silent! colorscheme molokai
