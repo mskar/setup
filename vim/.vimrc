@@ -114,7 +114,7 @@ endif
 "*****************************************************************************
 syntax on
 set ruler
-" Use impaired's yon and yor to toggle set number relativenumber, respectively
+" Use vim-unimpaired's yon and yor to toggle set number and relativenumber
 
 let no_buffers_menu=1
 silent! colorscheme molokai
