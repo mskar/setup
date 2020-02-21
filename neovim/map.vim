@@ -1,3 +1,62 @@
+"*****************************************************************************
+"" Mappings
+"*****************************************************************************
+
+"" Git
+noremap ga :Gwrite<CR>
+noremap <leader>w :Gwrite<CR>
+noremap <leader>gc :Gwrite<bar>Gcommit<CR>
+noremap <leader>gp :Gpush<CR>
+noremap <leader>gu :Gpull<CR>
+noremap gs :Gstatus<CR>
+noremap gb :Gblame<CR>
+noremap <leader>gd :Gvdiff<CR>
+noremap <leader>gr :Gremove<CR>
+noremap <leader>gl :Glog<CR>
+noremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
+nnoremap gh :diffget //2<CR>
+nnoremap gl :diffget //3<CR>
+
+"" Set working directory
+nnoremap <leader>. :lcd %:p:h<CR>
+
+"" Opens an edit command with the path of the currently edited file filled in
+noremap <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
+
+"" Opens a tab edit command with the path of the currently edited file filled
+noremap <leader>te :tabe <C-R>=expand("%:p:h") . "/" <CR>
+
+cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
+nnoremap <silent> <leader>b :Buffers<CR>
+nnoremap <silent> gb :Buffers<CR>
+nnoremap <silent> <leader>z :FZF -m<CR>
+"Recovery commands from history through FZF
+nnoremap <silent> <leader>h :History<CR>
+
+noremap YY "+y<CR>
+noremap <leader>p "+gP<CR>
+noremap XX "+x<CR>
+
+if has('macunix')
+  " pbcopy for OSX copy/paste
+  vmap <C-x> :!pbcopy<CR>
+  vmap <C-c> :w !pbcopy<CR><CR>
+endif
+
+"" Clean search (highlight)
+nnoremap <silent> <leader><leader> :noh<cr>
+
+"" Vmap for maintain Visual Mode after shifting > and <
+vmap < <gv
+vmap > >gv
+
+"" Move visual block
+vnoremap J :m '>+1<CR>gv=gv
+vnoremap K :m '<-2<CR>gv=gv
+
+"" Open current line on GitHub
+nnoremap <leader>o :.Gbrowse<CR>
+
 " Emacs and bash style insert mode CTRL shortcuts
 " <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
 inoremap <C-a> <Home>
@@ -255,45 +314,10 @@ imap <c-x><c-l> <plug>(fzf-complete-line)
 " Advanced customization using autoload functions
 inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
 
-" ncm-R: https://github.com/gaalcaras/ncm-R
-" requires the lines below to satisfy ncm2 dependencies
-" https://github.com/ncm2/ncm2#install
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L16
-set completeopt=noinsert,menuone,noselect
-autocmd BufEnter * call ncm2#enable_for_buffer()
-" For now, use coc in vim and ncm in neovim
-" Later, try to use ncm just for r/rmd files as below
-" autocmd BufEnter *.[Rr],*.Rmd call ncm2#enable_for_buffer()
-" or switch to coc entirely if the R LSP gets better
-" https://github.com/REditorSupport/languageserver/issues/167
-
-" https://github.com/gaalcaras/ncm-R#getting-the-snippets-to-work
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc
-" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
-" http://vimcasts.org/episodes/meet-ultisnips/
-let g:UltiSnipsExpandTrigger="<tab>"
-let g:UltiSnipsJumpForwardTrigger="<tab>"
-let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
-" https://github.com/SirVer/ultisnips#quick-start
-" If you want :UltiSnipsEdit to split your window.
-let g:UltiSnipsEditSplit="vertical"
 " https://github.com/ncm2/ncm2-ultisnips
 " Press enter key to trigger snippet expansion
 " The parameters are the same as `:help feedkeys()`
 inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
-
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L19
-let g:UltiSnipsExpandTrigger = "<Plug>(ultisnips_expand_or_jump)"
-let g:UltiSnipsJumpForwardTrigger = "<Plug>(ultisnips_expand_or_jump)"
-
-function! UltiSnipsExpandOrJumpOrTab()
-  call UltiSnips#ExpandSnippetOrJump()
-  if g:ulti_expand_or_jump_res > 0
-    return ""
-  else
-    return "\<Tab>"
-  endif
-endfunction
 
 inoremap <silent> <expr> <Tab> ncm2_ultisnips#expand_or("\<Plug>(ultisnips_try_expand)")
 
@@ -339,31 +363,7 @@ autocmd FileType rmd nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript -e "rm
 autocmd FileType rmd nnoremap <buffer> <localleader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
 autocmd FileType r nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript %<CR>
 autocmd FileType python nnoremap <buffer> <localleader><CR> :w ! python3<CR>
-" http://sherifsoliman.com/2017/07/22/nvim-r/
-" press alt+, to have Nvim-R insert the assignment operator: <-
-let R_assign_map = "<A-,>"
 
-" set a minimum source editor width
-" let R_min_editor_width = 80
-
-" make sure the console is at the bottom by making it really wide
-" let R_rconsole_width = 1000
-
-" show arguments for functions during omnicompletion
-" let R_show_args = 1
-
-" https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/
-" let g:rout_follow_colorscheme = 1
-" let g:Rout_more_colors = 1
-
-" Don't expand a dataframe to show columns by default
-" let R_objbr_opendf = 0
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2152
-" Only use the mappings listed below
-let R_user_maps_only = 1
-" Do not replace grave accent with chunk delimiters in Rmd files
-" Use alt-i to insert code chunks instead
-let R_rmdchunk = 0
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
 " https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
 " Remappings based on RStudio shortcuts: https://rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf
@@ -408,79 +408,3 @@ autocmd FileType r,rmd nnoremap <silent><buffer><localleader>v :call RAction("vi
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>w :call RMakeRmd("word_document")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>x :call RComment("normal")<CR>
 
-" vim-pandoc inserts citations with <C-x><C-o>
-" disable automatic folding by vim-pandoc
-let g:pandoc#modules#disabled = ["folding"]
-let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
-" In addition to vim-pandoc, zotcite and nvim-r can insert citations
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
-
-" Snakemake
-au BufNewFile,BufRead Snakefile set syntax=snakemake
-au BufNewFile,BufRead *.smk set syntax=snakemake
-au BufNewFile,BufRead *.snk set syntax=snakemake
-au BufNewFile,BufRead *.snakefile set syntax=snakemake
-au FileType snakemake let Comment="#"
-au FileType snakemake setlocal completeopt=menuone,longest
-au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
-
-" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
-set timeoutlen=1000 ttimeoutlen=10
-
-"" Directories for swp files
-set nobackup
-set noswapfile
-set nowritebackup
-
-" Setting suggested by coc.nvim
-" Better display for messages
-set cmdheight=1 "coc recommends 2
-
-" You will have bad experience for diagnostic messages when it's default 4000.
-set updatetime=300
-
-" don't give |ins-completion-menu| messages.
-set shortmess+=c
-
-" always show signcolumns
-set signcolumn=yes
-
-" (In times of great desperation) allow use of the mouse
-set mouse=a
-
-" https://github.com/neovim/neovim/wiki/FAQ#how-to-change-cursor-shape-in-the-terminal
-set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkon100
-
-" Share system clipboard ("+) and unnamed ("") registers
-" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
-" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
-set clipboard=unnamed
-if has('unnamedplus')
-  set clipboard=unnamed,unnamedplus
-endif
-set go+=a
-
-" Neovim defaults https://neovim.io/doc/user/vim_diff.html
-" 'autoindent' is enabled
-" 'background' defaults to "dark" (unless set automatically by the terminal/UI)
-" 'belloff' defaults to "all"
-" 'compatible' is always disabled
-" 'complete' excludes "i"
-" 'cscopeverbose' is enabled
-" 'history' defaults to 10000 (the maximum)
-" 'showcmd' is enabled
-" 'sidescroll' defaults to 1
-" 'smarttab' is enabled
-" 'tabpagemax' defaults to 50
-" 'wildmenu' is enabled
-
-" Neovim defaults?
-set path+=** " Provides tab-completion for all file-related tasks
-set lazyredraw " Don't redraw while executing macros (good performance config)
-set showmatch " Show matching brackets when text indicator is over them
-set hidden " can put buffer to the background without writing to disk, will remember history/marks.
-
-highlight VertSplit ctermbg=NONE guibg=NONE
-set fillchars+=vert:│
-set laststatus=0
-highlight Normal ctermfg=white ctermbg=black
