@@ -1,4 +1,5 @@
 " vim-bootstrap (https://vim-bootstrap.com)
+
 if filereadable(expand("~/.config/nvim/plug.vim"))
   source ~/.config/nvim/plug.vim
 endif
