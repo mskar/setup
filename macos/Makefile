@@ -1,11 +1,15 @@
 # This Makefile will install anything missing from your Mac
 # If you need to set up a new Mac, run setup.sh
+# After editing a file in this repo,
+# run make all to check if dotfiles need updating
+# Existing packages will not be updated,
+# To update all packages, run update.sh
 
 VSCODE_LIVESHARE = $(wildcard ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 
-all: brew zsh bash bat conda exa fasd fd flycut font fzf gitconfig hub iterm jetbrains karabiner neovim pyenv rstudio scim shiftit spacevim tmux toolbox vim vscode xpdf
+all: brew zsh repo bash bat conda exa fasd fd flycut font fzf gitconfig hub iterm jetbrains karabiner neovim pyenv rstudio scim shiftit spacevim tmux toolbox vim vscode xpdf
 
 bash: bash-exe bash_profile inputrc
 iterm: iterm-exe iterm-config
@@ -87,12 +91,27 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 ~/py4ds/setup/vim/.vimrc.map: repo
 ~/py4ds/setup/vim/.vimrc.plug: repo
 ~/py4ds/setup/vim/.vimrc.set: repo
+~/py4ds/setup/.tmux.conf.local: repo
+~/py4ds/setup/macos/.zshrc: repo
+~/py4ds/setup/macos/.bash_profile: repo
+~/py4ds/setup/macos/.inputrc: repo
+~/py4ds/setup/.gitconfig: repo
+~/py4ds/setup/ideavim/.ideavimrc: repo
+~/py4ds/setup/macos/karabiner.json: repo
+~/py4ds/setup/vscode/keybindings.json: repo
+~/py4ds/setup/vscode/settings.json: repo
+~/py4ds/setup/rstudio/user-settings: repo
+~/py4ds/setup/rstudio/editor_bindings.json: repo
+~/py4ds/setup/rstudio/rstudio_bindings.json: repo
+~/py4ds/setup/spacevim/init.toml: repo
+~/py4ds/setup/spacevim/myspacevim.vim: repo
+~/py4ds/setup/macos/com.googlecode.iterm2.plist: repo
 
 /usr/local/bin/bash:
 	-brew install bash
-~/.bash_profile:
+~/.bash_profile: ~/py4ds/setup/macos/.bash_profile
 	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.bash_profile -o ~/.bash_profile
-~/.inputrc:
+~/.inputrc: ~/py4ds/setup/macos/.inputrc
 	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.inputrc -o ~/.inputrc
 /usr/local/bin/bat:
 	-brew install bat
@@ -115,19 +134,19 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 /usr/local/bin/fzf:
 	-brew install fzf
 	/usr/local/opt/fzf/install --no-fish --key-bindings --completion --update-rc
-~/.gitconfig:
+~/.gitconfig: ~/py4ds/setup/.gitconfig
 	curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
 /usr/local/bin/hub:
 	-brew install hub
 /usr/local/Caskroom/iterm2:
 	-brew cask install iterm2
-~/com.googlecode.iterm2.plist:
+~/com.googlecode.iterm2.plist: ~/py4ds/setup/macos/com.googlecode.iterm2.plist
 	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
 /usr/local/Caskroom/jetbrains-toolbox:
 	-brew cask install jetbrains-toolbox
-~/.ideavimrc:
+~/.ideavimrc: ~/py4ds/setup/ideavim/.ideavimrc
 	curl https://raw.githubusercontent.com/py4ds/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
-/usr/local/Caskroom/karabiner-elements:
+/usr/local/Caskroom/karabiner-elements: ~/py4ds/setup/macos/karabiner.json
 	-brew cask install karabiner-elements
 ~/.config/karabiner/karabiner.json:
 	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
@@ -153,11 +172,11 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew cask install r
 ~/miniconda/envs/r:
 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
-~/.rstudio-desktop/monitored/user-settings/user-settings:
+~/.rstudio-desktop/monitored/user-settings/user-settings: ~/py4ds/setup/rstudio/user-settings
 	curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
-~/.rstudio-desktop/keybindings/editor_bindings:
+~/.rstudio-desktop/keybindings/editor_bindings.json: ~/py4ds/setup/rstudio/editor_bindings.json
 	curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
-~/.R/rstudio/keybindings/rstudio_bindings.json:
+~/.R/rstudio/keybindings/rstudio_bindings.json: ~/py4ds/setup/rstudio/rstudio_bindings.json
 	curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json --create-dirs
 /usr/local/bin/scim:
 	-brew install sc-im
@@ -165,9 +184,9 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew cask install shiftit
 ~/.SpaceVim:
 	-git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
-~/.SpaceVim.d/init.toml:
+~/.SpaceVim.d/init.toml: ~/py4ds/setup/spacevim/init.toml
 	curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o ~/.SpaceVim.d/init.toml --create-dirs
-~/.SpaceVim.d/autoload/myspacevim.vim:
+~/.SpaceVim.d/autoload/myspacevim.vim: ~/py4ds/setup/spacevim/myspacevim.vim
 	curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 /usr/local/bin/tmux:
 	-brew install tmux
@@ -190,9 +209,9 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.set -o ~/.vimrc.set
 /usr/local/Caskroom/visual-studio-code:
 	-brew cask install visual-studio-code
-~/Library/ApplicationSupport/Code/User/settings.json:
+~/Library/ApplicationSupport/Code/User/settings.json: ~/py4ds/setup/vscode/settings.json
 	curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User/settings.json --create-dirs
-~/Library/ApplicationSupport/Code/User/keybindings.json:
+~/Library/ApplicationSupport/Code/User/keybindings.json: ~/py4ds/setup/vscode/keybindings.json
 	curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User/keybindings.json --create-dirs
 $(VSCODE_PYTHON):
 	code --install-extension ms-python.python --force
@@ -204,9 +223,9 @@ $(VSCODE_LIVESHARE):
 	-brew install xpdf
 ~/.zshrc: ~/py4ds/setup/macos/.zshrc
 	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zshrc
-~/.oh-my-zsh/plugins/zsh-syntax-highlighting:
-	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
 ~/.oh-my-zsh/plugins/zsh-autosuggestions:
+	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
+~/.oh-my-zsh/plugins/zsh-syntax-highlighting:
 	-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 /Library/Developer/CommandLineTools:
 	xcode-select --install
