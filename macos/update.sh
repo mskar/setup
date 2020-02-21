@@ -48,17 +48,21 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.bash_profile -o
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.inputrc -o ~/.inputrc
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
-
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local.bundles -o ~/.vimrc.local.bundles
-
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_init.vim -o ~/.config/nvim/local_init.vim --create-dirs
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.map -o ~/.vimrc.map
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_bundles.vim -o ~/.config/nvim/local_bundles.vim
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.plug -o ~/.vimrc.plug
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.set -o ~/.vimrc.set
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_init.vim -o ~/.config/nvim/init.vim --create-dirs
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/map.vim -o ~/.config/nvim/map.vim
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/plug.vim -o ~/.config/nvim/plug.vim
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/set.vim -o ~/.config/nvim/set.vim
 
 git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
 
