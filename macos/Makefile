@@ -1,4 +1,5 @@
 # This Makefile will install anything missing from your Mac
+#
 # If you need to set up a new Mac, run setup.sh
 # After editing a file in this repo,
 # run make all to check if dotfiles need updating
@@ -31,17 +32,17 @@ conda: ~/miniconda
 exa: /usr/local/bin/exa
 fasd: /usr/local/bin/fasd
 fd: /usr/local/bin/fd
-flycut: /usr/local/Caskroom/flycut
-font: /usr/local/Caskroom/font-firacode-nerd-font
+flycut: /Applications/Flycut.app
+font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: /usr/local/bin/fzf
 gitconfig: ~/.gitconfig
 hub: /usr/local/bin/hub
 ideavimrc: ~/.ideavimrc
 inputrc: ~/.inputrc
 iterm-config: ~/com.googlecode.iterm2.plist
-iterm-exe: /usr/local/Caskroom/iterm2
+iterm-exe: /Applications/iTerm.app
 karabiner-config: ~/.config/karabiner/karabiner.json
-karabiner-exe: /usr/local/Caskroom/karabiner-elements
+karabiner-exe: /Applications/Karabiner-Elements.app
 neovim-exe: /usr/local/bin/nvim
 neovim-init: ~/.config/nvim/init.vim
 neovim-map: ~/.config/nvim/map.vim
@@ -52,12 +53,12 @@ pl9k: ~/.oh-my-zsh/themes/powerlevel9k
 pyenv: ~/miniconda/envs/py
 renv: ~/miniconda/envs/r
 repo: ~/py4ds/setup
-rstats: /usr/local/Caskroom/r
+rstats: /usr/local/bin/r
 rstudio-editor-bindings: ~/.R/rstudio/keybindings/editor_bindings.json
 rstudio-ide-bindings: ~/.R/rstudio/keybindings/rstudio_bindings.json
 rstudio-settings: ~/.rstudio-desktop/monitored/user-settings/user-settings
 scim: /usr/local/bin/scim
-shiftit: /usr/local/Caskroom/shiftit
+shiftit: /Applications/ShiftIt.app
 spacevim-config-toml: ~/.SpaceVim.d/init.toml
 spacevim-config-vim: ~/.SpaceVim.d/autoload/myspacevim.vim
 spacevim-exe: ~/.SpaceVim
@@ -65,13 +66,13 @@ tmux-exe: /usr/local/bin/tmux
 tmux-dot: ~/.tmux
 tmux-local: ~/.tmux.conf.local
 tmux-plug: ~/.tmux/plugins/tpm
-toolbox: /usr/local/Caskroom/jetbrains-toolbox
+toolbox: /Applications/JetBrains\ Toolbox.app
 vim-exe: /usr/local/bin/vim
 vim-map: ~/.vimrc.map
 vim-plug: ~/.vimrc.plug
 vim-set: ~/.vimrc.set
 vim-config: ~/.vimrc
-vscode-exe: /usr/local/Caskroom/visual-studio-code
+vscode-exe: /Applications/Visual\ Studio\ Code.app
 vscode-keybindings: ~/Library/ApplicationSupport/Code/User/keybindings.json
 vscode-liveshare: $(VSCODE_LIVESHARE)
 vscode-python: $(VSCODE_PYTHON)
@@ -127,10 +128,11 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew install fasd
 /usr/local/bin/fd:
 	-brew install fd
-/usr/local/Caskroom/flycut:
+/Applications/Flycut.app:
 	-brew cask install flycut
-/usr/local/Caskroom/font-firacode-nerd-font:
+~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf:
 	-brew cask install homebrew/cask-fonts/font-firacode-nerd-font
+	-ln -fs Fira\ Code\ Regular\ Nerd\ Font\ Complete.otf FiraCodeRegularNerdFontComplete.otf
 /usr/local/bin/fzf:
 	-brew install fzf
 	/usr/local/opt/fzf/install --no-fish --key-bindings --completion --update-rc
@@ -138,15 +140,16 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
 /usr/local/bin/hub:
 	-brew install hub
-/usr/local/Caskroom/iterm2:
+/Applications/iTerm.app:
 	-brew cask install iterm2
 ~/com.googlecode.iterm2.plist: ~/py4ds/setup/macos/com.googlecode.iterm2.plist
 	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
-/usr/local/Caskroom/jetbrains-toolbox:
+/Applications/JetBrainsToolbox.app:
 	-brew cask install jetbrains-toolbox
+	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
 ~/.ideavimrc: ~/py4ds/setup/ideavim/.ideavimrc
 	curl https://raw.githubusercontent.com/py4ds/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
-/usr/local/Caskroom/karabiner-elements:
+/Applications/Karabiner-Elements.app:
 	-brew cask install karabiner-elements
 ~/.config/karabiner/karabiner.json: ~/py4ds/setup/macos/karabiner.json
 	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
@@ -180,7 +183,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json --create-dirs
 /usr/local/bin/scim:
 	-brew install sc-im
-/usr/local/Caskroom/shiftit:
+/Applications/ShiftIt.app:
 	-brew cask install shiftit
 ~/.SpaceVim:
 	-git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
@@ -207,8 +210,9 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.plug -o ~/.vimrc.plug
 ~/.vimrc.set: ~/py4ds/setup/vim/.vimrc.map
 	curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.set -o ~/.vimrc.set
-/usr/local/Caskroom/visual-studio-code:
+/Applications/VisualStudioCode.app:
 	-brew cask install visual-studio-code
+	-ln -fs /Applications/Visual\ Studio\ Code.app /Applications/VisualStudioCode.app
 ~/Library/ApplicationSupport/Code/User/settings.json: ~/py4ds/setup/vscode/settings.json
 	curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User/settings.json --create-dirs
 ~/Library/ApplicationSupport/Code/User/keybindings.json: ~/py4ds/setup/vscode/keybindings.json
