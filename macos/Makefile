@@ -146,9 +146,9 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew cask install jetbrains-toolbox
 ~/.ideavimrc: ~/py4ds/setup/ideavim/.ideavimrc
 	curl https://raw.githubusercontent.com/py4ds/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
-/usr/local/Caskroom/karabiner-elements: ~/py4ds/setup/macos/karabiner.json
+/usr/local/Caskroom/karabiner-elements:
 	-brew cask install karabiner-elements
-~/.config/karabiner/karabiner.json:
+~/.config/karabiner/karabiner.json: ~/py4ds/setup/macos/karabiner.json
 	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 /usr/local/bin/nvim:
 	-brew install neovim
@@ -167,7 +167,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
 ~/py4ds/setup/:
-	-git clone https://github.com/py4ds/setup
+	-git clone https://github.com/py4ds/setup ~/py4ds/setup
 /usr/local/bin/r:
 	-brew cask install r
 ~/miniconda/envs/r:
