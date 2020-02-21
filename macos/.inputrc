@@ -28,7 +28,8 @@ TAB: menu-complete
 ctrl-_: undo
 ctrl-a: beginning-of-line
 ctrl-b: backward-char
-ctrl-b: delete-char
+ctrl-d: delete-char
+ctrl-h: backward-delete-char
 ctrl-e: end-of-line
 ctrl-f: forward-char
 ctrl-k: kill-line
