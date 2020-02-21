@@ -61,13 +61,27 @@
 
     // Add any keybinding overrides to this array.
     // To unbind a default keybinding, set the command to "unbound"
-    "keybindings": 
+    "keybindings":
 	[
-       	 	{ "command": "closePane", "keys": ["alt+w"] },
-        	{ "command": "copy", "keys": ["win+c"] },
+       	 	{ "command": "closeTab", "keys": ["alt+w"] },
+       	 	{ "command": "closeWindow", "keys": ["alt+q"] },
+        	{ "command": "decreaseFontSize", "keys": ["alt+-"] },
+        	{ "command": "increaseFontSize", "keys": ["alt+"] },
+        	{ "command": "newTab", "keys": ["alt+t"] },
+        	{ "command": "nextTab", "keys": ["alt+shift+]"] },
+        	{ "command": "openSettings", "keys": ["alt+,"] },
         	{ "command": "paste", "keys": ["alt+v"] },
-        	{ "command": "undo", "keys": ["alt+z", "ctrl+-"] },
-        	{ "command": "newTab", "keys": ["alt+t"] }
+        	{ "command": "prevTab", "keys": ["alt+shift+["] },
+        	{ "command": "resetFontSize", "keys": ["alt+0"] },
+        	{ "command": "switchToTab0", "keys": ["alt+1"] },
+        	{ "command": "switchToTab1", "keys": ["alt+2"] },
+        	{ "command": "switchToTab2", "keys": ["alt+3"] },
+        	{ "command": "switchToTab3", "keys": ["alt+4"] },
+        	{ "command": "switchToTab4", "keys": ["alt+5"] },
+        	{ "command": "switchToTab5", "keys": ["alt+6"] },
+        	{ "command": "switchToTab6", "keys": ["alt+7"] },
+        	{ "command": "switchToTab7", "keys": ["alt+8"] },
+        	{ "command": "switchToTab8", "keys": ["alt+9"] }
 
 	]
 }
