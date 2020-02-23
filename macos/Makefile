@@ -132,7 +132,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew cask install flycut
 ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf:
 	-brew cask install homebrew/cask-fonts/font-firacode-nerd-font
-	-ln -fs Fira\ Code\ Regular\ Nerd\ Font\ Complete.otf FiraCodeRegularNerdFontComplete.otf
+	-ln -fs ~/Library/Fonts/Fira\ Code\ Regular\ Nerd\ Font\ Complete.otf ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 /usr/local/bin/fzf:
 	-brew install fzf
 	/usr/local/opt/fzf/install --no-fish --key-bindings --completion --update-rc
@@ -156,7 +156,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 /usr/local/bin/nvim:
 	-brew install neovim
 ~/.config/nvim/init.vim: ~/py4ds/setup/neovim/init.vim
-	curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_init.vim -o ~/.config/nvim/init.vim --create-dirs
+	curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim --create-dirs
 ~/.config/nvim/map.vim: ~/py4ds/setup/neovim/map.vim
 	curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/map.vim -o ~/.config/nvim/map.vim --create-dirs
 ~/.config/nvim/plug.vim: ~/py4ds/setup/neovim/plug.vim
