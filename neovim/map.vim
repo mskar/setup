@@ -27,11 +27,6 @@ noremap <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
 noremap <leader>te :tabe <C-R>=expand("%:p:h") . "/" <CR>
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
-nnoremap <silent> <leader>b :Buffers<CR>
-nnoremap <silent> gb :Buffers<CR>
-nnoremap <silent> <leader>z :FZF -m<CR>
-"Recovery commands from history through FZF
-nnoremap <silent> <leader>h :History<CR>
 
 noremap YY "+y<CR>
 noremap <leader>p "+gP<CR>
@@ -136,76 +131,11 @@ nnoremap [b :bp<CR><C-g>
 tnoremap ]b <C-\><C-n>:bn<CR><C-g>
 tnoremap [b <C-\><C-n>:bp<CR><C-g>
 
-" Run :file everytime I use a window command
-" Similar to how ]b and [b from unimpaired work
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
 " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
-nnoremap <C-w>+ <C-w>+<C-g>
-nnoremap <C-w>- <C-w>-<C-g>
-nnoremap <C-w>< <C-w><<C-g>
-nnoremap <C-w>= <C-w>=<C-g>
-nnoremap <C-w>> <C-w>><C-g>
-nnoremap <C-w>H <C-w>H<C-g>
-nnoremap <C-w>J <C-w>J<C-g>
-nnoremap <C-w>K <C-w>K<C-g>
-nnoremap <C-w>L <C-w>L<C-g>
-nnoremap <C-w>P <C-w>P<C-g>
-nnoremap <C-w>R <C-w>R<C-g>
-nnoremap <C-w>S <C-w>S<C-g>
-nnoremap <C-w>T <C-w>T<C-g>
-nnoremap <C-w>W <C-w>W<C-g>
-nnoremap <C-w>] <C-w>]<C-g>
-nnoremap <C-w>^ <C-w>^<C-g>
-nnoremap <C-w>_ <C-w>_<C-g>
-nnoremap <C-w>b <C-w>b<C-g>
-nnoremap <C-w>c <C-w>c<C-g>
-nnoremap <C-w>d <C-w>d<C-g>
-nnoremap <C-w>f <C-w>f<C-g>
-nnoremap <C-w>g <C-w>g<C-g>
-nnoremap <C-w>h <C-w>h<C-g>
-nnoremap <C-w>i <C-w>i<C-g>
-nnoremap <C-w>j <C-w>j<C-g>
-nnoremap <C-w>k <C-w>k<C-g>
-nnoremap <C-w>l <C-w>l<C-g>
-nnoremap <C-w>n <C-w>n<C-g>
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR><C-g>
-nnoremap <C-w>p <C-w>p<C-g>
-nnoremap <C-w>q <C-w>q<C-g>
-nnoremap <C-w>r <C-w>r<C-g>
-nnoremap <C-w>s <C-w>s<C-g>
-nnoremap <C-w>t <C-w>t<C-g>
-" https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>u :source ~/session.vim<CR>
-nnoremap <C-w>v <C-w>v<C-g>
-nnoremap <C-w>w <C-w>w<C-g>
-nnoremap <C-w>x <C-w>x<C-g>
-nnoremap <C-w>z <C-w>z<C-g>
-nnoremap <C-w>} <C-w>}<C-g>
-nnoremap <C-w><C-b> <C-w>b<C-g>
-nnoremap <C-w><C-c> <C-w>c<C-g>
-nnoremap <C-w><C-d> <C-w>d<C-g>
-nnoremap <C-w><C-f> <C-w>f<C-g>
-nnoremap <C-w><C-g> <C-w>g<C-g>
-nnoremap <C-w><C-h> <C-w>h<C-g>
-nnoremap <C-w><C-i> <C-w>i<C-g>
-nnoremap <C-w><C-j> <C-w>j<C-g>
-nnoremap <C-w><C-k> <C-w>k<C-g>
-nnoremap <C-w><C-l> <C-w>l<C-g>
-nnoremap <C-w><C-n> <C-w>n<C-g>
-nnoremap <C-w><C-o> <C-w>o<C-g>
-nnoremap <C-w><C-p> <C-w>p<C-g>
-nnoremap <C-w><C-q> <C-w>q<C-g>
-nnoremap <C-w><C-r> <C-w>r<C-g>
-nnoremap <C-w><C-s> <C-w>s<C-g>
-nnoremap <C-w><C-t> <C-w>t<C-g>
-nnoremap <C-w><C-v> <C-w>v<C-g>
-nnoremap <C-w><C-w> <C-w>w<C-g>
-nnoremap <C-w><C-x> <C-w>x<C-g>
-nnoremap <C-w><C-z> <C-w>z<C-g>
-nnoremap <C-w><C-]> <C-w>]<C-g>
-nnoremap <C-w><C-^> <C-w>^<C-g>
-nnoremap <C-w><C-_> <C-w>_<C-g>
 
 " Terminal like in vim
 tnoremap <C-w>+ <C-\><C-n><C-w>+
@@ -281,25 +211,26 @@ nnoremap <C-w>, <C-\><C-n>:bp<CR>
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
 nnoremap <silent> <leader>A :Ag<CR>
+nnoremap <silent> gb :Buffers<CR>
+"Recovery commands from history through FZF
+nnoremap <silent> <leader>h :History<CR>
 nnoremap <silent> <leader>B :BCommits<CR>
 nnoremap <silent> <leader>c :Commits<CR>
 nnoremap <silent> <leader>C :Commands<CR>
 nnoremap <silent> <leader>gf :GFiles<CR>
 nnoremap <silent> <leader>F :Files<CR>
 nnoremap <silent> <leader>H :Helptags<CR>
-nnoremap <silent> <leader>: :History:<CR>
-nnoremap <silent> <leader>/ :History/<CR>
 nnoremap <silent> g: :History:<CR>
 nnoremap <silent> g/ :History/<CR>
 nnoremap <silent> <leader>m :Maps<CR>
 nnoremap <silent> <leader>' :Marks<CR>
 nnoremap <silent> <leader>l :BLines<CR>
 nnoremap <silent> <leader>L :Lines<CR>
-" s is for syntax
 nnoremap <silent> <leader>R :Rg<CR>
 nnoremap <silent> <leader>y :Filetypes<CR>
 nnoremap <silent> <Leader>t :BTags<CR>
 nnoremap <silent> <Leader>T :Tags<CR>
+nnoremap <silent> <leader>z :FZF -m<CR>
 
 " https://github.com/junegunn/fzf.vim#usage
 " Mapping selecting mappings
@@ -344,67 +275,3 @@ inoremap <silent><A-C-b> <C-o>:call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.
 inoremap <silent><A-C-f> <C-o>:call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>
 vnoremap <silent><A-C-b> :<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>v`>o
 vnoremap <silent><A-C-f> <Esc>`>:<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>v`<o
-
-" Nvim-R mappings
-autocmd FileType r,rmd nnoremap <buffer> <C-w>a :!wmctrl -r "R Graphics" -b add,above
-autocmd FileType r,rmd nnoremap <buffer> <C-w>A :!wmctrl -r "R Graphics" -b remove,above
-" Keyboard shortcuts for <- -> and other operators in R specific files
-" https://github.com/jalvesaq/Nvim-R/issues/85
-" The trailing spaces below are intentional!
-autocmd FileType r,rmd inoremap <buffer> <A-n> <Esc>:normal! a %>%<CR>a<CR>
-autocmd FileType r,rmd inoremap <buffer> <A-m> <Esc>:normal! a %>%<CR>a 
-autocmd FileType r,rmd inoremap <buffer> <A-i> <Esc>:normal! a %in%<CR>a 
-autocmd FileType r,rmd inoremap <buffer> <A-,> <Esc>:normal! a <-<CR>a 
-autocmd FileType r,rmd inoremap <buffer> <A-.> <Esc>:normal! a -><CR>a 
-autocmd FileType r,rmd inoremap <buffer> <A-/> <Esc>:normal! a %/%<CR>a 
-autocmd FileType rmd inoremap <buffer> <A-i> <Esc>:normal! a ```{r}<CR>```<Esc>O
-
-autocmd FileType rmd nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
-autocmd FileType rmd nnoremap <buffer> <localleader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
-autocmd FileType r nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript %<CR>
-autocmd FileType python nnoremap <buffer> <localleader><CR> :w ! python3<CR>
-
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
-" https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
-" Remappings based on RStudio shortcuts: https://rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf
-"" Remapping the basic :: send line
-autocmd FileType r,rmd nnoremap <silent><buffer><A-Enter> :call SendLineToR("down")<CR>
-autocmd FileType r nnoremap <silent><buffer><A-S-Enter> :call SendFileToR("echo")<CR>
-autocmd FileType rmd nnoremap <silent><buffer><A-S-Enter> :call b:SendChunkToR("echo", "down")<CR>
-"" Remapping selection :: send multiple lines + echo lines
-vmap <A-Enter> <Plug>REDSendSelection
-vmap <localleader>o <Plug>RSendSelAndInsertOutput
-autocmd FileType r,rmd nnoremap <silent><buffer><A-S-0> :call RClearAll()<CR>
-autocmd FileType r nnoremap <silent><buffer><A-a> :call SendAboveLinesToR()<CR>
-autocmd FileType rmd nnoremap <silent><buffer><A-p> :call SendFHChunkToR()<CR>
-autocmd FileType rmd nnoremap <silent><buffer><A-i> :normal! a ```{r}<CR>```<Esc>O
-autocmd FileType r,rmd nnoremap <silent><buffer><C-l> :call RClearConsole()<CR>
-" Remapping double character nvim-R mappings to single character
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>- :call RBrOpenCloseLs(0)<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>0 :call RObjBrowser()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>; :call MovePosRCodeComment("normal")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>= :call RBrOpenCloseLs(1)<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>a :call :call SendFileToR("echo")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>b :call SendMBlockToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>c :call b:SendChunkToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>d :call RSetWD()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>e :call RAction("example")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>f :call SendFunctionToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>g :call RAction("plot")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>h :call RAction("help")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>i :call RAction("print")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>k :call RKnit()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>l :call g:SendCmdToR("ls()")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>m :set opfunc=SendMotionToR<CR>g@
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>n :call RAction("nvim.names")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>o :call SendLineToRAndInsertOutput()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>p :call SendParagraphToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>q :call RQuit("nosave")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>r :call RAction("args")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>s :call StartR("R")<CR>:RStop<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>t :call RAction("str")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>u :call RAction("summary")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>v :call RAction("viewdf", ", location='vsplit'")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>w :call RMakeRmd("word_document")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>x :call RComment("normal")<CR>
-

@@ -11,3 +11,7 @@ endif
 if filereadable(expand("~/.config/nvim/map.vim"))
   source ~/.config/nvim/map.vim
 endif
+
+if filereadable(expand("~/.config/nvim/au.vim"))
+  source ~/.config/nvim/au.vim
+endif

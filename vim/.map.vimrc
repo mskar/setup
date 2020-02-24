@@ -62,11 +62,6 @@ nnoremap <silent> <leader>rg :Rgrep<CR>
 nnoremap <silent> <leader>sh :terminal<CR>
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
-nnoremap <silent> <leader>b :Buffers<CR>
-nnoremap <silent> gb :Buffers<CR>
-nnoremap <silent> <leader>z :FZF -m<CR>
-"Recovery commands from history through FZF
-nnoremap <silent> <leader>h :History<CR>
 
 " Use tab for trigger completion with characters ahead and navigate.
 " Use command ':verbose imap <tab>' to make sure tab is not mapped by other plugin.
@@ -106,24 +101,6 @@ function! s:show_documentation()
   endif
 endfunction
 
-" Highlight symbol under cursor on CursorHold
-autocmd CursorHold * silent call CocActionAsync('highlight')
-
-" Remap for rename current word
-nmap <leader>rn <Plug>(coc-rename)
-
-" Remap for format selected region
-xmap <leader>f  <Plug>(coc-format-selected)
-nmap <leader>f  <Plug>(coc-format-selected)
-
-augroup mygroup
-  autocmd!
-  " Setup formatexpr specified filetype(s).
-  autocmd FileType typescript,json setl formatexpr=CocAction('formatSelected')
-  " Update signature help on jump placeholder
-  autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
-augroup end
-
 " Remap for do codeAction of selected region, ex: `<leader>aap` for current paragraph
 xmap <leader>a  <Plug>(coc-codeaction-selected)
 nmap <leader>a  <Plug>(coc-codeaction-selected)
@@ -138,19 +115,6 @@ xmap if <Plug>(coc-funcobj-i)
 xmap af <Plug>(coc-funcobj-a)
 omap if <Plug>(coc-funcobj-i)
 omap af <Plug>(coc-funcobj-a)
-
-" Use <TAB> for select selections ranges, needs server support, like: coc-tsserver, coc-python
-" nmap <silent> <TAB> <Plug>(coc-range-select)
-" xmap <silent> <TAB> <Plug>(coc-range-select)
-
-" Use `:Format` to format current buffer
-command! -nargs=0 Format :call CocAction('format')
-
-" Use `:Fold` to fold current buffer
-command! -nargs=? Fold :call     CocAction('fold', <f-args>)
-
-" use `:OR` for organize import of current buffer
-command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organizeImport')
 
 " Using CocList
 " Show all diagnostics
@@ -233,12 +197,6 @@ inoremap <C-_> <C-o>u
 " inoremap <A-.> <Esc>a<C-r>.
 " cnoremap <A-.> <C-r>.
 
-" Run :file everytime I switch to alternate file (^6)
-nnoremap <C-^> <C-^><C-g>
-tnoremap <C-^> <C-\><C-n><C-^><C-g>
-" Run :file everytime I go thru the jump list
-nnoremap <C-o> <C-o><C-g>
-nnoremap <C-i> <C-i><C-g>
 " Switch buffers
 nnoremap <C-w>; :bn<CR><C-g>
 nnoremap <C-w>, :bp<CR><C-g>
@@ -249,99 +207,35 @@ nnoremap [b :bp<CR><C-g>
 tnoremap ]b <C-\><C-n>:bn<CR><C-g>
 tnoremap [b <C-\><C-n>:bp<CR><C-g>
 
-" Run :file everytime I use a window command
-" Similar to how ]b and [b from unimpaired work
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
 " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
-nnoremap <C-w>+ <C-w>+<C-g>
-nnoremap <C-w>- <C-w>-<C-g>
-nnoremap <C-w>< <C-w><<C-g>
-nnoremap <C-w>= <C-w>=<C-g>
-nnoremap <C-w>> <C-w>><C-g>
-nnoremap <C-w>H <C-w>H<C-g>
-nnoremap <C-w>J <C-w>J<C-g>
-nnoremap <C-w>K <C-w>K<C-g>
-nnoremap <C-w>L <C-w>L<C-g>
-nnoremap <C-w>P <C-w>P<C-g>
-nnoremap <C-w>R <C-w>R<C-g>
-nnoremap <C-w>S <C-w>S<C-g>
-nnoremap <C-w>T <C-w>T<C-g>
-nnoremap <C-w>W <C-w>W<C-g>
-nnoremap <C-w>] <C-w>]<C-g>
-nnoremap <C-w>^ <C-w>^<C-g>
-nnoremap <C-w>_ <C-w>_<C-g>
-nnoremap <C-w>b <C-w>b<C-g>
-nnoremap <C-w>c <C-w>c<C-g>
-nnoremap <C-w>d <C-w>d<C-g>
-nnoremap <C-w>f <C-w>f<C-g>
-nnoremap <C-w>g <C-w>g<C-g>
-nnoremap <C-w>h <C-w>h<C-g>
-nnoremap <C-w>i <C-w>i<C-g>
-nnoremap <C-w>j <C-w>j<C-g>
-nnoremap <C-w>k <C-w>k<C-g>
-nnoremap <C-w>l <C-w>l<C-g>
-nnoremap <C-w>n <C-w>n<C-g>
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR><C-g>
-nnoremap <C-w>p <C-w>p<C-g>
-nnoremap <C-w>q <C-w>q<C-g>
-nnoremap <C-w>r <C-w>r<C-g>
-nnoremap <C-w>s <C-w>s<C-g>
-nnoremap <C-w>t <C-w>t<C-g>
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>u :source ~/session.vim<CR>
-nnoremap <C-w>v <C-w>v<C-g>
-nnoremap <C-w>w <C-w>w<C-g>
-nnoremap <C-w>x <C-w>x<C-g>
-nnoremap <C-w>z <C-w>z<C-g>
-nnoremap <C-w>} <C-w>}<C-g>
-nnoremap <C-w><C-b> <C-w>b<C-g>
-nnoremap <C-w><C-c> <C-w>c<C-g>
-nnoremap <C-w><C-d> <C-w>d<C-g>
-nnoremap <C-w><C-f> <C-w>f<C-g>
-nnoremap <C-w><C-g> <C-w>g<C-g>
-nnoremap <C-w><C-h> <C-w>h<C-g>
-nnoremap <C-w><C-i> <C-w>i<C-g>
-nnoremap <C-w><C-j> <C-w>j<C-g>
-nnoremap <C-w><C-k> <C-w>k<C-g>
-nnoremap <C-w><C-l> <C-w>l<C-g>
-nnoremap <C-w><C-n> <C-w>n<C-g>
-nnoremap <C-w><C-o> <C-w>o<C-g>
-nnoremap <C-w><C-p> <C-w>p<C-g>
-nnoremap <C-w><C-q> <C-w>q<C-g>
-nnoremap <C-w><C-r> <C-w>r<C-g>
-nnoremap <C-w><C-s> <C-w>s<C-g>
-nnoremap <C-w><C-t> <C-w>t<C-g>
-nnoremap <C-w><C-v> <C-w>v<C-g>
-nnoremap <C-w><C-w> <C-w>w<C-g>
-nnoremap <C-w><C-x> <C-w>x<C-g>
-nnoremap <C-w><C-z> <C-w>z<C-g>
-nnoremap <C-w><C-]> <C-w>]<C-g>
-nnoremap <C-w><C-^> <C-w>^<C-g>
-nnoremap <C-w><C-_> <C-w>_<C-g>
 
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
 nnoremap <silent> <leader>A :Ag<CR>
-nnoremap <silent> <leader>B :BCommits<CR>
+nnoremap <silent> gB :BCommits<CR>
+nnoremap <silent> gb :Buffers<CR>
+nnoremap <silent> <leader>h :History<CR>
 nnoremap <silent> <leader>c :Commits<CR>
 nnoremap <silent> <leader>C :Commands<CR>
 nnoremap <silent> <leader>gf :GFiles<CR>
 nnoremap <silent> <leader>F :Files<CR>
 nnoremap <silent> <leader>H :Helptags<CR>
-nnoremap <silent> <leader>: :History:<CR>
-nnoremap <silent> <leader>/ :History/<CR>
 nnoremap <silent> g: :History:<CR>
 nnoremap <silent> g/ :History/<CR>
 nnoremap <silent> <leader>m :Maps<CR>
 nnoremap <silent> <leader>' :Marks<CR>
 nnoremap <silent> <leader>l :BLines<CR>
 nnoremap <silent> <leader>L :Lines<CR>
-" s is for syntax
 nnoremap <silent> <leader>R :Rg<CR>
 nnoremap <silent> <leader>y :Filetypes<CR>
 nnoremap <silent> <Leader>t :BTags<CR>
 nnoremap <silent> <Leader>T :Tags<CR>
+nnoremap <silent> <leader>z :FZF -m<CR>
 
 " https://github.com/junegunn/fzf.vim#usage
 " Mapping selecting mappings
@@ -355,4 +249,11 @@ imap <c-x><c-j> <plug>(fzf-complete-file-ag)
 imap <c-x><c-l> <plug>(fzf-complete-line)
 " Advanced customization using autoload functions
 inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
+
+" Remap for rename current word
+nmap <leader>rn <Plug>(coc-rename)
+
+" Remap for format selected region
+xmap <leader>f  <Plug>(coc-format-selected)
+nmap <leader>f  <Plug>(coc-format-selected)
 
