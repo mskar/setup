@@ -10,7 +10,7 @@ VSCODE_LIVESHARE = $(wildcard ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 
-all: brew zsh repo bash bat exa fasd fd flycut font fzf gitconfig hub iterm jetbrains karabiner neovim pyenv rstudio scim shiftit spacevim tmux toolbox vim vscode xpdf
+all: bash bat brew conda exa fasd fd flycut font fzf gitconfig hub iterm jetbrains karabiner neovim pyenv rstudio scim shiftit spacevim tmux toolbox vim vscode xpdf zsh
 
 bash: bash-exe bash_profile inputrc
 iterm: iterm-exe iterm-config
@@ -28,7 +28,7 @@ bash-exe: /usr/local/bin/bash
 bash_profile: ~/.bash_profile
 bat: /usr/local/bin/bat
 brew: /usr/local/bin/brew
-# conda: ~/miniconda
+conda: ~/miniconda
 exa: /usr/local/bin/exa
 fasd: /usr/local/bin/fasd
 fd: /usr/local/bin/fd
@@ -51,8 +51,8 @@ neovim-set: ~/.config/nvim/set.vim
 neovim-au: ~/.config/nvim/au.vim
 omz: ~/.oh-my-zsh
 pl9k: ~/.oh-my-zsh/themes/powerlevel9k
-# pyenv: ~/miniconda/envs/py
-# renv: ~/miniconda/envs/r
+pyenv: ~/miniconda/envs/py
+renv: ~/miniconda/envs/r
 repo: ~/py4ds/setup
 rstats: /usr/local/bin/r
 rstudio-editor-bindings: ~/.R/rstudio/keybindings/editor_bindings.json
@@ -122,10 +122,10 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew install bat
 /usr/local/bin/brew:
 	-curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install | ruby
-# ~/miniconda/bin/conda:
-# 	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
-# 	-bash ~/miniconda.sh -bp ~/miniconda
-# 	-conda install -yc conda-forge nodejs neovim pybtex
+~/miniconda/bin/conda:
+	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
+	-bash ~/miniconda.sh -bp ~/miniconda
+	-conda install -yc conda-forge nodejs neovim pybtex
 /usr/local/bin/exa:
 	-brew install exa
 /usr/local/bin/fasd:
@@ -173,14 +173,14 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh | sh
 ~/.oh-my-zsh/themes/powerlevel9k:
 	-git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
-# ~/miniconda/envs/py:
-# 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
+~/miniconda/envs/py:
+	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
 ~/py4ds/setup/:
 	-git clone https://github.com/py4ds/setup ~/py4ds/setup
 /usr/local/bin/r:
 	-brew cask install r
-# ~/miniconda/envs/r:
-# 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
+~/miniconda/envs/r:
+	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
 ~/.rstudio-desktop/monitored/user-settings/user-settings: ~/py4ds/setup/rstudio/user-settings
 	curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
 ~/.rstudio-desktop/keybindings/editor_bindings.json: ~/py4ds/setup/rstudio/editor_bindings.json
@@ -251,4 +251,4 @@ clean:
 	rm -rf ~/.tmux
 	rm -rf ~/.tmux/plugins/tpm
 
-.PHONY: bash iterm jetbrains karabiner neovim rstudio spacevim tmux vim vscode zsh bat brew conda exa fasd fd flycut font fzf gitconfig hub pyenv scim shiftit toolbox xpdf bash-exe bash_profile ideavimrc inputrc iterm-config iterm-exe karabiner-config karabiner-exe neovim-exe neovim-init neovim-map neovim-plug neovim-set omz pl9k renv rstats rstudio-editor-bindings rstudio-ide-bindings rstudio-settings spacevim-config-toml spacevim-config-vim spacevim-exe tmux-exe tmux-dot tmux-local tmux-plug vim-exe vim-map vim-plug vim-set vim-config vscode-exe vscode-keybindings vscode-liveshare vscode-python vscode-settings vscode-vim zsh-autosuggestions zsh-syntax-highlighting zshrc
+.PHONY: bash iterm jetbrains karabiner neovim rstudio spacevim tmux vim vscode zsh bat brew conda exa fasd fd flycut font fzf gitconfig hub pyenv scim shiftit toolbox xpdf bash-exe bash_profile ideavimrc inputrc iterm-config iterm-exe karabiner-config karabiner-exe neovim-au neovim-exe neovim-init neovim-map neovim-plug neovim-set omz pl9k renv rstats rstudio-editor-bindings rstudio-ide-bindings rstudio-settings spacevim-config-toml spacevim-config-vim spacevim-exe tmux-exe tmux-dot tmux-local tmux-plug vim-au vim-exe vim-map vim-plug vim-set vim-config vscode-exe vscode-keybindings vscode-liveshare vscode-python vscode-settings vscode-vim zsh-autosuggestions zsh-syntax-highlighting zshrc
