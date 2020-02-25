@@ -28,7 +28,7 @@ bash-exe: /usr/local/bin/bash
 bash_profile: ~/.bash_profile
 bat: /usr/local/bin/bat
 brew: /usr/local/bin/brew
-conda: ~/miniconda
+conda: ~/miniconda/bin/conda
 exa: /usr/local/bin/exa
 fasd: /usr/local/bin/fasd
 fd: /usr/local/bin/fd
