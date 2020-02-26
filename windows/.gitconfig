@@ -47,4 +47,6 @@
     email = marskar@gmail.com
     name = Martin Skarzynski
 [credential]
-    helper = /mnt/c/Users/$(whoami)/AppData/Local/Programs/Git/mingw64/libexec/git-core/git-credential-manager.exe
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe
+[http]
+	sslverify = false
