@@ -337,7 +337,6 @@ alias urum="git pull --rebase upstream master"
 alias bi="brew install"
 alias bl="brew list"
 alias br="git branch --remotes"
-alias bs="brew search"
 ## conda
 alias ca="conda activate"
 alias cda="conda deactivate"
