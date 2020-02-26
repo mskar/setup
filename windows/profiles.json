@@ -27,6 +27,7 @@
             "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
             "hidden": false,
             "name": "Debian",
+            "commandline": "wsl.exe -d Debian -u marskar",
             "fontFace":  "FuraCode NF",
             "closeOnExit" : true,
             "source": "Windows.Terminal.Wsl"
@@ -35,6 +36,7 @@
             "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
             "hidden": false,
             "name": "kali-linux",
+            "commandline": "wsl.exe -d kali-linux -u marskar",
             "fontFace":  "FuraCode NF",
             "closeOnExit" : true,
             "source": "Windows.Terminal.Wsl"
@@ -43,6 +45,7 @@
             "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
             "hidden": false,
             "name": "Ubuntu",
+            "commandline": "wsl.exe -d Ubuntu -u marskar",
             "fontFace":  "FuraCode NF",
             "closeOnExit" : true,
             "source": "Windows.Terminal.Wsl"
