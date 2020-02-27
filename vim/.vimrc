@@ -1,13 +1,17 @@
 " vim-bootstrap (https://vim-bootstrap.com)
 
-if filereadable(expand("~/.vimrc.plug"))
-  source ~/.vimrc.plug
+if filereadable(expand("~/.au.vimrc"))
+  source ~/.au.vimrc
 endif
 
-if filereadable(expand("~/.vimrc.map"))
-  source ~/.vimrc.map
+if filereadable(expand("~/.plug.vimrc"))
+  source ~/.plug.vimrc
 endif
 
-if filereadable(expand("~/.vimrc.set"))
-  source ~/.vimrc.set
+if filereadable(expand("~/.map.vimrc"))
+  source ~/.map.vimrc
+endif
+
+if filereadable(expand("~/.set.vimrc"))
+  source ~/.set.vimrc
 endif
