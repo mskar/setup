@@ -96,14 +96,18 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.inputrc -o ~/.i
 ### Vim
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.map -o ~/.vimrc.map
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.au.vimrc -o ~/.au.vimrc
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.plug -o ~/.vimrc.plug
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.map.vimrc -o ~/.map.vimrc
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.set -o ~/.vimrc.set
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.plug.vimrc -o ~/.plug.vimrc
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.set.vimrc -o ~/.set.vimrc
 
 ### Neovim
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_init.vim -o ~/.config/nvim/init.vim --create-dirs
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/au.vim -o ~/.config/nvim/au.vim
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/map.vim -o ~/.config/nvim/map.vim
 

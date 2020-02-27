@@ -83,13 +83,13 @@ brew install bash bat exa fasd fd fzf hub neovim sc-im tmux vim xpdf
 ### Vim
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
 
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.au.vimrc -o ~/.au.vimrc
+
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.map.vimrc -o ~/.map.vimrc
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.plug.vimrc -o ~/.plug.vimrc
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.set.vimrc -o ~/.set.vimrc
-
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.au.vimrc -o ~/.au.vimrc
 
 ### Neovim
 curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim --create-dirs
