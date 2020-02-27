@@ -14,19 +14,43 @@
 # Optional: Install [Hyper terminal](https://hyper.is/) as a backup
 
 # Install Linux distros via Microsoft Store
+- Debian
+- Kali
+- Ubuntu
 
-# In Windows Terminal (or Hyper)
+# In Windows Terminal (or Hyper), install shell dependencies
 sudo apt-get update && apt-get upgrade
-
-# Install curl
-sudo apt install curl -y
+sudo apt-get install build-essential curl file git -y
 
 # Download terminal config files
+
+## Hyper
 curl https://raw.githubusercontent.com/py4ds/setup/master/windows/profile.json -o /mnt/c/Users/*/AppData/Roaming/Hyper/profile.json --create-dirs
 
+## Windows Terminal
 curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.hyper.js -o /mnt/c/Users/*/AppData/Roaming/Hyper/.hyper.js --create-dirs
 
-# Install Z shell
+# Install homebrew
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+
+## Configure Homebrew in your ~/.profile by running
+echo "eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)" >>~/.profile
+
+## Add Homebrew to your PATH
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+## We recommend that you install GCC by running:
+brew install gcc
+
+# Install Z shell and oh-my-zsh et al.
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+
 sudo apt install zsh -y
 
 # Install git
