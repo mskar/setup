@@ -1,3 +1,5 @@
+# For Kali Linux
+ZSH_DISABLE_COMPFIX=true
 # Enable vim to access system clipboard (https://superuser.com/a/1345241)
 DISPLAY=localhost:0.0
 # Add homebrew to PATH
