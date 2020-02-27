@@ -10,20 +10,6 @@
     "profiles":
     [
         {
-            // Make changes here to the powershell.exe profile
-            "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-            "name": "Windows PowerShell",
-            "commandline": "powershell.exe",
-            "hidden": false
-        },
-        {
-            // Make changes here to the cmd.exe profile
-            "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-            "name": "cmd",
-            "commandline": "cmd.exe",
-            "hidden": false
-        },
-        {
             "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
             "hidden": false,
             "name": "Debian",
@@ -51,6 +37,19 @@
             "source": "Windows.Terminal.Wsl"
         },
         {
+            "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+            "name": "Windows PowerShell",
+            "commandline": "powershell.exe",
+            "hidden": false
+        },
+        {
+            // Make changes here to the cmd.exe profile
+            "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+            "name": "cmd",
+            "commandline": "cmd.exe",
+            "hidden": false
+        },
+        {
             "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
             "hidden": false,
             "name": "Azure Cloud Shell",
@@ -75,7 +74,6 @@
         	{ "command": "openSettings", "keys": ["alt+,"] },
         	{ "command": "paste", "keys": ["alt+v"] },
         	{ "command": "prevTab", "keys": ["alt+shift+["] },
-        	{ "command": "resetFontSize", "keys": ["alt+0"] },
         	{ "command": "switchToTab0", "keys": ["alt+1"] },
         	{ "command": "switchToTab1", "keys": ["alt+2"] },
         	{ "command": "switchToTab2", "keys": ["alt+3"] },
@@ -84,7 +82,23 @@
         	{ "command": "switchToTab5", "keys": ["alt+6"] },
         	{ "command": "switchToTab6", "keys": ["alt+7"] },
         	{ "command": "switchToTab7", "keys": ["alt+8"] },
-        	{ "command": "switchToTab8", "keys": ["alt+9"] }
-
+        	{ "command": "switchToTab8", "keys": ["alt+9"] },
+            { "command": "duplicateTab", "keys": [ "alt+shift+d" ] },
+            { "command": "nextTab", "keys": [ "ctrl+tab" ] },
+            { "command": "openNewTabDropdown", "keys": [ "ctrl+shift+space" ] },
+            { "command": "resetFontSize", "keys": ["alt+0"] },
+            { "command": { "action": "moveFocus", "direction": "down" }, "keys": [ "alt+j" ] },
+            { "command": { "action": "moveFocus", "direction": "left" }, "keys": [ "alt+h" ] },
+            { "command": { "action": "moveFocus", "direction": "right" }, "keys": [ "alt+l" ] },
+            { "command": { "action": "moveFocus", "direction": "up" }, "keys": [ "alt+k" ] },
+            { "command": { "action": "newTab", "index": 0 }, "keys": ["alt+shift+1"] },
+            { "command": { "action": "newTab", "index": 1 }, "keys": ["alt+shift+2"] },
+            { "command": { "action": "newTab", "index": 2 }, "keys": ["alt+shift+3"] },
+            { "command": { "action": "newTab", "index": 3 }, "keys": ["alt+shift+4"] },
+            { "command": { "action": "newTab", "index": 4 }, "keys": ["alt+shift+5"] },
+            { "command": { "action": "newTab", "index": 5 }, "keys": ["alt+shift+6"] },
+            { "command": { "action": "newTab", "index": 6 }, "keys": ["alt+shift+7"] },
+            { "command": { "action": "newTab", "index": 7 }, "keys": ["alt+shift+8"] },
+            { "command": { "action": "newTab", "index": 8 }, "keys": ["alt+shift+9"] }
 	]
 }
