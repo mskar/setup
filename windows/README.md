@@ -9,19 +9,22 @@
 # Install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - Activate Windows Subsystem for Linux via the Windows Features GUI
 
-# Install Hyper terminal https://hyper.is/
+# Install [Windows Terminal](https://github.com/microsoft/terminal#installing-and-running-windows-terminal) via Microsoft Store
 
-# In Hyper
-wsl.exe
+# Optional: Install [Hyper terminal](https://hyper.is/) as a backup
 
-# Update apt-get
+# Install Linux distros via Microsoft Store
+
+# In Windows Terminal (or Hyper)
 sudo apt-get update && apt-get upgrade
 
 # Install curl
 sudo apt install curl -y
 
-# Add hyper config file to the path below (Replace userName in the path in the `curl` command below)
-curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.hyper.js -o /mnt/c/Users/{userName}/AppData/Roaming/Hyper/.hyper.js
+# Download terminal config files
+curl https://raw.githubusercontent.com/py4ds/setup/master/windows/profile.json -o /mnt/c/Users/*/AppData/Roaming/Hyper/profile.json --create-dirs
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.hyper.js -o /mnt/c/Users/*/AppData/Roaming/Hyper/.hyper.js --create-dirs
 
 # Install Z shell
 sudo apt install zsh -y
