@@ -13,6 +13,8 @@
 
 # Optional: Install [Hyper terminal](https://hyper.is/) as a backup
 
+# [Install FiraCode font](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Regular/complete/Fura%20Code%20Regular%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf) (download and double click)
+
 # Install Linux distros via Microsoft Store
 - Debian
 - Kali
@@ -21,6 +23,7 @@
 # In Windows Terminal (or Hyper), install shell dependencies
 sudo apt-get update && apt-get upgrade
 sudo apt-get install build-essential curl file git -y
+
 
 # Download terminal config files
 
@@ -51,49 +54,98 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 
-sudo apt install zsh -y
+# Download config files
+curl https://raw.githubusercontent.com/py4ds/setup/master/windows/.zshrc -o ~/.zshrc
 
-# Install git
-sudo apt install git -y
+curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
+
+# Set up terminal clipboard (https://superuser.com/a/1345241)
+- Install VcXsrv (if it starts after installing, stop it).
+- Start it using the newly installed program XLaunch (search in the start menu).
+- Go with all the defaults options, and ensure the clipboard options are checked.
+- At the end, save the configuration to a file, config.xlaunch (use that to start it from now on).
 
 # Install vim and neovim
 sudo apt install vim-gtk3 -y
 sudo apt install neovim -y
 sudo apt install make -y
 
-# [Install FiraCode font](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraCode/Regular/complete/Fura%20Code%20Regular%20Nerd%20Font%20Complete%20Windows%20Compatible.ttf) (download and double click)
+# Shell programs needed for aliases
+## Install fzf (fuzzy finder)
+## Install bat and exa (for fzf file preview)
+## Install fasd and fd (to provide inputs for fzf)
+## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
+## Install vim and neovim
+# kali linux: sudo apt install gcc clang
+brew install bash bat exa fasd fd fzf hub neovim sc-im tmux vim xpdf
 
-# Install oh-my-zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-### When prompted to change shell, enter Y
-
-git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
-
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
-
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
-
-curl https://raw.githubusercontent.com/py4ds/setup/blob/master/windows/.zshrc -o ~/.zshrc && source ~/.zshrc
-
-# Install fzf
-git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
-
-~/.fzf/install
-
-# Add git and vim config files
-curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
-
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local -o ~/.vimrc.local
-
-curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.local.bundles -o ~/.vimrc.local.bundles
-
+## Download dotfiles (configuration files)
+### Vim
 curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_init.vim -o ~/.config/nvim/local_init.vim --create-dirs
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.map -o ~/.vimrc.map
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_bundles.vim -o ~/.config/nvim/local_bundles.vim
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.plug -o ~/.vimrc.plug
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim
+curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc.set -o ~/.vimrc.set
+
+### Neovim
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/local_init.vim -o ~/.config/nvim/init.vim --create-dirs
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/map.vim -o ~/.config/nvim/map.vim
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/plug.vim -o ~/.config/nvim/plug.vim
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/set.vim -o ~/.config/nvim/set.vim
+
+### SpaceVim
+git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o ~/.SpaceVim.d/init.toml --create-dirs
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
+
+### JetBrains IDEs
+curl https://raw.githubusercontent.com/py4ds/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
+
+## Set up oh my tmux
+git clone https://github.com/gpakosz/.tmux ~/.tmux
+
+cd
+
+ln -s -f ~/.tmux/.tmux.conf
+
+cp ~/.tmux/.tmux.conf.local ~
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
+
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
+# Python and R
+
+## Install miniconda Python
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
+
+bash ~/miniconda.sh -bp $HOME/miniconda
+
+## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
+### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
+conda install -yc conda-forge nodejs neovim pybtex
+
+#### I don't use jupyterlab-git extension, I only demo it in classes
+##### jupyter labextension install @jupyterlab/git
+##### jupyter serverextension enable --py jupyterlab_git
+
+conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
+
+##### jupyter labextension install jupyterlab_vim
+
+## Set up jupyterlab-github extension
+#### jupyter labextension install @jupyterlab/github
+#### pip install jupyterlab_github
+##### Provide access token to GitHub extension
+##### https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
+
 
 # Install miniconda
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o install_miniconda.sh && bash install_miniconda.sh
