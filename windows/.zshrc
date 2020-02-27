@@ -1,3 +1,7 @@
+# Allow vim copy to system clipboard https://superuser.com/a/1345241
+DISPLAY=localhost:0.0
+# Add homebrew to PATH
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
