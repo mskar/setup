@@ -1,4 +1,4 @@
-# Allow vim copy to system clipboard https://superuser.com/a/1345241
+# Enable vim to access system clipboard (https://superuser.com/a/1345241)
 DISPLAY=localhost:0.0
 # Add homebrew to PATH
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
