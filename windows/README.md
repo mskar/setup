@@ -65,11 +65,6 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitco
 - Go with all the defaults options, and ensure the clipboard options are checked.
 - At the end, save the configuration to a file, config.xlaunch (use that to start it from now on).
 
-# Install vim and neovim
-sudo apt install vim-gtk3 -y
-sudo apt install neovim -y
-sudo apt install make -y
-
 # Shell programs needed for aliases
 ## Install fzf (fuzzy finder)
 ## Install bat and exa (for fzf file preview)
@@ -128,9 +123,9 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 # Python and R
 
 ## Install miniconda Python
-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o ~/miniconda.sh
 
-bash ~/miniconda.sh -bp $HOME/miniconda
+bash ~/miniconda.sh -bp ~/miniconda
 
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
