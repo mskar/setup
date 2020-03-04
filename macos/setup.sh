@@ -147,7 +147,7 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
-conda install -yc conda-forge nodejs neovim pybtex
+conda install -yc conda-forge cookiecutter nodejs neovim pybtex
 
 #### I don't use jupyterlab-git extension, I only demo it in classes
 ##### jupyter labextension install @jupyterlab/git

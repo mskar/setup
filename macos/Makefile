@@ -125,7 +125,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 ~/miniconda/bin/conda:
 	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 	-bash ~/miniconda.sh -bp ~/miniconda
-	-conda install -yc conda-forge nodejs neovim pybtex
+	-conda install -yc conda-forge cookiecutter nodejs neovim pybtex
 /usr/local/bin/exa:
 	-brew install exa
 /usr/local/bin/fasd:

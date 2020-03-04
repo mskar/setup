@@ -88,7 +88,7 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~
 
 bash ~/miniconda.sh -bp $HOME/miniconda
 
-conda install -yc conda-forge nodejs neovim pybtex
+conda install -yc conda-forge cookiecutter nodejs neovim pybtex
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
 
