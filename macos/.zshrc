@@ -44,7 +44,7 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status background_jobs vcs virtualenv anacon
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 
-POWERLEVEL9K_TIME_FORMAT="%D{%Y-%m-%d \uf073 %H:%M \uf017}" # \uf017 = clock
+POWERLEVEL9K_TIME_FORMAT="%D{%Y-%m-%d \uf073 %H:%M}" # \uf017 = clock
 
 POWERLEVEL9K_STATUS_VERBOSE=false
 #https://github.com/bhilburn/powerlevel9k
@@ -412,6 +412,9 @@ alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf --d
 # list files and dirs
 ## exa
 alias e="exa --all --classify --color=always"
+alias et="exa --all --classify --color=always --tree"
+alias el="exa --all --classify --color=always --tree | less"
+alias em="exa --all --classify --color=always --tree | more"
 ## fasd
 ### use fasd builtin f alias: alias f='fasd -f'
 alias fl='fasd -fl'
