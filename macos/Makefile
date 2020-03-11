@@ -53,7 +53,7 @@ omz: ~/.oh-my-zsh
 pl9k: ~/.oh-my-zsh/themes/powerlevel9k
 pyenv: ~/miniconda/envs/py
 renv: ~/miniconda/envs/r
-repo: ~/py4ds/setup
+repo: ~/mskar/setup
 rstats: /usr/local/bin/r
 rstudio-editor-bindings: ~/.R/rstudio/keybindings/editor_bindings.json
 rstudio-ide-bindings: ~/.R/rstudio/keybindings/rstudio_bindings.json
@@ -86,38 +86,38 @@ zsh-syntax-highlighting: ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 zshrc: ~/.zshrc
 xcode-devtools: /Library/Developer/CommandLineTools/
 
-~/py4ds/setup/neovim/au.vim: repo
-~/py4ds/setup/neovim/init.vim: repo
-~/py4ds/setup/neovim/map.vim: repo
-~/py4ds/setup/neovim/plug.vim: repo
-~/py4ds/setup/neovim/set.vim: repo
-~/py4ds/setup/vim/.vimrc: repo
-~/py4ds/setup/vim/.map.vimrc: repo
-~/py4ds/setup/vim/.plug.vimrc: repo
-~/py4ds/setup/vim/.set.vimrc: repo
-~/py4ds/setup/vim/.au.vimrc: repo
-~/py4ds/setup/.tmux.conf.local: repo
-~/py4ds/setup/macos/.zshrc: repo
-~/py4ds/setup/macos/.bash_profile: repo
-~/py4ds/setup/macos/.inputrc: repo
-~/py4ds/setup/.gitconfig: repo
-~/py4ds/setup/ideavim/.ideavimrc: repo
-~/py4ds/setup/macos/karabiner.json: repo
-~/py4ds/setup/vscode/keybindings.json: repo
-~/py4ds/setup/vscode/settings.json: repo
-~/py4ds/setup/rstudio/user-settings: repo
-~/py4ds/setup/rstudio/editor_bindings.json: repo
-~/py4ds/setup/rstudio/rstudio_bindings.json: repo
-~/py4ds/setup/spacevim/init.toml: repo
-~/py4ds/setup/spacevim/myspacevim.vim: repo
-~/py4ds/setup/macos/com.googlecode.iterm2.plist: repo
+~/mskar/setup/neovim/au.vim: repo
+~/mskar/setup/neovim/init.vim: repo
+~/mskar/setup/neovim/map.vim: repo
+~/mskar/setup/neovim/plug.vim: repo
+~/mskar/setup/neovim/set.vim: repo
+~/mskar/setup/vim/.vimrc: repo
+~/mskar/setup/vim/.map.vimrc: repo
+~/mskar/setup/vim/.plug.vimrc: repo
+~/mskar/setup/vim/.set.vimrc: repo
+~/mskar/setup/vim/.au.vimrc: repo
+~/mskar/setup/.tmux.conf.local: repo
+~/mskar/setup/macos/.zshrc: repo
+~/mskar/setup/macos/.bash_profile: repo
+~/mskar/setup/macos/.inputrc: repo
+~/mskar/setup/.gitconfig: repo
+~/mskar/setup/ideavim/.ideavimrc: repo
+~/mskar/setup/macos/karabiner.json: repo
+~/mskar/setup/vscode/keybindings.json: repo
+~/mskar/setup/vscode/settings.json: repo
+~/mskar/setup/rstudio/user-settings: repo
+~/mskar/setup/rstudio/editor_bindings.json: repo
+~/mskar/setup/rstudio/rstudio_bindings.json: repo
+~/mskar/setup/spacevim/init.toml: repo
+~/mskar/setup/spacevim/myspacevim.vim: repo
+~/mskar/setup/macos/com.googlecode.iterm2.plist: repo
 
 /usr/local/bin/bash:
 	-brew install bash
-~/.bash_profile: ~/py4ds/setup/macos/.bash_profile
-	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.bash_profile -o ~/.bash_profile
-~/.inputrc: ~/py4ds/setup/macos/.inputrc
-	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.inputrc -o ~/.inputrc
+~/.bash_profile: ~/mskar/setup/macos/.bash_profile
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.bash_profile -o ~/.bash_profile
+~/.inputrc: ~/mskar/setup/macos/.inputrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.inputrc -o ~/.inputrc
 /usr/local/bin/bat:
 	-brew install bat
 /usr/local/bin/brew:
@@ -140,91 +140,91 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 /usr/local/bin/fzf:
 	-brew install fzf
 	/usr/local/opt/fzf/install --no-fish --key-bindings --completion --update-rc
-~/.gitconfig: ~/py4ds/setup/.gitconfig
-	curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
+~/.gitconfig: ~/mskar/setup/.gitconfig
+	curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
 /usr/local/bin/hub:
 	-brew install hub
 /Applications/iTerm.app:
 	-brew cask install iterm2
-~/com.googlecode.iterm2.plist: ~/py4ds/setup/macos/com.googlecode.iterm2.plist
-	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
+~/com.googlecode.iterm2.plist: ~/mskar/setup/macos/com.googlecode.iterm2.plist
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
 /Applications/JetBrainsToolbox.app:
 	-brew cask install jetbrains-toolbox
 	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
-~/.ideavimrc: ~/py4ds/setup/ideavim/.ideavimrc
-	curl https://raw.githubusercontent.com/py4ds/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
+~/.ideavimrc: ~/mskar/setup/ideavim/.ideavimrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
 /Applications/Karabiner-Elements.app:
 	-brew cask install karabiner-elements
-~/.config/karabiner/karabiner.json: ~/py4ds/setup/macos/karabiner.json
-	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+~/.config/karabiner/karabiner.json: ~/mskar/setup/macos/karabiner.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 /usr/local/bin/nvim:
 	-brew install neovim
-~/.config/nvim/init.vim: ~/py4ds/setup/neovim/init.vim
-	curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim --create-dirs
-~/.config/nvim/map.vim: ~/py4ds/setup/neovim/map.vim
-	curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/map.vim -o ~/.config/nvim/map.vim --create-dirs
-~/.config/nvim/plug.vim: ~/py4ds/setup/neovim/plug.vim
-	curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/plug.vim -o ~/.config/nvim/plug.vim --create-dirs
-~/.config/nvim/set.vim: ~/py4ds/setup/neovim/set.vim
-	curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/set.vim -o ~/.config/nvim/set.vim --create-dirs
-~/.config/nvim/au.vim: ~/py4ds/setup/neovim/au.vim
-	curl https://raw.githubusercontent.com/py4ds/setup/master/neovim/au.vim -o ~/.config/nvim/au.vim --create-dirs
+~/.config/nvim/init.vim: ~/mskar/setup/neovim/init.vim
+	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim --create-dirs
+~/.config/nvim/map.vim: ~/mskar/setup/neovim/map.vim
+	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/map.vim -o ~/.config/nvim/map.vim --create-dirs
+~/.config/nvim/plug.vim: ~/mskar/setup/neovim/plug.vim
+	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/plug.vim -o ~/.config/nvim/plug.vim --create-dirs
+~/.config/nvim/set.vim: ~/mskar/setup/neovim/set.vim
+	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/set.vim -o ~/.config/nvim/set.vim --create-dirs
+~/.config/nvim/au.vim: ~/mskar/setup/neovim/au.vim
+	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/au.vim -o ~/.config/nvim/au.vim --create-dirs
 ~/.oh-my-zsh:
 	-curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh | sh
 ~/.oh-my-zsh/themes/powerlevel9k:
 	-git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
-~/py4ds/setup/:
-	-git clone https://github.com/py4ds/setup ~/py4ds/setup
+~/mskar/setup/:
+	-git clone https://github.com/mskar/setup ~/py4ds/setup
 /usr/local/bin/r:
 	-brew cask install r
 ~/miniconda/envs/r:
 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
-~/.rstudio-desktop/monitored/user-settings/user-settings: ~/py4ds/setup/rstudio/user-settings
-	curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
-~/.rstudio-desktop/keybindings/editor_bindings.json: ~/py4ds/setup/rstudio/editor_bindings.json
-	curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
-~/.R/rstudio/keybindings/rstudio_bindings.json: ~/py4ds/setup/rstudio/rstudio_bindings.json
-	curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json --create-dirs
+~/.rstudio-desktop/monitored/user-settings/user-settings: ~/mskar/setup/rstudio/user-settings
+	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
+~/.rstudio-desktop/keybindings/editor_bindings.json: ~/mskar/setup/rstudio/editor_bindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
+~/.R/rstudio/keybindings/rstudio_bindings.json: ~/mskar/setup/rstudio/rstudio_bindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json --create-dirs
 /usr/local/bin/scim:
 	-brew install sc-im
 /Applications/ShiftIt.app:
 	-brew cask install shiftit
 ~/.SpaceVim:
 	-git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
-~/.SpaceVim.d/init.toml: ~/py4ds/setup/spacevim/init.toml
-	curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o ~/.SpaceVim.d/init.toml --create-dirs
-~/.SpaceVim.d/autoload/myspacevim.vim: ~/py4ds/setup/spacevim/myspacevim.vim
-	curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
+~/.SpaceVim.d/init.toml: ~/mskar/setup/spacevim/init.toml
+	curl https://raw.githubusercontent.com/mskar/setup/master/spacevim/init.toml -o ~/.SpaceVim.d/init.toml --create-dirs
+~/.SpaceVim.d/autoload/myspacevim.vim: ~/mskar/setup/spacevim/myspacevim.vim
+	curl https://raw.githubusercontent.com/mskar/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 /usr/local/bin/tmux:
 	-brew install tmux
 ~/.tmux:
 	-git clone https://github.com/gpakosz/.tmux ~/.tmux
 	ln -s -f ~/.tmux/.tmux.conf ~/.tmux.conf
-~/.tmux.conf.local: ~/py4ds/setup/.tmux.conf.local
-	curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
+~/.tmux.conf.local: ~/mskar/setup/.tmux.conf.local
+	curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
 ~/.tmux/plugins/tpm:
 	-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 /usr/local/bin/vim:
 	-brew install vim
-~/.vimrc: ~/py4ds/setup/vim/.vimrc
-	curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.vimrc -o ~/.vimrc
-~/.map.vimrc: ~/py4ds/setup/vim/.map.vimrc
-	curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.map.vimrc -o ~/.map.vimrc
-~/.plug.vimrc: ~/py4ds/setup/vim/.plug.vimrc
-	curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.plug.vimrc -o ~/.plug.vimrc
-~/.set.vimrc: ~/py4ds/setup/vim/.set.vimrc
-	curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.set.vimrc -o ~/.set.vimrc
-~/.au.vimrc: ~/py4ds/setup/vim/.au.vimrc
-	curl https://raw.githubusercontent.com/py4ds/setup/master/vim/.au.vimrc -o ~/.au.vimrc
+~/.vimrc: ~/mskar/setup/vim/.vimrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.vimrc -o ~/.vimrc
+~/.map.vimrc: ~/mskar/setup/vim/.map.vimrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.map.vimrc -o ~/.map.vimrc
+~/.plug.vimrc: ~/mskar/setup/vim/.plug.vimrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.plug.vimrc -o ~/.plug.vimrc
+~/.set.vimrc: ~/mskar/setup/vim/.set.vimrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.set.vimrc -o ~/.set.vimrc
+~/.au.vimrc: ~/mskar/setup/vim/.au.vimrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.au.vimrc -o ~/.au.vimrc
 /Applications/VisualStudioCode.app:
 	-brew cask install visual-studio-code
 	-ln -fs /Applications/Visual\ Studio\ Code.app /Applications/VisualStudioCode.app
-~/Library/ApplicationSupport/Code/User/settings.json: ~/py4ds/setup/vscode/settings.json
-	curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User/settings.json --create-dirs
-~/Library/ApplicationSupport/Code/User/keybindings.json: ~/py4ds/setup/vscode/keybindings.json
-	curl https://raw.githubusercontent.com/py4ds/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User/keybindings.json --create-dirs
+~/Library/ApplicationSupport/Code/User/settings.json: ~/mskar/setup/vscode/settings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User/settings.json --create-dirs
+~/Library/ApplicationSupport/Code/User/keybindings.json: ~/mskar/setup/vscode/keybindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User/keybindings.json --create-dirs
 $(VSCODE_PYTHON):
 	code --install-extension ms-python.python --force
 $(VSCODE_VIM):
@@ -233,8 +233,8 @@ $(VSCODE_LIVESHARE):
 	code --install-extension ms-vsliveshare.vsliveshare --force
 /usr/local/bin/xpdf:
 	-brew install xpdf
-~/.zshrc: ~/py4ds/setup/macos/.zshrc
-	curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zshrc
+~/.zshrc: ~/mskar/setup/macos/.zshrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.zshrc -o ~/.zshrc
 ~/.oh-my-zsh/plugins/zsh-autosuggestions:
 	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
 ~/.oh-my-zsh/plugins/zsh-syntax-highlighting:
