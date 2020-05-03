@@ -17,8 +17,8 @@
 ### Delay Until Repeat: Short
 ### Caps Lock Key: Escape
 ## Remove most icons from Dock
-## Drag and Drop Documents from Finder to the Dock in between Applications and Download
 ## 2-finger click on Dock and Turn Dock Hiding On
+## Under General > Sound turn off all sounds and "Show volume in menu bar"
 ## Add Home to Finder sidebar
 ## Under General > Appearance select 'Use Dark menu bar and Dock' and 'Automatically hide and show the menu bar'
 
@@ -45,7 +45,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitco
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew cask install homebrew/cask-fonts/font-firacode-nerd-font flycut iterm2 jetbrains-toolbox karabiner-elements r shiftit visual-studio-code
+brew cask install homebrew/cask-fonts/font-firacode-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit visual-studio-code
 
 ## Set up mac terminal
 ### In terminal, under Profiles > Text: Set background to black, set text to white, and select Fura Code Nerdfont size 18
