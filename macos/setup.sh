@@ -48,7 +48,8 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitco
 brew cask install homebrew/cask-fonts/font-firacode-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit visual-studio-code
 
 ## Set up mac terminal
-### In terminal, under Profiles > Text: Set background to black, set text to white, and select Fura Code Nerdfont size 18
+### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
+### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
 curl https://raw.githubusercontent.com/py4ds/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
