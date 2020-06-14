@@ -16,12 +16,6 @@ Characters:
   as woman to try to become a mother
 - Liam (mimic): will divulge that he is pregnant with Kaila's child and that he
   needs regular contact with her or else he will miscarry Organizations:
-- Knights of Gaia: an ancient cult that becomes interested in Kaila when she
-  appears to be prophesied chosen who will save the world by awakening the
-  star-child Gaia
-- Imos Corp: creators of mimics; was infiltrated and taken over by mimics
-- Nalis Corp: creators of scenders; was infiltrated and taken over by scenders
-
 
 - Kaila is nervous about starting middle school
     - In the public school system, all students are shocked by a taser-tutor
