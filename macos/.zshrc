@@ -9,6 +9,7 @@ export ZSH=~/.oh-my-zsh
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 TERM=xterm-256color
 ZSH_THEME="powerlevel9k/powerlevel9k"
+ZSH_DISABLE_COMPFIX="true"
 POWERLEVEL9K_MODE='nerdfont-complete'
 # SABLE_AUTO_TITLE="true"
 
@@ -182,8 +183,8 @@ alias ba="git branch --all"
 alias bb="func() { local branch; branch=$(echo '$(git branch --color=always --verbose | fzf --ansi --bind="alt-x:execute-silent(git branch -D {1})+reload(git branch --color=always --verbose)" --preview="git diff --color=always \$(echo \$(git rev-parse --abbrev-ref HEAD)..{1}) | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" | cut -c3- | cut -d " " -f1)') && [ $(echo '$branch') ] && git checkout $(echo '$branch'); }; func"
 alias bd="git branch --delete" # delete fully merged branch
 alias bs="git branch --set-upstream-to=origin/master master"
-## clone
-alias c="func() { git clone $(echo '$1 ${1#*.*/}') && cd $(echo '${1#*.*/}'); }; func";
+## clone and cd into repo (${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
+alias c="func() { git clone $(echo '$1 ${${1#*.*[:/]}%.*}') && cd $(echo '${${1#*.*[:/]}%.*}'); }; func";
 ## commit
 alias am="git commit --amend --reset-author"
 alias amp="git commit --amend --reset-author && git push --force"
@@ -343,7 +344,7 @@ alias br="git branch --remotes"
 alias ca="conda activate"
 alias cda="conda deactivate"
 alias ce="conda env"
-alias cec="conda env create -yc conda-forge -n"
+alias cec="conda env create -c conda-forge -n"
 alias cee="conda env export > environment.yaml"
 alias cel="conda env list"
 alias cer="conda env remove"
@@ -383,6 +384,7 @@ alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
 alias nt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; nvim ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func";
 alias nu="n -u ~/.SpaceVim/init.vim"
 alias nw="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed 's/docx/md/;p;s/md/docx/' | tr '\n' '\0' | xargs -0 -n2 pandoc -f docx -t markdown -o && echo $(echo '${files//docx/md}') | tr '\n' '\0' | xargs -0 nvim --; }; func";
+alias nz="n ~/.zshrc"
 ## pycharm
 alias pc="pycharm"
 alias pd="pycharm diff"
@@ -406,6 +408,7 @@ alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/note
 alias vu="v -u ~/.SpaceVim/vimrc"
 alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR $(echo '$@') --; }; func";
 alias vw="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed 's/docx/md/;p;s/md/docx/' | tr '\n' '\0' | xargs -0 -n2 pandoc -f docx -t markdown -o && echo $(echo '${files//docx/md}') | tr '\n' '\0' | xargs -0 -o $EDITOR --; }; func";
+alias vz="v ~/.zshrc"
 # webstorm
 alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 webstorm; }; func";
 
@@ -454,6 +457,12 @@ alias od="func() { local directory; directory=$(echo '$(fd --type d ^ $@ | fzf -
 alias ee="func() { local both; both=$(echo '$(exa --all --classify --color=always $@ | fzf --ansi --preview="if [[ {} == */ ]]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi")') && [ $(echo '$both') ] && echo $(echo '$both') | tr '\n' '\0' | xargs -0 open --; }; func"
 alias oo="func() { local both; both=$(echo '$(fasd -Ral | fzf --preview="if [[ \"$(fasd -Rdl)\" =~ {} ]]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi")') && [ $(echo '$both') ] && echo $(echo '$both') | tr '\n' '\0' | xargs -0 open; }; func"
 
+# ssh
+# ssh keygen: generate an ssh key by providing a filename (do not include .pub in the filename)
+alias kg="func() { ssh-keygen -t rsa -b 4096 -f $(echo '$1') -C $(echo '$1') && ssh-add ~/.ssh/$(echo '$1') && cat ~/.ssh/$(echo '$1').pub; }; func";
+# ssh config: append Host, HostName, IdentityFile, etc. to ssh config file, e.g. sc github-mskar github.com
+alias sc="func() { echo '\nHost '$(echo '$1')'\nHostName '$(echo '$2')'\nIdentityFile ~/.ssh/'$(echo '$1')'\nAddKeysToAgent yes\nUseKeychain yes' >> ~/.ssh/config; }; func";
+
 # tmux
 alias t="tmux"
 alias ta="tmux attach -t"
@@ -476,7 +485,7 @@ alias zv="fasd -de '$EDITOR'"
 
 # Misc
 ## remove spaces from names
-alias fixnames="for f in *\ *; do mv '$f' '${f// /-}'; done;"
+alias fixnames="find /tmp/ -depth -name *\ * -execdir rename 's/ /_/g' '{}' \;"
 ## if then else
 alias it="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
 alias ite="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi; }; func";
@@ -605,14 +614,14 @@ export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/Users/marskar/miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/Users/martinskarzynski/miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/Users/marskar/miniconda/etc/profile.d/conda.sh" ]; then
-        . "/Users/marskar/miniconda/etc/profile.d/conda.sh"
+    if [ -f "/Users/martinskarzynski/miniconda/etc/profile.d/conda.sh" ]; then
+        . "/Users/martinskarzynski/miniconda/etc/profile.d/conda.sh"
     else
-        export PATH="/Users/marskar/miniconda/bin:$PATH"
+        export PATH="/Users/martinskarzynski/miniconda/bin:$PATH"
     fi
 fi
 unset __conda_setup
