@@ -170,16 +170,21 @@ conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy
 ### Under File > Settings Repository..., select Overwrite Local
 ### Settings
 ### Select MacOS X 10.5+ Keymap and add Hide All Tool Windows shortcut: Cmd+0 and Save As...: Cmd+Shift+S
-### In Appearance & Behavior > Appearance, Use Dark Window headers and select Fura Code Nerd Font size 18
-### In Editor > Font, select Fura Code Nerd Font size 18 and Enable font ligatures
+### In Appearance & Behavior > Appearance, Select Darcula theme and select Fura Code Nerd Font size 14
+### Using Cmd+Shift+A or going to View > Appearance at the Top, enable Details in Tree Views, disable Tool Windows Bars and Navigation Bar
+### In MacOS System Preferences: Keyboard > Services, uncheck Open man Page in Terminal (Cmd+Shift+M) and Search man Page Index in Terminal (Cmd+Shift+A)
+### In Editor > Font, select Fura Code Nerd Font size 16 as main and Jetbrains Mono as fallback and Enable font ligatures
+### In Editor > Code Style, set visual guides to 80 characters
 ### Check Change font size (Zoom) with Command+Mouse Wheel in Editor > General
 ### Check Show Whitespace in Editor > General > Appearance
-### If you use the Deep Ocean Editor theme from the [Material UI](https://www.material-theme.com/) plugin, change docstring color to [`30B000`](https://www.beautycolorcode.com/30b000)
+### If you use the Deep Ocean Editor theme from the [Material UI](https://www.material-theme.com/) plugin, change docstring (Doc comment > Text) color to [`4cbb17` aka kelly green](https://www.beautycolorcode.com/4cbb17) and line comment color to [`DF00FF` aka psychedelic purple](https://www.beautycolorcode.com/df00ff) under Editor > Color Scheme > Language Defaults
+### Disable Material UI to got back to Darcula theme, but keep Code Editor theme as Deep Ocean
+### In Editor > General > Editor Tabs, Select None for Tab placement (current file is shown at the top)
 ### Install [IdeaVim](https://github.com/JetBrains/ideavim) plugin
 ### Install [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport) plugin
 ### Install [Markdown](https://plugins.jetbrains.com/plugin/7793-markdown/) plugin
 ### Install [R Language Support](http://holgerbrandl.github.io/r4intellij/) plugin
-### Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+G/M to IDE
+### Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+J/G/M/I/T to IDE
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 ##### Installing r into base environment breaks nvim-R
