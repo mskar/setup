@@ -170,6 +170,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -240,6 +241,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -310,6 +312,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -456,6 +459,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -527,6 +531,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -598,6 +603,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -669,6 +675,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -740,6 +747,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -937,6 +945,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -1007,6 +1016,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -1080,6 +1090,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -1153,6 +1164,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -1230,6 +1242,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -1302,6 +1315,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -1374,6 +1388,7 @@
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],

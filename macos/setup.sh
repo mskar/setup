@@ -178,6 +178,7 @@ conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy
 ### Check Change font size (Zoom) with Command+Mouse Wheel in Editor > General
 ### Check Show Whitespace in Editor > General > Appearance
 ### If you use the Deep Ocean Editor theme from the [Material UI](https://www.material-theme.com/) plugin, change docstring (Doc comment > Text) color to [`4cbb17` aka kelly green](https://www.beautycolorcode.com/4cbb17) and line comment color to [`DF00FF` aka psychedelic purple](https://www.beautycolorcode.com/df00ff) under Editor > Color Scheme > Language Defaults
+### In Build, Execution, Deployment > Console, select Use existing console for "Run with Python Console"
 ### Disable Material UI to got back to Darcula theme, but keep Code Editor theme as Deep Ocean
 ### In Editor > General > Editor Tabs, Select None for Tab placement (current file is shown at the top)
 ### Install [IdeaVim](https://github.com/JetBrains/ideavim) plugin
@@ -185,6 +186,7 @@ conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy
 ### Install [Markdown](https://plugins.jetbrains.com/plugin/7793-markdown/) plugin
 ### Install [R Language Support](http://holgerbrandl.github.io/r4intellij/) plugin
 ### Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+J/G/M/I/T to IDE
+### When setting run configurations (ctrl+alt+r), set working directory to project root under Environment and deselect Run with Python Console under Execution
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 ##### Installing r into base environment breaks nvim-R
