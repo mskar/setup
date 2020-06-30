@@ -110,7 +110,7 @@ nnoremap yog :action EditorToggleShowGutterIcons<CR>
 nnoremap yoi :action EditorToggleShowIndentLines<CR>
 nnoremap yon :action EditorToggleShowLineNumbers<CR>
 nnoremap yop :action TogglePresentationMode<CR>
-nnoremap yos :action EditorToggleShowWhitespaces<CR>
+nnoremap yos :action ViewStatusBar<CR>
 nnoremap yot :action ViewToolBar<CR>
 nnoremap yow :action EditorToggleUseSoftWraps<CR>
 
