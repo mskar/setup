@@ -89,6 +89,8 @@ nnoremap [<Space> O<Esc>j
 nnoremap ]<Space> o<Esc>k]
 nnoremap ]b :action GotoNextBookmark<CR>
 nnoremap [b :action GotoPreviousBookmark<CR>
+nnoremap [c :action JumpToLastChange<CR>
+nnoremap ]c :action JumpToNextChange<CR>
 nnoremap ]e :action GotoNextError<CR>
 nnoremap [e :action GotoPreviousError<CR>
 nnoremap ]m :action MethodDown<CR>
@@ -97,43 +99,59 @@ nnoremap ]o :action SelectNextOccurrence<CR>
 nnoremap [o :action SelectPreviousOccurrence<CR>
 nnoremap ]u :action GotoNextElementUnderCaretUsage<CR>
 nnoremap [u :action GotoPrevElementUnderCaretUsage<CR>
-nnoremap ]p :action org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction <CR>
-nnoremap [p :action org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction <CR>
-nnoremap ]P :action org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction <CR>
-nnoremap [P :action org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction <CR>
-nnoremap yod :action ToggleDistractionFreeMode <CR>
-nnoremap yoi :action EditorToggleShowIndentLines <CR>
-nnoremap yon :action EditorToggleShowLineNumbers <CR>
-nnoremap yop :action TogglePresentationMode <CR>
-nnoremap yos :action EditorToggleShowWhitespaces <CR>
-nnoremap yow :action EditorToggleUseSoftWraps <CR>
+nnoremap ]p :action org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction<CR>
+nnoremap [p :action org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction<CR>
+nnoremap ]P :action org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction<CR>
+nnoremap [P :action org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction<CR>
+" Listed by EditorToggleActions
+nnoremap yob :action EditorToggleShowBreadcrumbs<CR>
+nnoremap yod :action ToggleDistractionFreeMode<CR>
+nnoremap yog :action EditorToggleShowGutterIcons<CR>
+nnoremap yoi :action EditorToggleShowIndentLines<CR>
+nnoremap yon :action EditorToggleShowLineNumbers<CR>
+nnoremap yop :action TogglePresentationMode<CR>
+nnoremap yos :action EditorToggleShowWhitespaces<CR>
+nnoremap yot :action ViewToolBar<CR>
+nnoremap yow :action EditorToggleUseSoftWraps<CR>
 
 " Backslash as leader key mappings
-nnoremap <Bslash>a :action SelectAllOccurrences<CR>
+" Instead of ActivateCommitToolWindow, use Cmd+k and Cmd+w
+nnoremap <Bslash>a :action EditorActions<CR>
 nnoremap <Bslash>b :action ShowBookmarks<CR>
-nnoremap <Bslash>c :action ActivatePythonConsoleToolWindow<CR>
+nnoremap <Bslash>c :action SilentCodeCleanup<CR>
 nnoremap <Bslash>d :action ActivateDatabaseToolWindow<CR>
-nnoremap <Bslash>e :action RenameElement<CR>
+nnoremap <Bslash>e :action ActivateEventLogToolWindow<CR>
 nnoremap <Bslash>f :action RenameFile<CR>
-nnoremap <Bslash>h :action HideAllWindows<CR>
+nnoremap <Bslash>g :action EditorPopupMenu.GoTo<CR>
+nnoremap <Bslash>h :action LocalHistory.ShowHistory<CR>
 nnoremap <Bslash>i :action GotoImplementation<CR>
+nnoremap <Bslash>j :action JumpToLastWindow<CR>
+nnoremap <Bslash>k :action Help.KeymapReference<CR>
 nnoremap <Bslash>l :action ReformatCode<CR>
-nnoremap <Bslash>L :action ShowReformatFileDialog<CR>
 nnoremap <Bslash>m :action Move<CR>
 nnoremap <Bslash>n :action ShowNavBar<CR>
-nnoremap <Bslash>o :action ChangeSplitOrientation<CR>
-nnoremap <Bslash>p :action NewDirectoryProject<CR>
+nnoremap <Bslash>o :action OptimizeImports<CR>
+nnoremap <Bslash>p :action ActivatePythonConsoleToolWindow<CR>
 nnoremap <Bslash>q :action CloseProject<CR>
-nnoremap <Bslash>r :action Refactorings.QuickListPopupAction<CR>
+nnoremap <Bslash>r :action ActivateRConsoleToolWindow<CR>
 nnoremap <Bslash>s :action ActivateSciViewToolWindow<CR>
 nnoremap <Bslash>t :action ActivateTerminalToolWindow<CR>
 nnoremap <Bslash>u :action Synchronize<CR>
 nnoremap <Bslash>v :action Vcs.QuickListPopupAction<CR>
-nnoremap <Bslash>w :action JumpToLastWindow<CR>
-nnoremap <Bslash>x :action ReopenClosedTab<CR>
-
+nnoremap <Bslash>w :action HideAllWindows<CR>
+nnoremap <Bslash>x :action ChangeSplitOrientation<CR>
+nnoremap <Bslash>z :action ToggleZenMode<CR>
 " clear search highlighting when hitting backslash twice
 nnoremap <Bslash><Bslash> :nohlsearch<CR>
+
+" These work, you just have to do the combo very fast
+nnoremap <c-w>+ :action StretchSplitToBottom<CR>
+nnoremap <c-w>- :action StretchSplitToTop<CR>
+nnoremap <c-w>> :action StretchSplitToRight<CR>
+nnoremap <c-w>< :action StretchSplitToLeft<CR>
+" <C-t> = Refactor this... now only works in normal mode
+" so <C-t> can indent line in insert mode
+nnoremap <C-t> :action Refactorings.QuickListPopupAction<CR>
 
 " Emacs and bash style insert mode CTRL shortcuts
 " <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
@@ -148,11 +166,11 @@ inoremap <C-e> <End>
 inoremap <C-f> <Right>
 " <C-h> = Delete one character backward; the opposite of <C-d>; already exists in command mode: c_ctrl-h
 " <C-k> = Delete to end of line; the opposite of <C-u>
-inoremap <C-k> <C-o>:action EditorDeleteToLineEnd<CR>
+" inoremap <C-k> <C-o>:action EditorDeleteToLineEnd<CR>
 " <C-n> = Complete word using matches that come next; the opposite of <C-p>
-inoremap <C-n> <C-o>:action HippieCompletion<CR>
+" inoremap <C-n> <C-o>:action HippieCompletion<CR>
 " <C-p> = Complete word using previous matches; the opposite of <C-n>
-inoremap <C-p> <C-o>:action HippieBackwardCompletion<CR>
+" inoremap <C-p> <C-o>:action HippieBackwardCompletion<CR>
 " <C-u> = Delete to start of line; the opposite of <C-k>; already exists in command mode: c_ctrl-u
 " <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
 " <C-y> = Paste from system clipboard (not from killring like in bash/emacs)
