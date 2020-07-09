@@ -1,7 +1,10 @@
 " ============================================================================
 " Emulated plugins
 " ============================================================================
-" https://github.com/JetBrains/ideavim
+" https://github.com/JetBrains/ideavim/blob/master/doc/emulated-plugins.md
+set exchange
+" Commands: cx, cxx, X, cxc
+
 set surround
 " Commands: ys, cs, ds, S
 
@@ -86,11 +89,11 @@ nnoremap g, :action JumpToNextChange<CR>
 
 " unimpaired-style mappings
 nnoremap [<Space> O<Esc>j
-nnoremap ]<Space> o<Esc>k]
+nnoremap ]<Space> o<Esc>k
 nnoremap ]b :action GotoNextBookmark<CR>
 nnoremap [b :action GotoPreviousBookmark<CR>
-nnoremap [c :action JumpToLastChange<CR>
-nnoremap ]c :action JumpToNextChange<CR>
+nnoremap [c :action VcsShowPrevChangeMarker<CR>
+nnoremap ]c :action VcsShowNextChangeMarker<CR>
 nnoremap ]e :action GotoNextError<CR>
 nnoremap [e :action GotoPreviousError<CR>
 nnoremap ]m :action MethodDown<CR>
@@ -197,3 +200,7 @@ inoremap <A-l> <Esc>gueea
 inoremap <A-t> <Esc>diwbPldepa
 " <A-u> = Uppercase to WORD end; opposite of <A-l> (does not work)
 inoremap <A-u> <Esc>gUeea
+
+" Multiple cursors mappings
+inoremap <A-j> <C-o>:action EditorCloneCaretBelow<CR>
+inoremap <A-k> <C-o>:action EditorCloneCaretAbove<CR>
