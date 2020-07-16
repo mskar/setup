@@ -122,8 +122,11 @@ nnoremap yow :action EditorToggleUseSoftWraps<CR>
 
 " Backslash as leader key mappings
 " Instead of ActivateCommitToolWindow, use Cmd+k and Cmd+w
+" Set up external tool "black":
+" https://black.readthedocs.io/en/stable/editor_integration.html
+" Arguments: "$FilePath$" -l 79
 nnoremap <Bslash>a :action EditorActions<CR>
-nnoremap <Bslash>b :action ShowBookmarks<CR>
+nnoremap <Bslash>b :action Tool_External Tools_Black<CR>
 nnoremap <Bslash>c :action SilentCodeCleanup<CR>
 nnoremap <Bslash>d :action ActivateDatabaseToolWindow<CR>
 nnoremap <Bslash>e :action ActivateEventLogToolWindow<CR>
