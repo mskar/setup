@@ -169,7 +169,18 @@ conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy
 ### Sync settings from https://github.com/marskar/PyCharm
 ### Under File > Settings Repository..., select Overwrite Local
 ### Settings
-### Select MacOS X 10.5+ Keymap and add Hide All Tool Windows shortcut: Cmd+0 and Save As...: Cmd+Shift+S
+### Select MacOS X 10.5+ Keymap and make the following changes:
+#### - Execute Selection in Python Console: Cmd+Enter
+#### - Editor Actions > Split Line :
+#### - Editor Actions > Decrease Font Size : Cmd+-
+#### - Editor Actions > Increase Font Size : Cmd++
+#### - Editor Actions > Reset Font Size : Cmd+0
+#### - Main Menu > File > Save As...: Cmd+Shift+S
+#### - Main Menu > Scientific Notebook > Edit Cells > Split Cell : Ctrl+Shift+-
+#### - Main Menu > Scientific Notebook > Edit Cells > Split Cell : Ctrl+Shift+-
+#### - Other > Images > Zoom Out : Cmd+-
+#### - Other > Images > Zoom In : Cmd++
+#### - Other > Images > Actual Size : Cmd+0
 ### In Appearance & Behavior > Appearance, Select Darcula theme and select Fura Code Nerd Font size 14
 ### Using Cmd+Shift+A or going to View > Appearance at the Top, enable Details in Tree Views, disable Tool Windows Bars and Navigation Bar
 ### In MacOS System Preferences: Keyboard > Services, uncheck Open man Page in Terminal (Cmd+Shift+M) and Search man Page Index in Terminal (Cmd+Shift+A)
@@ -180,6 +191,8 @@ conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy
 ### If you use the Deep Ocean Editor theme from the [Material UI](https://www.material-theme.com/) plugin, change docstring (Doc comment > Text) color to [`4cbb17` aka kelly green](https://www.beautycolorcode.com/4cbb17) and line comment color to [`DF00FF` aka psychedelic purple](https://www.beautycolorcode.com/df00ff) under Editor > Color Scheme > Language Defaults
 ### In Build, Execution, Deployment > Console, select Use existing console for "Run with Python Console"
 ### Disable Material UI to got back to Darcula theme, but keep Code Editor theme as Deep Ocean
+#### Editor > Color Scheme : Material Deep Ocean
+#### Appearance and Behavior > Appearance > Theme : Darcula
 ### In Editor > General > Editor Tabs, Select None for Tab placement (current file is shown at the top)
 ### Install [IdeaVim](https://github.com/JetBrains/ideavim) plugin
 ### Install [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport) plugin

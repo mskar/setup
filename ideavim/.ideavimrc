@@ -74,9 +74,6 @@ set wrapscan
 " IDE actions
 " ============================================================================
 
-nnoremap <Space> :action ExecuteInPyConsoleAction<CR>
-vnoremap <Space> :action ExecuteInPyConsoleAction<CR>
-
 nnoremap ga :action GotoAction<CR>
 nnoremap gd :action GotoDeclaration<CR>
 nnoremap gf :action GotoFile<CR>
