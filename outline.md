@@ -10,7 +10,7 @@ Characters:
   consciousness during their childhood with the ideals of bravery, etc.
 - Dan (echo): will divulge that has been imprinted with the consciousness of an
   Earthling scientist who was married to a Martian woman, became disillusioned,
-  created the system of echo, destroyed Mars, and orchestrated the plan to
+  created the system of echos, destroyed Mars, and orchestrated the plan to
   imprint his consciousness and his wife's consciousness on future generations
   of Earthlings
 - Klara (ender): will divulge that she was a man who transcended and returned
