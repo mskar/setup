@@ -1,10 +1,11 @@
 Characters:
 - Kaila (echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten
-- Ben (scender): will learn that his consciousness was created in the digital
+- Astra ()
+- Ben (ender): will learn that his consciousness was created in the digital
   world and that his body was synthesized by his "parents" to test the ability
   of people to move back and forth between the physical and digital worlds
-- Ed (scender): will learn that his older brother Ben created him as a child by
+- Ed (ender): will learn that his older brother Ben created him as a child by
   subconsciously controlling a synthesizer and then imprinting Ed's
   consciousness during their childhood with the ideals of bravery, etc.
 - Dan (echo): will divulge that has been imprinted with the consciousness of an
@@ -12,13 +13,18 @@ Characters:
   created the system of echo, destroyed Mars, and orchestrated the plan to
   imprint his consciousness and his wife's consciousness on future generations
   of Earthlings
-- Mara (scender): will divulge that she was a man who transcended and returned
-  as woman to try to become a mother
+- Klara (ender): will divulge that she was a man who transcended and returned
+  as woman to try to realize her dream of becoming a mother
 - Liam (mimic): will divulge that he is pregnant with Kaila's child and that he
-  needs regular contact with her or else he will miscarry Organizations:
+  needs regular contact with her or else he will miscarry
 
-- Kaila is nervous about starting middle school
-    - In the public school system, all students are shocked by a taser-tutor
+In the game that Kaila and Ed play after they are sent home from school,
+Kaila is a thief and Ed is a knight.
+He constantly lets her get all of the power-ups and the XP from important enemies.
+When Ben and Liam join, Ben is a summoner mage and Liam is a priest. 
+
+- Kaila is nervous about starting high school
+    - In the public school system, all students are shocked by a taser-tutor (taser-teacher)
     during the middle school induction ceremony
     - The ceremony takes place in the school gymnasium and every student is
     recorded while the shock is administered
