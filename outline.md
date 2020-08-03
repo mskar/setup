@@ -1,7 +1,7 @@
 Characters:
 - Kaila (echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten
-- Astra ()
+- Astra: Kaila's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
 - Ben (ender): will learn that his consciousness was created in the digital
   world and that his body was synthesized by his "parents" to test the ability
   of people to move back and forth between the physical and digital worlds
