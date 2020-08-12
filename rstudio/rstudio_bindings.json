@@ -1,5 +1,6 @@
 {
-    "modifyKeyboardShortcuts" : "Shift+Alt+S",
-    "nextTab" : "Shift+Cmd+]",
-    "previousTab" : "Shift+Cmd+["
+    "yankBeforeCursor": "Ctrl+U",
+    "modifyKeyboardShortcuts": "Alt+Shift+S",
+    "nextTab": "Shift+Cmd+]",
+    "previousTab": "Shift+Cmd+["
 }

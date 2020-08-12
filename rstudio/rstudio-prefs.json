@@ -1,0 +1,39 @@
+{
+    "jobs_tab_visibility": "shown",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "Console",
+            "TabSet1",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer"
+        ],
+        "hiddenTabSet": [],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 1
+    },
+    "editor_keybindings": "vim",
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "zsh",
+    "save_workspace": "never",
+    "terminal_bell_style": "none",
+    "default_project_location": "~",
+    "toolbar_visible": false,
+    "show_line_numbers": false
+}

@@ -205,11 +205,11 @@ conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy
 ##### Installing r into base environment breaks nvim-R
 conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
+curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
+curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
 
-curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json
+curl https://raw.githubusercontent.com/py4ds/setup/master/rstudio/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json
 
 ### Install and symlink macvim (brew installed macvim conflicts with brew installed vim)
 ##### ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
