@@ -1,5 +1,6 @@
 {
     "removewordright": "Alt+D",
     "gotowordright": "Alt+F",
-    "gotowordleft": "Alt+B"
+    "gotowordleft": "Alt+B",
+    "removetolinestart": "Ctrl+U"
 }
