@@ -34,6 +34,5 @@
     "save_workspace": "never",
     "terminal_bell_style": "none",
     "default_project_location": "~",
-    "toolbar_visible": false,
-    "show_line_numbers": false
+    "toolbar_visible": false
 }
