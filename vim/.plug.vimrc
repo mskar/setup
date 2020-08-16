@@ -25,7 +25,7 @@ call plug#begin(expand('~/.vim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
-Plug 'Raimondi/delimitMate'
+" Plug 'Raimondi/delimitMate'
 Plug 'airblade/vim-gitgutter'
 Plug 'preservim/nerdtree'
 Plug 'sheerun/vim-polyglot'
@@ -78,12 +78,6 @@ endif
 
 " Plug 'url'
 
-" Autocompletion using language server protocol
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
-" R setup: https://kadekillary.work/post/nvim-r/
-" R setup: https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
-" For Rmarkdown syntax
 Plug 'vim-pandoc/vim-rmarkdown'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'

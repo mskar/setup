@@ -116,39 +116,45 @@ nnoremap yop :action TogglePresentationMode<CR>
 nnoremap yos :action ViewStatusBar<CR>
 nnoremap yot :action ViewToolBar<CR>
 nnoremap yow :action EditorToggleUseSoftWraps<CR>
+nnoremap yoz :action ToggleZenMode<CR>
 
 " Backslash as leader key mappings
 " Instead of ActivateCommitToolWindow, use Cmd+k and Cmd+w
 " Set up external tool "black":
 " https://black.readthedocs.io/en/stable/editor_integration.html
 " Arguments: "$FilePath$" -l 79
-nnoremap <Bslash>a :action EditorActions<CR>
-nnoremap <Bslash>b :action Tool_External Tools_Black<CR>
-nnoremap <Bslash>c :action SilentCodeCleanup<CR>
-nnoremap <Bslash>d :action ActivateDatabaseToolWindow<CR>
-nnoremap <Bslash>e :action ActivateEventLogToolWindow<CR>
-nnoremap <Bslash>f :action RenameFile<CR>
-nnoremap <Bslash>g :action EditorPopupMenu.GoTo<CR>
-nnoremap <Bslash>h :action LocalHistory.ShowHistory<CR>
-nnoremap <Bslash>i :action GotoImplementation<CR>
-nnoremap <Bslash>j :action JumpToLastWindow<CR>
-nnoremap <Bslash>k :action Help.KeymapReference<CR>
-nnoremap <Bslash>l :action ReformatCode<CR>
-nnoremap <Bslash>m :action Move<CR>
-nnoremap <Bslash>n :action ShowNavBar<CR>
-nnoremap <Bslash>o :action OptimizeImports<CR>
-nnoremap <Bslash>p :action ActivatePythonConsoleToolWindow<CR>
-nnoremap <Bslash>q :action CloseProject<CR>
-nnoremap <Bslash>r :action ActivateRConsoleToolWindow<CR>
-nnoremap <Bslash>s :action ActivateSciViewToolWindow<CR>
-nnoremap <Bslash>t :action ActivateTerminalToolWindow<CR>
-nnoremap <Bslash>u :action Synchronize<CR>
-nnoremap <Bslash>v :action Vcs.QuickListPopupAction<CR>
-nnoremap <Bslash>w :action HideAllWindows<CR>
-nnoremap <Bslash>x :action ChangeSplitOrientation<CR>
-nnoremap <Bslash>z :action ToggleZenMode<CR>
-" clear search highlighting when hitting backslash twice
-nnoremap <Bslash><Bslash> :nohlsearch<CR>
+nnoremap <leader>a :action EditorActions<CR>
+nnoremap <leader>b :action Tool_External Tools_Black<CR>
+nnoremap <leader>c :action SilentCodeCleanup<CR>
+nnoremap <leader>d :action ActivateDatabaseToolWindow<CR>
+nnoremap <leader>e :action ActivateEventLogToolWindow<CR>
+nnoremap <leader>f :action RenameFile<CR>
+nnoremap <leader>g :action EditorPopupMenu.GoTo<CR>
+nnoremap <leader>h :action LocalHistory.ShowHistory<CR>
+nnoremap <leader>i :action GotoImplementation<CR>
+nnoremap <leader>j :action JumpToLastWindow<CR>
+nnoremap <leader>k :action Help.KeymapReference<CR>
+" Reformat Code is M-A-L
+nnoremap <leader>l :action ReformatCode<CR>
+nnoremap <leader>m :action Move<CR>
+nnoremap <leader>n :action ShowNavBar<CR>
+nnoremap <leader>o :action OptimizeImports<CR>
+nnoremap <leader>p :action ActivatePythonConsoleToolWindow<CR>
+nnoremap <leader>q :action CloseProject<CR>
+nnoremap <leader>r :action ActivateRConsoleToolWindow<CR>
+nnoremap <leader>s :action ActivateSciViewToolWindow<CR>
+nnoremap <leader>t :action ActivateTerminalToolWindow<CR>
+nnoremap <leader>u :action FindUsagesInFile<CR>
+" Introduce Variable is M-A-V
+nnoremap <leader>v :action IntroduceVariable<CR>
+nnoremap <leader>w :action HideAllWindows<CR>
+nnoremap <leader>x :action ChangeSplitOrientation<CR>
+" Reload All from Disk is M-A-Y
+nnoremap <leader>y :action Synchronize<CR>
+" Rollback is M-A-Z
+nnoremap <leader>z :action Vcs.RollbackChangedLines<CR>
+" Clear search highlighting when hitting backslash twice
+nnoremap <leader><leader> :nohlsearch<CR>
 
 " These work, you just have to do the combo very fast
 nnoremap <c-w>+ :action StretchSplitToBottom<CR>

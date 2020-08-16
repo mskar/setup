@@ -20,7 +20,7 @@ set shiftwidth=4
 set expandtab
 
 "" Map leader to ,
-let mapleader='\'
+let mapleader='/'
 
 "" Enable hidden buffers
 set hidden
@@ -161,12 +161,9 @@ set noswapfile
 set nowritebackup
 
 set completeopt=noinsert,menuone ",noselect
-" Setting suggested by coc.nvim
-" Better display for messages
-set cmdheight=1 " coc recommends 2
 
-" Add status line support, for integration with other plugin, checkout `:h coc-status`
-set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
+" Better display for messages
+set cmdheight=1
 
 " You will have bad experience for diagnostic messages when it's default 4000.
 set updatetime=300
