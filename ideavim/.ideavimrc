@@ -214,5 +214,6 @@ inoremap <A-u> <Esc>gUeea
 inoremap <A-j> <C-o>:action EditorCloneCaretBelow<CR>
 inoremap <A-k> <C-o>:action EditorCloneCaretAbove<CR>
 
-" Press space in normal mode to run paragraph in Python console
-nnoremap <space> vap:action ExecuteInPyConsoleAction<CR><Esc>
+" Press space in normal mode to run paragraph in console
+nnoremap <space> vap:action ExecuteInPyConsoleAction<CR>
+vnoremap <space> :action ExecuteInPyConsoleAction<CR>
