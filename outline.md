@@ -84,6 +84,14 @@ When Ben and Renzo join, Ben is a summoner mage and Liam is a priest.
     because she got hit in the head
 4. Kaila is attacked in the cafeteria again
 5. Kaila, Ben, Ed, Marla, Satra are sentenced to community service and discover the grotto
+6. Kaila, Ben, Ed, Marla, Satra meet Lina and agree to show her the outside world
+
+x. Kaila meets Granny
+
+x. Kaila learns Granny is an Echo too
+  - Kaila asks if the dreams get better
+  - Granny says that the dreams get worse and that she cannot sleep for many
+    days and sometimes she cannot tell if she is on Earth or Mars
 
 -1. Kaila and Renzo head out into the world with Eustace.
   - Renzo finds Kaila and tells her that the PersonPrinters have been
@@ -125,7 +133,7 @@ When Ben and Renzo join, Ben is a summoner mage and Liam is a priest.
     technology is still affecting her and Eustace
   - Now that Dan and Granny were dead, the possibility of reclaiming Mars
     seemed impossible
-  - Given that Reli Corp technology would hurt Eustace, there was no chance of
+  - Given that Reli Corp technology hurts Eustace, there was no chance of
     escaping the Echo dreams
   - Kaila cries as she has a vision of their future: Kaila and Eustace live in
     fear constantly moving from place to place while they both become
