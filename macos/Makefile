@@ -97,6 +97,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 ~/mskar/setup/vim/.au.vimrc: repo
 ~/mskar/setup/.tmux.conf.local: repo
 ~/mskar/setup/macos/.zshrc: repo
+~/mskar/setup/macos/.p10k.zsh: repo
 ~/mskar/setup/macos/.bash_profile: repo
 ~/mskar/setup/macos/.inputrc: repo
 ~/mskar/setup/.gitconfig: repo
