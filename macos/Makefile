@@ -49,7 +49,7 @@ neovim-map: ~/.config/nvim/map.vim
 neovim-plug: ~/.config/nvim/plug.vim
 neovim-set: ~/.config/nvim/set.vim
 neovim-au: ~/.config/nvim/au.vim
-p10k: ~/.zsh/powerlevel10k
+p10k: ~/.zsh/powerlevel10k ~/.p10k.zsh
 pyenv: ~/miniconda/envs/py
 renv: ~/miniconda/envs/r
 repo: ~/mskar/setup
@@ -170,8 +170,10 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/au.vim -o ~/.config/nvim/au.vim --create-dirs
 ~/.zsh/powerlevel10k:
 	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
+~/.p10k.zsh: ~/mskar/setup/macos/.p10k.zsh
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.p10k.zsh -o ~/.p10k.zsh
 ~/miniconda/envs/py:
-	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
+	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 ~/mskar/setup/:
 	-git clone https://github.com/mskar/setup ~/py4ds/setup
 /usr/local/bin/r:
