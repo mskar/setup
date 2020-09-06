@@ -1,44 +1,16 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
 # Environment
 source ~/.zsh/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export EDITOR='/usr/local/bin/vim'
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-
-# Theme
-TERM=xterm-256color
-ZSH_THEME="powerlevel9k/powerlevel9k"
-ZSH_DISABLE_COMPFIX="true"
-POWERLEVEL9K_MODE='nerdfont-complete'
-POWERLEVEL9K_BATTERY_CHARGING='yellow'
-POWERLEVEL9K_BATTERY_CHARGED='green'
-POWERLEVEL9K_BATTERY_DISCONNECTED='220'
-POWERLEVEL9K_BATTERY_LOW_THRESHOLD='10'
-POWERLEVEL9K_BATTERY_LOW_COLOR='red'
-POWERLEVEL9K_BATTERY_ICON='\uf1e6 '
-POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=''
-POWERLEVEL9K_VCS_GIT_ICON='\ue60a'
-POWERLEVEL9K_VCS_MODIFIED_BACKGROUND='09'
-POWERLEVEL9K_VCS_CLEAN_BACKGROUND='10'
-POWERLEVEL9K_VCS_UNTRACKED_BACKGROUND='11'
-POWERLEVEL9K_DIR_HOME_BACKGROUND="12"
-POWERLEVEL9K_DIR_DEFAULT_BACKGROUND="13"
-POWERLEVEL9K_DIR_HOME_SUBFOLDER_BACKGROUND="14"
-POWERLEVEL9K_ANACONDA_BACKGROUND='214'
-POWERLEVEL9K_RAM_BACKGROUND='147'
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(vi_mode)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status background_jobs vcs virtualenv anaconda dir time ram battery)
-POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
-POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
-POWERLEVEL9K_TIME_FORMAT="%D{%Y-%m-%d \uf073 %H:%M}" # \uf017 = clock
-POWERLEVEL9K_STATUS_VERBOSE=false
-POWERLEVEL9K_VI_MODE_INSERT_FOREGROUND='white'
-POWERLEVEL9K_VI_MODE_INSERT_BACKGROUND='black'
-POWERLEVEL9K_VI_MODE_NORMAL_FOREGROUND='red'
-POWERLEVEL9K_VI_MODE_NORMAL_BACKGROUND='black'
-
-plugins=(zsh-autosuggestions zsh-syntax-highlighting)
-
 
 ## Initialize fasd and its aliases
 eval "$(fasd --init auto)"
@@ -451,3 +423,5 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
