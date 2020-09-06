@@ -54,9 +54,9 @@ pyenv: ~/miniconda/envs/py
 renv: ~/miniconda/envs/r
 repo: ~/mskar/setup
 rstats: /usr/local/bin/r
-rstudio-editor-bindings: ~/.R/rstudio/keybindings/editor_bindings.json
-rstudio-ide-bindings: ~/.R/rstudio/keybindings/rstudio_bindings.json
-rstudio-settings: ~/.rstudio-desktop/monitored/user-settings/user-settings
+rstudio-editor-bindings: ~/.config/rstudio/keybindings/editor_bindings.json
+rstudio-ide-bindings: ~/.config/rstudio/keybindings/rstudio_bindings.json
+rstudio-settings: ~/.config/rstudio/rstudio-prefs.json
 scim: /usr/local/bin/scim
 shiftit: /Applications/ShiftIt.app
 spacevim-config-toml: ~/.SpaceVim.d/init.toml
@@ -136,7 +136,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 /Applications/Flycut.app:
 	-brew cask install flycut
 ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf:
-	-brew cask install homebrew/cask-fonts/font-firacode-nerd-font
+	-brew cask install homebrew/cask-fonts/font-fira-code-nerd-font
 	-ln -fs ~/Library/Fonts/Fira\ Code\ Regular\ Nerd\ Font\ Complete.otf ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 /usr/local/bin/fzf:
 	-brew install fzf
@@ -182,12 +182,12 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew cask install r
 ~/miniconda/envs/r:
 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
-~/.rstudio-desktop/monitored/user-settings/user-settings: ~/mskar/setup/rstudio/user-settings
-	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/user-settings -o ~/.rstudio-desktop/monitored/user-settings/user-settings --create-dirs
-~/.rstudio-desktop/keybindings/editor_bindings.json: ~/mskar/setup/rstudio/editor_bindings.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/editor_bindings.json -o ~/.R/rstudio/keybindings/editor_bindings.json --create-dirs
-~/.R/rstudio/keybindings/rstudio_bindings.json: ~/mskar/setup/rstudio/rstudio_bindings.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/rstudio_bindings.json -o ~/.R/rstudio/keybindings/rstudio_bindings.json --create-dirs
+~/.config/rstudio/rstudio-prefs.json: ~/mskar/setup/rstudio/rstudio-prefs.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
+~/.config/rstudio/keybindings/editor_bindings.json: ~/mskar/setup/rstudio/editor_bindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
+~/.config/rstudio/keybindings/rstudio_bindings.json: ~/mskar/setup/rstudio/rstudio_bindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
 /usr/local/bin/scim:
 	-brew install sc-im
 /Applications/ShiftIt.app:
