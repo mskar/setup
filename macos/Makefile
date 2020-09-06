@@ -22,7 +22,7 @@ spacevim: spacevim-exe spacevim-config-toml spacevim-config-vim
 tmux: tmux-exe tmux-dot tmux-local tmux-plug
 vim: vim-au vim-exe vim-map vim-plug vim-set vim-config
 vscode: vscode-exe vscode-liveshare vscode-python vscode-vim vscode-keybindings vscode-settings
-zsh: omz pl9k zshrc zsh-syntax-highlighting zsh-autosuggestions
+zsh: p10k zshrc zsh-syntax-highlighting zsh-autosuggestions
 
 bash-exe: /usr/local/bin/bash
 bash_profile: ~/.bash_profile
@@ -49,8 +49,7 @@ neovim-map: ~/.config/nvim/map.vim
 neovim-plug: ~/.config/nvim/plug.vim
 neovim-set: ~/.config/nvim/set.vim
 neovim-au: ~/.config/nvim/au.vim
-omz: ~/.oh-my-zsh
-pl9k: ~/.oh-my-zsh/themes/powerlevel9k
+p10k: ~/.zsh/powerlevel10k
 pyenv: ~/miniconda/envs/py
 renv: ~/miniconda/envs/r
 repo: ~/mskar/setup
@@ -81,8 +80,8 @@ vscode-python: $(VSCODE_PYTHON)
 vscode-settings: ~/Library/ApplicationSupport/Code/User/settings.json
 vscode-vim: $(VSCODE_VIM)
 xpdf: /usr/local/bin/xpdf
-zsh-autosuggestions: ~/.oh-my-zsh/plugins/zsh-autosuggestions
-zsh-syntax-highlighting: ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+zsh-autosuggestions: ~/.zsh/zsh-autosuggestions
+zsh-syntax-highlighting: ~/.zsh/zsh-syntax-highlighting
 zshrc: ~/.zshrc
 xcode-devtools: /Library/Developer/CommandLineTools/
 
@@ -169,10 +168,8 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/set.vim -o ~/.config/nvim/set.vim --create-dirs
 ~/.config/nvim/au.vim: ~/mskar/setup/neovim/au.vim
 	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/au.vim -o ~/.config/nvim/au.vim --create-dirs
-~/.oh-my-zsh:
-	-curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh | sh
-~/.oh-my-zsh/themes/powerlevel9k:
-	-git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
+~/.zsh/powerlevel9k:
+	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
 ~/mskar/setup/:
@@ -235,20 +232,18 @@ $(VSCODE_LIVESHARE):
 	-brew install xpdf
 ~/.zshrc: ~/mskar/setup/macos/.zshrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.zshrc -o ~/.zshrc
-~/.oh-my-zsh/plugins/zsh-autosuggestions:
-	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
-~/.oh-my-zsh/plugins/zsh-syntax-highlighting:
-	-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+~/.zsh/zsh-autosuggestions:
+	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+~/.zsh/zsh-syntax-highlighting:
+	-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
 /Library/Developer/CommandLineTools:
 	xcode-select --install
 
 clean:
-	rm -rf ~/.oh-my-zsh/
-	rm -rf ~/.oh-my-zsh/plugins/zsh-autosuggestions
-	rm -rf ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
+	rm -rf ~/.zsh/
 	rm -rf ~/.SpaceVim
-	rm -rf ~/.oh-my-zsh/themes/powerlevel9k
+	rm -rf ~/.zsh/powerlevel10k
 	rm -rf ~/.tmux
 	rm -rf ~/.tmux/plugins/tpm
 
-.PHONY: bash iterm jetbrains karabiner neovim rstudio spacevim tmux vim vscode zsh bat brew conda exa fasd fd flycut font fzf gitconfig hub pyenv scim shiftit toolbox xpdf bash-exe bash_profile ideavimrc inputrc iterm-config iterm-exe karabiner-config karabiner-exe neovim-au neovim-exe neovim-init neovim-map neovim-plug neovim-set omz pl9k renv rstats rstudio-editor-bindings rstudio-ide-bindings rstudio-settings spacevim-config-toml spacevim-config-vim spacevim-exe tmux-exe tmux-dot tmux-local tmux-plug vim-au vim-exe vim-map vim-plug vim-set vim-config vscode-exe vscode-keybindings vscode-liveshare vscode-python vscode-settings vscode-vim zsh-autosuggestions zsh-syntax-highlighting zshrc
+.PHONY: bash iterm jetbrains karabiner neovim rstudio spacevim tmux vim vscode zsh bat brew conda exa fasd fd flycut font fzf gitconfig hub pyenv scim shiftit toolbox xpdf bash-exe bash_profile ideavimrc inputrc iterm-config iterm-exe karabiner-config karabiner-exe neovim-au neovim-exe neovim-init neovim-map neovim-plug neovim-set p10k renv rstats rstudio-editor-bindings rstudio-ide-bindings rstudio-settings spacevim-config-toml spacevim-config-vim spacevim-exe tmux-exe tmux-dot tmux-local tmux-plug vim-au vim-exe vim-map vim-plug vim-set vim-config vscode-exe vscode-keybindings vscode-liveshare vscode-python vscode-settings vscode-vim zsh-autosuggestions zsh-syntax-highlighting zshrc
