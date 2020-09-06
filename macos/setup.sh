@@ -131,13 +131,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vi
 curl https://raw.githubusercontent.com/py4ds/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
 
 ## Set up oh my tmux
-git clone https://github.com/gpakosz/.tmux ~/.tmux
-
-cd
-
-ln -s -f ~/.tmux/.tmux.conf
-
-cp ~/.tmux/.tmux.conf.local ~
+curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf -o ~/.tmux.conf
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
 
