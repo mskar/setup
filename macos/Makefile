@@ -63,7 +63,7 @@ spacevim-config-toml: ~/.SpaceVim.d/init.toml
 spacevim-config-vim: ~/.SpaceVim.d/autoload/myspacevim.vim
 spacevim-exe: ~/.SpaceVim
 tmux-exe: /usr/local/bin/tmux
-tmux-dot: ~/.tmux
+tmux-dot: ~/.tmux.conf
 tmux-local: ~/.tmux.conf.local
 tmux-plug: ~/.tmux/plugins/tpm
 toolbox: /Applications/JetBrains\ Toolbox.app
@@ -95,8 +95,8 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 ~/mskar/setup/vim/.plug.vimrc: repo
 ~/mskar/setup/vim/.set.vimrc: repo
 ~/mskar/setup/vim/.au.vimrc: repo
-~/mskar/setup/.tmux.conf.local: repo
-~/mskar/setup/.tmux.conf: repo
+~/mskar/setup/macos/.tmux.conf: repo
+~/mskar/setup/macos/.tmux.conf.local: repo
 ~/mskar/setup/macos/.zshrc: repo
 ~/mskar/setup/macos/.p10k.zsh: repo
 ~/mskar/setup/macos/.bash_profile: repo
@@ -200,10 +200,10 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/mskar/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 /usr/local/bin/tmux:
 	-brew install tmux
-~/.tmux.conf.local: ~/mskar/setup/.tmux.conf.local
-	curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
-~/.tmux.conf: ~/mskar/setup/.tmux.conf
-	curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf -o ~/.tmux.conf
+~/.tmux.conf.local: ~/mskar/setup/macos/.tmux.conf.local
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.tmux.conf.local -o ~/.tmux.conf.local
+~/.tmux.conf: ~/mskar/setup/macos/.tmux.conf
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.tmux.conf -o ~/.tmux.conf
 ~/.tmux/plugins/tpm:
 	-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 /usr/local/bin/vim:
