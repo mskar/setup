@@ -168,7 +168,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/set.vim -o ~/.config/nvim/set.vim --create-dirs
 ~/.config/nvim/au.vim: ~/mskar/setup/neovim/au.vim
 	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/au.vim -o ~/.config/nvim/au.vim --create-dirs
-~/.zsh/powerlevel9k:
+~/.zsh/powerlevel10k:
 	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
