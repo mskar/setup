@@ -26,18 +26,22 @@
 ## Install Homebrew (this also installs xcode tools needed for git)
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-## Install oh-my-zsh et al.
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-### When prompted to change shell, enter Y
+# Zsh theme: powerlevel10k
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
 
-git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/themes/powerlevel9k
+# Zsh plugin: zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/plugins/zsh-autosuggestions
+# Zsh plugin: zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
 
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
-
+# Zsh config
 curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.zshrc -o ~/.zshrc
 
+# powerlevel10k config
+curl https://raw.githubusercontent.com/py4ds/setup/master/macos/.p10k.zsh -o ~/.p10k.zsh
+
+# git config
 curl https://raw.githubusercontent.com/py4ds/setup/master/.gitconfig -o ~/.gitconfig
 
 # Font and Applications
@@ -154,7 +158,7 @@ conda install -yc conda-forge cookiecutter nodejs neovim pybtex
 ##### jupyter labextension install @jupyterlab/git
 ##### jupyter serverextension enable --py jupyterlab_git
 
-conda create -yc conda-forge -n py python=3.8 joblib jupyterlab matplotlib numpy pandas scikit-learn scipy
+conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 
 ##### jupyter labextension install jupyterlab_vim
 

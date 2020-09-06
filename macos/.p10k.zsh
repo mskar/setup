@@ -47,7 +47,7 @@
     anaconda                # conda environment (https://conda.io/)
     pyenv                   # python environment (https://github.com/pyenv/pyenv)
     dir                     # current directory
-    date                    # current time
+    date                    # current date
     time                    # current time
     ram                     # free RAM
     load                    # CPU load
@@ -1579,11 +1579,18 @@
   #   P9K_WIFI_NOISE        | noise in dBm, from -120 to 0
   #   P9K_WIFI_BARS         | signal strength in bars, from 0 to 4 (derived from P9K_WIFI_RSSI and P9K_WIFI_NOISE)
 
+  ####################################[ date: current date ]####################################
+  # Current date color.
+  typeset -g POWERLEVEL9K_DATE_FOREGROUND=0
+  typeset -g POWERLEVEL9K_DATE_BACKGROUND=7
+  # Format for the current date: YYYY-MM-DD. See `man 3 strftime`.
+  typeset -g POWERLEVEL9K_DATE_FORMAT='%D{%Y-%m-%d}'
+
   ####################################[ time: current time ]####################################
   # Current time color.
-  # typeset -g POWERLEVEL9K_TIME_FOREGROUND=0
-  # typeset -g POWERLEVEL9K_TIME_BACKGROUND=7
-  # Format for the current time: 09:51:02. See `man 3 strftime`.
+  typeset -g POWERLEVEL9K_TIME_FOREGROUND=0
+  typeset -g POWERLEVEL9K_TIME_BACKGROUND=7
+  # Format for the current time: HH:MM. See `man 3 strftime`.
   typeset -g POWERLEVEL9K_TIME_FORMAT='%D{%H:%M}'
   # If set to true, time will update when you hit enter. This way prompts for the past
   # commands will contain the start times of their commands as opposed to the default
