@@ -10,7 +10,9 @@ source ~/.zsh/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export EDITOR='/usr/local/bin/vim'
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+# export PATH=$HOME/miniconda/bin:$PATH
+# brew installed packages
+# export PATH=/usr/local/bin:$PATH
 
 ## Initialize fasd and its aliases
 eval "$(fasd --init auto)"
@@ -305,11 +307,6 @@ alias -s {ahk,js,json,md,py,rst,sh,toml,tex,txt,yaml,yml}="$EDITOR"
 alias -s {csv,tsv}=scim
 alias -s {doc,docx,html,pdf,ppt,pptx,xls,xlsx}=open
 alias -s {gif,jpeg,jpg,png,tiff}=open
-
-# brew installed python
-# export PATH=/usr/local/bin/python3:$PATH
-# miniconda python
-export PATH=$HOME/miniconda/bin:$PATH
 
 bindkey -v
 bindkey -M viins '\e.' insert-last-word
