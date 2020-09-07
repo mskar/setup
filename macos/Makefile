@@ -106,7 +106,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 ~/mskar/setup/macos/karabiner.json: repo
 ~/mskar/setup/vscode/keybindings.json: repo
 ~/mskar/setup/vscode/settings.json: repo
-~/mskar/setup/rstudio/user-settings: repo
+~/mskar/setup/rstudio/rstudio-prefs.json: repo
 ~/mskar/setup/rstudio/editor_bindings.json: repo
 ~/mskar/setup/rstudio/rstudio_bindings.json: repo
 ~/mskar/setup/spacevim/init.toml: repo
