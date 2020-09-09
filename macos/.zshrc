@@ -10,15 +10,59 @@ source ~/.zsh/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export EDITOR='/usr/local/bin/vim'
-# export PATH=$HOME/miniconda/bin:$PATH
+export PATH=$HOME/miniconda/bin:$PATH
 # brew installed packages
 # export PATH=/usr/local/bin:$PATH
 
-## Initialize fasd and its aliases
-eval "$(fasd --init auto)"
+# Options
+# https://www.viget.com/articles/zsh-config-productivity-plugins-for-mac-oss-default-shell/
+setopt always_to_end
+setopt auto_menu         # show completion menu on successive tab press
+setopt autocd
+setopt autopushd
+setopt complete_in_word
+setopt correct
+setopt correct_all
+setopt extended_history       # record timestamp of command in HISTFILE
+setopt hist_expire_dups_first # delete duplicates first when HISTFILE size exceeds HISTSIZE
+setopt hist_ignore_dups       # ignore duplicated commands history list
+setopt hist_ignore_space      # ignore commands that start with space
+setopt hist_save_no_dups
+setopt hist_verify            # show command with history expansion to user before running it
+setopt pushdignoredups
+setopt pushdminus
+setopt share_history          # share command history data
+unsetopt flow_control
+
+# Modules
+# https://www.refining-linux.org/archives/40-ZSH-Gem-5-Menu-selection.html
+# https://unix.stackexchange.com/a/323282
+# https://gist.github.com/LukeSmithxyz/e62f26e55ea8b0ed41a65912fbebbe52#gistcomment-3079386
+# https://nuclearsquid.com/writings/edit-long-commands/
+autoload -U compinit && compinit
+zstyle ':completion:*' menu select
+zmodload -i zsh/complist
+autoload -U edit-command-line; zle -N edit-command-line
 
 # Aliases
+alias -- -='cd -'
+alias -g ......='../../../../..'
+alias -g .....='../../../..'
+alias -g ....='../../..'
+alias -g ...='../..'
+alias ....="cd ../../.."
+alias ...="cd ../.."
+alias ..="cd .."
 alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --preview="exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && cd $(echo '$directory')"
+alias 1="cd -"
+alias 2="cd -2"
+alias 3="cd -3"
+alias 4="cd -4"
+alias 5="cd -5"
+alias 6="cd -6"
+alias 7="cd -7"
+alias 8="cd -8"
+alias 9="cd -9"
 alias a="git add"
 alias aa="func() { local files; files=$(echo '$(git status -s | fzf --nth=2.. --preview="if [ \$(git ls-files --other --exclude-standard {2..} | sed s/\ //g) ]; then; git diff --color=always --color-words --no-index -- /dev/null {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always --color-words {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add $(echo '$@') --; }; func"
 alias ac="git add --all && git commit --reedit-message=HEAD"
@@ -122,10 +166,10 @@ alias ee="func() { local both; both=$(echo '$(exa --all --classify --color=alway
 alias el="exa --all --classify --color=always --tree | less"
 alias em="exa --all --classify --color=always --tree | more"
 alias et="exa --all --classify --color=always --tree"
-alias fixnames="find /tmp/ -depth -name *\ * -execdir rename 's/ /_/g' '{}' \;"
 alias fcl="fc -l"
 alias fcld="fc -ld"
 alias fclf="fc -lf"
+alias fixnames="find /tmp/ -depth -name *\ * -execdir rename 's/ /_/g' '{}' \;"
 alias fl="fasd -fl"
 alias fn="fasd -fe 'nvim'"
 alias fo="fasd -fe open"
@@ -308,7 +352,14 @@ alias -s {csv,tsv}=scim
 alias -s {doc,docx,html,pdf,ppt,pptx,xls,xlsx}=open
 alias -s {gif,jpeg,jpg,png,tiff}=open
 
+# Keybindings
 bindkey -v
+bindkey '^x^e' edit-command-line
+bindkey -M menuselect '^o' accept-and-infer-next-history
+bindkey -M menuselect 'h' vi-backward-char
+bindkey -M menuselect 'j' vi-down-line-or-history
+bindkey -M menuselect 'k' vi-up-line-or-history
+bindkey -M menuselect 'l' vi-forward-char
 bindkey -M viins '\e.' insert-last-word
 bindkey -M viins '\eb' backward-word
 bindkey -M viins '\ed' kill-word
@@ -333,30 +384,9 @@ bindkey -M viins '^u' backward-kill-line
 bindkey -M viins '^w' backward-kill-word
 bindkey -M viins '^y' yank
 
-# the above is modified from https://dougblack.io/words/zsh-vi-mode.html
-
 # ctrl-d in normalmode brings up info about the thing under the caret!!!
 
-# https://www.youtube.com/watch?v=eLEo4OQ-cuQ
-# Use vim keys in tab complete menu:
-# bindkey -M menuselect 'h' vi-backward-char
-# bindkey -M menuselect 'k' vi-up-line-or-history
-# bindkey -M menuselect 'l' vi-forward-char
-# bindkey -M menuselect 'j' vi-down-line-or-history
-
-# https://nuclearsquid.com/writings/edit-long-commands/
-# Enable Ctrl-x-e to edit command line
-autoload -U edit-command-line; zle -N edit-command-line
-# Emacs style
-bindkey '^x^e' edit-command-line
-# Vi style:
-# bindkey -M vicmd v edit-command-line
-
-# https://github.com/clvv/fasd#tab-completion
-bindkey '^X^A' fasd-complete    # C-x C-a to do fasd-complete (files and directories)
-bindkey '^X^F' fasd-complete-f  # C-x C-f to do fasd-complete-f (only files)
-bindkey '^X^D' fasd-complete-d  # C-x C-d to do fasd-complete-d (only directories)
-
+# Cursor
 # taken from https://emily.st/2013/05/03/zsh-vi-cursor/
 function zle-keymap-select zle-line-init
 {
@@ -381,9 +411,7 @@ zle -N zle-keymap-select
 
 export KEYTIMEOUT=1
 
-prompt_context() {}
-
-
+# FZF
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 # https://github.com/sharkdp/fd#using-fd-with-fzf
 # https://github.com/junegunn/fzf#respecting-gitignore
