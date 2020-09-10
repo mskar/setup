@@ -6,11 +6,21 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 # Environment
+# https://github.com/sharkdp/fd#using-fd-with-fzf
+# https://github.com/junegunn/fzf#respecting-gitignore
+# https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 source ~/.zsh/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export EDITOR='/usr/local/bin/vim'
 export PATH=$HOME/miniconda/bin:$PATH
+export KEYTIMEOUT=1
+export FZF_DEFAULT_COMMAND="fd --type file"
+export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
+export FZF_DEFAULT_OPTS="--bind=change:top,alt-p:toggle-preview,alt-w:toggle-preview-wrap --cycle --exit-0 --inline-info --multi --no-height --no-sort --preview='bat --style=numbers --color=always {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --preview-window='70%:hidden' --reverse --tiebreak=index"
+export FZF_CTRL_T_OPTS="--select-1"
+export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
+export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
 # brew installed packages
 # export PATH=/usr/local/bin:$PATH
 
@@ -352,38 +362,6 @@ alias -s {csv,tsv}=scim
 alias -s {doc,docx,html,pdf,ppt,pptx,xls,xlsx}=open
 alias -s {gif,jpeg,jpg,png,tiff}=open
 
-# Keybindings
-bindkey -v
-bindkey '^x^e' edit-command-line
-bindkey -M menuselect '^o' accept-and-infer-next-history
-bindkey -M menuselect 'h' vi-backward-char
-bindkey -M menuselect 'j' vi-down-line-or-history
-bindkey -M menuselect 'k' vi-up-line-or-history
-bindkey -M menuselect 'l' vi-forward-char
-bindkey -M viins '\e.' insert-last-word
-bindkey -M viins '\eb' backward-word
-bindkey -M viins '\ed' kill-word
-bindkey -M viins '\ef' forward-word
-bindkey -M viins '\eh' backward-kill-word
-bindkey -M viins '\el' down-case-word
-bindkey -M viins '\et' transpose-words
-bindkey -M viins '\eu' up-case-word
-bindkey -M viins '\ey' yank-pop
-bindkey -M viins '^?' backward-delete-char
-bindkey -M viins '^_' undo
-bindkey -M viins '^a' beginning-of-line
-bindkey -M viins '^b' backward-char
-bindkey -M viins '^d' delete-char
-bindkey -M viins '^e' end-of-line
-bindkey -M viins '^f' forward-char
-bindkey -M viins '^h' backward-delete-char
-bindkey -M viins '^k' kill-line
-bindkey -M viins '^n' down-history
-bindkey -M viins '^p' up-history
-bindkey -M viins '^u' backward-kill-line
-bindkey -M viins '^w' backward-kill-word
-bindkey -M viins '^y' yank
-
 # ctrl-d in normalmode brings up info about the thing under the caret!!!
 
 # Cursor
@@ -409,29 +387,59 @@ zle -N zle-line-init
 zle -N zle-line-finish
 zle -N zle-keymap-select
 
-export KEYTIMEOUT=1
 
 # FZF
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-# https://github.com/sharkdp/fd#using-fd-with-fzf
-# https://github.com/junegunn/fzf#respecting-gitignore
-export FZF_DEFAULT_COMMAND="fd --type file"
-export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 
-# https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 
-export FZF_DEFAULT_OPTS="--bind=change:top,alt-p:toggle-preview,alt-w:toggle-preview-wrap --cycle --exit-0 --inline-info --multi --no-height --no-sort --preview='bat --style=numbers --color=always {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --preview-window='70%:hidden' --reverse --tiebreak=index"
-export FZF_CTRL_T_OPTS="--select-1"
-export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
-
-fzf-history-widget-accept() {
-  fzf-history-widget
-  zle accept-line
-}
-zle     -N     fzf-history-widget-accept
-bindkey '^X^R' fzf-history-widget-accept
-
-export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
+# Keybindings
+# https://github.com/junegunn/fzf/issues/546#issuecomment-213344845
+# https://en.wikipedia.org/wiki/GNU_Readline#Emacs_keyboard_shortcuts
+# http://web.cs.elte.hu/zsh-manual/zsh_14.html#SEC49
+bindkey -v
+bindkey -M menuselect '^o' accept-and-infer-next-history
+bindkey -M menuselect 'h' vi-backward-char
+bindkey -M menuselect 'j' vi-down-line-or-history
+bindkey -M menuselect 'k' vi-up-line-or-history
+bindkey -M menuselect 'l' vi-forward-char
+bindkey -M viins "\e'" quote-line
+bindkey -M viins '\e"' quote-region
+bindkey -M viins '\e.' insert-last-word
+bindkey -M viins '\e@' set-mark-command
+bindkey -M viins '\eb' backward-word
+bindkey -M viins '\ec' capitalize-word
+bindkey -M viins '\ed' kill-word
+bindkey -M viins '\ef' forward-word
+bindkey -M viins '\eh' backward-kill-word
+bindkey -M viins '\el' down-case-word
+bindkey -M viins '\et' transpose-words
+bindkey -M viins '\eu' up-case-word
+bindkey -M viins '\ey' yank-pop
+bindkey -M viins '^?' backward-delete-char
+bindkey -M viins '^_' undo
+bindkey -M viins '^a' beginning-of-line
+bindkey -M viins '^b' backward-char
+bindkey -M viins '^d' delete-char
+bindkey -M viins '^e' end-of-line
+bindkey -M viins '^f' forward-char
+bindkey -M viins '^h' backward-delete-char
+bindkey -M viins '^k' kill-line
+bindkey -M viins '^n' down-history
+bindkey -M viins '^p' up-history
+bindkey -M viins '^r' fzf-history-widget
+bindkey -M viins '^t' transpose-chars
+bindkey -M viins '^u' backward-kill-line
+bindkey -M viins '^w' backward-kill-word
+bindkey -M viins '^x^b' vi-match-bracket
+bindkey -M viins '^x^e' edit-command-line
+bindkey -M viins '^x^f' fzf-file-widget
+bindkey -M viins '^x^f' vi-find-next-char
+bindkey -M viins '^x^j' vi-join
+bindkey -M viins '^x^p' fzf-cd-widget
+bindkey -M viins '^x^u' undo
+bindkey -M viins '^x^x' exchange-point-and-mark
+bindkey -M viins '^xu' undo
+bindkey -M viins '^y' yank
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
