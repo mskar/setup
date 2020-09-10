@@ -341,6 +341,8 @@ alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --
 alias vw="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed 's/docx/md/;p;s/md/docx/' | tr '\n' '\0' | xargs -0 -n2 pandoc -f docx -t markdown -o && echo $(echo '${files//docx/md}') | tr '\n' '\0' | xargs -0 -o $EDITOR --; }; func";
 alias vz="v ~/.zshrc"
 alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 webstorm; }; func";
+alias y="fc -ln -1 | pbcopy"
+alias yy="func() { local cmds; cmds=$(echo '$(fc -ln $@ | fzf -m )') && [ $(echo '$cmds') ] && echo $(echo '$cmds') | pbcopy; }; func";
 alias z="fasd -d"
 alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
