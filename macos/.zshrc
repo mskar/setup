@@ -32,7 +32,6 @@ setopt autocd
 setopt autopushd
 setopt complete_in_word
 setopt correct
-setopt correct_all
 setopt extended_history       # record timestamp of command in HISTFILE
 setopt hist_expire_dups_first # delete duplicates first when HISTFILE size exceeds HISTSIZE
 setopt hist_ignore_dups       # ignore duplicated commands history list
@@ -144,29 +143,29 @@ alias cn="git clean -n"
 alias cnd="git clean -nd"
 alias co="git checkout"
 alias cob="git checkout -b"
-alias cof="func() { local files; files=$(echo '$(git diff HEAD --diff-filter=M --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git checkout HEAD --; }; func"
 alias coh="func() { git checkout $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias com="git checkout master"
+alias co-="git checkout --"
 alias cr="conda remove"
 alias crp="git commit --reuse-message=HEAD && git push"
 alias crpf="git commit --reuse-message=HEAD && git push --force"
 alias cu="conda update"
 alias d="git diff --word-diff=color"
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
-alias dcs="git difftool -yt code --extcmd 'code --wait --diff' --cached" # --staged is a synonym of --cached
+alias dcs="git difftool -yt code --extcmd 'code --wait --diff' --staged"
 alias dd="func() { local commit; commit=$(echo '$(git log --color=always --format="%C(cyan)%>(12,trunc)%ar %Creset%s %Cred%D %Cgreen%cn %Cblue%h" --graph -- $@ | fzf --ansi --nth=1,2,4..-2 --no-multi --preview="git show --color=always {-1} -- $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --preview-window="55%" | rev | cut -d " " -f1 | rev)') && [ $(echo '$commit') ] && dt $(echo '$commit -- $@') }; func"
 alias dh="func() { git diff --word-diff=color $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias dl="git diff --word-diff=color"
 alias dn="git difftool -yt nvim --extcmd 'nvim -d'"
-alias dns="git difftool -yt nvim --extcmd 'nvim -d' --cached" # --staged is a synonym of --cached
+alias dns="git difftool -yt nvim --extcmd 'nvim -d' --staged"
 alias dp="git difftool -yt pycharm --extcmd 'pycharm diff $LOCAL $REMOTE'"
 alias dps="git difftool -yt pycharm --extcmd 'pycharm diff'"
-alias ds="git diff --word-diff=color --cached" # --staged is a synonym of --cached
+alias ds="git diff --word-diff=color --staged"
 alias dt="git difftool -yt vimdiff" # difftool is dt to match mergetool (mt)
-alias dts="git difftool -yt vimdiff --cached" # --staged is a synonym of --cached
+alias dts="git difftool -yt vimdiff --staged"
 alias duh="du -h"
 alias dus="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
-alias duss="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached" # --staged is a synonym of --cached
+alias duss="git difftool -yt nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --staged"
 alias dw="git diff --word-diff=color"
 alias e="exa --all --classify --color=always"
 alias ee="func() { local both; both=$(echo '$(exa --all --classify --color=always $@ | fzf --ansi --preview="if [[ {} == */ ]]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi")') && [ $(echo '$both') ] && echo $(echo '$both') | tr '\n' '\0' | xargs -0 open --; }; func"
@@ -224,14 +223,14 @@ alias lr="git log --format='%C(cyan)%>(12,trunc)%ar %Creset%<(80,trunc)%s %Cblue
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias mc="git mergetool -t code --extcmd 'code --wait'"
-alias mcs="git mergetool -t code --extcmd 'code --wait' --cached"
+alias mcs="git mergetool -t code --extcmd 'code --wait' --staged"
 alias mm="func() { local file; file=$(echo '$(git diff --diff-filter=U --name-only --relative | fzf --bind="alt-o:execute-silent(git checkout --ours {} && git add {})+reload(git diff --diff-filter=U --name-only --relative),alt-t:execute-silent(git checkout --theirs {} && git add {})+reload(git diff --diff-filter=U --name-only --relative)" --preview="git log --color=always --color-words --format=\"%n%C(cyan)%>(12,trunc)%ar %Cred%D %Creset%s %Cgreen%cn %Cblue%h\" --merge --patch -- {} | sed 1d | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
 alias mn="git mergetool -t nvim --extcmd 'nvim -d'"
-alias mns="git mergetool -t nvim --extcmd 'nvim -d' --cached"
+alias mns="git mergetool -t nvim --extcmd 'nvim -d' --staged"
 alias mt="git mergetool -t vimdiff" # mv is taken
-alias mts="git mergetool -t vimdiff --cached"
+alias mts="git mergetool -t vimdiff --staged"
 alias mu="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
-alias mus="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --cached"
+alias mus="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --staged"
 alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ne="func() { local files; files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
@@ -271,7 +270,7 @@ alias pom="git push origin master"
 alias pomf="git push origin master --force"
 alias pp="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 pycharm; }; func";
 alias py="python"
-alias r="git reset"
+alias r="git reset" # Resets the index but not the working tree (mixed)
 alias ra="git remote add"
 alias rah="func() { git remote add hub https://github.com/$(echo '$@'); }; func";
 alias ral="func() { git remote add lab https://gitlab.com/$(echo '$@'); }; func";
@@ -286,11 +285,12 @@ alias rh="func() { git reset $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias rhh="func() { git reset --hard $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias rhs="func() { git reset --soft $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func";
-alias rr="func() { local files; files=$(echo '$(git diff --cached --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git reset HEAD --; }; func"
+alias rr="func() { local files; files=$(echo '$(git diff HEAD --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --staged --worktree --; }; func"
+alias rs="func() { local files; files=$(echo '$(git diff --staged --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --staged --; }; func"
+alias rw="func() { local files; files=$(echo '$(git diff HEAD --diff-filter=M --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --worktree --; }; func"
 alias rrm="git remote remove"
 alias rrmo="git remote remove origin"
 alias rrmu="git remote remove upstream"
-alias rs="git reset --soft" # resets by default to HEAD
 alias rsu="git remote set-url"
 alias rsuo="git remote set-url origin"
 alias rsuoa="func() { git remote set-url origin $(echo '$@') --add; }; func";
@@ -302,7 +302,6 @@ alias sa="git stash apply"
 alias saa="ssh-add -A";
 alias sal="ssh-add -l";
 alias sb="git stash branch"
-alias sc="func() { echo '\nHost '$(echo '$1')'\nHostName '$(echo '$2')'\nIdentityFile ~/.ssh/'$(echo '$1')'\nAddKeysToAgent yes\nUseKeychain yes' >> ~/.ssh/config; }; func";
 alias sc="git stash clear"
 alias sd="git stash drop"
 alias sl="git stash list"
@@ -312,6 +311,9 @@ alias su="git stash push && git pull --rebase"
 alias sub="git stash push && git pull --rebase && git stash branch"
 alias sun="git status --untracked-files=no"
 alias sup="git stash push && git pull --rebase && git stash pop"
+alias sw="git switch"
+alias swc="git switch -c"
+alias swC="git switch -C"
 alias sz="source ~/.zshrc"
 alias t="tmux"
 alias ta="tmux attach -t"
