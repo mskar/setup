@@ -341,6 +341,7 @@ alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --
 alias vw="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed 's/docx/md/;p;s/md/docx/' | tr '\n' '\0' | xargs -0 -n2 pandoc -f docx -t markdown -o && echo $(echo '${files//docx/md}') | tr '\n' '\0' | xargs -0 -o $EDITOR --; }; func";
 alias vz="v ~/.zshrc"
 alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 webstorm; }; func";
+alias z="fasd -d"
 alias zc="fasd -de code"
 alias zl="fasd -dl" # list all directories
 alias zn="fasd -de 'nvim'"
@@ -348,6 +349,7 @@ alias zo="fasd -de open"
 alias zp="fasd -de pycharm"
 alias zu="fasd -de 'vim -u ~/.SpaceVim/vimrc'"
 alias zv="fasd -de '$EDITOR'"
+alias zz="fasd_cd() { local _fasd_ret=$(echo '$(fasd -e echo $@)'); [ -z $(echo '$_fasd_ret') ] && return; [ -d $(echo '$_fasd_ret') ] && cd $(echo '$_fasd_ret') || echo $(echo '$_fasd_ret'); }; fasd_cd -di"
 
 # Suffix aliases: use with fzf ctrl-t: even with multiple files
 # first file listed determines the command used to open all files
@@ -433,9 +435,7 @@ bindkey -M viins '^w' backward-kill-word
 bindkey -M viins '^x^b' vi-match-bracket
 bindkey -M viins '^x^e' edit-command-line
 bindkey -M viins '^x^f' fzf-file-widget
-bindkey -M viins '^x^f' vi-find-next-char
-bindkey -M viins '^x^j' vi-join
-bindkey -M viins '^x^p' fzf-cd-widget
+bindkey -M viins '^x^j' fzf-cd-widget
 bindkey -M viins '^x^u' undo
 bindkey -M viins '^x^x' exchange-point-and-mark
 bindkey -M viins '^xu' undo
