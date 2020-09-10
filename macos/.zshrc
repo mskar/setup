@@ -134,9 +134,6 @@ alias cer="conda env remove"
 alias cern="conda env remove -n"
 alias cerp="conda env remove -p"
 alias ceu="conda env update"
-alias cf="git clean -f"
-alias cfd="git clean -fd"
-alias cff="func() {local untracked; untracked=$(echo '$(git clean -dfn | sed s/^Would\ remove\ // | fzf)') && [ $(echo '$untracked') ] && echo $(echo '$untracked') | tr '\n' '\0' | xargs -0 git clean -df; }; func";
 alias ci="conda install -yc conda-forge"
 alias ciz="conda init zsh"
 alias cl="conda list"
@@ -263,6 +260,10 @@ alias p="git push"
 alias pc="pycharm"
 alias pd="pycharm diff"
 alias pf="git push --force"
+alias pi="pip install"
+alias pie="pip install --editable"
+alias pit="pip install --target"
+alias piu="pip install --upgrade"
 alias pm="pycharm merge"
 alias po="git push origin"
 alias pof="git push origin --force"
@@ -341,6 +342,8 @@ alias vv="func() { local files; files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --
 alias vw="func() { local files; files=$(echo '$(fd -e docx --type f ^ $@ | fzf --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed 's/docx/md/;p;s/md/docx/' | tr '\n' '\0' | xargs -0 -n2 pandoc -f docx -t markdown -o && echo $(echo '${files//docx/md}') | tr '\n' '\0' | xargs -0 -o $EDITOR --; }; func";
 alias vz="v ~/.zshrc"
 alias ww="func() { local files; files=$(echo '$(fd -e js --type f ^ $@ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 webstorm; }; func";
+alias x="git clean -df"
+alias xx="func() {local untracked; untracked=$(echo '$(git clean -dfn | sed s/^Would\ remove\ // | fzf)') && [ $(echo '$untracked') ] && echo $(echo '$untracked') | tr '\n' '\0' | xargs -0 git clean -df; }; func";
 alias y="fc -ln -1 | pbcopy"
 alias yy="func() { local cmds; cmds=$(echo '$(fc -ln $@ | fzf -m )') && [ $(echo '$cmds') ] && echo $(echo '$cmds') | pbcopy; }; func";
 alias z="fasd -d"

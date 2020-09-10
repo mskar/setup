@@ -339,18 +339,23 @@
 
   #####################################[ vcs: git status ]######################################
   # Version control system colors.
-  # typeset -g POWERLEVEL9K_VCS_CLEAN_BACKGROUND=2
-  # typeset -g POWERLEVEL9K_VCS_MODIFIED_BACKGROUND=3
-  # typeset -g POWERLEVEL9K_VCS_UNTRACKED_BACKGROUND=2
-  # typeset -g POWERLEVEL9K_VCS_CONFLICTED_BACKGROUND=3
-  # typeset -g POWERLEVEL9K_VCS_LOADING_BACKGROUND=8
+  typeset -g POWERLEVEL9K_VCS_CLEAN_BACKGROUND=10
+  typeset -g POWERLEVEL9K_VCS_MODIFIED_BACKGROUND=11
+  typeset -g POWERLEVEL9K_VCS_UNTRACKED_BACKGROUND=14
+  typeset -g POWERLEVEL9K_VCS_CONFLICTED_BACKGROUND=9
+  typeset -g POWERLEVEL9K_VCS_LOADING_BACKGROUND=8
 
   # Branch icon. Set this parameter to '\uF126 ' for the popular Powerline branch icon.
   typeset -g POWERLEVEL9K_VCS_BRANCH_ICON='\uF126 '
 
   # Untracked files icon. It's really a question mark, your font isn't broken.
   # Change the value of this parameter to show a different icon.
-  typeset -g POWERLEVEL9K_VCS_UNTRACKED_ICON='?'
+  # https://github.com/Powerlevel9k/powerlevel9k/pull/108/files
+  typeset -g POWERLEVEL9K_VCS_UNTRACKED_ICON='\uF059 ' # ?
+  typeset -g POWERLEVEL9K_VCS_CONFLICTED_ICON='~'
+  typeset -g POWERLEVEL9K_VCS_STASHED_ICON='\uf01c ' # *
+  typeset -g POWERLEVEL9K_VCS_UNSTAGED_ICON='\uF06A ' # !
+  typeset -g POWERLEVEL9K_VCS_STAGED_ICON='\uf055 ' # +
 
   # Formatter for Git status.
   #
@@ -414,15 +419,15 @@
     # ⇢42 if ahead of the push remote; no leading space if also behind: ⇠42⇢42.
     (( VCS_STATUS_PUSH_COMMITS_AHEAD  )) && res+="${clean}⇢${VCS_STATUS_PUSH_COMMITS_AHEAD}"
     # *42 if have stashes.
-    (( VCS_STATUS_STASHES        )) && res+=" ${clean}*${VCS_STATUS_STASHES}"
+    (( VCS_STATUS_STASHES        )) && res+=" ${clean}${(g::)POWERLEVEL9K_VCS_STASHED_ICON}${VCS_STATUS_STASHES}"
     # 'merge' if the repo is in an unusual state.
     [[ -n $VCS_STATUS_ACTION     ]] && res+=" ${conflicted}${VCS_STATUS_ACTION}"
     # ~42 if have merge conflicts.
-    (( VCS_STATUS_NUM_CONFLICTED )) && res+=" ${conflicted}~${VCS_STATUS_NUM_CONFLICTED}"
+    (( VCS_STATUS_NUM_CONFLICTED )) && res+=" ${conflicted}${(g::)POWERLEVEL9K_VCS_CONFLICTED_ICON}${VCS_STATUS_NUM_CONFLICTED}"
     # +42 if have staged changes.
-    (( VCS_STATUS_NUM_STAGED     )) && res+=" ${modified}+${VCS_STATUS_NUM_STAGED}"
+    (( VCS_STATUS_NUM_STAGED     )) && res+=" ${modified}${(g::)POWERLEVEL9K_VCS_STAGED_ICON}${VCS_STATUS_NUM_STAGED}"
     # !42 if have unstaged changes.
-    (( VCS_STATUS_NUM_UNSTAGED   )) && res+=" ${modified}!${VCS_STATUS_NUM_UNSTAGED}"
+    (( VCS_STATUS_NUM_UNSTAGED   )) && res+=" ${modified}${(g::)POWERLEVEL9K_VCS_UNSTAGED_ICON}${VCS_STATUS_NUM_UNSTAGED}"
     # ?42 if have untracked files. It's really a question mark, your font isn't broken.
     # See POWERLEVEL9K_VCS_UNTRACKED_ICON above if you want to use a different icon.
     # Remove the next line if you don't want to see untracked files at all.
