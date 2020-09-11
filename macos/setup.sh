@@ -72,9 +72,9 @@ curl https://raw.githubusercontent.com/mskar/setup/master/macos/karabiner.json -
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
 ## Set up Visual Studio Code
-curl https://raw.githubusercontent.com/mskar/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User/settings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/master/vscode/settings.json -o ~/Library/Application\ Support/Code/User/settings.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User/keybindings.json
+curl https://raw.githubusercontent.com/mskar/setup/master/vscode/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json
 
 code --install-extension ms-python.python --force
 
