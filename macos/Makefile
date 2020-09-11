@@ -74,10 +74,10 @@ vim-set: ~/.set.vimrc
 vim-au: ~/.au.vimrc
 vim-config: ~/.vimrc
 vscode-exe: /Applications/Visual\ Studio\ Code.app
-vscode-keybindings: ~/Library/ApplicationSupport/Code/User/keybindings.json
+vscode-keybindings: ~/Library/Application\ Support/Code/User/keybindings.json
 vscode-liveshare: $(VSCODE_LIVESHARE)
 vscode-python: $(VSCODE_PYTHON)
-vscode-settings: ~/Library/ApplicationSupport/Code/User/settings.json
+vscode-settings: ~/Library/Application\ Support/Code/User/settings.json
 vscode-vim: $(VSCODE_VIM)
 xpdf: /usr/local/bin/xpdf
 zsh-autosuggestions: ~/.zsh/zsh-autosuggestions
@@ -221,10 +221,10 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 /Applications/VisualStudioCode.app:
 	-brew cask install visual-studio-code
 	-ln -fs /Applications/Visual\ Studio\ Code.app /Applications/VisualStudioCode.app
-~/Library/ApplicationSupport/Code/User/settings.json: ~/mskar/setup/vscode/settings.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/settings.json -o ~/Library/ApplicationSupport/Code/User/settings.json --create-dirs
-~/Library/ApplicationSupport/Code/User/keybindings.json: ~/mskar/setup/vscode/keybindings.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/keybindings.json -o ~/Library/ApplicationSupport/Code/User/keybindings.json --create-dirs
+~/Library/Application\ Support/Code/User/settings.json: ~/mskar/setup/vscode/settings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/settings.json -o ~/Library/Application\ Support/Code/User/settings.json --create-dirs
+~/Library/Application\ Support/Code/User/keybindings.json: ~/mskar/setup/vscode/keybindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json --create-dirs
 $(VSCODE_PYTHON):
 	code --install-extension ms-python.python --force
 $(VSCODE_VIM):
