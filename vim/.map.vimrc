@@ -96,35 +96,52 @@ inoremap <C-_> <C-o>u
 
 " " Emacs and bash style insert mode ALT shortcuts
 " " <A-b> = Move one word backward; opposite of <A-f>
-" inoremap <A-b> <S-Left>
-" cnoremap <A-b> <S-Left>
+set <A-b>=b
+inoremap <A-b> <S-Left>
+cnoremap <A-b> <S-Left>
+" <A-c> = Capitalize letter and move forward
+set <A-c>=c
+inoremap <A-c> <Esc>l~ea
 " " <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
-" inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
-" cnoremap <A-d> <S-Right><C-w>
+set <A-d>=d
+inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
+cnoremap <A-d> <S-Right><C-w>
 " " <A-f> = Move one word forward; opposite of <A-b>
-" inoremap <A-f> <S-Right>
-" cnoremap <A-f> <S-Right>
+set <A-f>=f
+inoremap <A-f> <S-Right>
+cnoremap <A-f> <S-Right>
 " " <A-h> = Delete word backward; opposite of <A-d>; same as <C-w>
-" inoremap <A-h> <C-g>u<C-w>
-" cnoremap <A-h> <C-w>
+set <A-h>=h
+inoremap <A-h> <C-g>u<C-w>
+cnoremap <A-h> <C-w>
 " " <A-j> = Move down; opposite of <A-k>
-" inoremap <A-j> <Down>
-" cnoremap <A-j> <Down>
+set <A-j>=j
+inoremap <A-j> <Down>
+cnoremap <A-j> <Down>
 " " <A-k> = Move up; opposite of <A-j>
-" inoremap <A-k> <Up>
-" cnoremap <A-k> <Up>
+set <A-k>=k
+inoremap <A-k> <Up>
+cnoremap <A-k> <Up>
 " " <A-l> = Lowercase to word end; opposite of <A-u>
-" inoremap <A-l> <Esc>gueea
-" cnoremap <A-l> <C-f>guee<C-c>
+set <A-l>=l
+inoremap <A-l> <Esc>gueea
+cnoremap <A-l> <C-f>guee<C-c>
 " " <A-t> = Swap current word with previous word
-" inoremap <A-t> <Esc>diwbPldepa
-" cnoremap <A-t> <C-f>diwbPldep<C-c>
+set <A-t>=t
+inoremap <A-t> <Esc>diwbPldepa
+cnoremap <A-t> <C-f>diwbPldep<C-c>
 " " <A-u> = Uppercase to WORD end; opposite of <A-l>
-" inoremap <A-u> <Esc>gUeea
-" cnoremap <A-u> <C-f>gUee<C-c>
+set <A-u>=u
+inoremap <A-u> <Esc>gUeea
+cnoremap <A-u> <C-f>gUee<C-c>
 " " <A-.> = Insert previously inserted text (if any)
-" inoremap <A-.> <Esc>a<C-r>.
-" cnoremap <A-.> <C-r>.
+set <A-.>=.
+inoremap <A-.> <Esc>a<C-r>.
+cnoremap <A-.> <C-r>.
+" " <A--> = Undo
+set <A-->=-
+inoremap <A--> <Esc>ugi
+" inoremap <A--> <C-o>u
 
 " Switch buffers
 nnoremap <C-w>; :bn<CR><C-g>

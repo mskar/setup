@@ -193,6 +193,8 @@ inoremap <C--> <C-o>u
 " Emacs and bash style insert mode ALT shortcuts
 " <A-b> = Move one word backward; opposite of <A-f>
 inoremap <A-b> <S-Left>
+" <A-c> = Capitalize letter and move forward
+inoremap <A-c> <Esc>l~ea
 " <A-d> = Delete word forward; opposite of <A-h> and <C-w>
 inoremap <A-d> <C-o>:action EditorKillToWordEnd<CR>
 " <A-f> = Move one word forward; opposite of <A-b>
@@ -209,6 +211,12 @@ inoremap <A-l> <Esc>gueea
 inoremap <A-t> <Esc>diwbPldepa
 " <A-u> = Uppercase to WORD end; opposite of <A-l> (does not work)
 inoremap <A-u> <Esc>gUeea
+" " <A-.> = Insert previously inserted text (if any)
+inoremap <A-.> <Esc>a<C-r>.
+cnoremap <A-.> <C-r>.
+" " <A--> = Undo
+inoremap <A--> <Esc>ugi
+" inoremap <A--> <C-o>u
 
 " Multiple cursors mappings
 inoremap <A-j> <C-o>:action EditorCloneCaretBelow<CR>

@@ -9,7 +9,6 @@ noremap <leader>gc :Gwrite<bar>Gcommit<CR>
 noremap <leader>gp :Gpush<CR>
 noremap <leader>gu :Gpull<CR>
 noremap gs :Gstatus<CR>
-noremap gb :Gblame<CR>
 noremap <leader>gd :Gvdiff<CR>
 noremap <leader>gr :Gremove<CR>
 noremap <leader>gl :Glog<CR>
@@ -87,6 +86,8 @@ inoremap <C-_> <C-o>u
 " <A-b> = Move one word backward; opposite of <A-f>
 inoremap <A-b> <S-Left>
 cnoremap <A-b> <S-Left>
+" <A-c> = Capitalize letter and move forward
+inoremap <A-c> <Esc>l~ea
 " <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
 inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
 cnoremap <A-d> <S-Right><C-w>
@@ -114,6 +115,9 @@ cnoremap <A-u> <C-f>gUee<C-c>
 " <A-.> = Insert previously inserted text (if any)
 inoremap <A-.> <Esc>a<C-r>.
 cnoremap <A-.> <C-r>.
+" " <A--> = Undo
+inoremap <A--> <Esc>ugi
+" inoremap <A--> <C-o>u
 
 " Run :file everytime I switch to alternate file (^6)
 nnoremap <C-^> <C-^><C-g>
