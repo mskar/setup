@@ -82,7 +82,7 @@ code --install-extension vscodevim.vim --force
 brew install bash bat exa fasd fd fzf hub neovim sc-im tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Install fzf key bindings and fuzzy completion
-$(brew --prefix)/opt/fzf/install --no-fish --completion
+$(brew --prefix)/opt/fzf/install --no-fish --completion --no-key-bindings --no-update-rc
 
 # Use Bash as a backup
 curl https://raw.githubusercontent.com/mskar/setup/master/macos/.bash_profile -o ~/.bash_profile
