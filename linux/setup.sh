@@ -29,7 +29,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitco
 brew install bash bat exa fasd fd fzf hub neovim tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Install fzf key bindings and fuzzy completion
-$(brew --prefix)/opt/fzf/install --no-fish --key-bindings --completion --update-rc
+$(brew --prefix)/opt/fzf/install --no-fish --completion
 
 # Use Bash as a backup
 curl https://raw.githubusercontent.com/mskar/setup/master/macos/.bash_profile -o ~/.bash_profile
@@ -49,7 +49,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/vim/.plug.vimrc -o ~/.
 curl https://raw.githubusercontent.com/mskar/setup/master/vim/.set.vimrc -o ~/.set.vimrc
 
 ### Neovim
-curl https://raw.githubusercontent.com/mskar/setup/master/neovim/local_init.vim -o ~/.config/nvim/init.vim --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim
 
 curl https://raw.githubusercontent.com/mskar/setup/master/neovim/au.vim -o ~/.config/nvim/au.vim
 

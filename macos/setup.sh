@@ -24,16 +24,7 @@
 
 # Brew - commandline package manager
 ## Install Homebrew (this also installs xcode tools needed for git)
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-
-# Zsh theme: powerlevel10k
-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
-
-# Zsh plugin: zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
-
-# Zsh plugin: zsh-syntax-highlighting
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
+echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # Zsh config
 curl https://raw.githubusercontent.com/mskar/setup/master/macos/.zshrc -o ~/.zshrc
@@ -88,9 +79,10 @@ code --install-extension vscodevim.vim --force
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install bash bat exa fasd fd fzf hub neovim sc-im tmux vim xpdf
+brew install bash bat exa fasd fd fzf hub neovim sc-im tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+
 ## Install fzf key bindings and fuzzy completion
-$(brew --prefix)/opt/fzf/install --no-fish --key-bindings --completion --update-rc
+$(brew --prefix)/opt/fzf/install --no-fish --completion
 
 # Use Bash as a backup
 curl https://raw.githubusercontent.com/mskar/setup/master/macos/.bash_profile -o ~/.bash_profile
