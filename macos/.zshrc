@@ -105,6 +105,8 @@ alias bb="func() { local branch; branch=$(echo '$(git branch --color=always --ve
 alias bd="git branch --delete" # delete fully merged branch
 alias bi="brew install"
 alias bl="brew list"
+alias bu="brew upgrade"
+alias bx="brew uninstall"
 alias br="git branch --remotes"
 alias bs="git branch --set-upstream-to=origin/master master"
 alias c="func() { git clone $(echo '$1 ${${1#*.*[:/]}%.*}') && cd $(echo '${${1#*.*[:/]}%.*}'); }; func"; # clone and cd into repo (${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
@@ -150,6 +152,7 @@ alias cr="conda remove"
 alias crp="git commit --reuse-message=HEAD && git push"
 alias crpf="git commit --reuse-message=HEAD && git push --force"
 alias cu="conda update"
+alias cx="conda uninstall"
 alias d="git diff --word-diff=color"
 alias dc="git difftool -yt code --extcmd 'code --wait --diff'"
 alias dcs="git difftool -yt code --extcmd 'code --wait --diff' --staged"
@@ -263,6 +266,7 @@ alias pi="pip install"
 alias pie="pip install --editable"
 alias pit="pip install --target"
 alias piu="pip install --upgrade"
+alias px="pip uninstall"
 alias pm="pycharm merge"
 alias po="git push origin"
 alias pof="git push origin --force"
@@ -316,11 +320,14 @@ alias swc="git switch -c"
 alias swC="git switch -C"
 alias sz="source ~/.zshrc"
 alias t="tmux"
-alias ta="tmux attach -t"
+alias ta="tmux attach"
+alias tat="tmux attach -t"
 alias ti="tmux info"
-alias tk="tmux kill-session -t"
+alias tk="tmux kill-session"
+alias tkt="tmux kill-session -t"
 alias tl="tmux list-sessions"
-alias tn="tmux new -s"
+alias tn="tmux new"
+alias tns="tmux new -s"
 alias ts="tmux switch -t"
 alias tt="tmux attach -t $(echo '$(tmux list-sessions | fzf -m --no-sort | cut -d: -f1)')"
 alias u="git pull --rebase"
@@ -450,14 +457,14 @@ bindkey -M viins '^y' yank
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/Users/martinskarzynski/miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/Users/marskar/miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/Users/martinskarzynski/miniconda/etc/profile.d/conda.sh" ]; then
-        . "/Users/martinskarzynski/miniconda/etc/profile.d/conda.sh"
+    if [ -f "/Users/marskar/miniconda/etc/profile.d/conda.sh" ]; then
+        . "/Users/marskar/miniconda/etc/profile.d/conda.sh"
     else
-        export PATH="/Users/martinskarzynski/miniconda/bin:$PATH"
+        export PATH="/Users/marskar/miniconda/bin:$PATH"
     fi
 fi
 unset __conda_setup
