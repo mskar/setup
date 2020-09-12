@@ -47,6 +47,7 @@
     anaconda                # conda environment (https://conda.io/)
     pyenv                   # python environment (https://github.com/pyenv/pyenv)
     dir                     # current directory
+    os_icon                 # os identifier
     date                    # current date
     time                    # current time
     ram                     # free RAM
@@ -60,7 +61,6 @@
     # nodenv                  # node.js version from nodenv (https://github.com/nodenv/nodenv)
     # nvm                     # node.js version from nvm (https://github.com/nvm-sh/nvm)
     # nodeenv                 # node.js environment (https://github.com/ekalinin/nodeenv)
-    # os_icon                 # os identifier
     # node_version          # node.js version
     # go_version            # go version (https://golang.org)
     # rust_version          # rustc version (https://www.rust-lang.org)
@@ -174,8 +174,8 @@
 
   #################################[ os_icon: os identifier ]##################################
   # OS identifier color.
-  # typeset -g POWERLEVEL9K_OS_ICON_FOREGROUND=232
-  # typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=7
+  typeset -g POWERLEVEL9K_OS_ICON_FOREGROUND=232
+  typeset -g POWERLEVEL9K_OS_ICON_BACKGROUND=7
   # Custom icon.
   # typeset -g POWERLEVEL9K_OS_ICON_CONTENT_EXPANSION='⭐'
 

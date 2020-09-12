@@ -1,21 +1,13 @@
 # Install brew
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-# Install fzf
-git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
-~/.fzf/install
+# Add brew to $PATH
+echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >> /home/ubuntu/.zprofile
+
+eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
 # Make zsh the default shell
 sudo chsh -s /usr/bin/zsh
-
-# Zsh theme: powerlevel10k
-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
-
-# Zsh plugin: zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
-
-# Zsh plugin: zsh-syntax-highlighting
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
 
 # Zsh config
 curl https://raw.githubusercontent.com/mskar/setup/master/macos/.zshrc -o ~/.zshrc
@@ -25,6 +17,19 @@ curl https://raw.githubusercontent.com/mskar/setup/master/macos/.p10k.zsh -o ~/.
 
 # git config
 curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
+
+# Shell programs needed for aliases
+## Install fzf (fuzzy finder)
+## Install bat and exa (for fzf file preview)
+## Install fasd and fd (to provide inputs for fzf)
+## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
+## Install vim and neovim
+# Zsh theme: powerlevel10k
+# Zsh plugins: zsh-autosuggestions and zsh-syntax-highlighting
+brew install bash bat exa fasd fd fzf hub neovim tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+
+## Install fzf key bindings and fuzzy completion
+$(brew --prefix)/opt/fzf/install --no-fish --key-bindings --completion --update-rc
 
 # Use Bash as a backup
 curl https://raw.githubusercontent.com/mskar/setup/master/macos/.bash_profile -o ~/.bash_profile
