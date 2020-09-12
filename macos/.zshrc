@@ -25,6 +25,7 @@ export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
 export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
 # brew installed packages
 # export PATH=/usr/local/bin:$PATH
+WORDCHARS='_'
 
 # Options
 # https://www.viget.com/articles/zsh-config-productivity-plugins-for-mac-oss-default-shell/
