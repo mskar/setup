@@ -11,10 +11,10 @@ fi
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-export EDITOR='/usr/local/bin/vim'
+source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme
+source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export EDITOR=$(brew --prefix)/bin/nvim
 export PATH=$HOME/miniconda/bin:$PATH
 export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
