@@ -228,16 +228,31 @@ alias ll="func() { local commit=$(echo '$(git log --color=always --format="%C(cy
 alias lp="git log -p --word-diff=color"
 alias lr="git log --format='%C(cyan)%>(12,trunc)%ar %Creset%<(80,trunc)%s %Cblue%h %Cgreen%<(17,trunc)%cn %Cred%D'"
 alias m="func() { mkdir -p $(echo '$1') && cd $(echo '$1'); }; func";
+alias ma="mamba activate"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias mc="git mergetool -t code --extcmd 'code --wait'"
 alias mcs="git mergetool -t code --extcmd 'code --wait' --staged"
+alias mda="mamba deactivate"
+alias me="mamba env"
+alias mec="mamba create -c conda-forge -n"
+alias mee="mamba env export > environment.yaml"
+alias mel="mamba env list"
+alias mer="mamba env remove"
+alias mern="mamba env remove -n"
+alias merp="mamba env remove -p"
+alias meu="mamba env update"
+alias mi="mamba install -yc conda-forge"
+alias miz="mamba init zsh"
+alias ml="mamba list"
 alias mm="func() { local file=$(echo '$(git diff --diff-filter=U --name-only --relative | fzf --bind="alt-o:execute-silent(git checkout --ours {} && git add {})+reload(git diff --diff-filter=U --name-only --relative),alt-t:execute-silent(git checkout --theirs {} && git add {})+reload(git diff --diff-filter=U --name-only --relative)" --preview="git log --color=always --color-words --format=\"%n%C(cyan)%>(12,trunc)%ar %Cred%D %Creset%s %Cgreen%cn %Cblue%h\" --merge --patch -- {} | sed 1d | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o $EDITOR +Gvdiff! -- $(echo '$file'); }; func";
 alias mn="git mergetool -t nvim --extcmd 'nvim -d'"
 alias mns="git mergetool -t nvim --extcmd 'nvim -d' --staged"
+alias mr="mamba remove"
 alias mt="git mergetool -t vimdiff" # mv is taken
 alias mts="git mergetool -t vimdiff --staged"
-alias mu="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim'"
+alias mu="mamba update"
 alias mus="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --staged"
+alias mx="mamba uninstall"
 alias n="nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ne="func() { local files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
