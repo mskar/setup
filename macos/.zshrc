@@ -293,6 +293,14 @@ alias pomf="git push origin master --force"
 alias pp="func() { local files=$(echo '$(fd -e js --type f ^ $@ | fzf)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 pycharm; }; func";
 alias px="pip uninstall"
 alias py="python"
+alias q="at"
+alias qb="at -b"
+alias qc="at -c"
+alias qf="at -f"
+alias ql="at -l"
+alias qm="at -m"
+alias qq="atq -v"
+alias qr="at -r"
 alias r="git reset" # Resets the index but not the working tree (mixed)
 alias ra="git remote add"
 alias rab="func() { local name=${1:-origin} && git remote add bit https://bitbucket.org/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func";
