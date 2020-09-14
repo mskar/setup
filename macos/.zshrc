@@ -280,6 +280,7 @@ alias px="pip uninstall"
 alias py="python"
 alias r="git reset" # Resets the index but not the working tree (mixed)
 alias ra="git remote add"
+alias rab="func() { local name=${1:-origin} && git remote add bit https://bitbucket.org/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func";
 alias rah="func() { local name=${1:-origin} && git remote add hub https://github.com/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func";
 alias ral="func() { local name=${1:-origin} && git remote add lab https://gitlab.com/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func";
 alias rao="git remote add origin"
@@ -299,6 +300,12 @@ alias rrmo="git remote remove origin"
 alias rrmu="git remote remove upstream"
 alias rs="func() { local files=$(echo '$(git diff --staged --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --staged --; }; func"
 alias rsu="git remote set-url"
+alias rsub="git remote set-url bit"
+alias rsuba="func() { git remote set-url bit $(echo '$@') --add; }; func";
+alias rsuh="git remote set-url hub"
+alias rsuha="func() { git remote set-url hub $(echo '$@') --add; }; func";
+alias rsul="git remote set-url lab"
+alias rsula="func() { git remote set-url lab $(echo '$@') --add; }; func";
 alias rsuo="git remote set-url origin"
 alias rsuoa="func() { git remote set-url origin $(echo '$@') --add; }; func";
 alias rsuu="git remote set-url upstream"
