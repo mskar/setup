@@ -307,6 +307,9 @@ alias rab="func() { local name=${1:-origin} && git remote add bit https://bitbuc
 alias rah="func() { local name=${1:-origin} && git remote add hub https://github.com/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func";
 alias ral="func() { local name=${1:-origin} && git remote add lab https://gitlab.com/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func";
 alias rao="git remote add origin"
+alias raol="git remote add origin $(echo '$(git remote get-url lab)')"
+alias raoh="git remote add origin $(echo '$(git remote get-url hub)')"
+alias raob="git remote add origin $(echo '$(git remote get-url bit)')"
 alias rau="git remote add upstream"
 alias rba="git rebase --abort"
 alias rbc="git rebase --continue"
