@@ -360,7 +360,7 @@ alias sw="git switch"
 alias swC="git switch -C"
 alias swc="git switch -c"
 alias sz="source ~/.zshrc"
-alias t="tmux"
+alias t="func() {local session=$(echo '${1:-${PWD##*/}}') && tmux attach -t $(echo '$session') || tmux new -s $(echo '$session'); }; func"
 alias ta="tmux attach"
 alias tat="tmux attach -t"
 alias ti="tmux info"
@@ -499,14 +499,14 @@ bindkey -M viins '^y' yank
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/Users/marskar/miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/Users/$USER/miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/Users/marskar/miniconda/etc/profile.d/conda.sh" ]; then
-        . "/Users/marskar/miniconda/etc/profile.d/conda.sh"
+    if [ -f "/Users/$USER/miniconda/etc/profile.d/conda.sh" ]; then
+        . "/Users/$USER/miniconda/etc/profile.d/conda.sh"
     else
-        export PATH="/Users/marskar/miniconda/bin:$PATH"
+        export PATH="/Users/$USER/miniconda/bin:$PATH"
     fi
 fi
 unset __conda_setup
