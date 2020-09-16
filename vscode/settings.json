@@ -3,14 +3,18 @@
     "editor.minimap.enabled": false,
     "python.autoComplete.addBrackets": true,
     "editor.tabCompletion": "on",
-    "python.pythonPath": "/usr/local/bin/python3",
+    "python.pythonPath": "~/miniconda/envs/py/bin/python",
     "python.dataScience.interactiveWindowMode": "perFile",
-    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "python.dataScience.sendSelectionToInteractiveWindow": false,
     "git.autofetch": true,
     "editor.fontFamily": "FiraCode Nerd Font",
     "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "terminal.integrated.shellArgs.osx": ["-c", "tmux attach -t ${PWD##*/} || tmux new -s ${PWD##*/}"],
+    "python.terminal.launchArgs": [ "-m", "IPython" ],
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
+    "terminal.integrated.fontLigatures": true,
+    "terminal.integrated.fontSize": 16,
     "vim.enableNeovim": true,
     "vim.neovimPath": "/usr/local/bin/nvim",
     "vim.easymotion": false,
@@ -31,6 +35,14 @@
         },
         {
             "before": [
+                "<C-b>"
+            ],
+            "commands": [
+                "cursorLeft"
+            ],
+        },
+        {
+            "before": [
                 "<C-d>"
             ],
             "commands": [
@@ -47,6 +59,22 @@
         },
         {
             "before": [
+                "<C-f>"
+            ],
+            "commands": [
+                "cursorRight"
+            ],
+        },
+        {
+            "before": [
+                "<C-h>"
+            ],
+            "commands": [
+                "deleteLeft"
+            ],
+        },
+        {
+            "before": [
                 "<C-k>"
             ],
             "commands": [
@@ -55,10 +83,82 @@
         },
         {
             "before": [
+                "<C-t>"
+            ],
+            "commands": [
+                "editor.action.transposeLetters"
+            ],
+        },
+        {
+            "before": [
                 "<C-u>"
             ],
             "commands": [
                 "deleteAllLeft"
+            ],
+        },
+        {
+            "before": [
+                "<C-w>"
+            ],
+            "commands": [
+                "deleteWordLeft"
+            ],
+        },
+        {
+            "before": [
+                "<A-b>"
+            ],
+            "commands": [
+                "cursorWordLeft"
+            ],
+        },
+        {
+            "before": [
+                "<A-c>"
+            ],
+            "commands": [
+                "editor.action.transformToTitlecase"
+            ],
+        },
+        {
+            "before": [
+                "<A-f>"
+            ],
+            "commands": [
+                "cursorWordEndRight"
+            ],
+        },
+        {
+            "before": [
+                "<A-h>"
+            ],
+            "commands": [
+                "deleteWordLeft"
+            ],
+        },
+        {
+            "before": [
+                "<A-l>"
+            ],
+            "commands": [
+                "editor.action.transformToLowercase"
+            ],
+        },
+        {
+            "before": [
+                "<A-u>"
+            ],
+            "commands": [
+                "editor.action.transformToUppercase"
+            ],
+        },
+        {
+            "before": [
+                "<A-_>"
+            ],
+            "commands": [
+                "undo"
             ],
         },
     ],
