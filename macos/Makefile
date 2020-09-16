@@ -10,7 +10,7 @@ VSCODE_LIVESHARE = $(wildcard ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 
-all: bash bat brew conda exa fasd fd flycut font fzf gitconfig hub iterm jetbrains karabiner neovim pyenv rstudio scim shiftit spacevim tmux toolbox vim vscode xpdf zsh
+all: bash bat brew conda exa fasd fd flycut font fzf gitconfig hub ipy iterm jetbrains karabiner neovim pyenv rstudio scim shiftit spacevim tmux toolbox vim vscode xpdf zsh
 
 bash: bash-exe bash_profile inputrc
 iterm: iterm-exe iterm-config
@@ -37,6 +37,7 @@ font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: /usr/local/bin/fzf
 gitconfig: ~/.gitconfig
 hub: /usr/local/bin/hub
+ipy: ~/ipython_config.py
 ideavimrc: ~/.ideavimrc
 inputrc: ~/.inputrc
 iterm-config: ~/com.googlecode.iterm2.plist
@@ -154,6 +155,8 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
 ~/.ideavimrc: ~/mskar/setup/ideavim/.ideavimrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
+~/ipython_config.py: ~/mskar/setup/macos/ipython_config.py
+	curl https://raw.githubusercontent.com/mskar/setup/master/macos/ipython_config.py -o ~/ipython_config.py
 /Applications/Karabiner-Elements.app:
 	-brew cask install karabiner-elements
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/macos/karabiner.json

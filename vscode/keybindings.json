@@ -1,5 +1,7 @@
 // Place your key bindings in this file to override the defaults
 [
+  { "key": "ctrl+`", "command": "workbench.action.terminal.focus"},
+  { "key": "ctrl+`", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"},
   { "key": "cmd+enter", "command": "python.execSelectionInTerminal", "when": "editorTextFocus && !findInputFocussed && !python.datascience.ownsSelection && !replaceInputFocussed && editorLangId == 'python'" },
   { "key": "cmd+enter", "command": "python.datascience.execSelectionInteractive", "when": "editorTextFocus && python.datascience.featureenabled && python.datascience.ownsSelection && !findInputFocussed && !notebookEditorFocused && !replaceInputFocussed && editorLangId == 'python'" },
   { "key": "alt+d", "command": "deleteWordRight", "when": "textInputFocus && !editorReadonly" },
