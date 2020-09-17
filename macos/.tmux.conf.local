@@ -314,6 +314,10 @@ bind X kill-pane
 # hide current pane with prefix x, to kill a pane use ctrl-d or run exit in empty terminal
 bind x select-pane -t :.+ \; resize-pane -Z
 
+# split windows like in vim
+bind-key v split-window -h
+bind-key s split-window -v
+
 # List of plugins
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-resurrect'
