@@ -317,6 +317,10 @@ bind x select-pane -t :.+ \; resize-pane -Z
 # rebind n (p is bound to paste)
 bind-key n next-window
 
+# split windows like in vim
+bind-key v split-window -h
+bind-key s split-window -v
+
 # List of plugins
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-resurrect'
