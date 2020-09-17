@@ -304,10 +304,11 @@ bind -n M-l select-pane -R
 
 # https://unix.stackexchange.com/questions/81782/how-can-i-create-a-shortcut-to-resize-panes-in-a-tmux-window
 # Use Alt-vim keys with prefix key to resize panes
-bind M-k resize-pane -U 10
-bind M-j resize-pane -D 10
-bind M-h resize-pane -L 10
-bind M-l resize-pane -R 10
+bind -r M-k resize-pane -U 10
+bind -r M-j resize-pane -D 10
+bind -r M-h resize-pane -L 10
+bind -r M-l resize-pane -R 10
+
 # https://unix.stackexchange.com/questions/30270/tmux-disable-confirmation-prompt-on-kill-window
 bind X kill-pane
 
