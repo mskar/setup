@@ -129,6 +129,11 @@ curl https://raw.githubusercontent.com/mskar/setup/master/macos/.tmux.conf.local
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
+## Set up ipython
+curl https://raw.githubusercontent.com/mskar/setup/master/ipython/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py
+
+curl https://raw.githubusercontent.com/mskar/setup/master/ipython/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
+
 # Python and R
 
 ## Install miniconda Python

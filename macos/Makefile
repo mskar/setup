@@ -37,7 +37,7 @@ font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: /usr/local/bin/fzf
 gitconfig: ~/.gitconfig
 hub: /usr/local/bin/hub
-ipy: ~/ipython_config.py
+ipy: ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
 ideavimrc: ~/.ideavimrc
 inputrc: ~/.inputrc
 iterm-config: ~/com.googlecode.iterm2.plist
@@ -103,6 +103,8 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 ~/mskar/setup/macos/.bash_profile: repo
 ~/mskar/setup/macos/.inputrc: repo
 ~/mskar/setup/.gitconfig: repo
+~/mskar/setup/ipython_config.py: repo
+~/mskar/setup/keybindings.py: repo
 ~/mskar/setup/ideavim/.ideavimrc: repo
 ~/mskar/setup/macos/karabiner.json: repo
 ~/mskar/setup/vscode/keybindings.json: repo
@@ -161,6 +163,10 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew cask install karabiner-elements
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/macos/karabiner.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython_config.py
+	curl https://raw.githubusercontent.com/mskar/setup/master/ipython/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py
+~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/keybindings.py
+	curl https://raw.githubusercontent.com/mskar/setup/master/ipython/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
 /usr/local/bin/nvim:
 	-brew install neovim
 ~/.config/nvim/init.vim: ~/mskar/setup/neovim/init.vim
