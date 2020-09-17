@@ -314,6 +314,9 @@ bind X kill-pane
 # hide current pane with prefix x, to kill a pane use ctrl-d or run exit in empty terminal
 bind x select-pane -t :.+ \; resize-pane -Z
 
+# rebind n (p is bound to paste)
+bind-key n next-window
+
 # split windows like in vim
 bind-key v split-window -h
 bind-key s split-window -v
