@@ -21,6 +21,7 @@ def get_input_mode(self):
 
         app = get_app()
         app.ttimeoutlen = 0.01
+        app.timeoutlen = 0.01
 
     return self._input_mode
 
