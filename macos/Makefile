@@ -118,10 +118,10 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 
 /usr/local/bin/bash:
 	-brew install bash
-~/.bash_profile: ~/mskar/setup/macos/.bash_profile
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.bash_profile -o ~/.bash_profile
-~/.inputrc: ~/mskar/setup/macos/.inputrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.inputrc -o ~/.inputrc
+~/.bash_profile: ~/mskar/setup/bash/.bash_profile
+	curl https://raw.githubusercontent.com/mskar/setup/master/bash/.bash_profile -o ~/.bash_profile
+~/.inputrc: ~/mskar/setup/bash/.inputrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/bash/.inputrc -o ~/.inputrc
 /usr/local/bin/bat:
 	-brew install bat
 /usr/local/bin/brew:
@@ -157,15 +157,13 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
 ~/.ideavimrc: ~/mskar/setup/ideavim/.ideavimrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
-~/ipython_config.py: ~/mskar/setup/macos/ipython_config.py
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/ipython_config.py -o ~/ipython_config.py
 /Applications/Karabiner-Elements.app:
 	-brew cask install karabiner-elements
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/macos/karabiner.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
-~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython_config.py
+~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython/ipython_config.py
 	curl https://raw.githubusercontent.com/mskar/setup/master/ipython/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py
-~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/keybindings.py
+~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/ipython/keybindings.py
 	curl https://raw.githubusercontent.com/mskar/setup/master/ipython/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
 /usr/local/bin/nvim:
 	-brew install neovim
