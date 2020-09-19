@@ -29,9 +29,9 @@ ctrl-_: undo
 ctrl-a: beginning-of-line
 ctrl-b: backward-char
 ctrl-d: delete-char
-ctrl-h: backward-delete-char
 ctrl-e: end-of-line
 ctrl-f: forward-char
+ctrl-h: backward-delete-char
 ctrl-k: kill-line
 ctrl-l: clear-screen
 ctrl-n: next-history
@@ -42,11 +42,12 @@ ctrl-w: backward-kill-word
 
 "\e.": yank-last-arg
 "\eb": backward-word
+"\ec": capitalize-word
 "\ed": kill-word
 "\ef": forward-word
 "\eh": backward-kill-word
-"\et": transpose-words
 "\el": downcase-word
+"\et": transpose-words
 "\eu": upcase-word
 "\ey": yank-pop
 
