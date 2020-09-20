@@ -26,6 +26,7 @@ export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always
 # brew installed packages
 # export PATH=/usr/local/bin:$PATH
 WORDCHARS='_'
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5' # https://stackoverflow.com/a/47313453
 
 # Options
 # https://www.viget.com/articles/zsh-config-productivity-plugins-for-mac-oss-default-shell/
@@ -57,6 +58,7 @@ zmodload -i zsh/complist
 autoload -U edit-command-line; zle -N edit-command-line
 
 # Aliases
+alias \?='alias | grep'
 alias -- -='cd -'
 alias -g ......='../../../../..'
 alias -g .....='../../../..'
@@ -194,20 +196,18 @@ alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 alias h2s="func() { local name=$(echo '${1:-origin}') && git remote set-url $(echo '$name $(git remote get-url $name | sed "s+https://+git@+;s+/+:+")') }; func"
-alias h='hub'
-alias hb="hub browse"
-alias hc="hub create"
-alias hd="hub delete"
-alias hf="hub fork"
-alias hg="hub gist"
-alias hi="hub issue"
-alias ho="hub compare"
-alias hp="hub pr"
-alias hr="hub release"
-alias hs="hub ci-status"
-alias hs="hub sync"
-alias hu="hub pull-request"
-alias i="func() { cookiecutter gh:mskar/cookiecutter --no-input proj_name=$(echo '$1') proj_desc=$(echo '${2:-""}') is_private=$(echo '${3:-"false"}') user_name=$(echo '${4:-"mskar"}') full_name=$(echo '${5:-"Martin Skarzynski"}') && cd $(echo '$(echo "$1" | tr "[:upper:]" "[:lower:]" | tr " " "_")') && make git; }; func";
+alias hai="gh auth login"
+alias hao="gh auth logout"
+alias har="gh auth refresh"
+alias has="gh auth status"
+alias hgc="gh gist create"
+alias hge="gh gist edit"
+alias hgl="gh gist list"
+alias hgv="gh gist view"
+alias hrc="func() { gh repo create $(echo '$1') --$(echo '${2:-private}') $(echo '${@:3}') -y && cd $(echo '$1'); }; func"
+alias hrf="gh repo fork"
+alias hrv="gh repo view"
+alias i="func() { cookiecutter gh:mskar/cookiecutter --no-input proj_name=$(echo '$1') proj_desc=$(echo '${2:-""}') is_private=$(echo '${3:-"false"}') user_name=$(echo '${4:-"mskar"}') full_name=$(echo '${5:-"Martin Skarzynski"}') && cd $(echo '$(echo "$1" | tr "[:upper:]" "[:lower:]" | tr " " "_")') && make git env; }; func";
 alias ig="func() { echo $(echo 'echo $@ | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore'); }; func";
 alias ii="func() { local files=$(echo '$(git ls-files --others --exclude-standard | fzf)') && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -I file bash -c 'echo "file" >> \$(git rev-parse --show-toplevel)/.gitignore'; }; func";
 alias it="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
