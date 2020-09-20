@@ -42,6 +42,7 @@
   { "key": "cmd+shift+o", "command": "workbench.action.quickOpen" },
   { "key": "cmd+t", "command": "git.sync" },
   { "key": "cmd+y", "command": "editor.action.previewDeclaration", "when": "editorHasDefinitionProvider && editorTextFocus && !inReferenceSearchEditor" },
+  { "key": "shift+escape", "command": "workbench.action.focusActiveEditorGroup", "when": "!editorTextFocus"},
   { "key": "ctrl+`", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"},
   { "key": "ctrl+`", "command": "workbench.action.terminal.focus"},
   { "key": "ctrl+alt+b", "command": "cursorWordPartLeft", "when": "textInputFocus" },
