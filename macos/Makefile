@@ -230,10 +230,8 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-ln -fs /Applications/Visual\ Studio\ Code.app /Applications/VisualStudioCode.app
 ~/Library/Application\ Support/Code/User/settings.json: ~/mskar/setup/vscode/settings.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/settings.json -o ~/Library/Application\ Support/Code/User/settings.json --create-dirs
-	-ln -fs ~/Library/Application\ Support/Code/User/settings.json ~/Library/ApplicationSupport/Code/User/settings.json
 ~/Library/Application\ Support/Code/User/keybindings.json: ~/mskar/setup/vscode/keybindings.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json --create-dirs
-	-ln -fs ~/Library/Application\ Support/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/keybindings.json
 $(VSCODE_PYTHON):
 	code --install-extension ms-python.python --force
 $(VSCODE_VIM):
