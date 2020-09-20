@@ -29,6 +29,17 @@
     "vim.hlsearch": true,
     "vim.visualstar": true,
     "vim.highlightedyank.enable": true,
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "<leader>",
+                "t"
+            ],
+            "commands": [
+                "workbench.action.terminal.focus"
+            ]
+        }
+    ],
     "vim.insertModeKeyBindings": [
         {
             "before": [
@@ -36,7 +47,7 @@
             ],
             "commands": [
                 "cursorHome"
-            ],
+            ]
         },
         {
             "before": [
@@ -44,7 +55,7 @@
             ],
             "commands": [
                 "cursorLeft"
-            ],
+            ]
         },
         {
             "before": [
@@ -52,7 +63,7 @@
             ],
             "commands": [
                 "deleteRight"
-            ],
+            ]
         },
         {
             "before": [
@@ -60,7 +71,7 @@
             ],
             "commands": [
                 "cursorEnd"
-            ],
+            ]
         },
         {
             "before": [
@@ -68,7 +79,7 @@
             ],
             "commands": [
                 "cursorRight"
-            ],
+            ]
         },
         {
             "before": [
@@ -76,7 +87,7 @@
             ],
             "commands": [
                 "deleteLeft"
-            ],
+            ]
         },
         {
             "before": [
@@ -84,7 +95,7 @@
             ],
             "commands": [
                 "deleteAllRight"
-            ],
+            ]
         },
         {
             "before": [
@@ -92,7 +103,7 @@
             ],
             "commands": [
                 "editor.action.transposeLetters"
-            ],
+            ]
         },
         {
             "before": [
@@ -100,7 +111,7 @@
             ],
             "commands": [
                 "deleteAllLeft"
-            ],
+            ]
         },
         {
             "before": [
@@ -108,7 +119,7 @@
             ],
             "commands": [
                 "deleteWordLeft"
-            ],
+            ]
         },
         {
             "before": [
@@ -116,7 +127,7 @@
             ],
             "commands": [
                 "cursorWordLeft"
-            ],
+            ]
         },
         {
             "before": [
@@ -124,7 +135,7 @@
             ],
             "commands": [
                 "editor.action.transformToTitlecase"
-            ],
+            ]
         },
         {
             "before": [
@@ -132,7 +143,7 @@
             ],
             "commands": [
                 "cursorWordEndRight"
-            ],
+            ]
         },
         {
             "before": [
@@ -140,7 +151,7 @@
             ],
             "commands": [
                 "deleteWordLeft"
-            ],
+            ]
         },
         {
             "before": [
@@ -148,7 +159,7 @@
             ],
             "commands": [
                 "editor.action.transformToLowercase"
-            ],
+            ]
         },
         {
             "before": [
@@ -156,7 +167,7 @@
             ],
             "commands": [
                 "editor.action.transformToUppercase"
-            ],
+            ]
         },
         {
             "before": [
@@ -164,7 +175,7 @@
             ],
             "commands": [
                 "undo"
-            ],
-        },
-    ],
+            ]
+        }
+    ]
 }
