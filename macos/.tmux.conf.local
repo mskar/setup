@@ -336,7 +336,7 @@ bind-key        C-6 select-window -t :6
 bind-key        C-7 select-window -t :7
 bind-key        C-8 select-window -t :8
 bind-key        C-9 select-window -t :9
-bind-key        C-; last-pane
+bind-key        C-\; last-pane
 bind-key        C-= choose-buffer
 bind-key        C-[ copy-mode
 bind-key        C-] paste-buffer
