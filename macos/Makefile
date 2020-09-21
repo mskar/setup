@@ -209,8 +209,8 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew install tmux
 ~/.tmux.conf.local: ~/mskar/setup/macos/.tmux.conf.local
 	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.tmux.conf.local -o ~/.tmux.conf.local
-~/.tmux.conf: ~/mskar/setup/macos/.tmux.conf
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.tmux.conf -o ~/.tmux.conf
+~/.tmux.conf:
+	curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 ~/.tmux/plugins/tpm:
 	-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 /usr/local/bin/vim:

@@ -123,7 +123,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/spacevim/myspacevim.vi
 curl https://raw.githubusercontent.com/mskar/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
 
 ## Set up oh my tmux
-curl https://raw.githubusercontent.com/mskar/setup/master/macos/.tmux.conf -o ~/.tmux.conf
+curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 
 curl https://raw.githubusercontent.com/mskar/setup/master/macos/.tmux.conf.local -o ~/.tmux.conf.local
 
@@ -140,6 +140,9 @@ curl https://raw.githubusercontent.com/mskar/setup/master/ipython/keybindings.py
 curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 
 bash ~/miniconda.sh -bp $HOME/miniconda
+
+## Install glances (alternative to top) into base env
+pip install glances
 
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
