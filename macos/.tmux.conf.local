@@ -320,12 +320,13 @@ bind-key n next-window
 
 # split windows like in vim
 bind-key v split-window -h
-bind-key s split-window -v
+# C-v is used for copy-paste mode
+
+# like -, split window with \ or |
+bind-key \\ split-window -h
+bind-key C-\\ split-window -h
 
 # Add ctrl to default keybindings that do not use shift
-bind-key        C-, command-prompt -I #W "rename-window '%%'"
-bind-key        C-- split-window -v
-bind-key        C-. command-prompt "move-window -t '%%'"
 bind-key        C-0 select-window -t :0
 bind-key        C-1 select-window -t :1
 bind-key        C-2 select-window -t :2
