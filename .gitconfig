@@ -4,7 +4,7 @@
     autosetuprebase = always
 [core]
     editor = /usr/local/bin/nvim
-    excludesfile = /Users/np/.gitignore_global
+    excludesfile = ~/.gitignore_global
     pager=less -x4
     autocrlf = input
 [color]
