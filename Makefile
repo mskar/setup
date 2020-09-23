@@ -6,126 +6,101 @@
 # Existing packages will not be updated,
 # To update all packages, run update.sh
 
+BASH = $(shell brew --prefix)/bin/bash
+BAT = $(shell brew --prefix)/bin/bat
+BREW = $(shell brew --prefix)/bin/brew
+BTM = $(shell brew --prefix)/bin/btm
+EXA = $(shell brew --prefix)/bin/exa
+FASD = $(shell brew --prefix)/bin/fasd
+FD = $(shell brew --prefix)/bin/fd
+FZF = $(shell brew --prefix)/bin/fzf
+GH = $(shell brew --prefix)/bin/gh
+GIT = $(shell brew --prefix)/bin/git
+NVIM = $(shell brew --prefix)/bin/nvim
+RSTATS = $(shell brew --prefix)/bin/r
+SCIM = $(shell brew --prefix)/bin/scim
+TMUX = $(shell brew --prefix)/bin/tmux
+VIM = $(shell brew --prefix)/bin/vim
 VSCODE_LIVESHARE = $(wildcard ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
+XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash bat brew conda exa fasd fd flycut font fzf gitconfig hub ipy iterm jetbrains karabiner neovim pyenv rstudio scim shiftit spacevim tmux toolbox vim vscode xpdf zsh
+all: bash $(BAT) $(BREW) $(BTM) conda $(EXA) $(FASD) $(FD) flycut font $(FZF) git ipy iterm jetbrains karabiner neovim repo rstudio $(SCIM) shiftit tmux vim vscode $(XPDF) zsh
 
-bash: bash-exe bash_profile inputrc
-iterm: iterm-exe iterm-config
-jetbrains: toolbox ideavimrc
-karabiner: karabiner-config karabiner-exe
-neovim: neovim-exe neovim-init
-rstudio: renv rstudio-settings rstudio-ide-bindings rstudio-editor-bindings
-tmux: tmux-exe tmux-dot tmux-local tmux-plug
-vim: vim-exe vim-config
-vscode: vscode-exe vscode-liveshare vscode-python vscode-vim vscode-keybindings vscode-settings
-zsh: p10k zshrc zsh-syntax-highlighting zsh-autosuggestions
-
-bash-exe: /usr/local/bin/bash
-bash_profile: ~/.bash_profile
-bat: /usr/local/bin/bat
-brew: /usr/local/bin/brew
+bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
 conda: ~/miniconda/bin/conda
-exa: /usr/local/bin/exa
-fasd: /usr/local/bin/fasd
-fd: /usr/local/bin/fd
 flycut: /Applications/Flycut.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
-fzf: /usr/local/bin/fzf
-gitconfig: ~/.gitconfig
-hub: /usr/local/bin/hub
-ipy: ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
-ideavimrc: ~/.ideavimrc
-inputrc: ~/.inputrc
-iterm-config: ~/com.googlecode.iterm2.plist
-iterm-exe: /Applications/iTerm.app
-karabiner-config: ~/.config/karabiner/karabiner.json
-karabiner-exe: /Applications/Karabiner-Elements.app
-neovim-exe: /usr/local/bin/nvim
-neovim-init: ~/.config/nvim/init.vim
-p10k: ~/.zsh/powerlevel10k ~/.p10k.zsh
-pyenv: ~/miniconda/envs/py
-renv: ~/miniconda/envs/r
+git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global
+ipy: ~/miniconda/envs/py ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
+iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
+jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
+karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
+neovim: $(NVIM) ~/.config/nvim/init.vim
 repo: ~/mskar/setup
-rstats: /usr/local/bin/r
-rstudio-editor-bindings: ~/.config/rstudio/keybindings/editor_bindings.json
-rstudio-ide-bindings: ~/.config/rstudio/keybindings/rstudio_bindings.json
-rstudio-settings: ~/.config/rstudio/rstudio-prefs.json
-scim: /usr/local/bin/scim
+rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 shiftit: /Applications/ShiftIt.app
-tmux-exe: /usr/local/bin/tmux
-tmux-dot: ~/.tmux.conf
-tmux-local: ~/.tmux.conf.local
-tmux-plug: ~/.tmux/plugins/tpm
-toolbox: /Applications/JetBrains\ Toolbox.app
-vim-exe: /usr/local/bin/vim
-vim-config: ~/.vimrc
-vscode-exe: /Applications/Visual\ Studio\ Code.app
-vscode-keybindings: ~/Library/Application\ Support/Code/User/keybindings.json
-vscode-liveshare: $(VSCODE_LIVESHARE)
-vscode-python: $(VSCODE_PYTHON)
-vscode-settings: ~/Library/Application\ Support/Code/User/settings.json
-vscode-vim: $(VSCODE_VIM)
-xpdf: /usr/local/bin/xpdf
-zsh-autosuggestions: ~/.zsh/zsh-autosuggestions
-zsh-syntax-highlighting: ~/.zsh/zsh-syntax-highlighting
-zshrc: ~/.zshrc
-xcode-devtools: /Library/Developer/CommandLineTools/
+tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
+vim: $(VIM) ~/.vimrc
+vscode: /Applications/Visual\ Studio\ Code.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/Application\ Support/Code/User/keybindings.json ~/Library/Application\ Support/Code/User/settings.json
+zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh/zsh-syntax-highlighting
 
-~/mskar/setup/init.vim: repo
-~/mskar/setup/.vimrc: repo
-~/mskar/setup/.tmux.conf: repo
-~/mskar/setup/.tmux.conf.local: repo
-~/mskar/setup/.zshrc: repo
-~/mskar/setup/.p10k.zsh: repo
 ~/mskar/setup/.bash_profile: repo
-~/mskar/setup/.inputrc: repo
 ~/mskar/setup/.gitconfig: repo
-~/mskar/setup/ipython_config.py: repo
-~/mskar/setup/keybindings.py: repo
 ~/mskar/setup/.ideavimrc: repo
+~/mskar/setup/.inputrc: repo
+~/mskar/setup/.p10k.zsh: repo
+~/mskar/setup/.tmux.conf.local: repo
+~/mskar/setup/.vimrc: repo
+~/mskar/setup/.zshrc: repo
+~/mskar/setup/com.googlecode.iterm2.plist: repo
+~/mskar/setup/editor_bindings.json: repo
+~/mskar/setup/init.vim: repo
+~/mskar/setup/ipython_config.py: repo
 ~/mskar/setup/karabiner.json: repo
 ~/mskar/setup/keybindings.json: repo
-~/mskar/setup/settings.json: repo
+~/mskar/setup/keybindings.py: repo
 ~/mskar/setup/rstudio-prefs.json: repo
-~/mskar/setup/editor_bindings.json: repo
 ~/mskar/setup/rstudio_bindings.json: repo
-~/mskar/setup/com.googlecode.iterm2.plist: repo
+~/mskar/setup/settings.json: repo
 
-/usr/local/bin/bash:
+$(BASH):
 	-brew install bash
 ~/.bash_profile: ~/mskar/setup/.bash_profile
 	curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
 ~/.inputrc: ~/mskar/setup/.inputrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
-/usr/local/bin/bat:
+$(BAT):
 	-brew install bat
-/usr/local/bin/brew:
-	-curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install | ruby
+$(BTM):
+	-brew install clementtsang/bottom/bottom
+$(BREW):
+	-echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ~/miniconda/bin/conda:
 	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 	-bash ~/miniconda.sh -bp ~/miniconda
 	-conda install -yc conda-forge cookiecutter nodejs neovim pybtex
-/usr/local/bin/exa:
+$(EXA):
 	-brew install exa
-/usr/local/bin/fasd:
+$(FASD):
 	-brew install fasd
-/usr/local/bin/fd:
+$(FD):
 	-brew install fd
 /Applications/Flycut.app:
 	-brew cask install flycut
 ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf:
 	-brew cask install homebrew/cask-fonts/font-fira-code-nerd-font
 	-ln -fs ~/Library/Fonts/Fira\ Code\ Regular\ Nerd\ Font\ Complete.otf ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
-/usr/local/bin/fzf:
+$(FZF):
 	-brew install fzf
-	/usr/local/opt/fzf/install --no-fish --key-bindings --completion --update-rc
+	-$(brew --prefix)/opt/fzf/install --no-fish --key-bindings --completion --update-rc
+$(GH):
+	-brew install gh
 ~/.gitconfig: ~/mskar/setup/.gitconfig
 	curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
-/usr/local/bin/hub:
-	-brew install hub
+~/.gitignore_global: ~/mskar/setup/.gitignore_global
+	curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore_global -o ~/.gitignore_global
 /Applications/iTerm.app:
 	-brew cask install iterm2
 ~/com.googlecode.iterm2.plist: ~/mskar/setup/com.googlecode.iterm2.plist
@@ -143,7 +118,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py
 ~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/keybindings.py
 	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
-/usr/local/bin/nvim:
+$(NVIM):
 	-brew install neovim
 ~/.config/nvim/init.vim: ~/mskar/setup/init.vim
 	curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
@@ -155,7 +130,7 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 ~/mskar/setup/:
 	-git clone https://github.com/mskar/setup ~/py4ds/setup
-/usr/local/bin/r:
+$(RSTATS):
 	-brew cask install r
 ~/miniconda/envs/r:
 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
@@ -165,11 +140,11 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/mskar/setup/master/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
 ~/.config/rstudio/keybindings/rstudio_bindings.json: ~/mskar/setup/rstudio_bindings.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
-/usr/local/bin/scim:
+$(SCIM):
 	-brew install sc-im
 /Applications/ShiftIt.app:
 	-brew cask install shiftit
-/usr/local/bin/tmux:
+$(TMUX):
 	-brew install tmux
 ~/.tmux.conf.local: ~/mskar/setup/.tmux.conf.local
 	curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
@@ -177,9 +152,9 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 ~/.tmux/plugins/tpm:
 	-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-/usr/local/bin/vim:
+$(VIM):
 	-brew install vim
-~/.vimrc: ~/mskar/setup/vim/.vimrc
+~/.vimrc: ~/mskar/setup/.vimrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
 /Applications/VisualStudioCode.app:
 	-brew cask install visual-studio-code
@@ -188,12 +163,12 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 ~/Library/Application\ Support/Code/User/keybindings.json: ~/mskar/setup/keybindings.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json --create-dirs
 $(VSCODE_PYTHON):
-	code --install-extension ms-python.python --force
+	-code --install-extension ms-python.python --force
 $(VSCODE_VIM):
-	code --install-extension vscodevim.vim --force
+	-code --install-extension vscodevim.vim --force
 $(VSCODE_LIVESHARE):
-	code --install-extension ms-vsliveshare.vsliveshare --force
-/usr/local/bin/xpdf:
+	-code --install-extension ms-vsliveshare.vsliveshare --force
+$(XPDF):
 	-brew install xpdf
 ~/.zshrc: ~/mskar/setup/.zshrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
@@ -201,14 +176,5 @@ $(VSCODE_LIVESHARE):
 	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ~/.zsh/zsh-syntax-highlighting:
 	-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
-/Library/Developer/CommandLineTools:
-	xcode-select --install
 
-clean:
-	rm -rf ~/.zsh/
-	rm -rf ~/.SpaceVim
-	rm -rf ~/.zsh/powerlevel10k
-	rm -rf ~/.tmux
-	rm -rf ~/.tmux/plugins/tpm
-
-.PHONY: bash iterm jetbrains karabiner neovim rstudio spacevim tmux vim vscode zsh bat brew conda exa fasd fd flycut font fzf gitconfig hub pyenv scim shiftit toolbox xpdf bash-exe bash_profile ideavimrc inputrc iterm-config iterm-exe karabiner-config karabiner-exe neovim-au neovim-exe neovim-init neovim-map neovim-plug neovim-set p10k renv rstats rstudio-editor-bindings rstudio-ide-bindings rstudio-settings spacevim-config-toml spacevim-config-vim spacevim-exe tmux-exe tmux-dot tmux-local tmux-plug vim-au vim-exe vim-map vim-plug vim-set vim-config vscode-exe vscode-keybindings vscode-liveshare vscode-python vscode-settings vscode-vim zsh-autosuggestions zsh-syntax-highlighting zshrc
+.PHONY: bash iterm jetbrains karabiner neovim rstudio tmux vim vscode zsh conda font git ipy repo shiftit flycut
