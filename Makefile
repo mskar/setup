@@ -26,9 +26,10 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash $(BAT) $(BREW) $(BTM) conda $(EXA) $(FASD) $(FD) flycut font $(FZF) git ipy iterm jetbrains karabiner neovim repo rstudio $(SCIM) shiftit tmux vim vscode $(XPDF) zsh
+all: bash $(BAT) bottom $(BREW) conda $(EXA) $(FASD) $(FD) flycut font $(FZF) git ipy iterm jetbrains karabiner neovim repo rstudio $(SCIM) shiftit tmux vim vscode $(XPDF) zsh
 
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
+bottom: $(BTM) ~/.config/bottom/bottom.toml
 conda: ~/miniconda/bin/conda
 flycut: /Applications/Flycut.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
@@ -71,6 +72,8 @@ $(BASH):
 	curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
 ~/.inputrc: ~/mskar/setup/.inputrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
+~/.config/bottom/bottom.toml: ~/mskar/setup/bottom.toml
+	curl https://raw.githubusercontent.com/mskar/setup/master/bottom.toml -o ~/.config/bottom/bottom.toml
 $(BAT):
 	-brew install bat
 $(BTM):
