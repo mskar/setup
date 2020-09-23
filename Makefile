@@ -16,11 +16,10 @@ bash: bash-exe bash_profile inputrc
 iterm: iterm-exe iterm-config
 jetbrains: toolbox ideavimrc
 karabiner: karabiner-config karabiner-exe
-neovim: neovim-au neovim-exe neovim-init neovim-map neovim-plug neovim-set
+neovim: neovim-exe neovim-init
 rstudio: renv rstudio-settings rstudio-ide-bindings rstudio-editor-bindings
-spacevim: spacevim-exe spacevim-config-toml spacevim-config-vim
 tmux: tmux-exe tmux-dot tmux-local tmux-plug
-vim: vim-au vim-exe vim-map vim-plug vim-set vim-config
+vim: vim-exe vim-config
 vscode: vscode-exe vscode-liveshare vscode-python vscode-vim vscode-keybindings vscode-settings
 zsh: p10k zshrc zsh-syntax-highlighting zsh-autosuggestions
 
@@ -46,10 +45,6 @@ karabiner-config: ~/.config/karabiner/karabiner.json
 karabiner-exe: /Applications/Karabiner-Elements.app
 neovim-exe: /usr/local/bin/nvim
 neovim-init: ~/.config/nvim/init.vim
-neovim-map: ~/.config/nvim/map.vim
-neovim-plug: ~/.config/nvim/plug.vim
-neovim-set: ~/.config/nvim/set.vim
-neovim-au: ~/.config/nvim/au.vim
 p10k: ~/.zsh/powerlevel10k ~/.p10k.zsh
 pyenv: ~/miniconda/envs/py
 renv: ~/miniconda/envs/r
@@ -60,19 +55,12 @@ rstudio-ide-bindings: ~/.config/rstudio/keybindings/rstudio_bindings.json
 rstudio-settings: ~/.config/rstudio/rstudio-prefs.json
 scim: /usr/local/bin/scim
 shiftit: /Applications/ShiftIt.app
-spacevim-config-toml: ~/.SpaceVim.d/init.toml
-spacevim-config-vim: ~/.SpaceVim.d/autoload/myspacevim.vim
-spacevim-exe: ~/.SpaceVim
 tmux-exe: /usr/local/bin/tmux
 tmux-dot: ~/.tmux.conf
 tmux-local: ~/.tmux.conf.local
 tmux-plug: ~/.tmux/plugins/tpm
 toolbox: /Applications/JetBrains\ Toolbox.app
 vim-exe: /usr/local/bin/vim
-vim-map: ~/.map.vimrc
-vim-plug: ~/.plug.vimrc
-vim-set: ~/.set.vimrc
-vim-au: ~/.au.vimrc
 vim-config: ~/.vimrc
 vscode-exe: /Applications/Visual\ Studio\ Code.app
 vscode-keybindings: ~/Library/Application\ Support/Code/User/keybindings.json
@@ -86,42 +74,32 @@ zsh-syntax-highlighting: ~/.zsh/zsh-syntax-highlighting
 zshrc: ~/.zshrc
 xcode-devtools: /Library/Developer/CommandLineTools/
 
-~/mskar/setup/neovim/au.vim: repo
-~/mskar/setup/neovim/init.vim: repo
-~/mskar/setup/neovim/map.vim: repo
-~/mskar/setup/neovim/plug.vim: repo
-~/mskar/setup/neovim/set.vim: repo
-~/mskar/setup/vim/.vimrc: repo
-~/mskar/setup/vim/.map.vimrc: repo
-~/mskar/setup/vim/.plug.vimrc: repo
-~/mskar/setup/vim/.set.vimrc: repo
-~/mskar/setup/vim/.au.vimrc: repo
-~/mskar/setup/macos/.tmux.conf: repo
-~/mskar/setup/macos/.tmux.conf.local: repo
-~/mskar/setup/macos/.zshrc: repo
-~/mskar/setup/macos/.p10k.zsh: repo
-~/mskar/setup/macos/.bash_profile: repo
-~/mskar/setup/macos/.inputrc: repo
+~/mskar/setup/init.vim: repo
+~/mskar/setup/.vimrc: repo
+~/mskar/setup/.tmux.conf: repo
+~/mskar/setup/.tmux.conf.local: repo
+~/mskar/setup/.zshrc: repo
+~/mskar/setup/.p10k.zsh: repo
+~/mskar/setup/.bash_profile: repo
+~/mskar/setup/.inputrc: repo
 ~/mskar/setup/.gitconfig: repo
 ~/mskar/setup/ipython_config.py: repo
 ~/mskar/setup/keybindings.py: repo
-~/mskar/setup/ideavim/.ideavimrc: repo
-~/mskar/setup/macos/karabiner.json: repo
-~/mskar/setup/vscode/keybindings.json: repo
-~/mskar/setup/vscode/settings.json: repo
-~/mskar/setup/rstudio/rstudio-prefs.json: repo
-~/mskar/setup/rstudio/editor_bindings.json: repo
-~/mskar/setup/rstudio/rstudio_bindings.json: repo
-~/mskar/setup/spacevim/init.toml: repo
-~/mskar/setup/spacevim/myspacevim.vim: repo
-~/mskar/setup/macos/com.googlecode.iterm2.plist: repo
+~/mskar/setup/.ideavimrc: repo
+~/mskar/setup/karabiner.json: repo
+~/mskar/setup/keybindings.json: repo
+~/mskar/setup/settings.json: repo
+~/mskar/setup/rstudio-prefs.json: repo
+~/mskar/setup/editor_bindings.json: repo
+~/mskar/setup/rstudio_bindings.json: repo
+~/mskar/setup/com.googlecode.iterm2.plist: repo
 
 /usr/local/bin/bash:
 	-brew install bash
-~/.bash_profile: ~/mskar/setup/bash/.bash_profile
-	curl https://raw.githubusercontent.com/mskar/setup/master/bash/.bash_profile -o ~/.bash_profile
-~/.inputrc: ~/mskar/setup/bash/.inputrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/bash/.inputrc -o ~/.inputrc
+~/.bash_profile: ~/mskar/setup/.bash_profile
+	curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
+~/.inputrc: ~/mskar/setup/.inputrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
 /usr/local/bin/bat:
 	-brew install bat
 /usr/local/bin/brew:
@@ -150,37 +128,29 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew install hub
 /Applications/iTerm.app:
 	-brew cask install iterm2
-~/com.googlecode.iterm2.plist: ~/mskar/setup/macos/com.googlecode.iterm2.plist
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
+~/com.googlecode.iterm2.plist: ~/mskar/setup/com.googlecode.iterm2.plist
+	curl https://raw.githubusercontent.com/mskar/setup/master/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
 /Applications/JetBrainsToolbox.app:
 	-brew cask install jetbrains-toolbox
 	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
-~/.ideavimrc: ~/mskar/setup/ideavim/.ideavimrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/ideavim/.ideavimrc -o ~/.ideavimrc
+~/.ideavimrc: ~/mskar/setup/.ideavimrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
 /Applications/Karabiner-Elements.app:
 	-brew cask install karabiner-elements
-~/.config/karabiner/karabiner.json: ~/mskar/setup/macos/karabiner.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
-~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython/ipython_config.py
-	curl https://raw.githubusercontent.com/mskar/setup/master/ipython/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py
-~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/ipython/keybindings.py
-	curl https://raw.githubusercontent.com/mskar/setup/master/ipython/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
+~/.config/karabiner/karabiner.json: ~/mskar/setup/karabiner.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython_config.py
+	curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py
+~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/keybindings.py
+	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
 /usr/local/bin/nvim:
 	-brew install neovim
-~/.config/nvim/init.vim: ~/mskar/setup/neovim/init.vim
-	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/init.vim -o ~/.config/nvim/init.vim --create-dirs
-~/.config/nvim/map.vim: ~/mskar/setup/neovim/map.vim
-	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/map.vim -o ~/.config/nvim/map.vim --create-dirs
-~/.config/nvim/plug.vim: ~/mskar/setup/neovim/plug.vim
-	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/plug.vim -o ~/.config/nvim/plug.vim --create-dirs
-~/.config/nvim/set.vim: ~/mskar/setup/neovim/set.vim
-	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/set.vim -o ~/.config/nvim/set.vim --create-dirs
-~/.config/nvim/au.vim: ~/mskar/setup/neovim/au.vim
-	curl https://raw.githubusercontent.com/mskar/setup/master/neovim/au.vim -o ~/.config/nvim/au.vim --create-dirs
+~/.config/nvim/init.vim: ~/mskar/setup/init.vim
+	curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 ~/.zsh/powerlevel10k:
 	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
-~/.p10k.zsh: ~/mskar/setup/macos/.p10k.zsh
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.p10k.zsh -o ~/.p10k.zsh
+~/.p10k.zsh: ~/mskar/setup/.p10k.zsh
+	curl https://raw.githubusercontent.com/mskar/setup/master/.p10k.zsh -o ~/.p10k.zsh
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 ~/mskar/setup/:
@@ -189,26 +159,20 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 	-brew cask install r
 ~/miniconda/envs/r:
 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
-~/.config/rstudio/rstudio-prefs.json: ~/mskar/setup/rstudio/rstudio-prefs.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
-~/.config/rstudio/keybindings/editor_bindings.json: ~/mskar/setup/rstudio/editor_bindings.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
-~/.config/rstudio/keybindings/rstudio_bindings.json: ~/mskar/setup/rstudio/rstudio_bindings.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
+~/.config/rstudio/rstudio-prefs.json: ~/mskar/setup/rstudio-prefs.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
+~/.config/rstudio/keybindings/editor_bindings.json: ~/mskar/setup/editor_bindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
+~/.config/rstudio/keybindings/rstudio_bindings.json: ~/mskar/setup/rstudio_bindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
 /usr/local/bin/scim:
 	-brew install sc-im
 /Applications/ShiftIt.app:
 	-brew cask install shiftit
-~/.SpaceVim:
-	-git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
-~/.SpaceVim.d/init.toml: ~/mskar/setup/spacevim/init.toml
-	curl https://raw.githubusercontent.com/mskar/setup/master/spacevim/init.toml -o ~/.SpaceVim.d/init.toml --create-dirs
-~/.SpaceVim.d/autoload/myspacevim.vim: ~/mskar/setup/spacevim/myspacevim.vim
-	curl https://raw.githubusercontent.com/mskar/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 /usr/local/bin/tmux:
 	-brew install tmux
-~/.tmux.conf.local: ~/mskar/setup/macos/.tmux.conf.local
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.tmux.conf.local -o ~/.tmux.conf.local
+~/.tmux.conf.local: ~/mskar/setup/.tmux.conf.local
+	curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
 ~/.tmux.conf:
 	curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 ~/.tmux/plugins/tpm:
@@ -216,22 +180,13 @@ xcode-devtools: /Library/Developer/CommandLineTools/
 /usr/local/bin/vim:
 	-brew install vim
 ~/.vimrc: ~/mskar/setup/vim/.vimrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.vimrc -o ~/.vimrc
-~/.map.vimrc: ~/mskar/setup/vim/.map.vimrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.map.vimrc -o ~/.map.vimrc
-~/.plug.vimrc: ~/mskar/setup/vim/.plug.vimrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.plug.vimrc -o ~/.plug.vimrc
-~/.set.vimrc: ~/mskar/setup/vim/.set.vimrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.set.vimrc -o ~/.set.vimrc
-~/.au.vimrc: ~/mskar/setup/vim/.au.vimrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/vim/.au.vimrc -o ~/.au.vimrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
 /Applications/VisualStudioCode.app:
 	-brew cask install visual-studio-code
-	-ln -fs /Applications/Visual\ Studio\ Code.app /Applications/VisualStudioCode.app
-~/Library/Application\ Support/Code/User/settings.json: ~/mskar/setup/vscode/settings.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/settings.json -o ~/Library/Application\ Support/Code/User/settings.json --create-dirs
-~/Library/Application\ Support/Code/User/keybindings.json: ~/mskar/setup/vscode/keybindings.json
-	curl https://raw.githubusercontent.com/mskar/setup/master/vscode/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json --create-dirs
+~/Library/Application\ Support/Code/User/settings.json: ~/mskar/setup/settings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/settings.json -o ~/Library/Application\ Support/Code/User/settings.json --create-dirs
+~/Library/Application\ Support/Code/User/keybindings.json: ~/mskar/setup/keybindings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json --create-dirs
 $(VSCODE_PYTHON):
 	code --install-extension ms-python.python --force
 $(VSCODE_VIM):
@@ -240,8 +195,8 @@ $(VSCODE_LIVESHARE):
 	code --install-extension ms-vsliveshare.vsliveshare --force
 /usr/local/bin/xpdf:
 	-brew install xpdf
-~/.zshrc: ~/mskar/setup/macos/.zshrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/macos/.zshrc -o ~/.zshrc
+~/.zshrc: ~/mskar/setup/.zshrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
 ~/.zsh/zsh-autosuggestions:
 	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ~/.zsh/zsh-syntax-highlighting:
