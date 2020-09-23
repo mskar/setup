@@ -1,1 +1,1 @@
-macos/setup.sh
+setup.sh
