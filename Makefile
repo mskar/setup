@@ -101,6 +101,8 @@ $(FZF):
 	-$(brew --prefix)/opt/fzf/install --no-fish --key-bindings --completion --update-rc
 $(GH):
 	-brew install gh
+$(GIT):
+	-brew install git
 ~/.gitconfig: ~/mskar/setup/.gitconfig
 	curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
 ~/.gitignore_global: ~/mskar/setup/.gitignore_global
