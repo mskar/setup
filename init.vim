@@ -65,6 +65,9 @@ Plug 'jalvesaq/Nvim-R'
 " but there is also zotcite: https://github.com/jalvesaq/zotcite
 Plug 'jalvesaq/zotcite'
 
+" Snippets are separated from the engine. Add this if you want them:
+Plug 'honza/vim-snippets'
+
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 Plug 'bfredl/nvim-miniyank'
 
