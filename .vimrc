@@ -1,6 +1,8 @@
 "*****************************************************************************
 "" Vim-PLug core
 "*****************************************************************************
+" https://github.com/sheerun/vim-polyglot#troubleshooting
+let g:polyglot_disabled = ['markdown']
 let vimplug_exists=expand('~/.vim/autoload/plug.vim')
 
 let g:vim_bootstrap_langs = "python"
@@ -25,7 +27,7 @@ call plug#begin(expand('~/.vim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
-" Plug 'Raimondi/delimitMate'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'airblade/vim-gitgutter'
 Plug 'preservim/nerdtree'
 Plug 'sheerun/vim-polyglot'

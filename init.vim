@@ -30,7 +30,6 @@ call plug#begin(expand('~/.config/nvim/plugged'))
 "*****************************************************************************
 " Use release branch (recommend)
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'Raimondi/delimitMate'
 Plug 'airblade/vim-gitgutter'
 Plug 'preservim/nerdtree'
 Plug 'sheerun/vim-polyglot'
