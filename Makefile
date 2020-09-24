@@ -83,17 +83,17 @@ $(BTM):
 $(BREW):
 	-echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ~/.config/coc/extensions/node_modules/coc-r-lsp:
-	vim -c "CocInstall -sync coc-r-lsp|q"
+	vim -u ~/.vimrc -esc "CocInstall -sync coc-r-lsp" +q!
 ~/.config/coc/extensions/node_modules/coc-snippets:
-	vim -c "CocInstall -sync coc-snippets|q"
+	vim -u ~/.vimrc -esc "CocInstall -sync coc-snippets" +q!
 ~/.config/coc/extensions/node_modules/coc-python:
-	vim -c "CocInstall -sync coc-python|q"
+	vim -u ~/.vimrc -esc "CocInstall -sync coc-python" +q!
 ~/.config/coc/extensions/node_modules/coc-pairs:
-	vim -c "CocInstall -sync coc-pairs|q"
+	vim -u ~/.vimrc -esc "CocInstall -sync coc-pairs" +q!
 ~/.config/coc/extensions/node_modules/coc-yank:
-	vim -c "CocInstall -sync coc-yank|q"
+	vim -u ~/.vimrc -esc "CocInstall -sync coc-yank" +q!
 ~/.config/coc/extensions/node_modules/coc-fzf-preview:
-	vim -c "CocInstall -sync coc-fzf-preview|q"
+	vim -u ~/.vimrc -esc "CocInstall -sync coc-fzf-preview" +q!
 ~/miniconda/bin/conda:
 	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 	-bash ~/miniconda.sh -bp ~/miniconda
