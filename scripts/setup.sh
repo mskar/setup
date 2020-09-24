@@ -40,7 +40,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitco
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew cask install homebrew/cask-fonts/font-fira-code-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit visual-studio-code
+brew cask install homebrew/cask-fonts/font-fira-code-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit vimr visual-studio-code
 
 ## Set up mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18

@@ -26,7 +26,7 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash $(BAT) bottom $(BREW) conda $(EXA) $(FASD) $(FD) flycut font $(FZF) git ipy iterm jetbrains karabiner neovim repo rstudio $(SCIM) shiftit tmux vim vscode $(XPDF) zsh
+all: bash $(BAT) bottom $(BREW) conda $(EXA) $(FASD) $(FD) flycut font $(FZF) git ipy iterm jetbrains karabiner neovim repo rstudio $(SCIM) shiftit tmux vim vimr vscode $(XPDF) zsh
 
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
 bottom: $(BTM) ~/.config/bottom/bottom.toml
@@ -44,6 +44,7 @@ rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~
 shiftit: /Applications/ShiftIt.app
 tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
 vim: $(VIM) ~/.vimrc
+vimr: /Applications/VimR.app
 vscode: /Applications/Visual\ Studio\ Code.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/Application\ Support/Code/User/keybindings.json ~/Library/Application\ Support/Code/User/settings.json
 zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh/zsh-syntax-highlighting
 
@@ -159,6 +160,8 @@ $(VIM):
 	-brew install vim
 ~/.vimrc: ~/mskar/setup/.vimrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
+/Applications/VimR.app:
+	-brew cask install vimr
 /Applications/VisualStudioCode.app:
 	-brew cask install visual-studio-code
 ~/Library/Application\ Support/Code/User/settings.json: ~/mskar/setup/settings.json
