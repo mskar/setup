@@ -17,6 +17,7 @@ FZF = $(shell brew --prefix)/bin/fzf
 GH = $(shell brew --prefix)/bin/gh
 GIT = $(shell brew --prefix)/bin/git
 NVIM = $(shell brew --prefix)/bin/nvim
+NODE = $(shell brew --prefix)/bin/node
 RSTATS = $(shell brew --prefix)/bin/r
 SCIM = $(shell brew --prefix)/bin/scim
 TMUX = $(shell brew --prefix)/bin/tmux
@@ -139,6 +140,8 @@ $(GIT):
 	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
 $(NVIM):
 	-brew install neovim
+$(NODE):
+	-brew install node
 ~/.config/nvim/init.vim: ~/mskar/setup/init.vim
 	curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 ~/.zsh/powerlevel10k:
@@ -152,7 +155,7 @@ $(NVIM):
 $(RSTATS):
 	-brew cask install r
 ~/miniconda/envs/r:
-	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
+	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
 ~/.config/rstudio/rstudio-prefs.json: ~/mskar/setup/rstudio-prefs.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 ~/.config/rstudio/keybindings/editor_bindings.json: ~/mskar/setup/editor_bindings.json

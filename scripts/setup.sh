@@ -79,7 +79,7 @@ code --install-extension vscodevim.vim --force
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install bash bat clementtsang/bottom/bottom exa fasd fd fzf gh neovim sc-im tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+brew install bash bat clementtsang/bottom/bottom exa fasd fd fzf gh neovim node sc-im tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Install fzf key bindings and fuzzy completion
 $(brew --prefix)/opt/fzf/install --no-fish --completion --no-key-bindings --no-update-rc
@@ -178,7 +178,7 @@ conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pa
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 ##### Installing r into base environment breaks nvim-R
-conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
+conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver
 
 curl https://raw.githubusercontent.com/mskar/setup/master/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
