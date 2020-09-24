@@ -48,36 +48,7 @@ Plug 'honza/vim-snippets'
 
 "" Color
 Plug 'tomasr/molokai'
-
-"*****************************************************************************
-"" Custom bundles
-"*****************************************************************************
-
-" python
-"" Python Bundle
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
-
-"*****************************************************************************
-"*****************************************************************************
-
-"" Include user's extra bundle
-if filereadable(expand("~/.vimrc.local.bundles"))
-  source ~/.vimrc.local.bundles
-endif
-
-"*****************************************************************************
-"" Plug user install packages
-"*****************************************************************************
-
-" To add extra packages to vim, add them below
-" eg (for github):
-
-" Plug 'user/repository'
-
-" or (for anywhere else):
-
-" Plug 'url'
-
 Plug 'vim-pandoc/vim-rmarkdown'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'

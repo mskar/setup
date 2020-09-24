@@ -1,7 +1,9 @@
 "*****************************************************************************
 "" Plugins
 "*****************************************************************************
-
+" https://github.com/sheerun/vim-polyglot#troubleshooting
+let g:polyglot_disabled = ['markdown']
+" let g:python3_host_prog="~/miniconda/bin/python"
 let vimplug_exists=expand('~/.config/nvim/autoload/plug.vim')
 
 let g:vim_bootstrap_langs = "python"
@@ -26,6 +28,8 @@ call plug#begin(expand('~/.config/nvim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
+" Use release branch (recommend)
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'Raimondi/delimitMate'
 Plug 'airblade/vim-gitgutter'
 Plug 'preservim/nerdtree'
@@ -54,44 +58,8 @@ Plug 'tomasr/molokai'
 "" Python Bundle
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
-"*****************************************************************************
-"*****************************************************************************
-"*****************************************************************************
-"" Plug user install packages
-"*****************************************************************************
-
-" To add extra packages to vim, add them below
-" eg (for github):
-
-" Plug 'user/repository'
-
-" or (for anywhere else):
-
-" Plug 'url'
-
-" https://github.com/ncm2/ncm2#install
-Plug 'ncm2/ncm2'
-Plug 'roxma/nvim-yarp'
-" NOTE: you need to install completion sources to get completions. Check
-" our wiki page for a list of sources: https://github.com/ncm2/ncm2/wiki
-Plug 'ncm2/ncm2-bufword'
-Plug 'ncm2/ncm2-path'
-
 " The main R plugin providing RStudio-esque features
-" Autocompletion for R: https://github.com/gaalcaras/ncm-R
 Plug 'jalvesaq/Nvim-R'
-Plug 'gaalcaras/ncm-R'
-
-" Optional: for snippet support
-" Further configuration might be required, read below
-" Plug 'sirver/UltiSnips' " provided below
-Plug 'ncm2/ncm2-ultisnips'
-
-" https://github.com/SirVer/ultisnips#quick-start
-" Track the engine.
-Plug 'SirVer/ultisnips'
-" Snippets are separated from the engine. Add this if you want them:
-Plug 'honza/vim-snippets'
 
 " Nvim-R handles citation of its own: https://github.com/jalvesaq/Nvim-R/issues/346
 " but there is also zotcite: https://github.com/jalvesaq/zotcite
@@ -171,12 +139,9 @@ silent! colorscheme molokai
 set mousemodel=popup
 set t_Co=256
 set guioptions=egmrti
-set gfn=Monospace\ 10
-
 set title
 set titleold="Terminal"
 set titlestring=%F
-
 set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)
 
 if exists("*fugitive#statusline")
@@ -256,30 +221,6 @@ let g:polyglot_disabled = ['python']
 let python_highlight_all = 1
 
 set completeopt=noinsert,menuone,noselect
-
-" https://github.com/gaalcaras/ncm-R#getting-the-snippets-to-work
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc
-" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
-" http://vimcasts.org/episodes/meet-ultisnips/
-let g:UltiSnipsExpandTrigger="<tab>"
-let g:UltiSnipsJumpForwardTrigger="<tab>"
-let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
-" https://github.com/SirVer/ultisnips#quick-start
-" If you want :UltiSnipsEdit to split your window.
-let g:UltiSnipsEditSplit="vertical"
-
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L19
-let g:UltiSnipsExpandTrigger = "<Plug>(ultisnips_expand_or_jump)"
-let g:UltiSnipsJumpForwardTrigger = "<Plug>(ultisnips_expand_or_jump)"
-
-function! UltiSnipsExpandOrJumpOrTab()
-  call UltiSnips#ExpandSnippetOrJump()
-  if g:ulti_expand_or_jump_res > 0
-    return ""
-  else
-    return "\<Tab>"
-  endif
-endfunction
 
 " http://sherifsoliman.com/2017/07/22/nvim-r/
 " press alt+, to have Nvim-R insert the assignment operator: <-
@@ -625,17 +566,6 @@ imap <c-x><c-l> <plug>(fzf-complete-line)
 " Advanced customization using autoload functions
 inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
 
-" https://github.com/ncm2/ncm2-ultisnips
-" Press enter key to trigger snippet expansion
-" The parameters are the same as `:help feedkeys()`
-inoremap <silent> <expr> <CR> ncm2_ultisnips#expand_or("\<CR>", 'n')
-
-inoremap <silent> <expr> <Tab> ncm2_ultisnips#expand_or("\<Plug>(ultisnips_try_expand)")
-
-inoremap <silent> <Plug>(ultisnips_try_expand) <C-R>=UltiSnipsExpandOrJumpOrTab()<CR>
-
-snoremap <silent> <Tab> <Esc>:call UltiSnips#ExpandSnippetOrJump()<cr>
-
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 map p <Plug>(miniyank-autoput)
 map P <Plug>(miniyank-autoPut)
@@ -707,17 +637,6 @@ au FileType snakemake let Comment="#"
 au FileType snakemake setlocal completeopt=menuone,longest
 au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
-" ncm-R: https://github.com/gaalcaras/ncm-R
-" requires the lines below to satisfy ncm2 dependencies
-" https://github.com/ncm2/ncm2#install
-" https://github.com/gaalcaras/ncm-R/blob/master/test/min_vimrc#L16
-" For now, use coc in vim and ncm in neovim
-" Later, try to use ncm just for r/rmd files as below
-" autocmd BufEnter *.[Rr],*.Rmd call ncm2#enable_for_buffer()
-" or switch to coc entirely if the R LSP gets better
-" https://github.com/REditorSupport/languageserver/issues/167
-autocmd BufEnter * call ncm2#enable_for_buffer()
-
 " Nvim-R mappings
 autocmd FileType r,rmd nnoremap <buffer> <C-w>a :!wmctrl -r "R Graphics" -b add,above
 autocmd FileType r,rmd nnoremap <buffer> <C-w>A :!wmctrl -r "R Graphics" -b remove,above
@@ -741,11 +660,11 @@ autocmd FileType python nnoremap <buffer> <localleader><CR> :w ! python3<CR>
 " https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
 " Remappings based on RStudio shortcuts: https://rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf
 "" Remapping the basic :: send line
-autocmd FileType r,rmd nnoremap <silent><buffer><A-Enter> :call SendLineToR("down")<CR>
-autocmd FileType r nnoremap <silent><buffer><A-S-Enter> :call SendFileToR("echo")<CR>
-autocmd FileType rmd nnoremap <silent><buffer><A-S-Enter> :call b:SendChunkToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><D-Enter> :call SendLineToR("down")<CR>
+autocmd FileType r nnoremap <silent><buffer><D-S-Enter> :call SendFileToR("echo")<CR>
+autocmd FileType rmd nnoremap <silent><buffer><D-S-Enter> :call b:SendChunkToR("echo", "down")<CR>
 "" Remapping selection :: send multiple lines + echo lines
-vmap <A-Enter> <Plug>REDSendSelection
+vmap <D-Enter> <Plug>REDSendSelection
 vmap <localleader>o <Plug>RSendSelAndInsertOutput
 autocmd FileType r,rmd nnoremap <silent><buffer><A-S-0> :call RClearAll()<CR>
 autocmd FileType r nnoremap <silent><buffer><A-a> :call SendAboveLinesToR()<CR>
@@ -774,7 +693,7 @@ autocmd FileType r,rmd nnoremap <silent><buffer><localleader>o :call SendLineToR
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>p :call SendParagraphToR("echo", "down")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>q :call RQuit("nosave")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>r :call RAction("args")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>s :call StartR("R")<CR>:RStop<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>s :call StartR("R")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>t :call RAction("str")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>u :call RAction("summary")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>v :call RAction("viewdf", ", location='vsplit'")<CR>
