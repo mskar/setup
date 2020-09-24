@@ -35,7 +35,6 @@ setopt auto_menu         # show completion menu on successive tab press
 setopt autocd
 setopt autopushd
 setopt complete_in_word
-setopt correct
 setopt extended_history       # record timestamp of command in HISTFILE
 setopt hist_expire_dups_first # delete duplicates first when HISTFILE size exceeds HISTSIZE
 setopt hist_ignore_dups       # ignore duplicated commands history list
@@ -58,7 +57,6 @@ zmodload -i zsh/complist
 autoload -U edit-command-line; zle -N edit-command-line
 
 # Aliases
-alias \?='alias | grep'
 alias -- -='cd -'
 alias -g ......='../../../../..'
 alias -g .....='../../../..'
@@ -77,6 +75,7 @@ alias 6="cd -6"
 alias 7="cd -7"
 alias 8="cd -8"
 alias 9="cd -9"
+alias \?='alias | grep'
 alias a="git add"
 alias aa="func() { local files=$(echo '$(git status -s | fzf --nth=2.. --preview="if [ \$(git ls-files --other --exclude-standard {2..} | sed s/\ //g) ]; then; git diff --color=always --color-words --no-index -- /dev/null {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always --color-words {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add $(echo '$@') --; }; func"
 alias ac="git add --all && git commit --reedit-message=HEAD"
@@ -196,16 +195,43 @@ alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 alias h2s="func() { local name=$(echo '${1:-origin}') && git remote set-url $(echo '$name $(git remote get-url $name | sed "s+https://+git@+;s+/+:+")') }; func"
+alias ha="gh auth"
 alias hai="gh auth login"
 alias hao="gh auth logout"
 alias har="gh auth refresh"
 alias has="gh auth status"
-alias hgc="func() { gh gist create $(echo '$1') -d $(echo '${*:2}'); }; func";
-alias hgcp="func() { gh gist create $(echo '$1') -p -d $(echo '${*:2}'); }; func";
+alias hc="gh config"
+alias hcg="gh config get"
+alias hcs="gh config set"
+alias hg="gh gist"
+alias hgc="gh gist create"
+alias hgcd="func() { gh gist create $(echo '$1') -d $(echo '${*:2}'); }; func"
+alias hgcp="gh gist create -p"
+alias hgcpd="func() { gh gist create $(echo '$1') -pd $(echo '${*:2}'); }; func"
 alias hge="gh gist edit"
 alias hgl="gh gist list"
-alias glances="glances --disable-left-sidebar --disable-top --process-short-name --hide-kernel-threads"
 alias hgv="gh gist view"
+alias hi="gh issue"
+alias hic="gh issue create"
+alias hicl="gh issue close"
+alias hil="gh issue list"
+alias hiro="gh issue reopen"
+alias his="gh issue status"
+alias hiv="gh issue view"
+alias hp="gh pr"
+alias hpc="gh pr create"
+alias hpch="gh pr checks"
+alias hpcl="gh pr close"
+alias hpco="gh pr checkout"
+alias hpd="gh pr diff"
+alias hpl="gh pr list"
+alias hpm="gh pr merge"
+alias hpr="gh pr ready"
+alias hpr="gh pr review"
+alias hpro="gh pr reopen"
+alias hps="gh pr status"
+alias hpv="gh pr view"
+alias hr="gh repo"
 alias hrc="func() { gh repo create $(echo '$1') --$(echo '${2:-private}') $(echo '${@:3}') -y && cd $(echo '$1'); }; func"
 alias hrf="gh repo fork"
 alias hrv="gh repo view"
@@ -217,9 +243,9 @@ alias ite="func() { if $(echo '$1'); then; $(echo '$2'); else; $(echo '$3'); fi;
 alias itee="func() { if $(echo '$1'); then; $(echo '$2'); elif; $(echo '$3'); else; $(echo '$4'); fi; }; func";
 alias j="func() { local directory=$(echo '$(fd --type d ^ $@ | fzf --no-multi --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)")') && cd $(echo '$directory'); }; func";
 alias jj="func() { local directory=$(echo '$(fasd -Rdl | fzf --delimiter=/ --no-multi --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --with-nth=4..)') && cd $(echo '$directory'); }; func";
-alias jt="func() { local directory=$(echo '$(fasd -Rdl | fzf --delimiter=/ --no-multi --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --with-nth=4..)') && cd $(echo '$directory') && tmux attach -t $(echo '${1:-${directory##*/}}') || tmux new -s $(echo '${1:-${directory##*/}}'); }; func";
 alias jl="func() { local ipynb=$(echo '$(fd --type f --extension ipynb ^ $@ | fzf --no-multi --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$ipynb') ] && jupyter lab $(echo '$ipynb'); }; func";
 alias jn="func() { local ipynb=$(echo '$(fd --type f --extension ipynb ^ $@ | fzf --no-multi --preview="jupyter nbconvert --to markdown {} --stdout | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$ipynb') ] && jupyter notebook $(echo '$ipynb'); }; func";
+alias jt="func() { local directory=$(echo '$(fasd -Rdl | fzf --delimiter=/ --no-multi --preview="exa --all --classify --color=always -L=2 -T {} | grep --color=always -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^)" --with-nth=4..)') && cd $(echo '$directory') && tmux attach -t $(echo '${1:-${directory##*/}}') || tmux new -s $(echo '${1:-${directory##*/}}'); }; func";
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && cd $(echo '${ntimes// /../}'); }; func";
 alias kg="func() { ssh-keygen -t rsa -b 4096 -f $(echo '$1') -C $(echo '$1') && ssh-add ~/.ssh/$(echo '$1') && cat ~/.ssh/$(echo '$1').pub; }; func";
 alias l="git log --format='%C(cyan)%>(12,trunc)%ar %Cblue%h %Cgreen%<(8,trunc)%cn %Creset%s %Cred%D'"
@@ -310,9 +336,9 @@ alias rab="func() { local name=${1:-origin} && git remote add bit https://bitbuc
 alias rah="func() { local name=${1:-origin} && git remote add hub https://github.com/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func";
 alias ral="func() { local name=${1:-origin} && git remote add lab https://gitlab.com/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func";
 alias rao="git remote add origin"
-alias raol="git remote add origin $(echo '$(git remote get-url lab)')"
-alias raoh="git remote add origin $(echo '$(git remote get-url hub)')"
 alias raob="git remote add origin $(echo '$(git remote get-url bit)')"
+alias raoh="git remote add origin $(echo '$(git remote get-url hub)')"
+alias raol="git remote add origin $(echo '$(git remote get-url lab)')"
 alias rau="git remote add upstream"
 alias rba="git rebase --abort"
 alias rbc="git rebase --continue"
