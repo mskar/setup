@@ -28,7 +28,6 @@ call plug#begin(expand('~/.vim/plugged'))
 "" Plug install packages
 "*****************************************************************************
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'neoclide/coc-r-lsp', {'do': 'yarn install --frozen-lockfile'}
 Plug 'airblade/vim-gitgutter'
 Plug 'preservim/nerdtree'
 Plug 'sheerun/vim-polyglot'
@@ -55,7 +54,7 @@ Plug 'vim-pandoc/vim-rmarkdown'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 " From Vimcast 73: http://vimcasts.org/episodes/neovim-eyecandy/
-Plug 'machakann/vim-highlightedyank'
+" Plug 'machakann/vim-highlightedyank'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-unimpaired'
