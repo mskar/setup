@@ -287,7 +287,7 @@ alias mts="git mergetool -t vimdiff --staged"
 alias mu="mamba update"
 alias mus="git mergetool -t nvim --extcmd 'nvim -du ~/.SpaceVim/init.vim' --staged"
 alias mx="mamba uninstall"
-alias n="nvim"
+alias n="$(brew --prefix)/bin/nvim"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ne="func() { local files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 alias nf="func() { local files=$(echo '$(fd --type f ^ $@ | fzf)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
@@ -409,7 +409,7 @@ alias tt="tmux attach -t $(echo '$(tmux list-sessions | fzf -m --no-sort | cut -
 alias u="git pull --rebase"
 alias uo="git pull origin --rebase"
 alias uom="git pull --rebase origin master"
-alias v="$EDITOR"
+alias v="$(brew --prefix)/bin/vim"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ve="func() { local files=$(echo '$(v -es --noplugin -u ~/.vimrc "+set nonumber" "+pu =v:oldfiles" +%p +q! | sed /^.$/d | sed s+~+$HOME+ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR $(echo '$@') --; }; func";
 alias vf="func() { local files=$(echo '$(fd --type f ^ $@ | fzf)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o $EDITOR --; }; func";
