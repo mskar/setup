@@ -27,7 +27,7 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash bat bottom brew conda exa fasd fd flycut font fzf git ipy iterm jetbrains karabiner neovim repo rstudio scim shiftit tmux vim vimr vscode xpdf zsh
+all: bash bat bottom brew conda exa fasd fd flycut font fzf git ipy iterm jetbrains karabiner neovim repo rstudio scim shiftit tmux vim vimr vscode xpdf zotero zsh
 
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
 bat: $(BAT)
@@ -55,6 +55,7 @@ vim: $(VIM) ~/.vimrc
 vimr: /Applications/VimR.app
 vscode: /Applications/Visual\ Studio\ Code.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/Application\ Support/Code/User/keybindings.json ~/Library/Application\ Support/Code/User/settings.json
 xpdf: $(XPDF)
+zotero: /Applications/Zotero.app
 zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh/zsh-syntax-highlighting
 
 ~/mskar/setup/.bash_profile: repo
@@ -193,6 +194,8 @@ $(VSCODE_LIVESHARE):
 	-code --install-extension ms-vsliveshare.vsliveshare --force
 $(XPDF):
 	-brew install xpdf
+/Applications/Zotero.app:
+	-brew cask install zotero
 ~/.zshrc: ~/mskar/setup/.zshrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
 ~/.zsh/zsh-autosuggestions:

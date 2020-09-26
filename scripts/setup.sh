@@ -17,6 +17,10 @@
 ### Macs are built to last. I am writing this in 2020 on a 2014 MacBook Air. No PC has ever lasted this long in my experience.
 
 # Mac System Preferences
+## For tons of MacOS setup examples, click the link below
+## https://github.com/joeyhoer/starter/tree/master/system
+
+## https://apple.stackexchange.com/a/83923
 ## In System Preferences > Keyboard > Keyboard:
 ### Key Repeat: Fast
 defaults write -g KeyRepeat -int 1
@@ -31,7 +35,7 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 defaults write com.apple.dock persistent-apps -array
 
 ## 2-finger click on Dock and Turn Dock Hiding On
-defaults write com.apple.Dock autohide -int 1
+defaults write com.apple.dock autohide -bool true
 
 ## https://www.defaults-write.com/delete-the-hiding-dock-delay-in-os-x/
 defaults write com.apple.Dock autohide-delay -float 0
@@ -77,7 +81,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitco
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew cask install homebrew/cask-fonts/font-fira-code-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit vimr visual-studio-code
+brew cask install homebrew/cask-fonts/font-fira-code-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit vimr visual-studio-code zotero
 
 ## Set up mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
