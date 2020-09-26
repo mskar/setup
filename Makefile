@@ -27,11 +27,10 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash $(BAT) bottom $(BREW) coc conda $(EXA) $(FASD) $(FD) flycut font $(FZF) git ipy iterm jetbrains karabiner neovim repo rstudio $(SCIM) shiftit tmux vim vimr vscode $(XPDF) zsh
+all: bash $(BAT) bottom $(BREW) conda $(EXA) $(FASD) $(FD) flycut font $(FZF) git ipy iterm jetbrains karabiner neovim repo rstudio $(SCIM) shiftit tmux vim vimr vscode $(XPDF) zsh
 
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
 bottom: $(BTM) ~/.config/bottom/bottom.toml
-coc: ~/.config/coc/extensions/node_modules/coc-r-lsp ~/.config/coc/extensions/node_modules/coc-snippets ~/.config/coc/extensions/node_modules/coc-python ~/.config/coc/extensions/node_modules/coc-pairs ~/.config/coc/extensions/node_modules/coc-yank ~/.config/coc/extensions/node_modules/coc-fzf-preview
 conda: ~/miniconda/bin/conda
 flycut: /Applications/Flycut.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
@@ -83,18 +82,6 @@ $(BTM):
 	-brew install clementtsang/bottom/bottom
 $(BREW):
 	-echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-~/.config/coc/extensions/node_modules/coc-r-lsp:
-	vim -c "CocInstall -sync coc-r-lsp|q"
-~/.config/coc/extensions/node_modules/coc-snippets:
-	vim -c "CocInstall -sync coc-snippets|q"
-~/.config/coc/extensions/node_modules/coc-python:
-	vim -c "CocInstall -sync coc-python|q"
-~/.config/coc/extensions/node_modules/coc-pairs:
-	vim -c "CocInstall -sync coc-pairs|q"
-~/.config/coc/extensions/node_modules/coc-yank:
-	vim -c "CocInstall -sync coc-yank|q"
-~/.config/coc/extensions/node_modules/coc-fzf-preview:
-	vim -c "CocInstall -sync coc-fzf-preview|q"
 ~/.config/nvim/coc-settings.json: ~/mskar/setup/coc-settings.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
 ~/miniconda/bin/conda:
