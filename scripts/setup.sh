@@ -1,7 +1,12 @@
-# This repo contains my setup files for Mac, Linux, Windows.
-## This README is a symlink to the [setup.sh](macos/setup.sh) script in the [macos](macos) directory.
+# This repo contains my setup files for Mac (local) and Linux (remote) and few things to make Windows more bearable.
+
+# Install via
+## `curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh | /bin/bash`
+## or
+## `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh)"`
+
+## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 #### Look in the [windows](windows) folder, to see my setup for Windows Subsystem for Linux (WSL), Windows Terminal, and AutoHotkey (eventually to be replaced by the [KSM](https://windowsreport.com/powertoys-key-remapper/) [PowerToy](https://github.com/microsoft/PowerToys)).
-#### Look in the [linux](linux) directory, to see my everything related to linux (including WSL).
 # Why Mac?
 ## MacOS
 ### MacOS is UNIX-based, unlike Windows, though WSL is a really big step forward.
