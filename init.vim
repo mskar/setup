@@ -716,14 +716,14 @@ nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 let g:polyglot_disabled = ['python']
 let python_highlight_all = 1
 
-set completeopt=noinsert,menuone,noselect
-
 " vim-pandoc inserts citations with <C-x><C-o>
 " disable automatic folding by vim-pandoc
 let g:pandoc#modules#disabled = ["folding"]
 let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 " In addition to vim-pandoc, zotcite and nvim-r can insert citations
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
+
+set completeopt=noinsert,menuone
 
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
 set timeoutlen=1000 ttimeoutlen=10
@@ -732,6 +732,15 @@ set timeoutlen=1000 ttimeoutlen=10
 set nobackup
 set noswapfile
 set nowritebackup
+
+" Better display for messages
+set cmdheight=1
+
+" You will have bad experience for diagnostic messages when it's default 4000.
+set updatetime=300
+
+" Don't pass messages to |ins-completion-menu|.
+set shortmess+=c
 
 " (In times of great desperation) allow use of the mouse
 set mouse=a
@@ -828,9 +837,6 @@ let R_rmdchunk = 0
 " COC settings
 " https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
 let g:coc_global_extensions = ['coc-git', 'coc-fzf-preview', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
-
-" Don't pass messages to |ins-completion-menu|.
-set shortmess+=c
 
 " Always show the signcolumn, otherwise it would shift the text each time
 " diagnostics appear/become resolved.

@@ -571,14 +571,14 @@ nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 let g:polyglot_disabled = ['python']
 let python_highlight_all = 1
 
-set completeopt=noinsert,menuone,noselect
-
 " vim-pandoc inserts citations with <C-x><C-o>
 " disable automatic folding by vim-pandoc
 let g:pandoc#modules#disabled = ["folding"]
 let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 " In addition to vim-pandoc, zotcite and nvim-r can insert citations
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
+
+set completeopt=noinsert,menuone
 
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
 set timeoutlen=1000 ttimeoutlen=10
@@ -588,8 +588,6 @@ set nobackup
 set noswapfile
 set nowritebackup
 
-set completeopt=noinsert,menuone ",noselect
-
 " Better display for messages
 set cmdheight=1
 
@@ -598,9 +596,6 @@ set updatetime=300
 
 " Don't pass messages to |ins-completion-menu|.
 set shortmess+=c
-
-" always show signcolumns
-set signcolumn=yes
 
 " (In times of great desperation) allow use of the mouse
 set mouse=a
