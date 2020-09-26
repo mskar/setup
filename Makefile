@@ -95,6 +95,8 @@ $(BREW):
 	vim -c "CocInstall -sync coc-yank|q"
 ~/.config/coc/extensions/node_modules/coc-fzf-preview:
 	vim -c "CocInstall -sync coc-fzf-preview|q"
+~/.config/nvim/coc-settings.json: ~/mskar/setup/coc-settings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
 ~/miniconda/bin/conda:
 	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 	-bash ~/miniconda.sh -bp ~/miniconda
