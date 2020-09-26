@@ -77,8 +77,6 @@ Plug 'tpope/vim-unimpaired'
 Plug 'bronson/vim-trailing-whitespace'
 Plug 'godlygeek/tabular'
 
-"" Color
-" Plug 'dracula/vim', { 'as': 'dracula' }
 call plug#end()
 "*****************************************************************************
 "" Basic Setup
@@ -138,7 +136,7 @@ set guioptions=egmrti
 set title
 set titleold="Terminal"
 set titlestring=%F
-set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)
+set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
 
 if exists("*fugitive#statusline")
   set statusline+=%{fugitive#statusline()}
@@ -147,7 +145,7 @@ endif
 "*****************************************************************************
 "" Abbreviations
 "*****************************************************************************
-"" no one is really happy until you have this shortcuts
+"" No one is really happy until you have this shortcuts
 cnoreabbrev W! w!
 cnoreabbrev Q! q!
 cnoreabbrev Qall! qall!
@@ -456,6 +454,7 @@ tnoremap [b <C-\><C-n>:bp<CR><C-g>
 " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR><C-g>
+" https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>u :source ~/session.vim<CR>
 
 " Terminal like in vim
@@ -532,7 +531,9 @@ nnoremap <C-w>, <C-\><C-n>:bp<CR>
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
 nnoremap <silent> <leader>A :Ag<CR>
+nnoremap <silent> gB :BCommits<CR>
 nnoremap <silent> gb :Buffers<CR>
+nnoremap <silent> <leader>b :Buffers<CR>
 "Recovery commands from history through FZF
 nnoremap <silent> <leader>h :History<CR>
 nnoremap <silent> <leader>B :BCommits<CR>
@@ -549,8 +550,8 @@ nnoremap <silent> <leader>l :BLines<CR>
 nnoremap <silent> <leader>L :Lines<CR>
 nnoremap <silent> <leader>R :Rg<CR>
 nnoremap <silent> <leader>y :Filetypes<CR>
-nnoremap <silent> <Leader>t :BTags<CR>
-nnoremap <silent> <Leader>T :Tags<CR>
+nnoremap <silent> <leader>t :BTags<CR>
+nnoremap <silent> <leader>T :Tags<CR>
 nnoremap <silent> <leader>z :FZF -m<CR>
 
 " https://github.com/junegunn/fzf.vim#usage
@@ -626,7 +627,7 @@ else
   inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 endif
 
-" Use <cr> to confirm completion, `<C-g>u` means break undo chain at current
+" Use <tab> to confirm completion, `<C-g>u` means break undo chain at current
 " position. Coc only does snippet and additional edit on confirm.
 " <cr> could be remapped by other vim plugin, try `:verbose imap <CR>`.
 if exists('*complete_info')

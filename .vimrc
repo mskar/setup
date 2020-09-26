@@ -53,6 +53,9 @@ Plug 'tomasr/molokai'
 "" Python
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
+" Nvim-R handles citation of its own: https://github.com/jalvesaq/Nvim-R/issues/346
+" but there is also zotcite: https://github.com/jalvesaq/zotcite
+Plug 'jalvesaq/zotcite'
 " For Rmarkdown syntax
 Plug 'vim-pandoc/vim-rmarkdown'
 Plug 'vim-pandoc/vim-pandoc'
@@ -89,7 +92,7 @@ set expandtab
 
 "" Map leader to ,
 let mapleader=' '
-let mapleader='\'
+let maplocalleader='\'
 
 "" Enable hidden buffers
 set hidden
@@ -124,7 +127,7 @@ set guioptions=egmrti
 set title
 set titleold="Terminal"
 set titlestring=%F
-set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)\
+set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
 
 if exists("*fugitive#statusline")
   set statusline+=%{fugitive#statusline()}
@@ -228,6 +231,7 @@ au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
 " Highlight the symbol and its references when holding the cursor.
 autocmd CursorHold * silent call CocActionAsync('highlight')
+
 augroup mygroup
   autocmd!
   " Setup formatexpr specified filetype(s).
@@ -247,7 +251,6 @@ noremap <leader>gc :Gwrite<bar>Gcommit<CR>
 noremap <leader>gp :Gpush<CR>
 noremap <leader>gu :Gpull<CR>
 noremap gs :Gstatus<CR>
-noremap gb :Gblame<CR>
 noremap <leader>gd :Gvdiff<CR>
 noremap <leader>gr :Gremove<CR>
 noremap <leader>gl :Glog<CR>
@@ -263,6 +266,8 @@ noremap <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
 
 "" Opens a tab edit command with the path of the currently edited file filled
 noremap <leader>te :tabe <C-R>=expand("%:p:h") . "/" <CR>
+
+cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
 noremap YY "+y<CR>
 noremap <leader>p "+gP<CR>
@@ -287,19 +292,6 @@ vnoremap K :m '<-2<CR>gv=gv
 
 "" Open current line on GitHub
 nnoremap <leader>o :.Gbrowse<CR>
-
-if !exists('##TextYankPost')
-  map y <Plug>(highlightedyank)
-endif
-nnoremap <silent> <leader>n :NERDTreeToggle<CR>
-
-" grep.vim
-nnoremap <silent> <leader>rg :Rgrep<CR>
-
-" terminal emulation
-nnoremap <silent> <leader>sh :terminal<CR>
-
-cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
 " Emacs and bash style insert mode CTRL shortcuts
 " <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
@@ -409,7 +401,9 @@ nnoremap <silent> <leader>A :Ag<CR>
 nnoremap <silent> gB :BCommits<CR>
 nnoremap <silent> gb :Buffers<CR>
 nnoremap <silent> <leader>b :Buffers<CR>
+"Recovery commands from history through FZF
 nnoremap <silent> <leader>h :History<CR>
+nnoremap <silent> <leader>B :BCommits<CR>
 nnoremap <silent> <leader>c :Commits<CR>
 nnoremap <silent> <leader>C :Commands<CR>
 nnoremap <silent> <leader>gf :GFiles<CR>
@@ -439,6 +433,11 @@ imap <c-x><c-j> <plug>(fzf-complete-file-ag)
 imap <c-x><c-l> <plug>(fzf-complete-line)
 " Advanced customization using autoload functions
 inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
+
+" https://vim.fandom.com/wiki/Moving_through_camel_case_words
+" Use one of the following to define the camel characters.
+" Stop on capital letters.
+" CamelCaseWord shortcuts will not work in vim (no way to send alt+ctrl)
 
 " Use tab for trigger completion with characters ahead and navigate.
 " NOTE: Use command ':verbose imap <tab>' to make sure tab is not mapped by
@@ -479,19 +478,13 @@ else
   inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 endif
 
-if exists('*complete_info')
-  inoremap <expr> <tab> complete_info()["selected"] != "-1" ? "\<C-y>" : "\<C-g>u\<tab>"
-else
-  inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<tab>"
-endif
-
-" Use <cr> to confirm completion, `<C-g>u` means break undo chain at current
+" Use <tab> to confirm completion, `<C-g>u` means break undo chain at current
 " position. Coc only does snippet and additional edit on confirm.
 " <cr> could be remapped by other vim plugin, try `:verbose imap <CR>`.
 if exists('*complete_info')
-  inoremap <expr> <tab> complete_info()["selected"] != "-1" ? "\<C-y>" : "\<C-g>u\<CR>"
+  inoremap <expr> <tab> complete_info()["selected"] != "-1" ? "\<C-y>" : "\<C-g>u\<tab>"
 else
-  inoremap <expr> <tab> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
+  inoremap <expr> <tab> pumvisible() ? "\<C-y>" : "\<C-g>u\<tab>"
 endif
 
 " Use `[g` and `]g` to navigate diagnostics
@@ -583,7 +576,7 @@ let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 " In addition to vim-pandoc, zotcite and nvim-r can insert citations
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
 
-set completeopt-=noselect
+set completeopt=noinsert,menuone
 
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
 set timeoutlen=1000 ttimeoutlen=10
