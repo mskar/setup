@@ -1,9 +1,9 @@
 # This repo contains my setup files for Mac (local) and Linux (remote) and few things to make Windows more bearable.
 
 # Install via
-## `curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh | /bin/bash`
+### `curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh | /bin/bash`
 ## or
-## `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh)"`
+### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh)"`
 
 ## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 #### Look in the [windows](windows) folder, to see my setup for Windows Subsystem for Linux (WSL), Windows Terminal, and AutoHotkey (eventually to be replaced by the [KSM](https://windowsreport.com/powertoys-key-remapper/) [PowerToy](https://github.com/microsoft/PowerToys)).
@@ -36,9 +36,18 @@ defaults write com.apple.Dock autohide -int 1
 ## https://www.defaults-write.com/delete-the-hiding-dock-delay-in-os-x/
 defaults write com.apple.Dock autohide-delay -float 0
 
-## Under General > Sound turn off all sounds and "Show volume in menu bar"
-defaults write com.apple.systemsound "com.apple.sound.uiaudio.enabled" -int 0
+## Under General > Sound turn off all sounds
 
+### Disable user interface sound effects
+defaults write com.apple.systemsound com.apple.sound.uiaudio.enabled -bool false
+
+### Disable feedback when volume is changed
+defaults write NSGlobalDomain com.apple.sound.beep.feedback -bool false
+
+### Disable flashing the screen when an alert sound occurs (accessibility)
+defaults write NSGlobalDomain com.apple.sound.beep.flash -bool false
+
+## Under General > Sound "Show volume in menu bar"
 defaults write com.apple.systemuiserver menuExtras -array \
     "/System/Library/CoreServices/Menu Extras/AirPort.menu" \
     "/System/Library/CoreServices/Menu Extras/Bluetooth.menu" \
