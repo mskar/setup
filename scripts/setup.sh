@@ -37,6 +37,11 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 ### In System Preferences > Trackpad > Point & Click, set tracking speed to max:
 defaults write NSGlobalDomain com.apple.trackpad.scaling -float 3
 
+### and select Tap to click
+defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool true
+defaults -currentHost write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
+defaults write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
+
 ## Dock
 ### Remove most icons from Dock
 defaults write com.apple.dock persistent-apps -array
