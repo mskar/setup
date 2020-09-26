@@ -96,6 +96,9 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
 ### Neovim
 curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 
+### Neovim GUIs
+curl https://raw.githubusercontent.com/mskar/setup/master/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
+
 ### COC (Conqueror Of Completion)
 curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
 

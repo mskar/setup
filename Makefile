@@ -133,6 +133,8 @@ $(NODE):
 	-brew install node
 ~/.config/nvim/init.vim: ~/mskar/setup/init.vim
 	curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
+~/.config/nvim/ginit.vim: ~/mskar/setup/ginit.vim
+	curl https://raw.githubusercontent.com/mskar/setup/master/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
 ~/.zsh/powerlevel10k:
 	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
 ~/.p10k.zsh: ~/mskar/setup/.p10k.zsh
