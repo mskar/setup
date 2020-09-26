@@ -185,6 +185,8 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
 ~/miniconda/bin/conda install -yc conda-forge cookiecutter nodejs neovim pybtex
 
+## Jupyter
+
 #### I don't use jupyterlab-git extension, I only demo it in classes
 ##### jupyter labextension install @jupyterlab/git
 ##### jupyter serverextension enable --py jupyterlab_git
@@ -199,6 +201,8 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 ##### Provide access token to GitHub extension
 ##### https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
 
+### Jupyter settings
+curl https://raw.githubusercontent.com/mskar/setup/master/notebook.json -o ~/.jupyter/nbconfig/notebook.json --create-dirs
 
 ## Setup PyCharm
 ### Sync settings from https://github.com/marskar/PyCharm

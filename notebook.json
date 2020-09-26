@@ -1,0 +1,12 @@
+{
+    "load_extensions": {
+        "nbdime/index": true
+    },
+    "keys": {
+        "command": {
+            "bind": {
+                "Cmd Enter": "notebook:run-cell"
+            }
+        }
+    }
+}
