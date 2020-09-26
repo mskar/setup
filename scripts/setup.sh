@@ -19,22 +19,34 @@
 # Mac System Preferences
 ## In System Preferences > Keyboard > Keyboard:
 ### Key Repeat: Fast
-defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
+defaults write -g KeyRepeat -int 1
 
 ### Delay Until Repeat: Short
-defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
+defaults write -g InitialKeyRepeat -int 10
 
-### Caps Lock Key: Escape
+### Repeatedly engage a key when held (no need to press multiple times)
 defaults write -g ApplePressAndHoldEnabled -bool false
 
 ## Remove most icons from Dock
 defaults write com.apple.dock persistent-apps -array
 
 ## 2-finger click on Dock and Turn Dock Hiding On
+defaults write com.apple.Dock autohide -int 1
+
+## https://www.defaults-write.com/delete-the-hiding-dock-delay-in-os-x/
+defaults write com.apple.Dock autohide-delay -float 0
+
 ## Under General > Sound turn off all sounds and "Show volume in menu bar"
 defaults write com.apple.systemsound "com.apple.sound.uiaudio.enabled" -int 0
 
+defaults write com.apple.systemuiserver menuExtras -array \
+    "/System/Library/CoreServices/Menu Extras/AirPort.menu" \
+    "/System/Library/CoreServices/Menu Extras/Bluetooth.menu" \
+    "/System/Library/CoreServices/Menu Extras/Displays.menu" \
+    "/System/Library/CoreServices/Menu Extras/Volume.menu"
+
 ## Add Home to Finder sidebar
+
 ## Under General > Appearance select 'Automatically hide and show the menu bar'
 defaults write NSGlobalDomain _HIHideMenuBar -bool true
 
