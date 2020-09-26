@@ -81,8 +81,12 @@ code --install-extension vscodevim.vim --force
 ## Install vim and neovim
 brew install bash bat clementtsang/bottom/bottom exa fasd fd fzf gh neovim node sc-im tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
-## Install fzf key bindings and fuzzy completion
-$(brew --prefix)/opt/fzf/install --no-fish --completion --no-key-bindings --no-update-rc
+## Install fzf key bindings and fuzzy completion using the install script which runs the commented out code below
+### source /usr/local/opt/fzf/shell/key-bindings.zsh
+### source /usr/local/opt/fzf/shell/key-bindings.bash
+### source /usr/local/opt/fzf/shell/completion.zsh
+### source /usr/local/opt/fzf/shell/completion.bash
+$(brew --prefix)/opt/fzf/install --completion --key-bindings --no-fish --no-update-rc
 
 # Use Bash as a backup
 curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile

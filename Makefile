@@ -27,13 +27,19 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash $(BAT) bottom $(BREW) conda $(EXA) $(FASD) $(FD) flycut font $(FZF) git ipy iterm jetbrains karabiner neovim repo rstudio $(SCIM) shiftit tmux vim vimr vscode $(XPDF) zsh
+all: bash bat bottom brew conda exa fasd fd flycut font fzf git ipy iterm jetbrains karabiner neovim repo rstudio scim shiftit tmux vim vimr vscode xpdf zsh
 
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
+bat: $(BAT)
 bottom: $(BTM) ~/.config/bottom/bottom.toml
+brew: $(BREW)
 conda: ~/miniconda/bin/conda
+exa: $(EXA)
+fasd: $(FASD)
+fd: $(FD)
 flycut: /Applications/Flycut.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
+fzf: $(FZF)
 git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global
 ipy: ~/miniconda/envs/py ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
@@ -42,11 +48,13 @@ karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.a
 neovim: $(NVIM) ~/.config/nvim/init.vim
 repo: ~/mskar/setup
 rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
+scim: $(SCIM)
 shiftit: /Applications/ShiftIt.app
 tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
 vim: $(VIM) ~/.vimrc
 vimr: /Applications/VimR.app
 vscode: /Applications/Visual\ Studio\ Code.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/Application\ Support/Code/User/keybindings.json ~/Library/Application\ Support/Code/User/settings.json
+xpdf: $(XPDF)
 zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh/zsh-syntax-highlighting
 
 ~/mskar/setup/.bash_profile: repo
@@ -101,7 +109,7 @@ $(FD):
 	-ln -fs ~/Library/Fonts/Fira\ Code\ Regular\ Nerd\ Font\ Complete.otf ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 $(FZF):
 	-brew install fzf
-	-$(brew --prefix)/opt/fzf/install --no-fish --key-bindings --completion --update-rc
+	-$(brew --prefix)/opt/fzf/install --completion --key-bindings --no-fish --no-update-rc
 $(GH):
 	-brew install gh
 $(GIT):
