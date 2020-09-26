@@ -381,15 +381,20 @@ set <A-->=-
 inoremap <A--> <Esc>ugi
 " inoremap <A--> <C-o>u
 
-" Switch buffers
-nnoremap <C-w>; :bn<CR><C-g>
-nnoremap <C-w>, :bp<CR><C-g>
-tnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
-tnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
+" Run :file everytime I switch to alternate file (^6) (not needed for vim)
+" Run :file everytime I go thru the jump list (not needed for vim)
+" Run :file everytime I switch buffers
+nnoremap <leader>; :bn<CR><C-g>
+nnoremap <leader>, :bp<CR><C-g>
+tnoremap <leader>; <C-\><C-n>:bn<CR><C-g>
+tnoremap <leader>, <C-\><C-n>:bp<CR><C-g>
 nnoremap ]b :bn<CR><C-g>
 nnoremap [b :bp<CR><C-g>
 tnoremap ]b <C-\><C-n>:bn<CR><C-g>
 tnoremap [b <C-\><C-n>:bp<CR><C-g>
+" Run :file everytime I switch windows
+nnoremap <C-w>w <C-w>w<C-g>
+nnoremap <C-w><C-w> <C-w>w<C-g>
 
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
 " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
@@ -578,7 +583,7 @@ let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 " In addition to vim-pandoc, zotcite and nvim-r can insert citations
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
 
-set completeopt=noinsert,menuone
+set completeopt-=noselect
 
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
 set timeoutlen=1000 ttimeoutlen=10

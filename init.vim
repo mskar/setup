@@ -441,15 +441,16 @@ tnoremap <C-^> <C-\><C-n><C-^><C-g>
 " Run :file everytime I go thru the jump list
 nnoremap <C-o> <C-o><C-g>
 nnoremap <C-i> <C-i><C-g>
-" Switch buffers
-nnoremap <C-w>; :bn<CR><C-g>
-nnoremap <C-w>, :bp<CR><C-g>
-tnoremap <C-w>; <C-\><C-n>:bn<CR><C-g>
-tnoremap <C-w>, <C-\><C-n>:bp<CR><C-g>
+" Run :file everytime I switch buffers
+nnoremap <leader>; :bn<CR><C-g>
+nnoremap <leader>, :bp<CR><C-g>
+tnoremap <leader>; <C-\><C-n>:bn<CR><C-g>
+tnoremap <leader>, <C-\><C-n>:bp<CR><C-g>
 nnoremap ]b :bn<CR><C-g>
 nnoremap [b :bp<CR><C-g>
 tnoremap ]b <C-\><C-n>:bn<CR><C-g>
 tnoremap [b <C-\><C-n>:bp<CR><C-g>
+" Run :file everytime I switch windows (not needed in nvim)
 
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
 " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
