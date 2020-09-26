@@ -17,50 +17,57 @@
 ### Macs are built to last. I am writing this in 2020 on a 2014 MacBook Air. No PC has ever lasted this long in my experience.
 
 # Mac System Preferences
-## For tons of MacOS setup examples, click the link below
-## https://github.com/joeyhoer/starter/tree/master/system
 
-## https://apple.stackexchange.com/a/83923
-## In System Preferences > Keyboard > Keyboard:
-### Key Repeat: Fast
+### For tons of MacOS setup examples, click the link below
+#### https://github.com/joeyhoer/starter/tree/master/system
+
+## Keyboard
+### https://apple.stackexchange.com/a/83923
+### In System Preferences > Keyboard > Keyboard:
+#### Key Repeat: Fast
 defaults write -g KeyRepeat -int 1
 
-### Delay Until Repeat: Short
+#### Delay Until Repeat: Short
 defaults write -g InitialKeyRepeat -int 10
 
-### Repeatedly engage a key when held (no need to press multiple times)
+#### Repeatedly engage a key when held (no need to press multiple times)
 defaults write -g ApplePressAndHoldEnabled -bool false
 
-## Remove most icons from Dock
+## Trackpad
+### In System Preferences > Trackpad > Point & Click, set tracking speed to max:
+defaults write NSGlobalDomain com.apple.trackpad.scaling -float 3
+
+## Dock
+### Remove most icons from Dock
 defaults write com.apple.dock persistent-apps -array
 
-## 2-finger click on Dock and Turn Dock Hiding On
+### 2-finger click on Dock and Turn Dock Hiding On
 defaults write com.apple.dock autohide -bool true
 
-## https://www.defaults-write.com/delete-the-hiding-dock-delay-in-os-x/
+### https://www.defaults-write.com/delete-the-hiding-dock-delay-in-os-x/
 defaults write com.apple.Dock autohide-delay -float 0
 
-## Under General > Sound turn off all sounds
+## Sound
+### Under General > Sound turn off all sounds
 
-### Disable user interface sound effects
+#### Disable user interface sound effects
 defaults write com.apple.systemsound com.apple.sound.uiaudio.enabled -bool false
 
-### Disable feedback when volume is changed
+#### Disable feedback when volume is changed
 defaults write NSGlobalDomain com.apple.sound.beep.feedback -bool false
 
-### Disable flashing the screen when an alert sound occurs (accessibility)
+#### Disable flashing the screen when an alert sound occurs (accessibility)
 defaults write NSGlobalDomain com.apple.sound.beep.flash -bool false
 
-## Under General > Sound "Show volume in menu bar"
+### Under General > Sound "Show volume in menu bar"
 defaults write com.apple.systemuiserver menuExtras -array \
     "/System/Library/CoreServices/Menu Extras/AirPort.menu" \
     "/System/Library/CoreServices/Menu Extras/Bluetooth.menu" \
     "/System/Library/CoreServices/Menu Extras/Displays.menu" \
     "/System/Library/CoreServices/Menu Extras/Volume.menu"
 
-## Add Home to Finder sidebar
-
-## Under General > Appearance select 'Automatically hide and show the menu bar'
+## Menu bar
+### Under General > Appearance select 'Automatically hide and show the menu bar'
 defaults write NSGlobalDomain _HIHideMenuBar -bool true
 
 # Brew - commandline package manager
