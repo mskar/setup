@@ -202,7 +202,8 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 ##### https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
 
 ### Jupyter settings
-curl https://raw.githubusercontent.com/mskar/setup/master/notebook.json -o ~/.jupyter/nbconfig/notebook.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
+--create-dirs
 
 ## Setup PyCharm
 ### Sync settings from https://github.com/marskar/PyCharm

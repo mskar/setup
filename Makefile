@@ -27,7 +27,7 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash bat bottom brew conda exa fasd fd flycut font fzf git ipy iterm jetbrains karabiner neovim notebook repo rstudio scim shiftit tmux vim vimr vscode xpdf zotero zsh
+all: bash bat bottom brew conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim repo rstudio scim shiftit tmux vim vimr vscode xpdf zotero zsh
 
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
 bat: $(BAT)
@@ -44,9 +44,9 @@ git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global
 ipy: ~/miniconda/envs/py ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
 jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
+jupyter: ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 neovim: $(NVIM) ~/.config/nvim/init.vim
-notebook: ~/.jupyter/nbconfig/notebook.json
 repo: ~/mskar/setup
 rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
@@ -141,8 +141,8 @@ $(NVIM):
 	-brew install neovim
 $(NODE):
 	-brew install node
-~/.jupyter/nbconfig/notebook.json:
-	curl https://raw.githubusercontent.com/mskar/setup/master/notebook.json -o ~/.jupyter/nbconfig/notebook.json --create-dirs
+~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings:
+	curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-settings -o ~/.jupyter/nbconfig/shortcuts.jupyterlab-settings --create-dirs
 ~/.config/nvim/init.vim: ~/mskar/setup/init.vim
 	curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 ~/.config/nvim/ginit.vim: ~/mskar/setup/ginit.vim
