@@ -49,7 +49,11 @@ Plug 'honza/vim-snippets'
 
 "" Color
 Plug 'tomasr/molokai'
+
+"" Python
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
+
+" For Rmarkdown syntax
 Plug 'vim-pandoc/vim-rmarkdown'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
@@ -61,8 +65,6 @@ Plug 'tpope/vim-unimpaired'
 Plug 'bronson/vim-trailing-whitespace'
 Plug 'godlygeek/tabular'
 
-"" Color
-" Plug 'dracula/vim', { 'as': 'dracula' }
 call plug#end()
 "*****************************************************************************
 "" Basic Setup
@@ -87,7 +89,7 @@ set expandtab
 
 "" Map leader to ,
 let mapleader=' '
-" let mapleader='/'
+let mapleader='\'
 
 "" Enable hidden buffers
 set hidden
@@ -119,12 +121,9 @@ silent! colorscheme molokai
 set mousemodel=popup
 set t_Co=256
 set guioptions=egmrti
-set gfn=Monospace\ 10
-
 set title
 set titleold="Terminal"
 set titlestring=%F
-
 set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)\
 
 if exists("*fugitive#statusline")
@@ -155,133 +154,88 @@ let g:nerdtree_tabs_focus_on_files=1
 let g:NERDTreeMapOpenInTabSilent = '<RightMouse>'
 let g:NERDTreeWinSize = 50
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.pyc,*.db,*.sqlite
+nnoremap <silent> <leader>n :NERDTreeToggle<CR>
+
+" grep.vim
+nnoremap <silent> <leader>rg :Rgrep<CR>
+let Grep_Default_Options = '-IR'
+let Grep_Skip_Files = '*.log *.db'
+let Grep_Skip_Dirs = '.git node_modules'
+
+" terminal emulation
+nnoremap <silent> <leader>sh :terminal<CR>
+
+set autoread
+
 "*****************************************************************************
 "" Commands
 "*****************************************************************************
 " remove trailing whitespaces
 command! FixWhitespace :%s/\s\+$//e
 
+" Add `:Format` command to format current buffer.
+command! -nargs=0 Format :call CocAction('format')
+
+" Add `:Fold` command to fold current buffer.
+command! -nargs=? Fold :call     CocAction('fold', <f-args>)
+
+" Add `:OR` command for organize imports of the current buffer.
+command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organizeImport')
+
 "*****************************************************************************
-"" Functions
+"" Autocmd Rules
 "*****************************************************************************
-set autoread
+"" The PC is fast enough, do syntax highlight syncing from start unless 200 lines
+augroup vimrc-sync-fromstart
+  autocmd!
+  autocmd BufEnter * :syntax sync maxlines=200
+augroup END
 
-"" fzf.vim
-set wildmode=list:longest,list:full
-set wildignore+=*.o,*.obj,.git,*.rbc,*.pyc,__pycache__
-let $FZF_DEFAULT_COMMAND =  "find * -path '*/\.*' -prune -o -path 'node_modules/**' -prune -o -path 'target/**' -prune -o -path 'dist/**' -prune -o  -type f -print -o -type l -print 2> /dev/null"
+"" Remember cursor position
+augroup vimrc-remember-cursor-position
+  autocmd!
+  autocmd BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
+augroup END
 
-" The Silver Searcher
-if executable('ag')
-  let $FZF_DEFAULT_COMMAND = 'ag --hidden --ignore .git -g ""'
-  set grepprg=ag\ --nogroup\ --nocolor
+"" make/cmake
+augroup vimrc-make-cmake
+  autocmd!
+  autocmd FileType make setlocal noexpandtab
+  autocmd BufNewFile,BufRead CMakeLists.txt setlocal filetype=cmake
+augroup END
+
+if has('autocmd')
+  autocmd GUIEnter * set visualbell t_vb=
 endif
 
-" ripgrep
-if executable('rg')
-  let $FZF_DEFAULT_COMMAND = 'rg --files --hidden --follow --glob "!.git/*"'
-  set grepprg=rg\ --vimgrep
-  command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number --no-heading --fixed-strings --ignore-case --hidden --follow --glob "!.git/*" --color "always" '.shellescape(<q-args>).'| tr -d "\017"', 1, <bang>0)
-endif
+" python
+" vim-python
+augroup vimrc-python
+  autocmd!
+  autocmd FileType python setlocal expandtab shiftwidth=4 tabstop=8 colorcolumn=79
+      \ formatoptions+=croq softtabstop=4
+      \ cinwords=if,elif,else,for,while,try,except,finally,def,class,with
+augroup END
 
-" snippets
-" let g:UltiSnipsExpandTrigger="<tab>"
-" let g:UltiSnipsJumpForwardTrigger="<tab>"
-" let g:UltiSnipsJumpBackwardTrigger="<c-b>"
-" let g:UltiSnipsEditSplit="vertical"
+" Snakemake
+au BufNewFile,BufRead Snakefile set syntax=snakemake
+au BufNewFile,BufRead *.smk set syntax=snakemake
+au BufNewFile,BufRead *.snk set syntax=snakemake
+au BufNewFile,BufRead *.snakefile set syntax=snakemake
+au FileType snakemake let Comment="#"
+au FileType snakemake setlocal completeopt=menuone,longest
+au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
-" Disable visualbell
-set noerrorbells visualbell t_vb=
+" Highlight the symbol and its references when holding the cursor.
+autocmd CursorHold * silent call CocActionAsync('highlight')
+augroup mygroup
+  autocmd!
+  " Setup formatexpr specified filetype(s).
+  autocmd FileType typescript,json setl formatexpr=CocAction('formatSelected')
+  " Update signature help on jump placeholder.
+  autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
+augroup end
 
-"" Copy/Paste/Cut
-if has('unnamedplus')
-  set clipboard=unnamed,unnamedplus
-endif
-
-let Grep_Default_Options = '-IR'
-let Grep_Skip_Files = '*.log *.db'
-let Grep_Skip_Dirs = '.git node_modules'
-
-function! s:check_back_space() abort
-  let col = col('.') - 1
-  return !col || getline('.')[col - 1]  =~# '\s'
-endfunction
-
-" Syntax highlight
-" Default highlight is better than polyglot
-let g:polyglot_disabled = ['python']
-let python_highlight_all = 1
-
-" vim-pandoc inserts citations with <C-x><C-o>
-" disable automatic folding by vim-pandoc
-let g:pandoc#modules#disabled = ["folding"]
-let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
-" In addition to vim-pandoc, zotcite and nvim-r can insert citations
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
-
-" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
-set timeoutlen=1000 ttimeoutlen=10
-
-"" Directories for swp files
-set nobackup
-set noswapfile
-set nowritebackup
-
-set completeopt=noinsert,menuone ",noselect
-
-" Better display for messages
-set cmdheight=1
-
-" You will have bad experience for diagnostic messages when it's default 4000.
-set updatetime=300
-
-" don't give |ins-completion-menu| messages.
-set shortmess+=c
-
-" always show signcolumns
-set signcolumn=yes
-
-" (In times of great desperation) allow use of the mouse
-set mouse=a
-
-" https://vim.fandom.com/wiki/Change_cursor_shape_in_different_modes
-let &t_SI.="\e[5 q" "SI = start INSERT mode
-let &t_SR.="\e[4 q" "SR = start REPLACE mode
-let &t_EI.="\e[1 q" "EI = end insert mode NORMAL mode (ELSE)
-
-" Share system clipboard ("+) and unnamed ("") registers
-" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
-" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
-set clipboard=unnamed
-if has('unnamedplus')
-  set clipboard=unnamed,unnamedplus
-endif
-set go+=a
-
-" Include some of the neovim defaults, others below
-set autoindent
-set background=dark
-set belloff=all
-set nocompatible
-set complete=.,w,b,u,t
-set cscopeverbose
-set history=10000
-set showcmd " Show partially typed commands in the statusline
-set sidescroll=1
-set smarttab
-set tabpagemax=50
-set wildmenu " Display all matching files when we tab complete
-
-" Neovim defaults?
-set path+=** " Provides tab-completion for all file-related tasks
-set lazyredraw " Don't redraw while executing macros (good performance config)
-set showmatch " Show matching brackets when text indicator is over them
-set hidden " can put buffer to the background without writing to disk, will remember history/marks.
-
-highlight VertSplit ctermbg=NONE guibg=NONE
-set fillchars+=vert:│
-set laststatus=0
-highlight Normal ctermfg=white ctermbg=black
 "*****************************************************************************
 "" Mappings
 "*****************************************************************************
@@ -481,78 +435,6 @@ imap <c-x><c-l> <plug>(fzf-complete-line)
 " Advanced customization using autoload functions
 inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
 
-nnoremap Q gqap
-nmap <leader>f gwap
-au WinEnter * file
-"*****************************************************************************
-"" Autocmd Rules
-"*****************************************************************************
-"" The PC is fast enough, do syntax highlight syncing from start unless 200 lines
-augroup vimrc-sync-fromstart
-  autocmd!
-  autocmd BufEnter * :syntax sync maxlines=200
-augroup END
-
-"" Remember cursor position
-augroup vimrc-remember-cursor-position
-  autocmd!
-  autocmd BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
-augroup END
-
-"" make/cmake
-augroup vimrc-make-cmake
-  autocmd!
-  autocmd FileType make setlocal noexpandtab
-  autocmd BufNewFile,BufRead CMakeLists.txt setlocal filetype=cmake
-augroup END
-
-if has('autocmd')
-  autocmd GUIEnter * set visualbell t_vb=
-endif
-" python
-" vim-python
-augroup vimrc-python
-  autocmd!
-  autocmd FileType python setlocal expandtab shiftwidth=4 tabstop=8 colorcolumn=79
-      \ formatoptions+=croq softtabstop=4
-      \ cinwords=if,elif,else,for,while,try,except,finally,def,class,with
-augroup END
-
-" Snakemake
-au BufNewFile,BufRead Snakefile set syntax=snakemake
-au BufNewFile,BufRead *.smk set syntax=snakemake
-au BufNewFile,BufRead *.snk set syntax=snakemake
-au BufNewFile,BufRead *.snakefile set syntax=snakemake
-au FileType snakemake let Comment="#"
-au FileType snakemake setlocal completeopt=menuone,longest
-au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
-
-" TextEdit might fail if hidden is not set.
-set hidden
-
-" Some servers have issues with backup files, see #649.
-set nobackup
-set nowritebackup
-
-" Give more space for displaying messages.
-set cmdheight=2
-
-" Having longer updatetime (default is 4000 ms = 4 s) leads to noticeable
-" delays and poor user experience.
-set updatetime=300
-
-" Don't pass messages to |ins-completion-menu|.
-set shortmess+=c
-
-" Always show the signcolumn, otherwise it would shift the text each time
-" diagnostics appear/become resolved.
-if has("patch-8.1.1564")
-  " Recently vim can merge signcolumn and number column into one
-  set signcolumn=number
-else
-  set signcolumn=yes
-endif
-
 " Use tab for trigger completion with characters ahead and navigate.
 " NOTE: Use command ':verbose imap <tab>' to make sure tab is not mapped by
 " other plugin before putting this into your config.
@@ -573,7 +455,8 @@ function! s:check_back_space() abort
   return !col || getline('.')[col - 1]  =~# '\s'
 endfunction
 
-let g:coc_snippet_next = '<tab>'
+nnoremap Q gqap
+nmap <leader>f gwap
 
 " Use <c-space> to trigger completion.
 if has('nvim')
@@ -628,23 +511,12 @@ function! s:show_documentation()
   endif
 endfunction
 
-" Highlight the symbol and its references when holding the cursor.
-autocmd CursorHold * silent call CocActionAsync('highlight')
-
 " Symbol renaming.
 nmap <leader>rn <Plug>(coc-rename)
 
 " Formatting selected code.
 xmap <leader>f  <Plug>(coc-format-selected)
 nmap <leader>f  <Plug>(coc-format-selected)
-
-augroup mygroup
-  autocmd!
-  " Setup formatexpr specified filetype(s).
-  autocmd FileType typescript,json setl formatexpr=CocAction('formatSelected')
-  " Update signature help on jump placeholder.
-  autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
-augroup end
 
 " Applying codeAction to the selected region.
 " Example: `<leader>aap` for current paragraph
@@ -672,20 +544,6 @@ omap ac <Plug>(coc-classobj-a)
 nmap <silent> <C-s> <Plug>(coc-range-select)
 xmap <silent> <C-s> <Plug>(coc-range-select)
 
-" Add `:Format` command to format current buffer.
-command! -nargs=0 Format :call CocAction('format')
-
-" Add `:Fold` command to fold current buffer.
-command! -nargs=? Fold :call     CocAction('fold', <f-args>)
-
-" Add `:OR` command for organize imports of the current buffer.
-command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organizeImport')
-
-" Add (Neo)Vim's native statusline support.
-" NOTE: Please see `:h coc-status` for integrations with external plugins that
-" provide custom statusline: lightline.vim, vim-airline.
-set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
-
 " Mappings for CoCList
 " Show all diagnostics.
 nnoremap <silent><nowait> <space>a  :<C-u>CocList diagnostics<cr>
@@ -704,3 +562,130 @@ nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list.
 nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 
+"*****************************************************************************
+"" Custom configs
+"*****************************************************************************
+
+" Syntax highlight
+" Default highlight is better than polyglot
+let g:polyglot_disabled = ['python']
+let python_highlight_all = 1
+
+set completeopt=noinsert,menuone,noselect
+
+" vim-pandoc inserts citations with <C-x><C-o>
+" disable automatic folding by vim-pandoc
+let g:pandoc#modules#disabled = ["folding"]
+let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
+" In addition to vim-pandoc, zotcite and nvim-r can insert citations
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
+
+" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
+set timeoutlen=1000 ttimeoutlen=10
+
+"" Directories for swp files
+set nobackup
+set noswapfile
+set nowritebackup
+
+set completeopt=noinsert,menuone ",noselect
+
+" Better display for messages
+set cmdheight=1
+
+" You will have bad experience for diagnostic messages when it's default 4000.
+set updatetime=300
+
+" Don't pass messages to |ins-completion-menu|.
+set shortmess+=c
+
+" always show signcolumns
+set signcolumn=yes
+
+" (In times of great desperation) allow use of the mouse
+set mouse=a
+
+" https://vim.fandom.com/wiki/Change_cursor_shape_in_different_modes
+let &t_SI.="\e[5 q" "SI = start INSERT mode
+let &t_SR.="\e[4 q" "SR = start REPLACE mode
+let &t_EI.="\e[1 q" "EI = end insert mode NORMAL mode (ELSE)
+
+" Share system clipboard ("+) and unnamed ("") registers
+" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
+" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
+set clipboard=unnamed
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
+set go+=a
+
+" Include some of the neovim defaults, others below
+set autoindent
+set background=dark
+set belloff=all
+set nocompatible
+set complete=.,w,b,u,t
+set cscopeverbose
+set history=10000
+set showcmd " Show partially typed commands in the statusline
+set sidescroll=1
+set smarttab
+set tabpagemax=50
+set wildmenu " Display all matching files when we tab complete
+
+" Neovim defaults?
+set path+=** " Provides tab-completion for all file-related tasks
+set lazyredraw " Don't redraw while executing macros (good performance config)
+set showmatch " Show matching brackets when text indicator is over them
+set hidden " can put buffer to the background without writing to disk, will remember history/marks.
+
+highlight VertSplit ctermbg=NONE guibg=NONE
+set fillchars+=vert:│
+set laststatus=0
+highlight Normal ctermfg=white ctermbg=black
+
+"" fzf.vim
+set wildmode=list:longest,list:full
+set wildignore+=*.o,*.obj,.git,*.rbc,*.pyc,__pycache__
+let $FZF_DEFAULT_COMMAND =  "find * -path '*/\.*' -prune -o -path 'node_modules/**' -prune -o -path 'target/**' -prune -o -path 'dist/**' -prune -o  -type f -print -o -type l -print 2> /dev/null"
+
+" The Silver Searcher
+if executable('ag')
+  let $FZF_DEFAULT_COMMAND = 'ag --hidden --ignore .git -g ""'
+  set grepprg=ag\ --nogroup\ --nocolor
+endif
+
+" ripgrep
+if executable('rg')
+  let $FZF_DEFAULT_COMMAND = 'rg --files --hidden --follow --glob "!.git/*"'
+  set grepprg=rg\ --vimgrep
+  command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number --no-heading --fixed-strings --ignore-case --hidden --follow --glob "!.git/*" --color "always" '.shellescape(<q-args>).'| tr -d "\017"', 1, <bang>0)
+endif
+
+" Disable visualbell
+set noerrorbells visualbell t_vb=
+
+"" Copy/Paste/Cut
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
+
+" COC settings
+" https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
+let g:coc_global_extensions = ['coc-git', 'coc-fzf-preview', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
+
+" Always show the signcolumn, otherwise it would shift the text each time
+" diagnostics appear/become resolved.
+if has("patch-8.1.1564")
+  " Recently vim can merge signcolumn and number column into one
+  set signcolumn=number
+else
+  set signcolumn=yes
+endif
+
+" Add (Neo)Vim's native statusline support.
+" NOTE: Please see `:h coc-status` for integrations with external plugins that
+" provide custom statusline: lightline.vim, vim-airline.
+set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
+
+let g:coc_snippet_next = '<tab>'

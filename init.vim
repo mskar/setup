@@ -3,7 +3,6 @@
 "*****************************************************************************
 " https://github.com/sheerun/vim-polyglot#troubleshooting
 let g:polyglot_disabled = ['markdown']
-" let g:python3_host_prog="~/miniconda/bin/python"
 let vimplug_exists=expand('~/.config/nvim/autoload/plug.vim')
 
 let g:vim_bootstrap_langs = "python"
@@ -28,7 +27,6 @@ call plug#begin(expand('~/.config/nvim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
-" Use release branch (recommend)
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'airblade/vim-gitgutter'
 Plug 'preservim/nerdtree'
@@ -46,15 +44,13 @@ else
   Plug 'junegunn/fzf.vim'
 endif
 
+"" Snippets
+Plug 'honza/vim-snippets'
+
 "" Color
 Plug 'tomasr/molokai'
 
-"*****************************************************************************
-"" Custom bundles
-"*****************************************************************************
-
-" python
-"" Python Bundle
+"" Python
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
 " The main R plugin providing RStudio-esque features
@@ -63,9 +59,6 @@ Plug 'jalvesaq/Nvim-R'
 " Nvim-R handles citation of its own: https://github.com/jalvesaq/Nvim-R/issues/346
 " but there is also zotcite: https://github.com/jalvesaq/zotcite
 Plug 'jalvesaq/zotcite'
-
-" Snippets are separated from the engine. Add this if you want them:
-Plug 'honza/vim-snippets'
 
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 Plug 'bfredl/nvim-miniyank'
@@ -97,6 +90,7 @@ filetype plugin indent on
 set encoding=utf-8
 set fileencoding=utf-8
 set fileencodings=utf-8
+set ttyfast
 
 "" Fix backspace indent
 set backspace=indent,eol,start
@@ -187,136 +181,139 @@ nnoremap <silent> <leader>sh :terminal<CR>
 
 set autoread
 
-"" fzf.vim
-set wildmode=list:longest,list:full
-set wildignore+=*.o,*.obj,.git,*.rbc,*.pyc,__pycache__
-let $FZF_DEFAULT_COMMAND =  "find * -path '*/\.*' -prune -o -path 'node_modules/**' -prune -o -path 'target/**' -prune -o -path 'dist/**' -prune -o  -type f -print -o -type l -print 2> /dev/null"
+"*****************************************************************************
+"" Commands
+"*****************************************************************************
+" remove trailing whitespaces
+command! FixWhitespace :%s/\s\+$//e
 
-" The Silver Searcher
-if executable('ag')
-  let $FZF_DEFAULT_COMMAND = 'ag --hidden --ignore .git -g ""'
-  set grepprg=ag\ --nogroup\ --nocolor
-endif
+" Add `:Format` command to format current buffer.
+command! -nargs=0 Format :call CocAction('format')
 
-" ripgrep
-if executable('rg')
-  let $FZF_DEFAULT_COMMAND = 'rg --files --hidden --follow --glob "!.git/*"'
-  set grepprg=rg\ --vimgrep
-  command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number --no-heading --fixed-strings --ignore-case --hidden --follow --glob "!.git/*" --color "always" '.shellescape(<q-args>).'| tr -d "\017"', 1, <bang>0)
-endif
+" Add `:Fold` command to fold current buffer.
+command! -nargs=? Fold :call     CocAction('fold', <f-args>)
 
-" Disable visualbell
-set noerrorbells visualbell t_vb=
-
-"" Copy/Paste/Cut
-if has('unnamedplus')
-  set clipboard=unnamed,unnamedplus
-endif
+" Add `:OR` command for organize imports of the current buffer.
+command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organizeImport')
 
 "*****************************************************************************
-"" Custom configs
+"" Autocmd Rules
 "*****************************************************************************
+"" The PC is fast enough, do syntax highlight syncing from start unless 200 lines
+augroup vimrc-sync-fromstart
+  autocmd!
+  autocmd BufEnter * :syntax sync maxlines=200
+augroup END
 
-" Syntax highlight
-" Default highlight is better than polyglot
-let g:polyglot_disabled = ['python']
-let python_highlight_all = 1
+"" Remember cursor position
+augroup vimrc-remember-cursor-position
+  autocmd!
+  autocmd BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
+augroup END
 
-set completeopt=noinsert,menuone,noselect
+"" make/cmake
+augroup vimrc-make-cmake
+  autocmd!
+  autocmd FileType make setlocal noexpandtab
+  autocmd BufNewFile,BufRead CMakeLists.txt setlocal filetype=cmake
+augroup END
 
-" http://sherifsoliman.com/2017/07/22/nvim-r/
-" press alt+, to have Nvim-R insert the assignment operator: <-
-let R_assign_map = "<A-,>"
-
-" set a minimum source editor width
-" let R_min_editor_width = 80
-
-" make sure the console is at the bottom by making it really wide
-" let R_rconsole_width = 1000
-
-" show arguments for functions during omnicompletion
-" let R_show_args = 1
-
-" https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/
-" let g:rout_follow_colorscheme = 1
-" let g:Rout_more_colors = 1
-
-" Don't expand a dataframe to show columns by default
-" let R_objbr_opendf = 0
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2152
-" Only use the mappings listed below
-let R_user_maps_only = 1
-" Do not replace grave accent with chunk delimiters in Rmd files
-" Use alt-i to insert code chunks instead
-let R_rmdchunk = 0
-
-" vim-pandoc inserts citations with <C-x><C-o>
-" disable automatic folding by vim-pandoc
-let g:pandoc#modules#disabled = ["folding"]
-let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
-" In addition to vim-pandoc, zotcite and nvim-r can insert citations
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
-
-" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
-set timeoutlen=1000 ttimeoutlen=10
-
-"" Directories for swp files
-set nobackup
-set noswapfile
-set nowritebackup
-
-" Setting suggested by coc.nvim
-" Better display for messages
-set cmdheight=1 "coc recommends 2
-
-" You will have bad experience for diagnostic messages when it's default 4000.
-set updatetime=300
-
-" don't give |ins-completion-menu| messages.
-set shortmess+=c
-
-" always show signcolumns
-set signcolumn=yes
-
-" (In times of great desperation) allow use of the mouse
-set mouse=a
-
-" https://github.com/neovim/neovim/wiki/FAQ#how-to-change-cursor-shape-in-the-terminal
-set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkon100
-
-" Share system clipboard ("+) and unnamed ("") registers
-" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
-" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
-set clipboard=unnamed
-if has('unnamedplus')
-  set clipboard=unnamed,unnamedplus
+if has('autocmd')
+  autocmd GUIEnter * set visualbell t_vb=
 endif
-set go+=a
 
-" Neovim defaults https://neovim.io/doc/user/vim_diff.html
-" 'autoindent' is enabled
-" 'background' defaults to "dark" (unless set automatically by the terminal/UI)
-" 'belloff' defaults to "all"
-" 'compatible' is always disabled
-" 'complete' excludes "i"
-" 'cscopeverbose' is enabled
-" 'history' defaults to 10000 (the maximum)
-" 'showcmd' is enabled
-" 'sidescroll' defaults to 1
-" 'smarttab' is enabled
-" 'tabpagemax' defaults to 50
-" 'wildmenu' is enabled
+" python
+" vim-python
+augroup vimrc-python
+  autocmd!
+  autocmd FileType python setlocal expandtab shiftwidth=4 tabstop=8 colorcolumn=79
+      \ formatoptions+=croq softtabstop=4
+      \ cinwords=if,elif,else,for,while,try,except,finally,def,class,with
+augroup END
 
-" Neovim defaults?
-set path+=** " Provides tab-completion for all file-related tasks
-set lazyredraw " Don't redraw while executing macros (good performance config)
-set showmatch " Show matching brackets when text indicator is over them
-set hidden " can put buffer to the background without writing to disk, will remember history/marks.
+" Snakemake
+au BufNewFile,BufRead Snakefile set syntax=snakemake
+au BufNewFile,BufRead *.smk set syntax=snakemake
+au BufNewFile,BufRead *.snk set syntax=snakemake
+au BufNewFile,BufRead *.snakefile set syntax=snakemake
+au FileType snakemake let Comment="#"
+au FileType snakemake setlocal completeopt=menuone,longest
+au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
-highlight VertSplit ctermbg=NONE guibg=NONE
-set fillchars+=vert:│
-set laststatus=0
-highlight Normal ctermfg=white ctermbg=black
+" Nvim-R mappings
+autocmd FileType r,rmd nnoremap <buffer> <C-w>a :!wmctrl -r "R Graphics" -b add,above
+autocmd FileType r,rmd nnoremap <buffer> <C-w>A :!wmctrl -r "R Graphics" -b remove,above
+" Keyboard shortcuts for <- -> and other operators in R specific files
+" https://github.com/jalvesaq/Nvim-R/issues/85
+" The trailing spaces below are intentional!
+autocmd FileType r,rmd inoremap <buffer> <A-n> <Esc>:normal! a %>%<CR>a<CR>
+autocmd FileType r,rmd inoremap <buffer> <A-m> <Esc>:normal! a %>%<CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-i> <Esc>:normal! a %in%<CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-,> <Esc>:normal! a <-<CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-.> <Esc>:normal! a -><CR>a 
+autocmd FileType r,rmd inoremap <buffer> <A-/> <Esc>:normal! a %/%<CR>a 
+autocmd FileType rmd inoremap <buffer> <A-i> <Esc>:normal! a ```{r}<CR>```<Esc>O
+
+autocmd FileType rmd nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
+autocmd FileType rmd nnoremap <buffer> <localleader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
+autocmd FileType r nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript %<CR>
+autocmd FileType python nnoremap <buffer> <localleader><CR> :w ! python3<CR>
+
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
+" https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
+" Remappings based on RStudio shortcuts: https://rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf
+"" Remapping the basic :: send line
+autocmd FileType r,rmd nnoremap <silent><buffer><D-Enter> :call SendLineToR("down")<CR>
+autocmd FileType r nnoremap <silent><buffer><D-S-Enter> :call SendFileToR("echo")<CR>
+autocmd FileType rmd nnoremap <silent><buffer><D-S-Enter> :call b:SendChunkToR("echo", "down")<CR>
+"" Remapping selection :: send multiple lines + echo lines
+vmap <D-Enter> <Plug>REDSendSelection
+vmap <localleader>o <Plug>RSendSelAndInsertOutput
+autocmd FileType r,rmd nnoremap <silent><buffer><A-S-0> :call RClearAll()<CR>
+autocmd FileType r nnoremap <silent><buffer><A-a> :call SendAboveLinesToR()<CR>
+autocmd FileType rmd nnoremap <silent><buffer><A-p> :call SendFHChunkToR()<CR>
+autocmd FileType rmd nnoremap <silent><buffer><A-i> :normal! a ```{r}<CR>```<Esc>O
+autocmd FileType r,rmd nnoremap <silent><buffer><C-l> :call RClearConsole()<CR>
+" Remapping double character nvim-R mappings to single character
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>- :call RBrOpenCloseLs(0)<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>0 :call RObjBrowser()<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>; :call MovePosRCodeComment("normal")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>= :call RBrOpenCloseLs(1)<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>a :call :call SendFileToR("echo")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>b :call SendMBlockToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>c :call b:SendChunkToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>d :call RSetWD()<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>e :call RAction("example")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>f :call SendFunctionToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>g :call RAction("plot")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>h :call RAction("help")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>i :call RAction("print")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>k :call RKnit()<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>l :call g:SendCmdToR("ls()")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>m :set opfunc=SendMotionToR<CR>g@
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>n :call RAction("nvim.names")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>o :call SendLineToRAndInsertOutput()<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>p :call SendParagraphToR("echo", "down")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>q :call RQuit("nosave")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>r :call RAction("args")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>s :call StartR("R")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>t :call RAction("str")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>u :call RAction("summary")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>v :call RAction("viewdf", ", location='vsplit'")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>w :call RMakeRmd("word_document")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>x :call RComment("normal")<CR>
+
+" Highlight the symbol and its references when holding the cursor.
+autocmd CursorHold * silent call CocActionAsync('highlight')
+
+augroup mygroup
+  autocmd!
+  " Setup formatexpr specified filetype(s).
+  autocmd FileType typescript,json setl formatexpr=CocAction('formatSelected')
+  " Update signature help on jump placeholder.
+  autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
+augroup end
+
 "*****************************************************************************
 "" Mappings
 "*****************************************************************************
@@ -589,145 +586,6 @@ vnoremap <silent><A-C-b> :<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.
 vnoremap <silent><A-C-f> <Esc>`>:<C-U>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>v`<o
 au VimEnter,WinEnter * file
 
-"*****************************************************************************
-"" Commands
-"*****************************************************************************
-" remove trailing whitespaces
-command! FixWhitespace :%s/\s\+$//e
-
-"*****************************************************************************
-"" Autocmd Rules
-"*****************************************************************************
-"" The PC is fast enough, do syntax highlight syncing from start unless 200 lines
-augroup vimrc-sync-fromstart
-  autocmd!
-  autocmd BufEnter * :syntax sync maxlines=200
-augroup END
-
-"" Remember cursor position
-augroup vimrc-remember-cursor-position
-  autocmd!
-  autocmd BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
-augroup END
-
-"" make/cmake
-augroup vimrc-make-cmake
-  autocmd!
-  autocmd FileType make setlocal noexpandtab
-  autocmd BufNewFile,BufRead CMakeLists.txt setlocal filetype=cmake
-augroup END
-
-if has('autocmd')
-  autocmd GUIEnter * set visualbell t_vb=
-endif
-
-" python
-" vim-python
-augroup vimrc-python
-  autocmd!
-  autocmd FileType python setlocal expandtab shiftwidth=4 tabstop=8 colorcolumn=79
-      \ formatoptions+=croq softtabstop=4
-      \ cinwords=if,elif,else,for,while,try,except,finally,def,class,with
-augroup END
-
-" Snakemake
-au BufNewFile,BufRead Snakefile set syntax=snakemake
-au BufNewFile,BufRead *.smk set syntax=snakemake
-au BufNewFile,BufRead *.snk set syntax=snakemake
-au BufNewFile,BufRead *.snakefile set syntax=snakemake
-au FileType snakemake let Comment="#"
-au FileType snakemake setlocal completeopt=menuone,longest
-au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
-
-" Nvim-R mappings
-autocmd FileType r,rmd nnoremap <buffer> <C-w>a :!wmctrl -r "R Graphics" -b add,above
-autocmd FileType r,rmd nnoremap <buffer> <C-w>A :!wmctrl -r "R Graphics" -b remove,above
-" Keyboard shortcuts for <- -> and other operators in R specific files
-" https://github.com/jalvesaq/Nvim-R/issues/85
-" The trailing spaces below are intentional!
-autocmd FileType r,rmd inoremap <buffer> <A-n> <Esc>:normal! a %>%<CR>a<CR>
-autocmd FileType r,rmd inoremap <buffer> <A-m> <Esc>:normal! a %>%<CR>a 
-autocmd FileType r,rmd inoremap <buffer> <A-i> <Esc>:normal! a %in%<CR>a 
-autocmd FileType r,rmd inoremap <buffer> <A-,> <Esc>:normal! a <-<CR>a 
-autocmd FileType r,rmd inoremap <buffer> <A-.> <Esc>:normal! a -><CR>a 
-autocmd FileType r,rmd inoremap <buffer> <A-/> <Esc>:normal! a %/%<CR>a 
-autocmd FileType rmd inoremap <buffer> <A-i> <Esc>:normal! a ```{r}<CR>```<Esc>O
-
-autocmd FileType rmd nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
-autocmd FileType rmd nnoremap <buffer> <localleader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
-autocmd FileType r nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript %<CR>
-autocmd FileType python nnoremap <buffer> <localleader><CR> :w ! python3<CR>
-
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
-" https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
-" Remappings based on RStudio shortcuts: https://rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf
-"" Remapping the basic :: send line
-autocmd FileType r,rmd nnoremap <silent><buffer><D-Enter> :call SendLineToR("down")<CR>
-autocmd FileType r nnoremap <silent><buffer><D-S-Enter> :call SendFileToR("echo")<CR>
-autocmd FileType rmd nnoremap <silent><buffer><D-S-Enter> :call b:SendChunkToR("echo", "down")<CR>
-"" Remapping selection :: send multiple lines + echo lines
-vmap <D-Enter> <Plug>REDSendSelection
-vmap <localleader>o <Plug>RSendSelAndInsertOutput
-autocmd FileType r,rmd nnoremap <silent><buffer><A-S-0> :call RClearAll()<CR>
-autocmd FileType r nnoremap <silent><buffer><A-a> :call SendAboveLinesToR()<CR>
-autocmd FileType rmd nnoremap <silent><buffer><A-p> :call SendFHChunkToR()<CR>
-autocmd FileType rmd nnoremap <silent><buffer><A-i> :normal! a ```{r}<CR>```<Esc>O
-autocmd FileType r,rmd nnoremap <silent><buffer><C-l> :call RClearConsole()<CR>
-" Remapping double character nvim-R mappings to single character
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>- :call RBrOpenCloseLs(0)<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>0 :call RObjBrowser()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>; :call MovePosRCodeComment("normal")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>= :call RBrOpenCloseLs(1)<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>a :call :call SendFileToR("echo")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>b :call SendMBlockToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>c :call b:SendChunkToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>d :call RSetWD()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>e :call RAction("example")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>f :call SendFunctionToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>g :call RAction("plot")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>h :call RAction("help")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>i :call RAction("print")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>k :call RKnit()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>l :call g:SendCmdToR("ls()")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>m :set opfunc=SendMotionToR<CR>g@
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>n :call RAction("nvim.names")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>o :call SendLineToRAndInsertOutput()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>p :call SendParagraphToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>q :call RQuit("nosave")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>r :call RAction("args")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>s :call StartR("R")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>t :call RAction("str")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>u :call RAction("summary")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>v :call RAction("viewdf", ", location='vsplit'")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>w :call RMakeRmd("word_document")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>x :call RComment("normal")<CR>
-
-" TextEdit might fail if hidden is not set.
-set hidden
-
-" Some servers have issues with backup files, see #649.
-set nobackup
-set nowritebackup
-
-" Give more space for displaying messages.
-set cmdheight=2
-
-" Having longer updatetime (default is 4000 ms = 4 s) leads to noticeable
-" delays and poor user experience.
-set updatetime=300
-
-" Don't pass messages to |ins-completion-menu|.
-set shortmess+=c
-
-" Always show the signcolumn, otherwise it would shift the text each time
-" diagnostics appear/become resolved.
-if has("patch-8.1.1564")
-  " Recently vim can merge signcolumn and number column into one
-  set signcolumn=number
-else
-  set signcolumn=yes
-endif
-
 " Use tab for trigger completion with characters ahead and navigate.
 " NOTE: Use command ':verbose imap <tab>' to make sure tab is not mapped by
 " other plugin before putting this into your config.
@@ -748,7 +606,8 @@ function! s:check_back_space() abort
   return !col || getline('.')[col - 1]  =~# '\s'
 endfunction
 
-let g:coc_snippet_next = '<tab>'
+nnoremap Q gqap
+nmap <leader>f gwap
 
 " Use <c-space> to trigger completion.
 if has('nvim')
@@ -797,23 +656,12 @@ function! s:show_documentation()
   endif
 endfunction
 
-" Highlight the symbol and its references when holding the cursor.
-autocmd CursorHold * silent call CocActionAsync('highlight')
-
 " Symbol renaming.
 nmap <leader>rn <Plug>(coc-rename)
 
 " Formatting selected code.
 xmap <leader>f  <Plug>(coc-format-selected)
 nmap <leader>f  <Plug>(coc-format-selected)
-
-augroup mygroup
-  autocmd!
-  " Setup formatexpr specified filetype(s).
-  autocmd FileType typescript,json setl formatexpr=CocAction('formatSelected')
-  " Update signature help on jump placeholder.
-  autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
-augroup end
 
 " Applying codeAction to the selected region.
 " Example: `<leader>aap` for current paragraph
@@ -841,20 +689,6 @@ omap ac <Plug>(coc-classobj-a)
 nmap <silent> <C-s> <Plug>(coc-range-select)
 xmap <silent> <C-s> <Plug>(coc-range-select)
 
-" Add `:Format` command to format current buffer.
-command! -nargs=0 Format :call CocAction('format')
-
-" Add `:Fold` command to fold current buffer.
-command! -nargs=? Fold :call     CocAction('fold', <f-args>)
-
-" Add `:OR` command for organize imports of the current buffer.
-command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organizeImport')
-
-" Add (Neo)Vim's native statusline support.
-" NOTE: Please see `:h coc-status` for integrations with external plugins that
-" provide custom statusline: lightline.vim, vim-airline.
-set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
-
 " Mappings for CoCList
 " Show all diagnostics.
 nnoremap <silent><nowait> <space>a  :<C-u>CocList diagnostics<cr>
@@ -872,3 +706,144 @@ nnoremap <silent><nowait> <space>j  :<C-u>CocNext<CR>
 nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list.
 nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
+
+"*****************************************************************************
+"" Custom configs
+"*****************************************************************************
+
+" Syntax highlight
+" Default highlight is better than polyglot
+let g:polyglot_disabled = ['python']
+let python_highlight_all = 1
+
+set completeopt=noinsert,menuone,noselect
+
+" vim-pandoc inserts citations with <C-x><C-o>
+" disable automatic folding by vim-pandoc
+let g:pandoc#modules#disabled = ["folding"]
+let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
+" In addition to vim-pandoc, zotcite and nvim-r can insert citations
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
+
+" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
+set timeoutlen=1000 ttimeoutlen=10
+
+"" Directories for swp files
+set nobackup
+set noswapfile
+set nowritebackup
+
+" (In times of great desperation) allow use of the mouse
+set mouse=a
+
+" https://github.com/neovim/neovim/wiki/FAQ#how-to-change-cursor-shape-in-the-terminal
+set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkon100
+
+" Share system clipboard ("+) and unnamed ("") registers
+" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
+" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
+set clipboard=unnamed
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
+set go+=a
+
+" Neovim defaults https://neovim.io/doc/user/vim_diff.html
+" 'autoindent' is enabled
+" 'background' defaults to "dark" (unless set automatically by the terminal/UI)
+" 'belloff' defaults to "all"
+" 'compatible' is always disabled
+" 'complete' excludes "i"
+" 'cscopeverbose' is enabled
+" 'history' defaults to 10000 (the maximum)
+" 'showcmd' is enabled
+" 'sidescroll' defaults to 1
+" 'smarttab' is enabled
+" 'tabpagemax' defaults to 50
+" 'wildmenu' is enabled
+
+" Neovim defaults?
+set path+=** " Provides tab-completion for all file-related tasks
+set lazyredraw " Don't redraw while executing macros (good performance config)
+set showmatch " Show matching brackets when text indicator is over them
+set hidden " can put buffer to the background without writing to disk, will remember history/marks.
+
+highlight VertSplit ctermbg=NONE guibg=NONE
+set fillchars+=vert:│
+set laststatus=0
+highlight Normal ctermfg=white ctermbg=black
+
+"" fzf.vim
+set wildmode=list:longest,list:full
+set wildignore+=*.o,*.obj,.git,*.rbc,*.pyc,__pycache__
+let $FZF_DEFAULT_COMMAND =  "find * -path '*/\.*' -prune -o -path 'node_modules/**' -prune -o -path 'target/**' -prune -o -path 'dist/**' -prune -o  -type f -print -o -type l -print 2> /dev/null"
+
+" The Silver Searcher
+if executable('ag')
+  let $FZF_DEFAULT_COMMAND = 'ag --hidden --ignore .git -g ""'
+  set grepprg=ag\ --nogroup\ --nocolor
+endif
+
+" ripgrep
+if executable('rg')
+  let $FZF_DEFAULT_COMMAND = 'rg --files --hidden --follow --glob "!.git/*"'
+  set grepprg=rg\ --vimgrep
+  command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number --no-heading --fixed-strings --ignore-case --hidden --follow --glob "!.git/*" --color "always" '.shellescape(<q-args>).'| tr -d "\017"', 1, <bang>0)
+endif
+
+" Disable visualbell
+set noerrorbells visualbell t_vb=
+
+"" Copy/Paste/Cut
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
+
+" http://sherifsoliman.com/2017/07/22/nvim-r/
+" press alt+, to have Nvim-R insert the assignment operator: <-
+let R_assign_map = "<A-,>"
+
+" set a minimum source editor width
+" let R_min_editor_width = 80
+
+" make sure the console is at the bottom by making it really wide
+" let R_rconsole_width = 1000
+
+" show arguments for functions during omnicompletion
+" let R_show_args = 1
+
+" https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/
+" let g:rout_follow_colorscheme = 1
+" let g:Rout_more_colors = 1
+
+" Don't expand a dataframe to show columns by default
+" let R_objbr_opendf = 0
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2152
+" Only use the mappings listed below
+let R_user_maps_only = 1
+" Do not replace grave accent with chunk delimiters in Rmd files
+" Use alt-i to insert code chunks instead
+let R_rmdchunk = 0
+
+" COC settings
+" https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
+let g:coc_global_extensions = ['coc-git', 'coc-fzf-preview', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
+
+" Don't pass messages to |ins-completion-menu|.
+set shortmess+=c
+
+" Always show the signcolumn, otherwise it would shift the text each time
+" diagnostics appear/become resolved.
+if has("patch-8.1.1564")
+  " Recently vim can merge signcolumn and number column into one
+  set signcolumn=number
+else
+  set signcolumn=yes
+endif
+
+" Add (Neo)Vim's native statusline support.
+" NOTE: Please see `:h coc-status` for integrations with external plugins that
+" provide custom statusline: lightline.vim, vim-airline.
+set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
+
+let g:coc_snippet_next = '<tab>'
