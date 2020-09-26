@@ -19,13 +19,24 @@
 # Mac System Preferences
 ## In System Preferences > Keyboard > Keyboard:
 ### Key Repeat: Fast
+defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
+
 ### Delay Until Repeat: Short
+defaults write -g InitialKeyRepeat -int 10 # normal minimum is 15 (225 ms)
+
 ### Caps Lock Key: Escape
+defaults write -g ApplePressAndHoldEnabled -bool false
+
 ## Remove most icons from Dock
+defaults write com.apple.dock persistent-apps -array
+
 ## 2-finger click on Dock and Turn Dock Hiding On
 ## Under General > Sound turn off all sounds and "Show volume in menu bar"
+defaults write com.apple.systemsound "com.apple.sound.uiaudio.enabled" -int 0
+
 ## Add Home to Finder sidebar
-## Under General > Appearance select 'Use Dark menu bar and Dock' and 'Automatically hide and show the menu bar'
+## Under General > Appearance select 'Automatically hide and show the menu bar'
+defaults write NSGlobalDomain _HIHideMenuBar -bool true
 
 # Brew - commandline package manager
 ## Install Homebrew (this also installs xcode tools needed for git)
