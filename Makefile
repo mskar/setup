@@ -132,9 +132,9 @@ $(GIT):
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/karabiner.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 ~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython_config.py
-	curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py
+	curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 ~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/keybindings.py
-	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
+	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
 $(NVIM):
 	-brew install neovim
 $(NODE):

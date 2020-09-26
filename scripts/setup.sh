@@ -117,9 +117,9 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 ## Set up ipython
-curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py
+curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py
+curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
 
 # Python and R
 
@@ -128,18 +128,15 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~
 
 bash ~/miniconda.sh -bp $HOME/miniconda
 
-## Install glances (alternative to top) into base env
-pip install glances
-
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
-conda install -yc conda-forge cookiecutter nodejs neovim pybtex
+~/miniconda/bin/conda install -yc conda-forge cookiecutter nodejs neovim pybtex
 
 #### I don't use jupyterlab-git extension, I only demo it in classes
 ##### jupyter labextension install @jupyterlab/git
 ##### jupyter serverextension enable --py jupyterlab_git
 
-conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
+~/miniconda/bin/conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 
 ##### jupyter labextension install jupyterlab_vim
 
@@ -188,14 +185,14 @@ conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pa
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 ##### Installing r into base environment breaks nvim-R
-conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver
+~/miniconda/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver
 
 curl https://raw.githubusercontent.com/mskar/setup/master/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
 curl https://raw.githubusercontent.com/mskar/setup/master/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/master/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json
+curl https://raw.githubusercontent.com/mskar/setup/master/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
 
 ### Install and symlink macvim (brew installed macvim conflicts with brew installed vim)
 ##### ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
-conda init zsh
+~/miniconda/bin/conda init zsh
