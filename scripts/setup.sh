@@ -159,6 +159,8 @@ curl https://raw.githubusercontent.com/mskar/setup/master/ginit.vim -o ~/.config
 ### COC (Conqueror Of Completion)
 curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
 
+curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
+
 ### JetBrains IDEs
 curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
 

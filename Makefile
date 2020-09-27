@@ -27,12 +27,13 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash bat bottom brew conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim repo rstudio scim shiftit tmux vim vimr vscode xpdf zotero zsh
+all: bash bat bottom brew coc conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim repo rstudio scim shiftit tmux vim vimr vscode xpdf zotero zsh
 
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
 bat: $(BAT)
 bottom: $(BTM) ~/.config/bottom/bottom.toml
 brew: $(BREW)
+coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: ~/miniconda/bin/conda
 exa: $(EXA)
 fasd: $(FASD)
@@ -96,6 +97,8 @@ $(BREW):
 	-echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ~/.config/nvim/coc-settings.json: ~/mskar/setup/coc-settings.json
 	curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
+~/.vim/coc-settings.json: ~/mskar/setup/coc-settings.json
+	curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
 ~/miniconda/bin/conda:
 	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 	-bash ~/miniconda.sh -bp ~/miniconda
