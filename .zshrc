@@ -191,6 +191,8 @@ alias el="e --long"
 alias eo="e --oneline"
 alias er="e --reverse"
 alias f="fasd -f"
+alias fA="fasd -A"
+alias fD="fasd -D"
 alias fcl="fc -l"
 alias fcld="fc -ld"
 alias fclf="fc -lf"
@@ -541,7 +543,16 @@ bindkey -M viins '^x^j' fzf-cd-widget
 bindkey -M viins '^x^s' fzf-file-widget
 bindkey -M viins '^x^u' undo
 bindkey -M viins '^x^x' exchange-point-and-mark
+bindkey -M viins '^xa' fasd-complete
+bindkey -M viins '^xb' vi-match-bracket
+bindkey -M viins '^xd' fasd-complete-d
+bindkey -M viins '^xe' edit-command-line
+bindkey -M viins '^xf' fasd-complete-f
+bindkey -M viins '^xj' fzf-cd-widget
+bindkey -M viins '^xs' fzf-file-widget
 bindkey -M viins '^xu' undo
+bindkey -M viins '^xu' undo
+bindkey -M viins '^xx' exchange-point-and-mark
 bindkey -M viins '^y' yank
 
 # >>> conda initialize >>>
