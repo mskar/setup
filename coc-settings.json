@@ -3,5 +3,12 @@
   "suggest.noselect": false,
   "suggest.enablePreview": true,
   "suggest.removeDuplicateItems": true,
-  "codeLens.enable": true
+  "codeLens.enable": true,
+  "list.source.bibtex.files": ["~/bibliography.bib"],
+  "list.normalMappings": {
+    "<C-c>": "do:exit"
+  },
+  "list.insertMappings": {
+    "<C-c>": "do:exit"
+  }
 }
