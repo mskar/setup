@@ -82,6 +82,8 @@ $(BASH):
 	-brew install bash
 ~/.bash_profile: ~/mskar/setup/.bash_profile
 	curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
+~/.bashrc: ~/mskar/setup/.bashrc
+	curl https://raw.githubusercontent.com/mskar/setup/master/.bashrc -o ~/.bashrc
 ~/.inputrc: ~/mskar/setup/.inputrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
 ~/.config/bottom/bottom.toml: ~/mskar/setup/bottom.toml
@@ -142,7 +144,7 @@ $(NVIM):
 $(NODE):
 	-brew install node
 ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings:
-	curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-settings -o ~/.jupyter/nbconfig/shortcuts.jupyterlab-settings --create-dirs
+	curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
 ~/.config/nvim/init.vim: ~/mskar/setup/init.vim
 	curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 ~/.config/nvim/ginit.vim: ~/mskar/setup/ginit.vim
