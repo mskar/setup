@@ -838,7 +838,7 @@ let R_rmdchunk = 0
 
 " COC settings
 " https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
-let g:coc_global_extensions = ['coc-git', 'coc-fzf-preview', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
+let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-fzf-preview', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
 
 " Always show the signcolumn, otherwise it would shift the text each time
 " diagnostics appear/become resolved.

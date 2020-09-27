@@ -99,7 +99,7 @@ $(BREW):
 ~/miniconda/bin/conda:
 	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 	-bash ~/miniconda.sh -bp ~/miniconda
-	-conda install -yc conda-forge cookiecutter nodejs neovim pybtex
+	-conda install -yc conda-forge cookiecutter neovim pybtex
 $(EXA):
 	-brew install exa
 $(FASD):

@@ -183,7 +183,7 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
-~/miniconda/bin/conda install -yc conda-forge cookiecutter nodejs neovim pybtex
+~/miniconda/bin/conda install -yc conda-forge cookiecutter neovim pybtex
 
 ## Jupyter
 
