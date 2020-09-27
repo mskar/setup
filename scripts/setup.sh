@@ -93,7 +93,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitco
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew cask install homebrew/cask-fonts/font-fira-code-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit vimr visual-studio-code zotero
+brew cask install homebrew/cask-fonts/font-fira-code-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit vimr visual-studio-code
 
 ## Set up mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
@@ -185,7 +185,7 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
-~/miniconda/bin/conda install -yc conda-forge cookiecutter neovim pybtex
+~/miniconda/bin/conda install -yc conda-forge cookiecutter neovim
 
 ## Jupyter
 

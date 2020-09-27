@@ -54,11 +54,8 @@ Plug 'tomasr/molokai'
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
 " The main R plugin providing RStudio-esque features
-Plug 'jalvesaq/Nvim-R'
-
 " Nvim-R handles citation of its own: https://github.com/jalvesaq/Nvim-R/issues/346
-" but there is also zotcite: https://github.com/jalvesaq/zotcite
-Plug 'jalvesaq/zotcite'
+Plug 'jalvesaq/Nvim-R'
 
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 Plug 'bfredl/nvim-miniyank'

@@ -53,9 +53,6 @@ Plug 'tomasr/molokai'
 "" Python
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
-" Nvim-R handles citation of its own: https://github.com/jalvesaq/Nvim-R/issues/346
-" but there is also zotcite: https://github.com/jalvesaq/zotcite
-Plug 'jalvesaq/zotcite'
 " For Rmarkdown syntax
 Plug 'vim-pandoc/vim-rmarkdown'
 Plug 'vim-pandoc/vim-pandoc'
