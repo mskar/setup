@@ -10,5 +10,6 @@
   },
   "list.insertMappings": {
     "<C-c>": "do:exit"
-  }
+  },
+  "yank.highlight.duration": 200
 }
