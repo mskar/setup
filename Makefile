@@ -19,6 +19,7 @@ GIT = $(shell brew --prefix)/bin/git
 NVIM = $(shell brew --prefix)/bin/nvim
 NODE = $(shell brew --prefix)/bin/node
 RSTATS = $(shell brew --prefix)/bin/r
+RENAME = $(shell brew --prefix)/bin/rename
 SCIM = $(shell brew --prefix)/bin/scim
 TMUX = $(shell brew --prefix)/bin/tmux
 VIM = $(shell brew --prefix)/bin/vim
@@ -48,6 +49,7 @@ jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
 jupyter: ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 neovim: $(NVIM) ~/.config/nvim/init.vim
+rename: $(RENAME)
 repo: ~/mskar/setup
 rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
@@ -141,10 +143,10 @@ $(GIT):
 	curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 ~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/keybindings.py
 	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
-$(NVIM):
-	-brew install neovim
 $(NODE):
 	-brew install node
+$(NVIM):
+	-brew install neovim
 ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings:
 	curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
 ~/.config/nvim/init.vim: ~/mskar/setup/init.vim
@@ -157,6 +159,8 @@ $(NODE):
 	curl https://raw.githubusercontent.com/mskar/setup/master/.p10k.zsh -o ~/.p10k.zsh
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
+$(RENAME):
+	-brew install rename
 ~/mskar/setup/:
 	-git clone https://github.com/mskar/setup ~/py4ds/setup
 $(RSTATS):

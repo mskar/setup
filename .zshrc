@@ -75,7 +75,7 @@ alias 6="cd -6"
 alias 7="cd -7"
 alias 8="cd -8"
 alias 9="cd -9"
-alias \?='alias | grep'
+alias \?="alias | grep"
 alias a="git add"
 alias aa="func() { local files=$(echo '$(git status -s | fzf --nth=2.. --preview="if [ \$(git ls-files --other --exclude-standard {2..} | sed s/\ //g) ]; then; git diff --color=always --color-words --no-index -- /dev/null {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always --color-words {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add $(echo '$@') --; }; func"
 alias ac="git add --all && git commit --reedit-message=HEAD"
@@ -188,9 +188,11 @@ alias ee="func() { local both=$(echo '$(exa --all --classify --color=always $@ |
 alias el="exa --all --classify --color=always --tree | less"
 alias em="exa --all --classify --color=always --tree | more"
 alias et="exa --all --classify --color=always --tree"
+alias f="fasd -f"
 alias fcl="fc -l"
 alias fcld="fc -ld"
 alias fclf="fc -lf"
+alias ff="fd --type f"
 alias fixnames="find /tmp/ -depth -name *\ * -execdir rename 's/ /_/g' '{}' \;"
 alias fl="fasd -fl"
 alias fn="fasd -fe 'nvim'"
@@ -305,6 +307,7 @@ alias nh="n -c History" # this only works with -c, not --cmd
 alias nl="func() { local files=$(echo '$(rg -l $@ | fzf --preview="bat --style=plain --color=always {} | rg --color=always -n $* | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed s+~+$HOME+ | tr '\n' '\0' | xargs -0 nvim --; }; func";
 alias nn="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
+alias nows="func() {find . -name $(echo '$@') | sed 'p;s/ /_/' | tr '\n' '\0' | xargs -0n2 mv; }; func";
 alias np="func() { local files=$(echo '$(fd -e pdf --type f ^ $@ | fzf --preview="pdftotext -l 2 {} - | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -n1 -I '{}' pdftotext '{}' && echo $(echo '${files//.pdf/.txt}') | tr '\n' '\0' | xargs -0 nvim --; }; func";
 alias nr="func() { local files=$(echo '$(rg -e "^> ~/" -e "^> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 alias ns="func() { n -S $(echo '~/.config/nvim/session/$1.vim'); }; func";
@@ -488,10 +491,11 @@ zle -N zle-line-init
 zle -N zle-line-finish
 zle -N zle-keymap-select
 
-
 # FZF
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
+# FASD
+eval "$(fasd --init zsh-hook zsh-wcomp-install zsh-wcomp)"
 
 # Keybindings
 # https://github.com/junegunn/fzf/issues/546#issuecomment-213344845
@@ -531,10 +535,13 @@ bindkey -M viins '^r' fzf-history-widget
 bindkey -M viins '^t' transpose-chars
 bindkey -M viins '^u' backward-kill-line
 bindkey -M viins '^w' backward-kill-word
+bindkey -M viins '^x^a' fasd-complete
 bindkey -M viins '^x^b' vi-match-bracket
+bindkey -M viins '^x^d' fasd-complete-d
 bindkey -M viins '^x^e' edit-command-line
-bindkey -M viins '^x^f' fzf-file-widget
+bindkey -M viins '^x^f' fasd-complete-f
 bindkey -M viins '^x^j' fzf-cd-widget
+bindkey -M viins '^x^s' fzf-file-widget
 bindkey -M viins '^x^u' undo
 bindkey -M viins '^x^x' exchange-point-and-mark
 bindkey -M viins '^xu' undo
