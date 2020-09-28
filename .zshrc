@@ -197,7 +197,6 @@ alias fcl="fc -l"
 alias fcld="fc -ld"
 alias fclf="fc -lf"
 alias ff="fd --type f"
-alias fixnames="find /tmp/ -depth -name *\ * -execdir rename 's/ /_/g' '{}' \;"
 alias fl="fasd -fl"
 alias fn="fasd -fe 'nvim'"
 alias fo="fasd -fe open"
@@ -301,6 +300,7 @@ alias mts="git mergetool -t vimdiff --staged"
 alias mu="mamba update"
 alias mx="mamba uninstall"
 alias n="$(brew --prefix)/bin/nvim"
+alias n~="vim -esu NORC \"+pu=execute('digraphs')\" +%p +q! | grep n~ | cut -d ' ' -f38 | pbcopy"
 alias nd="func() { n $(date '+%Y-%m-%d')_$(echo '$1').md; }; func";
 alias ne="func() { local files=$(echo '$(n -u NONE -es "+pu =v:oldfiles" +%p +q! | fzf --delimiter=/ --with-nth=4.. --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 alias nf="func() { local files=$(echo '$(fd --type f ^ $@ | fzf --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
@@ -388,6 +388,7 @@ alias rsuu="git remote set-url upstream"
 alias rsuua="func() { git remote set-url upstream $(echo '$@') --add; }; func";
 alias rv="git remote -v"
 alias rw="func() { local files=$(echo '$(git diff HEAD --diff-filter=M --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --worktree --; }; func"
+alias rz="rename -z"
 alias s2h="func() { local name=$(echo '${1:-origin}') && git remote set-url $(echo '$name $(git remote get-url $name | sed "s+:+/+;s+git@+https://+")') }; func"
 alias s="git status"
 alias sa="git stash apply"
