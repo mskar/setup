@@ -313,11 +313,11 @@ cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 noremap YY "+y<CR>
 noremap XX "+x<CR>
 
-if has('macunix')
-  " pbcopy for OSX copy/paste
-  xmap <C-x> :!pbcopy<CR>
-  xmap <C-c> :w !pbcopy<CR><CR>
-endif
+" if has('macunix')
+"   " pbcopy for OSX copy/paste
+"   xmap <D-x> :!pbcopy<CR>
+"   xmap <D-c> :w !pbcopy<CR><CR>
+" endif
 
 "" Vmap for maintain Visual Mode after shifting > and <
 xmap < <gv
@@ -596,6 +596,7 @@ nnoremap <silent> g: :History:<CR>
 nnoremap <silent> g/ :History/<CR>
 
 " Insert mode completion
+" https://github.com/junegunn/fzf.vim#mappings
 imap <c-x><c-w> <plug>(fzf-complete-word)
 imap <c-x>w <plug>(fzf-complete-word)
 imap <c-x><c-p> <plug>(fzf-complete-path)
@@ -608,10 +609,19 @@ imap <c-x><c-b> <plug>(fzf-complete-buffer-line)
 imap <c-x>b <plug>(fzf-complete-buffer-line)
 imap <c-x><c-l> <plug>(fzf-complete-line)
 imap <c-x>l <plug>(fzf-complete-line)
+
+" Mappings inspired by my .zshrc
+imap <c-x><c-u> <C-o>u
+imap <c-x>u <C-o>u
+imap <c-x><c-x> <C-o>``
+imap <c-x>x <C-o>``
+
 " https://github.com/junegunn/fzf.vim#completion-functions
 " Path completion with custom source command
 inoremap <expr> <c-x><c-r> fzf#vim#complete#path('rg --files')
 inoremap <expr> <c-x>r fzf#vim#complete#path('rg --files')
+inoremap <expr> <c-x><c-d> fzf#vim#complete#path('exa --only-dirs')
+inoremap <expr> <c-x>d fzf#vim#complete#path('exa --only-dirs')
 
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 map p <Plug>(miniyank-autoput)
@@ -814,11 +824,6 @@ endif
 
 " Disable visualbell
 set noerrorbells visualbell t_vb=
-
-"" Copy/Paste/Cut
-if has('unnamedplus')
-  set clipboard=unnamed,unnamedplus
-endif
 
 " http://sherifsoliman.com/2017/07/22/nvim-r/
 " press alt+, to have Nvim-R insert the assignment operator: <-

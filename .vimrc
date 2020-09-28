@@ -241,11 +241,11 @@ cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 noremap YY "+y<CR>
 noremap XX "+x<CR>
 
-if has('macunix')
+" if has('macunix')
   " pbcopy for OSX copy/paste
-  xmap <C-x> :!pbcopy<CR>
-  xmap <C-c> :w !pbcopy<CR><CR>
-endif
+  " xmap <D-x> :!pbcopy<CR>
+  " xmap <D-c> :w !pbcopy<CR><CR>
+" endif
 
 "" Vmap for maintain Visual Mode after shifting > and <
 xmap < <gv
@@ -462,23 +462,37 @@ nnoremap <silent> gb :Buffers<CR>
 nnoremap <silent> g: :History:<CR>
 nnoremap <silent> g/ :History/<CR>
 
+" https://github.com/junegunn/fzf.vim#mappings
 " Insert mode completion
-imap <c-x><c-w> <plug>(fzf-complete-word)
-imap <c-x>w <plug>(fzf-complete-word)
-imap <c-x><c-p> <plug>(fzf-complete-path)
-imap <c-x>p <plug>(fzf-complete-path)
-imap <c-x><c-f> <plug>(fzf-complete-file)
-imap <c-x>f <plug>(fzf-complete-file)
 imap <c-x><c-a> <plug>(fzf-complete-file-ag)
-imap <c-x>a <plug>(fzf-complete-file-ag)
 imap <c-x><c-b> <plug>(fzf-complete-buffer-line)
-imap <c-x>b <plug>(fzf-complete-buffer-line)
+imap <c-x><c-f> <plug>(fzf-complete-file)
 imap <c-x><c-l> <plug>(fzf-complete-line)
+imap <c-x><c-p> <plug>(fzf-complete-path)
+imap <c-x><c-w> <plug>(fzf-complete-word)
+imap <c-x>a <plug>(fzf-complete-file-ag)
+imap <c-x>b <plug>(fzf-complete-buffer-line)
+imap <c-x>f <plug>(fzf-complete-file)
 imap <c-x>l <plug>(fzf-complete-line)
+imap <c-x>p <plug>(fzf-complete-path)
+imap <c-x>w <plug>(fzf-complete-word)
+imap <c-x>f <plug>(fzf-complete-file)
+imap <c-x>l <plug>(fzf-complete-line)
+imap <c-x>p <plug>(fzf-complete-path)
+imap <c-x>w <plug>(fzf-complete-word)
+
+" Mappings inspired by my .zshrc
+imap <c-x><c-u> <C-o>u
+imap <c-x>u <C-o>u
+imap <c-x><c-x> <C-o>''
+imap <c-x>x <C-o>''
+
 " https://github.com/junegunn/fzf.vim#completion-functions
 " Path completion with custom source command
 inoremap <expr> <c-x><c-r> fzf#vim#complete#path('rg --files')
 inoremap <expr> <c-x>r fzf#vim#complete#path('rg --files')
+inoremap <expr> <c-x><c-d> fzf#vim#complete#path('exa --only-dirs')
+inoremap <expr> <c-x>d fzf#vim#complete#path('exa --only-dirs')
 
 " https://vim.fandom.com/wiki/Moving_through_camel_case_words
 " Use one of the following to define the camel characters.
