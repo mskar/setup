@@ -344,20 +344,20 @@ noremap XX "+x<CR>
 
 if has('macunix')
   " pbcopy for OSX copy/paste
-  vmap <C-x> :!pbcopy<CR>
-  vmap <C-c> :w !pbcopy<CR><CR>
+  xmap <C-x> :!pbcopy<CR>
+  xmap <C-c> :w !pbcopy<CR><CR>
 endif
 
 "" Clean search (highlight)
 nnoremap <silent> <leader><leader> :noh<cr>
 
 "" Vmap for maintain Visual Mode after shifting > and <
-vmap < <gv
-vmap > >gv
+xmap < <gv
+xmap > >gv
 
 "" Move visual block
-vnoremap J :m '>+1<CR>gv=gv
-vnoremap K :m '<-2<CR>gv=gv
+xnoremap J :m '>+1<CR>gv=gv
+xnoremap K :m '<-2<CR>gv=gv
 
 "" Open current line on GitHub
 nnoremap <leader>o :.Gbrowse<CR>
@@ -551,18 +551,28 @@ nnoremap <silent> <leader>t :BTags<CR>
 nnoremap <silent> <leader>T :Tags<CR>
 nnoremap <silent> <leader>z :FZF -m<CR>
 
-" https://github.com/junegunn/fzf.vim#usage
+" https://github.com/junegunn/fzf.vim#mappings
 " Mapping selecting mappings
 nmap <leader><tab> <plug>(fzf-maps-n)
 xmap <leader><tab> <plug>(fzf-maps-x)
 omap <leader><tab> <plug>(fzf-maps-o)
 " Insert mode completion
-imap <c-x><c-k> <plug>(fzf-complete-word)
-imap <c-x><c-f> <plug>(fzf-complete-path)
-imap <c-x><c-j> <plug>(fzf-complete-file-ag)
+imap <c-x><c-w> <plug>(fzf-complete-word)
+imap <c-x>w <plug>(fzf-complete-word)
+imap <c-x><c-p> <plug>(fzf-complete-path)
+imap <c-x>p <plug>(fzf-complete-path)
+imap <c-x><c-f> <plug>(fzf-complete-file)
+imap <c-x>f <plug>(fzf-complete-file)
+imap <c-x><c-a> <plug>(fzf-complete-file-ag)
+imap <c-x>a <plug>(fzf-complete-file-ag)
+imap <c-x><c-b> <plug>(fzf-complete-buffer-line)
+imap <c-x>b <plug>(fzf-complete-buffer-line)
 imap <c-x><c-l> <plug>(fzf-complete-line)
-" Advanced customization using autoload functions
-inoremap <expr> <c-x><c-k> fzf#vim#complete#word({'left': '15%'})
+imap <c-x>l <plug>(fzf-complete-line)
+" https://github.com/junegunn/fzf.vim#completion-functions
+" Path completion with custom source command
+inoremap <expr> <c-x><c-r> fzf#vim#complete#path('rg --files')
+inoremap <expr> <c-x>r fzf#vim#complete#path('rg --files')
 
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 map p <Plug>(miniyank-autoput)
@@ -690,21 +700,21 @@ xmap <silent> <C-s> <Plug>(coc-range-select)
 
 " Mappings for CoCList
 " Show all diagnostics.
-nnoremap <silent><nowait> <space>a  :<C-u>CocList diagnostics<cr>
+nnoremap <silent><nowait> <leader>a  :<C-u>CocList diagnostics<cr>
 " Manage extensions.
-nnoremap <silent><nowait> <space>e  :<C-u>CocList extensions<cr>
+nnoremap <silent><nowait> <leader>e  :<C-u>CocList extensions<cr>
 " Show commands.
-nnoremap <silent><nowait> <space>c  :<C-u>CocList commands<cr>
+nnoremap <silent><nowait> <leader>c  :<C-u>CocList commands<cr>
 " Find symbol of current document.
-nnoremap <silent><nowait> <space>o  :<C-u>CocList outline<cr>
+nnoremap <silent><nowait> <leader>o  :<C-u>CocList outline<cr>
 " Search workspace symbols.
-nnoremap <silent><nowait> <space>s  :<C-u>CocList -I symbols<cr>
+nnoremap <silent><nowait> <leader>s  :<C-u>CocList -I symbols<cr>
 " Do default action for next item.
-nnoremap <silent><nowait> <space>j  :<C-u>CocNext<CR>
+nnoremap <silent><nowait> <leader>j  :<C-u>CocNext<CR>
 " Do default action for previous item.
-nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
+nnoremap <silent><nowait> <leader>k  :<C-u>CocPrev<CR>
 " Resume latest coc list.
-nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
+nnoremap <silent><nowait> <leader>p  :<C-u>CocListResume<CR>
 
 "*****************************************************************************
 "" Custom configs
