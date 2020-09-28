@@ -163,16 +163,11 @@ let g:nerdtree_tabs_focus_on_files=1
 let g:NERDTreeMapOpenInTabSilent = '<RightMouse>'
 let g:NERDTreeWinSize = 50
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.pyc,*.db,*.sqlite
-nnoremap <silent> <leader>n :NERDTreeToggle<CR>
 
 " grep.vim
-nnoremap <silent> <leader>rg :Rgrep<CR>
 let Grep_Default_Options = '-IR'
 let Grep_Skip_Files = '*.log *.db'
 let Grep_Skip_Dirs = '.git node_modules'
-
-" terminal emulation
-nnoremap <silent> <leader>sh :terminal<CR>
 
 set autoread
 
@@ -313,33 +308,9 @@ augroup end
 "" Mappings
 "*****************************************************************************
 
-"" Git
-noremap ga :Gwrite<CR>
-noremap <leader>w :Gwrite<CR>
-noremap <leader>gc :Gwrite<bar>Gcommit<CR>
-noremap <leader>gp :Gpush<CR>
-noremap <leader>gu :Gpull<CR>
-noremap gs :Gstatus<CR>
-noremap <leader>gd :Gvdiff<CR>
-noremap <leader>gr :Gremove<CR>
-noremap <leader>gl :Glog<CR>
-noremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
-nnoremap gh :diffget //2<CR>
-nnoremap gl :diffget //3<CR>
-
-"" Set working directory
-nnoremap <leader>. :lcd %:p:h<CR>
-
-"" Opens an edit command with the path of the currently edited file filled in
-noremap <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
-
-"" Opens a tab edit command with the path of the currently edited file filled
-noremap <leader>te :tabe <C-R>=expand("%:p:h") . "/" <CR>
-
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
 noremap YY "+y<CR>
-noremap <leader>p "+gP<CR>
 noremap XX "+x<CR>
 
 if has('macunix')
@@ -348,9 +319,6 @@ if has('macunix')
   xmap <C-c> :w !pbcopy<CR><CR>
 endif
 
-"" Clean search (highlight)
-nnoremap <silent> <leader><leader> :noh<cr>
-
 "" Vmap for maintain Visual Mode after shifting > and <
 xmap < <gv
 xmap > >gv
@@ -358,9 +326,6 @@ xmap > >gv
 "" Move visual block
 xnoremap J :m '>+1<CR>gv=gv
 xnoremap K :m '<-2<CR>gv=gv
-
-"" Open current line on GitHub
-nnoremap <leader>o :.Gbrowse<CR>
 
 " Emacs and bash style insert mode CTRL shortcuts
 " <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
@@ -430,12 +395,104 @@ cnoremap <A-.> <C-r>.
 inoremap <A--> <Esc>ugi
 " inoremap <A--> <C-o>u
 
-" Run :file everytime I switch to alternate file (^6)
-nnoremap <C-^> <C-^><C-g>
-tnoremap <C-^> <C-\><C-n><C-^><C-g>
-" Run :file everytime I go thru the jump list
-nnoremap <C-o> <C-o><C-g>
-nnoremap <C-i> <C-i><C-g>
+"" Git
+noremap ga :Gwrite<CR>
+noremap gs :Gstatus<CR>
+nnoremap gh :diffget //2<CR>
+nnoremap gl :diffget //3<CR>
+noremap <leader>w :Gwrite<CR>
+noremap <leader>gc :Gwrite<bar>Gcommit<CR>
+noremap <leader>gp :Gpush<CR>
+noremap <leader>gu :Gpull<CR>
+noremap <leader>gd :Gvdiff<CR>
+noremap <leader>gr :Gremove<CR>
+noremap <leader>gl :Glog<CR>
+noremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
+
+"" Set working directory
+nnoremap <leader>. :lcd %:p:h<CR>
+
+"" Opens an edit command with the path of the currently edited file filled in
+noremap <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
+
+"" Opens a tab edit command with the path of the currently edited file filled
+noremap <leader>te :tabe <C-R>=expand("%:p:h") . "/" <CR>
+
+nnoremap <silent> <leader>n :NERDTreeToggle<CR>
+
+" grep.vim
+nnoremap <silent> <leader>rg :Rgrep<CR>
+" terminal emulation
+nnoremap <silent> <leader>sh :terminal<CR>
+
+noremap <leader>p "+gP<CR>
+"" Clean search (highlight)
+nnoremap <silent> <leader><leader> :noh<cr>
+
+"" Open current line on GitHub
+nnoremap <leader>o :.Gbrowse<CR>
+
+nnoremap <silent> <leader>A :Ag<CR>
+nnoremap <silent> <leader>b :Buffers<CR>
+"Recovery commands from history through FZF
+nnoremap <silent> <leader>h :History<CR>
+nnoremap <silent> <leader>B :BCommits<CR>
+nnoremap <silent> <leader>c :Commits<CR>
+nnoremap <silent> <leader>C :Commands<CR>
+nnoremap <silent> <leader>gf :GFiles<CR>
+nnoremap <silent> <leader>F :Files<CR>
+nnoremap <silent> <leader>H :Helptags<CR>
+nnoremap <silent> <leader>m :Maps<CR>
+nnoremap <silent> <leader>' :Marks<CR>
+nnoremap <silent> <leader>l :BLines<CR>
+nnoremap <silent> <leader>L :Lines<CR>
+nnoremap <silent> <leader>R :Rg<CR>
+nnoremap <silent> <leader>y :Filetypes<CR>
+nnoremap <silent> <leader>t :BTags<CR>
+nnoremap <silent> <leader>T :Tags<CR>
+nnoremap <silent> <leader>z :FZF -m<CR>
+
+" https://github.com/junegunn/fzf.vim#mappings
+" Mapping selecting mappings
+nmap <leader><tab> <plug>(fzf-maps-n)
+xmap <leader><tab> <plug>(fzf-maps-x)
+omap <leader><tab> <plug>(fzf-maps-o)
+
+" Symbol renaming.
+nmap <leader>rn <Plug>(coc-rename)
+
+" Formatting selected code.
+xmap <leader>f  <Plug>(coc-format-selected)
+nmap <leader>f  <Plug>(coc-format-selected)
+
+" Applying codeAction to the selected region.
+" Example: `<leader>aap` for current paragraph
+xmap <leader>a  <Plug>(coc-codeaction-selected)
+nmap <leader>a  <Plug>(coc-codeaction-selected)
+
+" Remap keys for applying codeAction to the current buffer.
+nmap <leader>ac  <Plug>(coc-codeaction)
+" Apply AutoFix to problem on the current line.
+nmap <leader>qf  <Plug>(coc-fix-current)
+
+" Mappings for CoCList
+" Show all diagnostics.
+nnoremap <silent><nowait> <leader>a  :<C-u>CocList diagnostics<cr>
+" Manage extensions.
+nnoremap <silent><nowait> <leader>e  :<C-u>CocList extensions<cr>
+" Show commands.
+nnoremap <silent><nowait> <leader>c  :<C-u>CocList commands<cr>
+" Find symbol of current document.
+nnoremap <silent><nowait> <leader>o  :<C-u>CocList outline<cr>
+" Search workspace symbols.
+nnoremap <silent><nowait> <leader>s  :<C-u>CocList -I symbols<cr>
+" Do default action for next item.
+nnoremap <silent><nowait> <leader>j  :<C-u>CocNext<CR>
+" Do default action for previous item.
+nnoremap <silent><nowait> <leader>k  :<C-u>CocPrev<CR>
+" Resume latest coc list.
+nnoremap <silent><nowait> <leader>p  :<C-u>CocListResume<CR>
+
 " Run :file everytime I switch buffers
 nnoremap <leader>; :bn<CR><C-g>
 nnoremap <leader>, :bp<CR><C-g>
@@ -445,6 +502,12 @@ nnoremap ]b :bn<CR><C-g>
 nnoremap [b :bp<CR><C-g>
 tnoremap ]b <C-\><C-n>:bn<CR><C-g>
 tnoremap [b <C-\><C-n>:bp<CR><C-g>
+" Run :file everytime I switch to alternate file (^6)
+nnoremap <C-^> <C-^><C-g>
+tnoremap <C-^> <C-\><C-n><C-^><C-g>
+" Run :file everytime I go thru the jump list
+nnoremap <C-o> <C-o><C-g>
+nnoremap <C-i> <C-i><C-g>
 " Run :file everytime I switch windows (not needed in nvim)
 
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
@@ -527,35 +590,11 @@ nnoremap <C-w>, <C-\><C-n>:bp<CR>
 
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
-nnoremap <silent> <leader>A :Ag<CR>
 nnoremap <silent> gB :BCommits<CR>
 nnoremap <silent> gb :Buffers<CR>
-nnoremap <silent> <leader>b :Buffers<CR>
-"Recovery commands from history through FZF
-nnoremap <silent> <leader>h :History<CR>
-nnoremap <silent> <leader>B :BCommits<CR>
-nnoremap <silent> <leader>c :Commits<CR>
-nnoremap <silent> <leader>C :Commands<CR>
-nnoremap <silent> <leader>gf :GFiles<CR>
-nnoremap <silent> <leader>F :Files<CR>
-nnoremap <silent> <leader>H :Helptags<CR>
 nnoremap <silent> g: :History:<CR>
 nnoremap <silent> g/ :History/<CR>
-nnoremap <silent> <leader>m :Maps<CR>
-nnoremap <silent> <leader>' :Marks<CR>
-nnoremap <silent> <leader>l :BLines<CR>
-nnoremap <silent> <leader>L :Lines<CR>
-nnoremap <silent> <leader>R :Rg<CR>
-nnoremap <silent> <leader>y :Filetypes<CR>
-nnoremap <silent> <leader>t :BTags<CR>
-nnoremap <silent> <leader>T :Tags<CR>
-nnoremap <silent> <leader>z :FZF -m<CR>
 
-" https://github.com/junegunn/fzf.vim#mappings
-" Mapping selecting mappings
-nmap <leader><tab> <plug>(fzf-maps-n)
-xmap <leader><tab> <plug>(fzf-maps-x)
-omap <leader><tab> <plug>(fzf-maps-o)
 " Insert mode completion
 imap <c-x><c-w> <plug>(fzf-complete-word)
 imap <c-x>w <plug>(fzf-complete-word)
@@ -616,7 +655,6 @@ function! s:check_back_space() abort
 endfunction
 
 nnoremap Q gqap
-nmap <leader>f gwap
 
 " Use <c-space> to trigger completion.
 if has('nvim')
@@ -665,23 +703,6 @@ function! s:show_documentation()
   endif
 endfunction
 
-" Symbol renaming.
-nmap <leader>rn <Plug>(coc-rename)
-
-" Formatting selected code.
-xmap <leader>f  <Plug>(coc-format-selected)
-nmap <leader>f  <Plug>(coc-format-selected)
-
-" Applying codeAction to the selected region.
-" Example: `<leader>aap` for current paragraph
-xmap <leader>a  <Plug>(coc-codeaction-selected)
-nmap <leader>a  <Plug>(coc-codeaction-selected)
-
-" Remap keys for applying codeAction to the current buffer.
-nmap <leader>ac  <Plug>(coc-codeaction)
-" Apply AutoFix to problem on the current line.
-nmap <leader>qf  <Plug>(coc-fix-current)
-
 " Map function and class text objects
 " NOTE: Requires 'textDocument.documentSymbol' support from the language server.
 xmap if <Plug>(coc-funcobj-i)
@@ -697,24 +718,6 @@ omap ac <Plug>(coc-classobj-a)
 " Requires 'textDocument/selectionRange' support of language server.
 nmap <silent> <C-s> <Plug>(coc-range-select)
 xmap <silent> <C-s> <Plug>(coc-range-select)
-
-" Mappings for CoCList
-" Show all diagnostics.
-nnoremap <silent><nowait> <leader>a  :<C-u>CocList diagnostics<cr>
-" Manage extensions.
-nnoremap <silent><nowait> <leader>e  :<C-u>CocList extensions<cr>
-" Show commands.
-nnoremap <silent><nowait> <leader>c  :<C-u>CocList commands<cr>
-" Find symbol of current document.
-nnoremap <silent><nowait> <leader>o  :<C-u>CocList outline<cr>
-" Search workspace symbols.
-nnoremap <silent><nowait> <leader>s  :<C-u>CocList -I symbols<cr>
-" Do default action for next item.
-nnoremap <silent><nowait> <leader>j  :<C-u>CocNext<CR>
-" Do default action for previous item.
-nnoremap <silent><nowait> <leader>k  :<C-u>CocPrev<CR>
-" Resume latest coc list.
-nnoremap <silent><nowait> <leader>p  :<C-u>CocListResume<CR>
 
 "*****************************************************************************
 "" Custom configs
