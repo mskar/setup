@@ -269,9 +269,9 @@ autocmd FileType r,rmd nnoremap <silent><buffer><localleader>- :call RBrOpenClos
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>0 :call RObjBrowser()<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>; :call MovePosRCodeComment("normal")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>= :call RBrOpenCloseLs(1)<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>a :call :call SendFileToR("echo")<CR>
+autocmd FileType r,rmd nnoremap <silent><buffer><localleader>a :call SendFileToR("echo")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>b :call SendMBlockToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>c :call b:SendChunkToR("echo", "down")<CR>
+autocmd FileType rmd nnoremap <silent><buffer><localleader>c :call b:SendChunkToR("echo", "down")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>d :call RSetWD()<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>e :call RAction("example")<CR>
 autocmd FileType r,rmd nnoremap <silent><buffer><localleader>f :call SendFunctionToR("echo", "down")<CR>
@@ -514,8 +514,9 @@ nnoremap <C-i> <C-i><C-g>
 " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR><C-g>
+nnoremap <C-w>c :mksession! ~/session.vim<CR>:wincmd c<CR><C-g>
 " https://vi.stackexchange.com/questions/241/undo-only-window
-nnoremap <C-w>u :source ~/session.vim<CR>
+nnoremap <C-w>u :silent :source ~/session.vim<CR>
 
 " Terminal like in vim
 tnoremap <C-w>+ <C-\><C-n><C-w>+
@@ -828,15 +829,14 @@ set noerrorbells visualbell t_vb=
 " http://sherifsoliman.com/2017/07/22/nvim-r/
 " press alt+, to have Nvim-R insert the assignment operator: <-
 let R_assign_map = "<A-,>"
+" let R_esc_term = 0
+" let R_external_term = 1
 
 " set a minimum source editor width
 " let R_min_editor_width = 80
 
 " make sure the console is at the bottom by making it really wide
 " let R_rconsole_width = 1000
-
-" show arguments for functions during omnicompletion
-" let R_show_args = 1
 
 " https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/
 " let g:rout_follow_colorscheme = 1

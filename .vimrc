@@ -452,8 +452,9 @@ nnoremap <C-w><C-w> <C-w>w<C-g>
 " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR><C-g>
+nnoremap <C-w>c :mksession! ~/session.vim<CR>:wincmd c<CR><C-g>
 " https://vi.stackexchange.com/questions/241/undo-only-window
-nnoremap <C-w>u :source ~/session.vim<CR>
+nnoremap <C-w>u :silent :source ~/session.vim<CR>
 
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
