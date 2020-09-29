@@ -1,0 +1,26 @@
+options(radian.editing_mode = "vi")
+options(radian.prompt = "r$>\033[0m ")
+options(radian.shell_prompt = "#!>\033[0m ")
+options(radian.browse_prompt = "\033[0;33mBrowse[{}]>\033[0m ")
+options(radian.show_vi_mode_prompt = TRUE)
+options(radian.vi_mode_prompt = "\033[0;32m[{}] ")
+
+options(radian.on_load_hooks = list(function() {
+    getOption("rchitect.py_tools")$attach()
+
+    radian <- import("radian")
+    prompt_toolkit <- import("prompt_toolkit")
+    named_commands <- prompt_toolkit$key_binding$bindings$named_commands
+    Keys <- prompt_toolkit$keys$Keys
+    insert_mode <- radian$key_bindings$insert_mode
+    app <- radian$get_app()
+    kb <- app$session$modes$r$key_bindings
+
+    kb$add(Keys$Escape, 'f', filter = insert_mode)(function(event) {
+        named_commands$forward_word(event)
+    })
+    kb$add(Keys$Escape, 'b', filter = insert_mode)(function(event) {
+        named_commands$backward_word(event)
+    })
+
+}))

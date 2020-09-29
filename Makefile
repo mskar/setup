@@ -30,7 +30,7 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim rename repo rg rstudio scim shiftit tmux vim vimr vscode xpdf zsh
+all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim ptpython radian rename repo rg rstudio scim shiftit tmux vim vimr vscode xpdf zsh
 
 ag: $(AG)
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
@@ -52,6 +52,8 @@ jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
 jupyter: ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 neovim: $(NVIM) ~/.config/nvim/init.vim
+ptpython: ~/miniconda/bin/ptpython
+radian: ~/miniconda/bin/radian
 rename: $(RENAME)
 repo: ~/mskar/setup
 rg: $(RG)
@@ -74,6 +76,8 @@ zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh
 ~/mskar/setup/.vimrc: repo
 ~/mskar/setup/.zshrc: repo
 ~/mskar/setup/com.googlecode.iterm2.plist: repo
+~/mskar/setup/config.py: repo
+~/mskar/setup/.radian_profile: repo
 ~/mskar/setup/editor_bindings.json: repo
 ~/mskar/setup/init.vim: repo
 ~/mskar/setup/ipython_config.py: repo
@@ -165,6 +169,15 @@ $(NVIM):
 	curl https://raw.githubusercontent.com/mskar/setup/master/.p10k.zsh -o ~/.p10k.zsh
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
+~/miniconda/bin/ptpython:
+	-pip install ptpython
+~/Library/Application\ Support/ptpython/config.py: ~/mskar/setup/master/config.py
+	curl https://raw.githubusercontent.com/mskar/setup/master/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
+~/miniconda/bin/radian:
+	-pip install radian
+~/.radian_profile: ~/mskar/setup/master/.radian_profile
+	curl https://raw.githubusercontent.com/mskar/setup/master/.radian_profile -o ~/.radian_profile
+	ln -sf .radian_profile radian_profile.R
 $(RENAME):
 	-brew install rename
 ~/mskar/setup/:

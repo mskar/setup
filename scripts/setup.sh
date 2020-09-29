@@ -176,6 +176,13 @@ curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~
 
 curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
 
+## Set up ptpython
+curl https://raw.githubusercontent.com/mskar/setup/master/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
+
+## Set up radian
+curl https://raw.githubusercontent.com/mskar/setup/master/.radian_profile -o ~/.radian_profile
+ln -sf .radian_profile radian_profile.R
+
 # Python and R
 
 ## Install miniconda Python
