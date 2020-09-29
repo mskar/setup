@@ -43,6 +43,7 @@ setopt hist_save_no_dups
 setopt hist_verify            # show command with history expansion to user before running it
 setopt pushdignoredups
 setopt pushdminus
+setopt rmstarsilent
 setopt share_history          # share command history data
 unsetopt flow_control
 
@@ -552,7 +553,6 @@ bindkey -M viins '^xe' edit-command-line
 bindkey -M viins '^xf' fasd-complete-f
 bindkey -M viins '^xj' fzf-cd-widget
 bindkey -M viins '^xs' fzf-file-widget
-bindkey -M viins '^xu' undo
 bindkey -M viins '^xu' undo
 bindkey -M viins '^xx' exchange-point-and-mark
 bindkey -M viins '^y' yank

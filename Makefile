@@ -6,6 +6,7 @@
 # Existing packages will not be updated,
 # To update all packages, run update.sh
 
+AG = $(shell brew --prefix)/bin/ag
 BASH = $(shell brew --prefix)/bin/bash
 BAT = $(shell brew --prefix)/bin/bat
 BREW = $(shell brew --prefix)/bin/brew
@@ -20,6 +21,7 @@ NVIM = $(shell brew --prefix)/bin/nvim
 NODE = $(shell brew --prefix)/bin/node
 RSTATS = $(shell brew --prefix)/bin/r
 RENAME = $(shell brew --prefix)/bin/rename
+RG = $(shell brew --prefix)/bin/rg
 SCIM = $(shell brew --prefix)/bin/scim
 TMUX = $(shell brew --prefix)/bin/tmux
 VIM = $(shell brew --prefix)/bin/vim
@@ -28,8 +30,9 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: bash bat bottom brew coc conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim repo rstudio scim shiftit tmux vim vimr vscode xpdf zsh
+all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim rename repo rg rstudio scim shiftit tmux vim vimr vscode xpdf zsh
 
+ag: $(AG)
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
 bat: $(BAT)
 bottom: $(BTM) ~/.config/bottom/bottom.toml
@@ -51,6 +54,7 @@ karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.a
 neovim: $(NVIM) ~/.config/nvim/init.vim
 rename: $(RENAME)
 repo: ~/mskar/setup
+rg: $(RG)
 rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
 shiftit: /Applications/ShiftIt.app
@@ -80,6 +84,8 @@ zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh
 ~/mskar/setup/rstudio_bindings.json: repo
 ~/mskar/setup/settings.json: repo
 
+$(AG):
+	-brew install ag
 $(BASH):
 	-brew install bash
 ~/.bash_profile: ~/mskar/setup/.bash_profile
@@ -163,6 +169,8 @@ $(RENAME):
 	-brew install rename
 ~/mskar/setup/:
 	-git clone https://github.com/mskar/setup ~/py4ds/setup
+$(RG):
+	-brew install rg
 $(RSTATS):
 	-brew cask install r
 ~/miniconda/envs/r:
