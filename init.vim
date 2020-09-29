@@ -829,8 +829,15 @@ set noerrorbells visualbell t_vb=
 " http://sherifsoliman.com/2017/07/22/nvim-r/
 " press alt+, to have Nvim-R insert the assignment operator: <-
 let R_assign_map = "<A-,>"
-" let R_esc_term = 0
-" let R_external_term = 1
+
+" https://github.com/randy3k/radian#nvim-r-support
+let R_esc_term = 0
+let R_external_term = 1
+let R_app = "radian"
+let R_cmd = "R"
+let R_hl_term = 0
+let R_args = []  " if you had set any
+let R_bracketed_paste = 1
 
 " set a minimum source editor width
 " let R_min_editor_width = 80
