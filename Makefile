@@ -171,11 +171,11 @@ $(NVIM):
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 ~/miniconda/bin/ptpython:
 	-pip install ptpython
-~/Library/Application\ Support/ptpython/config.py: ~/mskar/setup/master/config.py
+~/Library/Application\ Support/ptpython/config.py: ~/mskar/setup/config.py
 	curl https://raw.githubusercontent.com/mskar/setup/master/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
 ~/miniconda/bin/radian:
 	-pip install radian
-~/.radian_profile: ~/mskar/setup/master/.radian_profile
+~/.radian_profile: ~/mskar/setup/.radian_profile
 	curl https://raw.githubusercontent.com/mskar/setup/master/.radian_profile -o ~/.radian_profile
 	ln -sf .radian_profile radian_profile.R
 $(RENAME):
