@@ -19,11 +19,24 @@ options(radian.on_load_hooks = list(function() {
         nc$backward_char(event)
     })
     ## ControlD already works
+    # https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/prompt_toolkit/key_binding/bindings/auto_suggest.py
     kb$add("c-e", filter = insert_mode)(function(event) {
+        b <- event$current_buffer
+        s <- b$suggestion
+        if (length(s) != 0)  {
+            b$insert_text(s$text)
+        } else {
         nc$end_of_line(event)
+        }
     })
     kb$add("c-f", filter = insert_mode)(function(event) {
+        b <- event$current_buffer
+        s <- b$suggestion
+        if (length(s) != 0)  {
+            b$insert_text(s$text)
+        } else {
         nc$forward_char(event)
+        }
     })
     ## ControlH already works
     kb$add("c-k", filter = insert_mode)(function(event) {
@@ -56,7 +69,14 @@ options(radian.on_load_hooks = list(function() {
         nc$kill_word(event)
     })
     kb$add("escape", 'f', filter = insert_mode)(function(event) {
-        nc$forward_word(event)
+        b <- event$current_buffer
+        s <- b$suggestion
+        if (length(s) != 0)  {
+            t <- s$text
+            b$insert_text(gsub("([A-Za-z_]+).*", "\\1", t))
+        } else {
+            nc$forward_word(event)
+        }
     })
     kb$add("escape", 'h', filter = insert_mode)(function(event) {
         nc$backward_kill_word(event)
