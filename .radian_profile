@@ -1,9 +1,6 @@
 options(radian.editing_mode = "vi")
-options(radian.prompt = "r$>\033[0m ")
-options(radian.shell_prompt = "#!>\033[0m ")
-options(radian.browse_prompt = "\033[0;33mBrowse[{}]>\033[0m ")
-options(radian.show_vi_mode_prompt = TRUE)
-options(radian.vi_mode_prompt = "\033[0;32m[{}] ")
+options(radian.prompt = "\033[0;32mr$>\033[0m ")
+options(radian.show_vi_mode_prompt = FALSE)
 
 options(radian.on_load_hooks = list(function() {
     getOption("rchitect.py_tools")$attach()

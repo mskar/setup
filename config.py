@@ -5,6 +5,10 @@ Copy this file to $XDG_CONFIG_HOME/ptpython/config.py
 """
 from __future__ import unicode_literals
 
+import sys
+
+from prompt_toolkit.application.current import get_app
+from prompt_toolkit.key_binding.vi_state import InputMode, ViState
 from prompt_toolkit.filters import ViInsertMode
 from prompt_toolkit.key_binding.key_processor import KeyPress
 from prompt_toolkit.keys import Keys
@@ -13,7 +17,6 @@ from prompt_toolkit.styles import Style
 from ptpython.layout import CompletionVisualisation
 
 __all__ = ("configure",)
-
 
 def configure(repl):
     """
@@ -42,7 +45,7 @@ def configure(repl):
     repl.show_line_numbers = False
 
     # Show status bar.
-    repl.show_status_bar = True
+    repl.show_status_bar = False
 
     # When the sidebar is visible, also show the help text.
     repl.show_sidebar_help = True
@@ -68,13 +71,13 @@ def configure(repl):
     repl.enable_dictionary_completion = False
 
     # Vi mode.
-    repl.vi_mode = False
+    repl.vi_mode = True
 
     # Paste mode. (When True, don't insert whitespace after new line.)
     repl.paste_mode = False
 
     # Use the classic prompt. (Display '>>>' instead of 'In [1]'.)
-    repl.prompt_style = "classic"  # 'classic' or 'ipython'
+    repl.prompt_style = "ipython"  # 'classic' or 'ipython'
 
     # Don't insert a blank line after the output.
     repl.insert_blank_line_after_output = False
@@ -100,7 +103,7 @@ def configure(repl):
     repl.enable_system_bindings = True
 
     # Ask for confirmation on exit.
-    repl.confirm_exit = True
+    repl.confirm_exit = False
 
     # Enable input validation. (Don't try to execute when the input contains
     # syntax errors.)
@@ -192,3 +195,31 @@ _custom_ui_colorscheme = {
     # Make the status toolbar red.
     "status-toolbar": "bg:#ff0000 #000000",
 }
+
+
+def get_input_mode(self):
+    if sys.version_info[0] == 3:
+        # Decrease input flush timeout from 500ms to 10ms.
+        app = get_app()
+        app.ttimeoutlen = 0.01
+        app.timeoutlen = 0.2
+
+    return self._input_mode
+
+
+def set_input_mode(self, mode):
+    shape = {InputMode.NAVIGATION: 2, InputMode.REPLACE: 4}.get(mode, 6)
+    cursor = "\x1b[{} q".format(shape)
+
+    if hasattr(sys.stdout, "_cli"):
+        write = sys.stdout._cli.output.write_raw
+    else:
+        write = sys.stdout.write
+
+    write(cursor)
+    sys.stdout.flush()
+
+    self._input_mode = mode
+
+ViState._input_mode = InputMode.INSERT
+ViState.input_mode = property(get_input_mode, set_input_mode)
