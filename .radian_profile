@@ -7,17 +7,71 @@ options(radian.on_load_hooks = list(function() {
 
     radian <- import("radian")
     prompt_toolkit <- import("prompt_toolkit")
-    named_commands <- prompt_toolkit$key_binding$bindings$named_commands
-    Keys <- prompt_toolkit$keys$Keys
+    nc <- prompt_toolkit$key_binding$bindings$named_commands
     insert_mode <- radian$key_bindings$insert_mode
     app <- radian$get_app()
     kb <- app$session$modes$r$key_bindings
 
-    kb$add(Keys$Escape, 'f', filter = insert_mode)(function(event) {
-        named_commands$forward_word(event)
+    kb$add("c-a", filter = insert_mode)(function(event) {
+        nc$beginning_of_line(event)
     })
-    kb$add(Keys$Escape, 'b', filter = insert_mode)(function(event) {
-        named_commands$backward_word(event)
+    kb$add("c-b", filter = insert_mode)(function(event) {
+        nc$backward_char(event)
+    })
+    ## ControlD already works
+    kb$add("c-e", filter = insert_mode)(function(event) {
+        nc$end_of_line(event)
+    })
+    kb$add("c-f", filter = insert_mode)(function(event) {
+        nc$forward_char(event)
+    })
+    ## ControlH already works
+    kb$add("c-k", filter = insert_mode)(function(event) {
+        nc$kill_line(event)
+    })
+    ## ControlR, ControlT, and ControlU already work
+    ## ControlW: use backward_kill_word instead of unix_word_rubout
+    kb$add("c-w", filter = insert_mode)(function(event) {
+        nc$backward_kill_word(event)
+    })
+    kb$add("c-y", filter = insert_mode)(function(event) {
+        nc$yank(event)
+    })
+    kb$add("c-_", filter = insert_mode)(function(event) {
+        nc$undo(event)
+    })
+    kb$add("c-x", "c-e", filter = insert_mode)(function(event) {
+        nc$edit_and_execute(event)
+    })
+    kb$add("c-x", "e", filter = insert_mode)(function(event) {
+        nc$edit_and_execute(event)
+    })
+    kb$add("escape", 'b', filter = insert_mode)(function(event) {
+        nc$backward_word(event)
+    })
+    kb$add("escape", 'c', filter = insert_mode)(function(event) {
+        nc$capitalize_word(event)
+    })
+    kb$add("escape", 'd', filter = insert_mode)(function(event) {
+        nc$kill_word(event)
+    })
+    kb$add("escape", 'f', filter = insert_mode)(function(event) {
+        nc$forward_word(event)
+    })
+    kb$add("escape", 'h', filter = insert_mode)(function(event) {
+        nc$backward_kill_word(event)
+    })
+    kb$add("escape", 'l', filter = insert_mode)(function(event) {
+        nc$downcase_word(event)
+    })
+    kb$add("escape", 'u', filter = insert_mode)(function(event) {
+        nc$uppercase_word(event)
+    })
+    kb$add("escape", 'y', filter = insert_mode)(function(event) {
+        nc$yank_pop(event)
+    })
+    kb$add("escape", '.', filter = insert_mode)(function(event) {
+        nc$yank_last_arg(event)
     })
 
 }))

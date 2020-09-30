@@ -11,8 +11,9 @@ from prompt_toolkit.application.current import get_app
 from prompt_toolkit.key_binding.vi_state import InputMode, ViState
 from prompt_toolkit.filters import ViInsertMode
 from prompt_toolkit.key_binding.key_processor import KeyPress
-from prompt_toolkit.keys import Keys
 from prompt_toolkit.styles import Style
+from prompt_toolkit.key_binding.bindings import named_commands as nc
+
 
 from ptpython.layout import CompletionVisualisation
 
@@ -134,51 +135,87 @@ def configure(repl):
     repl.use_ui_colorscheme('my-colorscheme')
     """
 
-    # Add custom key binding for PDB.
-    """
-    @repl.add_key_binding(Keys.ControlB)
+    @repl.add_key_binding("c-a")
     def _(event):
-        ' Pressing Control-B will insert "pdb.set_trace()" '
-        event.cli.current_buffer.insert_text('\nimport pdb; pdb.set_trace()\n')
-    """
+        nc.beginning_of_line(event)
 
-    # Typing ControlE twice should also execute the current command.
-    # (Alternative for Meta-Enter.)
-    """
-    @repl.add_key_binding(Keys.ControlE, Keys.ControlE)
+    @repl.add_key_binding("c-b")
     def _(event):
-        event.current_buffer.validate_and_handle()
-    """
+        nc.backward_char(event)
 
-    # Typing 'jj' in Vi Insert mode, should send escape. (Go back to navigation
-    # mode.)
-    """
-    @repl.add_key_binding('j', 'j', filter=ViInsertMode())
+    ## ControlD already works
+
+    @repl.add_key_binding("c-e")
     def _(event):
-        " Map 'jj' to Escape. "
-        event.cli.key_processor.feed(KeyPress(Keys.Escape))
-    """
+        nc.end_of_line(event)
 
-    # Custom key binding for some simple autocorrection while typing.
-    """
-    corrections = {
-        'impotr': 'import',
-        'pritn': 'print',
-    }
-
-    @repl.add_key_binding(' ')
+    @repl.add_key_binding("c-f")
     def _(event):
-        ' When a space is pressed. Check & correct word before cursor. '
-        b = event.cli.current_buffer
-        w = b.document.get_word_before_cursor()
+        nc.forward_char(event)
 
-        if w is not None:
-            if w in corrections:
-                b.delete_before_cursor(count=len(w))
-                b.insert_text(corrections[w])
+    ## ControlH already works
 
-        b.insert_text(' ')
-    """
+    @repl.add_key_binding("c-k")
+    def _(event):
+        nc.kill_line(event)
+
+    ## ControlR, ControlT, and ControlU already work
+    ## ControlW: use backward_kill_word instead of unix_word_rubout
+    @repl.add_key_binding("c-w")
+    def _(event):
+        nc.backward_kill_word(event)
+
+    @repl.add_key_binding("c-y")
+    def _(event):
+        nc.yank(event)
+
+    @repl.add_key_binding("c-_")
+    def _(event):
+        nc.undo(event)
+
+    @repl.add_key_binding("c-x", "c-e")
+    def _(event):
+        nc.edit_and_execute(event)
+
+    @repl.add_key_binding("c-x", "e")
+    def _(event):
+        nc.edit_and_execute(event)
+
+    @repl.add_key_binding("escape", "b")
+    def _(event):
+        nc.backward_word(event)
+
+    @repl.add_key_binding("escape", "c")
+    def _(event):
+        nc.capitalize_word(event)
+
+    @repl.add_key_binding("escape", "d")
+    def _(event):
+        nc.kill_word(event)
+
+    @repl.add_key_binding("escape", "f")
+    def _(event):
+        nc.forward_word(event)
+
+    @repl.add_key_binding("escape", "h")
+    def _(event):
+        nc.backward_kill_word(event)
+
+    @repl.add_key_binding("escape", "l")
+    def _(event):
+        nc.downcase_word(event)
+
+    @repl.add_key_binding("escape", "u")
+    def _(event):
+        nc.uppercase_word(event)
+
+    @repl.add_key_binding("escape", "y")
+    def _(event):
+        nc.yank_pop(event)
+
+    @repl.add_key_binding("escape", ".")
+    def _(event):
+        nc.yank_last_arg(event)
 
     # Add a custom title to the status bar. This is useful when ptpython is
     # embedded in other applications.

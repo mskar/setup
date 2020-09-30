@@ -33,6 +33,7 @@ for key, cmd in key_cmd_dict.items():
 keys_cmd_dict = {
     # Control
     ("c-x", "c-e"): nc.edit_and_execute,
+    ("c-x", "e"): nc.edit_and_execute,
     # Alt
     ("escape", "b"): nc.backward_word,
     ("escape", "c"): nc.capitalize_word,
