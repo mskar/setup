@@ -13,11 +13,13 @@ from prompt_toolkit.filters import ViInsertMode
 from prompt_toolkit.key_binding.key_processor import KeyPress
 from prompt_toolkit.styles import Style
 from prompt_toolkit.key_binding.bindings import named_commands as nc
-
-
+from prompt_toolkit.filters import HasFocus, ViInsertMode
+from prompt_toolkit.enums import DEFAULT_BUFFER
 from ptpython.layout import CompletionVisualisation
 
 __all__ = ("configure",)
+
+focused_insert = (HasFocus(DEFAULT_BUFFER) & ViInsertMode())
 
 def configure(repl):
     """
@@ -135,87 +137,137 @@ def configure(repl):
     repl.use_ui_colorscheme('my-colorscheme')
     """
 
-    @repl.add_key_binding("c-a")
+    @repl.add_key_binding("c-a", filter=focused_insert)
     def _(event):
         nc.beginning_of_line(event)
 
-    @repl.add_key_binding("c-b")
+    @repl.add_key_binding("c-b", filter=focused_insert)
     def _(event):
         nc.backward_char(event)
 
     ## ControlD already works
 
-    @repl.add_key_binding("c-e")
+    @repl.add_key_binding("c-e", filter=focused_insert)
     def _(event):
         nc.end_of_line(event)
 
-    @repl.add_key_binding("c-f")
+    @repl.add_key_binding("c-f", filter=focused_insert)
     def _(event):
         nc.forward_char(event)
 
     ## ControlH already works
 
-    @repl.add_key_binding("c-k")
+    @repl.add_key_binding("c-k", filter=focused_insert)
     def _(event):
         nc.kill_line(event)
 
     ## ControlR, ControlT, and ControlU already work
     ## ControlW: use backward_kill_word instead of unix_word_rubout
-    @repl.add_key_binding("c-w")
+    @repl.add_key_binding("c-w", filter=focused_insert)
     def _(event):
         nc.backward_kill_word(event)
 
-    @repl.add_key_binding("c-y")
+    @repl.add_key_binding("c-y", filter=focused_insert)
     def _(event):
         nc.yank(event)
 
-    @repl.add_key_binding("c-_")
+    @repl.add_key_binding("c-_", filter=focused_insert)
     def _(event):
         nc.undo(event)
 
-    @repl.add_key_binding("c-x", "c-e")
+    @repl.add_key_binding("c-x", "c-e", filter=focused_insert)
     def _(event):
         nc.edit_and_execute(event)
 
-    @repl.add_key_binding("c-x", "e")
+    @repl.add_key_binding("c-x", "e", filter=focused_insert)
     def _(event):
         nc.edit_and_execute(event)
 
-    @repl.add_key_binding("escape", "b")
+    @repl.add_key_binding("escape", "b", filter=focused_insert)
     def _(event):
         nc.backward_word(event)
 
-    @repl.add_key_binding("escape", "c")
+    @repl.add_key_binding("escape", "c", filter=focused_insert)
     def _(event):
         nc.capitalize_word(event)
 
-    @repl.add_key_binding("escape", "d")
+    @repl.add_key_binding("escape", "d", filter=focused_insert)
     def _(event):
         nc.kill_word(event)
 
-    @repl.add_key_binding("escape", "f")
+    @repl.add_key_binding("escape", "f", filter=focused_insert)
     def _(event):
         nc.forward_word(event)
 
-    @repl.add_key_binding("escape", "h")
+    @repl.add_key_binding("escape", "h", filter=focused_insert)
     def _(event):
         nc.backward_kill_word(event)
 
-    @repl.add_key_binding("escape", "l")
+    @repl.add_key_binding("escape", "l", filter=focused_insert)
     def _(event):
         nc.downcase_word(event)
 
-    @repl.add_key_binding("escape", "u")
+    @repl.add_key_binding("escape", "u", filter=focused_insert)
     def _(event):
         nc.uppercase_word(event)
 
-    @repl.add_key_binding("escape", "y")
+    @repl.add_key_binding("escape", "y", filter=focused_insert)
     def _(event):
         nc.yank_pop(event)
 
-    @repl.add_key_binding("escape", ".")
+    @repl.add_key_binding("escape", ".", filter=focused_insert)
     def _(event):
         nc.yank_last_arg(event)
+
+    @repl.add_key_binding("c-space", filter=focused_insert)
+    def _(event):
+        b = event.app.current_buffer
+        if b.complete_state:
+            b.complete_next()
+        else:
+            b.start_completion(select_first=True)
+
+    @repl.add_key_binding('"', filter=focused_insert)
+    def _(event):
+        buffer = event.current_buffer
+        buffer.insert_text('"')
+        buffer.insert_text('"', move_cursor=False)
+
+    @repl.add_key_binding("'", filter=focused_insert)
+    def _(event):
+        buffer = event.current_buffer
+        buffer.insert_text("'")
+        buffer.insert_text("'", move_cursor=False)
+
+    @repl.add_key_binding("(", filter=focused_insert)
+    def _(event):
+        buffer = event.current_buffer
+        buffer.insert_text("(")
+        buffer.insert_text(")", move_cursor=False)
+
+    @repl.add_key_binding("{", filter=focused_insert)
+    def _(event):
+        buffer = event.current_buffer
+        buffer.insert_text("{")
+        buffer.insert_text("}", move_cursor=False)
+
+    @repl.add_key_binding("[", filter=focused_insert)
+    def _(event):
+        buffer = event.current_buffer
+        buffer.insert_text("[")
+        buffer.insert_text("]", move_cursor=False)
+
+    @repl.add_key_binding("<", filter=focused_insert)
+    def _(event):
+        buffer = event.current_buffer
+        buffer.insert_text("<")
+        buffer.insert_text(">", move_cursor=False)
+
+    @repl.add_key_binding("`", filter=focused_insert)
+    def _(event):
+        buffer = event.current_buffer
+        buffer.insert_text("`")
+        buffer.insert_text("`", move_cursor=False)
 
     # Add a custom title to the status bar. This is useful when ptpython is
     # embedded in other applications.

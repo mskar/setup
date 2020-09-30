@@ -49,3 +49,52 @@ keys_cmd_dict = {
 for keys, cmd in keys_cmd_dict.items():
     registry.add_binding(*keys, filter=focused_insert)(cmd)
 
+def _(event):
+    b = event.app.current_buffer
+    if b.complete_state:
+        b.complete_next()
+    else:
+        b.start_completion(select_first=True)
+registry.add_binding("c-space", filter=focused_insert)(_)
+
+def _(event):
+    buffer = event.current_buffer
+    buffer.insert_text('"')
+    buffer.insert_text('"', move_cursor=False)
+registry.add_binding('"', filter=focused_insert)(_)
+
+def _(event):
+    buffer = event.current_buffer
+    buffer.insert_text("'")
+    buffer.insert_text("'", move_cursor=False)
+registry.add_binding("'", filter=focused_insert)(_)
+
+def _(event):
+    buffer = event.current_buffer
+    buffer.insert_text("(")
+    buffer.insert_text(")", move_cursor=False)
+registry.add_binding("(", filter=focused_insert)(_)
+
+def _(event):
+    buffer = event.current_buffer
+    buffer.insert_text("{")
+    buffer.insert_text("}", move_cursor=False)
+registry.add_binding("{", filter=focused_insert)(_)
+
+def _(event):
+    buffer = event.current_buffer
+    buffer.insert_text("[")
+    buffer.insert_text("]", move_cursor=False)
+registry.add_binding("[", filter=focused_insert)(_)
+
+def _(event):
+    buffer = event.current_buffer
+    buffer.insert_text("<")
+    buffer.insert_text(">", move_cursor=False)
+registry.add_binding("<", filter=focused_insert)(_)
+
+def _(event):
+    buffer = event.current_buffer
+    buffer.insert_text("`")
+    buffer.insert_text("`", move_cursor=False)
+registry.add_binding("`", filter=focused_insert)(_)

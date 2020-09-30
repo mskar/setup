@@ -73,5 +73,7 @@ options(radian.on_load_hooks = list(function() {
     kb$add("escape", '.', filter = insert_mode)(function(event) {
         nc$yank_last_arg(event)
     })
-
+    kb$add("c-space", filter = insert_mode)(function(event) {
+        event$app$current_buffer$start_completion(select_first = TRUE)
+    })
 }))
