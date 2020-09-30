@@ -177,7 +177,7 @@ $(NVIM):
 	-pip install radian
 ~/.radian_profile: ~/mskar/setup/.radian_profile
 	curl https://raw.githubusercontent.com/mskar/setup/master/.radian_profile -o ~/.radian_profile
-	ln -sf .radian_profile radian_profile.R
+	ln -sf ~/.radian_profile ~/radian_profile.R
 $(RENAME):
 	-brew install rename
 ~/mskar/setup/:
