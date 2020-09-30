@@ -2,6 +2,8 @@
 # https://ipython.readthedocs.io/en/latest/config/details.html#keyboard-shortcuts
 # https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/prompt_toolkit/key_binding/bindings/named_commands.py
 
+import re
+
 from IPython import get_ipython
 from prompt_toolkit.filters import HasFocus, ViInsertMode
 from prompt_toolkit.enums import DEFAULT_BUFFER
@@ -15,8 +17,7 @@ key_cmd_dict = {
     "c-a": nc.beginning_of_line,
     "c-b": nc.backward_char,
     ## ControlD already works
-    "c-e": nc.end_of_line,
-    "c-f": nc.forward_char,
+    ## ControlE and F are below
     ## ControlH already works
     "c-k": nc.kill_line,
     ## ControlR, ControlT, and ControlU already work
@@ -38,7 +39,7 @@ keys_cmd_dict = {
     ("escape", "b"): nc.backward_word,
     ("escape", "c"): nc.capitalize_word,
     ("escape", "d"): nc.kill_word,
-    ("escape", "f"): nc.forward_word,
+    ## AltF is below
     ("escape", "h"): nc.backward_kill_word,
     ("escape", "l"): nc.downcase_word,
     ("escape", "u"): nc.uppercase_word,
@@ -48,6 +49,35 @@ keys_cmd_dict = {
 
 for keys, cmd in keys_cmd_dict.items():
     registry.add_binding(*keys, filter=focused_insert)(cmd)
+
+
+def _(event):
+    b = event.current_buffer
+    suggestion = b.suggestion
+    if suggestion:
+        b.insert_text(suggestion.text)
+    else:
+        nc.end_of_line(event)
+registry.add_binding("c-e", filter=focused_insert)(_)
+
+def _(event):
+    b = event.current_buffer
+    suggestion = b.suggestion
+    if suggestion:
+        b.insert_text(suggestion.text)
+    else:
+        nc.forward_char(event)
+registry.add_binding("c-f", filter=focused_insert)(_)
+
+def _(event):
+    b = event.current_buffer
+    suggestion = b.suggestion
+    if suggestion:
+        t = re.split(r"(\S+\s+)", suggestion.text)
+        b.insert_text(next((x for x in t if x), ""))
+    else:
+        nc.forward_word(event)
+registry.add_binding("escape", "f", filter=focused_insert)(_)
 
 def _(event):
     b = event.app.current_buffer
