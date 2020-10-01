@@ -296,50 +296,121 @@ def configure(repl):
                 b.complete_next()
                 b.apply_completion(b.complete_state.current_completion)
 
-# TODO Add filters from radian
+# Add filters from radian
 # https://github.com/randy3k/radian/blob/455e29d443d615ee80a681a29583a7e24769687b/radian/key_bindings.py#L171
 
-    @repl.add_key_binding('"', filter=focused_insert)
-    def _(event):
-        buffer = event.current_buffer
-        buffer.insert_text('"')
-        buffer.insert_text('"', move_cursor=False)
+    _preceding_text_cache = {}
+    _following_text_cache = {}
 
-    @repl.add_key_binding("'", filter=focused_insert)
-    def _(event):
-        buffer = event.current_buffer
-        buffer.insert_text("'")
-        buffer.insert_text("'", move_cursor=False)
 
-    @repl.add_key_binding("(", filter=focused_insert)
-    def _(event):
-        buffer = event.current_buffer
-        buffer.insert_text("(")
-        buffer.insert_text(")", move_cursor=False)
+    def preceding_text(pattern):
+        try:
+            return _preceding_text_cache[pattern]
+        except KeyError:
+            pass
+        m = re.compile(pattern)
 
-    @repl.add_key_binding("{", filter=focused_insert)
-    def _(event):
-        buffer = event.current_buffer
-        buffer.insert_text("{")
-        buffer.insert_text("}", move_cursor=False)
+        def _preceding_text():
+            app = get_app()
+            return bool(m.match(app.current_buffer.document.current_line_before_cursor))
 
-    @repl.add_key_binding("[", filter=focused_insert)
-    def _(event):
-        buffer = event.current_buffer
-        buffer.insert_text("[")
-        buffer.insert_text("]", move_cursor=False)
+        condition = filters.Condition(_preceding_text)
+        _preceding_text_cache[pattern] = condition
+        return condition
 
-    @repl.add_key_binding("<", filter=focused_insert)
-    def _(event):
-        buffer = event.current_buffer
-        buffer.insert_text("<")
-        buffer.insert_text(">", move_cursor=False)
 
-    @repl.add_key_binding("`", filter=focused_insert)
+    def following_text(pattern):
+        try:
+            return _following_text_cache[pattern]
+        except KeyError:
+            pass
+        m = re.compile(pattern)
+
+        def _following_text():
+            app = get_app()
+            return bool(m.match(app.current_buffer.document.current_line_after_cursor))
+
+        condition = filters.Condition(_following_text)
+        _following_text_cache[pattern] = condition
+        return condition
+
+
+    # auto match
+    @repl.add_key_binding('(', filter=focused_insert & following_text(r"[,)}\]]|$"))
     def _(event):
-        buffer = event.current_buffer
-        buffer.insert_text("`")
-        buffer.insert_text("`", move_cursor=False)
+        event.current_buffer.insert_text("()")
+        event.current_buffer.cursor_left()
+
+    @repl.add_key_binding('[', filter=focused_insert & following_text(r"[,)}\]]|$"))
+    def _(event):
+        event.current_buffer.insert_text("[]")
+        event.current_buffer.cursor_left()
+
+    @repl.add_key_binding('{', filter=focused_insert & following_text(r"[,)}\]]|$"))
+    def _(event):
+        event.current_buffer.insert_text("{}")
+        event.current_buffer.cursor_left()
+
+    @repl.add_key_binding('"', filter=focused_insert & following_text(r"[,)}\]]|$"))
+    def _(event):
+        event.current_buffer.insert_text('""')
+        event.current_buffer.cursor_left()
+
+    @repl.add_key_binding("'", filter=focused_insert & following_text(r"[,)}\]]|$"))
+    def _(event):
+        event.current_buffer.insert_text("''")
+        event.current_buffer.cursor_left()
+
+    # raw string
+    @repl.add_key_binding('(', filter=focused_insert & preceding_text(r".*(r|R)[\"'](-*)$"))
+    def _(event):
+        matches = re.match(r".*(r|R)[\"'](-*)", event.current_buffer.document.current_line_before_cursor)
+        dashes = matches.group(2) or ""
+        event.current_buffer.insert_text("()" + dashes)
+        event.current_buffer.cursor_left(len(dashes) + 1)
+
+    @repl.add_key_binding('[', filter=focused_insert & preceding_text(r".*(r|R)[\"'](-*)$"))
+    def _(event):
+        matches = re.match(r".*(r|R)[\"'](-*)", event.current_buffer.document.current_line_before_cursor)
+        dashes = matches.group(2) or ""
+        event.current_buffer.insert_text("[]" + dashes)
+        event.current_buffer.cursor_left(len(dashes) + 1)
+
+    @repl.add_key_binding('{', filter=focused_insert & preceding_text(r".*(r|R)[\"'](-*)$"))
+    def _(event):
+        matches = re.match(r".*(r|R)[\"'](-*)", event.current_buffer.document.current_line_before_cursor)
+        dashes = matches.group(2) or ""
+        event.current_buffer.insert_text("{}" + dashes)
+        event.current_buffer.cursor_left(len(dashes) + 1)
+
+    @repl.add_key_binding('"', filter=focused_insert & preceding_text(r".*(r|R)$"))
+    def _(event):
+        event.current_buffer.insert_text('""')
+        event.current_buffer.cursor_left()
+
+    @repl.add_key_binding("'", filter=focused_insert & preceding_text(r".*(r|R)$"))
+    def _(event):
+        event.current_buffer.insert_text("''")
+        event.current_buffer.cursor_left()
+
+    # just move cursor
+    @repl.add_key_binding(')', filter=focused_insert & following_text(r"^\)"))
+    @repl.add_key_binding(']', filter=focused_insert & following_text(r"^\]"))
+    @repl.add_key_binding('}', filter=focused_insert & following_text(r"^\}"))
+    @repl.add_key_binding('"', filter=focused_insert & following_text("^\""))
+    @repl.add_key_binding("'", filter=focused_insert & following_text("^'"))
+    def _(event):
+        event.current_buffer.cursor_right()
+
+    @repl.add_key_binding('backspace', filter=focused_insert & preceding_text(r".*\($") & following_text(r"^\)"))
+    @repl.add_key_binding('backspace', filter=focused_insert & preceding_text(r".*\[$") & following_text(r"^\]"))
+    @repl.add_key_binding('backspace', filter=focused_insert & preceding_text(r".*\{$") & following_text(r"^\}"))
+    @repl.add_key_binding('backspace', filter=focused_insert & preceding_text('.*"$') & following_text('^"'))
+    @repl.add_key_binding('backspace', filter=focused_insert & preceding_text(r".*'$") & following_text(r"^'"))
+    def _(event):
+        event.current_buffer.delete()
+        event.current_buffer.delete_before_cursor()
+
 
     # Add a custom title to the status bar. This is useful when ptpython is
     # embedded in other applications.
@@ -363,7 +434,7 @@ def get_input_mode(self):
         # Decrease input flush timeout from 500ms to 10ms.
         app = get_app()
         app.ttimeoutlen = 0.01
-        # Decrease handler call timeout from 1s to 400ms
+        # Decrease repl.add_key_bindingr call timeout from 1s to 400ms
         app.timeoutlen = 0.4
 
     return self._input_mode

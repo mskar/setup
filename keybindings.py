@@ -8,10 +8,12 @@ from IPython import get_ipython
 from prompt_toolkit import filters
 from prompt_toolkit.enums import DEFAULT_BUFFER
 from prompt_toolkit.completion import CompleteEvent
+from prompt_toolkit.application.current import get_app
 from prompt_toolkit.key_binding.bindings import named_commands as nc
 
 ip = get_ipython()
 registry = ip.pt_app.key_bindings
+handle = registry.add
 focused_insert = filters.has_focus(DEFAULT_BUFFER) & filters.vi_insert_mode
 focused_insert_and_completion = focused_insert & filters.has_completions
 
@@ -53,6 +55,7 @@ for keys, cmd in keys_cmd_dict.items():
     registry.add_binding(*keys, filter=focused_insert)(cmd)
 
 
+@handle("c-e", filter=focused_insert)
 def _(event):
     b = event.current_buffer
     suggestion = b.suggestion
@@ -60,8 +63,8 @@ def _(event):
         b.insert_text(suggestion.text)
     else:
         nc.end_of_line(event)
-registry.add_binding("c-e", filter=focused_insert)(_)
 
+@handle("c-f", filter=focused_insert)
 def _(event):
     b = event.current_buffer
     suggestion = b.suggestion
@@ -69,8 +72,8 @@ def _(event):
         b.insert_text(suggestion.text)
     else:
         nc.forward_char(event)
-registry.add_binding("c-f", filter=focused_insert)(_)
 
+@handle("escape", "f", filter=focused_insert)
 def _(event):
     b = event.current_buffer
     suggestion = b.suggestion
@@ -79,7 +82,6 @@ def _(event):
         b.insert_text(next((x for x in t if x), ""))
     else:
         nc.forward_word(event)
-registry.add_binding("escape", "f", filter=focused_insert)(_)
 
 
 # Make completion work like in RStudio, VSCode, PyCharm, etc.
@@ -91,6 +93,7 @@ registry.add_binding("escape", "f", filter=focused_insert)(_)
 # Unchanged: move through options with c-n and c-p
 # https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/prompt_toolkit/key_binding/bindings/completion.py
 
+@handle("tab", filter=focused_insert)
 def _(event):
     b = event.current_buffer
     if b.completer is None:
@@ -108,8 +111,8 @@ def _(event):
     else: # completion menu, but no selection
         b.complete_next()
         b.apply_completion(b.complete_state.current_completion)
-registry.add_binding("tab", filter=focused_insert)(_)
 
+@handle("c-space", filter=focused_insert)
 def _(event):
     b = event.current_buffer
     if b.completer is None:
@@ -127,8 +130,8 @@ def _(event):
     else: # completion menu, but no selection
         b.complete_next()
         b.apply_completion(b.complete_state.current_completion)
-registry.add_binding("c-space", filter=focused_insert)(_)
 
+@handle("enter", filter=focused_insert)
 def _(event):
     b = event.current_buffer
     if b.complete_state: # make sure completion menu is showing
@@ -137,49 +140,118 @@ def _(event):
         else: # completion menu, but no selection
             b.complete_next()
             b.apply_completion(b.complete_state.current_completion)
-registry.add_binding("enter", filter=focused_insert_and_completion)(_)
 
-# TODO Add filters from radian
+# Add filters from radian
 # https://github.com/randy3k/radian/blob/455e29d443d615ee80a681a29583a7e24769687b/radian/key_bindings.py#L171
+_preceding_text_cache = {}
+_following_text_cache = {}
 
-def _(event):
-    buffer = event.current_buffer
-    buffer.insert_text('"')
-    buffer.insert_text('"', move_cursor=False)
-registry.add_binding('"', filter=focused_insert)(_)
 
-def _(event):
-    buffer = event.current_buffer
-    buffer.insert_text("'")
-    buffer.insert_text("'", move_cursor=False)
-registry.add_binding("'", filter=focused_insert)(_)
+def preceding_text(pattern):
+    try:
+        return _preceding_text_cache[pattern]
+    except KeyError:
+        pass
+    m = re.compile(pattern)
 
-def _(event):
-    buffer = event.current_buffer
-    buffer.insert_text("(")
-    buffer.insert_text(")", move_cursor=False)
-registry.add_binding("(", filter=focused_insert)(_)
+    def _preceding_text():
+        app = get_app()
+        return bool(m.match(app.current_buffer.document.current_line_before_cursor))
 
-def _(event):
-    buffer = event.current_buffer
-    buffer.insert_text("{")
-    buffer.insert_text("}", move_cursor=False)
-registry.add_binding("{", filter=focused_insert)(_)
+    condition = filters.Condition(_preceding_text)
+    _preceding_text_cache[pattern] = condition
+    return condition
 
-def _(event):
-    buffer = event.current_buffer
-    buffer.insert_text("[")
-    buffer.insert_text("]", move_cursor=False)
-registry.add_binding("[", filter=focused_insert)(_)
 
-def _(event):
-    buffer = event.current_buffer
-    buffer.insert_text("<")
-    buffer.insert_text(">", move_cursor=False)
-registry.add_binding("<", filter=focused_insert)(_)
+def following_text(pattern):
+    try:
+        return _following_text_cache[pattern]
+    except KeyError:
+        pass
+    m = re.compile(pattern)
 
+    def _following_text():
+        app = get_app()
+        return bool(m.match(app.current_buffer.document.current_line_after_cursor))
+
+    condition = filters.Condition(_following_text)
+    _following_text_cache[pattern] = condition
+    return condition
+
+
+# auto match
+@handle('(', filter=focused_insert & following_text(r"[,)}\]]|$"))
 def _(event):
-    buffer = event.current_buffer
-    buffer.insert_text("`")
-    buffer.insert_text("`", move_cursor=False)
-registry.add_binding("`", filter=focused_insert)(_)
+    event.current_buffer.insert_text("()")
+    event.current_buffer.cursor_left()
+
+@handle('[', filter=focused_insert & following_text(r"[,)}\]]|$"))
+def _(event):
+    event.current_buffer.insert_text("[]")
+    event.current_buffer.cursor_left()
+
+@handle('{', filter=focused_insert & following_text(r"[,)}\]]|$"))
+def _(event):
+    event.current_buffer.insert_text("{}")
+    event.current_buffer.cursor_left()
+
+@handle('"', filter=focused_insert & following_text(r"[,)}\]]|$"))
+def _(event):
+    event.current_buffer.insert_text('""')
+    event.current_buffer.cursor_left()
+
+@handle("'", filter=focused_insert & following_text(r"[,)}\]]|$"))
+def _(event):
+    event.current_buffer.insert_text("''")
+    event.current_buffer.cursor_left()
+
+# raw string
+@handle('(', filter=focused_insert & preceding_text(r".*(r|R)[\"'](-*)$"))
+def _(event):
+    matches = re.match(r".*(r|R)[\"'](-*)", event.current_buffer.document.current_line_before_cursor)
+    dashes = matches.group(2) or ""
+    event.current_buffer.insert_text("()" + dashes)
+    event.current_buffer.cursor_left(len(dashes) + 1)
+
+@handle('[', filter=focused_insert & preceding_text(r".*(r|R)[\"'](-*)$"))
+def _(event):
+    matches = re.match(r".*(r|R)[\"'](-*)", event.current_buffer.document.current_line_before_cursor)
+    dashes = matches.group(2) or ""
+    event.current_buffer.insert_text("[]" + dashes)
+    event.current_buffer.cursor_left(len(dashes) + 1)
+
+@handle('{', filter=focused_insert & preceding_text(r".*(r|R)[\"'](-*)$"))
+def _(event):
+    matches = re.match(r".*(r|R)[\"'](-*)", event.current_buffer.document.current_line_before_cursor)
+    dashes = matches.group(2) or ""
+    event.current_buffer.insert_text("{}" + dashes)
+    event.current_buffer.cursor_left(len(dashes) + 1)
+
+@handle('"', filter=focused_insert & preceding_text(r".*(r|R)$"))
+def _(event):
+    event.current_buffer.insert_text('""')
+    event.current_buffer.cursor_left()
+
+@handle("'", filter=focused_insert & preceding_text(r".*(r|R)$"))
+def _(event):
+    event.current_buffer.insert_text("''")
+    event.current_buffer.cursor_left()
+
+# just move cursor
+@handle(')', filter=focused_insert & following_text(r"^\)"))
+@handle(']', filter=focused_insert & following_text(r"^\]"))
+@handle('}', filter=focused_insert & following_text(r"^\}"))
+@handle('"', filter=focused_insert & following_text("^\""))
+@handle("'", filter=focused_insert & following_text("^'"))
+def _(event):
+    event.current_buffer.cursor_right()
+
+@handle('backspace', filter=focused_insert & preceding_text(r".*\($") & following_text(r"^\)"))
+@handle('backspace', filter=focused_insert & preceding_text(r".*\[$") & following_text(r"^\]"))
+@handle('backspace', filter=focused_insert & preceding_text(r".*\{$") & following_text(r"^\}"))
+@handle('backspace', filter=focused_insert & preceding_text('.*"$') & following_text('^"'))
+@handle('backspace', filter=focused_insert & preceding_text(r".*'$") & following_text(r"^'"))
+def _(event):
+    event.current_buffer.delete()
+    event.current_buffer.delete_before_cursor()
+
