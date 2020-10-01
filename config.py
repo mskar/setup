@@ -6,6 +6,7 @@ Copy this file to $XDG_CONFIG_HOME/ptpython/config.py
 from __future__ import unicode_literals
 
 import sys
+import re
 
 from prompt_toolkit.application.current import get_app
 from prompt_toolkit.key_binding.vi_state import InputMode, ViState
@@ -13,13 +14,13 @@ from prompt_toolkit.filters import ViInsertMode
 from prompt_toolkit.key_binding.key_processor import KeyPress
 from prompt_toolkit.styles import Style
 from prompt_toolkit.key_binding.bindings import named_commands as nc
-from prompt_toolkit.filters import HasFocus, ViInsertMode
+from prompt_toolkit import filters
 from prompt_toolkit.enums import DEFAULT_BUFFER
+from prompt_toolkit.completion import CompleteEvent
 from ptpython.layout import CompletionVisualisation
 
 __all__ = ("configure",)
 
-focused_insert = (HasFocus(DEFAULT_BUFFER) & ViInsertMode())
 
 def configure(repl):
     """
@@ -31,7 +32,7 @@ def configure(repl):
     repl.show_signature = True
 
     # Show docstring (bool).
-    repl.show_docstring = False
+    repl.show_docstring = True
 
     # Show the "[Meta+Enter] Execute" message when pressing [Enter] only
     # inserts a newline instead of executing the code.
@@ -95,7 +96,7 @@ def configure(repl):
 
     # Enable auto suggestions. (Pressing right arrow will complete the input,
     # based on the history.)
-    repl.enable_auto_suggest = False
+    repl.enable_auto_suggest = True
 
     # Enable open-in-editor. Pressing C-x C-e in emacs mode or 'v' in
     # Vi navigation mode will open the input in the current editor.
@@ -137,6 +138,9 @@ def configure(repl):
     repl.use_ui_colorscheme('my-colorscheme')
     """
 
+    focused_insert = filters.has_focus(DEFAULT_BUFFER) & filters.vi_insert_mode
+    focused_insert_and_completion = focused_insert & filters.has_completions
+
     @repl.add_key_binding("c-a", filter=focused_insert)
     def _(event):
         nc.beginning_of_line(event)
@@ -149,11 +153,21 @@ def configure(repl):
 
     @repl.add_key_binding("c-e", filter=focused_insert)
     def _(event):
-        nc.end_of_line(event)
+        b = event.current_buffer
+        suggestion = b.suggestion
+        if suggestion:
+            b.insert_text(suggestion.text)
+        else:
+            nc.end_of_line(event)
 
     @repl.add_key_binding("c-f", filter=focused_insert)
     def _(event):
-        nc.forward_char(event)
+        b = event.current_buffer
+        suggestion = b.suggestion
+        if suggestion:
+            b.insert_text(suggestion.text)
+        else:
+            nc.forward_char(event)
 
     ## ControlH already works
 
@@ -197,7 +211,13 @@ def configure(repl):
 
     @repl.add_key_binding("escape", "f", filter=focused_insert)
     def _(event):
-        nc.forward_word(event)
+        b = event.current_buffer
+        suggestion = b.suggestion
+        if suggestion:
+            t = re.split(r"(\S+\s+)", suggestion.text)
+            b.insert_text(next((x for x in t if x), ""))
+        else:
+            nc.forward_word(event)
 
     @repl.add_key_binding("escape", "h", filter=focused_insert)
     def _(event):
@@ -219,13 +239,65 @@ def configure(repl):
     def _(event):
         nc.yank_last_arg(event)
 
+# Make completion work like in RStudio, VSCode, PyCharm, etc.
+# Changed: when triggering completion with tab,
+# insert text that all options have in common
+# Changed: use Tab to accept only option or accept selected
+# Unchanged: use Enter to accept if completion menu is showing
+# Changed: do not move through options with not tab and shift-tab
+# Unchanged: move through options with c-n and c-p
+# https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/prompt_toolkit/key_binding/bindings/completion.py
+
+    @repl.add_key_binding("tab", filter=focused_insert)
+    def _(event):
+        b = event.current_buffer
+        if b.completer is None:
+            return
+        complete_event = CompleteEvent(completion_requested=True)
+        completions = list(b.completer.get_completions(b.document, complete_event))
+        if len(completions) == 1: # only one possible completion
+            if completions[0].start_position is not None:
+                b.delete_before_cursor(-completions[0].start_position)
+            b.insert_text(completions[0].text)
+        elif not b.complete_state: # no completion menu
+            b.start_completion(insert_common_part=True)
+        elif b.complete_state.current_completion: # completion menu and selection
+            b.apply_completion(b.complete_state.current_completion)
+        else: # completion menu, but no selection
+            b.complete_next()
+            b.apply_completion(b.complete_state.current_completion)
+
     @repl.add_key_binding("c-space", filter=focused_insert)
     def _(event):
-        b = event.app.current_buffer
-        if b.complete_state:
+        b = event.current_buffer
+        if b.completer is None:
+            return
+        complete_event = CompleteEvent(completion_requested=True)
+        completions = list(b.completer.get_completions(b.document, complete_event))
+        if len(completions) == 1: # only one possible completion
+            if completions[0].start_position is not None:
+                b.delete_before_cursor(-completions[0].start_position)
+            b.insert_text(completions[0].text)
+        elif not b.complete_state: # no completion menu
+            b.start_completion(insert_common_part=True)
+        elif b.complete_state.current_completion: # completion menu and selection
+            b.apply_completion(b.complete_state.current_completion)
+        else: # completion menu, but no selection
             b.complete_next()
-        else:
-            b.start_completion(select_first=True)
+            b.apply_completion(b.complete_state.current_completion)
+
+    @repl.add_key_binding("enter", filter=focused_insert_and_completion)
+    def _(event):
+        b = event.current_buffer
+        if b.complete_state: # make sure completion menu is showing
+            if b.complete_state.current_completion:
+                b.apply_completion(b.complete_state.current_completion)
+            else: # completion menu, but no selection
+                b.complete_next()
+                b.apply_completion(b.complete_state.current_completion)
+
+# TODO Add filters from radian
+# https://github.com/randy3k/radian/blob/455e29d443d615ee80a681a29583a7e24769687b/radian/key_bindings.py#L171
 
     @repl.add_key_binding('"', filter=focused_insert)
     def _(event):
