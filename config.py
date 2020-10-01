@@ -58,7 +58,7 @@ def configure(repl):
     repl.swap_light_and_dark = False
 
     # Highlight matching parethesis.
-    repl.highlight_matching_parenthesis = True
+    repl.highlight_matching_parenthesis = False
 
     # Line wrapping. (Instead of horizontal scrolling.)
     repl.wrap_lines = True
@@ -363,7 +363,8 @@ def get_input_mode(self):
         # Decrease input flush timeout from 500ms to 10ms.
         app = get_app()
         app.ttimeoutlen = 0.01
-        app.timeoutlen = 0.2
+        # Decrease handler call timeout from 1s to 400ms
+        app.timeoutlen = 0.4
 
     return self._input_mode
 

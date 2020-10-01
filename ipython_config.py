@@ -10,7 +10,8 @@ def get_input_mode(self):
         # Decrease input flush timeout from 500ms to 10ms.
         app = get_app()
         app.ttimeoutlen = 0.01
-        app.timeoutlen = 0.2
+        # Decrease handler call timeout from 1s to 400ms
+        app.timeoutlen = 0.4
 
     return self._input_mode
 
@@ -339,7 +340,7 @@ c.TerminalInteractiveShell.editor = '/usr/local/bin/nvim'
 #c.TerminalInteractiveShell.handle_return = None
 
 ## Highlight matching brackets.
-#c.TerminalInteractiveShell.highlight_matching_brackets = True
+c.TerminalInteractiveShell.highlight_matching_brackets = False
 
 ## The name or class of a Pygments style to use for syntax highlighting. To see
 #  available styles, run `pygmentize -L styles`.
