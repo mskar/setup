@@ -450,7 +450,9 @@ alias vw="func() { local files=$(echo '$(fd -e docx --type f ^ $@ | fzf --previe
 alias vz="v ~/.zshrc"
 alias w="which"
 alias ww="func() { local files=$(echo '$(fd -e js --type f ^ $@ | fzf --delimiter=/ --with-nth=4.. --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 webstorm; }; func";
-alias x="git clean -df"
+alias x="git clean -dn"
+alias xi="git clean -di"
+alias xf="git clean -df"
 alias xx="func() {local untracked=$(echo '$(git clean -dfn | sed s/^Would\ remove\ // | fzf --preview="if [[ {} == */ ]]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi")') && [ $(echo '$untracked') ] && echo $(echo '$untracked') | tr '\n' '\0' | xargs -0 git clean -df; }; func";
 alias y="fc -ln -1 | pbcopy"
 alias yy="func() { local cmds=$(echo '$(fc -ln $@ | fzf -m )') && [ $(echo '$cmds') ] && echo $(echo '$cmds') | pbcopy; }; func";
