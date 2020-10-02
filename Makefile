@@ -52,8 +52,8 @@ jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
 jupyter: ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 neovim: $(NVIM) ~/.config/nvim/init.vim
-ptpython: ~/miniconda/bin/ptpython
-radian: ~/miniconda/bin/radian
+ptpython: ~/miniconda/bin/ptpython ~/Library/Application\ Support/ptpython/config.py
+radian: ~/miniconda/bin/radian ~/.radian_profile
 rename: $(RENAME)
 repo: ~/mskar/setup
 rg: $(RG)
