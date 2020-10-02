@@ -115,7 +115,7 @@ def _(event):
         b.apply_completion(completion)
         try:
             is_func = callable(eval(completion.text))
-        except (NameError, SyntaxError):
+        except:
             is_func = False
         if is_func:
             b.insert_text("()")
@@ -136,7 +136,7 @@ def _(event):
         b.apply_completion(completion)
         try:
             is_func = callable(eval(completion.text))
-        except (NameError, SyntaxError):
+        except:
             is_func = False
         if is_func:
             b.insert_text("()")
