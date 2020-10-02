@@ -10,9 +10,6 @@ import re
 
 from prompt_toolkit.application.current import get_app
 from prompt_toolkit.key_binding.vi_state import InputMode, ViState
-from prompt_toolkit.filters import ViInsertMode
-from prompt_toolkit.key_binding.key_processor import KeyPress
-from prompt_toolkit.styles import Style
 from prompt_toolkit.key_binding.bindings import named_commands as nc
 from prompt_toolkit import filters
 from prompt_toolkit.enums import DEFAULT_BUFFER
@@ -249,24 +246,6 @@ def configure(repl):
 # https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/prompt_toolkit/key_binding/bindings/completion.py
 
     @repl.add_key_binding("tab", filter=focused_insert)
-    def _(event):
-        b = event.current_buffer
-        if b.completer is None:
-            return
-        complete_event = CompleteEvent(completion_requested=True)
-        completions = list(b.completer.get_completions(b.document, complete_event))
-        if len(completions) == 1: # only one possible completion
-            if completions[0].start_position is not None:
-                b.delete_before_cursor(-completions[0].start_position)
-            b.insert_text(completions[0].text)
-        elif not b.complete_state: # no completion menu
-            b.start_completion(insert_common_part=True)
-        elif b.complete_state.current_completion: # completion menu and selection
-            b.apply_completion(b.complete_state.current_completion)
-        else: # completion menu, but no selection
-            b.complete_next()
-            b.apply_completion(b.complete_state.current_completion)
-
     @repl.add_key_binding("c-space", filter=focused_insert)
     def _(event):
         b = event.current_buffer
@@ -275,26 +254,45 @@ def configure(repl):
         complete_event = CompleteEvent(completion_requested=True)
         completions = list(b.completer.get_completions(b.document, complete_event))
         if len(completions) == 1: # only one possible completion
-            if completions[0].start_position is not None:
-                b.delete_before_cursor(-completions[0].start_position)
-            b.insert_text(completions[0].text)
+            completion = completions[0]
         elif not b.complete_state: # no completion menu
             b.start_completion(insert_common_part=True)
+            completion = None
         elif b.complete_state.current_completion: # completion menu and selection
-            b.apply_completion(b.complete_state.current_completion)
+            completion = b.complete_state.current_completion
         else: # completion menu, but no selection
             b.complete_next()
-            b.apply_completion(b.complete_state.current_completion)
+            completion = b.complete_state.current_completion
+        if completion:
+            b.apply_completion(completion)
+            try:
+                is_func = callable(eval(completion.text))
+            except (NameError, SyntaxError):
+                is_func = False
+            if is_func:
+                b.insert_text("()")
+                b.cursor_left()
+
 
     @repl.add_key_binding("enter", filter=focused_insert_and_completion)
     def _(event):
         b = event.current_buffer
-        if b.complete_state: # make sure completion menu is showing
-            if b.complete_state.current_completion:
-                b.apply_completion(b.complete_state.current_completion)
-            else: # completion menu, but no selection
-                b.complete_next()
-                b.apply_completion(b.complete_state.current_completion)
+        if b.completer is None:
+            return
+        if b.complete_state.current_completion: # completion menu and selection
+            completion = b.complete_state.current_completion
+        else: # completion menu, but no selection
+            b.complete_next()
+            completion = b.complete_state.current_completion
+        if completion:
+            b.apply_completion(completion)
+            try:
+                is_func = callable(eval(completion.text))
+            except (NameError, SyntaxError):
+                is_func = False
+            if is_func:
+                b.insert_text("()")
+                b.cursor_left()
 
 # Add filters from radian
 # https://github.com/randy3k/radian/blob/455e29d443d615ee80a681a29583a7e24769687b/radian/key_bindings.py#L171
