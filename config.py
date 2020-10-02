@@ -8,6 +8,7 @@ from __future__ import unicode_literals
 import sys
 import re
 
+from jedi import Interpreter
 from prompt_toolkit.application.current import get_app
 from prompt_toolkit.key_binding.vi_state import InputMode, ViState
 from prompt_toolkit.key_binding.bindings import named_commands as nc
@@ -244,6 +245,10 @@ def configure(repl):
 # Changed: do not move through options with not tab and shift-tab
 # Unchanged: move through options with c-n and c-p
 # https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/prompt_toolkit/key_binding/bindings/completion.py
+    def is_callable(text=""):
+        completions = Interpreter(text, [locals()]).complete()
+        match = next((i for i in completions if i.name == text), None)
+        return match.type in ("class", "function") if match else None
 
     @repl.add_key_binding("tab", filter=focused_insert)
     @repl.add_key_binding("c-space", filter=focused_insert)
@@ -255,6 +260,8 @@ def configure(repl):
         completions = list(b.completer.get_completions(b.document, complete_event))
         if len(completions) == 1: # only one possible completion
             completion = completions[0]
+            if completion.start_position:
+                b.delete_before_cursor(-completion.start_position)
         elif not b.complete_state: # no completion menu
             b.start_completion(insert_common_part=True)
             completion = None
@@ -265,14 +272,9 @@ def configure(repl):
             completion = b.complete_state.current_completion
         if completion:
             b.apply_completion(completion)
-            try:
-                is_func = callable(eval(completion.text))
-            except:
-                is_func = False
-            if is_func:
+            if is_callable(completion.text):
                 b.insert_text("()")
                 b.cursor_left()
-
 
     @repl.add_key_binding("enter", filter=focused_insert_and_completion)
     def _(event):
@@ -286,11 +288,7 @@ def configure(repl):
             completion = b.complete_state.current_completion
         if completion:
             b.apply_completion(completion)
-            try:
-                is_func = callable(eval(completion.text))
-            except:
-                is_func = False
-            if is_func:
+            if is_callable(completion.text):
                 b.insert_text("()")
                 b.cursor_left()
 

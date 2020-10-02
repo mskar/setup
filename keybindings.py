@@ -4,6 +4,7 @@
 
 import re
 
+from jedi import Interpreter
 from IPython import get_ipython
 from prompt_toolkit import filters
 from prompt_toolkit.enums import DEFAULT_BUFFER
@@ -92,6 +93,11 @@ def _(event):
 # Changed: do not move through options with not tab and shift-tab
 # Unchanged: move through options with c-n and c-p
 # https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/prompt_toolkit/key_binding/bindings/completion.py
+def is_callable(text=""):
+    completions = Interpreter(text, [locals()]).complete()
+    match = next((i for i in completions if i.name == text), None)
+    return match.type in ("class", "function") if match else None
+
 
 @handle("tab", filter=focused_insert)
 @handle("c-space", filter=focused_insert)
@@ -103,6 +109,8 @@ def _(event):
     completions = list(b.completer.get_completions(b.document, complete_event))
     if len(completions) == 1: # only one possible completion
         completion = completions[0]
+        if completion.start_position:
+            b.delete_before_cursor(-completion.start_position)
     elif not b.complete_state: # no completion menu
         b.start_completion(insert_common_part=True)
         completion = None
@@ -113,11 +121,7 @@ def _(event):
         completion = b.complete_state.current_completion
     if completion:
         b.apply_completion(completion)
-        try:
-            is_func = callable(eval(completion.text))
-        except:
-            is_func = False
-        if is_func:
+        if is_callable(completion.text):
             b.insert_text("()")
             b.cursor_left()
 
@@ -134,11 +138,7 @@ def _(event):
         completion = b.complete_state.current_completion
     if completion:
         b.apply_completion(completion)
-        try:
-            is_func = callable(eval(completion.text))
-        except:
-            is_func = False
-        if is_func:
+        if is_callable(completion.text):
             b.insert_text("()")
             b.cursor_left()
 
