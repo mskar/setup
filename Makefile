@@ -19,10 +19,12 @@ GH = $(shell brew --prefix)/bin/gh
 GIT = $(shell brew --prefix)/bin/git
 NVIM = $(shell brew --prefix)/bin/nvim
 NODE = $(shell brew --prefix)/bin/node
+NOTI = $(shell brew --prefix)/bin/noti
 RSTATS = $(shell brew --prefix)/bin/r
 RENAME = $(shell brew --prefix)/bin/rename
 RG = $(shell brew --prefix)/bin/rg
 SCIM = $(shell brew --prefix)/bin/scim
+TLDR = $(shell brew --prefix)/bin/tldr
 TMUX = $(shell brew --prefix)/bin/tmux
 VIM = $(shell brew --prefix)/bin/vim
 VSCODE_LIVESHARE = $(wildcard ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
@@ -30,7 +32,7 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim ptpython radian rename repo rg rstudio scim shiftit tmux vim vimr vscode xpdf zsh
+all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim node noti ptpython radian rename repo rg rstudio scim shiftit tldr tmux vim vimr vscode xpdf zsh
 
 ag: $(AG)
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
@@ -51,6 +53,8 @@ iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
 jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
 jupyter: ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
+node: $(NODE)
+noti: $(NOTI)
 neovim: $(NVIM) ~/.config/nvim/init.vim
 ptpython: ~/miniconda/bin/ptpython ~/Library/Application\ Support/ptpython/config.py
 radian: ~/miniconda/bin/radian ~/.radian_profile
@@ -60,6 +64,7 @@ rg: $(RG)
 rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
 shiftit: /Applications/ShiftIt.app
+tldr: $(TLDR)
 tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
 vim: $(VIM) ~/.vimrc
 vimr: /Applications/VimR.app
@@ -155,6 +160,8 @@ $(GIT):
 	curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
 $(NODE):
 	-brew install node
+$(NOTI):
+	-brew install noti
 $(NVIM):
 	-brew install neovim
 ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings:
@@ -198,6 +205,8 @@ $(SCIM):
 	-brew install sc-im
 /Applications/ShiftIt.app:
 	-brew cask install shiftit
+$(TLDR):
+	-brew install tldr
 $(TMUX):
 	-brew install tmux
 ~/.tmux.conf.local: ~/mskar/setup/.tmux.conf.local
