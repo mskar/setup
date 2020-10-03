@@ -396,7 +396,7 @@ alias rsuu="git remote set-url upstream"
 alias rsuua="func() { git remote set-url upstream $(echo '$@') --add; }; func";
 alias rv="git remote -v"
 alias rw="func() { local files=$(echo '$(git diff HEAD --diff-filter=M --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --worktree --; }; func"
-alias rz="rename -z *"
+alias rz="func() { find $(echo '${1-.}') -mindepth 1 -print0 | rename -0fz; }; func"
 alias s2h="func() { local name=$(echo '${1:-origin}') && git remote set-url $(echo '$name $(git remote get-url $name | sed "s+:+/+;s+git@+https://+")') }; func"
 alias s="git status"
 alias sa="git stash apply"
