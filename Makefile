@@ -17,6 +17,7 @@ FD = $(shell brew --prefix)/bin/fd
 FZF = $(shell brew --prefix)/bin/fzf
 GH = $(shell brew --prefix)/bin/gh
 GIT = $(shell brew --prefix)/bin/git
+GMV = $(shell brew --prefix)/bin/gmv
 NVIM = $(shell brew --prefix)/bin/nvim
 NODE = $(shell brew --prefix)/bin/node
 NOTI = $(shell brew --prefix)/bin/noti
@@ -32,7 +33,7 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git ipy iterm jupyter jetbrains karabiner neovim node noti ptpython radian rename repo rg rstudio scim shiftit tldr tmux vim vimr vscode xpdf zsh
+all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti ptpython radian rename repo rg rstudio scim shiftit tldr tmux vim vimr vscode xpdf zsh
 
 ag: $(AG)
 bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
@@ -48,6 +49,7 @@ flycut: /Applications/Flycut.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: $(FZF)
 git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global
+gmv: $(GMV)
 ipy: ~/miniconda/envs/py ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
 jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
@@ -141,6 +143,8 @@ $(GIT):
 	curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
 ~/.gitignore_global: ~/mskar/setup/.gitignore_global
 	curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore_global -o ~/.gitignore_global
+$(GMV):
+	-brew install coreutils
 /Applications/iTerm.app:
 	-brew cask install iterm2
 ~/com.googlecode.iterm2.plist: ~/mskar/setup/com.googlecode.iterm2.plist

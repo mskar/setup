@@ -132,7 +132,7 @@ code --install-extension vscodevim.vim --force
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install ag bash bat clementtsang/bottom/bottom exa fasd fd fzf gh neovim node noti rename rg sc-im tldr tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+brew install ag bash bat clementtsang/bottom/bottom coreutils exa fasd fd fzf gh neovim node noti rename rg sc-im tldr tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Install fzf key bindings and fuzzy completion using the install script which runs the commented out code below
 ### source /usr/local/opt/fzf/shell/key-bindings.zsh
