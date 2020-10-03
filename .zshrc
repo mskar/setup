@@ -200,6 +200,7 @@ alias fcld="fc -ld"
 alias fclf="fc -lf"
 alias ff="fd --type f"
 alias fl="fasd -fl"
+alias flat="func() { find $(echo '${1-.}') -mindepth 2 -type f -exec gmv -ft $(echo '${1-.}') '{}' + && find $(echo '${1-.}') -mindepth 1 -depth -type d -exec rmdir {} +; }; func"
 alias fn="fasd -fe nvim"
 alias fnc="fasd -fe nvim -b current"
 alias fnv="fasd -fe nvim -b viminfo"
@@ -316,7 +317,7 @@ alias nh="n -c History" # this only works with -c, not --cmd
 alias nl="func() { local files=$(echo '$(rg -l ${@:-^} | fzf --preview="bat --style=plain --color=always {} | rg --color=always -n ${*:-^} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed s+~+$HOME+ | tr '\n' '\0' | xargs -0 nvim --; }; func";
 alias nn="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4.. --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
-alias nows="func() {find . -name $(echo '$@') | sed 'p;s/ /_/' | tr '\n' '\0' | xargs -0n2 mv; }; func";
+alias nows="func() {find $(echo '${1-.}') -type f | sed 'p;s/ /_/g' | tr '\n' '\0' | xargs -0n2 mv; }; func";
 alias np="func() { local files=$(echo '$(fd -e pdf --type f ^ $@ | fzf --preview="pdftotext -l 2 {} - | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -n1 -I '{}' pdftotext '{}' && echo $(echo '${files//.pdf/.txt}') | tr '\n' '\0' | xargs -0 nvim --; }; func";
 alias nr="func() { local files=$(echo '$(rg -e "^> ~/" -e "^> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func";
 alias ns="func() { n -S $(echo '${@:-~/session.vim}'); }; func";
@@ -395,7 +396,7 @@ alias rsuu="git remote set-url upstream"
 alias rsuua="func() { git remote set-url upstream $(echo '$@') --add; }; func";
 alias rv="git remote -v"
 alias rw="func() { local files=$(echo '$(git diff HEAD --diff-filter=M --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --worktree --; }; func"
-alias rz="rename -z"
+alias rz="rename -z *"
 alias s2h="func() { local name=$(echo '${1:-origin}') && git remote set-url $(echo '$name $(git remote get-url $name | sed "s+:+/+;s+git@+https://+")') }; func"
 alias s="git status"
 alias sa="git stash apply"
