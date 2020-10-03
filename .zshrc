@@ -368,6 +368,7 @@ alias raol="git remote add origin $(echo '$(git remote get-url lab)')"
 alias rau="git remote add upstream"
 alias rba="git rebase --abort"
 alias rbc="git rebase --continue"
+alias rbi="git rebase --interactive"
 alias rbq="git rebase --quit"
 alias rbs="git rebase --skip"
 alias render="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
