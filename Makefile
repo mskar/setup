@@ -36,7 +36,7 @@ XPDF = $(shell brew --prefix)/bin/xpdf
 all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti ptpython radian rename repo rg rstudio scim shiftit tldr tmux vim vimr vscode xpdf zsh
 
 ag: $(AG)
-bash: $(BASH) ~/.bash_profile ~/.bashrc ~/.inputrc
+bash: $(BASH) ~/.bash_profile ~/.inputrc
 bat: $(BAT)
 bottom: $(BTM) ~/.config/bottom/bottom.toml
 brew: $(BREW)
@@ -101,8 +101,6 @@ $(BASH):
 	-brew install bash
 ~/.bash_profile: ~/mskar/setup/.bash_profile
 	curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
-~/.bashrc: ~/mskar/setup/.bashrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/.bashrc -o ~/.bashrc
 ~/.inputrc: ~/mskar/setup/.inputrc
 	curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
 ~/.config/bottom/bottom.toml: ~/mskar/setup/bottom.toml

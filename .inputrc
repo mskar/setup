@@ -31,6 +31,7 @@ ctrl-b: backward-char
 ctrl-d: delete-char
 ctrl-e: end-of-line
 ctrl-f: forward-char
+ctrl-t: transpose-char
 ctrl-h: backward-delete-char
 ctrl-k: kill-line
 ctrl-l: clear-screen

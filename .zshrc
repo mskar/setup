@@ -287,6 +287,7 @@ alias ma="mamba activate"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func";
 alias mc="git mergetool -t code --extcmd 'code --wait'"
 alias mcs="git mergetool -t code --extcmd 'code --wait' --staged"
+alias md="mkdir -p"
 alias mda="mamba deactivate"
 alias me="mamba env"
 alias mec="mamba create -c conda-forge -n"
@@ -371,6 +372,7 @@ alias rbc="git rebase --continue"
 alias rbi="git rebase --interactive"
 alias rbq="git rebase --quit"
 alias rbs="git rebase --skip"
+alias rd="rmdir"
 alias render="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func";
 alias rh="func() { git reset $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
 alias rhh="func() { git reset --hard $(echo 'HEAD~${1:-0}' '${@:2}'); }; func";
