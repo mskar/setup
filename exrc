@@ -26,17 +26,22 @@ set number relativenumber
 " Ignore case when searching
 set ignorecase
 
-" When searching try to be smart about cases 
+" When searching try to be smart about cases
 set smartcase
 
 " Makes search act like search in modern browsers
-set incsearch 
+set incsearch
 
 " Show matching brackets when text indicator is over them
-set showmatch 
+set showmatch
 
 " No annoying sound on errors http://vim.wikia.com/wiki/Disable_beeping
 set noerrorbells
 set novisualbell
 set nolaunchbell
 set bellvolume=0
+
+" Increase text area size
+set lines=300
+set lines=400
+set nosyncsize
