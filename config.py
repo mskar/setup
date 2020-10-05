@@ -245,52 +245,73 @@ def configure(repl):
 # Changed: do not move through options with not tab and shift-tab
 # Unchanged: move through options with c-n and c-p
 # https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/prompt_toolkit/key_binding/bindings/completion.py
+
     def is_callable(text=""):
         completions = Interpreter(text, [locals()]).complete()
         match = next((i for i in completions if i.name == text), None)
         return match.type in ("class", "function") if match else None
 
-    @repl.add_key_binding("tab", filter=focused_insert)
-    @repl.add_key_binding("c-space", filter=focused_insert)
+    # apply selected completion
+    @repl.add_key_binding('c-j', filter=focused_insert & filters.completion_is_selected)
+    @repl.add_key_binding("enter", filter=focused_insert & filters.completion_is_selected)
     def _(event):
         b = event.current_buffer
-        if b.completer is None:
-            return
-        complete_event = CompleteEvent(completion_requested=True)
-        completions = list(b.completer.get_completions(b.document, complete_event))
-        if len(completions) == 1: # only one possible completion
-            completion = completions[0]
-            if completion.start_position:
-                b.delete_before_cursor(-completion.start_position)
-        elif not b.complete_state: # no completion menu
-            b.start_completion(insert_common_part=True)
-            completion = None
-        elif b.complete_state.current_completion: # completion menu and selection
-            completion = b.complete_state.current_completion
-        else: # completion menu, but no selection
-            b.complete_next()
-            completion = b.complete_state.current_completion
-        if completion:
-            b.apply_completion(completion)
-            if is_callable(completion.text):
-                b.insert_text("()")
-                b.cursor_left()
+        completion = b.complete_state.current_completion
+        if is_callable(completion.text):
+            b.insert_text("()")
+            b.cursor_left()
+        b.complete_state = None
 
-    @repl.add_key_binding("enter", filter=focused_insert_and_completion)
+    # apply first completion option when completion menu is showing
+    @repl.add_key_binding('c-j', filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
+    @repl.add_key_binding("enter", filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
     def _(event):
         b = event.current_buffer
-        if b.completer is None:
-            return
-        if b.complete_state.current_completion: # completion menu and selection
-            completion = b.complete_state.current_completion
-        else: # completion menu, but no selection
-            b.complete_next()
-            completion = b.complete_state.current_completion
-        if completion:
+        b.complete_next()
+        completion = b.complete_state.current_completion
+        b.apply_completion(completion)
+        if is_callable(completion.text):
+            b.insert_text("()")
+            b.cursor_left()
+
+    # apply completion if there is only one option, otherwise start completion
+    @repl.add_key_binding("tab", filter=focused_insert & ~filters.has_completions)
+    @repl.add_key_binding("c-space", filter=focused_insert & ~filters.has_completions)
+    def _(event):
+        b = event.current_buffer
+        complete_event = CompleteEvent(completion_requested=True)
+        completions = b.completer.get_completions(b.document, complete_event)
+        if len(completions) == 1:
+            completion = completions[0]
             b.apply_completion(completion)
             if is_callable(completion.text):
                 b.insert_text("()")
                 b.cursor_left()
+        else:
+            b.start_completion(insert_common_part=True)
+
+    # apply first completion option if completion menu is showing
+    @repl.add_key_binding("tab", filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
+    @repl.add_key_binding("c-space", filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
+    def _(event):
+        b = event.current_buffer
+        b.complete_next()
+        completion = b.complete_state.current_completion
+        b.apply_completion(completion)
+        if is_callable(completion.text):
+            b.insert_text("()")
+            b.cursor_left()
+
+    # apply selected completion option
+    @repl.add_key_binding("tab", filter=focused_insert & filters.completion_is_selected)
+    @repl.add_key_binding("c-space", filter=focused_insert & filters.completion_is_selected)
+    def _(event):
+        b = event.current_buffer
+        completion = b.complete_state.current_completion
+        b.apply_completion(completion)
+        if is_callable(completion.text):
+            b.insert_text("()")
+            b.cursor_left()
 
 # Add filters from radian
 # https://github.com/randy3k/radian/blob/455e29d443d615ee80a681a29583a7e24769687b/radian/key_bindings.py#L171
@@ -430,7 +451,7 @@ def get_input_mode(self):
         # Decrease input flush timeout from 500ms to 10ms.
         app = get_app()
         app.ttimeoutlen = 0.01
-        # Decrease repl.add_key_bindingr call timeout from 1s to 400ms
+        # Decrease repl.add_key_binding call timeout from 1s to 400ms
         app.timeoutlen = 0.4
 
     return self._input_mode
