@@ -10,6 +10,8 @@ from prompt_toolkit import filters
 from prompt_toolkit.enums import DEFAULT_BUFFER
 from prompt_toolkit.completion import CompleteEvent
 from prompt_toolkit.application.current import get_app
+from prompt_toolkit.keys import Keys
+from prompt_toolkit.key_binding.key_processor import KeyPress
 from prompt_toolkit.key_binding.bindings import named_commands as nc
 
 ip = get_ipython()

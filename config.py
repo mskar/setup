@@ -138,8 +138,11 @@ def configure(repl):
     repl.use_ui_colorscheme('my-colorscheme')
     """
 
-    focused_insert = filters.has_focus(DEFAULT_BUFFER) & filters.vi_insert_mode
-    focused_insert_and_completion = focused_insert & filters.has_completions
+    insert_mode = filters.vi_insert_mode | filters.emacs_insert_mode
+    focused_insert =  insert_mode & filters.has_focus(DEFAULT_BUFFER)
+    shown = filters.has_completions
+    selected = filters.completion_is_selected
+    shown_not_selected = shown & ~selected
     alt_enter = [KeyPress(Keys.Escape), KeyPress(Keys.Enter)]
 
     @repl.add_key_binding("c-a", filter=focused_insert)
@@ -255,21 +258,19 @@ def configure(repl):
         return match.type in ("class", "function") if match else None
 
     # apply selected completion
-    @repl.add_key_binding('c-j', filter=focused_insert & filters.completion_is_selected)
-    @repl.add_key_binding("enter", filter=focused_insert & filters.completion_is_selected)
+    @repl.add_key_binding('c-j', filter=insert_mode & selected)
+    @repl.add_key_binding("enter", filter=insert_mode & selected)
     def _(event):
         b = event.current_buffer
-        text = b.text
         completion = b.complete_state.current_completion
         if is_callable(completion.text):
             b.insert_text("()")
             b.cursor_left()
-        if text == b.text:
-            event.cli.key_processor.feed_multiple(alt_enter)
+        b.complete_state = None
 
     # # apply first completion option when completion menu is showing
-    @repl.add_key_binding('c-j', filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
-    @repl.add_key_binding("enter", filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
+    @repl.add_key_binding('c-j', filter=focused_insert & shown_not_selected)
+    @repl.add_key_binding("enter", filter=focused_insert & shown_not_selected)
     def _(event):
         b = event.current_buffer
         text = b.text
@@ -283,8 +284,8 @@ def configure(repl):
             event.cli.key_processor.feed_multiple(alt_enter)
 
     # apply completion if there is only one option, otherwise start completion
-    @repl.add_key_binding("tab", filter=focused_insert & ~filters.has_completions)
-    @repl.add_key_binding("c-space", filter=focused_insert & ~filters.has_completions)
+    @repl.add_key_binding("tab", filter=focused_insert & ~selected)
+    @repl.add_key_binding("c-space", filter=focused_insert & ~selected)
     def _(event):
         b = event.current_buffer
         complete_event = CompleteEvent(completion_requested=True)
@@ -299,8 +300,8 @@ def configure(repl):
             b.start_completion(insert_common_part=True)
 
     # apply first completion option if completion menu is showing
-    @repl.add_key_binding("tab", filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
-    @repl.add_key_binding("c-space", filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
+    @repl.add_key_binding("tab", filter=focused_insert & shown_not_selected)
+    @repl.add_key_binding("c-space", filter=focused_insert & shown_not_selected)
     def _(event):
         b = event.current_buffer
         b.complete_next()
@@ -311,8 +312,8 @@ def configure(repl):
             b.cursor_left()
 
     # apply selected completion option
-    @repl.add_key_binding("tab", filter=focused_insert & filters.completion_is_selected)
-    @repl.add_key_binding("c-space", filter=focused_insert & filters.completion_is_selected)
+    @repl.add_key_binding("tab", filter=focused_insert & selected)
+    @repl.add_key_binding("c-space", filter=focused_insert & selected)
     def _(event):
         b = event.current_buffer
         completion = b.complete_state.current_completion
