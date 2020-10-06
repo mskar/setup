@@ -17,6 +17,7 @@ registry = ip.pt_app.key_bindings
 handle = registry.add
 focused_insert = filters.has_focus(DEFAULT_BUFFER) & filters.vi_insert_mode
 focused_insert_and_completion = focused_insert & filters.has_completions
+alt_enter = [KeyPress(Keys.Escape), KeyPress(Keys.Enter)]
 
 key_cmd_dict = {
     "c-a": nc.beginning_of_line,
@@ -103,23 +104,28 @@ def is_callable(text=""):
 @handle("enter", filter=focused_insert & filters.completion_is_selected)
 def _(event):
     b = event.current_buffer
+    text = b.text
     completion = b.complete_state.current_completion
     if is_callable(completion.text):
         b.insert_text("()")
         b.cursor_left()
-    b.complete_state = None
+    if text == b.text:
+        event.cli.key_processor.feed_multiple(alt_enter)
 
 # apply first completion option when completion menu is showing
 @handle('c-j', filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
 @handle("enter", filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
 def _(event):
     b = event.current_buffer
+    text = b.text
     b.complete_next()
     completion = b.complete_state.current_completion
     b.apply_completion(completion)
     if is_callable(completion.text):
         b.insert_text("()")
         b.cursor_left()
+    if text == b.text:
+        event.cli.key_processor.feed_multiple(alt_enter)
 
 # apply completion if there is only one option, otherwise start completion
 @handle("tab", filter=focused_insert & ~filters.has_completions)

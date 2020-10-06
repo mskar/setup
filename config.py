@@ -12,6 +12,8 @@ from jedi import Interpreter
 from prompt_toolkit.application.current import get_app
 from prompt_toolkit.key_binding.vi_state import InputMode, ViState
 from prompt_toolkit.key_binding.bindings import named_commands as nc
+from prompt_toolkit.key_binding.key_processor import KeyPress
+from prompt_toolkit.keys import Keys
 from prompt_toolkit import filters
 from prompt_toolkit.enums import DEFAULT_BUFFER
 from prompt_toolkit.completion import CompleteEvent
@@ -138,6 +140,7 @@ def configure(repl):
 
     focused_insert = filters.has_focus(DEFAULT_BUFFER) & filters.vi_insert_mode
     focused_insert_and_completion = focused_insert & filters.has_completions
+    alt_enter = [KeyPress(Keys.Escape), KeyPress(Keys.Enter)]
 
     @repl.add_key_binding("c-a", filter=focused_insert)
     def _(event):
@@ -256,23 +259,28 @@ def configure(repl):
     @repl.add_key_binding("enter", filter=focused_insert & filters.completion_is_selected)
     def _(event):
         b = event.current_buffer
+        text = b.text
         completion = b.complete_state.current_completion
         if is_callable(completion.text):
             b.insert_text("()")
             b.cursor_left()
-        b.complete_state = None
+        if text == b.text:
+            event.cli.key_processor.feed_multiple(alt_enter)
 
-    # apply first completion option when completion menu is showing
+    # # apply first completion option when completion menu is showing
     @repl.add_key_binding('c-j', filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
     @repl.add_key_binding("enter", filter=focused_insert & filters.has_completions & ~filters.completion_is_selected)
     def _(event):
         b = event.current_buffer
+        text = b.text
         b.complete_next()
         completion = b.complete_state.current_completion
         b.apply_completion(completion)
         if is_callable(completion.text):
             b.insert_text("()")
             b.cursor_left()
+        if text == b.text:
+            event.cli.key_processor.feed_multiple(alt_enter)
 
     # apply completion if there is only one option, otherwise start completion
     @repl.add_key_binding("tab", filter=focused_insert & ~filters.has_completions)
