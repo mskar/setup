@@ -341,10 +341,8 @@ bind-key        C-\; last-pane
 bind-key        C-= choose-buffer
 bind-key        C-[ copy-mode
 bind-key        C-] paste-buffer
-bind-key        C-b send-prefix
 bind-key        C-d detach-client
 bind-key        C-i display-message
-bind-key        C-m command-prompt "new-window 'exec man %%'"
 bind-key        C-n next-window
 bind-key        C-o rotate-window
 bind-key        C-o select-pane -t :.+
