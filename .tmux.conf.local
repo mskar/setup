@@ -343,19 +343,15 @@ bind-key        C-[ copy-mode
 bind-key        C-] paste-buffer
 bind-key        C-d detach-client
 bind-key        C-i display-message
+bind-key        C-j last-pane
 bind-key        C-n next-window
-bind-key        C-o rotate-window
-bind-key        C-o select-pane -t :.+
 bind-key        C-p previous-window
-bind-key        C-q confirm-before kill-server
-bind-key        C-q display-panes
 bind-key        C-r refresh-client
 bind-key        C-s choose-tree
 bind-key        C-t clock-mode
 bind-key        C-v copy-mode
 bind-key        C-w choose-window
 bind-key        C-x confirm-before -p "kill-pane #P? (y/n)" kill-pane
-bind-key        C-z suspend-client
 bind-key        M-1 select-layout even-horizontal
 bind-key        M-2 select-layout even-vertical
 bind-key        M-3 select-layout main-horizontal
