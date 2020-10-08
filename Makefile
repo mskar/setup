@@ -235,7 +235,7 @@ $(RSTATS):
 	ln -sf ~/mskar/setup/editor_bindings.json ~/.config/rstudio/keybindings/editor_bindings.json
 ~/.config/rstudio/keybindings/rstudio_bindings.json: ~/mskar/setup/rstudio_bindings.json
 	# curl https://raw.githubusercontent.com/mskar/setup/master/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
-	ln-sf ~/mskar/setup/rstudio_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json
+	ln -sf ~/mskar/setup/rstudio_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json
 $(SCIM):
 	-brew install sc-im
 /Applications/ShiftIt.app:
@@ -246,7 +246,7 @@ $(TMUX):
 	-brew install tmux
 ~/.tmux.conf.local: ~/mskar/setup/.tmux.conf.local
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
-	ln-sf ~/mskar/setup/.tmux.conf.local ~/.tmux.conf.local
+	ln -sf ~/mskar/setup/.tmux.conf.local ~/.tmux.conf.local
 ~/.tmux.conf:
 	curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 ~/.tmux/plugins/tpm:
