@@ -134,6 +134,10 @@ code --install-extension vscodevim.vim --force
 ## Install vim and neovim
 brew install ag bash bat clementtsang/bottom/bottom coreutils exa fasd fd fzf gh neovim node noti rename rg sc-im tldr tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
+## Create locations for undo files (just in case they are not created automatically)
+mkdir -p ~/.vim/undodir
+mkdir -p ~/.local/share/nvim/undo
+
 ## Install fzf key bindings and fuzzy completion using the install script which runs the commented out code below
 ### source /usr/local/opt/fzf/shell/key-bindings.zsh
 ### source /usr/local/opt/fzf/shell/key-bindings.bash
@@ -148,7 +152,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
 
 ## Download dotfiles (configuration files)
 ### Vim
-curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
+curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vim/.vimrc
 
 ### Neovim
 curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs

@@ -590,6 +590,10 @@ let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 
 set completeopt=longest,menuone
 
+" https://jovicailic.org/2017/04/vim-persistent-undo/
+set undofile
+set undodir=~/.vim/undodir
+
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
 set timeoutlen=1000 ttimeoutlen=10
 

@@ -57,7 +57,7 @@ jupyter: ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 node: $(NODE)
 noti: $(NOTI)
-neovim: $(NVIM) ~/.config/nvim/init.vim
+neovim: $(NVIM) ~/.config/nvim/init.vim ~/.local/share/nvim/undo
 ptpython: ~/miniconda/bin/ptpython ~/Library/ApplicationSupport/ptpython/config.py
 radian: ~/miniconda/bin/radian ~/.radian_profile
 rename: $(RENAME)
@@ -68,7 +68,7 @@ scim: $(SCIM)
 shiftit: /Applications/ShiftIt.app
 tldr: $(TLDR)
 tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
-vim: $(VIM) ~/.vimrc
+vim: $(VIM) ~/.vim/.vimrc ~/.vim/undodir
 vimr: /Applications/VimR.app
 vscode: /Applications/Visual\ Studio\ Code.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/Application\ Support/Code/User/keybindings.json ~/Library/Application\ Support/Code/User/settings.json
 xpdf: $(XPDF)
@@ -196,6 +196,8 @@ $(NVIM):
 	# curl https://raw.githubusercontent.com/mskar/setup/master/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
 	mkdir -p ~/.config/nvim
 	ln -sf ~/mskar/setup/ginit.vim ~/.config/nvim/ginit.vim
+~/.local/share/nvim/undo:
+	mkdir -p ~/.local/share/nvim/undo
 ~/.zsh/powerlevel10k:
 	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
 ~/.p10k.zsh: ~/mskar/setup/.p10k.zsh
@@ -253,9 +255,10 @@ $(TMUX):
 	-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 $(VIM):
 	-brew install vim
-~/.vimrc: ~/mskar/setup/.vimrc
+~/.vim/.vimrc: ~/mskar/setup/.vimrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
-	ln -sf ~/mskar/setup/.vimrc ~/.vimrc
+	mkdir ~/.vim/
+	ln -sf ~/mskar/setup/.vimrc ~/.vim/.vimrc
 /Applications/VimR.app:
 	-brew cask install vimr
 /Applications/VisualStudioCode.app:
@@ -268,6 +271,8 @@ $(VIM):
 	# curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json --create-dirs
 	ln -sf ~/mskar/setup/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
 	ln -sf ~/mskar/setup/keybindings.json ~/Library/ApplicationSupport/Code/User/keybindings.json
+~/.vim/undodir:
+	mkdir -p ~/.vim/undodir
 $(VSCODE_PYTHON):
 	-code --install-extension ms-python.python --force
 $(VSCODE_VIM):

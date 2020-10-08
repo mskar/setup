@@ -733,6 +733,10 @@ let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 " In addition to vim-pandoc, zotcite and nvim-r can insert citations
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
 
+" https://jovicailic.org/2017/04/vim-persistent-undo/
+set undofile
+set undodir=~/.local/share/nvim/undo
+
 set completeopt=longest,menuone
 
 " https://www.johnhawthorn.com/2012/09/vi-escape-delays/
