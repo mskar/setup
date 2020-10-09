@@ -140,19 +140,167 @@ if exists("*fugitive#statusline")
 endif
 
 "*****************************************************************************
-"" Abbreviations
+"" Custom configs
 "*****************************************************************************
-"" No one is really happy until you have this shortcuts
-cnoreabbrev W! w!
-cnoreabbrev Q! q!
-cnoreabbrev Qall! qall!
-cnoreabbrev Wq wq
-cnoreabbrev Wa wa
-cnoreabbrev wQ wq
-cnoreabbrev WQ wq
-cnoreabbrev W w
-cnoreabbrev Q q
-cnoreabbrev Qall qall
+
+" Syntax highlight
+" Default highlight is better than polyglot
+let g:polyglot_disabled = ['python']
+let python_highlight_all = 1
+
+" Remove all vim surround mappings (remapped below)
+let g:surround_no_mappings = 1
+
+" vim-pandoc inserts citations with <C-x><C-o>
+" disable automatic folding by vim-pandoc
+let g:pandoc#modules#disabled = ["folding"]
+let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
+" In addition to vim-pandoc, zotcite and nvim-r can insert citations
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
+
+set completeopt=longest,menuone
+
+" https://jovicailic.org/2017/04/vim-persistent-undo/
+set undofile
+set undodir=~/.local/share/nvim/undo
+
+" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
+set timeoutlen=1000 ttimeoutlen=10
+
+"" Directories for swp files
+set nobackup
+set noswapfile
+set nowritebackup
+
+" Better display for messages
+set cmdheight=1
+
+" You will have bad experience for diagnostic messages when it's default 4000.
+set updatetime=300
+
+" Don't pass messages to |ins-completion-menu|.
+set shortmess+=c
+
+" (In times of great desperation) allow use of the mouse
+set mouse=a
+
+" https://github.com/neovim/neovim/wiki/FAQ#how-to-change-cursor-shape-in-the-terminal
+set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkon100
+
+" Share system clipboard ("+) and unnamed ("") registers
+" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
+" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
+set clipboard=unnamed
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
+set go+=a
+
+" Neovim defaults https://neovim.io/doc/user/vim_diff.html
+" 'autoindent' is enabled
+" 'background' defaults to "dark" (unless set automatically by the terminal/UI)
+" 'belloff' defaults to "all"
+" 'compatible' is always disabled
+" 'complete' excludes "i"
+" 'cscopeverbose' is enabled
+" 'history' defaults to 10000 (the maximum)
+" 'showcmd' is enabled
+" 'sidescroll' defaults to 1
+" 'smarttab' is enabled
+" 'tabpagemax' defaults to 50
+" 'wildmenu' is enabled
+
+" Neovim defaults?
+set path+=** " Provides tab-completion for all file-related tasks
+set lazyredraw " Don't redraw while executing macros (good performance config)
+set showmatch " Show matching brackets when text indicator is over them
+set hidden " can put buffer to the background without writing to disk, will remember history/marks.
+
+highlight VertSplit ctermbg=NONE guibg=NONE
+set fillchars+=vert:│
+set laststatus=0
+highlight Normal ctermfg=white ctermbg=black
+
+"" fzf.vim
+set wildmode=list:longest,list:full
+set wildignore+=*.o,*.obj,.git,*.rbc,*.pyc,__pycache__
+let $FZF_DEFAULT_COMMAND =  "find * -path '*/\.*' -prune -o -path 'node_modules/**' -prune -o -path 'target/**' -prune -o -path 'dist/**' -prune -o  -type f -print -o -type l -print 2> /dev/null"
+
+" The Silver Searcher
+if executable('ag')
+  let $FZF_DEFAULT_COMMAND = 'ag --hidden --ignore .git -g ""'
+  set grepprg=ag\ --nogroup\ --nocolor
+endif
+
+" ripgrep
+if executable('rg')
+  let $FZF_DEFAULT_COMMAND = 'rg --files --hidden --follow --glob "!.git/*"'
+  set grepprg=rg\ --vimgrep
+  command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number --no-heading --fixed-strings --ignore-case --hidden --follow --glob "!.git/*" --color "always" '.shellescape(<q-args>).'| tr -d "\017"', 1, <bang>0)
+endif
+
+" Disable visualbell
+set noerrorbells visualbell t_vb=
+
+" CamelCaseWord
+" let g:camelchar = "A-Z"
+" Also stop on numbers.
+" let g:camelchar = "A-Z0-9"
+" Include '.' for class member, ',' for separator, ';' end-statement, " and <[< bracket starts and "'` quotes.
+let g:camelchar = "A-Z0-9.,;:{([`'\""
+
+" http://sherifsoliman.com/2017/07/22/nvim-r/
+" press alt+, to have Nvim-R insert the assignment operator: <-
+let R_assign_map = "<A-,>"
+
+" https://github.com/randy3k/radian#nvim-r-support
+let R_esc_term = 0
+let R_external_term = 1
+let R_app = "radian"
+let R_cmd = "R"
+let R_hl_term = 0
+let R_args = []  " if you had set any
+let R_bracketed_paste = 1
+
+" set a minimum source editor width
+" let R_min_editor_width = 80
+
+" make sure the console is at the bottom by making it really wide
+" let R_rconsole_width = 1000
+
+" https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/
+" let g:rout_follow_colorscheme = 1
+" let g:Rout_more_colors = 1
+
+" Don't expand a dataframe to show columns by default
+" let R_objbr_opendf = 0
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2152
+" Only use the mappings listed below
+let R_user_maps_only = 1
+" Do not replace grave accent with chunk delimiters in Rmd files
+" Use alt-i to insert code chunks instead
+let R_rmdchunk = 0
+
+" COC settings
+" https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
+let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-fzf-preview', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
+
+" Always show the signcolumn, otherwise it would shift the text each time
+" diagnostics appear/become resolved.
+if has("patch-8.1.1564")
+  " Recently vim can merge signcolumn and number column into one
+  set signcolumn=number
+else
+  set signcolumn=yes
+endif
+
+" Add (Neo)Vim's native statusline support.
+" NOTE: Please see `:h coc-status` for integrations with external plugins that
+" provide custom statusline: lightline.vim, vim-airline.
+set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
+
+let g:coc_snippet_next = '<tab>'
+let g:coc_snippet_prev = '<s-tab>'
 
 "" NERDTree configuration
 let g:NERDTreeChDirMode=2
@@ -170,6 +318,21 @@ let Grep_Skip_Files = '*.log *.db'
 let Grep_Skip_Dirs = '.git node_modules'
 
 set autoread
+
+"*****************************************************************************
+"" Abbreviations
+"*****************************************************************************
+"" No one is really happy until you have this shortcuts
+cnoreabbrev W! w!
+cnoreabbrev Q! q!
+cnoreabbrev Qall! qall!
+cnoreabbrev Wq wq
+cnoreabbrev Wa wa
+cnoreabbrev wQ wq
+cnoreabbrev WQ wq
+cnoreabbrev W w
+cnoreabbrev Q q
+cnoreabbrev Qall qall
 
 "*****************************************************************************
 "" Commands
@@ -330,6 +493,23 @@ xmap > >gv
 xnoremap J :m '>+1<CR>gv=gv
 xnoremap K :m '<-2<CR>gv=gv
 
+" https://vi.stackexchange.com/a/22233
+" copied from plugin/surround.vim
+nmap  ds   <Plug>Dsurround
+nmap  cs   <Plug>Csurround
+nmap  cS   <Plug>CSurround
+nmap  ys   <Plug>Ysurround
+nmap  yS   <Plug>YSurround
+nmap  yss  <Plug>Yssurround
+nmap  ySs  <Plug>YSsurround
+nmap  ySS  <Plug>YSsurround
+xmap  S    <Plug>VSurround
+xmap  gS   <Plug>VgSurround
+imap <C-S> <Plug>Isurround
+" ----- remove these -----
+" imap    <C-G>s <Plug>Isurround
+" imap    <C-G>S <Plug>ISurround
+
 " Emacs and bash style insert mode CTRL shortcuts
 " <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
 inoremap <C-a> <Home>
@@ -338,23 +518,25 @@ cnoremap <C-a> <Home>
 inoremap <C-b> <Left>
 cnoremap <C-b> <Left>
 " <C-d> = Delete one character forward; the opposite of <C-h>
-inoremap <C-d> <C-g>u<Delete>
+inoremap <silent><expr> <C-d> "\<C-g>u<Delete>"
 cnoremap <C-d> <Delete>
-" <C-e> = Move to end of the line; the opposite of <C-a>; already exists in command mode: c_ctrl-e
+" <C-e> = Move to end of the line (already exists in command mode: c_ctrl-e), this also cancels completion
 inoremap <C-e> <End>
 " <C-f> = Move one character forward; the opposite of <C-b>; <C-f> is too useful (for : / ?) to remap
 inoremap <C-f> <Right>
+" <C-g> = Cancel completion
+inoremap <silent><expr> <C-g> pumvisible() ? "\<C-e>" :  "<C-g>"
 " <C-h> = Delete one character backward; the opposite of <C-d>; already exists in command mode: c_ctrl-h
-inoremap <C-h> <C-g>u<BS>
+inoremap <silent><expr> <C-h> "\<C-g>u<BS>"
 " <C-k> = Delete to end of line; the opposite of <C-u>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/; https://superuser.com/a/855997
 inoremap <expr> <C-k> col(".") == col("$") ? "<Del>" : "<C-o>d$"
 cnoremap <C-k> <C-\>estrpart(getcmdline(),0,getcmdpos()-1)<CR>
 " <C-r> = make paste from register undoable in insert mode; already exists in command mode: c_ctrl-r
-inoremap <C-r> <C-g>u<C-r>
+inoremap <silent><expr> <C-r> "\<C-g>u<C-r>"
 " <C-u> = Delete to start of line; the opposite of <C-k>; already exists in command mode: c_ctrl-u
-inoremap <C-u> <C-g>u<C-u>
+inoremap <silent><expr> <C-u> "\<C-g>u<C-u>"
 " <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
-inoremap <C-w> <C-g>u<C-w>
+inoremap <silent><expr> <C-w> "\<C-g>u<C-w>"
 " <C-y> = Paste from system clipboard (not from killring like in bash/emacs)
 inoremap <C-y> <C-r>+
 cnoremap <C-y> <C-r>+
@@ -374,7 +556,7 @@ cnoremap <A-d> <S-Right><C-w>
 inoremap <A-f> <S-Right>
 cnoremap <A-f> <S-Right>
 " <A-h> = Delete word backward; opposite of <A-d>; same as <C-w>
-inoremap <A-h> <C-g>u<C-w>
+inoremap <silent><expr> <A-h> "\<C-g>u<C-w>"
 cnoremap <A-h> <C-w>
 " <A-j> = Move down; opposite of <A-k>
 inoremap <A-j> <Down>
@@ -601,18 +783,18 @@ nnoremap <silent> g/ :History/<CR>
 
 " Insert mode completion
 " https://github.com/junegunn/fzf.vim#mappings
-imap <c-x><c-w> <plug>(fzf-complete-word)
-imap <c-x>w <plug>(fzf-complete-word)
-imap <c-x><c-p> <plug>(fzf-complete-path)
-imap <c-x>p <plug>(fzf-complete-path)
-imap <c-x><c-f> <plug>(fzf-complete-file)
-imap <c-x>f <plug>(fzf-complete-file)
 imap <c-x><c-a> <plug>(fzf-complete-file-ag)
-imap <c-x>a <plug>(fzf-complete-file-ag)
 imap <c-x><c-b> <plug>(fzf-complete-buffer-line)
-imap <c-x>b <plug>(fzf-complete-buffer-line)
+imap <c-x><c-f> <plug>(fzf-complete-file)
 imap <c-x><c-l> <plug>(fzf-complete-line)
+imap <c-x><c-p> <plug>(fzf-complete-path)
+imap <c-x><c-w> <plug>(fzf-complete-word)
+imap <c-x>a <plug>(fzf-complete-file-ag)
+imap <c-x>b <plug>(fzf-complete-buffer-line)
+imap <c-x>f <plug>(fzf-complete-file)
 imap <c-x>l <plug>(fzf-complete-line)
+imap <c-x>p <plug>(fzf-complete-path)
+imap <c-x>w <plug>(fzf-complete-word)
 
 " Mappings inspired by my .zshrc
 imap <c-x><c-u> <C-o>u
@@ -632,14 +814,7 @@ map p <Plug>(miniyank-autoput)
 map P <Plug>(miniyank-autoPut)
 
 " https://vim.fandom.com/wiki/Moving_through_camel_case_words
-" Use one of the following to define the camel characters.
 " Stop on capital letters.
-" CamelCaseWord
-let g:camelchar = "A-Z"
-" Also stop on numbers.
-let g:camelchar = "A-Z0-9"
-" Include '.' for class member, ',' for separator, ';' end-statement, " and <[< bracket starts and "'` quotes.
-let g:camelchar = "A-Z0-9.,;:{([`'\""
 nnoremap <silent><A-C-b> :<C-u>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>
 nnoremap <silent><A-C-f> :<C-u>call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%$','W')<CR>
 inoremap <silent><A-C-b> <C-o>:call search('\C\<\<Bar>\%(^\<Bar>[^'.g:camelchar.']\@<=\)['.g:camelchar.']\<Bar>['.g:camelchar.']\ze\%([^'.g:camelchar.']\&\>\@!\)\<Bar>\%^','bW')<CR>
@@ -687,7 +862,6 @@ nmap <silent> ]g <Plug>(coc-diagnostic-next)
 " GoTo code navigation.
 nmap <silent> gd <Plug>(coc-definition)
 nmap <silent> gy <Plug>(coc-type-definition)
-nmap <silent> gi <Plug>(coc-implementation)
 nmap <silent> gr <Plug>(coc-references)
 
 " Use K to show documentation in preview window.
@@ -716,156 +890,3 @@ omap ac <Plug>(coc-classobj-a)
 " Requires 'textDocument/selectionRange' support of language server.
 nmap <silent> <C-s> <Plug>(coc-range-select)
 xmap <silent> <C-s> <Plug>(coc-range-select)
-
-"*****************************************************************************
-"" Custom configs
-"*****************************************************************************
-
-" Syntax highlight
-" Default highlight is better than polyglot
-let g:polyglot_disabled = ['python']
-let python_highlight_all = 1
-
-" vim-pandoc inserts citations with <C-x><C-o>
-" disable automatic folding by vim-pandoc
-let g:pandoc#modules#disabled = ["folding"]
-let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
-" In addition to vim-pandoc, zotcite and nvim-r can insert citations
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1940"
-
-" https://jovicailic.org/2017/04/vim-persistent-undo/
-set undofile
-set undodir=~/.local/share/nvim/undo
-
-set completeopt=longest,menuone
-
-" https://www.johnhawthorn.com/2012/09/vi-escape-delays/
-set timeoutlen=1000 ttimeoutlen=10
-
-"" Directories for swp files
-set nobackup
-set noswapfile
-set nowritebackup
-
-" Better display for messages
-set cmdheight=1
-
-" You will have bad experience for diagnostic messages when it's default 4000.
-set updatetime=300
-
-" Don't pass messages to |ins-completion-menu|.
-set shortmess+=c
-
-" (In times of great desperation) allow use of the mouse
-set mouse=a
-
-" https://github.com/neovim/neovim/wiki/FAQ#how-to-change-cursor-shape-in-the-terminal
-set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkon100
-
-" Share system clipboard ("+) and unnamed ("") registers
-" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
-" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
-set clipboard=unnamed
-if has('unnamedplus')
-  set clipboard=unnamed,unnamedplus
-endif
-set go+=a
-
-" Neovim defaults https://neovim.io/doc/user/vim_diff.html
-" 'autoindent' is enabled
-" 'background' defaults to "dark" (unless set automatically by the terminal/UI)
-" 'belloff' defaults to "all"
-" 'compatible' is always disabled
-" 'complete' excludes "i"
-" 'cscopeverbose' is enabled
-" 'history' defaults to 10000 (the maximum)
-" 'showcmd' is enabled
-" 'sidescroll' defaults to 1
-" 'smarttab' is enabled
-" 'tabpagemax' defaults to 50
-" 'wildmenu' is enabled
-
-" Neovim defaults?
-set path+=** " Provides tab-completion for all file-related tasks
-set lazyredraw " Don't redraw while executing macros (good performance config)
-set showmatch " Show matching brackets when text indicator is over them
-set hidden " can put buffer to the background without writing to disk, will remember history/marks.
-
-highlight VertSplit ctermbg=NONE guibg=NONE
-set fillchars+=vert:│
-set laststatus=0
-highlight Normal ctermfg=white ctermbg=black
-
-"" fzf.vim
-set wildmode=list:longest,list:full
-set wildignore+=*.o,*.obj,.git,*.rbc,*.pyc,__pycache__
-let $FZF_DEFAULT_COMMAND =  "find * -path '*/\.*' -prune -o -path 'node_modules/**' -prune -o -path 'target/**' -prune -o -path 'dist/**' -prune -o  -type f -print -o -type l -print 2> /dev/null"
-
-" The Silver Searcher
-if executable('ag')
-  let $FZF_DEFAULT_COMMAND = 'ag --hidden --ignore .git -g ""'
-  set grepprg=ag\ --nogroup\ --nocolor
-endif
-
-" ripgrep
-if executable('rg')
-  let $FZF_DEFAULT_COMMAND = 'rg --files --hidden --follow --glob "!.git/*"'
-  set grepprg=rg\ --vimgrep
-  command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number --no-heading --fixed-strings --ignore-case --hidden --follow --glob "!.git/*" --color "always" '.shellescape(<q-args>).'| tr -d "\017"', 1, <bang>0)
-endif
-
-" Disable visualbell
-set noerrorbells visualbell t_vb=
-
-" http://sherifsoliman.com/2017/07/22/nvim-r/
-" press alt+, to have Nvim-R insert the assignment operator: <-
-let R_assign_map = "<A-,>"
-
-" https://github.com/randy3k/radian#nvim-r-support
-let R_esc_term = 0
-let R_external_term = 1
-let R_app = "radian"
-let R_cmd = "R"
-let R_hl_term = 0
-let R_args = []  " if you had set any
-let R_bracketed_paste = 1
-
-" set a minimum source editor width
-" let R_min_editor_width = 80
-
-" make sure the console is at the bottom by making it really wide
-" let R_rconsole_width = 1000
-
-" https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/
-" let g:rout_follow_colorscheme = 1
-" let g:Rout_more_colors = 1
-
-" Don't expand a dataframe to show columns by default
-" let R_objbr_opendf = 0
-" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2152
-" Only use the mappings listed below
-let R_user_maps_only = 1
-" Do not replace grave accent with chunk delimiters in Rmd files
-" Use alt-i to insert code chunks instead
-let R_rmdchunk = 0
-
-" COC settings
-" https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
-let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-fzf-preview', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
-
-" Always show the signcolumn, otherwise it would shift the text each time
-" diagnostics appear/become resolved.
-if has("patch-8.1.1564")
-  " Recently vim can merge signcolumn and number column into one
-  set signcolumn=number
-else
-  set signcolumn=yes
-endif
-
-" Add (Neo)Vim's native statusline support.
-" NOTE: Please see `:h coc-status` for integrations with external plugins that
-" provide custom statusline: lightline.vim, vim-airline.
-set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
-
-let g:coc_snippet_next = '<tab>'
-let g:coc_snippet_prev = '<s-tab>'
