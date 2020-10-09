@@ -318,6 +318,11 @@ augroup vimrc-sync-fromstart
   autocmd BufEnter * :syntax sync maxlines=200
 augroup END
 
+" syntax highlighting for files with weird extensions
+autocmd BufNewFile,BufRead .tmux.conf* set syntax=tmux
+autocmd BufNewFile,BufRead *radian_profile set syntax=r
+autocmd BufNewFile,BufRead shortcuts.jupyterlab-settings set syntax=json
+
 "" Remember cursor position
 augroup vimrc-remember-cursor-position
   autocmd!
