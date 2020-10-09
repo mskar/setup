@@ -257,7 +257,7 @@ $(VIM):
 	-brew install vim
 ~/.vim/.vimrc: ~/mskar/setup/.vimrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
-	mkdir ~/.vim/
+	mkdir -p ~/.vim/
 	ln -sf ~/mskar/setup/.vimrc ~/.vim/.vimrc
 /Applications/VimR.app:
 	-brew cask install vimr
@@ -282,7 +282,8 @@ $(VSCODE_LIVESHARE):
 $(XPDF):
 	-brew install xpdf
 ~/.zshrc: ~/mskar/setup/.zshrc
-	curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
+	# curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
+	ln -sf ~/mskar/setup/.zshrc ~/.zshrc
 ~/.zsh/zsh-autosuggestions:
 	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ~/.zsh/zsh-syntax-highlighting:
