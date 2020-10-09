@@ -168,7 +168,7 @@ $(GMV):
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/karabiner.json
 	# curl https://raw.githubusercontent.com/mskar/setup/master/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 	mkdir -p ~/.config/karabiner
-	-ln -fs ~/mskar/setup/karabiner.json ~/.config/karabiner/karabiner.json
+	-ln -fs ~/mskar/setup/karabiner.json ~/.config/karabiner/
 ~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython_config.py
 	# curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 	mkdir -p ~/.ipython/profile_default
