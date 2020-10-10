@@ -322,7 +322,6 @@ bind -r C-n next-window
 bind -r C-p previous-window
 
 # allow ctrl to be used with copy mode / paste bindings
-bind C-v    copy-mode
 bind y      paste-buffer
 bind C-y    paste-buffer
 
