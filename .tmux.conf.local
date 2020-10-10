@@ -310,63 +310,65 @@ bind -r M-h resize-pane -L 10
 bind -r M-l resize-pane -R 10
 
 # https://unix.stackexchange.com/questions/30270/tmux-disable-confirmation-prompt-on-kill-window
-bind X kill-pane
+bind X      kill-pane
 
 # hide current pane with prefix x, to kill a pane use ctrl-d or run exit in empty terminal
-bind x select-pane -t :.+ \; resize-pane -Z
+bind x      select-pane -t :.+ \; resize-pane -Z
 
 # rebind n and p (n was unbound and p was bound to paste)
-bind-key n    next-window
-bind-key p    previous-window
-bind-key C-n  next-window
-bind-key C-p  previous-window
+bind -r n   next-window
+bind -r p   previous-window
+bind -r C-n next-window
+bind -r C-p previous-window
 
 # allow ctrl to be used with copy mode / paste bindings
-bind-key C-[  copy-mode
-bind-key C-]  paste-buffer
-bind-key C-v  copy-mode
-bind-key y    paste-buffer
-bind-key C-y  paste-buffer
+bind C-v    copy-mode
+bind y      paste-buffer
+bind C-y    paste-buffer
 
 # like -, split window with \ or |
-bind-key \\   split-window -h
-bind-key C-\\ split-window -h
-bind-key C-_  split-window -v
+bind \\     split-window -h
+
+# pane navigation (without repeat)
+bind h      select-pane -L  # move left
+bind j      select-pane -D  # move down
+bind k      select-pane -U  # move up
+bind l      select-pane -R  # move right
+bind C-h    select-pane -L  # move left
+bind C-j    select-pane -D  # move down
+bind C-k    select-pane -U  # move up
+bind C-l    select-pane -R  # move right
+# the default for l is last-window
+# omt uses c-l is next-window
 
 # Add ctrl to default keybindings that do not use shift
-bind-key C-0  select-window -t :0
-bind-key C-1  select-window -t :1
-bind-key C-2  select-window -t :2
-bind-key C-3  select-window -t :3
-bind-key C-4  select-window -t :4
-bind-key C-5  select-window -t :5
-bind-key C-6  select-window -t :6
-bind-key C-7  select-window -t :7
-bind-key C-8  select-window -t :8
-bind-key C-9  select-window -t :9
-bind-key C-=  choose-buffer
-bind-key C-\; last-pane
-# c-c is in .tmux.conf
-bind-key C-d  detach-client
-# c-f is in .tmux.conf
-bind-key C-i  display-message
-bind-key C-j  last-window
-# n and p are above
+# ctrl 2-8 send codes        
+# ctrl / sends codes 
+# ctrl is ignored with - ; = . [ ] , \ ' space enter 1 9 and comma
+bind `      last-window
+bind 0      last-window
+bind 1      select-window -t:^
+bind 9      select-window -t:$
+bind C-b    list-buffers
+bind C-c    new-window
+bind C-d    detach-client
+bind C-f    command-prompt "find-window '%%'"
+bind C-i    display-message
 # c-o rotates panes
-bind-key C-r  source-file ~/.tmux.conf \; display '~/.tmux.conf sourced'
-bind-key C-s  choose-session
-bind-key C-t  clock-mode
-bind-key C-w  choose-window
-bind-key C-x  confirm-before -p "kill-pane #P? (y/n)" kill-pane
+bind C-r    source-file ~/.tmux.conf \; display '~/.tmux.conf sourced'
+bind C-s    choose-session
+bind C-t    clock-mode
+bind C-w    choose-window
+bind C-x    confirm-before -p "kill-pane #P? (y/n)" kill-pane
 # c-z suspends tmux
-bind-key M-1  select-layout even-horizontal
-bind-key M-2  select-layout even-vertical
-bind-key M-3  select-layout main-horizontal
-bind-key M-4  select-layout main-vertical
-bind-key M-5  select-layout tiled
-bind-key M-n  next-window -a
-bind-key M-o  rotate-window -D
-bind-key M-p  previous-window -a
+bind M-1    select-layout even-horizontal
+bind M-2    select-layout even-vertical
+bind M-3    select-layout main-horizontal
+bind M-4    select-layout main-vertical
+bind M-5    select-layout tiled
+bind M-n    next-window -a
+bind M-o    rotate-window -D
+bind M-p    previous-window -a
 
 # List of plugins
 set -g @plugin 'tmux-plugins/tpm'
