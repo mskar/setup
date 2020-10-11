@@ -50,10 +50,10 @@ font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: $(FZF)
 git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global
 gmv: $(GMV)
-ipy: ~/miniconda/envs/py ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
+ipy: ~/miniconda/bin/ipython ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
 jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
-jupyter: ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
+jupyter: ~/miniconda/bin/jupyter ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 node: $(NODE)
 noti: $(NOTI)
@@ -160,6 +160,8 @@ $(GMV):
 /Applications/JetBrainsToolbox.app:
 	-brew cask install jetbrains-toolbox
 	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
+~/miniconda/bin/jupyter:
+	-conda install -yc conda-forge jupyter
 ~/.ideavimrc: ~/mskar/setup/.ideavimrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
 	-ln -fs ~/mskar/setup/.ideavimrc ~/.ideavimrc
@@ -169,6 +171,8 @@ $(GMV):
 	# curl https://raw.githubusercontent.com/mskar/setup/master/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 	mkdir -p ~/.config/karabiner
 	-ln -fs ~/mskar/setup/karabiner.json ~/.config/karabiner/
+~/miniconda/bin/ipython:
+	-python -m pip install git+https://github.com/mskar/ipython
 ~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython_config.py
 	# curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 	mkdir -p ~/.ipython/profile_default
@@ -206,18 +210,17 @@ $(NVIM):
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 ~/miniconda/bin/ptpython:
-	-pip install ptpython
+	-python -m pip install git+https://github.com/mskar/ptpython
 ~/Library/ApplicationSupport/ptpython/config.py: ~/mskar/setup/config.py
 	# curl https://raw.githubusercontent.com/mskar/setup/master/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
 	mkdir -p ~/Library/Application\ Support/ptpython/ ~/Library/ApplicationSupport/ptpython/
 	ln -sf ~/mskar/setup/config.py ~/Library/Application\ Support/ptpython/config.py
 	ln -sf ~/mskar/setup/config.py ~/Library/ApplicationSupport/ptpython/config.py
 ~/miniconda/bin/radian:
-	-pip install radian
+	-python -m pip install git+https://github.com/mskar/radian
 ~/.radian_profile: ~/mskar/setup/.radian_profile
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.radian_profile -o ~/.radian_profile
 	ln -sf ~/mskar/setup/.radian_profile ~/.radian_profile
-	ln -sf ~/mskar/setup/.radian_profile ~/radian_profile.R
 $(RENAME):
 	-brew install rename
 ~/mskar/setup/:
