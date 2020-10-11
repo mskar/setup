@@ -593,12 +593,12 @@ inoremap <A--> <Esc>ugi
 " inoremap <A--> <C-o>u
 
 "" Git
-noremap ga :Gwrite<CR>
+noremap ga :silent Gwrite<CR>
 noremap gs :Gstatus<CR>
 nnoremap gh :diffget //2<CR>
 nnoremap gl :diffget //3<CR>
-noremap <leader>w :Gwrite<CR>
-noremap <leader>gc :Gwrite<bar>Gcommit<CR>
+noremap <leader>w :silent Gwrite<CR>
+noremap <leader>gc :silent Gwrite<bar>Gcommit<CR>
 noremap <leader>gp :Gpush<CR>
 noremap <leader>gu :Gpull<CR>
 noremap <leader>gd :Gvdiff<CR>
