@@ -51,7 +51,7 @@ font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: $(FZF)
 git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global $(DSF)
 gmv: $(GMV)
-ipy: ~/miniconda/bin/ipython ~/.ipython/profile_default/ipython_config.py ~/.ipython/profile_default/startup/keybindings.py
+ipy: ~/miniconda/bin/ipython ~/.ipython/profile_default/ipython_config.py # ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
 jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
 jupyter: ~/miniconda/bin/jupyter ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
@@ -91,7 +91,7 @@ zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh
 ~/mskar/setup/ipython_config.py: repo
 ~/mskar/setup/karabiner.json: repo
 ~/mskar/setup/keybindings.json: repo
-~/mskar/setup/keybindings.py: repo
+# ~/mskar/setup/keybindings.py: repo
 ~/mskar/setup/rstudio-prefs.json: repo
 ~/mskar/setup/rstudio_bindings.json: repo
 ~/mskar/setup/settings.json: repo
@@ -180,10 +180,10 @@ $(GMV):
 	# curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 	mkdir -p ~/.ipython/profile_default
 	ln -sf ~/mskar/setup/ipython_config.py ~/.ipython/profile_default/ipython_config.py
-~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/keybindings.py
+# ~/.ipython/profile_default/startup/keybindings.py: ~/mskar/setup/keybindings.py
 	# curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
-	mkdir -p ~/.ipython/profile_default/startup
-	ln -sf ~/mskar/setup/keybindings.py ~/.ipython/profile_default/startup/keybindings.py
+	# mkdir -p ~/.ipython/profile_default/startup
+	# ln -sf ~/mskar/setup/keybindings.py ~/.ipython/profile_default/startup/keybindings.py
 $(NODE):
 	-brew install node
 $(NOTI):
