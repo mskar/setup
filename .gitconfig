@@ -5,7 +5,7 @@
 [core]
     editor = /usr/local/bin/nvim
     excludesfile = ~/.gitignore_global
-    pager=less -x4
+	pager = diff-so-fancy | less --tabs=4 -RFX
     autocrlf = input
 [color]
     branch = auto
@@ -16,11 +16,13 @@
     local = blue
     remote = green
 [color "diff"]
-    meta = yellow
-    frag = magenta
-    old = red bold
-    new = green
+	meta = 11
+	frag = magenta bold
+	old = red bold
+	new = green bold
     plain = white
+	commit = yellow bold
+	whitespace = red reverse
 [color "status"]
     added = yellow
     changed = green
@@ -50,3 +52,8 @@
     name = Martin Skarzynski
 [credential]
 	helper = cache --timeout=3600
+[color "diff-highlight"]
+	oldHighlight = red bold 52
+	newNormal = green bold
+	newHighlight = green bold 22
+	oldNormal = red bold
