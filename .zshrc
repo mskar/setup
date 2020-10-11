@@ -107,7 +107,7 @@ alias b="git branch"
 alias br="git branch --remotes"
 alias bD="git branch -D" # delete branch (even if not merged)
 alias ba="git branch --all"
-alias bb="func() { local branch=$(echo '$(git branch --color=always --verbose | fzf --ansi --bind="alt-y:execute-silent(echo {} | sed s/\*/\ / | cut -d \  -f3 | pbcopy),alt-x:execute-silent(git branch -D {1})+reload(git branch --color=always --verbose)" --preview="git diff --color=always \$(echo \$(git rev-parse --abbrev-ref HEAD)..{1}) | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" | cut -c3- | cut -d " " -f1)') && [ $(echo '$branch') ] && git checkout $(echo '$branch'); }; func"
+alias bb="func() { local branch=$(echo '$(git branch --color=always --verbose | fzf --ansi --bind="alt-y:execute-silent(echo {} | cut -c3- | cut -d \  -f1 | pbcopy),alt-x:execute-silent(git branch -D {1})+reload(git branch --color=always --verbose)" --preview="git diff --color=always \$(echo \$(git rev-parse --abbrev-ref HEAD)..{1}) | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" | cut -c3- | cut -d " " -f1)') && [ $(echo '$branch') ] && git checkout $(echo '$branch'); }; func"
 alias bc="brew cask"
 alias bci="brew cask install"
 alias bcl="brew cask list"

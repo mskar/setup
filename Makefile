@@ -164,7 +164,7 @@ $(GMV):
 	-brew cask install jetbrains-toolbox
 	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
 ~/miniconda/bin/jupyter:
-	-conda install -yc conda-forge jupyter
+	-python -m pip install jupyter
 ~/.ideavimrc: ~/mskar/setup/.ideavimrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
 	-ln -fs ~/mskar/setup/.ideavimrc ~/.ideavimrc

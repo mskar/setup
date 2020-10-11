@@ -198,7 +198,7 @@ bash ~/miniconda.sh -bp $HOME/miniconda
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
 ~/miniconda/bin/conda install -yc conda-forge cookiecutter neovim
 
-python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython
+python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyter
 
 ## Jupyter
 
