@@ -315,6 +315,10 @@ command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organize
 "*****************************************************************************
 "" Autocmd Rules
 "*****************************************************************************
+" https://vim.fandom.com/wiki/Auto-save_current_buffer_periodically
+" https://vi.stackexchange.com/a/79
+au CursorHold <buffer> update
+
 "" The PC is fast enough, do syntax highlight syncing from start unless 200 lines
 augroup vimrc-sync-fromstart
   autocmd!
