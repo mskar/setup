@@ -160,6 +160,9 @@ let g:pandoc#syntax#conceal#blacklist = ["codeblock_start", "codeblock_delim"]
 
 set completeopt=longest,menuone
 
+" https://neovim.io/doc/user/options.html#'autowrite'
+set autowrite
+
 " https://jovicailic.org/2017/04/vim-persistent-undo/
 set undofile
 set undodir=~/.local/share/nvim/undo
