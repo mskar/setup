@@ -12,6 +12,7 @@ BAT = $(shell brew --prefix)/bin/bat
 BREW = $(shell brew --prefix)/bin/brew
 BTM = $(shell brew --prefix)/bin/btm
 DSF = $(shell brew --prefix)/bin/diff-so-fancy
+DELTA = $(shell brew --prefix)/bin/delta
 EXA = $(shell brew --prefix)/bin/exa
 FASD = $(shell brew --prefix)/bin/fasd
 FD = $(shell brew --prefix)/bin/fd
@@ -49,7 +50,7 @@ fd: $(FD)
 flycut: /Applications/Flycut.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: $(FZF)
-git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global $(DSF)
+git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global $(DSF) $(DELTA)
 gmv: $(GMV)
 ipy: ~/miniconda/bin/ipython ~/.ipython/profile_default/ipython_config.py # ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
@@ -129,6 +130,8 @@ $(BREW):
 	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
 	-bash ~/miniconda.sh -bp ~/miniconda
 	-conda install -yc conda-forge cookiecutter neovim
+$(DELTA):
+	-brew install git-delta
 $(DSF):
 	-brew install diff-so-fancy
 $(EXA):
