@@ -103,9 +103,11 @@ $(BASH):
 ~/.bash_profile: ~/mskar/setup/.bash_profile
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
 	ln -sf ~/mskar/setup/.bash_profile ~/.bash_profile
+	ln -sf ~/mskar/setup/.bash_profile ~/mskar/setup/bash_profile
 ~/.inputrc: ~/mskar/setup/.inputrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
 	ln -sf ~/mskar/setup/.inputrc ~/.inputrc
+	ln -sf ~/mskar/setup/.inputrc ~/mskar/setup/inputrc
 ~/.config/bottom/bottom.toml: ~/mskar/setup/bottom.toml
 	# curl https://raw.githubusercontent.com/mskar/setup/master/bottom.toml -o ~/.config/bottom/bottom.toml --create-dirs
 	ln -sf ~/mskar/setup/bottom.toml ~/bottom.toml
@@ -150,9 +152,11 @@ $(GIT):
 ~/.gitconfig: ~/mskar/setup/.gitconfig
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
 	ln -sf ~/mskar/setup/.gitconfig ~/.gitconfig
+	ln -sf ~/mskar/setup/.gitconfig ~/mskar/setup/gitconfig
 ~/.gitignore_global: ~/mskar/setup/.gitignore_global
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore_global -o ~/.gitignore_global
 	ln -sf ~/mskar/setup/.gitignore_global ~/.gitignore_global
+	ln -sf ~/mskar/setup/.gitignore_global ~/mskar/setup/gitignore_global
 $(GMV):
 	-brew install coreutils
 /Applications/iTerm.app:
@@ -168,6 +172,7 @@ $(GMV):
 ~/.ideavimrc: ~/mskar/setup/.ideavimrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
 	-ln -fs ~/mskar/setup/.ideavimrc ~/.ideavimrc
+	-ln -fs ~/mskar/setup/.ideavimrc ~/mskar/setup/ideavimrc
 /Applications/Karabiner-Elements.app:
 	-brew cask install karabiner-elements
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/karabiner.json
@@ -210,6 +215,7 @@ $(NVIM):
 ~/.p10k.zsh: ~/mskar/setup/.p10k.zsh
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.p10k.zsh -o ~/.p10k.zsh
 	ln -sf ~/mskar/setup/.p10k.zsh ~/.p10k.zsh
+	ln -sf ~/mskar/setup/.p10k.zsh ~/mskar/setup/p10k.zsh
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 ~/miniconda/bin/ptpython:
@@ -224,6 +230,7 @@ $(NVIM):
 ~/.radian_profile: ~/mskar/setup/.radian_profile
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.radian_profile -o ~/.radian_profile
 	ln -sf ~/mskar/setup/.radian_profile ~/.radian_profile
+	ln -sf ~/mskar/setup/.radian_profile ~/mskar/setup/radian_profile
 $(RENAME):
 	-brew install rename
 ~/mskar/setup/:
@@ -255,6 +262,7 @@ $(TMUX):
 ~/.tmux.conf.local: ~/mskar/setup/.tmux.conf.local
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
 	ln -sf ~/mskar/setup/.tmux.conf.local ~/.tmux.conf.local
+	ln -sf ~/mskar/setup/.tmux.conf.local ~/mskar/setup/tmux.conf.local
 ~/.tmux.conf:
 	curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 ~/.tmux/plugins/tpm:
@@ -265,6 +273,7 @@ $(VIM):
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
 	mkdir -p ~/.vim/
 	ln -sf ~/mskar/setup/.vimrc ~/.vim/.vimrc
+	ln -sf ~/mskar/setup/.vimrc ~/mskar/setup/vimrc
 /Applications/VimR.app:
 	-brew cask install vimr
 /Applications/VisualStudioCode.app:
@@ -290,6 +299,7 @@ $(XPDF):
 ~/.zshrc: ~/mskar/setup/.zshrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
 	ln -sf ~/mskar/setup/.zshrc ~/.zshrc
+	ln -sf ~/mskar/setup/.zshrc ~/mskar/setup/zshrc
 ~/.zsh/zsh-autosuggestions:
 	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ~/.zsh/zsh-syntax-highlighting:
