@@ -1,3 +1,5 @@
+[interactive]
+    diffFilter = delta --color-only
 [apply]
     whitespace = nowarn
 [branch]
@@ -5,7 +7,7 @@
 [core]
     editor = /usr/local/bin/nvim
     excludesfile = ~/.gitignore_global
-	pager = diff-so-fancy | less --tabs=4 -RFX
+    pager = delta
     autocrlf = input
 [color]
     branch = auto
@@ -57,3 +59,8 @@
 	newNormal = green bold
 	newHighlight = green bold 22
 	oldNormal = red bold
+[delta]
+	side-by-side = true
+    plus-color = "#012800"
+    minus-color = "#340001"
+    syntax-theme = Monokai Extended
