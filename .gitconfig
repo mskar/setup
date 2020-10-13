@@ -64,6 +64,7 @@
     minus-color = "#340001"
     features = decorations
     whitespace-error-style = 22 reverse
+    syntax-theme = Dracula
 
 [delta "decorations"]
     commit-decoration-style = bold yellow box ul
