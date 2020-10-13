@@ -23,6 +23,7 @@ GMV = $(shell brew --prefix)/bin/gmv
 NVIM = $(shell brew --prefix)/bin/nvim
 NODE = $(shell brew --prefix)/bin/node
 NOTI = $(shell brew --prefix)/bin/noti
+PASS = $(shell brew --prefix)/bin/pass
 RSTATS = $(shell brew --prefix)/bin/r
 RENAME = $(shell brew --prefix)/bin/rename
 RG = $(shell brew --prefix)/bin/rg
@@ -35,7 +36,7 @@ VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
-all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti ptpython radian rename repo rg rstudio scim shiftit tldr tmux vim vimr vscode xpdf zsh
+all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim shiftit tldr tmux vim vimr vscode xpdf zsh
 
 ag: $(AG)
 bash: $(BASH) ~/.bash_profile ~/.inputrc
@@ -60,6 +61,7 @@ karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.a
 node: $(NODE)
 noti: $(NOTI)
 neovim: $(NVIM) ~/.config/nvim/init.vim ~/.local/share/nvim/undo
+pass: $(PASS)
 ptpython: ~/miniconda/bin/ptpython ~/Library/ApplicationSupport/ptpython/config.py
 radian: ~/miniconda/bin/radian ~/.radian_profile
 rename: $(RENAME)
@@ -70,9 +72,9 @@ scim: $(SCIM)
 shiftit: /Applications/ShiftIt.app
 tldr: $(TLDR)
 tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
-vim: $(VIM) ~/.vim/.vimrc ~/.vim/undodir
+vim: $(VIM) ~/.vimrc ~/.vim/undodir
 vimr: /Applications/VimR.app
-vscode: /Applications/Visual\ Studio\ Code.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/Application\ Support/Code/User/keybindings.json ~/Library/Application\ Support/Code/User/settings.json
+vscode: /Applications/Visual\ Studio\ Code.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json
 xpdf: $(XPDF)
 zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh/zsh-syntax-highlighting
 
@@ -213,6 +215,8 @@ $(NVIM):
 	ln -sf ~/mskar/setup/ginit.vim ~/.config/nvim/ginit.vim
 ~/.local/share/nvim/undo:
 	mkdir -p ~/.local/share/nvim/undo
+$(PASS):
+	-brew install pass
 ~/.zsh/powerlevel10k:
 	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
 ~/.p10k.zsh: ~/mskar/setup/.p10k.zsh
@@ -272,10 +276,9 @@ $(TMUX):
 	-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 $(VIM):
 	-brew install vim
-~/.vim/.vimrc: ~/mskar/setup/.vimrc
+~/.vimrc: ~/mskar/setup/.vimrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vimrc
-	mkdir -p ~/.vim/
-	ln -sf ~/mskar/setup/.vimrc ~/.vim/.vimrc
+	ln -sf ~/mskar/setup/.vimrc ~/.vimrc
 	ln -sf ~/mskar/setup/.vimrc ~/mskar/setup/vimrc
 /Applications/VimR.app:
 	-brew cask install vimr
@@ -307,5 +310,8 @@ $(XPDF):
 	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ~/.zsh/zsh-syntax-highlighting:
 	-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
+
+clean:
+	rm ~/.bash_profile ~/.config/bottom/bottom.toml ~/.config/karabiner/karabiner.json ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json ~/.gitconfig ~/.gitignore_global ~/.ideavimrc ~/.inputrc ~/.ipython/profile_default/ipython_config.py ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings ~/.p10k.zsh ~/.radian_profile ~/.tmux.conf.local ~/.vim/coc-settings.json ~/.vimrc ~/.zshrc ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json ~/Library/ApplicationSupport/ptpython/config.py
 
 .PHONY: bash iterm jetbrains karabiner neovim rstudio tmux vim vscode zsh conda font git ipy repo shiftit flycut

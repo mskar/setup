@@ -7,7 +7,7 @@
 [core]
     editor = /usr/local/bin/nvim
     excludesfile = ~/.gitignore_global
-    pager = delta
+	pager = delta
     autocrlf = input
 [color]
     branch = auto
@@ -60,7 +60,12 @@
 	newHighlight = green bold 22
 	oldNormal = red bold
 [delta]
-	side-by-side = true
     plus-color = "#012800"
     minus-color = "#340001"
-    syntax-theme = Monokai Extended
+    features = decorations
+    whitespace-error-style = 22 reverse
+
+[delta "decorations"]
+    commit-decoration-style = bold yellow box ul
+    file-style = bold yellow ul
+    file-decoration-style = none
