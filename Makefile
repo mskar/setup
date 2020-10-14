@@ -112,7 +112,7 @@ $(BASH):
 	ln -sf ~/mskar/setup/.inputrc ~/mskar/setup/inputrc
 ~/.config/bottom/bottom.toml: ~/mskar/setup/bottom.toml
 	# curl https://raw.githubusercontent.com/mskar/setup/master/bottom.toml -o ~/.config/bottom/bottom.toml --create-dirs
-	ln -sf ~/mskar/setup/bottom.toml ~/bottom.toml
+	ln -sf ~/mskar/setup/bottom.toml ~/.config/bottom/bottom.toml
 $(BAT):
 	-brew install bat
 $(BTM):
