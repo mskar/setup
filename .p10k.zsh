@@ -47,13 +47,14 @@
     anaconda                # conda environment (https://conda.io/)
     pyenv                   # python environment (https://github.com/pyenv/pyenv)
     dir                     # current directory
+    context                 # user@hostname
     os_icon                 # os identifier
-    date                    # current date
-    time                    # current time
-    ram                     # free RAM
-    load                    # CPU load
-    wifi                    # wifi speed
-    battery                 # internal battery
+    # date                    # current date
+    # time                    # current time
+    # ram                     # free RAM
+    # load                    # CPU load
+    # wifi                    # wifi speed
+    # battery                 # internal battery
     # direnv                  # direnv status (https://direnv.net/)
     # asdf                    # asdf version manager (https://github.com/asdf-vm/asdf)
     # command_execution_time  # duration of the last command
@@ -85,7 +86,6 @@
     # azure                   # azure account name (https://docs.microsoft.com/en-us/cli/azure)
     # gcloud                  # google cloud cli account and project (https://cloud.google.com/)
     # google_app_cred         # google application credentials (https://cloud.google.com/docs/authentication/production)
-    # context                 # user@hostname
     # nordvpn                 # nordvpn connection status, linux only (https://nordvpn.com/)
     # ranger                  # ranger shell (https://github.com/ranger/ranger)
     # nnn                     # nnn shell (https://github.com/jarun/nnn)
@@ -517,14 +517,14 @@
 
   ###################[ command_execution_time: duration of the last command ]###################
   # Execution time color.
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_FOREGROUND=0
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_BACKGROUND=3
-  # Show duration of the last command if takes at least this many seconds.
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_THRESHOLD=3
-  # Show this many fractional digits. Zero means round to seconds.
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_PRECISION=0
-  # Duration format: 1d 2h 3m 4s.
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_FORMAT='d h m s'
+  # typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_FOREGROUND=0
+  # typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_BACKGROUND=3
+  # # Show duration of the last command if takes at least this many seconds.
+  # typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_THRESHOLD=3
+  # # Show this many fractional digits. Zero means round to seconds.
+  # typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_PRECISION=0
+  # # Duration format: 1d 2h 3m 4s.
+  # typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_FORMAT='d h m s'
   # Custom icon.
   # typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_VISUAL_IDENTIFIER_EXPANSION='⭐'
   # Custom prefix.
@@ -762,10 +762,10 @@
   # typeset -g POWERLEVEL9K_DISK_USAGE_CRITICAL_FOREGROUND=7
   # typeset -g POWERLEVEL9K_DISK_USAGE_CRITICAL_BACKGROUND=1
   # Thresholds for different levels of disk usage (percentage points).
-  typeset -g POWERLEVEL9K_DISK_USAGE_WARNING_LEVEL=90
-  typeset -g POWERLEVEL9K_DISK_USAGE_CRITICAL_LEVEL=95
-  # If set to true, hide disk usage when below $POWERLEVEL9K_DISK_USAGE_WARNING_LEVEL percent.
-  typeset -g POWERLEVEL9K_DISK_USAGE_ONLY_WARNING=false
+  # typeset -g POWERLEVEL9K_DISK_USAGE_WARNING_LEVEL=90
+  # typeset -g POWERLEVEL9K_DISK_USAGE_CRITICAL_LEVEL=95
+  # # If set to true, hide disk usage when below $POWERLEVEL9K_DISK_USAGE_WARNING_LEVEL percent.
+  # typeset -g POWERLEVEL9K_DISK_USAGE_ONLY_WARNING=false
   # Custom icon.
   # typeset -g POWERLEVEL9K_DISK_USAGE_VISUAL_IDENTIFIER_EXPANSION='⭐'
 
@@ -787,8 +787,8 @@
 
   ######################################[ ram: free RAM ]#######################################
   # RAM color.
-  typeset -g POWERLEVEL9K_RAM_FOREGROUND=0
-  typeset -g POWERLEVEL9K_RAM_BACKGROUND=147
+  # typeset -g POWERLEVEL9K_RAM_FOREGROUND=0
+  # typeset -g POWERLEVEL9K_RAM_BACKGROUND=147
   # Custom icon.
   # typeset -g POWERLEVEL9K_RAM_VISUAL_IDENTIFIER_EXPANSION='⭐'
 
@@ -801,16 +801,16 @@
 
   ######################################[ load: CPU load ]######################################
   # Show average CPU load over this many last minutes. Valid values are 1, 5 and 15.
-  typeset -g POWERLEVEL9K_LOAD_WHICH=1
-  # Load color when load is under 50%.
-  typeset -g POWERLEVEL9K_LOAD_NORMAL_FOREGROUND=0
-  typeset -g POWERLEVEL9K_LOAD_NORMAL_BACKGROUND=2
-  # Load color when load is between 50% and 70%.
-  typeset -g POWERLEVEL9K_LOAD_WARNING_FOREGROUND=0
-  typeset -g POWERLEVEL9K_LOAD_WARNING_BACKGROUND=3
-  # Load color when load is over 70%.
-  typeset -g POWERLEVEL9K_LOAD_CRITICAL_FOREGROUND=0
-  typeset -g POWERLEVEL9K_LOAD_CRITICAL_BACKGROUND=1
+  # typeset -g POWERLEVEL9K_LOAD_WHICH=1
+  # # Load color when load is under 50%.
+  # typeset -g POWERLEVEL9K_LOAD_NORMAL_FOREGROUND=0
+  # typeset -g POWERLEVEL9K_LOAD_NORMAL_BACKGROUND=2
+  # # Load color when load is between 50% and 70%.
+  # typeset -g POWERLEVEL9K_LOAD_WARNING_FOREGROUND=0
+  # typeset -g POWERLEVEL9K_LOAD_WARNING_BACKGROUND=3
+  # # Load color when load is over 70%.
+  # typeset -g POWERLEVEL9K_LOAD_CRITICAL_FOREGROUND=0
+  # typeset -g POWERLEVEL9K_LOAD_CRITICAL_BACKGROUND=1
   # Custom icon.
   # typeset -g POWERLEVEL9K_LOAD_VISUAL_IDENTIFIER_EXPANSION='⭐'
 
@@ -980,12 +980,12 @@
   # typeset -g POWERLEVEL9K_GOENV_FOREGROUND=0
   # typeset -g POWERLEVEL9K_GOENV_BACKGROUND=4
   # Hide go version if it doesn't come from one of these sources.
-  typeset -g POWERLEVEL9K_GOENV_SOURCES=(shell local global)
-  # If set to false, hide go version if it's the same as global:
-  # $(goenv version-name) == $(goenv global).
-  typeset -g POWERLEVEL9K_GOENV_PROMPT_ALWAYS_SHOW=false
-  # If set to false, hide go version if it's equal to "system".
-  typeset -g POWERLEVEL9K_GOENV_SHOW_SYSTEM=true
+  # typeset -g POWERLEVEL9K_GOENV_SOURCES=(shell local global)
+  # # If set to false, hide go version if it's the same as global:
+  # # $(goenv version-name) == $(goenv global).
+  # typeset -g POWERLEVEL9K_GOENV_PROMPT_ALWAYS_SHOW=false
+  # # If set to false, hide go version if it's equal to "system".
+  # typeset -g POWERLEVEL9K_GOENV_SHOW_SYSTEM=true
   # Custom icon.
   # typeset -g POWERLEVEL9K_GOENV_VISUAL_IDENTIFIER_EXPANSION='⭐'
 
@@ -994,12 +994,12 @@
   # typeset -g POWERLEVEL9K_NODENV_FOREGROUND=2
   # typeset -g POWERLEVEL9K_NODENV_BACKGROUND=0
   # Hide node version if it doesn't come from one of these sources.
-  typeset -g POWERLEVEL9K_NODENV_SOURCES=(shell local global)
-  # If set to false, hide node version if it's the same as global:
-  # $(nodenv version-name) == $(nodenv global).
-  typeset -g POWERLEVEL9K_NODENV_PROMPT_ALWAYS_SHOW=false
-  # If set to false, hide node version if it's equal to "system".
-  typeset -g POWERLEVEL9K_NODENV_SHOW_SYSTEM=true
+  # typeset -g POWERLEVEL9K_NODENV_SOURCES=(shell local global)
+  # # If set to false, hide node version if it's the same as global:
+  # # $(nodenv version-name) == $(nodenv global).
+  # typeset -g POWERLEVEL9K_NODENV_PROMPT_ALWAYS_SHOW=false
+  # # If set to false, hide node version if it's equal to "system".
+  # typeset -g POWERLEVEL9K_NODENV_SHOW_SYSTEM=true
   # Custom icon.
   # typeset -g POWERLEVEL9K_NODENV_VISUAL_IDENTIFIER_EXPANSION='⭐'
 
@@ -1545,16 +1545,16 @@
 
   ################################[ battery: internal battery ]#################################
   # Show battery in red when it's below this level and not connected to power supply.
-  typeset -g POWERLEVEL9K_BATTERY_LOW_THRESHOLD=20
-  typeset -g POWERLEVEL9K_BATTERY_LOW_FOREGROUND=1
-  # Show battery in green when it's charging or fully charged.
-  typeset -g POWERLEVEL9K_BATTERY_{CHARGING,CHARGED}_FOREGROUND=2
-  # Show battery in yellow when it's discharging.
-  typeset -g POWERLEVEL9K_BATTERY_DISCONNECTED_FOREGROUND=3
-  # Battery pictograms going from low to high level of charge.
-  typeset -g POWERLEVEL9K_BATTERY_STAGES='\uf58d\uf579\uf57a\uf57b\uf57c\uf57d\uf57e\uf57f\uf580\uf581\uf578'
-  # Don't show the remaining time to charge/discharge.
-  typeset -g POWERLEVEL9K_BATTERY_VERBOSE=false
+  # typeset -g POWERLEVEL9K_BATTERY_LOW_THRESHOLD=20
+  # typeset -g POWERLEVEL9K_BATTERY_LOW_FOREGROUND=1
+  # # Show battery in green when it's charging or fully charged.
+  # typeset -g POWERLEVEL9K_BATTERY_{CHARGING,CHARGED}_FOREGROUND=2
+  # # Show battery in yellow when it's discharging.
+  # typeset -g POWERLEVEL9K_BATTERY_DISCONNECTED_FOREGROUND=3
+  # # Battery pictograms going from low to high level of charge.
+  # typeset -g POWERLEVEL9K_BATTERY_STAGES='\uf58d\uf579\uf57a\uf57b\uf57c\uf57d\uf57e\uf57f\uf580\uf581\uf578'
+  # # Don't show the remaining time to charge/discharge.
+  # typeset -g POWERLEVEL9K_BATTERY_VERBOSE=false
   # typeset -g POWERLEVEL9K_BATTERY_BACKGROUND=0
 
   #####################################[ wifi: wifi speed ]#####################################
@@ -1567,7 +1567,7 @@
   # Use different colors and icons depending on signal strength ($P9K_WIFI_BARS).
   #
   #   # Wifi colors and icons for different signal strength levels (low to high).
-    typeset -g my_wifi_fg=(196 11 214 46 45)                                # <-- change these values
+    # typeset -g my_wifi_fg=(196 11 214 46 45)                                # <-- change these values
   #   typeset -g my_wifi_icon=('WiFi' 'WiFi' 'WiFi' 'WiFi' 'WiFi')     # <-- change these values
   #
   #   typeset -g POWERLEVEL9K_WIFI_CONTENT_EXPANSION='%F{${my_wifi_fg[P9K_WIFI_BARS+1]}}$P9K_WIFI_LAST_TX_RATE Mbps'
@@ -1586,21 +1586,21 @@
 
   ####################################[ date: current date ]####################################
   # Current date color.
-  typeset -g POWERLEVEL9K_DATE_FOREGROUND=0
-  typeset -g POWERLEVEL9K_DATE_BACKGROUND=7
-  # Format for the current date: YYYY-MM-DD. See `man 3 strftime`.
-  typeset -g POWERLEVEL9K_DATE_FORMAT='%D{%Y-%m-%d}'
+  # typeset -g POWERLEVEL9K_DATE_FOREGROUND=0
+  # typeset -g POWERLEVEL9K_DATE_BACKGROUND=7
+  # # Format for the current date: YYYY-MM-DD. See `man 3 strftime`.
+  # typeset -g POWERLEVEL9K_DATE_FORMAT='%D{%Y-%m-%d}'
 
   ####################################[ time: current time ]####################################
   # Current time color.
-  typeset -g POWERLEVEL9K_TIME_FOREGROUND=0
-  typeset -g POWERLEVEL9K_TIME_BACKGROUND=7
-  # Format for the current time: HH:MM. See `man 3 strftime`.
-  typeset -g POWERLEVEL9K_TIME_FORMAT='%D{%H:%M}'
-  # If set to true, time will update when you hit enter. This way prompts for the past
-  # commands will contain the start times of their commands as opposed to the default
-  # behavior where they contain the end times of their preceding commands.
-  typeset -g POWERLEVEL9K_TIME_UPDATE_ON_COMMAND=false
+  # typeset -g POWERLEVEL9K_TIME_FOREGROUND=0
+  # typeset -g POWERLEVEL9K_TIME_BACKGROUND=7
+  # # Format for the current time: HH:MM. See `man 3 strftime`.
+  # typeset -g POWERLEVEL9K_TIME_FORMAT='%D{%H:%M}'
+  # # If set to true, time will update when you hit enter. This way prompts for the past
+  # # commands will contain the start times of their commands as opposed to the default
+  # # behavior where they contain the end times of their preceding commands.
+  # typeset -g POWERLEVEL9K_TIME_UPDATE_ON_COMMAND=false
   # Custom icon.
   # typeset -g POWERLEVEL9K_TIME_VISUAL_IDENTIFIER_EXPANSION='⭐'
   # Custom prefix.
