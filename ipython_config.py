@@ -1,4 +1,5 @@
 c.InteractiveShell.confirm_exit = False
+c.InteractiveShell.auto_match = True
 
 # Configuration file for ipython.
 

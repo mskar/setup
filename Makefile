@@ -11,7 +11,6 @@ BASH = $(shell brew --prefix)/bin/bash
 BAT = $(shell brew --prefix)/bin/bat
 BREW = $(shell brew --prefix)/bin/brew
 BTM = $(shell brew --prefix)/bin/btm
-DSF = $(shell brew --prefix)/bin/diff-so-fancy
 DELTA = $(shell brew --prefix)/bin/delta
 EXA = $(shell brew --prefix)/bin/exa
 FASD = $(shell brew --prefix)/bin/fasd
@@ -56,7 +55,7 @@ gmv: $(GMV)
 ipy: ~/miniconda/bin/ipython ~/.ipython/profile_default/ipython_config.py # ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
 jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
-jupyter: ~/miniconda/bin/jupyter ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
+jupyter: ~/miniconda/bin/jupyter ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 node: $(NODE)
 noti: $(NOTI)
@@ -134,8 +133,6 @@ $(BREW):
 	-conda install -yc conda-forge cookiecutter neovim
 $(DELTA):
 	-brew install git-delta
-$(DSF):
-	-brew install diff-so-fancy
 $(EXA):
 	-brew install exa
 $(FASD):
@@ -203,8 +200,8 @@ $(NVIM):
 ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings: ~/mskar/setup/shortcuts.jupyterlab-settings
 	# curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
 	mkdir -p ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension
-	ln -sf ~/mskar/setup/shortcuts.jupyterlab-settings ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings:
-	ln -sf ~/mskar/setup/shortcuts.jupyterlab-settings ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings:
+	ln -sf ~/mskar/setup/shortcuts.jupyterlab-settings ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
+	ln -sf ~/mskar/setup/shortcuts.jupyterlab-settings ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 ~/.config/nvim/init.vim: ~/mskar/setup/init.vim
 	# curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 	mkdir -p ~/.config/nvim
