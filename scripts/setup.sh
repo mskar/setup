@@ -1,16 +1,16 @@
-# This repo contains my setup files for Mac (local) and Linux (remote) and few things to make Windows more bearable.
+# This repo contains my setup files for Mac (local) and Linux (remote).
 
 # Installation
 ### `curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh | /bin/bash`
 ## or
 ### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh)"`
 
-## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
-#### Look in the [windows](windows) folder, to see my setup for Windows Subsystem for Linux (WSL), Windows Terminal, and AutoHotkey (eventually to be replaced by the [KSM](https://windowsreport.com/powertoys-key-remapper/) [PowerToy](https://github.com/microsoft/PowerToys)).
+## This README
+is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 
 # Why Mac?
 ## MacOS
-### MacOS is UNIX-based, unlike Windows, though WSL is a really big step forward.
+### MacOS is UNIX-based, unlike Windows, though Windows Subsystem for Linux (WSL) is a really big step forward.
 #### The best option would be to install Linux on a Mac and configure the modifier keys (Cmd/Alt/Ctrl) to work like in MacOS, but who has time for that?
 ## Modifier keys
 ### The Command key is used for MacOS keyboard shortcuts, limiting conflicts with Unix shortcuts that use Alt/Option or Control.
