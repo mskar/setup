@@ -210,6 +210,10 @@ $(NVIM):
 	# curl https://raw.githubusercontent.com/mskar/setup/master/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
 	mkdir -p ~/.config/nvim
 	ln -sf ~/mskar/setup/ginit.vim ~/.config/nvim/ginit.vim
+~/.config/coc/ultisnips/all.snippets: ~/mskar/setup/all.snippets
+	# curl https://raw.githubusercontent.com/mskar/setup/master/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
+	mkdir -p ~/.config/coc/ultisnips
+	ln -sf ~/mskar/setup/all.snippets ~/.config/coc/ultisnips/all.snippets
 ~/.local/share/nvim/undo:
 	mkdir -p ~/.local/share/nvim/undo
 $(PASS):

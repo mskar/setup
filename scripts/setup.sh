@@ -1,12 +1,13 @@
 # This repo contains my setup files for Mac (local) and Linux (remote) and few things to make Windows more bearable.
 
-# Install via
+# Installation
 ### `curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh | /bin/bash`
 ## or
 ### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh)"`
 
 ## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 #### Look in the [windows](windows) folder, to see my setup for Windows Subsystem for Linux (WSL), Windows Terminal, and AutoHotkey (eventually to be replaced by the [KSM](https://windowsreport.com/powertoys-key-remapper/) [PowerToy](https://github.com/microsoft/PowerToys)).
+
 # Why Mac?
 ## MacOS
 ### MacOS is UNIX-based, unlike Windows, though WSL is a really big step forward.
@@ -153,6 +154,9 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
 ## Download dotfiles (configuration files)
 ### Vim
 curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vim/.vimrc
+
+### Vim snippets
+curl https://raw.githubusercontent.com/mskar/setup/master/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
 
 ### Neovim
 curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs

@@ -384,6 +384,9 @@ augroup end
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
+" https://github.com/vim/vim/issues/4738
+nnoremap gx yiW:!open <cWORD><CR> <C-r>" & <CR><CR>
+
 noremap YY "+y<CR>
 noremap XX "+x<CR>
 

@@ -1,0 +1,31 @@
+priority 1
+
+clearsnippets diso ddate
+
+snippet date "YYYY-MM-DD" w
+`!v strftime("%Y-%m-%d")`
+endsnippet
+
+snippet dategb "Month DD, YYYY" w
+`!v strftime("%B %d, %Y")`
+endsnippet
+
+snippet dateuk "DD Month YYYY" w
+`!v strftime("%d %B %Y")`
+endsnippet
+
+snippet time "hh:mm" w
+`!v strftime("%H:%M")`
+endsnippet
+
+snippet timez "hh:mm-zzzz" w
+`!v strftime("%H:%M%z")`
+endsnippet
+
+snippet datetime "YYYY-MM-DDThh:mm" w
+`!v strftime("%Y-%m-%dT%H:%M")`
+endsnippet
+
+snippet datetimez "YYYY-MM-DDThh:mm-zzzz" w
+`!v strftime("%Y-%m-%dT%H:%M%z")`
+endsnippet
