@@ -5,8 +5,7 @@
 ## or
 ### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh)"`
 
-## This README
-is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
+## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 
 # Why Mac?
 ## MacOS
