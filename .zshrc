@@ -71,7 +71,7 @@ alias -g ...='../..'
 alias ....="cd ../../.."
 alias ...="cd ../.."
 alias ..="cd .."
-alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --bind="" --delimiter=/ --preview="exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$directory') ] && [ -d $(echo '$directory') ] && cd $(echo '$directory')"
+alias 0="directory=$(echo '$(dirs -v | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --preview="exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" --with-nth=4..)') && [ $(echo '$directory') ] && [ -d $(echo '$directory') ] && cd $(echo '$directory')"
 alias 1="cd -"
 alias 2="cd -2"
 alias 3="cd -3"
