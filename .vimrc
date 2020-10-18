@@ -53,6 +53,9 @@ Plug 'tomasr/molokai'
 "" Python
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
+" https://cirw.in/blog/bracketed-paste
+Plug 'ConradIrwin/vim-bracketed-paste'
+
 " For Rmarkdown syntax
 Plug 'vim-pandoc/vim-rmarkdown'
 Plug 'vim-pandoc/vim-pandoc'

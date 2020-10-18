@@ -28,10 +28,15 @@ export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always
 WORDCHARS='_'
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5' # https://stackoverflow.com/a/47313453
 
+# https://cirw.in/blog/bracketed-paste
+set zle_bracketed_paste
+autoload -Uz bracketed-paste-magic
+zle -N bracketed-paste bracketed-paste-magic
+
 # Options
 # https://www.viget.com/articles/zsh-config-productivity-plugins-for-mac-oss-default-shell/
 setopt always_to_end
-setopt auto_menu         # show completion menu on successive tab press
+setopt auto_menu              # show completion menu on successive tab press
 setopt autocd
 setopt autopushd
 setopt complete_in_word

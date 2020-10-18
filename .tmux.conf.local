@@ -321,9 +321,11 @@ bind -r p   previous-window
 bind -r C-n next-window
 bind -r C-p previous-window
 
-# allow ctrl to be used with copy mode / paste bindings
-bind y      paste-buffer
-bind C-y    paste-buffer
+# use bracketed-paste (-p option)
+# https://cirw.in/blog/bracketed-paste
+bind ]      paste-buffer -p
+bind y      paste-buffer -p
+bind C-y    paste-buffer -p
 
 # like -, split window with \ or |
 bind \\     split-window -h

@@ -14,6 +14,9 @@ set completion-ignore-case on
 # then cycle through the options when hitting TAB
 set menu-complete-display-prefix on
 
+# https://cirw.in/blog/bracketed-paste
+set enable-bracketed-paste on
+
 # Keymaps for when we're in insert (i.e., typing stuff in) mode
 set keymap vi-insert
 # switch to block cursor before executing a command

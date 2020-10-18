@@ -1,5 +1,10 @@
 c.InteractiveShell.confirm_exit = False
 c.InteractiveShell.auto_match = True
+c.InteractiveShell.auto_complete_selected_option_on_tab = True
+c.InteractiveShell.auto_complete_top_option_on_tab = True
+c.InteractiveShell.auto_complete_top_option_on_enter = True
+c.InteractiveShell.auto_complete_only_option_on_tab = True
+c.InteractiveShell.auto_complete_function_parentheses = True
 
 # Configuration file for ipython.
 

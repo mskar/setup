@@ -32,7 +32,7 @@ def configure(repl):
     repl.show_signature = True
 
     # Show docstring (bool).
-    repl.show_docstring = True
+    repl.show_docstring = False
 
     # Show the "[Meta+Enter] Execute" message when pressing [Enter] only
     # inserts a newline instead of executing the code.
@@ -97,6 +97,13 @@ def configure(repl):
     # Enable auto suggestions. (Pressing right arrow will complete the input,
     # based on the history.)
     repl.enable_auto_suggest = True
+
+    # Make tab completion work like it does in VSCode and PyCharm
+    repl.enable_auto_complete_selected_option_on_tab = True
+    repl.enable_auto_complete_top_option_on_tab = True
+    repl.enable_auto_complete_top_option_on_enter = True
+    repl.enable_auto_complete_only_option_on_tab = True
+    repl.enable_auto_complete_function_parentheses = True
 
     # Enable open-in-editor. Pressing C-x C-e in emacs mode or 'v' in
     # Vi navigation mode will open the input in the current editor.

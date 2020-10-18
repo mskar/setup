@@ -53,6 +53,9 @@ Plug 'tomasr/molokai'
 "" Python
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
+" https://cirw.in/blog/bracketed-paste
+Plug 'ConradIrwin/vim-bracketed-paste'
+
 " The main R plugin providing RStudio-esque features
 " Nvim-R handles citation of its own: https://github.com/jalvesaq/Nvim-R/issues/346
 Plug 'jalvesaq/Nvim-R'
