@@ -7,6 +7,8 @@
     "window.zoomLevel": 1,
     "editor.minimap.enabled": false,
     "python.autoComplete.addBrackets": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.typeCheckingMode": "basic",
     "editor.tabCompletion": "on",
     "python.dataScience.interactiveWindowMode": "perFile",
     "python.dataScience.sendSelectionToInteractiveWindow": true,

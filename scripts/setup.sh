@@ -122,6 +122,8 @@ curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.json -o ~/
 
 code --install-extension ms-python.python --force
 
+code --install-extension ms-python.vscode-pylance --force
+
 code --install-extension ms-vsliveshare.vsliveshare --force
 
 code --install-extension vscodevim.vim --force

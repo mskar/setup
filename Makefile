@@ -31,6 +31,7 @@ TLDR = $(shell brew --prefix)/bin/tldr
 TMUX = $(shell brew --prefix)/bin/tmux
 VIM = $(shell brew --prefix)/bin/vim
 VSCODE_LIVESHARE = $(wildcard ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
+VSCODE_PYLANCE =  $(wildcard ~/.vscode/extensions/ms-python.vscode-pylance-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
@@ -301,6 +302,8 @@ $(VSCODE_VIM):
 	-code --install-extension vscodevim.vim --force
 $(VSCODE_LIVESHARE):
 	-code --install-extension ms-vsliveshare.vsliveshare --force
+$(VSCODE_PYLANCE):
+	-code --install-extension ms-python.vscode-pylance --force
 $(XPDF):
 	-brew install xpdf
 ~/.zshrc: ~/mskar/setup/.zshrc
