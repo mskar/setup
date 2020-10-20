@@ -85,8 +85,18 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
 # powerlevel10k config
 curl https://raw.githubusercontent.com/mskar/setup/master/.p10k.zsh -o ~/.p10k.zsh
 
-# git config
+# git
+## config
 curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
+
+## Regular expressions for diffs
+### https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
+### https://gist.github.com/tekin/12500956bd56784728e490d8cef9cb81
+curl https://gist.githubusercontent.com/tekin/12500956bd56784728e490d8cef9cb81/raw/e474af61231687b0e1a4ec59d4becd97537ef6c0/.gitattributes -o ~/.gitattributes
+
+## automatically ignored files
+# git config, ignore, and attributes
+curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore -o ~/.gitignore
 
 # Font and Applications
 ## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/

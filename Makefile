@@ -51,7 +51,7 @@ fd: $(FD)
 flycut: /Applications/Flycut.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: $(FZF)
-git: $(GIT) $(GH) ~/.gitconfig ~/.gitignore_global $(DSF) $(DELTA)
+git: $(GIT) $(GH) $(DELTA) ~/.gitconfig ~/.gitignore ~/.gitattributes
 gmv: $(GMV)
 ipy: ~/miniconda/bin/ipython ~/.ipython/profile_default/ipython_config.py # ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
@@ -106,11 +106,9 @@ $(BASH):
 ~/.bash_profile: ~/mskar/setup/.bash_profile
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
 	ln -sf ~/mskar/setup/.bash_profile ~/.bash_profile
-	ln -sf ~/mskar/setup/.bash_profile ~/mskar/setup/bash_profile
 ~/.inputrc: ~/mskar/setup/.inputrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
 	ln -sf ~/mskar/setup/.inputrc ~/.inputrc
-	ln -sf ~/mskar/setup/.inputrc ~/mskar/setup/inputrc
 ~/.config/bottom/bottom.toml: ~/mskar/setup/bottom.toml
 	# curl https://raw.githubusercontent.com/mskar/setup/master/bottom.toml -o ~/.config/bottom/bottom.toml --create-dirs
 	ln -sf ~/mskar/setup/bottom.toml ~/.config/bottom/bottom.toml
@@ -123,7 +121,7 @@ $(BREW):
 ~/.config/nvim/coc-settings.json: ~/mskar/setup/coc-settings.json
 	# curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
 	mkdir -p ~/.config/nvim
-	ln -sf ~/mskar/setup/bottom.toml ~/.config/nvim/coc-settings.json
+	ln -sf ~/mskar/setup/coc-settings.json ~/.config/nvim/coc-settings.json
 ~/.vim/coc-settings.json: ~/mskar/setup/coc-settings.json
 	# curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
 	mkdir -p ~/.vim/
@@ -152,14 +150,14 @@ $(GH):
 	-brew install gh
 $(GIT):
 	-brew install git
+~/.gitattributes:
+	curl https://gist.githubusercontent.com/tekin/12500956bd56784728e490d8cef9cb81/raw/e474af61231687b0e1a4ec59d4becd97537ef6c0/.gitattributes -o ~/.gitattributes
 ~/.gitconfig: ~/mskar/setup/.gitconfig
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
 	ln -sf ~/mskar/setup/.gitconfig ~/.gitconfig
-	ln -sf ~/mskar/setup/.gitconfig ~/mskar/setup/gitconfig
-~/.gitignore_global: ~/mskar/setup/.gitignore_global
-	# curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore_global -o ~/.gitignore_global
-	ln -sf ~/mskar/setup/.gitignore_global ~/.gitignore_global
-	ln -sf ~/mskar/setup/.gitignore_global ~/mskar/setup/gitignore_global
+~/.gitignore: ~/mskar/setup/.gitignore
+	# curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore -o ~/.gitignore
+	ln -sf ~/mskar/setup/.gitignore ~/.gitignore
 $(GMV):
 	-brew install coreutils
 /Applications/iTerm.app:
@@ -175,7 +173,6 @@ $(GMV):
 ~/.ideavimrc: ~/mskar/setup/.ideavimrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
 	-ln -fs ~/mskar/setup/.ideavimrc ~/.ideavimrc
-	-ln -fs ~/mskar/setup/.ideavimrc ~/mskar/setup/ideavimrc
 /Applications/Karabiner-Elements.app:
 	-brew cask install karabiner-elements
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/karabiner.json
@@ -224,7 +221,6 @@ $(PASS):
 ~/.p10k.zsh: ~/mskar/setup/.p10k.zsh
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.p10k.zsh -o ~/.p10k.zsh
 	ln -sf ~/mskar/setup/.p10k.zsh ~/.p10k.zsh
-	ln -sf ~/mskar/setup/.p10k.zsh ~/mskar/setup/p10k.zsh
 ~/miniconda/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 ~/miniconda/bin/ptpython:
@@ -239,7 +235,6 @@ $(PASS):
 ~/.radian_profile: ~/mskar/setup/.radian_profile
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.radian_profile -o ~/.radian_profile
 	ln -sf ~/mskar/setup/.radian_profile ~/.radian_profile
-	ln -sf ~/mskar/setup/.radian_profile ~/mskar/setup/radian_profile
 $(RENAME):
 	-brew install rename
 ~/mskar/setup/:
@@ -271,7 +266,6 @@ $(TMUX):
 ~/.tmux.conf.local: ~/mskar/setup/.tmux.conf.local
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
 	ln -sf ~/mskar/setup/.tmux.conf.local ~/.tmux.conf.local
-	ln -sf ~/mskar/setup/.tmux.conf.local ~/mskar/setup/tmux.conf.local
 ~/.tmux.conf:
 	curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 ~/.tmux/plugins/tpm:
@@ -309,13 +303,12 @@ $(XPDF):
 ~/.zshrc: ~/mskar/setup/.zshrc
 	# curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
 	ln -sf ~/mskar/setup/.zshrc ~/.zshrc
-	ln -sf ~/mskar/setup/.zshrc ~/mskar/setup/zshrc
 ~/.zsh/zsh-autosuggestions:
 	-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ~/.zsh/zsh-syntax-highlighting:
 	-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
 
 clean:
-	rm ~/.bash_profile ~/.config/bottom/bottom.toml ~/.config/karabiner/karabiner.json ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json ~/.gitconfig ~/.gitignore_global ~/.ideavimrc ~/.inputrc ~/.ipython/profile_default/ipython_config.py ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings ~/.p10k.zsh ~/.radian_profile ~/.tmux.conf.local ~/.vim/coc-settings.json ~/.vimrc ~/.zshrc ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json ~/Library/ApplicationSupport/ptpython/config.py
+	rm ~/.bash_profile ~/.config/bottom/bottom.toml ~/.config/karabiner/karabiner.json ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json ~/.gitconfig ~/.gitignore ~/.ideavimrc ~/.inputrc ~/.ipython/profile_default/ipython_config.py ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings ~/.p10k.zsh ~/.radian_profile ~/.tmux.conf.local ~/.vim/coc-settings.json ~/.vimrc ~/.zshrc ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json ~/Library/ApplicationSupport/ptpython/config.py
 
 .PHONY: bash iterm jetbrains karabiner neovim rstudio tmux vim vscode zsh conda font git ipy repo shiftit flycut

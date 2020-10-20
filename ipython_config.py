@@ -1,10 +1,11 @@
 c.InteractiveShell.confirm_exit = False
-c.InteractiveShell.auto_match = True
-c.InteractiveShell.auto_complete_selected_option_on_tab = True
-c.InteractiveShell.auto_complete_top_option_on_tab = True
-c.InteractiveShell.auto_complete_top_option_on_enter = True
-c.InteractiveShell.auto_complete_only_option_on_tab = True
-c.InteractiveShell.auto_complete_function_parentheses = True
+c.InteractiveShell.auto_suggest = True
+c.InteractiveShell.complete_while_typing = True
+c.InteractiveShell.complete_selected_option_on_tab = True
+c.InteractiveShell.complete_top_option_on_tab = True
+c.InteractiveShell.complete_top_option_on_enter = True
+c.InteractiveShell.complete_only_option_on_tab = True
+c.InteractiveShell.complete_function_parentheses = True
 
 # Configuration file for ipython.
 
