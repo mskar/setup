@@ -60,7 +60,7 @@ jupyter: ~/miniconda/bin/jupyter ~/.jupyter/lab/user-settings/jupyterlab/shortcu
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 node: $(NODE)
 noti: $(NOTI)
-neovim: $(NVIM) ~/.config/nvim/init.vim ~/.local/share/nvim/undo
+neovim: $(NVIM) ~/.config/nvim/init.vim ~/.local/share/nvim/undo ~/tmux_split.vim
 pass: $(PASS)
 ptpython: ~/miniconda/bin/ptpython ~/Library/ApplicationSupport/ptpython/config.py
 radian: ~/miniconda/bin/radian ~/.radian_profile
@@ -195,6 +195,8 @@ $(NOTI):
 	-brew install noti
 $(NVIM):
 	-brew install neovim
+~/tmux_split.vim:
+	curl https://raw.githubusercontent.com/jalvesaq/Nvim-R/master/R/tmux_split.vim -o ~/tmux_split.vim
 ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings: ~/mskar/setup/shortcuts.jupyterlab-settings
 	# curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
 	mkdir -p ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension

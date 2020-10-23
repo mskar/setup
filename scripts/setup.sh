@@ -172,6 +172,8 @@ curl https://raw.githubusercontent.com/mskar/setup/master/all.snippets -o ~/.con
 ### Neovim
 curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
 
+curl https://raw.githubusercontent.com/jalvesaq/Nvim-R/master/R/tmux_split.vim -o ~/tmux_split.vim
+
 ### Neovim GUIs
 curl https://raw.githubusercontent.com/mskar/setup/master/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
 

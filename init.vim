@@ -272,12 +272,12 @@ let R_assign_map = "<A-,>"
 
 " https://github.com/randy3k/radian#nvim-r-support
 let R_esc_term = 0
-let R_external_term = 1
 let R_app = "radian"
 let R_cmd = "R"
 let R_hl_term = 0
 let R_args = []  " if you had set any
 let R_bracketed_paste = 1
+let R_source = '~/tmux_split.vim'
 
 " set a minimum source editor width
 " let R_min_editor_width = 80
@@ -435,54 +435,53 @@ autocmd FileType r,rmd inoremap <buffer> <A-.> <Esc>:normal! a -><CR>a
 autocmd FileType r,rmd inoremap <buffer> <A-/> <Esc>:normal! a %/%<CR>a 
 autocmd FileType rmd inoremap <buffer> <A-i> <Esc>:normal! a ```{r}<CR>```<Esc>O
 
-autocmd FileType rmd nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
-autocmd FileType rmd nnoremap <buffer> <localleader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
-autocmd FileType r nnoremap <buffer> <localleader><CR> :w<CR> :!Rscript %<CR>
-autocmd FileType python nnoremap <buffer> <localleader><CR> :w ! python3<CR>
+autocmd FileType rmd nnoremap <buffer> <leader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
+autocmd FileType rmd nnoremap <buffer> <leader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
+autocmd FileType r nnoremap <buffer> <leader><CR> :w<CR> :!Rscript %<CR>
+autocmd FileType python nnoremap <buffer> <leader><CR> :w ! python3<CR>
 
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
 " https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md
+"" Remapping the basic :: send line (<Plug>RDSendLine doesn't work well)
 " Remappings based on RStudio shortcuts: https://rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf
-"" Remapping the basic :: send line
-autocmd FileType r,rmd nnoremap <silent><buffer><D-Enter> :call SendLineToR("down")<CR>
-autocmd FileType r nnoremap <silent><buffer><D-S-Enter> :call SendFileToR("echo")<CR>
-autocmd FileType rmd nnoremap <silent><buffer><D-S-Enter> :call b:SendChunkToR("echo", "down")<CR>
 "" Remapping selection :: send multiple lines + echo lines
-vmap <D-Enter> <Plug>REDSendSelection
-vmap <localleader>o <Plug>RSendSelAndInsertOutput
-autocmd FileType r,rmd nnoremap <silent><buffer><A-S-0> :call RClearAll()<CR>
-autocmd FileType r nnoremap <silent><buffer><A-a> :call SendAboveLinesToR()<CR>
-autocmd FileType rmd nnoremap <silent><buffer><A-p> :call SendFHChunkToR()<CR>
-autocmd FileType rmd nnoremap <silent><buffer><A-i> :normal! a ```{r}<CR>```<Esc>O
-autocmd FileType r,rmd nnoremap <silent><buffer><C-l> :call RClearConsole()<CR>
 " Remapping double character nvim-R mappings to single character
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>- :call RBrOpenCloseLs(0)<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>0 :call RObjBrowser()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>; :call MovePosRCodeComment("normal")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>= :call RBrOpenCloseLs(1)<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>a :call SendFileToR("echo")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>b :call SendMBlockToR("echo", "down")<CR>
-autocmd FileType rmd nnoremap <silent><buffer><localleader>c :call b:SendChunkToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>d :call RSetWD()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>e :call RAction("example")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>f :call SendFunctionToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>g :call RAction("plot")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>h :call RAction("help")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>i :call RAction("print")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>k :call RKnit()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>l :call g:SendCmdToR("ls()")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>m :set opfunc=SendMotionToR<CR>g@
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>n :call RAction("nvim.names")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>o :call SendLineToRAndInsertOutput()<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>p :call SendParagraphToR("echo", "down")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>q :call RQuit("nosave")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>r :call RAction("args")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>s :call StartR("R")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>t :call RAction("str")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>u :call RAction("summary")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>v :call RAction("viewdf", ", location='vsplit'")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>w :call RMakeRmd("word_document")<CR>
-autocmd FileType r,rmd nnoremap <silent><buffer><localleader>x :call RComment("normal")<CR>
+autocmd FileType r     nmap <buffer> <A-a> <Plug>RSendAboveLines
+autocmd FileType r,rmd nmap <buffer> <A-0> <Plug>RClearAll
+autocmd FileType r,rmd nmap <buffer> <C-l> <Plug>RClearConsole
+autocmd FileType r,rmd nmap <buffer> <leader>- <Plug>RCloseLists
+autocmd FileType r,rmd nmap <buffer> <leader>0 <Plug>RUpdateObjBrowser
+autocmd FileType r,rmd nmap <buffer> <leader>; <Plug>RRightComment
+autocmd FileType r,rmd nmap <buffer> <leader>= <Plug>ROpenLists
+autocmd FileType r,rmd nmap <buffer> <leader>a <Plug>RESendFile
+autocmd FileType r,rmd nmap <buffer> <leader>b <Plug>REDSendMBlock
+autocmd FileType r,rmd nmap <buffer> <leader>d <Plug>RSetwd
+autocmd FileType r,rmd nmap <buffer> <leader>e <Plug>RShowEx
+autocmd FileType r,rmd nmap <buffer> <leader>f <Plug>RDSendFunction
+autocmd FileType r,rmd nmap <buffer> <leader>g <Plug>RPlot
+autocmd FileType r,rmd nmap <buffer> <leader>h <Plug>RHelp
+autocmd FileType r,rmd nmap <buffer> <leader>i <Plug>RObjectPr
+autocmd FileType r,rmd nmap <buffer> <leader>k <Plug>Rknit
+autocmd FileType r,rmd nmap <buffer> <leader>m <Plug>RSendMotion
+autocmd FileType r,rmd nmap <buffer> <leader>n <Plug>RObjectNames
+autocmd FileType r,rmd nmap <buffer> <leader>o <Plug>RDSendLineAndInsertOutput
+autocmd FileType r,rmd nmap <buffer> <leader>p <Plug>REDSendParagraph
+autocmd FileType r,rmd nmap <buffer> <leader>q <Plug>RClose
+autocmd FileType r,rmd nmap <buffer> <leader>r <Plug>RShowArgs
+autocmd FileType r,rmd nmap <buffer> <leader>s <Plug>RStart
+autocmd FileType r,rmd nmap <buffer> <leader>t <Plug>RObjectStr
+autocmd FileType r,rmd nmap <buffer> <leader>u <Plug>RSummary
+autocmd FileType r,rmd nmap <buffer> <leader>v <Plug>RViewDFv
+autocmd FileType r,rmd nmap <buffer> <leader>w <Plug>RMakeWord
+autocmd FileType r,rmd nmap <buffer> <leader>x <Plug>RToggleComment
+autocmd FileType r,rmd nmap <buffer> <silent> <A-Enter> :call SendLineToR("down")<CR>
+autocmd FileType r,rmd nmap <buffer> <silent> <leader>l :call SendLineToR("down")<CR>
+autocmd FileType r,rmd nmap <buffer> xmap <A-Enter> <Plug>REDSendSelection
+autocmd FileType r,rmd nmap <buffer> xmap <leader>o <Plug>RSendSelAndInsertOutput
+autocmd FileType r,rmd nmap <buffer> xmap <leader>v <Plug>REDSendSelection
+autocmd FileType rmd   nmap <buffer> <A-i> :normal! a ```{r}<CR>```<Esc>O
+autocmd FileType rmd   nmap <buffer> <A-p> <Plug>RSendChunkFH
+autocmd FileType rmd   nmap <buffer> <leader>c <Plug>REDSendChunk
 
 " Highlight the symbol and its references when holding the cursor.
 autocmd CursorHold * silent call CocActionAsync('highlight')
@@ -499,13 +498,15 @@ augroup end
 "" Mappings
 "*****************************************************************************
 
-nmap <leader>c <Plug>SlimeSendCell :silent call search('^#\s%%')<CR>
-nmap <leader>l <Plug>SlimeLineSend
-nmap <leader>m <Plug>SlimeMotionSend
-nmap <leader>p <Plug>SlimeParagraphSend }:silent call search('^.\+')<CR>
-xmap <leader>c <Plug>SlimeSendCell gv
-xmap <leader>l <Esc><Plug>SlimeLineSend gv
-xmap <leader>s <Plug>SlimeRegionSend gv
+nmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+nmap <silent><leader>l <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+nmap <silent><A-Enter> <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+nmap <silent><leader>m <Plug>SlimeMotionSend
+nmap <silent><leader>p <Plug>SlimeParagraphSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+xmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+xmap <silent><leader>l <Esc><Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+xmap <silent><leader>v <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+xmap <silent><A-Enter> <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
