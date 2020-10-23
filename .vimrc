@@ -396,15 +396,17 @@ augroup end
 "" Mappings
 "*****************************************************************************
 
+nmap <silent><C-CR> <Plug>SlimeSendCell
+nmap <silent><M-CR> <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+nmap <silent><S-CR> <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 nmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 nmap <silent><leader>l <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-nmap <silent><A-Enter> <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 nmap <silent><leader>m <Plug>SlimeMotionSend
 nmap <silent><leader>p <Plug>SlimeParagraphSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+xmap <silent><M-CR> <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 xmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 xmap <silent><leader>l <Esc><Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 xmap <silent><leader>v <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-xmap <silent><A-Enter> <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 

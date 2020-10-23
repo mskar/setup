@@ -447,13 +447,14 @@ autocmd FileType python nnoremap <buffer> <leader><CR> :w ! python3<CR>
 "" Remapping selection :: send multiple lines + echo lines
 " Remapping double character nvim-R mappings to single character
 autocmd FileType r     nmap <buffer> <A-a> <Plug>RSendAboveLines
+autocmd FileType r     nmap <buffer> <M-S-CR> <Plug>RESendFile
+autocmd FileType r     nmap <buffer> <leader>a <Plug>RESendFile
 autocmd FileType r,rmd nmap <buffer> <A-0> <Plug>RClearAll
 autocmd FileType r,rmd nmap <buffer> <C-l> <Plug>RClearConsole
 autocmd FileType r,rmd nmap <buffer> <leader>- <Plug>RCloseLists
 autocmd FileType r,rmd nmap <buffer> <leader>0 <Plug>RUpdateObjBrowser
 autocmd FileType r,rmd nmap <buffer> <leader>; <Plug>RRightComment
 autocmd FileType r,rmd nmap <buffer> <leader>= <Plug>ROpenLists
-autocmd FileType r,rmd nmap <buffer> <leader>a <Plug>RESendFile
 autocmd FileType r,rmd nmap <buffer> <leader>b <Plug>REDSendMBlock
 autocmd FileType r,rmd nmap <buffer> <leader>d <Plug>RSetwd
 autocmd FileType r,rmd nmap <buffer> <leader>e <Plug>RShowEx
@@ -474,13 +475,14 @@ autocmd FileType r,rmd nmap <buffer> <leader>u <Plug>RSummary
 autocmd FileType r,rmd nmap <buffer> <leader>v <Plug>RViewDFv
 autocmd FileType r,rmd nmap <buffer> <leader>w <Plug>RMakeWord
 autocmd FileType r,rmd nmap <buffer> <leader>x <Plug>RToggleComment
-autocmd FileType r,rmd nmap <buffer> <silent> <A-Enter> :call SendLineToR("down")<CR>
+autocmd FileType r,rmd nmap <buffer> <silent> <M-CR> :call SendLineToR("down")<CR>
 autocmd FileType r,rmd nmap <buffer> <silent> <leader>l :call SendLineToR("down")<CR>
-autocmd FileType r,rmd nmap <buffer> xmap <A-Enter> <Plug>REDSendSelection
+autocmd FileType r,rmd nmap <buffer> xmap <M-CR> <Plug>REDSendSelection
 autocmd FileType r,rmd nmap <buffer> xmap <leader>o <Plug>RSendSelAndInsertOutput
 autocmd FileType r,rmd nmap <buffer> xmap <leader>v <Plug>REDSendSelection
 autocmd FileType rmd   nmap <buffer> <A-i> :normal! a ```{r}<CR>```<Esc>O
 autocmd FileType rmd   nmap <buffer> <A-p> <Plug>RSendChunkFH
+autocmd FileType rmd   nmap <buffer> <M-S-CR> <Plug>REDSendChunk
 autocmd FileType rmd   nmap <buffer> <leader>c <Plug>REDSendChunk
 
 " Highlight the symbol and its references when holding the cursor.
@@ -498,15 +500,17 @@ augroup end
 "" Mappings
 "*****************************************************************************
 
+nmap <silent><C-CR> <Plug>SlimeSendCell
+nmap <silent><M-CR> <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+nmap <silent><S-CR> <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 nmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 nmap <silent><leader>l <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-nmap <silent><A-Enter> <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 nmap <silent><leader>m <Plug>SlimeMotionSend
 nmap <silent><leader>p <Plug>SlimeParagraphSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+xmap <silent><M-CR> <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 xmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 xmap <silent><leader>l <Esc><Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 xmap <silent><leader>v <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-xmap <silent><A-Enter> <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
