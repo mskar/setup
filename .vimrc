@@ -50,6 +50,9 @@ Plug 'honza/vim-snippets'
 "" Color
 Plug 'tomasr/molokai'
 
+"" REPL
+Plug 'jpalardy/vim-slime'
+
 "" Python
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
@@ -136,6 +139,14 @@ endif
 "*****************************************************************************
 "" Custom configs
 "*****************************************************************************
+
+" https://github.com/jpalardy/vim-slime#tmux
+let g:slime_target = "tmux"
+let g:slime_default_config = {"socket_name": "default", "target_pane": "{last}"}
+let g:slime_dont_ask_default = 1
+let g:slime_cell_delimiter = "# %%"
+" Remove all vim slime mappings (remapped below)
+let g:slime_no_mappings = 1
 
 " Syntax highlight
 " Default highlight is better than polyglot
@@ -385,6 +396,14 @@ augroup end
 "" Mappings
 "*****************************************************************************
 
+nmap <leader>c <Plug>SlimeSendCell :silent call search('^#\s%%')<CR>
+nmap <leader>l <Plug>SlimeLineSend
+nmap <leader>m <Plug>SlimeMotionSend
+nmap <leader>p <Plug>SlimeParagraphSend }:silent call search('^.\+')<CR>
+xmap <leader>c <Plug>SlimeSendCell gv
+xmap <leader>l <Esc><Plug>SlimeLineSend gv
+xmap <leader>s <Plug>SlimeRegionSend gv
+
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
 " https://github.com/vim/vim/issues/4738
@@ -396,11 +415,11 @@ noremap XX "+x<CR>
 " Vim screencast #14: *Ncgn: https://youtu.be/7Bx_mLDBtRc
 noremap c* *Ncgn
 
-" if has('macunix')
+if has('macunix')
   " pbcopy for OSX copy/paste
-  " xmap <D-x> :!pbcopy<CR>
-  " xmap <D-c> :w !pbcopy<CR><CR>
-" endif
+  xmap <D-x> :!pbcopy<CR>
+  xmap <D-c> :w !pbcopy<CR><CR>
+endif
 
 "" Vmap for maintain Visual Mode after shifting > and <
 xmap < <gv
@@ -510,18 +529,18 @@ inoremap <A--> <Esc>ugi
 " inoremap <A--> <C-o>u
 
 "" Git
-noremap ga :silent Gwrite<CR>
-noremap gs :Gstatus<CR>
+nnoremap ga :silent Gwrite<CR>
+nnoremap gs :Gstatus<CR>
 nnoremap gh :diffget //2<CR>
 nnoremap gl :diffget //3<CR>
-noremap <leader>w :silent Gwrite<CR>
-noremap <leader>gc :silent Gwrite<bar>Gcommit<CR>
-noremap <leader>gp :Gpush<CR>
-noremap <leader>gu :Gpull<CR>
-noremap <leader>gd :Gvdiff<CR>
-noremap <leader>gr :Gremove<CR>
-noremap <leader>gl :Glog<CR>
-noremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
+nnoremap <leader>w :silent Gwrite<CR>
+nnoremap <leader>gc :silent Gwrite<bar>Gcommit<CR>
+nnoremap <leader>gp :Gpush<CR>
+nnoremap <leader>gu :Gpull<CR>
+nnoremap <leader>gd :Gvdiff<CR>
+nnoremap <leader>gr :Gremove<CR>
+nnoremap <leader>gl :Glog<CR>
+nnoremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
 
 "" Set working directory
 nnoremap <leader>. :lcd %:p:h<CR>
@@ -529,17 +548,11 @@ nnoremap <leader>. :lcd %:p:h<CR>
 "" Opens an edit command with the path of the currently edited file filled in
 noremap <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
 
-"" Opens a tab edit command with the path of the currently edited file filled
-noremap <leader>te :tabe <C-R>=expand("%:p:h") . "/" <CR>
-
 nnoremap <silent> <leader>n :NERDTreeToggle<CR>
 
-" grep.vim
-nnoremap <silent> <leader>rg :Rgrep<CR>
 " terminal emulation
-nnoremap <silent> <leader>sh :terminal<CR>
+nnoremap <silent> <leader>t :terminal<CR>
 
-noremap <leader>p "+gP<CR>
 "" Clean search (highlight)
 nnoremap <silent> <leader><leader> :noh<cr>
 
@@ -551,18 +564,15 @@ nnoremap <silent> <leader>b :Buffers<CR>
 "Recovery commands from history through FZF
 nnoremap <silent> <leader>h :History<CR>
 nnoremap <silent> <leader>B :BCommits<CR>
-nnoremap <silent> <leader>c :Commits<CR>
 nnoremap <silent> <leader>C :Commands<CR>
 nnoremap <silent> <leader>gf :GFiles<CR>
 nnoremap <silent> <leader>F :Files<CR>
 nnoremap <silent> <leader>H :Helptags<CR>
-nnoremap <silent> <leader>m :Maps<CR>
+nnoremap <silent> <leader>M :Maps<CR>
 nnoremap <silent> <leader>' :Marks<CR>
-nnoremap <silent> <leader>l :BLines<CR>
 nnoremap <silent> <leader>L :Lines<CR>
 nnoremap <silent> <leader>R :Rg<CR>
 nnoremap <silent> <leader>y :Filetypes<CR>
-nnoremap <silent> <leader>t :BTags<CR>
 nnoremap <silent> <leader>T :Tags<CR>
 nnoremap <silent> <leader>z :FZF -m<CR>
 
@@ -573,7 +583,7 @@ xmap <leader><tab> <plug>(fzf-maps-x)
 omap <leader><tab> <plug>(fzf-maps-o)
 
 " Symbol renaming.
-nmap <leader>rn <Plug>(coc-rename)
+nmap <leader>r <Plug>(coc-rename)
 
 " Formatting selected code.
 xmap <leader>f  <Plug>(coc-format-selected)
@@ -594,8 +604,6 @@ nmap <leader>qf  <Plug>(coc-fix-current)
 nnoremap <silent><nowait> <leader>a  :<C-u>CocList diagnostics<cr>
 " Manage extensions.
 nnoremap <silent><nowait> <leader>e  :<C-u>CocList extensions<cr>
-" Show commands.
-nnoremap <silent><nowait> <leader>c  :<C-u>CocList commands<cr>
 " Find symbol of current document.
 nnoremap <silent><nowait> <leader>o  :<C-u>CocList outline<cr>
 " Search workspace symbols.
@@ -604,8 +612,6 @@ nnoremap <silent><nowait> <leader>s  :<C-u>CocList -I symbols<cr>
 nnoremap <silent><nowait> <leader>j  :<C-u>CocNext<CR>
 " Do default action for previous item.
 nnoremap <silent><nowait> <leader>k  :<C-u>CocPrev<CR>
-" Resume latest coc list.
-nnoremap <silent><nowait> <leader>p  :<C-u>CocListResume<CR>
 
 " Run :file everytime I switch buffers
 nnoremap <leader>; :bn<CR><C-g>
