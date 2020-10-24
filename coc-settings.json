@@ -1,4 +1,5 @@
 {
+  "python.autoComplete.addBrackets": true,
   "suggest.enablePreselect": true,
   "suggest.noselect": false,
   "suggest.enablePreview": true,
