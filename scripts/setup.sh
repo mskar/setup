@@ -275,7 +275,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 ##### Installing r into base environment breaks nvim-R
-~/miniconda/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver
+~/miniconda/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
 
 curl https://raw.githubusercontent.com/mskar/setup/master/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
