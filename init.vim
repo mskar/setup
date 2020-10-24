@@ -372,6 +372,8 @@ augroup END
 " Syntax highlighting for files with weird extensions
 autocmd BufNewFile,BufRead .tmux.conf* set syntax=tmux
 autocmd BufNewFile,BufRead *radian_profile set syntax=r
+autocmd BufNewFile,BufRead *.R set ft=r
+autocmd BufNewFile,BufRead *.Rmd set ft=rmd
 autocmd BufNewFile,BufRead shortcuts.jupyterlab-settings set syntax=json
 
 "" Remember cursor position
