@@ -11,5 +11,5 @@
   "list.insertMappings": {
     "<C-c>": "do:exit"
   },
-  "yank.highlight.duration": 200
+  "git.enableGutters": true
 }

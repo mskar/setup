@@ -28,7 +28,6 @@ call plug#begin(expand('~/.vim/plugged'))
 "" Plug install packages
 "*****************************************************************************
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'airblade/vim-gitgutter'
 Plug 'preservim/nerdtree'
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-commentary'
@@ -247,7 +246,7 @@ set noerrorbells visualbell t_vb=
 let g:camelchar = "A-Z0-9.,;:{([`'\""
 " COC settings
 " https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
-let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-fzf-preview', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
+let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
 
 " Always show the signcolumn, otherwise it would shift the text each time
 " diagnostics appear/become resolved.
@@ -520,11 +519,10 @@ inoremap <A--> <Esc>ugi
 " inoremap <A--> <C-o>u
 
 "" Git
-nnoremap ga :silent Gwrite<CR>
 nnoremap gs :Gstatus<CR>
 nnoremap gh :diffget //2<CR>
 nnoremap gl :diffget //3<CR>
-nnoremap <leader>w :silent Gwrite<CR>
+nnoremap <leader>gw :silent Gwrite<CR>
 nnoremap <leader>gc :silent Gwrite<bar>Gcommit<CR>
 nnoremap <leader>gp :Gpush<CR>
 nnoremap <leader>gu :Gpull<CR>
@@ -532,6 +530,29 @@ nnoremap <leader>gd :Gvdiff<CR>
 nnoremap <leader>gr :Gremove<CR>
 nnoremap <leader>gl :Glog<CR>
 nnoremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
+
+" https://github.com/neoclide/coc-git
+" https://github.com/neoclide/coc-yank
+" navigate chunks of current buffer
+nmap [c <Plug>(coc-git-prevchunk)
+nmap ]c <Plug>(coc-git-nextchunk)
+" show chunk diff at current position
+nmap gs <Plug>(coc-git-chunkinfo)
+" show git log at current position
+nmap gl <Plug>(coc-git-commit)
+" create text object for git chunks
+omap ig <Plug>(coc-git-chunk-inner)
+xmap ig <Plug>(coc-git-chunk-inner)
+omap ag <Plug>(coc-git-chunk-outer)
+xmap ag <Plug>(coc-git-chunk-outer)
+" add and reset
+nmap <silent> <leader>d :CocCommand git.diffCached<CR>
+nmap <silent> ga :CocCommand git.chunkStage<CR>
+nmap <silent> gr :CocCommand git.chunkUndo<CR>
+nmap <silent> yog :CocCommand git.toggleGutters<CR>
+" yank
+nmap <silent> gy :CocCommand git.copyUrl<CR>
+nnoremap <silent> <leader>y  :<C-u>CocList -A --normal yank<cr>
 
 "" Set working directory
 nnoremap <leader>. :lcd %:p:h<CR>
@@ -563,8 +584,6 @@ nnoremap <silent> <leader>M :Maps<CR>
 nnoremap <silent> <leader>' :Marks<CR>
 nnoremap <silent> <leader>L :Lines<CR>
 nnoremap <silent> <leader>R :Rg<CR>
-nnoremap <silent> <leader>y :Filetypes<CR>
-nnoremap <silent> <leader>T :Tags<CR>
 nnoremap <silent> <leader>z :FZF -m<CR>
 
 " https://github.com/junegunn/fzf.vim#mappings
@@ -704,8 +723,6 @@ nmap <silent> ]g <Plug>(coc-diagnostic-next)
 
 " GoTo code navigation.
 nmap <silent> gd <Plug>(coc-definition)
-nmap <silent> gy <Plug>(coc-type-definition)
-nmap <silent> gr <Plug>(coc-references)
 
 " Use K to show documentation in preview window.
 nnoremap <silent> K :call <SID>show_documentation()<CR>
