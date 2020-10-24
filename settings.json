@@ -181,5 +181,6 @@
                 "undo"
             ]
         }
-    ]
+    ],
+    "tabnine.experimentalAutoImports": true
 }

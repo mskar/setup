@@ -138,6 +138,8 @@ code --install-extension ms-vsliveshare.vsliveshare --force
 
 code --install-extension vscodevim.vim --force
 
+code --install-extension tabnine.tabnine-vscode --force
+
 # Shell programs needed for aliases
 ## Install fzf (fuzzy finder)
 ## Install bat and exa (for fzf file preview)

@@ -34,6 +34,7 @@ VSCODE_LIVESHARE = $(wildcard ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
 VSCODE_PYLANCE =  $(wildcard ~/.vscode/extensions/ms-python.vscode-pylance-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
+VSCODE_TABNINE = $(wildcard ~/.vscode/extensions/tabnine.tabnine-vscode-*)
 XPDF = $(shell brew --prefix)/bin/xpdf
 
 all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim shiftit tldr tmux vim vimr vscode xpdf zsh
@@ -274,6 +275,8 @@ $(VSCODE_LIVESHARE):
 	-code --install-extension ms-vsliveshare.vsliveshare --force
 $(VSCODE_PYLANCE):
 	-code --install-extension ms-python.vscode-pylance --force
+$(VSCODE_TABNINE):
+	-code --install-extension tabnine.tabnine-vscode --force
 $(XPDF):
 	-brew install xpdf
 ~/.zshrc: ~/mskar/setup/.zshrc
