@@ -21,7 +21,6 @@ ln -sf ~/mskar/setup/editor_bindings.json ~/.config/rstudio/keybindings/editor_b
 ln -sf ~/mskar/setup/rstudio_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json
 ln -sf ~/mskar/setup/.tmux.conf.local ~/.tmux.conf.local
 ln -sf ~/mskar/setup/.vimrc ~/.vimrc
-ln -sf ~/mskar/setup/.vimrc ~/mskar/setup/vimrc
 ln -sf ~/mskar/setup/settings.json ~/Library/Application\ Support/Code/User/settings.json
 ln -sf ~/mskar/setup/settings.json ~/Library/ApplicationSupport/Code/User/settings.json
 ln -sf ~/mskar/setup/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
