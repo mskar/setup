@@ -109,6 +109,7 @@ $(BASH):
 ~/.inputrc: ~/mskar/setup/.inputrc
 	ln -sf ~/mskar/setup/.inputrc ~/.inputrc
 ~/.config/bottom/bottom.toml: ~/mskar/setup/bottom.toml
+	mkdir ~/.config/bottom
 	ln -sf ~/mskar/setup/bottom.toml ~/.config/bottom/bottom.toml
 $(BAT):
 	-brew install bat
