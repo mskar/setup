@@ -268,11 +268,12 @@ let R_args = []  " if you had set any
 let R_bracketed_paste = 1
 let R_source = '~/tmux_split.vim'
 
+" https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1669
 " set a minimum source editor width
-" let R_min_editor_width = 80
+let R_min_editor_width = 18
 
-" make sure the console is at the bottom by making it really wide
-" let R_rconsole_width = 1000
+" make sure the console is on the right by making it narrow
+let R_rconsole_width = 57
 
 " https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/
 " let g:rout_follow_colorscheme = 1
