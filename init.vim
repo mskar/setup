@@ -257,6 +257,7 @@ let g:camelchar = "A-Z0-9.,;:{([`'\""
 " http://sherifsoliman.com/2017/07/22/nvim-r/
 " press alt+, to have Nvim-R insert the assignment operator: <-
 let R_assign_map = "<A-,>"
+let R_auto_start = 1
 
 " https://github.com/randy3k/radian#nvim-r-support
 let R_esc_term = 0
@@ -467,7 +468,7 @@ autocmd FileType r,rmd nmap <buffer> <leader>w <Plug>RMakeWord
 autocmd FileType r,rmd nmap <buffer> <leader>x <Plug>RToggleComment
 autocmd FileType r,rmd nmap <buffer> <silent> <M-CR> :call SendLineToR("down")<CR>
 autocmd FileType r,rmd nmap <buffer> <silent> <leader>l :call SendLineToR("down")<CR>
-autocmd FileType r,rmd nmap <buffer> xmap <M-CR> <Plug>REDSendSelection
+autocmd FileType r,rmd nmap <buffer> xmap <M-CR> :call SendSelectionToR("silent", "down")
 autocmd FileType r,rmd nmap <buffer> xmap <leader>o <Plug>RSendSelAndInsertOutput
 autocmd FileType r,rmd nmap <buffer> xmap <leader>v <Plug>REDSendSelection
 autocmd FileType rmd   nmap <buffer> <A-i> :normal! a ```{r}<CR>```<Esc>O
@@ -611,18 +612,18 @@ cnoremap <A-.> <C-r>.
 inoremap <A--> <Esc>ugi
 " inoremap <A--> <C-o>u
 
-"" Git
+" Git
 nnoremap gs :Gstatus<CR>
-nnoremap gh :diffget //2<CR>
-nnoremap gl :diffget //3<CR>
-nnoremap <leader>gw :silent Gwrite<CR>
-nnoremap <leader>gc :silent Gwrite<bar>Gcommit<CR>
+nnoremap d, :diffget //2<CR>
+nnoremap d. :diffget //3<CR>
+nnoremap <silent><leader>gw :Gwrite<CR>
+nnoremap <silent><leader>gc :Gwrite<bar>Gcommit<CR>
 nnoremap <leader>gp :Gpush<CR>
 nnoremap <leader>gu :Gpull<CR>
 nnoremap <leader>gd :Gvdiff<CR>
 nnoremap <leader>gr :Gremove<CR>
 nnoremap <leader>gl :Glog<CR>
-nnoremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
+nnoremap <leader>gg :Gwrite<CR>:Gcommit -m "edit "%<CR>:Gpush<CR>
 
 " https://github.com/neoclide/coc-git
 " https://github.com/neoclide/coc-yank

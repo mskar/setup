@@ -524,16 +524,16 @@ inoremap <A--> <Esc>ugi
 
 "" Git
 nnoremap gs :Gstatus<CR>
-nnoremap gh :diffget //2<CR>
-nnoremap gl :diffget //3<CR>
-nnoremap <leader>gw :silent Gwrite<CR>
-nnoremap <leader>gc :silent Gwrite<bar>Gcommit<CR>
+nnoremap d, :diffget //2<CR>
+nnoremap d. :diffget //3<CR>
+nnoremap <silent><leader>gw :Gwrite<CR>
+nnoremap <silent><leader>gc :Gwrite<bar>Gcommit<CR>
 nnoremap <leader>gp :Gpush<CR>
 nnoremap <leader>gu :Gpull<CR>
 nnoremap <leader>gd :Gvdiff<CR>
 nnoremap <leader>gr :Gremove<CR>
 nnoremap <leader>gl :Glog<CR>
-nnoremap <leader>gg :Gwrite<CR>:Gcommit -m "working on "%<CR>:Gpush<CR>
+nnoremap <leader>gg :Gwrite<CR>:Gcommit -m "edit "%<CR>:Gpush<CR>
 
 " https://github.com/neoclide/coc-git
 " https://github.com/neoclide/coc-yank
