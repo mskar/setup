@@ -83,6 +83,7 @@ When Ben and Rin join, Ben is a summoner mage and Rin is a priest.
   - Ed says very nervously that he wasn't trying to impress her
   - Kaia touches Ed's shoulder and leans in the kiss him but changes her mind
     when ruins the moment by wondering whether his brother is ok
+  - Kaia excuses herself to go to the bathroom and starts to cry when she sees her bruised and puffy face thinking that Ed didn't want to kiss her because of the way she looked.
   - While playing vids, Kaia realizes that Ed lets her get all of the
     power-ups and softens up enemies before letting her get the XP from kills
   - When Ben gets home, he joins them in the vid and she notices that Ed
