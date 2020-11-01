@@ -1,0 +1,7 @@
+buzzBats
+buzzBees
+sleepSnake
+sleepSpider
+sleepSerpent
+bathBugs
+surveillanceSloth
