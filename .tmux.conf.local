@@ -384,5 +384,8 @@ set -g @resurrect-strategy-nvim 'session'
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_pane_contents.md
 set -g @resurrect-capture-pane-contents 'on'
 
+# https://github.com/tmux-plugins/tmux-continuum
+set -g @continuum-restore 'on'
+
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'

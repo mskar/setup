@@ -469,13 +469,13 @@ autocmd FileType r,rmd nmap <buffer> <leader>w <Plug>RMakeWord
 autocmd FileType r,rmd nmap <buffer> <leader>x <Plug>RToggleComment
 autocmd FileType r,rmd nmap <buffer> <silent> <M-CR> :call SendLineToR("down")<CR>
 autocmd FileType r,rmd nmap <buffer> <silent> <leader>l :call SendLineToR("down")<CR>
-autocmd FileType r,rmd nmap <buffer> xmap <M-CR> :call SendSelectionToR("silent", "down")
-autocmd FileType r,rmd nmap <buffer> xmap <leader>o <Plug>RSendSelAndInsertOutput
-autocmd FileType r,rmd nmap <buffer> xmap <leader>v <Plug>REDSendSelection
-autocmd FileType rmd   nmap <buffer> <A-i> :normal! a ```{r}<CR>```<Esc>O
+autocmd FileType r,rmd xmap <buffer> <leader>o <Plug>RSendSelAndInsertOutput
+autocmd FileType r,rmd xmap <buffer> <leader>v <Plug>REDSendSelection
+autocmd FileType r,rmd xmap <buffer> <M-CR> <Plug>REDSendSelection
 autocmd FileType rmd   nmap <buffer> <A-p> <Plug>RSendChunkFH
 autocmd FileType rmd   nmap <buffer> <M-S-CR> <Plug>REDSendChunk
 autocmd FileType rmd   nmap <buffer> <leader>c <Plug>REDSendChunk
+autocmd FileType rmd   nmap <buffer> <silent> <A-i> :normal! a ```{r}<CR>```<Esc>O
 
 " Highlight the symbol and its references when holding the cursor.
 autocmd CursorHold * silent call CocActionAsync('highlight')

@@ -8,10 +8,6 @@
     "python.analysis.completeFunctionParens": true,
     "python.analysis.typeCheckingMode": "basic",
     "python.autoComplete.addBrackets": true,
-    "python.dataScience.alwaysTrustNotebooks": true,
-    "python.dataScience.askForKernelRestart": false,
-    "python.dataScience.interactiveWindowMode": "perFile",
-    "python.dataScience.sendSelectionToInteractiveWindow": true,
     "python.defaultInterpreterPath": "~/miniconda/envs/${workspaceFolderBasename}/bin/python",
     "python.languageServer": "Pylance",
     "r.alwaysUseActiveTerminal": true,
@@ -32,7 +28,7 @@
     "vim.useCtrlKeys": true,
     "vim.useSystemClipboard": true,
     "vim.visualstar": true,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "vim.normalModeKeyBindings": [
         {
             "before": [
@@ -182,5 +178,10 @@
             ]
         }
     ],
-    "tabnine.experimentalAutoImports": true
+    "tabnine.experimentalAutoImports": true,
+    "extensions.ignoreRecommendations": false,
+    "jupyter.alwaysTrustNotebooks": true,
+    "jupyter.askForKernelRestart": false,
+    "jupyter.interactiveWindowMode": "perFile",
+    "jupyter.sendSelectionToInteractiveWindow": true
 }
