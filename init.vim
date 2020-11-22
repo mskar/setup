@@ -430,7 +430,7 @@ autocmd FileType rmd inoremap <buffer> <A-i> <Esc>:normal! a ```{r}<CR>```<Esc>O
 autocmd FileType rmd nnoremap <buffer> <leader><CR> :w<CR> :!Rscript -e "rmarkdown::render('%')"<CR>
 autocmd FileType rmd nnoremap <buffer> <leader>] :w<CR> :!Rscript -e "bookdown::render_book('%')"<CR>
 autocmd FileType r nnoremap <buffer> <leader><CR> :w<CR> :!Rscript %<CR>
-autocmd FileType python nnoremap <buffer> <leader><CR> :w ! python3<CR>
+autocmd FileType python nnoremap <buffer> <silent> <leader><CR> :w !python<CR>
 
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L2586
 " https://github.com/beigebrucewayne/vim-ide-4-all/blob/master/R-neovim.md

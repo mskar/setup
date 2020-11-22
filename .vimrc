@@ -754,3 +754,6 @@ omap ac <Plug>(coc-classobj-a)
 " Requires 'textDocument/selectionRange' support of language server.
 nmap <silent> <C-s> <Plug>(coc-range-select)
 xmap <silent> <C-s> <Plug>(coc-range-select)
+
+" Save and run Python file and show the output
+autocmd FileType python nnoremap <buffer> <silent> <leader><CR> :w !python<CR>
