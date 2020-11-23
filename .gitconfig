@@ -54,7 +54,7 @@
     email = marskar@gmail.com
     name = Martin Skarzynski
 [credential]
-	helper = cache --timeout=3600
+	helper = osxkeychain
 [color "diff-highlight"]
 	oldHighlight = red bold 52
 	newNormal = green bold

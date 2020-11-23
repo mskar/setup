@@ -26,7 +26,7 @@
         "hiddenTabSet": [],
         "console_left_on_top": false,
         "console_right_on_top": true,
-        "additional_source_columns": 1
+        "additional_source_columns": 0
     },
     "editor_keybindings": "vim",
     "pdf_previewer": "none",
