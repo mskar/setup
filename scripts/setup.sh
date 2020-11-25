@@ -244,25 +244,27 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 ### Under File > Settings Repository..., select Overwrite Local
 ### Settings
 ### Select MacOS X 10.5+ Keymap and make the following changes:
-#### - Execute Selection in Python Console: Cmd+Enter
+#### - Editor Actions > Decrease Font Size : `Cmd -`
+#### - Editor Actions > Increase Font Size : `Cmd +`
+#### - Editor Actions > Reset Font Size : `Cmd 0`
 #### - Editor Actions > Split Line :
-#### - Editor Actions > Decrease Font Size : Cmd+-
-#### - Editor Actions > Increase Font Size : Cmd++
-#### - Editor Actions > Reset Font Size : Cmd+0
-#### - Main Menu > File > Save As...: Cmd+Shift+S
-#### - Main Menu > Scientific Notebook > Edit Cells > Split Cell : Ctrl+Shift+-
-#### - Main Menu > Scientific Notebook > Edit Cells > Split Cell : Ctrl+Shift+-
-#### - Other > Images > Zoom Out : Cmd+-
-#### - Other > Images > Zoom In : Cmd++
-#### - Other > Images > Actual Size : Cmd+0
+#### - Main Menu > File > Save As...: `Cmd Shift S`
+#### - Main Menu > Tool Windows > Commit :
+#### - Other > Images > Actual Size : `Cmd 0`
+#### - Other > Images > Zoom In : `Cmd +`
+#### - Other > Images > Zoom Out : `Cmd -`
+#### - Plug-ins > Git > Checkout Revision : `Enter`
+#### - Plug-ins > Git > Checkout Selected : `Enter`
+#### - Plug-ins > Python > Split Cell : `Ctrl Shift -`
+#### - Plug-ins > Python > Execute Selection in Python Console: `Cmd Enter`
 ### In Appearance & Behavior > Appearance, Select Darcula theme and select Fura Code Nerd Font size 14
-### Using Cmd+Shift+A or going to View > Appearance at the Top, enable Details in Tree Views, disable Tool Windows Bars and Navigation Bar
-### In MacOS System Preferences: Keyboard > Services, uncheck Open man Page in Terminal (Cmd+Shift+M) and Search man Page Index in Terminal (Cmd+Shift+A)
+### Using `Cmd Shift A` or going to View > Appearance at the Top, enable Details in Tree Views, disable Tool Windows Bars and Navigation Bar
+### In MacOS System Preferences: Keyboard > Shortcuts > Services, uncheck Open man Page in Terminal (`Cmd Shift M`) and Search man Page Index in Terminal (`Cmd Shift A`)
 ### In Editor > Font, select Fura Code Nerd Font size 16 as main and Jetbrains Mono as fallback and Enable font ligatures
 ### In Editor > Code Style, set visual guides to 80 characters
 ### Check Change font size (Zoom) with Command+Mouse Wheel in Editor > General
 ### Check Show Whitespace in Editor > General > Appearance
-### If you use the Deep Ocean Editor theme from the [Material UI](https://www.material-theme.com/) plugin, change docstring (Doc comment > Text) color to [`4cbb17` aka kelly green](https://www.beautycolorcode.com/4cbb17) and line comment color to [`DF00FF` aka psychedelic purple](https://www.beautycolorcode.com/df00ff) under Editor > Color Scheme > Language Defaults
+### If you use the Deep Ocean Editor theme from the [Material UI](https://www.material-theme.com/) plugin, change docstring (Doc comment > Text) color to [`4cbb17` aka kelly green](https://www.beautycolorcode.com/4cbb17) and line comment color to [`DF00FF` aka psychedelic purple](https://www.beautycolorcode.com/df00ff) under Editor > Color Scheme > Python and Editor > Color Scheme > Language Defaults, respectively
 ### In Build, Execution, Deployment > Console, select Use existing console for "Run with Python Console"
 ### Disable Material UI to got back to Darcula theme, but keep Code Editor theme as Deep Ocean
 #### Editor > Color Scheme : Material Deep Ocean
@@ -272,8 +274,8 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 ### Install [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport) plugin
 ### Install [Markdown](https://plugins.jetbrains.com/plugin/7793-markdown/) plugin
 ### Install [R Language Support](http://holgerbrandl.github.io/r4intellij/) plugin
-### Fix shortcut conflicts under Preferences > Vim emulation: Ctrl+J/G/M/I/T to IDE
-### When setting run configurations (ctrl+alt+r), set working directory to project root under Environment and deselect Run with Python Console under Execution
+### Fix shortcut conflicts under Preferences > Vim emulation: `Ctrl i/j/m/t` to IDE
+### When setting run configurations (`Ctrl Alt r`), set working directory to project root under Environment and deselect Run with Python Console under Execution
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 ##### Installing r into base environment breaks nvim-R

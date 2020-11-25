@@ -3,17 +3,27 @@
 " ============================================================================
 " https://github.com/JetBrains/ideavim/blob/master/doc/emulated-plugins.md
 set exchange
+" Emulates vim-exchange: https://github.com/tommcdo/vim-exchange
 " Commands: cx, cxx, X, cxc
 
 set surround
+" Emulates vim-surround: https://github.com/tpope/vim-surround
 " Commands: ys, cs, ds, S
 
 set multiple-cursors
+" Emulates vim-multiple-cursors: https://github.com/terryma/vim-multiple-cursors
 " Commands: <A-n>, <A-x>, <A-p>, g<A-n>
 
 set commentary
-" Emulates commentary.vim
+" Emulates commentary.vim: https://github.com/tpope/vim-commentary
 " Commands: gcc, gc + motion, v_gc
+
+set argtextobj
+" Emulates argtextobj.vim: https://www.vim.org/scripts/script.php?script_id=2699
+" Additional text objects: aa, ia
+
+set highlightedyank
+" Emulates vim-highlightedyank: https://github.com/machakann/vim-highlightedyank
 
 " ============================================================================
 " Set commands
@@ -176,6 +186,8 @@ inoremap <C-d> <Delete>
 inoremap <C-e> <End>
 " <C-f> = Move one character forward; the opposite of <C-b>
 inoremap <C-f> <Right>
+" <C-g> = Cancel completion
+inoremap <silent><expr> <C-g> pumvisible() ? "\<C-e>" :  "<C-g>"
 " <C-h> = Delete one character backward; the opposite of <C-d>; already exists in command mode: c_ctrl-h
 " <C-k> = Delete to end of line; the opposite of <C-u>
 " inoremap <C-k> <C-o>:action EditorDeleteToLineEnd<CR>
