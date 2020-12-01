@@ -86,7 +86,6 @@ alias a="git add"
 alias aa="func() { local files=$(echo '$(git status -s | fzf --bind="alt-y:execute-silent(echo {-1} | pbcopy)" --nth=2.. --preview="if [ \$(git ls-files --other --exclude-standard {2..} | sed s/\ //g) ]; then; git diff --color=always --color-words --no-index -- /dev/null {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; git diff --color=always --color-words {2..} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi" | cut -c4-)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git add $(echo '$@') --; }; func"
 alias ac="git add --all && git commit --reedit-message=HEAD"
 alias aca="git add --all && git commit --amend --reset-author"
-alias aca="git add --all && git commit --amend --reset-author"
 alias acam="func() { git add --all && git commit --amend --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\"; } --reset-author; func"
 alias acamp="func() { git add --all && git commit --amend --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" --reset-author && git push --force; }; func"
 alias acap="git add --all && git commit --amend --reset-author && git push --force"
@@ -616,6 +615,7 @@ eval "$(fasd --init zsh-hook zsh-wcomp-install zsh-wcomp)"
 
 # expand alias
 # https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/globalias
+GLOBALIAS_FILTER_VALUES=(acam acamp acm acmp caam caamp cam camp campf cm cmp cmpf)
 
 globalias() {
    # Get last word to the left of the cursor:
