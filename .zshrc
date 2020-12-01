@@ -614,17 +614,38 @@ zle -N zle-keymap-select
 # FASD
 eval "$(fasd --init zsh-hook zsh-wcomp-install zsh-wcomp)"
 
+# expand alias
+# https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/globalias
+
+globalias() {
+   # Get last word to the left of the cursor:
+   # (z) splits into words using shell parsing
+   # (A) makes it an array even if there's only one element
+   local word=${${(Az)LBUFFER}[-1]}
+   if [[ $GLOBALIAS_FILTER_VALUES[(Ie)$word] -eq 0 ]]; then
+      zle _expand_alias
+      zle expand-word
+   fi
+   zle self-insert
+}
+zle -N globalias
+
 # Keybindings
 # https://github.com/junegunn/fzf/issues/546#issuecomment-213344845
 # https://en.wikipedia.org/wiki/GNU_Readline#Emacs_keyboard_shortcuts
 # http://web.cs.elte.hu/zsh-manual/zsh_14.html#SEC49
 bindkey -v
+bindkey -M emacs " " globalias
+bindkey -M emacs "^ " magic-space
+bindkey -M isearch " " magic-space
 bindkey -M menuselect '^o' accept-and-infer-next-history
 bindkey -M menuselect 'h' vi-backward-char
 bindkey -M menuselect 'j' vi-down-line-or-history
 bindkey -M menuselect 'k' vi-up-line-or-history
 bindkey -M menuselect 'l' vi-forward-char
+bindkey -M viins " " globalias
 bindkey -M viins "\e'" quote-line
+bindkey -M viins "^ " magic-space
 bindkey -M viins '\e"' quote-region
 bindkey -M viins '\e.' insert-last-word
 bindkey -M viins '\e@' set-mark-command
