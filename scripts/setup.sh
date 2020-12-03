@@ -146,7 +146,7 @@ code --install-extension tabnine.tabnine-vscode --force
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install ag bash bat clementtsang/bottom/bottom coreutils git-delta exa fasd fd fzf gh neovim node noti pass rename rg sc-im tldr tmux vim xpdf zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+brew install ag bash bat clementtsang/bottom/bottom coreutils git-delta exa fasd fd ffmpeg fzf gh neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Create locations for undo files (just in case they are not created automatically)
 mkdir -p ~/.vim/undodir
