@@ -245,6 +245,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 ### Settings
 ### Select MacOS X 10.5+ Keymap and make the following changes:
 #### - Editor Actions > Decrease Font Size : `Cmd -`
+#### - Editor Actions > Focus Editor : `Shift Escape`
 #### - Editor Actions > Increase Font Size : `Cmd +`
 #### - Editor Actions > Reset Font Size : `Cmd 0`
 #### - Editor Actions > Split Line :
@@ -257,6 +258,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 #### - Plug-ins > Git > Checkout Selected : `Enter`
 #### - Plug-ins > Python > Split Cell : `Ctrl Shift -`
 #### - Plug-ins > Python > Execute Selection in Python Console: `Cmd Enter`
+#### - Plug-ins > Terminal > Shift Focus To Editor : `Shift+Escape`
 ### In Appearance & Behavior > Appearance, Select Darcula theme and select Fura Code Nerd Font size 14
 ### Using `Cmd Shift A` or going to View > Appearance at the Top, enable Details in Tree Views, disable Tool Windows Bars and Navigation Bar
 ### In MacOS System Preferences: Keyboard > Shortcuts > Services, uncheck Open man Page in Terminal (`Cmd Shift M`) and Search man Page Index in Terminal (`Cmd Shift A`)
