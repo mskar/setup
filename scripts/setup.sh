@@ -251,6 +251,18 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 #### - Editor Actions > Split Line :
 #### - Main Menu > File > Save As...: `Cmd Shift S`
 #### - Main Menu > Tool Windows > Commit :
+#### - Main Menu > Edit > Undo : `Ctrl -`
+#### - Main Menu > Edit > Redo : `Ctrl =`
+#### - Main Menu > Edit > Paste : `Ctrl y`
+#### - Main Menu > Edit > Delete : `Ctrl d`
+#### - Main Menu > Help > Find Action... : `Cmd Shift p`
+#### - Editor Actions > Backspace : `Ctrl h`
+#### - Editor Actions > Cut Line Backward : `Ctrl u`
+#### - Editor Actions > Cut up to Line End : `Ctrl k`
+#### - Editor Actions > Cut to Word Start : `Ctrl w` `Alt h`
+#### - Editor Actions > Cut to Word End : `Ctrl d`
+#### - Editor Actions > Move Caret to Previous Word : `Alt b`
+#### - Editor Actions > Move Caret to Next Word : `Alt f`
 #### - Other > Images > Actual Size : `Cmd 0`
 #### - Other > Images > Zoom In : `Cmd +`
 #### - Other > Images > Zoom Out : `Cmd -`

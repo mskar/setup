@@ -472,6 +472,8 @@ inoremap <C-y> <C-r>+
 cnoremap <C-y> <C-r>+
 " <C-_> = Undo like in bash/emacs (this works really well)
 inoremap <C-_> <C-o>u
+" <C-=> = Redo; opposite of <C-_>
+inoremap <C-=> <C-o><C-r>
 
 " " Emacs and bash style insert mode ALT shortcuts
 " " <A-b> = Move one word backward; opposite of <A-f>
@@ -517,10 +519,6 @@ cnoremap <A-u> <C-f>gUee<C-c>
 set <A-.>=.
 inoremap <A-.> <Esc>a<C-r>.
 cnoremap <A-.> <C-r>.
-" " <A--> = Undo
-set <A-->=-
-inoremap <A--> <Esc>ugi
-" inoremap <A--> <C-o>u
 
 "" Git
 nnoremap gs :Gstatus<CR>

@@ -692,6 +692,11 @@ bindkey -M viins '^xs' fzf-file-widget
 bindkey -M viins '^xu' undo
 bindkey -M viins '^xx' exchange-point-and-mark
 bindkey -M viins '^y' yank
+bindkey -M viins "∫" backward-word
+bindkey -M viins "ƒ" forward-word
+bindkey -M viins "∂" delete-word
+bindkey -M viins '˙' backward-kill-word
+bindkey -M viins '≥' insert-last-word
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!

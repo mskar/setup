@@ -133,7 +133,7 @@ nnoremap yoz :action ToggleZenMode<CR>
 " Set up external tool "black":
 " https://black.readthedocs.io/en/stable/editor_integration.html
 " Arguments: "$FilePath$" -l 79
-nnoremap <space> <leader>
+nmap <space> <leader>
 nnoremap <leader>a :action EditorActions<CR>
 nnoremap <leader>b :action Tool_External Tools_Black<CR>
 nnoremap <leader>c :action SilentCodeCleanup<CR>
@@ -191,7 +191,7 @@ inoremap <C-f> <Right>
 inoremap <silent><expr> <C-g> pumvisible() ? "\<C-e>" :  "<C-g>"
 " <C-h> = Delete one character backward; the opposite of <C-d>; already exists in command mode: c_ctrl-h
 " <C-k> = Delete to end of line; the opposite of <C-u>
-" inoremap <C-k> <C-o>:action EditorDeleteToLineEnd<CR>
+inoremap <C-k> <C-o>:action EditorDeleteToLineEnd<CR>
 " <C-n> = Complete word using matches that come next; the opposite of <C-p>
 " inoremap <C-n> <C-o>:action HippieCompletion<CR>
 " <C-p> = Complete word using previous matches; the opposite of <C-n>
