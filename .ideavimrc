@@ -133,6 +133,7 @@ nnoremap yoz :action ToggleZenMode<CR>
 " Set up external tool "black":
 " https://black.readthedocs.io/en/stable/editor_integration.html
 " Arguments: "$FilePath$" -l 79
+nnoremap <space> <leader>
 nnoremap <leader>a :action EditorActions<CR>
 nnoremap <leader>b :action Tool_External Tools_Black<CR>
 nnoremap <leader>c :action SilentCodeCleanup<CR>
@@ -235,5 +236,5 @@ inoremap <A-j> <C-o>:action EditorCloneCaretBelow<CR>
 inoremap <A-k> <C-o>:action EditorCloneCaretAbove<CR>
 
 " Press space in normal mode to run paragraph in console
-nnoremap <space> vap:action ExecuteInPyConsoleAction<CR>
-vnoremap <space> :action ExecuteInPyConsoleAction<CR>
+" nnoremap <space> vap:action ExecuteInPyConsoleAction<CR>
+" vnoremap <space> :action ExecuteInPyConsoleAction<CR>
