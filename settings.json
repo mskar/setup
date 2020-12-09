@@ -18,7 +18,6 @@
     "terminal.integrated.fontLigatures": true,
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.macOptionIsMeta": true,
-    "terminal.integrated.shellArgs.osx": ["-c", "tmux switch -t ${PWD##*/} || tmux new -ds ${PWD##*/} && tmux switch -t ${PWD##*/} || tmux attach -t ${PWD##*/}"],
     "vim.easymotion": false,
     "vim.enableNeovim": true,
     "vim.highlightedyank.enable": true,
