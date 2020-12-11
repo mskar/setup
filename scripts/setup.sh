@@ -103,19 +103,20 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore -o ~/.gitig
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew install --cask alfred alt-tab homebrew/cask-fonts/font-fira-code-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r shiftit vimr visual-studio-code
+brew install --cask alfred alt-tab amethyst homebrew/cask-fonts/font-fira-code-nerd-font firefox flycut google-chrome iterm2 jetbrains-toolbox karabiner-elements r vimr visual-studio-code
 
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
 ### https://install.appcenter.ms/users/dexterleng/apps/vimac/distribution_groups/sparkle
 
 # Permissions
-## Grant permissions to ShiftIt, FlyCut, altTab, Vimac, and Alfred
+## Grant permissions to Amethyst, FlyCut, altTab, Vimac, and Alfred
 
 # App shortcuts
 ## Set Alfred hotkey to `Shift Alt Space`
 ## Set Vimac hotkey to `Shift Ctrl Space`
-## Enable launch on login for ShiftIt, FlyCut, altTab, and Vimac
+## Enable launch on login for Amethyst, FlyCut, altTab, and Vimac
+## Remove first Amethyst shortcut (conflicts with new Alfred shortcut)
 ## Have FlyCut remember 99 clippings and remove duplicates
 
 ## Set up mac terminal
