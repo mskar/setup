@@ -113,10 +113,7 @@ brew install --cask alfred alt-tab amethyst homebrew/cask-fonts/font-fira-code-n
 ## Grant permissions to Amethyst, CopyQ, altTab, Vimac, VimR and Alfred
 
 # App shortcuts
-## Set Alfred hotkey to `Shift Alt Space`
-## Set Vimac hotkey to `Shift Ctrl Space`
 ## Enable launch on login for Amethyst, CopyQ, altTab, and Vimac
-## Remove first Amethyst shortcut (conflicts with new Alfred shortcut)
 ## Set VimR to be the default txt file editor
 ## Load copyq.ini and copyq.cpq
 
@@ -270,7 +267,10 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 #### - Main Menu > Edit > Redo : `Ctrl =`
 #### - Main Menu > Edit > Paste : `Ctrl y`
 #### - Main Menu > Edit > Delete : `Ctrl d`
+#### - Main Menu > View > Recent Location : `Ctrl Shift e`
+#### - Main Menu > Edit > Paste from History : `Ctrl Shift v`
 #### - Main Menu > Help > Find Action... : `Cmd Shift p`
+#### - Main Menu > Code > Code Completion > Basic : `Ctrl Shift Space`
 #### - Editor Actions > Backspace : `Ctrl h`
 #### - Editor Actions > Cut Line Backward : `Ctrl u`
 #### - Editor Actions > Cut up to Line End : `Ctrl k`
