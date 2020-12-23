@@ -133,6 +133,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/com.googlecode.iterm2.
 curl https://raw.githubusercontent.com/mskar/setup/master/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
+##### Change return to control if pressed with other keys, to return if pressed alone (from Change return to control)
 ##### Change right_command+hjkl to arrow keys (from Examples)
 ##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
