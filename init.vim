@@ -579,18 +579,29 @@ inoremap <C-_> <C-o>u
 inoremap <C-=> <C-o><C-r>
 
 " Emacs and bash style insert mode ALT shortcuts
+" " <A-a> = Move to previous sentence start ; opposite of <A-e>
+nnoremap <A-a> (
+inoremap <A-a> <C-o>(
 " <A-b> = Move one word backward; opposite of <A-f>
+nnoremap <A-b> b
 inoremap <A-b> <S-Left>
 cnoremap <A-b> <S-Left>
 " <A-c> = Capitalize letter and move forward
-inoremap <A-c> <Esc>l~ea
+nnoremap <A-c> ~w
+inoremap <A-c> <Esc>l~wi
 " <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
+nnoremap <A-d> dw
 inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
 cnoremap <A-d> <S-Right><C-w>
+" " <A-e> = Move to previous sentence start ; opposite of <A-a>
+nnoremap <A-e> )T.
+inoremap <A-e> <Esc>)T.i
 " <A-f> = Move one word forward; opposite of <A-b>
+nnoremap <A-f> w
 inoremap <A-f> <S-Right>
 cnoremap <A-f> <S-Right>
 " <A-h> = Delete word backward; opposite of <A-d>; same as <C-w>
+nnoremap <A-h> db
 inoremap <silent><expr> <A-h> "\<C-g>u<C-w>"
 cnoremap <A-h> <C-w>
 " <A-j> = Move down; opposite of <A-k>
@@ -603,12 +614,15 @@ cnoremap <A-k> <Up>
 inoremap <A-l> <Esc>gueea
 cnoremap <A-l> <C-f>guee<C-c>
 " <A-t> = Swap current word with previous word
+nnoremap <A-t> diwbPldep
 inoremap <A-t> <Esc>diwbPldepa
 cnoremap <A-t> <C-f>diwbPldep<C-c>
 " <A-u> = Uppercase to WORD end; opposite of <A-l>
+nnoremap <A-u> gUee
 inoremap <A-u> <Esc>gUeea
 cnoremap <A-u> <C-f>gUee<C-c>
 " <A-.> = Insert previously inserted text (if any)
+nnoremap <A-.> a<C-r>.
 inoremap <A-.> <Esc>a<C-r>.
 cnoremap <A-.> <C-r>.
 
