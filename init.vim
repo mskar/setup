@@ -733,27 +733,27 @@ nnoremap <silent><nowait> <leader>j  :<C-u>CocNext<CR>
 nnoremap <silent><nowait> <leader>k  :<C-u>CocPrev<CR>
 
 " Run :file everytime I switch buffers
-nnoremap <leader>; :bn<CR><C-g>
-nnoremap <leader>, :bp<CR><C-g>
-tnoremap <leader>; <C-\><C-n>:bn<CR><C-g>
-tnoremap <leader>, <C-\><C-n>:bp<CR><C-g>
-nnoremap ]b :bn<CR><C-g>
-nnoremap [b :bp<CR><C-g>
-tnoremap ]b <C-\><C-n>:bn<CR><C-g>
-tnoremap [b <C-\><C-n>:bp<CR><C-g>
+nnoremap <leader>; :bn<CR>:file<CR>
+nnoremap <leader>, :bp<CR>:file<CR>
+tnoremap <leader>; <C-\><C-n>:bn<CR>:file<CR>
+tnoremap <leader>, <C-\><C-n>:bp<CR>:file<CR>
+nnoremap ]b :bn<CR>:file<CR>
+nnoremap [b :bp<CR>:file<CR>
+tnoremap ]b <C-\><C-n>:bn<CR>:file<CR>
+tnoremap [b <C-\><C-n>:bp<CR>:file<CR>
 " Run :file everytime I switch to alternate file (^6)
-nnoremap <C-^> <C-^><C-g>
-tnoremap <C-^> <C-\><C-n><C-^><C-g>
+nnoremap <C-^> <C-^>:file<CR>
+tnoremap <C-^> <C-\><C-n><C-^>:file<CR>
 " Run :file everytime I go thru the jump list
-nnoremap <C-o> <C-o><C-g>
-nnoremap <C-i> <C-i><C-g>
+nnoremap <C-o> <C-o>:file<CR>
+nnoremap <C-i> <C-i>:file<CR>
 " Run :file everytime I switch windows (not needed in nvim)
 
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
 " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
 " https://vi.stackexchange.com/questions/241/undo-only-window
-nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR><C-g>
-nnoremap <C-w>c :mksession! ~/session.vim<CR>:wincmd c<CR><C-g>
+nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR>:file<CR>
+nnoremap <C-w>c :mksession! ~/session.vim<CR>:wincmd c<CR>:file<CR>
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>u :silent :source ~/session.vim<CR>
 
