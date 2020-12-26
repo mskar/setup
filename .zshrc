@@ -626,7 +626,6 @@ globalias() {
       zle _expand_alias
       zle expand-word
    fi
-   zle self-insert
 }
 zle -N globalias
 
@@ -635,7 +634,7 @@ zle -N globalias
 # https://en.wikipedia.org/wiki/GNU_Readline#Emacs_keyboard_shortcuts
 # http://web.cs.elte.hu/zsh-manual/zsh_14.html#SEC49
 bindkey -v
-bindkey -M emacs "\e^e" globalias
+bindkey -M emacs "^\ee" globalias
 bindkey -M emacs "^ " magic-space
 bindkey -M isearch " " magic-space
 bindkey -M menuselect '^o' accept-and-infer-next-history
@@ -643,7 +642,7 @@ bindkey -M menuselect 'h' vi-backward-char
 bindkey -M menuselect 'j' vi-down-line-or-history
 bindkey -M menuselect 'k' vi-up-line-or-history
 bindkey -M menuselect 'l' vi-forward-char
-bindkey -M viins "\e^e" globalias
+bindkey -M viins "^[^e" globalias
 bindkey -M viins "\e'" quote-line
 bindkey -M viins "^ " magic-space
 bindkey -M viins '\e"' quote-region
