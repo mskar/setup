@@ -103,7 +103,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore -o ~/.gitig
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew install --cask alfred alt-tab amethyst homebrew/cask-fonts/font-fira-code-nerd-font firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements r vimr visual-studio-code
+brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-code-nerd-font homebrew/cask-fonts/font-source-code-pro firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements r vimr visual-studio-code
 
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
@@ -159,7 +159,10 @@ code --install-extension tabnine.tabnine-vscode --force
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install ag bash bat clementtsang/bottom/bottom coreutils git-delta exa fasd fd ffmpeg fzf gh neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+brew install ag bash bat clementtsang/bottom/bottom coreutils git-delta emacs exa fasd fd ffmpeg fzf gh neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+
+## Use terminal emacs in the terminal (overwrite link to GUI Emacs installed via cask)
+brew link --overwrite emacs
 
 ## Create locations for undo files (just in case they are not created automatically)
 mkdir -p ~/.vim/undodir
@@ -176,6 +179,9 @@ $(brew --prefix)/opt/fzf/install --completion --key-bindings --no-fish --no-upda
 curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
 
 curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
+
+# Use Emacs in addition to Vim
+curl https://raw.githubusercontent.com/mskar/setup/master/.spacemacs -o ~/.spacemacs
 
 ## Download dotfiles (configuration files)
 ### Vim
@@ -199,6 +205,10 @@ curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~
 
 ### JetBrains IDEs
 curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
+
+## Set up emacs
+git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+
 
 ## Set up oh my tmux
 curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
