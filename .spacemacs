@@ -513,6 +513,14 @@ configuration.
 Put your configuration code here, except for variables that should be set
 before packages are loaded."
   (global-term-cursor-mode)
+  (evil-define-key 'insert global-map (kbd "C-a") 'move-beginning-of-line)
+  (evil-define-key 'insert global-map (kbd "C-e") 'move-end-of-line)
+  (evil-define-key 'insert global-map (kbd "C-d") 'delete-forward-char)
+  (evil-define-key 'insert global-map (kbd "C-h") 'delete-backward-char)
+  (evil-define-key 'insert global-map (kbd "C-k") 'kill-line)
+  (evil-define-key 'insert global-map (kbd "C-t") 'transpose-chars)
+  (evil-define-key 'insert global-map (kbd "C-u") 'evil-delete-back-to-indentation)
+  (evil-define-key 'insert global-map (kbd "C-y") 'yank)
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
