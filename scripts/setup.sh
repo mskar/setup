@@ -290,6 +290,15 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 ### In Appearance & Behavior > Appearance, Select Darcula theme and select Fura Code Nerd Font size 14
 ### Using `Cmd Shift A` or going to View > Appearance at the Top, enable Details in Tree Views, disable Tool Windows Bars and Navigation Bar
 ### In MacOS System Preferences: Keyboard > Shortcuts > Services, uncheck Open man Page in Terminal (`Cmd Shift M`) and Search man Page Index in Terminal (`Cmd Shift A`)
+### In MacOS System Preferences: Keyboard > Shortcuts > Keyboard, uncheck Turn keyboard access on and off after making sure all of the other shortcuts are enabled
+### In MacOS System Preferences: Keyboard > Shortcuts > Keyboard, change ctrl function shortcuts to ctrl num shortcuts:
+#### - `Ctrl F2` -> `Ctrl 2` (Move focus to the menu bar)
+#### - `Ctrl F3` -> `Ctrl 3` (Move focus to the Dock)
+#### - `Ctrl F4` -> `Ctrl 4` (Move focus to active or next window)
+#### - `Ctrl F5` -> `Ctrl 5` (Move focus to the window toolbar)
+#### - `Ctrl F6` -> `Ctrl 6` (Move focus to the floating window)
+#### - `Ctrl F7` -> `Ctrl 7` (Change the way Tab moves focus)
+#### - `Ctrl F8` -> `Ctrl 8` (Move focus to status menus)
 ### In Editor > Font, select Fura Code Nerd Font size 16 as main and Jetbrains Mono as fallback and Enable font ligatures
 ### In Editor > Code Style, set visual guides to 80 characters
 ### Check Change font size (Zoom) with Command+Mouse Wheel in Editor > General
