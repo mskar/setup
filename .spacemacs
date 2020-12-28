@@ -38,22 +38,22 @@ This function should only modify configuration layer settings."
      ;; Uncomment some layer names and press `SPC f e R' (Vim style) or
      ;; `M-m f e R' (Emacs style) to install them.
      ;; ----------------------------------------------------------------
-     osx
-     ;; auto-completion
+     auto-completion
      ;; better-defaults
      emacs-lisp
-     ;; git
+     git
      helm
      ;; lsp
      markdown
      multiple-cursors
      ;; org
+     osx
      ;; (shell :variables
      ;;        shell-default-height 30
      ;;        shell-default-position 'bottom)
      ;; spell-checking
      ;; syntax-checking
-     ;; version-control
+     version-control
      treemacs)
 
 
@@ -497,6 +497,8 @@ This function is called immediately after `dotspacemacs/init', before layer
 configuration.
 It is mostly for variables that should be set before packages are loaded.
 If you are unsure, try setting them in `dotspacemacs/user-config' first."
+  (set-face-attribute 'default nil :background "#000000")
+  (set-face-attribute 'font-lock-comment-face nil :background "#000000")
   )
 
 (defun dotspacemacs/user-load ()
