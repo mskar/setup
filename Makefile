@@ -12,6 +12,7 @@ BAT = $(shell brew --prefix)/bin/bat
 BREW = $(shell brew --prefix)/bin/brew
 BTM = $(shell brew --prefix)/bin/btm
 DELTA = $(shell brew --prefix)/bin/delta
+EMACS = $(shell brew --prefix)/bin/emacs
 EXA = $(shell brew --prefix)/bin/exa
 FASD = $(shell brew --prefix)/bin/fasd
 FD = $(shell brew --prefix)/bin/fd
@@ -46,6 +47,7 @@ bottom: $(BTM) ~/.config/bottom/bottom.toml
 brew: $(BREW)
 coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: ~/miniconda/bin/conda
+emacs: $(EMACS) ~/.emacs.d ~/.spacemacs
 exa: $(EXA)
 fasd: $(FASD)
 fd: $(FD)
@@ -129,6 +131,12 @@ $(BREW):
 	-conda install -yc conda-forge cookiecutter neovim
 $(DELTA):
 	-brew install git-delta
+$(EMACS):
+	-brew install emacs
+~/.emacs.d:
+	-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+~/.spacemacs: ~/mskar/setup/.spacemacs
+	-ln -fs ~/mskar/setup/.spacemacs ~/.spacemacs
 $(EXA):
 	-brew install exa
 $(FASD):
