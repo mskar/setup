@@ -659,14 +659,17 @@ bindkey -M viins '\eu' up-case-word
 bindkey -M viins '\ey' yank-pop
 bindkey -M viins '^?' backward-delete-char
 bindkey -M viins '^_' undo
+bindkey -M viins '^/' undo
 bindkey -M viins '^a' beginning-of-line
 bindkey -M viins '^b' backward-char
 bindkey -M viins '^d' delete-char
 bindkey -M viins '^e' end-of-line
 bindkey -M viins '^f' forward-char
+bindkey -M viins '^g' send-break
 bindkey -M viins '^h' backward-delete-char
 bindkey -M viins '^k' kill-line
 bindkey -M viins '^n' down-history
+bindkey -M viins '^o' accept-line-and-down-history
 bindkey -M viins '^p' up-history
 bindkey -M viins '^r' fzf-history-widget
 bindkey -M viins '^t' transpose-chars
