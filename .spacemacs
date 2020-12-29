@@ -266,7 +266,7 @@ It should only modify the values of Spacemacs settings."
    ;; and TAB or `C-m' and `RET'.
    ;; In the terminal, these pairs are generally indistinguishable, so this only
    ;; works in the GUI. (default nil)
-   dotspacemacs-distinguish-gui-tab nil
+   dotspacemacs-distinguish-gui-tab t
 
    ;; Name of the default layout (default "Default")
    dotspacemacs-default-layout-name "Default"
@@ -533,6 +533,7 @@ before packages are loaded."
   (evil-define-key 'insert global-map (kbd "C-t") 'transpose-chars)
   (evil-define-key 'insert global-map (kbd "C-u") 'backward-kill-line)
   (evil-define-key 'insert global-map (kbd "C-y") 'yank)
+  (evil-define-key 'normal global-map (kbd "C-i") 'evil-jump-forward)
 
   )
 
