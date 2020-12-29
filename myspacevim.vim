@@ -153,3 +153,13 @@ if has('nvim')
 else
   set undodir=~/.vim/undodir
 endif
+
+
+" Share system clipboard ("+) and unnamed ("") registers
+" http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
+" http://vimcasts.org/blog/2013/11/getting-vim-with-clipboard-support/
+set clipboard=unnamed
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
+set go+=a
