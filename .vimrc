@@ -472,6 +472,8 @@ inoremap <C-y> <C-r>+
 cnoremap <C-y> <C-r>+
 " <C-_> = Undo like in bash/emacs (this works really well)
 inoremap <C-_> <C-o>u
+" <C-/> = Undo like in bash/emacs (this works really well)
+inoremap <C-/> <C-o>u
 " <C-=> = Redo; opposite of <C-_>
 inoremap <C-=> <C-o><C-r>
 
