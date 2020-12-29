@@ -238,6 +238,10 @@ highlight VertSplit ctermbg=NONE guibg=NONE
 set fillchars+=vert:│
 set laststatus=0
 highlight Normal ctermfg=white ctermbg=black
+hi LineNr     ctermbg=NONE guibg=NONE
+hi SignColumn ctermbg=NONE guibg=NONE
+hi NonText guibg=NONE ctermbg=NONE
+hi EndOfBuffer guibg=NONE ctermbg=NONE
 
 "" fzf.vim
 set wildmode=list:longest,list:full
@@ -942,3 +946,4 @@ omap ac <Plug>(coc-classobj-a)
 " Requires 'textDocument/selectionRange' support of language server.
 nmap <silent> <C-s> <Plug>(coc-range-select)
 xmap <silent> <C-s> <Plug>(coc-range-select)
+

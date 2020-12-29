@@ -26,6 +26,7 @@
     enable_statusline_mode = false
     windows_leader = ""
     windows_smartclose = ""
+    enable_cursorline = 0
 
 # Enable autocomplete layer
 [[layers]]
