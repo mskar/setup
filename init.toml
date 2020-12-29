@@ -27,6 +27,7 @@
     windows_leader = ""
     windows_smartclose = ""
     enable_cursorline = 0
+    vimcompatible = true
 
 # Enable autocomplete layer
 [[layers]]
