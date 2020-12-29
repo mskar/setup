@@ -28,6 +28,8 @@
     windows_smartclose = ""
     enable_cursorline = 0
     vimcompatible = true
+    bootstrap_before = 'myspacevim#before'
+    bootstrap_after = 'myspacevim#after'
 
 # Enable autocomplete layer
 [[layers]]
