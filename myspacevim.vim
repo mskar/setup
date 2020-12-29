@@ -86,6 +86,12 @@ function! myspacevim#before() abort
     nnoremap <A-.> a<C-r>.
     inoremap <A-.> <Esc>a<C-r>.
     cnoremap <A-.> <C-r>.
+    highlight VertSplit ctermbg=NONE guibg=NONE
+    highlight Normal ctermbg=NONE guibg=NONE
+    highlight LineNr     ctermbg=NONE guibg=NONE
+    highlight SignColumn ctermbg=NONE guibg=NONE
+    highlight NonText ctermbg=NONE guibg=NONE
+    highlight EndOfBuffer ctermbg=NONE guibg=NONE
 endfunction
 
 " https://github.com/liuchengxu/space-vim/issues/356
