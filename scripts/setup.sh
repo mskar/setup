@@ -203,6 +203,13 @@ curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~
 
 curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
 
+## SpaceVim
+git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o ~/.SpaceVim.d/init.toml --create-dirs
+
+curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
+
 ### JetBrains IDEs
 curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
 
