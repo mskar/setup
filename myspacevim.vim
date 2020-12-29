@@ -93,20 +93,24 @@ endfunction
 " Change cursor shape for iTerm2 on macOS {
   " bar in Insert mode
   " inside iTerm2
-  if $TERM_PROGRAM =~# 'iTerm'
+if $TERM_PROGRAM =~# 'iTerm'
     let &t_SI = "\<Esc>]50;CursorShape=1\x7"
     let &t_SR = "\<Esc>]50;CursorShape=2\x7"
     let &t_EI = "\<Esc>]50;CursorShape=0\x7"
-  endif
+endif
 
-  " inside tmux
-  if exists('$TMUX')
+" inside tmux
+if exists('$TMUX')
     let &t_SI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=1\x7\<Esc>\\"
     let &t_SR = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=2\x7\<Esc>\\"
     let &t_EI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=0\x7\<Esc>\\"
-  endif
+endif
 
-  " inside neovim
-  if has('nvim')
-    let $NVIM_TUI_ENABLE_CURSOR_SHAPE=2
-  endif
+" inside neovim
+if has('nvim')
+    set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50,a:blinkon100
+else
+    let &t_SI.="\e[5 q" "SI = start INSERT mode
+    let &t_SR.="\e[4 q" "SR = start REPLACE mode
+    let &t_EI.="\e[1 q" "EI = end insert mode NORMAL mode (ELSE)
+endif
