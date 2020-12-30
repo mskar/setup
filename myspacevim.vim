@@ -135,12 +135,12 @@ else
 endif
 
 " https://github.com/SpaceVim/SpaceVim/issues/470
-autocmd ColorScheme molokai highlight VertSplit ctermbg=NONE guibg=NONE
-autocmd ColorScheme molokai highlight Normal ctermbg=NONE guibg=NONE
-autocmd ColorScheme molokai highlight LineNr     ctermbg=NONE guibg=NONE
-autocmd ColorScheme molokai highlight SignColumn ctermbg=NONE guibg=NONE
-autocmd ColorScheme molokai highlight NonText ctermbg=NONE guibg=NONE
 autocmd ColorScheme molokai highlight EndOfBuffer ctermbg=NONE guibg=NONE
+autocmd ColorScheme molokai highlight LineNr     ctermbg=NONE guibg=NONE
+autocmd ColorScheme molokai highlight NonText ctermbg=NONE guibg=NONE
+autocmd ColorScheme molokai highlight Normal ctermbg=NONE guibg=NONE
+autocmd ColorScheme molokai highlight SignColumn ctermbg=NONE guibg=NONE
+autocmd ColorScheme molokai highlight VertSplit ctermbg=NONE guibg=NONE
 
 " https://vim.fandom.com/wiki/Auto-save_current_buffer_periodically
 " " https://vi.stackexchange.com/a/79
