@@ -36,9 +36,9 @@ VSCODE_PYLANCE =  $(wildcard ~/.vscode/extensions/ms-python.vscode-pylance-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 VSCODE_TABNINE = $(wildcard ~/.vscode/extensions/tabnine.tabnine-vscode-*)
-XPDF = $(shell brew --prefix)/bin/xpdf
+POPPLER = $(shell brew --prefix)/bin/poppler
 
-all: ag bash bat bottom brew coc conda exa fasd fd flycut font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim shiftit tldr tmux vim vimr vscode xpdf zsh
+all: ag alfred alttab amethyst bash bat bottom brew coc conda copyq emacs exa fasd fd font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim tldr tmux vim vimr vscode poppler zsh
 
 ag: $(AG)
 bash: $(BASH) ~/.bash_profile ~/.inputrc
@@ -51,14 +51,14 @@ emacs: $(EMACS) ~/.emacs.d ~/.spacemacs
 exa: $(EXA)
 fasd: $(FASD)
 fd: $(FD)
-flycut: /Applications/Flycut.app
+copyq: /Applications/CopyQ.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: $(FZF)
 git: $(GIT) $(GH) $(DELTA) ~/.gitconfig ~/.gitignore ~/.gitattributes
 gmv: $(GMV)
 ipy: ~/miniconda/bin/ipython ~/.ipython/profile_default/ipython_config.py # ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
-jetbrains: /Applications/JetBrains\ Toolbox.app ~/.ideavimrc
+jetbrains: /Applications/JetBrainsToolbox.app ~/.ideavimrc
 jupyter: ~/miniconda/bin/jupyter ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 node: $(NODE)
@@ -72,13 +72,16 @@ repo: ~/mskar/setup
 rg: $(RG)
 rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
-shiftit: /Applications/ShiftIt.app
+alfred: /Applications/Alfred.app
+alttab: /Applications/AltTab.app
+amethyst: /Applications/Amethyst.app
 tldr: $(TLDR)
 tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
 vim: $(VIM) ~/.vimrc ~/.vim/undodir
+vimac: /Applications/Vimac.app
 vimr: /Applications/VimR.app
-vscode: /Applications/Visual\ Studio\ Code.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json
-xpdf: $(XPDF)
+vscode: /Applications/VisualStudioCode.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json
+poppler: $(POPPLER)
 zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh/zsh-syntax-highlighting
 
 ~/mskar/setup/.bash_profile: repo
@@ -104,6 +107,12 @@ zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh
 
 $(AG):
 	-brew install ag
+/Applications/Alfred.app:
+	-brew install --cask alfred
+/Applications/AltTab.app:
+	-brew install --cask alttab
+/Applications/Amethyst.app:
+	-brew install --cask amethyst
 $(BASH):
 	-brew install bash
 ~/.bash_profile: ~/mskar/setup/.bash_profile
@@ -132,7 +141,9 @@ $(BREW):
 $(DELTA):
 	-brew install git-delta
 $(EMACS):
+	-brew install --cask emacs
 	-brew install emacs
+	-brew link --overwrite emacs
 ~/.emacs.d:
 	-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ~/.spacemacs: ~/mskar/setup/.spacemacs
@@ -143,10 +154,10 @@ $(FASD):
 	-brew install fasd
 $(FD):
 	-brew install fd
-/Applications/Flycut.app:
-	-brew cask install flycut
+/Applications/CopyQ.app:
+	-brew install --cask copyq
 ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf:
-	-brew cask install homebrew/cask-fonts/font-fira-code-nerd-font
+	-brew install --cask homebrew/cask-fonts/font-fira-code-nerd-font
 	-ln -fs ~/Library/Fonts/Fira\ Code\ Regular\ Nerd\ Font\ Complete.otf ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 $(FZF):
 	-brew install fzf
@@ -164,18 +175,18 @@ $(GIT):
 $(GMV):
 	-brew install coreutils
 /Applications/iTerm.app:
-	-brew cask install iterm2
+	-brew install --cask iterm2
 ~/com.googlecode.iterm2.plist: ~/mskar/setup/com.googlecode.iterm2.plist
 	ln -sf ~/mskar/setup/com.googlecode.iterm2.plist ~/com.googlecode.iterm2.plist
 /Applications/JetBrainsToolbox.app:
-	-brew cask install jetbrains-toolbox
+	-brew install --cask jetbrains-toolbox
 	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
 ~/miniconda/bin/jupyter:
 	-python -m pip install jupyter
 ~/.ideavimrc: ~/mskar/setup/.ideavimrc
 	-ln -fs ~/mskar/setup/.ideavimrc ~/.ideavimrc
 /Applications/Karabiner-Elements.app:
-	-brew cask install karabiner-elements
+	-brew install --cask karabiner-elements
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/karabiner.json
 	mkdir -p ~/.config/karabiner
 	-ln -fs ~/mskar/setup/karabiner.json ~/.config/karabiner/
@@ -235,7 +246,7 @@ $(RENAME):
 $(RG):
 	-brew install rg
 $(RSTATS):
-	-brew cask install r
+	-brew install --cask r
 ~/miniconda/envs/r:
 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
 ~/.config/rstudio/rstudio-prefs.json: ~/mskar/setup/rstudio-prefs.json
@@ -247,8 +258,6 @@ $(RSTATS):
 	ln -sf ~/mskar/setup/rstudio_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json
 $(SCIM):
 	-brew install sc-im
-/Applications/ShiftIt.app:
-	-brew cask install shiftit
 $(TLDR):
 	-brew install tldr
 $(TMUX):
@@ -264,10 +273,13 @@ $(VIM):
 ~/.vimrc: ~/mskar/setup/.vimrc
 	ln -sf ~/mskar/setup/.vimrc ~/.vimrc
 	ln -sf ~/mskar/setup/.vimrc ~/mskar/setup/vimrc
+/Applications/Vimac.app:
+	-brew install --cask vimac
 /Applications/VimR.app:
-	-brew cask install vimr
+	-brew install --cask vimr
 /Applications/VisualStudioCode.app:
-	-brew cask install visual-studio-code
+	-brew install --cask visual-studio-code
+	-ln -fs /Applications/Visual\ Studio\ Code.app /Applications/VisualStudioCode.app
 ~/Library/ApplicationSupport/Code/User/settings.json: ~/mskar/setup/settings.json
 	ln -sf ~/mskar/setup/settings.json ~/Library/Application\ Support/Code/User/settings.json
 	ln -sf ~/mskar/setup/settings.json ~/Library/ApplicationSupport/Code/User/settings.json
@@ -286,8 +298,8 @@ $(VSCODE_PYLANCE):
 	-code --install-extension ms-python.vscode-pylance --force
 $(VSCODE_TABNINE):
 	-code --install-extension tabnine.tabnine-vscode --force
-$(XPDF):
-	-brew install xpdf
+$(POPPLER):
+	-brew install poppler
 ~/.zshrc: ~/mskar/setup/.zshrc
 	ln -sf ~/mskar/setup/.zshrc ~/.zshrc
 ~/.zsh/zsh-autosuggestions:
@@ -298,4 +310,4 @@ $(XPDF):
 clean:
 	rm ~/.bash_profile ~/.config/bottom/bottom.toml ~/.config/karabiner/karabiner.json ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json ~/.gitconfig ~/.gitignore ~/.ideavimrc ~/.inputrc ~/.ipython/profile_default/ipython_config.py ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings ~/.p10k.zsh ~/.radian_profile ~/.tmux.conf.local ~/.vim/coc-settings.json ~/.vimrc ~/.zshrc ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json ~/Library/ApplicationSupport/ptpython/config.py
 
-.PHONY: bash iterm jetbrains karabiner neovim rstudio tmux vim vscode zsh conda font git ipy repo shiftit flycut
+.PHONY: bash iterm jetbrains karabiner neovim rstudio tmux vim vscode zsh conda font git ipy repo amethyst copyq
