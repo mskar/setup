@@ -1,9 +1,9 @@
 # This repo contains my setup files for Mac (local) and Linux (remote).
 
 # Installation
-### `curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh | /bin/bash`
+### `curl -fsSL https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh | /bin/bash`
 ## or
-### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/master/scripts/setup.sh)"`
+### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)"`
 
 ## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 
@@ -80,14 +80,14 @@ defaults write NSGlobalDomain _HIHideMenuBar -bool true
 echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # Zsh config
-curl https://raw.githubusercontent.com/mskar/setup/master/.zshrc -o ~/.zshrc
+curl https://raw.githubusercontent.com/mskar/setup/main/.zshrc -o ~/.zshrc
 
 # powerlevel10k config
-curl https://raw.githubusercontent.com/mskar/setup/master/.p10k.zsh -o ~/.p10k.zsh
+curl https://raw.githubusercontent.com/mskar/setup/main/.p10k.zsh -o ~/.p10k.zsh
 
 # git
 ## config
-curl https://raw.githubusercontent.com/mskar/setup/master/.gitconfig -o ~/.gitconfig
+curl https://raw.githubusercontent.com/mskar/setup/main/.gitconfig -o ~/.gitconfig
 
 ## Regular expressions for diffs
 ### https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
@@ -96,7 +96,7 @@ curl https://gist.githubusercontent.com/tekin/12500956bd56784728e490d8cef9cb81/r
 
 ## automatically ignored files
 # git config, ignore, and attributes
-curl https://raw.githubusercontent.com/mskar/setup/master/.gitignore -o ~/.gitignore
+curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitignore
 
 # Font and Applications
 ## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
@@ -122,7 +122,7 @@ brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
-curl https://raw.githubusercontent.com/mskar/setup/master/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
+curl https://raw.githubusercontent.com/mskar/setup/main/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
 ## In iterm2, select General > Preferences: Select load preferences from a local folder or URL
 ## In iterm2, select Appearance > Theme: Minimal
 ## In iterm2, select Profiles > Keys: Both option keys to Esc+
@@ -130,7 +130,7 @@ curl https://raw.githubusercontent.com/mskar/setup/master/com.googlecode.iterm2.
 ## In iterm2, select Fura Code Nerdfont size 18 in Profiles > Text > Change Font and check Use Ligatures
 
 ## Set up karabiner
-curl https://raw.githubusercontent.com/mskar/setup/master/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
 ##### Change return to control if pressed with other keys, to return if pressed alone (from Change return to control)
@@ -139,9 +139,9 @@ curl https://raw.githubusercontent.com/mskar/setup/master/karabiner.json -o ~/.c
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
 ## Set up Visual Studio Code
-curl https://raw.githubusercontent.com/mskar/setup/master/settings.json -o ~/Library/Application\ Support/Code/User/settings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/Code/User/settings.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json
+curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json
 
 code --install-extension ms-python.python --force
 
@@ -176,32 +176,29 @@ mkdir -p ~/.local/share/nvim/undo
 $(brew --prefix)/opt/fzf/install --completion --key-bindings --no-fish --no-update-rc
 
 # Use Bash as a backup
-curl https://raw.githubusercontent.com/mskar/setup/master/.bash_profile -o ~/.bash_profile
+curl https://raw.githubusercontent.com/mskar/setup/main/.bash_profile -o ~/.bash_profile
 
-curl https://raw.githubusercontent.com/mskar/setup/master/.inputrc -o ~/.inputrc
-
-# Use Emacs in addition to Vim
-curl https://raw.githubusercontent.com/mskar/setup/master/.spacemacs -o ~/.spacemacs
+curl https://raw.githubusercontent.com/mskar/setup/main/.inputrc -o ~/.inputrc
 
 ## Download dotfiles (configuration files)
 ### Vim
-curl https://raw.githubusercontent.com/mskar/setup/master/.vimrc -o ~/.vim/.vimrc
+curl https://raw.githubusercontent.com/mskar/setup/main/.vimrc -o ~/.vim/.vimrc
 
 ### Vim snippets
-curl https://raw.githubusercontent.com/mskar/setup/master/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
 
 ### Neovim
-curl https://raw.githubusercontent.com/mskar/setup/master/init.vim -o ~/.config/nvim/init.vim --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/init.vim -o ~/.config/nvim/init.vim --create-dirs
 
 curl https://raw.githubusercontent.com/jalvesaq/Nvim-R/master/R/tmux_split.vim -o ~/tmux_split.vim
 
 ### Neovim GUIs
-curl https://raw.githubusercontent.com/mskar/setup/master/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
 
 ### COC (Conqueror Of Completion)
-curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/master/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
 
 ## SpaceVim
 git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
@@ -211,29 +208,44 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o 
 curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 
 ### JetBrains IDEs
-curl https://raw.githubusercontent.com/mskar/setup/master/.ideavimrc -o ~/.ideavimrc
+curl https://raw.githubusercontent.com/mskar/setup/main/.ideavimrc -o ~/.ideavimrc
 
 ## Set up emacs
+
+### Spacemacs
+rm -rf ~/.emacs.d
+
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 
+curl https://raw.githubusercontent.com/mskar/setup/main/.spacemacs -o ~/.spacemacs
+
+### Doom emacs
+
+git clone https://github.com/hlissner/doom-emacs ~/.doom/doom-emacs
+
+export DOOMDIR=~/.doom/doom-emacs-config
+
+mkdir -p "$DOOMDIR"
+
+~/.doom/doom-emacs/bin/doom install
 
 ## Set up oh my tmux
 curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 
-curl https://raw.githubusercontent.com/mskar/setup/master/.tmux.conf.local -o ~/.tmux.conf.local
+curl https://raw.githubusercontent.com/mskar/setup/main/.tmux.conf.local -o ~/.tmux.conf.local
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 ## Set up ipython
-curl https://raw.githubusercontent.com/mskar/setup/master/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/master/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
 
 ## Set up ptpython
-curl https://raw.githubusercontent.com/mskar/setup/master/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
 
 ## Set up radian
-curl https://raw.githubusercontent.com/mskar/setup/master/.radian_profile -o ~/.radian_profile
+curl https://raw.githubusercontent.com/mskar/setup/main/.radian_profile -o ~/.radian_profile
 ln -sf .radian_profile radian_profile.R
 
 # Python and R
@@ -266,7 +278,7 @@ python -m pip install git+https://github.com/mskar/radian git+https://github.com
 ##### https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
 
 ### Jupyter settings
-curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
+curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 --create-dirs
 
 ## Setup PyCharm
@@ -337,11 +349,11 @@ curl https://raw.githubusercontent.com/mskar/setup/master/shortcuts.jupyterlab-s
 ##### Installing r into base environment breaks nvim-R
 ~/miniconda/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
 
-curl https://raw.githubusercontent.com/mskar/setup/master/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/master/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/master/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
 
 ### Install and symlink macvim (brew installed macvim conflicts with brew installed vim)
 ##### ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
