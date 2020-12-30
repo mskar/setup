@@ -27,6 +27,9 @@ This function should only modify configuration layer settings."
    dotspacemacs-ask-for-lazy-installation t
 
    undo-tree-auto-save-history t
+   vim-style-visual-feedback t
+   vim-style-remap-Y-to-y$ t
+   vc-follow-symlinks t
 
    ;; List of additional paths where to look for configuration layers.
    ;; Paths must have a trailing slash (i.e. `~/.mycontribs/')
@@ -517,8 +520,6 @@ This function is called at the very end of Spacemacs startup, after layer
 configuration.
 Put your configuration code here, except for variables that should be set
 before packages are loaded."
-
-  (setq vc-follow-symlinks t)
 
   (defun backward-kill-line (arg)
     "Kill ARG lines backward."

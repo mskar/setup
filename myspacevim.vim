@@ -5,6 +5,8 @@ endfunction
 
 function! myspacevim#before() abort
 
+  nnoremap Y y$
+
   if !has('nvim')
     set <A-a>=a
     set <A-b>=b

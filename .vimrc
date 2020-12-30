@@ -371,6 +371,7 @@ au FileType snakemake let Comment="#"
 au FileType snakemake setlocal completeopt=menuone,longest
 au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
+autocmd FileType python nnoremap <buffer> <silent> <leader><CR> :w !python<CR>
 " Highlight the symbol and its references when holding the cursor.
 autocmd CursorHold * silent call CocActionAsync('highlight')
 
@@ -771,5 +772,4 @@ omap ac <Plug>(coc-classobj-a)
 nmap <silent> <C-s> <Plug>(coc-range-select)
 xmap <silent> <C-s> <Plug>(coc-range-select)
 
-" Save and run Python file and show the output
-autocmd FileType python nnoremap <buffer> <silent> <leader><CR> :w !python<CR>
+nnoremap Y y$

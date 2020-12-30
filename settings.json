@@ -37,6 +37,10 @@
             "commands": [
                 "workbench.action.terminal.focus"
             ]
+        },
+        {
+            "before": ["Y"],
+            "after": ["y$"]
         }
     ],
     "vim.insertModeKeyBindings": [
