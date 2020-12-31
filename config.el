@@ -47,6 +47,9 @@
 ;; persistent undo
 (setq undo-tree-auto-save-history t)
 
+;; Don't let evil-snipe remap s and S
+(after! evil-snipe (evil-snipe-mode -1))
+
 ;; cursor-shape
 (use-package term-cursor)
 (global-term-cursor-mode)
