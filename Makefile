@@ -47,7 +47,7 @@ bottom: $(BTM) ~/.config/bottom/bottom.toml
 brew: $(BREW)
 coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: ~/miniconda/bin/conda
-emacs: $(EMACS) ~/.emacs.d ~/.spacemacs
+emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom/doom-emacs-config/config.el ~/.doom/doom-emacs ~/.doom/doom-emacs-config
 exa: $(EXA)
 fasd: $(FASD)
 fd: $(FD)
@@ -148,6 +148,14 @@ $(EMACS):
 	-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ~/.spacemacs: ~/mskar/setup/.spacemacs
 	-ln -fs ~/mskar/setup/.spacemacs ~/.spacemacs
+~/.doom/doom-emacs:
+	git clone https://github.com/hlissner/doom-emacs ~/.doom/doom-emacs
+~/.doom/doom-emacs-config:
+	export DOOMDIR=~/.doom/doom-emacs-config
+	mkdir -p ~/.doom/doom-emacs-config
+	~/.doom/doom-emacs/bin/doom install
+~/.doom/doom-emacs-config/config.el: ~/mskar/setup/config.el
+	-ln -fs ~/mskar/setup/config.el ~/.doom/doom-emacs-config/config.el
 $(EXA):
 	-brew install exa
 $(FASD):

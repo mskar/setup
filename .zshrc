@@ -14,6 +14,7 @@ fi
 source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
 export PATH=$HOME/miniconda/bin:$PATH
 export KEYTIMEOUT=1

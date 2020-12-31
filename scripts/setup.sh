@@ -229,6 +229,8 @@ mkdir -p "$DOOMDIR"
 
 ~/.doom/doom-emacs/bin/doom install
 
+curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.doom/doom-emacs-config/config.el
+
 ## Set up oh my tmux
 curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 
