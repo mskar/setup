@@ -50,6 +50,9 @@
 ;; Don't let evil-snipe remap s and S
 (after! evil-snipe (evil-snipe-mode -1))
 
+;; Don't let evil-snipe repeat with f/F/t/T
+(setq evil-snipe-repeat-keys nil)
+
 ;; cursor-shape
 (use-package term-cursor)
 (global-term-cursor-mode)
