@@ -51,6 +51,14 @@
 (use-package term-cursor)
 (global-term-cursor-mode)
 
+;; copying to system clipboard is not working
+(setq osx-clipboard-mode t)
+;; copy/paste between macOS and Emacs[[https://emacs.stackexchange.com/questions/48607/os-copy-paste-not-working-for-emacs-mac][post]]
+ (setq select-enable-clipboard t)
+ (setq interprogram-paste-function
+ (lambda ()
+   (shell-command-to-string "pbpaste")))
+
 (defun backward-kill-line (arg)
     "Kill ARG lines backward."
     (interactive "p")
