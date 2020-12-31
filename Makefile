@@ -36,7 +36,7 @@ VSCODE_PYLANCE =  $(wildcard ~/.vscode/extensions/ms-python.vscode-pylance-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
 VSCODE_TABNINE = $(wildcard ~/.vscode/extensions/tabnine.tabnine-vscode-*)
-POPPLER = $(shell brew --prefix)/bin/poppler
+POPPLER = $(shell brew --prefix)/bin/pdftotext
 
 all: ag alfred alttab amethyst bash bat bottom brew coc conda copyq emacs exa fasd fd font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim tldr tmux vim vimr vscode poppler zsh
 
@@ -47,7 +47,7 @@ bottom: $(BTM) ~/.config/bottom/bottom.toml
 brew: $(BREW)
 coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: ~/miniconda/bin/conda
-emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom/doom-emacs-config/config.el ~/.doom/doom-emacs ~/.doom/doom-emacs-config
+emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom/doom-emacs ~/.doom/doom-emacs-config ~/.doom/doom-emacs-config/config.el
 exa: $(EXA)
 fasd: $(FASD)
 fd: $(FD)
@@ -72,7 +72,7 @@ repo: ~/mskar/setup
 rg: $(RG)
 rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
-alfred: /Applications/Alfred.app
+alfred: /Applications/Alfred4.app
 alttab: /Applications/AltTab.app
 amethyst: /Applications/Amethyst.app
 tldr: $(TLDR)
@@ -107,8 +107,9 @@ zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh
 
 $(AG):
 	-brew install ag
-/Applications/Alfred.app:
+/Applications/Alfred4.app:
 	-brew install --cask alfred
+	ln -sf /Applications/Alfred\ 4.app /Applications/Alfred4.app
 /Applications/AltTab.app:
 	-brew install --cask alttab
 /Applications/Amethyst.app:
@@ -307,7 +308,7 @@ $(VSCODE_PYLANCE):
 $(VSCODE_TABNINE):
 	-code --install-extension tabnine.tabnine-vscode --force
 $(POPPLER):
-	-brew install poppler
+	-brew install pdftotext
 ~/.zshrc: ~/mskar/setup/.zshrc
 	ln -sf ~/mskar/setup/.zshrc ~/.zshrc
 ~/.zsh/zsh-autosuggestions:

@@ -231,6 +231,8 @@ mkdir -p "$DOOMDIR"
 
 curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.doom/doom-emacs-config/config.el
 
+curl https://raw.githubusercontent.com/mskar/setup/main/packages.el -o ~/.doom/doom-emacs-config/packages.el
+
 ## Set up oh my tmux
 curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 
