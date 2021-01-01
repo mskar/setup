@@ -18,6 +18,8 @@ function! myspacevim#before() abort
     set <A-j>=j
     set <A-k>=k
     set <A-l>=l
+    set <A-r>=r
+    set <A-s>=s
     set <A-t>=t
     set <A-u>=u
     set <A-.>=.
@@ -105,6 +107,40 @@ function! myspacevim#before() abort
   nnoremap <A-.> a<C-r>.
   inoremap <A-.> <Esc>a<C-r>.
   cnoremap <A-.> <C-r>.
+
+  " 2-character Sneak (default)
+  nmap <A-s>   <Plug>Sneak_s
+  nmap <A-r> <Plug>Sneak_S
+  " visual-mode
+  xmap <A-s>   <Plug>Sneak_s
+  xmap <A-r> <Plug>Sneak_S
+  " operator-pending-mode
+  omap <A-s>   <Plug>Sneak_s
+  omap <A-r> <Plug>Sneak_S
+
+  " repeat motion
+  map ; <Plug>Sneak_;
+  map , <Plug>Sneak_,
+
+  " 1-character enhanced 'f'
+  nmap f <Plug>Sneak_f
+  nmap F <Plug>Sneak_F
+  " visual-mode
+  xmap f <Plug>Sneak_f
+  xmap F <Plug>Sneak_F
+  " operator-pending-mode
+  omap f <Plug>Sneak_f
+  omap F <Plug>Sneak_F
+
+  " 1-character enhanced 't'
+  nmap t <Plug>Sneak_t
+  nmap T <Plug>Sneak_T
+  " visual-mode
+  xmap t <Plug>Sneak_t
+  xmap T <Plug>Sneak_T
+  " operator-pending-mode
+  omap t <Plug>Sneak_t
+  omap T <Plug>Sneak_T
 endfunction
 
 " https://github.com/liuchengxu/space-vim/issues/356

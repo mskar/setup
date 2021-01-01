@@ -53,3 +53,4 @@
     default_height = 30
 [[custom_plugins]]
     name = 'machakann/vim-highlightedyank'
+    name = 'justinmk/vim-sneak'

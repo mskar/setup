@@ -37,6 +37,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-obsession'
 Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
 Plug 'tommcdo/vim-exchange'
+Plug 'justinmk/vim-sneak'
 
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
@@ -950,3 +951,37 @@ nmap <silent> <C-s> <Plug>(coc-range-select)
 xmap <silent> <C-s> <Plug>(coc-range-select)
 
 nnoremap Y y$
+
+" 2-character Sneak (default)
+nmap <A-s>   <Plug>Sneak_s
+nmap <A-r> <Plug>Sneak_S
+" visual-mode
+xmap <A-s>   <Plug>Sneak_s
+xmap <A-r> <Plug>Sneak_S
+" operator-pending-mode
+omap <A-s>   <Plug>Sneak_s
+omap <A-r> <Plug>Sneak_S
+
+" repeat motion
+map ; <Plug>Sneak_;
+map , <Plug>Sneak_,
+
+" 1-character enhanced 'f'
+nmap f <Plug>Sneak_f
+nmap F <Plug>Sneak_F
+" visual-mode
+xmap f <Plug>Sneak_f
+xmap F <Plug>Sneak_F
+" operator-pending-mode
+omap f <Plug>Sneak_f
+omap F <Plug>Sneak_F
+
+" 1-character enhanced 't'
+nmap t <Plug>Sneak_t
+nmap T <Plug>Sneak_T
+" visual-mode
+xmap t <Plug>Sneak_t
+xmap T <Plug>Sneak_T
+" operator-pending-mode
+omap t <Plug>Sneak_t
+omap T <Plug>Sneak_T
