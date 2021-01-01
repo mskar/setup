@@ -511,12 +511,6 @@ xmap <silent><leader>v <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
-noremap YY "+y<CR>
-noremap XX "+x<CR>
-
-" Vim screencast #14: *Ncgn: https://youtu.be/7Bx_mLDBtRc
-noremap c* *Ncgn
-
 if has('macunix')
   " pbcopy for OSX copy/paste
   xmap <D-x> :!pbcopy<CR>

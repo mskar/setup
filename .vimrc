@@ -376,18 +376,6 @@ au FileType snakemake let Comment="#"
 au FileType snakemake setlocal completeopt=menuone,longest
 au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 
-autocmd FileType python nnoremap <buffer> <silent> <leader><CR> :w !python<CR>
-" Highlight the symbol and its references when holding the cursor.
-autocmd CursorHold * silent call CocActionAsync('highlight')
-
-augroup mygroup
-  autocmd!
-  " Setup formatexpr specified filetype(s).
-  autocmd FileType typescript,json setl formatexpr=CocAction('formatSelected')
-  " Update signature help on jump placeholder.
-  autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
-augroup end
-
 "*****************************************************************************
 "" Mappings
 "*****************************************************************************
@@ -408,12 +396,6 @@ cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
 " https://github.com/vim/vim/issues/4738
 nnoremap gx yiW:!open <cWORD><CR> <C-r>" & <CR><CR>
-
-noremap YY "+y<CR>
-noremap XX "+x<CR>
-
-" Vim screencast #14: *Ncgn: https://youtu.be/7Bx_mLDBtRc
-noremap c* *Ncgn
 
 if has('macunix')
   " pbcopy for OSX copy/paste
@@ -752,14 +734,6 @@ nmap <silent> gd <Plug>(coc-definition)
 
 " Use K to show documentation in preview window.
 nnoremap <silent> K :call <SID>show_documentation()<CR>
-
-function! s:show_documentation()
-  if (index(['vim','help'], &filetype) >= 0)
-    execute 'h '.expand('<cword>')
-  else
-    call CocActionAsync('doHover')
-  endif
-endfunction
 
 " Map function and class text objects
 " NOTE: Requires 'textDocument.documentSymbol' support from the language server.
