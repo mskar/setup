@@ -1,8 +1,3 @@
-function! myspacevim#after() abort
-  unmap <c-c>
-  unmap ,<space>
-endfunction
-
 function! myspacevim#before() abort
 
   nnoremap Y y$
@@ -201,3 +196,5 @@ if has('unnamedplus')
   set clipboard=unnamed,unnamedplus
 endif
 set go+=a
+
+autocmd VimEnter * nunmap ,<space>
