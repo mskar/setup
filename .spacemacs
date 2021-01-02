@@ -46,6 +46,7 @@ This function should only modify configuration layer settings."
      auto-completion
      ;; better-defaults
      emacs-lisp
+     evil-snipe
      git
      helm
      ;; lsp
@@ -527,6 +528,19 @@ before packages are loaded."
     (kill-line (- 1 arg)))
 
   (global-term-cursor-mode)
+
+  ;; Don't let evil-snipe remap s and S
+  (evil-snipe-mode -1)
+
+  ;; Don't let evil-snipe repeat with f/F/t/T
+  (setq evil-snipe-repeat-keys nil)
+
+  ;; evil-snipe f/F/t/T don't work on their own
+  (evil-define-key 'motion global-map
+    (kbd "f") 'evil-snipe-f
+    (kbd "F") 'evil-snipe-F
+    (kbd "t") 'evil-snipe-t
+    (kbd "T") 'evil-snipe-T)
 
   (evil-define-key 'insert global-map (kbd "C-a") 'move-beginning-of-line)
   (evil-define-key 'insert global-map (kbd "C-e") 'move-end-of-line)
