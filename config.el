@@ -60,6 +60,11 @@
 ;; copying to system clipboard is working
 (osx-clipboard-mode +1)
 
+(defun backward-kill-line (arg)
+  "Kill ARG lines backward."
+  (interactive "p")
+  (kill-line (- 1 arg)))
+
 (evil-define-key 'insert global-map (kbd "C-d") 'delete-forward-char)
 (evil-define-key 'insert global-map (kbd "C-h") 'delete-backward-char)
 (evil-define-key 'normal global-map (kbd "C-i") 'evil-jump-forward)
