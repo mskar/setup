@@ -1,5 +1,40 @@
 function! myspacevim#before() abort
 
+  " https://vimrcfu.com/snippet/250
+  " https://vi.stackexchange.com/a/15785
+  function! ToggleHML()
+      set scrolloff=0
+      let l:last_win_line = ( line('$') <= winheight('%') ? line('$')  : winheight('%')  )
+      if winline() == l:last_win_line / 2
+        normal H
+      elseif winline() == l:last_win_line
+        normal M
+      elseif winline() == 1
+        normal L
+      else
+        normal M
+      endif
+  endfunction
+
+  function! Toggleztzzzb()
+      set scrolloff=0
+      let l:last_win_line = ( line('$') <= winheight('%') ? line('$')  : winheight('%')  )
+      if winline() == l:last_win_line / 2
+        normal zt
+      elseif winline() == l:last_win_line
+        normal zz
+      elseif winline() == 1
+        normal zb
+      else
+        normal zz
+      endif
+  endfunction
+
+  nnoremap <C-l> :call Toggleztzzzb()<CR>
+  nnoremap <M-r> :call ToggleHML()<CR>
+  inoremap <C-l> <C-o>:call Toggleztzzzb()<CR>
+  inoremap <M-r> <C-o>:call ToggleHML()<CR>
+
   nnoremap Y y$
 
   if !has('nvim')
@@ -198,3 +233,4 @@ endif
 set go+=a
 
 autocmd VimEnter * nunmap ,<space>
+
