@@ -108,6 +108,8 @@ brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
 ### https://install.appcenter.ms/users/dexterleng/apps/vimac/distribution_groups/sparkle
+## Set Vimac scroll mode shortcut to `ctrl j`
+## Set Vimac hint mode shortcut to `ctrl '`
 
 # Permissions
 ## Grant permissions to Amethyst, CopyQ, altTab, Vimac, VimR and Alfred
@@ -325,13 +327,6 @@ curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-set
 ### In MacOS System Preferences: Keyboard > Shortcuts > Services, uncheck Open man Page in Terminal (`Cmd Shift M`) and Search man Page Index in Terminal (`Cmd Shift A`)
 ### In MacOS System Preferences: Keyboard > Shortcuts > Keyboard, uncheck Turn keyboard access on and off after making sure all of the other shortcuts are enabled
 ### In MacOS System Preferences: Keyboard > Shortcuts > Keyboard, change ctrl function shortcuts to ctrl num shortcuts:
-#### - `Ctrl F2` -> `Ctrl 2` (Move focus to the menu bar)
-#### - `Ctrl F3` -> `Ctrl 3` (Move focus to the Dock)
-#### - `Ctrl F4` -> `Ctrl 4` (Move focus to active or next window)
-#### - `Ctrl F5` -> `Ctrl 5` (Move focus to the window toolbar)
-#### - `Ctrl F6` -> `Ctrl 6` (Move focus to the floating window)
-#### - `Ctrl F7` -> `Ctrl 7` (Change the way Tab moves focus)
-#### - `Ctrl F8` -> `Ctrl 8` (Move focus to status menus)
 ### In Editor > Font, select Fura Code Nerd Font size 16 as main and Jetbrains Mono as fallback and Enable font ligatures
 ### In Editor > Code Style, set visual guides to 80 characters
 ### Check Change font size (Zoom) with Command+Mouse Wheel in Editor > General
