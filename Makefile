@@ -281,7 +281,6 @@ $(VIM):
 	-brew install vim
 ~/.vimrc: ~/mskar/setup/.vimrc
 	ln -sf ~/mskar/setup/.vimrc ~/.vimrc
-	ln -sf ~/mskar/setup/.vimrc ~/mskar/setup/vimrc
 /Applications/Vimac.app:
 	-brew install --cask vimac
 /Applications/VimR.app:
