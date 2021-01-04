@@ -643,32 +643,35 @@ zle -N globalias
 # https://en.wikipedia.org/wiki/GNU_Readline#Emacs_keyboard_shortcuts
 # http://web.cs.elte.hu/zsh-manual/zsh_14.html#SEC49
 bindkey -v
-bindkey -M emacs "^\ee" globalias
-bindkey -M emacs "^ " magic-space
-bindkey -M isearch " " magic-space
 bindkey -M menuselect '^o' accept-and-infer-next-history
 bindkey -M menuselect 'h' vi-backward-char
 bindkey -M menuselect 'j' vi-down-line-or-history
 bindkey -M menuselect 'k' vi-up-line-or-history
 bindkey -M menuselect 'l' vi-forward-char
+bindkey -M viins "^['" quote-line
 bindkey -M viins "^[^e" globalias
-bindkey -M viins "\e'" quote-line
-bindkey -M viins "^ " magic-space
-bindkey -M viins '\e"' quote-region
-bindkey -M viins '\e.' insert-last-word
-bindkey -M viins '\e@' set-mark-command
-bindkey -M viins '\eb' backward-word
-bindkey -M viins '\ec' capitalize-word
-bindkey -M viins '\ed' kill-word
-bindkey -M viins '\ef' forward-word
-bindkey -M viins '\eh' backward-kill-word
-bindkey -M viins '\el' down-case-word
-bindkey -M viins '\et' transpose-words
-bindkey -M viins '\eu' up-case-word
-bindkey -M viins '\ey' yank-pop
-bindkey -M viins '^?' backward-delete-char
-bindkey -M viins '^_' undo
+bindkey -M viins '^ ' set-mark-command
 bindkey -M viins '^/' undo
+bindkey -M viins '^["' quote-region
+bindkey -M viins '^[-' neg-argument
+bindkey -M viins '^[.' insert-last-word
+bindkey -M viins '^[<' beginning-of-buffer-or-history
+bindkey -M viins '^[>' end-of-buffer-or-history
+bindkey -M viins '^[^h' backward-kill-word
+bindkey -M viins '^[b' backward-word
+bindkey -M viins '^[c' capitalize-word
+bindkey -M viins '^[d' kill-word
+bindkey -M viins '^[f' forward-word
+bindkey -M viins '^[h' kill-region
+bindkey -M viins '^[l' down-case-word
+bindkey -M viins '^[n' history-search-forward
+bindkey -M viins '^[p' history-search-backward
+bindkey -M viins '^[t' transpose-words
+bindkey -M viins '^[u' up-case-word
+bindkey -M viins '^[w' copy-region-as-kill
+bindkey -M viins '^[x' execute-named-cmd
+bindkey -M viins '^[y' yank-pop
+bindkey -M viins '^_' undo
 bindkey -M viins '^a' beginning-of-line
 bindkey -M viins '^b' backward-char
 bindkey -M viins '^d' delete-char
