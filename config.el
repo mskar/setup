@@ -65,6 +65,8 @@
   (interactive "p")
   (kill-line (- 1 arg)))
 
+(evil-define-key 'insert global-map (kbd "M-r") 'move-to-window-line-top-bottom)
+(evil-define-key 'normal global-map (kbd "M-r") 'move-to-window-line-top-bottom)
 (evil-define-key 'insert global-map (kbd "C-d") 'delete-forward-char)
 (evil-define-key 'insert global-map (kbd "C-h") 'delete-backward-char)
 (evil-define-key 'normal global-map (kbd "C-i") 'evil-jump-forward)
@@ -72,6 +74,8 @@
 (evil-define-key 'insert global-map (kbd "C-t") 'transpose-chars)
 (evil-define-key 'insert global-map (kbd "C-u") 'backward-kill-line)
 (evil-define-key 'insert global-map (kbd "C-y") 'yank)
+(evil-define-key 'normal global-map (kbd "C-a") 'evil-numbers/inc-at-pt)
+(evil-define-key 'normal global-map (kbd "C-x") 'evil-numbers/dec-at-pt)
 
 ;; Here are some additional functions/macros that could help you configure Doom:
 ;;

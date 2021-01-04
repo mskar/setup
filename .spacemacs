@@ -551,6 +551,8 @@ before packages are loaded."
   (evil-define-key 'insert global-map (kbd "C-u") 'backward-kill-line)
   (evil-define-key 'insert global-map (kbd "C-y") 'yank)
   (evil-define-key 'normal global-map (kbd "C-i") 'evil-jump-forward)
+  (evil-define-key 'normal global-map (kbd "C-a") 'evil-numbers/inc-at-pt)
+  (evil-define-key 'normal global-map (kbd "C-x") 'evil-numbers/dec-at-pt)
 
   )
 
