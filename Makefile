@@ -142,9 +142,11 @@ $(BREW):
 $(DELTA):
 	-brew install git-delta
 $(EMACS):
+	-mkdir -p ~/.config/emacs
 	-brew install --cask emacs
 	-brew install emacs
 	-brew link --overwrite emacs
+	-ln -fs ~/mskar/setup/init.el ~/.config/emacs/init.el
 ~/.emacs.d:
 	-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ~/.spacemacs: ~/mskar/setup/.spacemacs

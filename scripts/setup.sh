@@ -214,6 +214,8 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.ideavimrc -o ~/.ideavim
 
 ## Set up emacs
 
+curl https://raw.githubusercontent.com/mskar/setup/main/init.el -o ~/.config/emacs/init.el --create-dirs
+
 ### Spacemacs
 rm -rf ~/.emacs.d
 
