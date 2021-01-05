@@ -108,8 +108,8 @@ brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
 ### https://install.appcenter.ms/users/dexterleng/apps/vimac/distribution_groups/sparkle
-## Set Vimac scroll mode shortcut to `ctrl j`
-## Set Vimac hint mode shortcut to `ctrl '`
+## Set Vimac scroll mode shortcut to `cmd shift j`
+## Set Vimac hint mode shortcut to `cmd shift h`
 
 # Permissions
 ## Grant permissions to Amethyst, CopyQ, altTab, Vimac, VimR and Alfred
