@@ -42,14 +42,14 @@
                         ]
                     },
                     {
-                        "description": "Change right_command+hjkl to arrow keys",
+                        "description": "Change control+bnpf to arrow keys",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "h",
+                                    "key_code": "b",
                                     "modifiers": {
                                         "mandatory": [
-                                            "right_command"
+                                            "control"
                                         ],
                                         "optional": [
                                             "any"
@@ -65,10 +65,10 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "j",
+                                    "key_code": "n",
                                     "modifiers": {
                                         "mandatory": [
-                                            "right_command"
+                                            "control"
                                         ],
                                         "optional": [
                                             "any"
@@ -84,10 +84,10 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "k",
+                                    "key_code": "p",
                                     "modifiers": {
                                         "mandatory": [
-                                            "right_command"
+                                            "control"
                                         ],
                                         "optional": [
                                             "any"
@@ -103,10 +103,10 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "l",
+                                    "key_code": "f",
                                     "modifiers": {
                                         "mandatory": [
-                                            "right_command"
+                                            "control"
                                         ],
                                         "optional": [
                                             "any"
@@ -587,7 +587,6 @@
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^org\\.vim\\.",
-                                            "^com\\.qvacua\\.VimR$",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.vmware\\.view$",
@@ -601,12 +600,7 @@
                                             "^org\\.x\\.X11$",
                                             "^com\\.apple\\.x11$",
                                             "^org\\.macosforge\\.xquartz\\.X11$",
-                                            "^org\\.macports\\.X11$",
-                                            "^com\\.sublimetext\\.",
-                                            "^com\\.jetbrains\\.pycharm$",
-                                            "^com\\.jetbrains\\.pycharm-EAP$",
-                                            "^org\\.rstudio\\.RStudio$",
-                                            "^com\\.microsoft\\.VSCode$"
+                                            "^org\\.macports\\.X11$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -660,7 +654,6 @@
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^org\\.vim\\.",
-                                            "^com\\.qvacua\\.VimR$",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.vmware\\.view$",
@@ -675,11 +668,7 @@
                                             "^com\\.apple\\.x11$",
                                             "^org\\.macosforge\\.xquartz\\.X11$",
                                             "^org\\.macports\\.X11$",
-                                            "^com\\.sublimetext\\.",
-                                            "^com\\.jetbrains\\.pycharm$",
-                                            "^com\\.jetbrains\\.pycharm-EAP$",
-                                            "^org\\.rstudio\\.RStudio$",
-                                            "^com\\.microsoft\\.VSCode$"
+                                            "^com\\.sublimetext\\."
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -770,6 +759,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "^com\\.microsoft\\.Outlook$",
                                             "^org\\.eclipse\\.platform\\.ide$"
                                         ],
                                         "type": "frontmost_application_if"

@@ -109,7 +109,7 @@ $(AG):
 	-brew install ag
 /Applications/Alfred4.app:
 	-brew install --cask alfred
-	ln -sf /Applications/Alfred\ 4.app /Applications/Alfred4.app
+	-ln -sf /Applications/Alfred\ 4.app /Applications/Alfred4.app
 /Applications/AltTab.app:
 	-brew install --cask alttab
 /Applications/Amethyst.app:
@@ -244,8 +244,8 @@ $(PASS):
 	-python -m pip install git+https://github.com/mskar/ptpython
 ~/Library/ApplicationSupport/ptpython/config.py: ~/mskar/setup/config.py
 	mkdir -p ~/Library/Application\ Support/ptpython/ ~/Library/ApplicationSupport/ptpython/
-	ln -sf ~/mskar/setup/config.py ~/Library/Application\ Support/ptpython/config.py
-	ln -sf ~/mskar/setup/config.py ~/Library/ApplicationSupport/ptpython/config.py
+	-ln -sf ~/mskar/setup/config.py ~/Library/Application\ Support/ptpython/config.py
+	-ln -sf ~/mskar/setup/config.py ~/Library/ApplicationSupport/ptpython/config.py
 ~/miniconda/bin/radian:
 	-python -m pip install git+https://github.com/mskar/radian
 ~/.radian_profile: ~/mskar/setup/.radian_profile
@@ -291,11 +291,11 @@ $(VIM):
 	-brew install --cask visual-studio-code
 	-ln -fs /Applications/Visual\ Studio\ Code.app /Applications/VisualStudioCode.app
 ~/Library/ApplicationSupport/Code/User/settings.json: ~/mskar/setup/settings.json
-	ln -sf ~/mskar/setup/settings.json ~/Library/Application\ Support/Code/User/settings.json
-	ln -sf ~/mskar/setup/settings.json ~/Library/ApplicationSupport/Code/User/settings.json
+	-ln -sf ~/mskar/setup/settings.json ~/Library/Application\ Support/Code/User/settings.json
+	-ln -sf ~/mskar/setup/settings.json ~/Library/ApplicationSupport/Code/User/settings.json
 ~/Library/ApplicationSupport/Code/User/keybindings.json: ~/mskar/setup/keybindings.json
-	ln -sf ~/mskar/setup/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
-	ln -sf ~/mskar/setup/keybindings.json ~/Library/ApplicationSupport/Code/User/keybindings.json
+	-ln -sf ~/mskar/setup/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
+	-ln -sf ~/mskar/setup/keybindings.json ~/Library/ApplicationSupport/Code/User/keybindings.json
 ~/.vim/undodir:
 	mkdir -p ~/.vim/undodir
 $(VSCODE_PYTHON):
