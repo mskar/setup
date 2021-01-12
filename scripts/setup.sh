@@ -256,6 +256,10 @@ curl https://raw.githubusercontent.com/mskar/setup/main/config.py -o ~/Library/A
 curl https://raw.githubusercontent.com/mskar/setup/main/.radian_profile -o ~/.radian_profile
 ln -sf .radian_profile radian_profile.R
 
+# Vimium
+## Add Custom key mappings to Vimium options
+### map cf LinkHints.activateModeWithQueue
+
 # Python and R
 
 ## Install miniconda Python

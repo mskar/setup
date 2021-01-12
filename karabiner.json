@@ -656,6 +656,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
+                                            "^com\\.microsoft\\.Outlook$",
                                             "^org\\.eclipse\\.platform\\.ide$"
                                         ],
                                         "type": "frontmost_application_if"
