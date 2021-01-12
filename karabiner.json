@@ -458,10 +458,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
-                                            "^com\\.microsoft\\.VSCode$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.google\\.Chrome$"
+                                            "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
