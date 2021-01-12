@@ -257,8 +257,9 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.radian_profile -o ~/.ra
 ln -sf .radian_profile radian_profile.R
 
 # Vimium
-## Add Custom key mappings to Vimium options
+## Add Custom key mappings (based on Surfingkeys) to Vimium options
 ### map cf LinkHints.activateModeWithQueue
+### map ya LinkHints.activateModeToCopyLinkUrl
 
 # Python and R
 
