@@ -228,7 +228,7 @@ alias dss="delta --side-by-side"
 alias dt="git difftool -yt vimdiff" # difftool is dt to match mergetool (mt)
 alias dts="git difftool -yt vimdiff --staged"
 alias duh="du -h"
-alias dw="git diff"
+alias dw="git diff --word-diff=color"
 alias e="emacsclient -t --alternate-editor emacs"
 alias ec="emacs -q --load ~/.config/emacs/init.el"
 alias ed="emacs -q --load  ~/.doom/doom-emacs/init.el"
