@@ -159,8 +159,8 @@ function! myspacevim#before() abort
   xmap f <Plug>Sneak_f
   xmap F <Plug>Sneak_F
   " operator-pending-mode
-  omap f <Plug>Sneak_f
-  omap F <Plug>Sneak_F
+  " omap f <Plug>Sneak_f
+  " omap F <Plug>Sneak_F
 
   " 1-character enhanced 't'
   nmap t <Plug>Sneak_t
@@ -169,8 +169,8 @@ function! myspacevim#before() abort
   xmap t <Plug>Sneak_t
   xmap T <Plug>Sneak_T
   " operator-pending-mode
-  omap t <Plug>Sneak_t
-  omap T <Plug>Sneak_T
+  " omap t <Plug>Sneak_t
+  " omap T <Plug>Sneak_T
 endfunction
 
 " https://github.com/liuchengxu/space-vim/issues/356

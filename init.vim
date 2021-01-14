@@ -967,8 +967,8 @@ nmap F <Plug>Sneak_F
 xmap f <Plug>Sneak_f
 xmap F <Plug>Sneak_F
 " operator-pending-mode
-omap f <Plug>Sneak_f
-omap F <Plug>Sneak_F
+" omap f <Plug>Sneak_f
+" omap F <Plug>Sneak_F
 
 " 1-character enhanced 't'
 nmap t <Plug>Sneak_t
@@ -977,8 +977,8 @@ nmap T <Plug>Sneak_T
 xmap t <Plug>Sneak_t
 xmap T <Plug>Sneak_T
 " operator-pending-mode
-omap t <Plug>Sneak_t
-omap T <Plug>Sneak_T
+" omap t <Plug>Sneak_t
+" omap T <Plug>Sneak_T
 
 " https://vimrcfu.com/snippet/250
 " https://vi.stackexchange.com/a/15785
