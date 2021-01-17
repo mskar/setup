@@ -528,8 +528,8 @@ cnoremap <A-.> <C-r>.
 
 "" Git
 nnoremap gs :Gstatus<CR>
-nnoremap d, :diffget //2<CR>
-nnoremap d. :diffget //3<CR>
+nnoremap [g :diffget //2<CR>
+nnoremap ]g :diffget //3<CR>
 nnoremap <silent><leader>gw :Gwrite<CR>
 nnoremap <silent><leader>gc :Gwrite<bar>Gcommit<CR>
 nnoremap <leader>gp :Gpush<CR>
@@ -724,10 +724,10 @@ else
   inoremap <silent><expr> <c-@> coc#refresh()
 endif
 
-" Use `[g` and `]g` to navigate diagnostics
+" Use `[d` and `]d` to navigate diagnostics
 " Use `:CocDiagnostics` to get all diagnostics of current buffer in location list.
-nmap <silent> [g <Plug>(coc-diagnostic-prev)
-nmap <silent> ]g <Plug>(coc-diagnostic-next)
+nmap <silent> [d <Plug>(coc-diagnostic-prev)
+nmap <silent> ]d <Plug>(coc-diagnostic-next)
 
 " GoTo code navigation.
 nmap <silent> gd <Plug>(coc-definition)
