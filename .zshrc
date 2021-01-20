@@ -28,6 +28,7 @@ export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always
 # export PATH=/usr/local/bin:$PATH
 WORDCHARS='_'
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5' # https://stackoverflow.com/a/47313453
+DISABLE_MAGIC_FUNCTIONS=true
 
 # https://cirw.in/blog/bracketed-paste
 set zle_bracketed_paste
