@@ -161,7 +161,7 @@ code --install-extension tabnine.tabnine-vscode --force
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install ag bash bat clementtsang/bottom/bottom coreutils git-delta emacs exa fasd fd ffmpeg fzf gh neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+brew install ag bash bat clementtsang/bottom/bottom coreutils git-delta emacs exa fasd fd ffmpeg fzf gh miniforge neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Use terminal emacs in the terminal (overwrite link to GUI Emacs installed via cask)
 brew link --overwrite emacs
@@ -263,14 +263,9 @@ ln -sf .radian_profile radian_profile.R
 
 # Python and R
 
-## Install miniconda Python
-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
-
-bash ~/miniconda.sh -bp $HOME/miniconda
-
 ## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
 ### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
-~/miniconda/bin/conda install -yc conda-forge cookiecutter neovim
+$(brew --prefix)/bin/conda install -yc conda-forge cookiecutter neovim
 
 python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyter
 
@@ -280,7 +275,7 @@ python -m pip install git+https://github.com/mskar/radian git+https://github.com
 ##### jupyter labextension install @jupyterlab/git
 ##### jupyter serverextension enable --py jupyterlab_git
 
-~/miniconda/bin/conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
+$(brew --prefix)/bin/conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 
 ##### jupyter labextension install jupyterlab_vim
 
@@ -353,7 +348,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-set
 
 ## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
 ##### Installing r into base environment breaks nvim-R
-~/miniconda/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
+$(brew --prefix)/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
 
 curl https://raw.githubusercontent.com/mskar/setup/main/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
@@ -363,4 +358,5 @@ curl https://raw.githubusercontent.com/mskar/setup/main/rstudio_bindings.json -o
 
 ### Install and symlink macvim (brew installed macvim conflicts with brew installed vim)
 ##### ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
-~/miniconda/bin/conda init zsh
+$(brew --prefix)/bin/conda init zsh
+

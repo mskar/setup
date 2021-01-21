@@ -16,7 +16,7 @@ source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
-export PATH=$HOME/miniconda/bin:$PATH
+export PATH=$(brew --prefix)/Caskroom/miniforge/base/bin:$PATH
 export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
@@ -720,15 +720,16 @@ bindkey -M viins '≥' insert-last-word
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/Users/$USER/miniconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/usr/local/Caskroom/miniforge/base/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/Users/$USER/miniconda/etc/profile.d/conda.sh" ]; then
-        . "/Users/$USER/miniconda/etc/profile.d/conda.sh"
+    if [ -f "/usr/local/Caskroom/miniforge/base/etc/profile.d/conda.sh" ]; then
+        . "/usr/local/Caskroom/miniforge/base/etc/profile.d/conda.sh"
     else
-        export PATH="/Users/$USER/miniconda/bin:$PATH"
+        export PATH="/usr/local/Caskroom/miniforge/base/bin:$PATH"
     fi
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+

@@ -46,7 +46,7 @@ bat: $(BAT)
 bottom: $(BTM) ~/.config/bottom/bottom.toml
 brew: $(BREW)
 coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
-conda: ~/miniconda/bin/conda
+conda: $(shell brew --prefix)/bin/conda
 emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom/doom-emacs ~/.doom/doom-emacs-config ~/.doom/doom-emacs-config/config.el ~/.doom/doom-emacs-config/package.el
 exa: $(EXA)
 fasd: $(FASD)
@@ -56,21 +56,21 @@ font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: $(FZF)
 git: $(GIT) $(GH) $(DELTA) ~/.gitconfig ~/.gitignore ~/.gitattributes
 gmv: $(GMV)
-ipy: ~/miniconda/bin/ipython ~/.ipython/profile_default/ipython_config.py # ~/.ipython/profile_default/startup/keybindings.py
+ipy: $(shell brew --prefix)/bin/ipython ~/.ipython/profile_default/ipython_config.py # ~/.ipython/profile_default/startup/keybindings.py
 iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
 jetbrains: /Applications/JetBrainsToolbox.app ~/.ideavimrc
-jupyter: ~/miniconda/bin/jupyter ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
+jupyter: $(shell brew --prefix)/bin/jupyter ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
 node: $(NODE)
 noti: $(NOTI)
 neovim: $(NVIM) ~/.config/nvim/init.vim ~/.local/share/nvim/undo ~/tmux_split.vim
 pass: $(PASS)
-ptpython: ~/miniconda/bin/ptpython ~/Library/ApplicationSupport/ptpython/config.py
-radian: ~/miniconda/bin/radian ~/.radian_profile
+ptpython: $(shell brew --prefix)/bin/ptpython ~/Library/ApplicationSupport/ptpython/config.py
+radian: $(shell brew --prefix)/bin/radian ~/.radian_profile
 rename: $(RENAME)
 repo: ~/mskar/setup
 rg: $(RG)
-rstudio: ~/miniconda/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
+rstudio: $(brew --prefix)/Caskroom/miniforge/base/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
 alfred: /Applications/Alfred4.app
 alttab: /Applications/AltTab.app
@@ -135,10 +135,9 @@ $(BREW):
 ~/.vim/coc-settings.json: ~/mskar/setup/coc-settings.json
 	mkdir -p ~/.vim/
 	ln -sf ~/mskar/setup/coc-settings.json ~/.vim/coc-settings.json
-~/miniconda/bin/conda:
-	-curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -o ~/miniconda.sh
-	-bash ~/miniconda.sh -bp ~/miniconda
-	-conda install -yc conda-forge cookiecutter neovim
+$(shell brew --prefix)/bin/conda:
+	-brew install miniforge
+	-$(shell brew --prefix)/bin/conda install -yc conda-forge cookiecutter neovim
 $(DELTA):
 	-brew install git-delta
 $(EMACS):
@@ -195,7 +194,7 @@ $(GMV):
 /Applications/JetBrainsToolbox.app:
 	-brew install --cask jetbrains-toolbox
 	-ln -fs /Applications/JetBrains\ Toolbox.app /Applications/JetBrainsToolbox.app
-~/miniconda/bin/jupyter:
+$(shell brew --prefix)/bin/jupyter:
 	-python -m pip install jupyter
 ~/.ideavimrc: ~/mskar/setup/.ideavimrc
 	-ln -fs ~/mskar/setup/.ideavimrc ~/.ideavimrc
@@ -204,7 +203,7 @@ $(GMV):
 ~/.config/karabiner/karabiner.json: ~/mskar/setup/karabiner.json
 	mkdir -p ~/.config/karabiner
 	-ln -fs ~/mskar/setup/karabiner.json ~/.config/karabiner/
-~/miniconda/bin/ipython:
+$(shell brew --prefix)/bin/ipython:
 	-python -m pip install git+https://github.com/mskar/ipython
 ~/.ipython/profile_default/ipython_config.py: ~/mskar/setup/ipython_config.py
 	mkdir -p ~/.ipython/profile_default
@@ -241,15 +240,15 @@ $(PASS):
 	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
 ~/.p10k.zsh: ~/mskar/setup/.p10k.zsh
 	ln -sf ~/mskar/setup/.p10k.zsh ~/.p10k.zsh
-~/miniconda/envs/py:
+$(brew --prefix)/Caskroom/miniforge/base/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
-~/miniconda/bin/ptpython:
+$(shell brew --prefix)/bin/ptpython:
 	-python -m pip install git+https://github.com/mskar/ptpython
 ~/Library/ApplicationSupport/ptpython/config.py: ~/mskar/setup/config.py
 	mkdir -p ~/Library/Application\ Support/ptpython/ ~/Library/ApplicationSupport/ptpython/
 	-ln -sf ~/mskar/setup/config.py ~/Library/Application\ Support/ptpython/config.py
 	-ln -sf ~/mskar/setup/config.py ~/Library/ApplicationSupport/ptpython/config.py
-~/miniconda/bin/radian:
+$(shell brew --prefix)/bin/radian:
 	-python -m pip install git+https://github.com/mskar/radian
 ~/.radian_profile: ~/mskar/setup/.radian_profile
 	ln -sf ~/mskar/setup/.radian_profile ~/.radian_profile
@@ -261,7 +260,7 @@ $(RG):
 	-brew install rg
 $(RSTATS):
 	-brew install --cask r
-~/miniconda/envs/r:
+$(brew --prefix)/Caskroom/miniforge/base/envs/r:
 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
 ~/.config/rstudio/rstudio-prefs.json: ~/mskar/setup/rstudio-prefs.json
 	mkdir -p ~/.config/rstudio ~/.config/rstudio/keybindings

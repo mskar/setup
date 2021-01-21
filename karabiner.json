@@ -1159,10 +1159,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
-                                            "^com\\.microsoft\\.VSCode$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.google\\.Chrome$"
+                                            "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1180,15 +1177,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "left_arrow",
-                                        "modifiers": [
-                                            "left_command",
-                                            "left_shift"
-                                        ]
-                                    },
-                                    {
                                         "key_code": "delete_or_backspace",
-                                        "repeat": false
+                                        "modifiers": [
+                                            "left_command"
+                                        ]
                                     }
                                 ],
                                 "type": "basic"
