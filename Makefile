@@ -20,13 +20,14 @@ FZF = $(shell brew --prefix)/bin/fzf
 GH = $(shell brew --prefix)/bin/gh
 GIT = $(shell brew --prefix)/bin/git
 GMV = $(shell brew --prefix)/bin/gmv
-NVIM = $(shell brew --prefix)/bin/nvim
 NODE = $(shell brew --prefix)/bin/node
 NOTI = $(shell brew --prefix)/bin/noti
+NVIM = $(shell brew --prefix)/bin/nvim
 PASS = $(shell brew --prefix)/bin/pass
-RSTATS = $(shell brew --prefix)/bin/r
+POPPLER = $(shell brew --prefix)/bin/pdftotext
 RENAME = $(shell brew --prefix)/bin/rename
 RG = $(shell brew --prefix)/bin/rg
+RSTATS = $(shell brew --prefix)/bin/r
 SCIM = $(shell brew --prefix)/bin/scim
 TLDR = $(shell brew --prefix)/bin/tldr
 TMUX = $(shell brew --prefix)/bin/tmux
@@ -34,24 +35,27 @@ VIM = $(shell brew --prefix)/bin/vim
 VSCODE_LIVESHARE = $(wildcard ~/.vscode/extensions/ms-vsliveshare.vsliveshare-*)
 VSCODE_PYLANCE =  $(wildcard ~/.vscode/extensions/ms-python.vscode-pylance-*)
 VSCODE_PYTHON = $(wildcard ~/.vscode/extensions/ms-python.python-*)
-VSCODE_VIM = $(wildcard ~/.vscode/extensions/vscodevim.vim-*)
+VSCODE_R = $(wildcard ~/.vscode/extensions/ikuyadeu.r-*)
 VSCODE_TABNINE = $(wildcard ~/.vscode/extensions/tabnine.tabnine-vscode-*)
-POPPLER = $(shell brew --prefix)/bin/pdftotext
+VSCODE_VIM = $(wildcard ~/.vscode/extensions/asvetliakov.vscode-neovim-*)
 
 all: ag alfred alttab amethyst bash bat bottom brew coc conda copyq emacs exa fasd fd font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim tldr tmux vim vimr vscode poppler zsh
 
 ag: $(AG)
+alfred: /Applications/Alfred4.app
+alttab: /Applications/AltTab.app
+amethyst: /Applications/Amethyst.app
 bash: $(BASH) ~/.bash_profile ~/.inputrc
 bat: $(BAT)
 bottom: $(BTM) ~/.config/bottom/bottom.toml
 brew: $(BREW)
 coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: $(shell brew --prefix)/bin/conda
+copyq: /Applications/CopyQ.app
 emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom/doom-emacs ~/.doom/doom-emacs-config ~/.doom/doom-emacs-config/config.el ~/.doom/doom-emacs-config/package.el
 exa: $(EXA)
 fasd: $(FASD)
 fd: $(FD)
-copyq: /Applications/CopyQ.app
 font: ~/Library/Fonts/FiraCodeRegularNerdFontComplete.otf
 fzf: $(FZF)
 git: $(GIT) $(GH) $(DELTA) ~/.gitconfig ~/.gitignore ~/.gitattributes
@@ -61,10 +65,11 @@ iterm: ~/com.googlecode.iterm2.plist /Applications/iTerm.app
 jetbrains: /Applications/JetBrainsToolbox.app ~/.ideavimrc
 jupyter: $(shell brew --prefix)/bin/jupyter ~/.jupyter/lab/user-settings/jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 karabiner: ~/.config/karabiner/karabiner.json /Applications/Karabiner-Elements.app
+neovim: $(NVIM) ~/.config/nvim/init.vim ~/.local/share/nvim/undo ~/tmux_split.vim
 node: $(NODE)
 noti: $(NOTI)
-neovim: $(NVIM) ~/.config/nvim/init.vim ~/.local/share/nvim/undo ~/tmux_split.vim
 pass: $(PASS)
+poppler: $(POPPLER)
 ptpython: $(shell brew --prefix)/bin/ptpython ~/Library/ApplicationSupport/ptpython/config.py
 radian: $(shell brew --prefix)/bin/radian ~/.radian_profile
 rename: $(RENAME)
@@ -72,16 +77,12 @@ repo: ~/mskar/setup
 rg: $(RG)
 rstudio: $(brew --prefix)/Caskroom/miniforge/base/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
-alfred: /Applications/Alfred4.app
-alttab: /Applications/AltTab.app
-amethyst: /Applications/Amethyst.app
 tldr: $(TLDR)
 tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
 vim: $(VIM) ~/.vimrc ~/.vim/undodir
 vimac: /Applications/Vimac.app
 vimr: /Applications/VimR.app
-vscode: /Applications/VisualStudioCode.app $(VSCODE_LIVESHARE) $(VSCODE_PYTHON) $(VSCODE_VIM) ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json
-poppler: $(POPPLER)
+vscode: /Applications/VSCodium.app $(VSCODE_LIVESHARE) $(VSCODE_PYLANCE) $(VSCODE_PYTHON) $(VSCODE_R) $(VSCODE_TABNINE) $(VSCODE_VIM) ~/Library/ApplicationSupport/VSCodium/User/keybindings.json ~/Library/ApplicationSupport/VSCodium/User/settings.json
 zsh: ~/.zsh/powerlevel10k ~/.p10k.zsh ~/.zshrc ~/.zsh/zsh-autosuggestions ~/.zsh/zsh-syntax-highlighting
 
 ~/mskar/setup/.bash_profile: repo
@@ -289,27 +290,28 @@ $(VIM):
 	-brew install --cask vimac
 /Applications/VimR.app:
 	-brew install --cask vimr
-/Applications/VisualStudioCode.app:
-	-brew install --cask visual-studio-code
-	-ln -fs /Applications/Visual\ Studio\ Code.app /Applications/VisualStudioCode.app
-~/Library/ApplicationSupport/Code/User/settings.json: ~/mskar/setup/settings.json
-	-ln -sf ~/mskar/setup/settings.json ~/Library/Application\ Support/Code/User/settings.json
-	-ln -sf ~/mskar/setup/settings.json ~/Library/ApplicationSupport/Code/User/settings.json
-~/Library/ApplicationSupport/Code/User/keybindings.json: ~/mskar/setup/keybindings.json
-	-ln -sf ~/mskar/setup/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
-	-ln -sf ~/mskar/setup/keybindings.json ~/Library/ApplicationSupport/Code/User/keybindings.json
+/Applications/VSCodium.app:
+	-brew install --cask vscodium
+~/Library/ApplicationSupport/VSCodium/User/settings.json: ~/mskar/setup/settings.json
+	-ln -sf ~/mskar/setup/settings.json ~/Library/Application\ Support/VSCodium/User/settings.json
+	-ln -sf ~/mskar/setup/settings.json ~/Library/ApplicationSupport/VSCodium/User/settings.json
+~/Library/ApplicationSupport/VSCodium/User/keybindings.json: ~/mskar/setup/keybindings.json
+	-ln -sf ~/mskar/setup/keybindings.json ~/Library/Application\ Support/VSCodium/User/keybindings.json
+	-ln -sf ~/mskar/setup/keybindings.json ~/Library/ApplicationSupport/VSCodium/User/keybindings.json
 ~/.vim/undodir:
 	mkdir -p ~/.vim/undodir
-$(VSCODE_PYTHON):
-	-code --install-extension ms-python.python --force
-$(VSCODE_VIM):
-	-code --install-extension vscodevim.vim --force
 $(VSCODE_LIVESHARE):
 	-code --install-extension ms-vsliveshare.vsliveshare --force
 $(VSCODE_PYLANCE):
 	-code --install-extension ms-python.vscode-pylance --force
+$(VSCODE_PYTHON):
+	-code --install-extension ms-python.python --force
+$(VSCODE_R):
+	-code --install-extension ikuyadeu.r --force
 $(VSCODE_TABNINE):
 	-code --install-extension tabnine.tabnine-vscode --force
+$(VSCODE_VIM):
+	-code --install-extension asvetliakov.vscode-neovim --force
 $(POPPLER):
 	-brew install pdftotext
 ~/.zshrc: ~/mskar/setup/.zshrc
@@ -320,6 +322,6 @@ $(POPPLER):
 	-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/zsh-syntax-highlighting
 
 clean:
-	rm ~/.bash_profile ~/.config/bottom/bottom.toml ~/.config/karabiner/karabiner.json ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json ~/.gitconfig ~/.gitignore ~/.ideavimrc ~/.inputrc ~/.ipython/profile_default/ipython_config.py ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings ~/.p10k.zsh ~/.radian_profile ~/.tmux.conf.local ~/.vim/coc-settings.json ~/.vimrc ~/.zshrc ~/Library/ApplicationSupport/Code/User/keybindings.json ~/Library/ApplicationSupport/Code/User/settings.json ~/Library/ApplicationSupport/ptpython/config.py
+	rm ~/.bash_profile ~/.config/bottom/bottom.toml ~/.config/karabiner/karabiner.json ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json ~/.gitconfig ~/.gitignore ~/.ideavimrc ~/.inputrc ~/.ipython/profile_default/ipython_config.py ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings ~/.p10k.zsh ~/.radian_profile ~/.tmux.conf.local ~/.vim/coc-settings.json ~/.vimrc ~/.zshrc ~/Library/ApplicationSupport/VSCodium/User/keybindings.json ~/Library/ApplicationSupport/VSCodium/User/settings.json ~/Library/ApplicationSupport/ptpython/config.py
 
 .PHONY: bash iterm jetbrains karabiner neovim rstudio tmux vim vscode zsh conda font git ipy repo amethyst copyq

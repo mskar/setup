@@ -103,7 +103,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitigno
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-code-nerd-font homebrew/cask-fonts/font-source-code-pro firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements r vimr visual-studio-code
+brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-code-nerd-font homebrew/cask-fonts/font-source-code-pro firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements r vimr vscodium
 
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
@@ -141,19 +141,21 @@ curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.con
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
 ## Set up Visual Studio Code
-curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/Code/User/settings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json
+curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json
+
+code --install-extension ms-vsliveshare.vsliveshare --force
 
 code --install-extension ms-python.python --force
 
 code --install-extension ms-python.vscode-pylance --force
 
-code --install-extension ms-vsliveshare.vsliveshare --force
-
-code --install-extension vscodevim.vim --force
+code --install-extension ikuyadeu.r --force
 
 code --install-extension tabnine.tabnine-vscode --force
+
+code --install-extension asvetliakov.vscode-neovim --force
 
 # Shell programs needed for aliases
 ## Install fzf (fuzzy finder)

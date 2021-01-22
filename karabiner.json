@@ -91,6 +91,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^org\\.mozilla\\.firefox$",
                                             "^org\\.mozilla\\.nightly$",
@@ -165,6 +166,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -236,6 +238,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^org\\.mozilla\\.firefox$",
                                             "^org\\.mozilla\\.nightly$",
@@ -386,6 +389,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^org\\.mozilla\\.firefox$",
                                             "^org\\.mozilla\\.nightly$",
@@ -461,6 +465,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^org\\.mozilla\\.firefox$",
                                             "^org\\.mozilla\\.nightly$",
@@ -702,6 +707,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^org\\.mozilla\\.firefox$",
                                             "^org\\.mozilla\\.nightly$",
@@ -779,6 +785,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^org\\.mozilla\\.firefox$",
                                             "^org\\.mozilla\\.nightly$",
@@ -861,6 +868,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -935,6 +943,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1009,6 +1018,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1086,6 +1096,7 @@
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1159,6 +1170,7 @@
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
