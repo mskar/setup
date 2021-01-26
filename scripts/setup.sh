@@ -108,8 +108,12 @@ brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
 ### https://install.appcenter.ms/users/dexterleng/apps/vimac/distribution_groups/sparkle
-## Set Vimac scroll mode shortcut to `cmd shift j`
-## Set Vimac hint mode shortcut to `cmd shift h`
+## Set Vimac scroll mode shortcut to `cmd shift j` (default: ctrl s)
+## Set Vimac hint mode shortcut to `cmd shift space` (default: ctrl space)
+### Notes:
+### `cmd shift space` conflicts with vscode "trigger parameter hints"
+### the equivalent shortcut in PyCharm, `cmd p`, conflicts with vscode's quickOpen
+### PyCharm uses `cmd shift o` for quick open files and `cmd e` for recent files
 
 # Permissions
 ## Grant permissions to Amethyst, CopyQ, altTab, Vimac, VimR and Alfred
@@ -117,7 +121,12 @@ brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-
 # App shortcuts
 ## Enable launch on login for Amethyst, CopyQ, altTab, and Vimac
 ## Set VimR to be the default txt file editor
-## Load copyq.ini and copyq.cpq
+## Load copyq.ini (commands) and copyq.cpq (configuration)
+### Notes:
+### Keyboard shortcuts: `cmd ctrl v` `cmd ctrl i` `cmd ctrl e`
+### `cmd ctrl v` is inspired by "paste from history" in PyCharm (remap to cmd shift v)
+### `cmd shift v` is paste as plain text in [many apps](https://defkey.com/what-means/command-shift-v)
+### `cmd ctrl i` pastes "ISO date" and `cmd ctrl p` pastes "plain text"
 
 ## Set up mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
