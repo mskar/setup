@@ -39,12 +39,12 @@ VSCODE_R = $(wildcard ~/.vscode/extensions/ikuyadeu.r-*)
 VSCODE_TABNINE = $(wildcard ~/.vscode/extensions/tabnine.tabnine-vscode-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/asvetliakov.vscode-neovim-*)
 
-all: ag alfred alttab amethyst bash bat bottom brew coc conda copyq emacs exa fasd fd font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim tldr tmux vim vimr vscode poppler zsh
+all: ag alfred alttab slate bash bat bottom brew coc conda copyq emacs exa fasd fd font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim tldr tmux vim vimr vscode poppler zsh
 
 ag: $(AG)
 alfred: /Applications/Alfred4.app
 alttab: /Applications/AltTab.app
-amethyst: /Applications/Amethyst.app
+slate: /Applications/Slate.app ~/.slate
 bash: $(BASH) ~/.bash_profile ~/.inputrc
 bat: $(BAT)
 bottom: $(BTM) ~/.config/bottom/bottom.toml
@@ -113,8 +113,10 @@ $(AG):
 	-ln -sf /Applications/Alfred\ 4.app /Applications/Alfred4.app
 /Applications/AltTab.app:
 	-brew install --cask alttab
-/Applications/Amethyst.app:
-	-brew install --cask amethyst
+/Applications/Slate.app:
+	-brew install --cask slate
+~/.slate:
+	ln -sf ~/mskar/setup/.slate ~/.slate
 $(BASH):
 	-brew install bash
 ~/.bash_profile: ~/mskar/setup/.bash_profile
@@ -324,4 +326,4 @@ $(POPPLER):
 clean:
 	rm ~/.bash_profile ~/.config/bottom/bottom.toml ~/.config/karabiner/karabiner.json ~/.config/nvim/coc-settings.json ~/.config/nvim/init.vim ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json ~/.gitconfig ~/.gitignore ~/.ideavimrc ~/.inputrc ~/.ipython/profile_default/ipython_config.py ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings ~/.p10k.zsh ~/.radian_profile ~/.tmux.conf.local ~/.vim/coc-settings.json ~/.vimrc ~/.zshrc ~/Library/ApplicationSupport/VSCodium/User/keybindings.json ~/Library/ApplicationSupport/VSCodium/User/settings.json ~/Library/ApplicationSupport/ptpython/config.py
 
-.PHONY: bash iterm jetbrains karabiner neovim rstudio tmux vim vscode zsh conda font git ipy repo amethyst copyq
+.PHONY: bash iterm jetbrains karabiner neovim rstudio tmux vim vscode zsh conda font git ipy repo slate copyq

@@ -103,32 +103,37 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitigno
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew install --cask alfred alt-tab amethyst emacs homebrew/cask-fonts/font-fira-code-nerd-font homebrew/cask-fonts/font-source-code-pro firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements r vimr vscodium
+brew install --cask alfred alt-tab slate emacs homebrew/cask-fonts/font-fira-code-nerd-font homebrew/cask-fonts/font-source-code-pro firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements r vimr vscodium
 
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
 ### https://install.appcenter.ms/users/dexterleng/apps/vimac/distribution_groups/sparkle
-## Set Vimac scroll mode shortcut to `cmd shift j` (default: ctrl s)
-## Set Vimac hint mode shortcut to `cmd shift space` (default: ctrl space)
+## Set Vimac scroll mode shortcut to `Cmd Shift J` (default: `Ctrl S`)
+## Set Vimac hint mode shortcut to `Cmd Shift Space` (default: `Ctrl Space`)
 ### Notes:
-### `cmd shift space` conflicts with vscode "trigger parameter hints"
-### the equivalent shortcut in PyCharm, `cmd p`, conflicts with vscode's quickOpen
-### PyCharm uses `cmd shift o` for quick open files and `cmd e` for recent files
+### `Cmd Shift Space` conflicts with vscode "trigger parameter hints"
+### the equivalent shortcut in PyCharm, `Cmd P`, conflicts with vscode's quickOpen
+### PyCharm uses `Cmd Shift O` for quick open files and `Cmd E` for recent files
 
 # Permissions
-## Grant permissions to Amethyst, CopyQ, altTab, Vimac, VimR and Alfred
+## Grant permissions to Slate, CopyQ, altTab, Vimac, VimR and Alfred
 
 # App shortcuts
-## Enable launch on login for Amethyst, CopyQ, altTab, and Vimac
+## Enable launch on login for Slate, CopyQ, altTab, and Vimac
 ## Set VimR to be the default txt file editor
+
+## Add slate config
+curl https://raw.githubusercontent.com/mskar/setup/main/.slate -o ~/.slate
+### use `Alt Shift` as the modifier à la Amethyst
+
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
 ### Notes:
-### Keyboard shortcuts: `cmd ctrl v` `cmd ctrl i` `cmd ctrl e`
-### `cmd ctrl v` is inspired by "paste from history" in PyCharm (remap to cmd shift v)
-### `cmd shift v` is paste as plain text in [many apps](https://defkey.com/what-means/command-shift-v)
-### `cmd ctrl i` pastes "ISO date" and `cmd ctrl p` pastes "plain text"
+### Keyboard shortcuts:
+### `Alt Shift D` pastes "ISO date"
+### `Alt Shift E` edits the clipboard
+### `Alt Shift Y` summons the CopyQ window
 
-## Set up mac terminal
+## Set up Mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 

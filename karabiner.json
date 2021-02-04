@@ -42,6 +42,32 @@
                         ]
                     },
                     {
+                        "description": "Change return to control if pressed with other keys, to return if pressed alone",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "return_or_enter",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "right_control"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "key_code": "return_or_enter"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
                         "description": "Emacs key bindings [control+keys] (rev 10)",
                         "manipulators": [
                             {
@@ -53,15 +79,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -92,10 +116,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
-                                            "^com\\.microsoft\\.VSCode$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.google\\.Chrome$"
+                                            "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -108,6 +129,7 @@
                                         ],
                                         "optional": [
                                             "caps_lock",
+                                            "command",
                                             "option"
                                         ]
                                     }
@@ -128,15 +150,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -180,6 +200,7 @@
                                         ],
                                         "optional": [
                                             "caps_lock",
+                                            "command",
                                             "option"
                                         ]
                                     }
@@ -200,15 +221,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -239,10 +258,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
-                                            "^com\\.microsoft\\.VSCode$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.google\\.Chrome$"
+                                            "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -351,15 +367,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -390,10 +404,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
-                                            "^com\\.microsoft\\.VSCode$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.google\\.Chrome$"
+                                            "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -407,6 +418,7 @@
                                         "optional": [
                                             "caps_lock",
                                             "shift",
+                                            "command",
                                             "option"
                                         ]
                                     }
@@ -427,15 +439,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -466,10 +476,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
-                                            "^com\\.microsoft\\.VSCode$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.google\\.Chrome$"
+                                            "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -504,15 +511,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -523,6 +528,7 @@
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^org\\.vim\\.",
+                                            "^com\\.qvacua\\.VimR$",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.vmware\\.view$",
@@ -536,7 +542,13 @@
                                             "^org\\.x\\.X11$",
                                             "^com\\.apple\\.x11$",
                                             "^org\\.macosforge\\.xquartz\\.X11$",
-                                            "^org\\.macports\\.X11$"
+                                            "^org\\.macports\\.X11$",
+                                            "^com\\.sublimetext\\.",
+                                            "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
+                                            "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
+                                            "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -549,8 +561,8 @@
                                         ],
                                         "optional": [
                                             "caps_lock",
-                                            "command",
                                             "shift",
+                                            "command",
                                             "option"
                                         ]
                                     }
@@ -571,15 +583,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -590,6 +600,7 @@
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^org\\.vim\\.",
+                                            "^com\\.qvacua\\.VimR$",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.vmware\\.view$",
@@ -604,7 +615,12 @@
                                             "^com\\.apple\\.x11$",
                                             "^org\\.macosforge\\.xquartz\\.X11$",
                                             "^org\\.macports\\.X11$",
-                                            "^com\\.sublimetext\\."
+                                            "^com\\.sublimetext\\.",
+                                            "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
+                                            "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
+                                            "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -626,6 +642,107 @@
                                 "to": [
                                     {
                                         "key_code": "up_arrow"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "conditions": [
+                                    {
+                                        "bundle_identifiers": [
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^org\\.gnu\\.AquamacsEmacs$",
+                                            "^org\\.gnu\\.Aquamacs$",
+                                            "^org\\.pqrs\\.unknownapp.conkeror$",
+                                            "^com\\.microsoft\\.rdc$",
+                                            "^com\\.microsoft\\.rdc\\.",
+                                            "^net\\.sf\\.cord$",
+                                            "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                            "^com\\.itap-mobile\\.qmote$",
+                                            "^com\\.nulana\\.remotixmac$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
+                                            "^com\\.teamviewer\\.TeamViewer$",
+                                            "^com\\.vmware\\.horizon$",
+                                            "^com\\.2X\\.Client\\.Mac$",
+                                            "^com\\.apple\\.Terminal$",
+                                            "^com\\.googlecode\\.iterm2$",
+                                            "^co\\.zeit\\.hyperterm$",
+                                            "^co\\.zeit\\.hyper$",
+                                            "^io\\.alacritty$",
+                                            "^net\\.kovidgoyal\\.kitty$",
+                                            "^org\\.vim\\.",
+                                            "^com\\.qvacua\\.VimR$",
+                                            "^com\\.vmware\\.fusion$",
+                                            "^com\\.vmware\\.horizon$",
+                                            "^com\\.vmware\\.view$",
+                                            "^com\\.parallels\\.desktop$",
+                                            "^com\\.parallels\\.vm$",
+                                            "^com\\.parallels\\.desktop\\.console$",
+                                            "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                            "^com\\.citrix\\.XenAppViewer$",
+                                            "^com\\.vmware\\.proxyApp\\.",
+                                            "^com\\.parallels\\.winapp\\.",
+                                            "^org\\.x\\.X11$",
+                                            "^com\\.apple\\.x11$",
+                                            "^org\\.macosforge\\.xquartz\\.X11$",
+                                            "^org\\.macports\\.X11$",
+                                            "^com\\.sublimetext\\.",
+                                            "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
+                                            "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
+                                            "^com\\.microsoft\\.VSCode$"
+                                        ],
+                                        "type": "frontmost_application_unless"
+                                    }
+                                ],
+                                "from": {
+                                    "key_code": "v",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "control"
+                                        ],
+                                        "optional": [
+                                            "caps_lock",
+                                            "command",
+                                            "shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "page_down"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "conditions": [
+                                    {
+                                        "bundle_identifiers": [
+                                            "^com\\.microsoft\\.Excel$",
+                                            "^com\\.microsoft\\.Powerpoint$",
+                                            "^com\\.microsoft\\.Word$"
+                                        ],
+                                        "type": "frontmost_application_if"
+                                    }
+                                ],
+                                "from": {
+                                    "key_code": "a",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "control"
+                                        ],
+                                        "optional": [
+                                            "caps_lock",
+                                            "shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "home"
                                     }
                                 ],
                                 "type": "basic"
@@ -664,56 +781,9 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^org\\.gnu\\.Emacs$",
-                                            "^org\\.gnu\\.AquamacsEmacs$",
-                                            "^org\\.gnu\\.Aquamacs$",
-                                            "^org\\.pqrs\\.unknownapp.conkeror$",
-                                            "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
-                                            "^net\\.sf\\.cord$",
-                                            "^com\\.thinomenon\\.RemoteDesktopConnection$",
-                                            "^com\\.itap-mobile\\.qmote$",
-                                            "^com\\.nulana\\.remotixmac$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
-                                            "^com\\.teamviewer\\.TeamViewer$",
-                                            "^com\\.vmware\\.horizon$",
-                                            "^com\\.2X\\.Client\\.Mac$",
-                                            "^com\\.apple\\.Terminal$",
-                                            "^com\\.googlecode\\.iterm2$",
-                                            "^co\\.zeit\\.hyperterm$",
-                                            "^co\\.zeit\\.hyper$",
-                                            "^io\\.alacritty$",
-                                            "^net\\.kovidgoyal\\.kitty$",
-                                            "^org\\.vim\\.",
-                                            "^com\\.qvacua\\.VimR$",
-                                            "^com\\.vmware\\.fusion$",
-                                            "^com\\.vmware\\.horizon$",
-                                            "^com\\.vmware\\.view$",
-                                            "^com\\.parallels\\.desktop$",
-                                            "^com\\.parallels\\.vm$",
-                                            "^com\\.parallels\\.desktop\\.console$",
-                                            "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                            "^com\\.citrix\\.XenAppViewer$",
-                                            "^com\\.vmware\\.proxyApp\\.",
-                                            "^com\\.parallels\\.winapp\\.",
-                                            "^org\\.x\\.X11$",
-                                            "^com\\.apple\\.x11$",
-                                            "^org\\.macosforge\\.xquartz\\.X11$",
-                                            "^org\\.macports\\.X11$",
-                                            "^com\\.sublimetext\\.",
-                                            "^com\\.jetbrains\\.pycharm$",
-                                            "^com\\.jetbrains\\.pycharm-EAP$",
-                                            "^org\\.rstudio\\.RStudio$",
-                                            "^com\\.visualstudio\\.code\\.oss$",
-                                            "^com\\.microsoft\\.VSCode$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.google\\.Chrome$"
+                                            "^org\\.eclipse\\.platform\\.ide$"
                                         ],
-                                        "type": "frontmost_application_unless"
+                                        "type": "frontmost_application_if"
                                     }
                                 ],
                                 "from": {
@@ -742,56 +812,9 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^org\\.gnu\\.Emacs$",
-                                            "^org\\.gnu\\.AquamacsEmacs$",
-                                            "^org\\.gnu\\.Aquamacs$",
-                                            "^org\\.pqrs\\.unknownapp.conkeror$",
-                                            "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
-                                            "^net\\.sf\\.cord$",
-                                            "^com\\.thinomenon\\.RemoteDesktopConnection$",
-                                            "^com\\.itap-mobile\\.qmote$",
-                                            "^com\\.nulana\\.remotixmac$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
-                                            "^com\\.teamviewer\\.TeamViewer$",
-                                            "^com\\.vmware\\.horizon$",
-                                            "^com\\.2X\\.Client\\.Mac$",
-                                            "^com\\.apple\\.Terminal$",
-                                            "^com\\.googlecode\\.iterm2$",
-                                            "^co\\.zeit\\.hyperterm$",
-                                            "^co\\.zeit\\.hyper$",
-                                            "^io\\.alacritty$",
-                                            "^net\\.kovidgoyal\\.kitty$",
-                                            "^org\\.vim\\.",
-                                            "^com\\.qvacua\\.VimR$",
-                                            "^com\\.vmware\\.fusion$",
-                                            "^com\\.vmware\\.horizon$",
-                                            "^com\\.vmware\\.view$",
-                                            "^com\\.parallels\\.desktop$",
-                                            "^com\\.parallels\\.vm$",
-                                            "^com\\.parallels\\.desktop\\.console$",
-                                            "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                            "^com\\.citrix\\.XenAppViewer$",
-                                            "^com\\.vmware\\.proxyApp\\.",
-                                            "^com\\.parallels\\.winapp\\.",
-                                            "^org\\.x\\.X11$",
-                                            "^com\\.apple\\.x11$",
-                                            "^org\\.macosforge\\.xquartz\\.X11$",
-                                            "^org\\.macports\\.X11$",
-                                            "^com\\.sublimetext\\.",
-                                            "^com\\.jetbrains\\.pycharm$",
-                                            "^com\\.jetbrains\\.pycharm-EAP$",
-                                            "^org\\.rstudio\\.RStudio$",
-                                            "^com\\.visualstudio\\.code\\.oss$",
-                                            "^com\\.microsoft\\.VSCode$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.google\\.Chrome$"
+                                            "^org\\.eclipse\\.platform\\.ide$"
                                         ],
-                                        "type": "frontmost_application_unless"
+                                        "type": "frontmost_application_if"
                                     }
                                 ],
                                 "from": {
@@ -830,15 +853,83 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
+                                            "^com\\.teamviewer\\.TeamViewer$",
+                                            "^com\\.vmware\\.horizon$",
+                                            "^com\\.2X\\.Client\\.Mac$",
+                                            "^com\\.apple\\.Terminal$",
+                                            "^com\\.googlecode\\.iterm2$",
+                                            "^co\\.zeit\\.hyperterm$",
+                                            "^co\\.zeit\\.hyper$",
+                                            "^io\\.alacritty$",
+                                            "^net\\.kovidgoyal\\.kitty$",
+                                            "^org\\.vim\\.",
+                                            "^com\\.qvacua\\.VimR$",
+                                            "^com\\.vmware\\.fusion$",
+                                            "^com\\.vmware\\.horizon$",
+                                            "^com\\.vmware\\.view$",
+                                            "^com\\.parallels\\.desktop$",
+                                            "^com\\.parallels\\.vm$",
+                                            "^com\\.parallels\\.desktop\\.console$",
+                                            "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
+                                            "^com\\.citrix\\.XenAppViewer$",
+                                            "^com\\.vmware\\.proxyApp\\.",
+                                            "^com\\.parallels\\.winapp\\.",
+                                            "^org\\.x\\.X11$",
+                                            "^com\\.apple\\.x11$",
+                                            "^org\\.macosforge\\.xquartz\\.X11$",
+                                            "^org\\.macports\\.X11$",
+                                            "^com\\.sublimetext\\.",
+                                            "^com\\.jetbrains\\.pycharm$",
+                                            "^com\\.jetbrains\\.pycharm-EAP$",
+                                            "^org\\.rstudio\\.RStudio$",
+                                            "^com\\.visualstudio\\.code\\.oss$",
+                                            "^com\\.microsoft\\.VSCode$"
+                                        ],
+                                        "type": "frontmost_application_unless"
+                                    }
+                                ],
+                                "from": {
+                                    "key_code": "v",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "option"
+                                        ],
+                                        "optional": [
+                                            "caps_lock",
+                                            "shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "page_up"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "conditions": [
+                                    {
+                                        "bundle_identifiers": [
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^org\\.gnu\\.AquamacsEmacs$",
+                                            "^org\\.gnu\\.Aquamacs$",
+                                            "^org\\.pqrs\\.unknownapp.conkeror$",
+                                            "^com\\.microsoft\\.rdc$",
+                                            "^com\\.microsoft\\.rdc\\.",
+                                            "^net\\.sf\\.cord$",
+                                            "^com\\.thinomenon\\.RemoteDesktopConnection$",
+                                            "^com\\.itap-mobile\\.qmote$",
+                                            "^com\\.nulana\\.remotixmac$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -905,15 +996,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -980,15 +1069,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -1059,15 +1146,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -1096,6 +1181,7 @@
                                             "^com\\.sublimetext\\.",
                                             "^com\\.jetbrains\\.pycharm$",
                                             "^com\\.jetbrains\\.pycharm-EAP$",
+                                            "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
@@ -1132,15 +1218,13 @@
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp.conkeror$",
                                             "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.mac$",
-                                            "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^com\\.microsoft\\.rdc\\.osx\\.beta$",
+                                            "^com\\.microsoft\\.rdc\\.",
                                             "^net\\.sf\\.cord$",
                                             "^com\\.thinomenon\\.RemoteDesktopConnection$",
                                             "^com\\.itap-mobile\\.qmote$",
                                             "^com\\.nulana\\.remotixmac$",
                                             "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.web$",
+                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
                                             "^com\\.teamviewer\\.TeamViewer$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
@@ -1189,36 +1273,15 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "delete_or_backspace",
+                                        "key_code": "left_arrow",
                                         "modifiers": [
-                                            "left_command"
+                                            "left_command",
+                                            "left_shift"
                                         ]
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "Change return to control if pressed with other keys, to return if pressed alone",
-                        "manipulators": [
-                            {
-                                "from": {
-                                    "key_code": "return_or_enter",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
-                                },
-                                "to": [
+                                    },
                                     {
-                                        "key_code": "right_control"
-                                    }
-                                ],
-                                "to_if_alone": [
-                                    {
-                                        "key_code": "return_or_enter"
+                                        "key_code": "delete_or_backspace",
+                                        "repeat": false
                                     }
                                 ],
                                 "type": "basic"
