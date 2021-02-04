@@ -108,8 +108,8 @@ brew install --cask alfred alt-tab slate emacs homebrew/cask-fonts/font-fira-cod
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
 ### https://install.appcenter.ms/users/dexterleng/apps/vimac/distribution_groups/sparkle
-## Set Vimac scroll mode shortcut to `Cmd Shift J` (default: `Ctrl S`)
-## Set Vimac hint mode shortcut to `Cmd Shift Space` (default: `Ctrl Space`)
+## Set Vimac scroll mode shortcut to `Ctrl Shift S` (default: `Ctrl S`)
+## Set Vimac hint mode shortcut to `Ctrl Shift Space` (default: `Ctrl Space`)
 ### Notes:
 ### `Cmd Shift Space` conflicts with vscode "trigger parameter hints"
 ### the equivalent shortcut in PyCharm, `Cmd P`, conflicts with vscode's quickOpen
@@ -129,9 +129,12 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.slate -o ~/.slate
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
 ### Notes:
 ### Keyboard shortcuts:
-### `Alt Shift D` pastes "ISO date"
-### `Alt Shift E` edits the clipboard
-### `Alt Shift Y` summons the CopyQ window
+### `Ctrl Shift D` pastes the current date
+### `Ctrl Shift E` edits the clipboard
+### `Ctrl Shift J` pastes and copies next
+### `Ctrl Shift K` pastes and copies previous
+### `Ctrl Shift T` summons the CopyQ window
+### `Ctrl Shift X` pastes as plain text (no formatting)
 
 ## Set up Mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
