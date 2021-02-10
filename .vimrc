@@ -38,6 +38,8 @@ Plug 'tpope/vim-obsession'
 Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
 Plug 'tommcdo/vim-exchange'
 Plug 'justinmk/vim-sneak'
+Plug 'mbbill/undotree'
+Plug 'simnalamburt/vim-mundo'
 
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
