@@ -27,8 +27,8 @@
     "^\UF701" = "pageDown:";                     /* C-down */
     "\UF72C"  = "pageUp:";                       /* page-up */
     "\UF72D"  = "pageDown:";                     /* page-down */
-    "^/"      = "undo:";                         /* C-/ */
-    "^_"      = "undo:";                         /* C-_ */
+    "^/"      = ( "undo:", "moveForward:" );                         /* C-/ */
+    "^_"      = ( "undo:", "moveForward:" );                         /* C-_ */
     "~c"      = ( "capitalizeWord:", "moveForward:" );               /* M-c */
     "~u"      = ( "uppercaseWord:", "moveForward:" );                /* M-u */
     "~l"      = ( "lowercaseWord:", "moveForward:" );                /* M-l */
