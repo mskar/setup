@@ -6,7 +6,6 @@
  * https://github.com/nileshk/mac-configuration/blob/99eef47cd434fd3d6f4f1f9e2f50321f32179b88/Library/KeyBindings/DefaultKeyBinding.dict
  * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/TextDefaultsBindings/TextDefaultsBindings.html
  */
-    /* Escape should really be complete: */
     "~f"      = "moveWordForward:";              /* M-f */
     "~b"      = "moveWordBackward:";             /* M-b */
     "~<"      = "moveToBeginningOfDocument:";    /* M-< */
@@ -29,7 +28,7 @@
     "\UF72C"  = "pageUp:";                       /* page-up */
     "\UF72D"  = "pageDown:";                     /* page-down */
     "^/"      = "undo:";                         /* C-/ */
-    "^_"      = "undo:";                         /* C-_ */ /* Added by me */
+    "^_"      = "undo:";                         /* C-_ */
     "~c"      = ( "capitalizeWord:", "moveForward:" );               /* M-c */
     "~u"      = ( "uppercaseWord:", "moveForward:" );                /* M-u */
     "~l"      = ( "lowercaseWord:", "moveForward:" );                /* M-l */
@@ -39,6 +38,7 @@
     "^g"      = "_cancelKey:";                   /* C-g */
     "^a"      = "moveToBeginningOfLine:";        /* C-a */
     "^e"      = "moveToEndOfLine:";              /* C-e */
+    "^u"      = ( "moveToBeginningOfLineAndModifySelection:", "cut:" );
 
     "^x" = {
         "^x"  = "swapWithMark:";                 /* C-x C-x */
@@ -56,13 +56,7 @@
     "^@" = "setMark:";                           /* C-@ */
     "^ " = "setMark:";                           /* C-space */
     "^w" = "deleteToMark:";                      /* C-w */
-    "~w" = "copy:";                              /* A-w */ /* Added by me */
-
-    /* Incremental search. */
-/* Uncomment these lines If Incremental Search IM is installed */
-/*  "^s"        = "ISIM_incrementalSearch:";        /* C-s          Incremental search */
-/*  "^r"        = "ISIM_reverseIncrementalSearch:"; /* C-r          Reverse incremental search */
-/*  "^g"        = "abort:";                         /* C-g          Abort */
+    "~w" = "copy:";                              /* A-w */
 
 }
 
