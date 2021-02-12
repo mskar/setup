@@ -129,12 +129,12 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.slate -o ~/.slate
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
 ### Notes:
 ### Keyboard shortcuts:
-### `Ctrl Shift D` pastes the current date
-### `Ctrl Shift E` edits the clipboard
-### `Ctrl Shift J` pastes and copies next
-### `Ctrl Shift K` pastes and copies previous
-### `Ctrl Shift T` summons the CopyQ window
-### `Ctrl Shift X` pastes as plain text (no formatting)
+### `Ctrl Alt I` pastes the current ISO date
+### `Ctrl Alt E` edits the clipboard
+### `Ctrl Alt J` pastes and copies next
+### `Ctrl Alt K` pastes and copies previous
+### `Ctrl Alt T` summons the CopyQ window
+### `Ctrl Alt X` pastes as plain text (no formatting)
 
 ## Set up Mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
