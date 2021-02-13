@@ -565,6 +565,7 @@ inoremap <silent><expr> <C-h> "\<C-g>u<BS>"
 " <C-k> = Delete to end of line; the opposite of <C-u>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/; https://superuser.com/a/855997
 inoremap <expr> <C-k> col(".") == col("$") ? "<Del>" : "<C-o>d$"
 cnoremap <C-k> <C-\>estrpart(getcmdline(),0,getcmdpos()-1)<CR>
+" cnoremap <C-k> <C-f>d$<C-c><End>
 " <C-r> = make paste from register undoable in insert mode; already exists in command mode: c_ctrl-r
 inoremap <silent><expr> <C-r> "\<C-g>u<C-r>"
 " <C-u> = Delete to start of line; the opposite of <C-k>; already exists in command mode: c_ctrl-u
@@ -572,16 +573,74 @@ inoremap <silent><expr> <C-u> "\<C-g>u<C-u>"
 " <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
 inoremap <silent><expr> <C-w> "\<C-g>u<C-w>"
 " <C-y> = Paste from system clipboard (not from killring like in bash/emacs)
-inoremap <C-y> <C-r>+
-cnoremap <C-y> <C-r>+
+inoremap <silent> <C-y> <C-o>:call <SID>ResetKillRing()<CR><C-r><C-o>"
+cnoremap <C-y> <C-r><C-o>"
 " <C-_> = Undo like in bash/emacs (this works really well)
 inoremap <C-_> <C-o>u
+inoremap <C-x><C-u> <C-o>u
 " <C-/> = Undo like in bash/emacs (this works really well)
 inoremap <C-/> <C-o>u
 " <C-=> = Redo; opposite of <C-_>
 inoremap <C-=> <C-o><C-r>
+" Vimacs
+cnoremap <C-r> <CR><C-o>?<Up>
+imap <C-@> <C-Space>
+inoremap <C-<> <C-o>:call <SID>StartMarkSel()<CR><C-o>v1G0o
+inoremap <C->> <C-o>:call <SID>StartMarkSel()<CR><C-o>vG$o
+inoremap <C-M-%> <C-o>:call <SID>QueryReplace()_regexp()<CR>
+inoremap <C-M-/> <C-x>
+inoremap <C-M-o> <C-o>:echoerr "<C-M-o> not supported yet; sorry!"<CR>
+inoremap <C-M-r> <C-o>:call <SID>StartSearch('?')<CR><C-o>?
+inoremap <C-M-s> <C-o>:call <SID>StartSearch('/')<CR><C-o>/
+inoremap <C-M-x> <C-x>
+inoremap <C-S-Tab> <C-o><C-w>W
+inoremap <C-Tab> <C-o><C-w>w
+inoremap <C-]> <C-x>
+inoremap <C-r> <C-o>:call <SID>StartSearch('?')<CR><C-o>?
+inoremap <C-s> <C-o>:call <SID>StartSearch('/')<CR><C-o>/
+inoremap <C-t> <Left><C-o>x<C-o>p
+inoremap <C-v> <PageDown>
+inoremap <C-x>+ <C-o><C-w>=
+inoremap <C-x>/ <C-o>:call <SID>PointToRegister()<CR>
+inoremap <C-x>0 <C-o><C-w>c
+inoremap <C-x>1 <C-o><C-w>o
+inoremap <C-x>2 <C-o><C-w>s
+inoremap <C-x>3 <C-o><C-w>v
+inoremap <C-x>4<C-f> <C-o>:FindFileOtherWindow<Space>
+inoremap <C-x>4f <C-o>:FindFileOtherWindow<Space>
+inoremap <C-x><BS> <C-o>d(
+inoremap <C-x><C-b> <C-o>:buffers<CR>
+inoremap <C-x><C-c> <C-o>:confirm qall<CR>
+inoremap <C-x><C-f> <C-o>:hide edit<Space>
+inoremap <C-x><C-o> <C-o>:call <SID>DeleteBlankLines()<CR>
+inoremap <C-x><C-q> <C-o>:set invreadonly<CR>
+inoremap <C-x><C-r> <C-o>:hide view<Space>
+inoremap <C-x><C-s> <C-o>:update<CR>
+inoremap <C-x><C-t> <Up><C-o>dd<End><C-o>p<Down>
+inoremap <C-x><C-w> <C-o>:write<Space>
+inoremap <C-x>= <C-g>
+inoremap <C-x>O <C-o><C-w>W
+inoremap <C-x>h <C-o>:call <SID>StartMarkSel()<CR><Esc>1G0vGo
+inoremap <C-x>i <C-o>:read<Space>
+inoremap <C-x>k <C-o>:bdelete<Space>
+inoremap <C-x>o <C-o><C-w>w
+inoremap <C-x>p <C-o><C-o>
+inoremap <C-x>r<C-@> <C-o>:call <SID>PointToRegister()<CR>
+inoremap <C-x>r<C-Space> <C-o>:call <SID>PointToRegister()<CR>
+inoremap <C-x>r<Space> <C-o>:call <SID>PointToRegister()<CR>
+inoremap <C-x>rj <C-o>:call <SID>JumpToRegister()<CR>
+inoremap <C-x>s <C-o>:wall<CR>
+inoremap <script> <C-o> <CR><Left>
+inoremap <silent> <C-M-v> <C-o>:ScrollOtherWindow<CR>
+inoremap <silent> <C-Space> <C-r>=<SID>StartVisualMode()<CR>
+vnoremap <C-M-\> =
+vnoremap <C-g> <Esc>
+vnoremap <C-w> "1d
+vnoremap <C-x><C-@> <Esc>
+vnoremap <C-x><C-Space> <Esc>
+vnoremap <C-x><Tab> =
 
-" Emacs and bash style insert mode ALT shortcuts
+" " Emacs and bash style insert mode ALT shortcuts
 " " <A-a> = Move to previous sentence start ; opposite of <A-e>
 nnoremap <A-a> (
 inoremap <A-a> <C-o>(
@@ -620,6 +679,7 @@ cnoremap <A-l> <C-f>guee<C-c>
 nnoremap <A-t> diwbPldep
 inoremap <A-t> <Esc>diwbPldepa
 cnoremap <A-t> <C-f>diwbPldep<C-c>
+inoremap <M-t> <Esc>dawbhpi
 " <A-u> = Uppercase to WORD end; opposite of <A-l>
 nnoremap <A-u> gUee
 inoremap <A-u> <Esc>gUeea
@@ -628,8 +688,48 @@ cnoremap <A-u> <C-f>gUee<C-c>
 nnoremap <A-.> a<C-r>.
 inoremap <A-.> <Esc>a<C-r>.
 cnoremap <A-.> <C-r>.
+" Vimacs
+inoremap <C-x>4. <C-o><C-w>}
+inoremap <M-!> <C-o>:!
+inoremap <M-%> <C-o>:call <SID>QueryReplace()()<CR>
+inoremap <M-*> <C-o><C-t>
+inoremap <M-.> <C-o><C-]>
+inoremap <M-/> <C-p>
+inoremap <M-0><C-k> <C-o>d0
+inoremap <M-1> <C-o>1
+inoremap <M-2> <C-o>2
+inoremap <M-3> <C-o>3
+inoremap <M-4> <C-o>4
+inoremap <M-5> <C-o>5
+inoremap <M-6> <C-o>6
+inoremap <M-7> <C-o>7
+inoremap <M-8> <C-o>8
+inoremap <M-9> <C-o>9
+inoremap <M-:> <C-o>:
+inoremap <M-<> <C-o>1G<C-o>0
+inoremap <M->> <C-o>G<C-o>$
+inoremap <M-Space> <C-o>:call <SID>StartMarkSel()<CR><C-o>viw
+inoremap <M-\> <Esc>beldwi
+inoremap <M-^> <Up><End><C-o>J
+inoremap <M-`> <C-o>
+inoremap <M-h> <C-o>:call <SID>StartMarkSel()<CR><C-o>vap
+inoremap <M-k> <C-o>d)
+inoremap <M-m> <C-o>^
+inoremap <M-n> <C-o>:cnext<CR>
+inoremap <M-p> <C-o>:cprevious<CR>
+inoremap <M-r> <C-r>=
+inoremap <M-s> <C-o>:set invhls<CR>
+inoremap <M-v> <PageUp>
+inoremap <M-x> <C-o>:
+inoremap <M-y> <C-o>:call <SID>YankPop()<CR>
+inoremap <M-z> <C-o>dt
+inoremap <silent> <M-g> <C-o>:call <SID>GotoLine()<CR>
+inoremap <silent> <M-q> <C-o>:call <SID>FillParagraph()<CR>
+vnoremap <M-!> !
+vnoremap <M-w> "1y
+vnoremap <M-x> :
 
-" Git
+"" Git
 nnoremap gs :Gstatus<CR>
 nnoremap [g :diffget //2<CR>
 nnoremap ]g :diffget //3<CR>
@@ -1016,3 +1116,267 @@ nnoremap <C-l> :call Toggleztzzzb()<CR>
 nnoremap <M-r> :call ToggleHML()<CR>
 inoremap <C-l> <C-o>:call Toggleztzzzb()<CR>
 inoremap <M-r> <C-o>:call ToggleHML()<CR>
+
+" https://github.com/SpaceVim/SpaceVim/issues/2260#issuecomment-482814306
+" https://www.vim.org/scripts/script.php?script_id=300
+
+function! <SID>LetDefault(var_name, value)
+  if !exists(a:var_name)
+    execute 'let ' . a:var_name . '=' . a:value
+  endif
+endfunction
+
+function! <SID>Mark(...)
+  if a:0 == 0
+    let mark = line(".") . "G" . virtcol(".") . "|"
+    normal! H
+    let mark = "normal!" . line(".") . "Gzt" . mark
+    execute mark
+    return mark
+  elseif a:0 == 1
+    return "normal!" . a:1 . "G1|"
+  else
+    return "normal!" . a:1 . "G" . a:2 . "|"
+  endif
+endfun
+
+function! <SID>StartSearch(search_dir)
+  let s:incsearch_status = &incsearch
+  let s:lazyredraw_status = &lazyredraw
+  set incsearch
+  cmap <C-c> <CR>
+  cnoremap <C-s> <CR><C-o>:call <SID>SearchAgain()<CR><C-o>/<Up>
+  cnoremap <C-r> <CR><C-o>:call <SID>SearchAgain()<CR><C-o>?<Up>
+  cnoremap <silent> <CR> <CR><C-o>:call <SID>StopSearch()<CR>
+  cnoremap <silent> <C-g> <C-c><C-o>:call <SID>AbortSearch()<CR>
+  cnoremap <silent> <Esc> <C-c><C-o>:call <SID>AbortSearch()<CR>
+  if a:search_dir == '/'
+    cnoremap <M-s> <CR><C-o>:set invhls<CR><Left><C-o>/<Up>
+  else
+    cnoremap <M-s> <CR><C-o>:set invhls<CR><Left><C-o>?<Up>
+  endif
+  let s:before_search_mark = <SID>Mark()
+endfunction
+
+function! <SID>StopSearch()
+  cunmap <C-c>
+  cunmap <C-s>
+  cunmap <C-r>
+  cunmap <CR>
+  cunmap <C-g>
+  cnoremap <C-g> <C-c>
+  if exists("s:incsearch_status")
+    let &incsearch = s:incsearch_status
+    unlet s:incsearch_status
+  endif
+  if g:VM_SearchRepeatHighlight == 1
+    if exists("s:hls_status")
+      let &hls = s:hls_status
+      unlet s:hls_status
+    endif
+  endif
+endfunction
+
+function! <SID>AbortSearch()
+  call <SID>StopSearch()
+  if exists("s:before_search_mark")
+    execute s:before_search_mark
+    unlet s:before_search_mark
+  endif
+endfunction
+
+function! <SID>SearchAgain()
+  if g:VM_SearchRepeatHighlight == 1
+    if !exists("s:hls_status")
+      let s:hls_status = &hls
+    endif
+    set hls
+  endif
+endfunction
+
+" Emacs' `query-replace' functions
+
+function! <SID>QueryReplace()
+  let magic_status = &magic
+  set nomagic
+  let searchtext = input("Query replace: ")
+  if searchtext == ""
+    echo "(no text entered): exiting to Insert mode"
+    return
+  endif
+  let replacetext = input("Query replace " . searchtext . " with: ")
+  let searchtext_esc = escape(searchtext,'/\^$')
+  let replacetext_esc = escape(replacetext,'/\')
+  execute ".,$s/" . searchtext_esc . "/" . replacetext_esc . "/cg"
+  let &magic = magic_status
+endfunction
+
+function! <SID>QueryReplaceRegexp()
+  let searchtext = input("Query replace regexp: ")
+  if searchtext == ""
+    echo "(no text entered): exiting to Insert mode"
+    return
+  endif
+  let replacetext = input("Query replace regexp " . searchtext . " with: ")
+  let searchtext_esc = escape(searchtext,'/')
+  let replacetext_esc = escape(replacetext,'/')
+  execute ".,$s/" . searchtext_esc . "/" . replacetext_esc . "/cg"
+endfunction
+
+command! QueryReplace :call <SID>QueryReplace()()
+command! QueryReplaceRegexp :call <SID>QueryReplace()_regexp()
+
+function! <SID>GotoLine()
+  let targetline = input("Goto line: ")
+  if targetline =~ "^\\d\\+$"
+    execute "normal! " . targetline . "G0"
+  elseif targetline =~ "^\\d\\+%$"
+    execute "normal! " . targetline . "%"
+  elseif targetline == ""
+    echo "(cancelled)"
+  else
+    echo " <- Not a Number"
+  endif
+endfunction
+
+command! GotoLine :call <SID>GotoLine()
+
+function! <SID>YankPop()
+  undo
+  if !exists("s:kill_ring_position")
+    call <SID>ResetKillRing()
+  endif
+  execute "normal! i\<C-r>\<C-o>" . s:kill_ring_position . "\<Esc>"
+  call <SID>IncrKillRing()
+endfunction
+
+function! <SID>ResetKillRing()
+  let s:kill_ring_position = 3
+endfunction
+
+function! <SID>IncrKillRing()
+  if s:kill_ring_position >= 9
+    let s:kill_ring_position = 2
+  else
+    let s:kill_ring_position = s:kill_ring_position + 1
+  endif
+endfunction
+
+function! <SID>StartMarkSel()
+  if &selectmode =~ 'key'
+    set keymodel-=stopsel
+  endif
+endfunction
+
+function! <SID>StartVisualMode()
+  call <SID>StartMarkSel()
+  if col('.') > strlen(getline('.'))
+    " At EOL
+    return "\<Right>\<C-o>v\<Left>"
+  else
+    return "\<C-o>v"
+  endif
+endfunction
+
+function! <SID>number_of_windows()
+  let i = 1
+  while winbufnr(i) != -1
+    let i = i + 1
+  endwhile
+  return i - 1
+endfunction
+
+function! <SID>FindFileOtherWindow(filename)
+  let num_windows = <SID>number_of_windows()
+  if num_windows <= 1
+    wincmd s
+  endif
+  wincmd w
+  execute "edit " . a:filename
+  wincmd W
+endfunction
+
+command! -nargs=1 -complete=file FindFileOtherWindow :call <SID>FindFileOtherWindow(<f-args>)
+
+command! ScrollOtherWindow silent! execute "normal! \<C-w>w\<PageDown>\<C-w>W"
+
+command! FillParagraph :call <SID>FillParagraph()
+
+function! <SID>FillParagraph()
+  let old_cursor_pos = <SID>Mark()
+  normal! gqip
+  execute old_cursor_pos
+endfunction
+
+function! <SID>DeleteBlankLines()
+  if getline(".") == "" || getline(". + 1") == "" || getline(". - 1") == ""
+    ?^.\+$?+1,/^.\+$/-2d"_"
+  endif
+  normal j
+endfunction
+
+command! PointToRegister :call PointToRegister()
+command! JumpToRegister :call JumpToRegister()
+
+function! <SID>PointToRegister()
+  echo "Point to mark: "
+  let c = nr2char(getchar())
+  execute "normal! m" . c
+endfunction
+
+function! <SID>JumpToRegister()
+  echo "Jump to mark: "
+  let c = nr2char(getchar())
+  execute "normal! `" . c
+endfunction
+
+" This part needs to be viewed raw on GitHub
+ set <M-1>=1
+ set <M-2>=2
+ set <M-3>=3
+ set <M-4>=4
+ set <M-5>=5
+ set <M-6>=6
+ set <M-7>=7
+ set <M-8>=8
+ set <M-9>=9
+ set <M-0>=0
+ set <M-a>=a
+ set <M-b>=b
+ set <M-c>=c
+ set <M-d>=d
+ set <M-e>=e
+ set <M-f>=f
+ set <M-g>=g
+ set <M-h>=h
+ set <M-i>=i
+ set <M-j>=j
+ set <M-k>=k
+ set <M-l>=l
+ set <M-m>=m
+ set <M-n>=n
+ set <M-o>=o
+ set <M-p>=p
+ set <M-q>=q
+ set <M-r>=r
+ set <M-s>=s
+ set <M-t>=t
+ set <M-u>=u
+ set <M-v>=v
+ set <M-w>=w
+ set <M-x>=x
+ set <M-y>=y
+ set <M-z>=z
+ set <M->=
+ set <M-/>=/
+ set <Char-190>=>
+ set <Char-188>=<
+ set <M-<>=<
+ set <M-0>=0
+ set <M-%>=%
+ set <M-*>=*
+ set <M-.>=.
+ set <M-^>=^
+
+set sel=exclusive
+
