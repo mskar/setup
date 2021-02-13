@@ -39,7 +39,7 @@ VSCODE_R = $(wildcard ~/.vscode/extensions/ikuyadeu.r-*)
 VSCODE_TABNINE = $(wildcard ~/.vscode/extensions/tabnine.tabnine-vscode-*)
 VSCODE_VIM = $(wildcard ~/.vscode/extensions/asvetliakov.vscode-neovim-*)
 
-all: ag alfred alttab slate bash bat bottom brew coc conda copyq emacs exa fasd fd font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim tldr tmux vim vimr vscode poppler zsh
+all: ag alfred alttab bash bat bottom brew coc conda copyq emacs exa default fasd fd font fzf git gmv ipy iterm jupyter jetbrains karabiner neovim node noti pass ptpython radian rename repo rg rstudio scim slate tldr tmux vim vimr vscode poppler zsh
 
 ag: $(AG)
 alfred: /Applications/Alfred4.app
@@ -52,6 +52,7 @@ brew: $(BREW)
 coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: $(shell brew --prefix)/bin/conda
 copyq: /Applications/CopyQ.app
+default: ~/Library/KeyBindings/DefaultKeyBinding.dict
 emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom/doom-emacs ~/.doom/doom-emacs-config ~/.doom/doom-emacs-config/config.el ~/.doom/doom-emacs-config/package.el
 exa: $(EXA)
 fasd: $(FASD)
@@ -143,12 +144,15 @@ $(shell brew --prefix)/bin/conda:
 	-$(shell brew --prefix)/bin/conda install -yc conda-forge cookiecutter neovim
 $(DELTA):
 	-brew install git-delta
+~/Library/KeyBindings/DefaultKeyBinding.dict:
+	mkdir -p ~/Library/KeyBindings
+	ln -fs ~/mskar/setup/karabiner.json ~/.config/karabiner
 $(EMACS):
-	-mkdir -p ~/.config/emacs
+	mkdir -p ~/.config/emacs
 	-brew install --cask emacs
 	-brew install emacs
 	-brew link --overwrite emacs
-	-ln -fs ~/mskar/setup/init.el ~/.config/emacs/init.el
+	ln -fs ~/mskar/setup/init.el ~/.config/emacs/init.el
 ~/.emacs.d:
 	-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ~/.spacemacs: ~/mskar/setup/.spacemacs
