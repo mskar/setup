@@ -587,7 +587,7 @@ cnoremap <C-r> <CR><C-o>?<Up>
 imap <C-@> <C-Space>
 inoremap <C-<> <C-o>:call <SID>StartMarkSel()<CR><C-o>v1G0o
 inoremap <C->> <C-o>:call <SID>StartMarkSel()<CR><C-o>vG$o
-inoremap <C-M-%> <C-o>:call <SID>QueryReplace()_regexp()<CR>
+inoremap <C-M-%> <C-o>:call <SID>QueryReplaceRegexp()<CR>
 inoremap <C-M-/> <C-x>
 inoremap <C-M-o> <C-o>:echoerr "<C-M-o> not supported yet; sorry!"<CR>
 inoremap <C-M-r> <C-o>:call <SID>StartSearch('?')<CR><C-o>?
@@ -691,7 +691,7 @@ cnoremap <A-.> <C-r>.
 " Vimacs
 inoremap <C-x>4. <C-o><C-w>}
 inoremap <M-!> <C-o>:!
-inoremap <M-%> <C-o>:call <SID>QueryReplace()()<CR>
+inoremap <M-%> <C-o>:call <SID>QueryReplace()<CR>
 inoremap <M-*> <C-o><C-t>
 inoremap <M-.> <C-o><C-]>
 inoremap <M-/> <C-p>
@@ -1145,8 +1145,8 @@ function! <SID>StartSearch(search_dir)
   let s:lazyredraw_status = &lazyredraw
   set incsearch
   cmap <C-c> <CR>
-  cnoremap <C-s> <CR><C-o>:call <SID>SearchAgain()<CR><C-o>/<Up>
-  cnoremap <C-r> <CR><C-o>:call <SID>SearchAgain()<CR><C-o>?<Up>
+  cnoremap <C-s> <C-c><C-o>:call <SID>SearchAgain()<CR><C-o>/<Up>
+  cnoremap <C-r> <C-c><C-o>:call <SID>SearchAgain()<CR><C-o>?<Up>
   cnoremap <silent> <CR> <CR><C-o>:call <SID>StopSearch()<CR>
   cnoremap <silent> <C-g> <C-c><C-o>:call <SID>AbortSearch()<CR>
   cnoremap <silent> <Esc> <C-c><C-o>:call <SID>AbortSearch()<CR>
@@ -1186,6 +1186,13 @@ function! <SID>AbortSearch()
 endfunction
 
 function! <SID>SearchAgain()
+  if (winline() <= 2)
+    normal zb
+  elseif (( winheight(0) - winline() ) <= 2)
+    normal zt
+  endif
+  cnoremap <C-s> <CR><C-o>:call <SID>SearchAgain()<CR><C-o>/<Up>
+  cnoremap <C-r> <CR><C-o>:call <SID>SearchAgain()<CR><C-o>?<Up>
   if g:VM_SearchRepeatHighlight == 1
     if !exists("s:hls_status")
       let s:hls_status = &hls
@@ -1223,8 +1230,8 @@ function! <SID>QueryReplaceRegexp()
   execute ".,$s/" . searchtext_esc . "/" . replacetext_esc . "/cg"
 endfunction
 
-command! QueryReplace :call <SID>QueryReplace()()
-command! QueryReplaceRegexp :call <SID>QueryReplace()_regexp()
+command! QueryReplace :call <SID>QueryReplace()<CR>
+command! QueryReplaceRegexp :call <SID>QueryReplaceRegexp()<CR>
 
 function! <SID>GotoLine()
   let targetline = input("Goto line: ")
@@ -1330,53 +1337,4 @@ function! <SID>JumpToRegister()
   execute "normal! `" . c
 endfunction
 
-" This part needs to be viewed raw on GitHub
- set <M-1>=1
- set <M-2>=2
- set <M-3>=3
- set <M-4>=4
- set <M-5>=5
- set <M-6>=6
- set <M-7>=7
- set <M-8>=8
- set <M-9>=9
- set <M-0>=0
- set <M-a>=a
- set <M-b>=b
- set <M-c>=c
- set <M-d>=d
- set <M-e>=e
- set <M-f>=f
- set <M-g>=g
- set <M-h>=h
- set <M-i>=i
- set <M-j>=j
- set <M-k>=k
- set <M-l>=l
- set <M-m>=m
- set <M-n>=n
- set <M-o>=o
- set <M-p>=p
- set <M-q>=q
- set <M-r>=r
- set <M-s>=s
- set <M-t>=t
- set <M-u>=u
- set <M-v>=v
- set <M-w>=w
- set <M-x>=x
- set <M-y>=y
- set <M-z>=z
- set <M->=
- set <M-/>=/
- set <Char-190>=>
- set <Char-188>=<
- set <M-<>=<
- set <M-0>=0
- set <M-%>=%
- set <M-*>=*
- set <M-.>=.
- set <M-^>=^
-
 set sel=exclusive
-
