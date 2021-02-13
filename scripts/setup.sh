@@ -148,7 +148,6 @@ curl https://raw.githubusercontent.com/mskar/setup/main/com.googlecode.iterm2.pl
 ## In iterm2, select Profiles > Terminal > Notifications: Silence bell
 ## In iterm2, select Profiles > Text > Change Font: Fura Code Nerdfont size 18, Use Ligatures
 ## In iterm2, set Profiles > General > Command > Send text at start: tmux attach || tmux new \; split-window -v \; select-pane -t :.+
-## In iterm2, set Profiles > General > Command > Command: /usr/local/bin
 ## In iterm2, set Keys > Key Bindings > Send hex code 0x11 ^;
 
 ## Set up karabiner
