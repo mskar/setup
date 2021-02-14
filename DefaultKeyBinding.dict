@@ -6,57 +6,46 @@
  * https://github.com/nileshk/mac-configuration/blob/99eef47cd434fd3d6f4f1f9e2f50321f32179b88/Library/KeyBindings/DefaultKeyBinding.dict
  * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/TextDefaultsBindings/TextDefaultsBindings.html
  */
-    "~f"      = "moveWordForward:";              /* M-f */
-    "~b"      = "moveWordBackward:";             /* M-b */
-    "~<"      = "moveToBeginningOfDocument:";    /* M-< */
-    "~>"      = "moveToEndOfDocument:";          /* M-> */
-    "~v"      = "pageUp:";                       /* M-v */
-    "^v"      = "pageDown:";                     /* C-v */
-    "~d"      = "deleteWordForward:";            /* M-d */
-    "~^h"     = "deleteWordBackward:";           /* M-C-h */
-    "~\010"   = "deleteWordBackward:";           /* M-backspace */
-    "~\177"   = "deleteWordBackward:";           /* M-delete */
-    "~\UF728" = "deleteWordForward:";            /* delete */
-    "\UF729"  = "moveToBeginningOfDocument:";    /* home */
-    "\UF72B"  = "moveToEndOfDocument:";          /* end */
-    "@\UF729" = "moveToBeginningOfParagraph:";   /* A-home */
-    "@\UF72B" = "moveToEndOfParagraph:";         /* A-end */
-    "@\UF700" = "moveToBeginningOfDocument:";    /* A-up */
-    "@\UF701" = "moveToEndOfDocument:";          /* A-down */
-    "^\UF700" = "pageUp:";                       /* C-up */
-    "^\UF701" = "pageDown:";                     /* C-down */
-    "\UF72C"  = "pageUp:";                       /* page-up */
-    "\UF72D"  = "pageDown:";                     /* page-down */
-    "^/"      = ( "undo:", "moveForward:" );                         /* C-/ */
-    "^_"      = ( "undo:", "moveForward:" );                         /* C-_ */
-    "~c"      = ( "capitalizeWord:", "moveForward:" );               /* M-c */
-    "~u"      = ( "uppercaseWord:", "moveForward:" );                /* M-u */
-    "~l"      = ( "lowercaseWord:", "moveForward:" );                /* M-l */
-    "^t"      = "transpose:";                    /* C-t */
-    "~t"      = "transposeWords:";               /* M-t */
-    "~/"      = "complete:";                     /* M-/ */
-    "^g"      = "_cancelKey:";                   /* C-g */
-    "^a"      = "moveToBeginningOfLine:";        /* C-a */
-    "^e"      = "moveToEndOfLine:";              /* C-e */
-    "^u"      = ( "moveToBeginningOfLineAndModifySelection:", "cut:" );
+
+    "^ "      = "setMark:";                                            /* C-space */
+    "^$a"     = "moveToBeginningOfLineAndModifySelection:";           /* C-a */
+    "^$b"     = "moveBackwardAndModifySelection:";                     /* C-S-b */
+    "^$e"     = "moveToEndOfLineAndModifySelection:";                 /* C-e */
+    "^$f"     = "moveForwardAndModifySelection:";                      /* C-S-f */
+    "^/"      = ("undo:", "moveForward:");                             /* C-/ */
+    "^@"      = "setMark:";                                            /* C-@ */
+    "^_"      = ("undo:", "moveForward:");                             /* C-_ */
+    "^a"      = "moveToBeginningOfLine:";                              /* C-a */
+    "^e"      = "moveToEndOfLine:";                                    /* C-e */
+    "^g"      = "_cancelKey:";                                         /* C-g */
+    "^k"      = ("moveToEndOfLineAndModifySelection:", "cut:");        /* C-k */
+    "^t"      = "transpose:";                                          /* C-t */
+    "^u"      = ("moveToBeginningOfLineAndModifySelection:", "cut:");  /* C-u */
+    "^v"      = "pageDown:";                                           /* C-v */
+    "^w"      = ("moveWordBackwardAndModifySelection:", "cut:");       /* C-w */
+    "~$b"     = "moveWordBackwardAndModifySelection:";                 /* M-S-b */
+    "~$f"     = "moveWordForwardAndModifySelection:";                  /* M-S-f */
+    "~/"      = "complete:";                                           /* M-/ */
+    "~\010"   = "deleteWordBackward:";                                 /* M-backspace */
+    "~\177"   = "deleteWordBackward:";                                 /* M-delete */
+    "~^h"     = "deleteWordBackward:";                                 /* M-C-h */
+    "~b"      = "moveWordBackward:";                                   /* M-b */
+    "~c"      = ("capitalizeWord:", "moveForward:");                   /* M-c */
+    "~d"      = ("deleteWordForward:", "cut:");                        /* M-d */
+    "~f"      = "moveWordForward:";                                    /* M-f */
+    "~l"      = ("lowercaseWord:", "moveForward:");                    /* M-l */
+    "~t"      = "transposeWords:";                                     /* M-t */
+    "~u"      = ("uppercaseWord:", "moveForward:");                    /* M-u */
+    "~v"      = "pageUp:";                                             /* M-v */
+    "~w"      = "copy:";                                               /* A-w */
 
     "^x" = {
-        "^x"  = "swapWithMark:";                 /* C-x C-x */
-        "^m"  = "selectToMark:";                 /* C-x C-m */
-        "^s"  = "save:";                         /* C-x C-s */
-        "^w"  = "saveAs:";                       /* C-x C-w */
-        "k"   = "performClose:";                 /* C-x C-k */
+        "^x"  = "swapWithMark:";                                       /* C-x C-x */
+        "^m"  = "selectToMark:";                                       /* C-x C-m */
+        "^s"  = "save:";                                               /* C-x C-s */
+        "^w"  = "saveAs:";                                             /* C-x C-w */
+        "k"   = "performClose:";                                       /* C-x C-k */
     };
-
-    /* Mark-point stuff (Emacs-style mark and point bindings are
-     * implemented but not bound by default.  In the text system the
-     * mark and point are ranges, not just locations.  The "point" is
-     * the selected range.)
-     */
-    "^@" = "setMark:";                           /* C-@ */
-    "^ " = "setMark:";                           /* C-space */
-    "^w" = "deleteToMark:";                      /* C-w */
-    "~w" = "copy:";                              /* A-w */
 
 }
 
