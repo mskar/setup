@@ -82,9 +82,6 @@ defaults write com.apple.systemuiserver menuExtras -array \
 ### Finder icons
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 3
 
-# Display full POSIX path as Finder window title
-defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
-
 ### https://macos-defaults.com/finder/quitmenuitem.html#set-to-true
 defaults write com.apple.finder QuitMenuItem -bool true
 
@@ -165,6 +162,7 @@ brew install --cask alfred alt-tab slate emacs homebrew/cask-fonts/font-fira-cod
 # App shortcuts
 ## Enable launch on login for Slate, CopyQ, altTab, and Vimac
 ## Set VimR to be the default txt file editor
+duti -s com.qvacua.VimR txt all
 
 ## Add slate config
 curl https://raw.githubusercontent.com/mskar/setup/main/.slate -o ~/.slate
@@ -209,7 +207,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.con
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install ag bash bat clementtsang/bottom/bottom coreutils git-delta emacs exa fasd fd ffmpeg fzf gh miniforge neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+brew install ag bash bat clementtsang/bottom/bottom coreutils duti git-delta emacs exa fasd fd ffmpeg fzf gh miniforge neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Use terminal emacs in the terminal (overwrite link to GUI Emacs installed via cask)
 brew link --overwrite emacs
