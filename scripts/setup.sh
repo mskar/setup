@@ -91,21 +91,38 @@ defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 ## Keyboard
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 
-# Use scroll gesture with the Ctrl (^) modifier key to zoom
+### Use scroll gesture with the Ctrl (^) modifier key to zoom
 defaults write com.apple.universalaccess closeViewScrollWheelToggle -bool true
 
 defaults write com.apple.universalaccess HIDScrollZoomModifierMask -int 262144
 
-# Follow the keyboard focus while zoomed in
+### Follow the keyboard focus while zoomed in
 defaults write com.apple.universalaccess closeViewZoomFollowsFocus -bool true
 
-# Disable press-and-hold for keys in favor of key repeat
+### https://github.com/mathiasbynens/dotfiles/blob/main/.macos#L157
+### Disable press-and-hold for keys in favor of key repeat
 defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false
 
-# Set a blazingly fast keyboard repeat rate
+### Set a blazingly fast keyboard repeat rate
 defaults write NSGlobalDomain KeyRepeat -int 1
 
 defaults write NSGlobalDomain InitialKeyRepeat -int 20
+
+### https://github.com/mathiasbynens/dotfiles/blob/main/.macos#L102
+### Disable automatic capitalization as it’s annoying when typing code
+defaults write NSGlobalDomain NSAutomaticCapitalizationEnabled -bool false
+
+### Disable smart dashes as they’re annoying when typing code
+defaults write NSGlobalDomain NSAutomaticDashSubstitutionEnabled -bool false
+
+### Disable automatic period substitution as it’s annoying when typing code
+defaults write NSGlobalDomain NSAutomaticPeriodSubstitutionEnabled -bool false
+
+### Disable smart quotes as they’re annoying when typing code
+defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
+
+### Disable auto-correct
+defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
 
 ## Menu bar
 ### Under General > Appearance select 'Automatically hide and show the menu bar'
@@ -163,6 +180,10 @@ brew install --cask alfred alt-tab slate emacs homebrew/cask-fonts/font-fira-cod
 ## Enable launch on login for Slate, CopyQ, altTab, and Vimac
 ## Set VimR to be the default txt file editor
 duti -s com.qvacua.VimR txt all
+
+# Hammerspoon
+## vim mode spoon
+bash <(curl -s https://raw.githubusercontent.com/dbalatero/VimMode.spoon/master/bin/installer)
 
 ## Add slate config
 curl https://raw.githubusercontent.com/mskar/setup/main/.slate -o ~/.slate
