@@ -21,6 +21,18 @@
 ### For tons of MacOS setup examples, click the link below
 #### https://github.com/joeyhoer/starter/tree/master/system
 
+# 1: MacOS terminal and defaults
+### Open MacOS terminal using Spotlight search (Cmd Space)
+
+### Curl the FiraCode font and `macos.terminal` file
+
+curl https://raw.githubusercontent.com/mskar/setup/main/macos.terminal -o ~/macos.terminal
+
+curl -fLo ~/Fira\ Code\ Light\ Nerd\ Font\ Complete.ttf https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Light/complete/Fira%20Code%20Light%20Nerd%20Font%20Complete.ttf
+
+### Load in the profile saved in the `macos.terminal` file
+### Run the defaults commands below to setup MacOS
+
 ## Keyboard
 ### https://apple.stackexchange.com/a/83923
 ### In System Preferences > Keyboard > Keyboard:
@@ -131,40 +143,30 @@ defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
 ### Under General > Appearance select 'Automatically hide and show the menu bar'
 defaults write NSGlobalDomain _HIHideMenuBar -bool true
 
-## Enable all default commands
+## Reset Finder and Dock to see results of `defaults` commands
 killall Finder
 
 killall Dock
 
-# Brew - commandline package manager
+# 2: Default MacOS keybindings and keyboard layout
+## Download Default MacOS keybinding dictionary file
+curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict
+
+## Download keyboard layout and icon files
+curl https://raw.githubusercontent.com/mskar/setup/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
+
+curl https://raw.githubusercontent.com/mskar/setup/main/undead.layout -o ~/Library/Keyboard\ Layouts/undead.layout
+
+# 3: Brew - commandline package manager
 ## Install Homebrew (this also installs xcode tools needed for git)
 sudo echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-# Zsh config
-curl https://raw.githubusercontent.com/mskar/setup/main/.zshrc -o ~/.zshrc
-
-# powerlevel10k config
-curl https://raw.githubusercontent.com/mskar/setup/main/.p10k.zsh -o ~/.p10k.zsh
-
-# git
-## config
-curl https://raw.githubusercontent.com/mskar/setup/main/.gitconfig -o ~/.gitconfig
-
-## Regular expressions for diffs
-### https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
-### https://gist.github.com/tekin/12500956bd56784728e490d8cef9cb81
-curl https://gist.githubusercontent.com/tekin/12500956bd56784728e490d8cef9cb81/raw/e474af61231687b0e1a4ec59d4becd97537ef6c0/.gitattributes -o ~/.gitattributes
-
-## automatically ignored files
-# git config, ignore, and attributes
-curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitignore
-
-# Font and Applications
+# 4: MacOS Applications
 ## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew install --cask alfred alt-tab slate emacs homebrew/cask-fonts/font-fira-code-nerd-font homebrew/cask-fonts/font-source-code-pro firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements keycastr r vimr vscodium
+brew install --cask alfred alt-tab copyq emacs firefox google-chrome hammerspoon iterm2 jetbrains-toolbox karabiner-elements keycastr r slate vimr vscodium
 
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
@@ -187,6 +189,8 @@ duti -s com.qvacua.VimR txt all
 # Hammerspoon
 ## vim mode spoon
 bash <(curl -s https://raw.githubusercontent.com/dbalatero/VimMode.spoon/master/bin/installer)
+
+curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspoon/init.lua
 
 ## Add slate config
 curl https://raw.githubusercontent.com/mskar/setup/main/.slate -o ~/.slate
@@ -221,11 +225,10 @@ curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.con
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
 ##### Change return to control if pressed with other keys, to return if pressed alone (from Change return to control)
-##### Change right_command+hjkl to arrow keys (from Examples)
 ##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
-# Shell programs needed for aliases
+# 5: Command line tools
 ## Install fzf (fuzzy finder)
 ## Install bat and exa (for fzf file preview)
 ## Install fasd and fd (to provide inputs for fzf)
@@ -253,6 +256,26 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.bash_profile -o ~/.bash
 curl https://raw.githubusercontent.com/mskar/setup/main/.inputrc -o ~/.inputrc
 
 ## Download dotfiles (configuration files)
+
+# Zsh config
+curl https://raw.githubusercontent.com/mskar/setup/main/.zshrc -o ~/.zshrc
+
+# powerlevel10k config
+curl https://raw.githubusercontent.com/mskar/setup/main/.p10k.zsh -o ~/.p10k.zsh
+
+# git
+## config
+curl https://raw.githubusercontent.com/mskar/setup/main/.gitconfig -o ~/.gitconfig
+
+## Regular expressions for diffs
+### https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
+### https://gist.github.com/tekin/12500956bd56784728e490d8cef9cb81
+curl https://gist.githubusercontent.com/tekin/12500956bd56784728e490d8cef9cb81/raw/e474af61231687b0e1a4ec59d4becd97537ef6c0/.gitattributes -o ~/.gitattributes
+
+## automatically ignored files
+# git config, ignore, and attributes
+curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitignore
+
 ### Vim
 curl https://raw.githubusercontent.com/mskar/setup/main/.vimrc -o ~/.vim/.vimrc
 
@@ -326,22 +349,23 @@ curl https://raw.githubusercontent.com/mskar/setup/main/config.py -o ~/Library/A
 
 ## Set up radian
 curl https://raw.githubusercontent.com/mskar/setup/main/.radian_profile -o ~/.radian_profile
+
 ln -sf .radian_profile radian_profile.R
 
-# Vimium
-## Add Custom key mappings (based on Surfingkeys) to Vimium options
-### map cf LinkHints.activateModeWithQueue
-### map ya LinkHints.activateModeToCopyLinkUrl
-
-# Python and R
-
-## Install nodejs (for coc.vim) and python packages (for nvim-R and ncm-R):
-### https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1953
+# 6: Conda environments (base, Python and R)
+### Install cookiecutter (for i alias) and neovim (for vim plugins)
 $(brew --prefix)/bin/conda install -yc conda-forge cookiecutter neovim
 
-python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyter
+$(brew --prefix)/bin/conda create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 
-## Set up Visual Studio Code
+##### Installing r into base environment breaks nvim-R
+$(brew --prefix)/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
+
+# 7: Code editors
+### Radian, ipython, ptpython, and jupyter-vimrc extension
+python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab-vimrc
+
+## Visual Studio Code (vscodium)
 curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
 
 curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json
@@ -359,13 +383,12 @@ code --install-extension tabnine.tabnine-vscode --force
 code --install-extension asvetliakov.vscode-neovim --force
 
 ## Jupyter
+### https://github.com/jupyterlab/jupyterlab/pull/9068#issuecomment-739993274
+jupyter labextension install @axlair/jupyterlab_vim
 
 #### I don't use jupyterlab-git extension, I only demo it in classes
 ##### jupyter labextension install @jupyterlab/git
 ##### jupyter serverextension enable --py jupyterlab_git
-
-$(brew --prefix)/bin/conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
-
 ##### jupyter labextension install jupyterlab_vim
 
 ## Set up jupyterlab-github extension
@@ -378,8 +401,14 @@ $(brew --prefix)/bin/conda create -yc conda-forge -n py python=3.8 joblib jupyte
 curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 --create-dirs
 
+### PyCharm settings
+curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settings.zip
+
 ## Setup PyCharm
+### Install PyCharm via Jetbrains Toolbox
 ### Sync settings from https://github.com/marskar/PyCharm
+### Or load settings from `settings.zip`
+### Or manually configure PyCharm by following the steps below
 ### Under File > Settings Repository..., select Overwrite Local
 ### Settings
 ### Select MacOS X 10.5+ Keymap and make the following changes:
@@ -435,17 +464,12 @@ curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-set
 ### Fix shortcut conflicts under Preferences > Vim emulation: `Ctrl i/j/m/t` to IDE
 ### When setting run configurations (`Ctrl Alt r`), set working directory to project root under Environment and deselect Run with Python Console under Execution
 
-## Install RStudio (this also installs `r-essentials`; RStudio was working for me as part of Anaconda 5.2.0)
-##### Installing r into base environment breaks nvim-R
-$(brew --prefix)/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
-
+## Set up RStudio
 curl https://raw.githubusercontent.com/mskar/setup/main/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
 curl https://raw.githubusercontent.com/mskar/setup/main/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
 
 curl https://raw.githubusercontent.com/mskar/setup/main/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
 
-### Install and symlink macvim (brew installed macvim conflicts with brew installed vim)
-##### ln -s /usr/local/Cellar/macvim/**/MacVim.app/ /Applications/MacVim.app
+# Initialize conda for z shell
 $(brew --prefix)/bin/conda init zsh
-
