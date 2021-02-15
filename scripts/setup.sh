@@ -77,8 +77,13 @@ defaults write com.apple.systemuiserver menuExtras -array \
     "/System/Library/CoreServices/Menu Extras/Displays.menu" \
     "/System/Library/CoreServices/Menu Extras/Volume.menu"
 
-## Finder icons
+## Finder
+
+### Finder icons
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 3
+
+# Display full POSIX path as Finder window title
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
 
 ### https://macos-defaults.com/finder/quitmenuitem.html#set-to-true
 defaults write com.apple.finder QuitMenuItem -bool true
@@ -91,7 +96,9 @@ defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 
 # Use scroll gesture with the Ctrl (^) modifier key to zoom
 defaults write com.apple.universalaccess closeViewScrollWheelToggle -bool true
+
 defaults write com.apple.universalaccess HIDScrollZoomModifierMask -int 262144
+
 # Follow the keyboard focus while zoomed in
 defaults write com.apple.universalaccess closeViewZoomFollowsFocus -bool true
 
@@ -100,8 +107,8 @@ defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false
 
 # Set a blazingly fast keyboard repeat rate
 defaults write NSGlobalDomain KeyRepeat -int 1
-defaults write NSGlobalDomain InitialKeyRepeat -int 20
 
+defaults write NSGlobalDomain InitialKeyRepeat -int 20
 
 ## Menu bar
 ### Under General > Appearance select 'Automatically hide and show the menu bar'
@@ -109,6 +116,7 @@ defaults write NSGlobalDomain _HIHideMenuBar -bool true
 
 ## Enable all default commands
 killall Finder
+
 killall Dock
 
 # Brew - commandline package manager
@@ -271,7 +279,9 @@ export DOOMDIR=~/.doom/doom-emacs-config
 
 mkdir -p "$DOOMDIR"
 
-~/.doom/doom-emacs/bin/doom install
+echo | ~/.doom/doom-emacs/bin/doom install
+
+~/.doom/doom-emacs/bin/doom sync
 
 curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.doom/doom-emacs-config/config.el
 
