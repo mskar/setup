@@ -52,6 +52,12 @@ defaults write com.apple.dock autohide -bool true
 ### https://www.defaults-write.com/delete-the-hiding-dock-delay-in-os-x/
 defaults write com.apple.Dock autohide-delay -float 0
 
+### https://macos-defaults.com/dock/autohide-time-modifier.html#set-to-0
+defaults write com.apple.dock autohide-time-modifier -float 0
+
+### https://macos-defaults.com/misc/enable-spring-load-actions-on-all-items.html#set-to-true
+defaults write com.apple.dock enable-spring-load-actions-on-all-items -bool true
+
 ## Sound
 ### Under General > Sound turn off all sounds
 
@@ -64,20 +70,50 @@ defaults write NSGlobalDomain com.apple.sound.beep.feedback -bool false
 #### Disable flashing the screen when an alert sound occurs (accessibility)
 defaults write NSGlobalDomain com.apple.sound.beep.flash -bool false
 
-### Under General > Sound "Show volume in menu bar"
+### Under General > Sound "Show volume in menu bar" (doesn't work?)
 defaults write com.apple.systemuiserver menuExtras -array \
     "/System/Library/CoreServices/Menu Extras/AirPort.menu" \
     "/System/Library/CoreServices/Menu Extras/Bluetooth.menu" \
     "/System/Library/CoreServices/Menu Extras/Displays.menu" \
     "/System/Library/CoreServices/Menu Extras/Volume.menu"
 
+## Finder icons
+defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 3
+
+### https://macos-defaults.com/finder/quitmenuitem.html#set-to-true
+defaults write com.apple.finder QuitMenuItem -bool true
+
+### https://macos-defaults.com/finder/fxenableextensionchangewarning.html#set-to-false
+defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
+
+## Keyboard
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
+
+# Use scroll gesture with the Ctrl (^) modifier key to zoom
+defaults write com.apple.universalaccess closeViewScrollWheelToggle -bool true
+defaults write com.apple.universalaccess HIDScrollZoomModifierMask -int 262144
+# Follow the keyboard focus while zoomed in
+defaults write com.apple.universalaccess closeViewZoomFollowsFocus -bool true
+
+# Disable press-and-hold for keys in favor of key repeat
+defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false
+
+# Set a blazingly fast keyboard repeat rate
+defaults write NSGlobalDomain KeyRepeat -int 1
+defaults write NSGlobalDomain InitialKeyRepeat -int 20
+
+
 ## Menu bar
 ### Under General > Appearance select 'Automatically hide and show the menu bar'
 defaults write NSGlobalDomain _HIHideMenuBar -bool true
 
+## Enable all default commands
+killall Finder
+killall Dock
+
 # Brew - commandline package manager
 ## Install Homebrew (this also installs xcode tools needed for git)
-echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+sudo echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # Zsh config
 curl https://raw.githubusercontent.com/mskar/setup/main/.zshrc -o ~/.zshrc
@@ -103,7 +139,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitigno
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew install --cask alfred alt-tab slate emacs homebrew/cask-fonts/font-fira-code-nerd-font homebrew/cask-fonts/font-source-code-pro firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements r vimr vscodium
+brew install --cask alfred alt-tab slate emacs homebrew/cask-fonts/font-fira-code-nerd-font homebrew/cask-fonts/font-source-code-pro firefox copyq google-chrome iterm2 jetbrains-toolbox karabiner-elements keycastr r vimr vscodium
 
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
@@ -158,23 +194,6 @@ curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.con
 ##### Change right_command+hjkl to arrow keys (from Examples)
 ##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
-
-## Set up Visual Studio Code
-curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
-
-curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json
-
-code --install-extension ms-vsliveshare.vsliveshare --force
-
-code --install-extension ms-python.python --force
-
-code --install-extension ms-python.vscode-pylance --force
-
-code --install-extension ikuyadeu.r --force
-
-code --install-extension tabnine.tabnine-vscode --force
-
-code --install-extension asvetliakov.vscode-neovim --force
 
 # Shell programs needed for aliases
 ## Install fzf (fuzzy finder)
@@ -289,6 +308,23 @@ ln -sf .radian_profile radian_profile.R
 $(brew --prefix)/bin/conda install -yc conda-forge cookiecutter neovim
 
 python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyter
+
+## Set up Visual Studio Code
+curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
+
+curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json
+
+code --install-extension ms-vsliveshare.vsliveshare --force
+
+code --install-extension ms-python.python --force
+
+code --install-extension ms-python.vscode-pylance --force
+
+code --install-extension ikuyadeu.r --force
+
+code --install-extension tabnine.tabnine-vscode --force
+
+code --install-extension asvetliakov.vscode-neovim --force
 
 ## Jupyter
 
