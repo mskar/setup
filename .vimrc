@@ -40,6 +40,7 @@ Plug 'tommcdo/vim-exchange'
 Plug 'justinmk/vim-sneak'
 Plug 'mbbill/undotree'
 Plug 'simnalamburt/vim-mundo'
+Plug 'jiangmiao/auto-pairs'
 
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
@@ -255,7 +256,7 @@ set noerrorbells visualbell t_vb=
 let g:camelchar = "A-Z0-9.,;:{([`'\""
 " COC settings
 " https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
-let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-json', 'coc-python', 'coc-pairs', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-tabnine', 'coc-yaml', 'coc-yank']
+let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-json', 'coc-python', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-tabnine', 'coc-yaml', 'coc-yank']
 
 " Always show the signcolumn, otherwise it would shift the text each time
 " diagnostics appear/become resolved.
@@ -324,11 +325,6 @@ command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organize
 "*****************************************************************************
 "" Autocmd Rules
 "*****************************************************************************
-" https://vim.fandom.com/wiki/Auto-save_current_buffer_periodically
-" https://vi.stackexchange.com/a/79
-if bufname("%")!=''
-  au CursorHold <buffer> update
-endif
 
 "" The PC is fast enough, do syntax highlight syncing from start unless 200 lines
 augroup vimrc-sync-fromstart
