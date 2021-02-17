@@ -111,6 +111,10 @@ set expandtab
 let mapleader=' '
 let maplocalleader='\'
 
+" https://github.com/jiangmiao/auto-pairs#shortcuts
+let g:AutoPairsShortcutBackInsert = "<M-i>"
+let g:AutoPairsShortcutFastWrap = "<M-w>"
+
 "" Enable hidden buffers
 set hidden
 
