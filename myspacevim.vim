@@ -49,6 +49,7 @@ function! myspacevim#before() abort
     set <A-k>=k
     set <A-l>=l
     set <A-r>=r
+    set <A-S>=S
     set <A-s>=s
     set <A-t>=t
     set <A-u>=u
@@ -140,13 +141,13 @@ function! myspacevim#before() abort
 
   " 2-character Sneak (default)
   nmap <A-s>   <Plug>Sneak_s
-  nmap <A-r> <Plug>Sneak_S
+  nmap <A-S> <Plug>Sneak_S
   " visual-mode
   xmap <A-s>   <Plug>Sneak_s
-  xmap <A-r> <Plug>Sneak_S
+  xmap <A-S> <Plug>Sneak_S
   " operator-pending-mode
   omap <A-s>   <Plug>Sneak_s
-  omap <A-r> <Plug>Sneak_S
+  omap <A-S> <Plug>Sneak_S
 
   " repeat motion
   map ; <Plug>Sneak_;

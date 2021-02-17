@@ -1050,13 +1050,13 @@ nnoremap Y y$
 
 " 2-character Sneak (default)
 nmap <A-s>   <Plug>Sneak_s
-nmap <A-r> <Plug>Sneak_S
+nmap <A-S> <Plug>Sneak_S
 " visual-mode
 xmap <A-s>   <Plug>Sneak_s
-xmap <A-r> <Plug>Sneak_S
+xmap <A-S> <Plug>Sneak_S
 " operator-pending-mode
 omap <A-s>   <Plug>Sneak_s
-omap <A-r> <Plug>Sneak_S
+omap <A-S> <Plug>Sneak_S
 
 " repeat motion
 map ; <Plug>Sneak_;
