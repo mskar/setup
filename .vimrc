@@ -381,13 +381,13 @@ au FileType snakemake setlocal tw=79 tabstop=4 shiftwidth=4 softtabstop=4
 nmap <silent><C-CR> <Plug>SlimeSendCell
 nmap <silent><M-CR> <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 nmap <silent><S-CR> <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-nmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-nmap <silent><leader>l <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-nmap <silent><leader>m <Plug>SlimeMotionSend
+" nmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+" nmap <silent><leader>l <Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+" nmap <silent><leader>m <Plug>SlimeMotionSend
 nmap <silent><leader>p <Plug>SlimeParagraphSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 xmap <silent><M-CR> <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-xmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
-xmap <silent><leader>l <Esc><Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+" xmap <silent><leader>c <Plug>SlimeSendCell `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
+" xmap <silent><leader>l <Esc><Plug>SlimeLineSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 xmap <silent><leader>v <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('^.\+')<CR>:set wrapscan<CR>
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
@@ -669,7 +669,7 @@ noremap <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
 nnoremap <silent> <leader>n :NERDTreeToggle<CR>
 
 " terminal emulation
-nnoremap <silent> <leader>t :terminal<CR>
+" nnoremap <silent> <leader>t :terminal<CR>
 
 "" Clean search (highlight)
 nnoremap <silent> <leader><leader> :noh<cr>
@@ -677,54 +677,33 @@ nnoremap <silent> <leader><leader> :noh<cr>
 "" Open current line on GitHub
 nnoremap <leader>o :.Gbrowse<CR>
 
-nnoremap <silent> <leader>A :Ag<CR>
-nnoremap <silent> <leader>b :Buffers<CR>
-"Recovery commands from history through FZF
-nnoremap <silent> <leader>h :History<CR>
-nnoremap <silent> <leader>B :BCommits<CR>
-nnoremap <silent> <leader>C :Commands<CR>
-nnoremap <silent> <leader>gf :GFiles<CR>
-nnoremap <silent> <leader>F :Files<CR>
-nnoremap <silent> <leader>H :Helptags<CR>
-nnoremap <silent> <leader>M :Maps<CR>
-nnoremap <silent> <leader>' :Marks<CR>
-nnoremap <silent> <leader>L :Lines<CR>
-nnoremap <silent> <leader>R :Rg<CR>
-nnoremap <silent> <leader>T :Tags<CR>
-nnoremap <silent> <leader>z :FZF -m<CR>
-
-" https://github.com/junegunn/fzf.vim#mappings
-" Mapping selecting mappings
-nmap <leader><tab> <plug>(fzf-maps-n)
-xmap <leader><tab> <plug>(fzf-maps-x)
-omap <leader><tab> <plug>(fzf-maps-o)
 
 " Symbol renaming.
-nmap <leader>r <Plug>(coc-rename)
+" nmap <leader>r <Plug>(coc-rename)
 
 " Formatting selected code.
-xmap <leader>f  <Plug>(coc-format-selected)
-nmap <leader>f  <Plug>(coc-format-selected)
+" xmap <leader>f  <Plug>(coc-format-selected)
+" nmap <leader>f  <Plug>(coc-format-selected)
 
 " Applying codeAction to the selected region.
 " Example: `<leader>aap` for current paragraph
-xmap <leader>a  <Plug>(coc-codeaction-selected)
-nmap <leader>a  <Plug>(coc-codeaction-selected)
+" xmap <leader>a  <Plug>(coc-codeaction-selected)
+" nmap <leader>a  <Plug>(coc-codeaction-selected)
 
 " Remap keys for applying codeAction to the current buffer.
-nmap <leader>ac  <Plug>(coc-codeaction)
+" nmap <leader>ac  <Plug>(coc-codeaction)
 " Apply AutoFix to problem on the current line.
 nmap <leader>qf  <Plug>(coc-fix-current)
 
 " Mappings for CoCList
 " Show all diagnostics.
-nnoremap <silent><nowait> <leader>a  :<C-u>CocList diagnostics<cr>
+" nnoremap <silent><nowait> <leader>a  :<C-u>CocList diagnostics<cr>
 " Manage extensions.
 nnoremap <silent><nowait> <leader>e  :<C-u>CocList extensions<cr>
 " Find symbol of current document.
 nnoremap <silent><nowait> <leader>o  :<C-u>CocList outline<cr>
 " Search workspace symbols.
-nnoremap <silent><nowait> <leader>s  :<C-u>CocList -I symbols<cr>
+" nnoremap <silent><nowait> <leader>s  :<C-u>CocList -I symbols<cr>
 " Do default action for next item.
 nnoremap <silent><nowait> <leader>j  :<C-u>CocNext<CR>
 " Do default action for previous item.
@@ -778,11 +757,34 @@ imap <c-x>l <plug>(fzf-complete-line)
 imap <c-x>p <plug>(fzf-complete-path)
 imap <c-x>w <plug>(fzf-complete-word)
 
-" Mappings inspired by my .zshrc
-imap <c-x><c-u> <C-o>u
-imap <c-x>u <C-o>u
-imap <c-x><c-x> <C-o>``
-imap <c-x>x <C-o>``
+nnoremap <silent> <leader>' :Marks!<CR>
+nnoremap <silent> <leader>/ :History/!<CR>
+nnoremap <silent> <leader>: :History:!<CR>
+nnoremap <silent> <leader>? :Helptags!<CR>
+nnoremap <silent> <leader>a :Ag!<CR>
+nnoremap <silent> <leader>b :Buffers!<CR>
+nnoremap <silent> <leader>c :Commits!<CR>
+nnoremap <silent> <leader>C :BCommits!<CR>
+nnoremap <silent> <leader>f :Files!<CR>
+nnoremap <silent> <leader>F :Filetypes!<CR>
+nnoremap <silent> <leader>gf :GFiles!<CR>
+nnoremap <silent> <leader>h :History!<CR>
+nnoremap <silent> <leader>l :Lines!<CR>
+nnoremap <silent> <leader>L :BLines!<CR>
+nnoremap <silent> <leader>m :Maps!<CR>
+nnoremap <silent> <leader>r :Rg!<CR>
+nnoremap <silent> <leader>s :Snippets!<CR>
+nnoremap <silent> <leader>t :Tags!<CR>
+nnoremap <silent> <leader>T :BTags!<CR>
+nnoremap <silent> <leader>w :Windows!<CR>
+nnoremap <silent> <leader>x :Commands!<CR>
+nnoremap <silent> <leader>z :FZF! -m<CR>
+
+" https://github.com/junegunn/fzf.vim#mappings
+" Mapping selecting mappings
+nmap <leader><tab> <plug>(fzf-maps-n)
+xmap <leader><tab> <plug>(fzf-maps-x)
+omap <leader><tab> <plug>(fzf-maps-o)
 
 " https://github.com/junegunn/fzf.vim#completion-functions
 " Path completion with custom source command
@@ -790,6 +792,12 @@ inoremap <expr> <c-x><c-r> fzf#vim#complete#path('rg --files')
 inoremap <expr> <c-x>r fzf#vim#complete#path('rg --files')
 inoremap <expr> <c-x><c-d> fzf#vim#complete#path('exa --only-dirs')
 inoremap <expr> <c-x>d fzf#vim#complete#path('exa --only-dirs')
+
+" Mappings inspired by my .zshrc
+imap <c-x><c-u> <C-o>u
+imap <c-x>u <C-o>u
+imap <c-x><c-x> <C-o>``
+imap <c-x>x <C-o>``
 
 " https://vim.fandom.com/wiki/Moving_through_camel_case_words
 " Stop on capital letters.
