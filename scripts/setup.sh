@@ -234,7 +234,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.con
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install ag bash bat clementtsang/bottom/bottom coreutils duti git git-delta emacs exa fasd fd ffmpeg fzf gh miniforge neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
+brew install ag bash bat clementtsang/bottom/bottom coreutils ctags duti git git-delta emacs exa fasd fd ffmpeg fzf gh miniforge neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Use terminal emacs in the terminal (overwrite link to GUI Emacs installed via cask)
 brew link --overwrite emacs

@@ -41,6 +41,7 @@ Plug 'justinmk/vim-sneak'
 Plug 'mbbill/undotree'
 Plug 'simnalamburt/vim-mundo'
 Plug 'jiangmiao/auto-pairs'
+Plug 'SirVer/ultisnips'
 
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
@@ -56,7 +57,7 @@ Plug 'honza/vim-snippets'
 Plug 'tomasr/molokai'
 
 "" REPL
-Plug 'jpalardy/vim-slime'
+Plug 'jpalardy/vim-slime', { 'branch': 'main' }
 
 "" Python
 Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
