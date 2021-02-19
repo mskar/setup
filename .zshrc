@@ -3,6 +3,17 @@
 # https://github.com/junegunn/fzf#respecting-gitignore
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+export PATH=/usr/local/bin:$PATH
+export PATH=$(brew --prefix)/Caskroom/miniforge/base/bin:$PATH
+export EDITOR=$(brew --prefix)/bin/nvim
+export DOOMDIR=$HOME/.doom/doom-emacs-config
+export FZF_DEFAULT_COMMAND="fd --type file"
+export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
+export FZF_DEFAULT_OPTS="'--bind=change:top,ctrl-k:kill-line,alt-p:toggle-preview,alt-w:toggle-preview-wrap,alt-y:execute-silent(echo {} | pbcopy)' --cycle --exit-0 --inline-info --multi --no-height --no-sort --preview='if [ -d {} ]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi' --preview-window='70%:hidden' --reverse --tiebreak=index"
+export FZF_CTRL_T_OPTS="--select-1"
+export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
+export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
+export KEYTIMEOUT=1
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
@@ -15,18 +26,6 @@ source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
-export DOOMDIR=$HOME/.doom/doom-emacs-config
-export EDITOR=$(brew --prefix)/bin/nvim
-export PATH=$(brew --prefix)/Caskroom/miniforge/base/bin:$PATH
-export KEYTIMEOUT=1
-export FZF_DEFAULT_COMMAND="fd --type file"
-export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
-export FZF_DEFAULT_OPTS="'--bind=change:top,ctrl-k:kill-line,alt-p:toggle-preview,alt-w:toggle-preview-wrap,alt-y:execute-silent(echo {} | pbcopy)' --cycle --exit-0 --inline-info --multi --no-height --no-sort --preview='if [ -d {} ]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi' --preview-window='70%:hidden' --reverse --tiebreak=index"
-export FZF_CTRL_T_OPTS="--select-1"
-export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
-export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
-# brew installed packages
-# export PATH=/usr/local/bin:$PATH
 WORDCHARS='_'
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5' # https://stackoverflow.com/a/47313453
 DISABLE_MAGIC_FUNCTIONS=true
