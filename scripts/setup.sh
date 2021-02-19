@@ -161,12 +161,15 @@ curl https://raw.githubusercontent.com/mskar/setup/main/undead.layout -o ~/Libra
 ## Install Homebrew (this also installs xcode tools needed for git)
 sudo echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
+curl https://raw.githubusercontent.com/mskar/setup/main/Brewfile -o ~/.Brewfile
+
+brew bundle install --global
+
 # 4: MacOS Applications
 ## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
 ## Install Fira Code Nerdfont and .app programs
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
-brew install --cask alfred alt-tab copyq emacs firefox google-chrome hammerspoon iterm2 jetbrains-toolbox karabiner-elements keycastr r slate vimr vscodium
 
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
@@ -234,7 +237,6 @@ curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.con
 ## Install fasd and fd (to provide inputs for fzf)
 ## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
 ## Install vim and neovim
-brew install ag bash bat clementtsang/bottom/bottom coreutils ctags duti git git-delta emacs exa fasd fd ffmpeg fzf gh miniforge neovim node noti pandoc pass poppler rename rg rga sc-im tesseract tldr tmux vim zsh-autosuggestions zsh-syntax-highlighting romkatv/powerlevel10k/powerlevel10k
 
 ## Use terminal emacs in the terminal (overwrite link to GUI Emacs installed via cask)
 brew link --overwrite emacs

@@ -48,7 +48,7 @@ slate: /Applications/Slate.app ~/.slate
 bash: $(BASH) ~/.bash_profile ~/.inputrc
 bat: $(BAT)
 bottom: $(BTM) ~/.config/bottom/bottom.toml
-brew: $(BREW)
+brew: $(BREW) ~/.Brewfile
 coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: $(shell brew --prefix)/bin/conda
 copyq: /Applications/CopyQ.app
@@ -133,6 +133,8 @@ $(BTM):
 	-brew install clementtsang/bottom/bottom
 $(BREW):
 	-echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+~/.Brewfile:
+	ln -sf ~/mskar/setup/Brewfile ~/.Brewfile
 ~/.config/nvim/coc-settings.json: ~/mskar/setup/coc-settings.json
 	mkdir -p ~/.config/nvim
 	ln -sf ~/mskar/setup/coc-settings.json ~/.config/nvim/coc-settings.json
