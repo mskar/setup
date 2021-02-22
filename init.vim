@@ -1033,7 +1033,7 @@ function! s:check_back_space() abort
 endfunction
 
 nnoremap Q gqap
-nnoremap ZA :xa
+nnoremap ZA :xa<CR>
 
 " Use <c-space> to trigger completion.
 if has('nvim')

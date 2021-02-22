@@ -209,11 +209,8 @@ autocmd ColorScheme molokai highlight Normal ctermbg=NONE guibg=NONE
 autocmd ColorScheme molokai highlight SignColumn ctermbg=NONE guibg=NONE
 autocmd ColorScheme molokai highlight VertSplit ctermbg=NONE guibg=NONE
 
-" https://vim.fandom.com/wiki/Auto-save_current_buffer_periodically
-" " https://vi.stackexchange.com/a/79
-if bufname("%")!=''
-  au CursorHold <buffer> update
-endif
+nnoremap Q gqap
+nnoremap ZA :xa<CR>
 
 " https://jovicailic.org/2017/04/vim-persistent-undo/
 set undofile
@@ -222,7 +219,6 @@ if has('nvim')
 else
   set undodir=~/.vim/undodir
 endif
-
 
 " Share system clipboard ("+) and unnamed ("") registers
 " http://vimcasts.org/episodes/accessing-the-system-clipboard-from-vim/
