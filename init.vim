@@ -1143,6 +1143,16 @@ function! Toggleztzzzb()
     endif
 endfunction
 
+function! PutNumbers(...)
+    let start     = get(a:, 1, 1)
+    let stop      = get(a:, 2, 10)
+    let format    = get(a:, 3, "%02d. \n")
+    let delimiter = get(a:, 4, '')
+    let prefix    = get(a:, 5, '')
+    let suffix    = get(a:, 6, '')
+    put=prefix.join(map(range(start,stop), 'printf(format, v:val)'), delimiter).suffix
+endfunction
+
 nnoremap <C-l> :call Toggleztzzzb()<CR>
 nnoremap <M-r> :call ToggleHML()<CR>
 inoremap <C-l> <C-o>:call Toggleztzzzb()<CR>
