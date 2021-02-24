@@ -31,6 +31,7 @@
     changed = green
     untracked = cyan
 [diff]
+    colorMoved = default
 	tool = vimdiff
     mnemonicprefix = true
 [difftool "vimdiff"]
