@@ -308,7 +308,6 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vi
 curl https://raw.githubusercontent.com/mskar/setup/main/.ideavimrc -o ~/.ideavimrc
 
 ## Set up emacs
-
 curl https://raw.githubusercontent.com/mskar/setup/main/init.el -o ~/.config/emacs/init.el --create-dirs
 
 ### Spacemacs
@@ -319,7 +318,6 @@ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 curl https://raw.githubusercontent.com/mskar/setup/main/.spacemacs -o ~/.spacemacs
 
 ### Doom emacs
-
 git clone https://github.com/hlissner/doom-emacs ~/.doom/doom-emacs
 
 export DOOMDIR=~/.doom/doom-emacs-config
