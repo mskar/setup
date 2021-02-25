@@ -3,18 +3,19 @@
 # https://github.com/junegunn/fzf#respecting-gitignore
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-export PATH=/usr/local/bin:$PATH
-export PATH=$(brew --prefix)/Caskroom/miniforge/base/bin:$PATH
-export EDITOR=$(brew --prefix)/bin/nvim
 export DOOMDIR=$HOME/.doom/doom-emacs-config
+export EDITOR=$(brew --prefix)/bin/nvim
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+export PATH=$(brew --prefix)/Caskroom/miniforge/base/bin:$PATH
+export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 export FZF_DEFAULT_OPTS="'--bind=change:top,ctrl-k:kill-line,alt-p:toggle-preview,alt-w:toggle-preview-wrap,alt-y:execute-silent(echo {} | pbcopy)' --cycle --exit-0 --inline-info --multi --no-height --no-sort --preview='if [ -d {} ]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi' --preview-window='70%:hidden' --reverse --tiebreak=index"
 export FZF_CTRL_T_OPTS="--select-1"
 export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
 export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
-export KEYTIMEOUT=1
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
 source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
@@ -458,6 +459,7 @@ alias qq="atq -v"
 alias qr="at -r"
 alias r="git reset" # Resets the index but not the working tree (mixed)
 alias ra="git remote add"
+alias raa="git remote -v | cut -d ' ' -f1 | uniq | fzf --multi | vipe | xargs -L1 git remote add"
 alias rab="func() { local name=${1:-origin} && git remote add bit https://bitbucket.org/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func"
 alias rah="func() { local name=${1:-origin} && git remote add hub https://github.com/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func"
 alias ral="func() { local name=${1:-origin} && git remote add lab https://gitlab.com/$(echo '${${$(git remote get-url $name)#*.*[:/]}%.*}'); }; func"
@@ -499,12 +501,18 @@ alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv
 alias rp="git restore --patch"
 alias rr="func() { local files=$(echo '$(git diff HEAD --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | delta | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --staged --worktree --; }; func"
 alias rrm="git remote remove"
+alias rrmm="git remote -v | cut -d ' ' -f1 | uniq | fzf --multi | cut -f1 | xargs -L1 git remote remove"
 alias rrmo="git remote remove origin"
 alias rrmu="git remote remove upstream"
+alias rrn="git remote rename"
+alias rrnn="git remote -v | cut -d ' ' -f1 | uniq | fzf --multi | cut -f1 | sed 's/\(.*\)/\1 \1/g' | vipe | xargs -L1 git remote rename"
 alias rs="func() { local files=$(echo '$(git diff --staged --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | delta | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --staged --; }; func"
+alias rsa="git remote -v | cut -d ' ' -f1 | uniq | fzf --multi | vipe | xargs -L1 git remote set-url --add"
+alias rsd="git remote -v | cut -d ' ' -f1 | uniq | fzf --multi | vipe | xargs -L1 git remote set-url --delete"
 alias rsh="git remote set-head"
 alias rsho="git remote set-head origin"
 alias rshom="git remote set-head origin main"
+alias rss="git remote -v | cut -d ' ' -f1 | uniq | fzf --multi | vipe | xargs -L1 git remote set-url"
 alias rsu="git remote set-url"
 alias rsub="git remote set-url bit"
 alias rsuba="func() { git remote set-url bit $(echo '$@') --add; }; func"
@@ -521,7 +529,7 @@ alias rsuu="git remote set-url upstream"
 alias rsuua="func() { git remote set-url upstream $(echo '$@') --add; }; func"
 alias rv="git remote -v"
 alias rw="func() { local files=$(echo '$(git diff HEAD --diff-filter=M --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | delta | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --worktree --; }; func"
-alias rz="func() { find $(echo '${1-.}') -mindepth 1 -print0 | rename -0fz; }; func"
+alias rz="func() { find $(echo '${1-.}') -mindepth 1 -print0 | rename --null --force --santize; }; func"
 alias s2h="func() { local name=$(echo '${1:-origin}') && [ $(echo '$name') ] && git remote set-url $(echo '$name $(git remote get-url $name | sed "s+:+/+;s+git@+https://+")') }; func"
 alias s="git status --show-stash"
 alias sa="git stash apply"
