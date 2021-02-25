@@ -5,7 +5,7 @@
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
-export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+export MANPAGER="nvim -c 'set ft=man' -"
 export PATH=$(brew --prefix)/Caskroom/miniforge/base/bin:$PATH
 export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
