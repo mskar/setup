@@ -483,7 +483,6 @@ inoremap <C-M-x> <C-x>
 inoremap <C-S-Tab> <C-o><C-w>W
 inoremap <C-Tab> <C-o><C-w>w
 inoremap <C-]> <C-x>
-inoremap <C-r> <C-o>:call <SID>StartSearch('?')<CR><C-o>?
 inoremap <C-s> <C-o>:call <SID>StartSearch('/')<CR><C-o>/
 inoremap <C-t> <Left><C-o>x<C-o>p
 inoremap <C-v> <PageDown>

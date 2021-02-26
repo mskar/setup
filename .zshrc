@@ -6,6 +6,7 @@
 export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
 export MANPAGER="nvim -c 'set ft=man' -"
+export PAGER="less"
 export PATH=$(brew --prefix)/Caskroom/miniforge/base/bin:$PATH
 export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
@@ -126,8 +127,8 @@ alias bi="brew install"
 alias bic="brew install --cask"
 alias bl="brew list"
 alias blc="brew list --cask"
-alias bm="git branch -m"
-alias bmm="git branch -m master main && git push -u origin main && git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main"
+alias bm="git branch --move"
+alias bmm="git branch --move master main && git push --set-upstream origin main && git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main"
 alias bo="brew outdated"
 alias boc="brew outdated --cask"
 alias br="git branch --remotes"
@@ -420,6 +421,7 @@ alias or="func() { local files=$(echo '$(fd --color=always -e Rproj --type f $@ 
 alias ow="func() { local files=$(echo '$(fd --color=always -e docx --type f $@ | fzf --ansi --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 open; }; func"
 alias p="git push"
 alias pa="pass add"
+alias pb="prettybat"
 alias pc="pass -c"
 alias pd="pycharm diff"
 alias pe="pass edit"
@@ -442,8 +444,8 @@ alias pod="git push origin --delete"
 alias pof="git push origin --force-if-includes --force-with-lease"
 alias pom="git push origin main"
 alias pomf="git push origin main --force-if-includes --force-with-lease"
-alias pou="git push origin -u" # -u is --set-upstream
-alias poum="git push origin -u main" # -u is --set-upstream
+alias pou="git push origin --set-upstream"
+alias poum="git push origin --set-upstream main"
 alias pp="func() { local password=$(echo '$(fd . ~/.password-store --extension gpg --type f --exec echo {.} | cut -d/ -f5- | fzf --no-multi --no-preview)') && [ $(echo '$password') ] && echo $(echo '$password') | xargs pass $(echo '${@:--c}'); }; func"
 alias pr="pass rm"
 alias ps="pass search"
