@@ -798,6 +798,7 @@
                                     {
                                         "bundle_identifiers": [
                                             "^com\\.microsoft\\.Excel$",
+                                            "^com\\.microsoft\\.Outlook$",
                                             "^com\\.microsoft\\.Powerpoint$",
                                             "^com\\.microsoft\\.Word$"
                                         ],
@@ -828,6 +829,7 @@
                                     {
                                         "bundle_identifiers": [
                                             "^com\\.microsoft\\.Excel$",
+                                            "^com\\.microsoft\\.Outlook$",
                                             "^com\\.microsoft\\.Powerpoint$",
                                             "^com\\.microsoft\\.Word$"
                                         ],
@@ -849,6 +851,44 @@
                                 "to": [
                                     {
                                         "key_code": "end"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "conditions": [
+                                    {
+                                        "bundle_identifiers": [
+                                            "^com\\.microsoft\\.Excel$",
+                                            "^com\\.microsoft\\.Outlook$",
+                                            "^com\\.microsoft\\.Powerpoint$",
+                                            "^com\\.microsoft\\.Word$"
+                                        ],
+                                        "type": "frontmost_application_if"
+                                    }
+                                ],
+                                "from": {
+                                    "key_code": "k",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "control"
+                                        ],
+                                        "optional": [
+                                            "caps_lock",
+                                            "shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "end",
+                                        "modifiers": [
+                                            "shift"
+                                        ]
+                                    },
+                                    {
+                                        "key_code": "delete_or_backspace",
+                                        "repeat": false
                                     }
                                 ],
                                 "type": "basic"
