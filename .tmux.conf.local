@@ -325,22 +325,37 @@ bind ]      paste-buffer -p
 bind y      paste-buffer -p
 bind C-y    paste-buffer -p
 
-# use / to split window instead of "describe key binding"
-# / resembles the default (%) and is below the other default split window key (")
-# "list key bindings" (?) eliminates the need for "describe key binding"
+# Splits
+# use / (Describe key binding) as % (Split the current pane into two, left and right)
+# ? (List all key bindings) eliminates the need for / (Describe key binding)
+# / resembles % and is below " (Split the current pane into two, top and bottom)
+# use ' as " (Split the current pane into two, top and bottom)
+# use " as ' (Prompt for a window index to select)
+# https://man7.org/linux/man-pages/man1/tmux.1.html#DEFAULT_KEY_BINDINGS
+# C-/ does not work, but C-' does
 bind /      split-window -h
+bind \'     split-window -v
+bind C-\'   split-window -v
+bind \"     command-prompt -p index "select-window -t ':%%'"
 
-# pane navigation (without repeat)
-bind h      select-pane -L  # move left
-bind j      select-pane -D  # move down
-bind k      select-pane -U  # move up
-bind l      select-pane -R  # move right
-bind C-h    select-pane -L  # move left
-bind C-j    select-pane -D  # move down
-bind C-k    select-pane -U  # move up
-bind C-l    select-pane -R  # move right
+# Sessions
+# use N instead of ) to go to next session in alphabetical order
+# use O instead of L to go back to other (last) session
+# use P instead of ) to go to previous session in alphabetical order
+bind N      switch-client -n
+bind O      switch-client -l
+bind P      switch-client -p
+
+# Pane navigation (with repeat)
+bind -r h   select-pane -L  # move left
+bind -r j   select-pane -D  # move down
+bind -r k   select-pane -U  # move up
+bind -r l   select-pane -R  # move right
+bind -r C-h select-pane -L  # move left
+bind -r C-j select-pane -D  # move down
+bind -r C-k select-pane -U  # move up
+bind -r C-l select-pane -R  # move right
 # the default for l is last-window
-# omt uses c-l is next-window
 
 # Add ctrl to default keybindings that do not use shift
 # ctrl 2-8 send codes        
