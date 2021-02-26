@@ -1,4 +1,5 @@
 tap "clementtsang/bottom"
+tap "eth-p/software"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
@@ -31,6 +32,10 @@ brew "gh"
 brew "git"
 # Syntax-highlighting pager for git and diff output
 brew "git-delta"
+# User-friendly cURL replacement (command-line HTTP client)
+brew "httpie"
+# Collection of tools that nobody wrote when UNIX was young
+brew "moreutils"
 # Ambitious Vim-fork focused on extensibility and agility
 brew "neovim"
 # Platform built on V8 to build network applications
@@ -65,6 +70,8 @@ brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 # A cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
 brew "clementtsang/bottom/bottom"
+# Bash scripts that integrate bat with various command-line tools
+brew "eth-p/software/bat-extras"
 # A Zsh Theme
 brew "romkatv/powerlevel10k/powerlevel10k"
 # Application launcher and productivity software
