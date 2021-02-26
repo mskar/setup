@@ -40,7 +40,7 @@ curl -fLo ~/Fira\ Code\ Light\ Nerd\ Font\ Complete.ttf https://github.com/ryano
 defaults write -g KeyRepeat -int 1
 
 #### Delay Until Repeat: Short
-defaults write -g InitialKeyRepeat -int 10
+defaults write -g InitialKeyRepeat -int 20
 
 #### Repeatedly engage a key when held (no need to press multiple times)
 defaults write -g ApplePressAndHoldEnabled -bool false
@@ -160,6 +160,8 @@ curl https://raw.githubusercontent.com/mskar/setup/main/undead.layout -o ~/Libra
 # 3: Brew - commandline package manager
 ## Install Homebrew (this also installs xcode tools needed for git)
 sudo echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+git config --global user.email 13444106+mskar@users.noreply.github.com
 
 curl https://raw.githubusercontent.com/mskar/setup/main/Brewfile -o ~/.Brewfile
 
