@@ -274,6 +274,9 @@ tmux_conf_copy_to_os_clipboard=true
 # -- user customizations -------------------------------------------------------
 # this is the place to override or undo settings
 
+# show pane numbers for two seconds to make it easier to select a pane
+set -g display-panes-time 2000
+
 # increase history size
 set -g history-limit 10000
 
@@ -346,6 +349,11 @@ bind N      switch-client -n
 bind O      switch-client -l
 bind P      switch-client -p
 
+# Buffers
+# Use b as = (Choose which buffer to paste...)
+bind b      choose-buffer
+bind C-b    choose-buffer
+
 # Pane navigation (with repeat)
 bind -r h   select-pane -L  # move left
 bind -r j   select-pane -D  # move down
@@ -369,7 +377,7 @@ bind C-b    list-buffers
 bind C-c    new-window
 bind C-d    detach-client
 bind C-f    command-prompt "find-window '%%'"
-bind C-i    display-message
+# c-i is the same as tab
 # c-o rotates panes
 bind C-r    source-file ~/.tmux.conf \; display '~/.tmux.conf sourced'
 bind C-s    choose-session
