@@ -325,8 +325,10 @@ bind ]      paste-buffer -p
 bind y      paste-buffer -p
 bind C-y    paste-buffer -p
 
-# like -, split window with \ or |
-bind \\     split-window -h
+# use / to split window instead of "describe key binding"
+# / resembles the default (%) and is below the other default split window key (")
+# "list key bindings" (?) eliminates the need for "describe key binding"
+bind /      split-window -h
 
 # pane navigation (without repeat)
 bind h      select-pane -L  # move left
