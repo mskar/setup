@@ -316,11 +316,20 @@ bind X      kill-pane
 # hide current pane with prefix x, to kill a pane use ctrl-d or run exit in empty terminal
 bind x      select-pane -t :.+ \; resize-pane -Z
 
+# Windows
 # rebind n and p (n was unbound and p was bound to paste)
+# overwrite o (Select the next pane in the current window)
+# use r and C-r as C-o (rotate-window)
+# use o and C-o instead of l (last window)
+# use tmux-continuum's I to reload config
 bind -r n   next-window
-bind -r p   previous-window
 bind -r C-n next-window
+bind -r o   last-window
+bind -r C-o last-window
+bind -r p   previous-window
 bind -r C-p previous-window
+bind -r r   rotate-window
+bind -r C-r rotate-window
 
 # use bracketed-paste (-p option)
 # https://cirw.in/blog/bracketed-paste
@@ -342,19 +351,30 @@ bind C-\'   split-window -v
 bind \"     command-prompt -p index "select-window -t ':%%'"
 
 # Sessions
-# use N instead of ) to go to next session in alphabetical order
-# use O instead of L to go back to other (last) session
-# use P instead of ) to go to previous session in alphabetical order
+# use N as ) (go to next session in alphabetical order)
+# use O as L (go back to other (last) session)
+# use P as ( (go to previous session in alphabetical order)
 bind N      switch-client -n
 bind O      switch-client -l
 bind P      switch-client -p
 
-# Buffers
+# Choose
 # Use b as = (Choose which buffer to paste...)
+# Override t (clock-mode)
 bind b      choose-buffer
 bind C-b    choose-buffer
+bind s      choose-session
+bind C-s    choose-session
+bind t      choose-tree
+bind C-t    choose-tree
+bind w      choose-window
+bind C-w    choose-window
 
 # Pane navigation (with repeat)
+# e stands for earlier pane
+# ; moves across panes like ; in vim after f or t
+bind -r e   last-pane
+bind -r \;  select-pane -t :.+
 bind -r h   select-pane -L  # move left
 bind -r j   select-pane -D  # move down
 bind -r k   select-pane -U  # move up
@@ -373,18 +393,14 @@ bind `      last-window
 bind 0      last-window
 bind 1      select-window -t:^
 bind 9      select-window -t:$
-bind C-b    list-buffers
 bind C-c    new-window
 bind C-d    detach-client
 bind C-f    command-prompt "find-window '%%'"
-# c-i is the same as tab
-# c-o rotates panes
-bind C-r    source-file ~/.tmux.conf \; display '~/.tmux.conf sourced'
-bind C-s    choose-session
-bind C-t    clock-mode
-bind C-w    choose-window
+bind C-i    display-message # c-i is the same as tab
+bind C-q    display-panes
 bind C-x    confirm-before -p "kill-pane #P? (y/n)" kill-pane
 # c-z suspends tmux
+# https://gist.github.com/mzmonsour/8791835
 bind M-1    select-layout even-horizontal
 bind M-2    select-layout even-vertical
 bind M-3    select-layout main-horizontal
@@ -409,6 +425,13 @@ set -g @resurrect-capture-pane-contents 'on'
 
 # https://github.com/tmux-plugins/tmux-continuum
 set -g @continuum-restore 'on'
+# https://github.com/tmux-plugins/tmux-continuum/blob/master/docs/automatic_start.md
+set -g @continuum-boot 'on'
+set -g @continuum-boot-options 'iterm,fullscreen'
+
+# https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/custom_key_bindings.md
+set -g @resurrect-save 'S'
+set -g @resurrect-restore 'R'
 
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
