@@ -310,102 +310,107 @@ bind -r M-j resize-pane -D 10
 bind -r M-h resize-pane -L 10
 bind -r M-l resize-pane -R 10
 
-# https://unix.stackexchange.com/questions/30270/tmux-disable-confirmation-prompt-on-kill-window
-bind X      kill-pane
+# Change default keybindings
+# https://man7.org/linux/man-pages/man1/tmux.1.html#DEFAULT_KEY_BINDINGS
+# https://gist.github.com/mzmonsour/8791835
 
-# hide current pane with prefix x, to kill a pane use ctrl-d or run exit in empty terminal
-bind x      select-pane -t :.+ \; resize-pane -Z
+# Tmux panes are like Vim windows
+# Resize panes like in Vim
+# https://jdhao.github.io/2018/09/30/tmux_settings_for_vim_users
+bind -r +    resize-pane -U 10                                 # *CTRL-W_+*
+bind -r -    resize-pane -D 10                                 # *CTRL-W_-*
+bind -r <    resize-pane -L 10                                 # *CTRL-W_<*
+bind -r >    resize-pane -R 10                                 # *CTRL-W_>*
+bind -r C    select-pane -t :.- \; resize-pane -Z              # *CTRL-W_c* *:clo* *:close*
+bind -r C-c  select-pane -t :.+ \; resize-pane -Z              # *CTRL-W_c* *:clo* *:close*
+bind -r C-o  resize-pane -Z                                    # *CTRL-W_o* *CTRL-W_CTRL-O* *:on* *:only*
+bind -r C-p  last-pane                                         # **CTRL-W_p* *CTRL-W_CTRL-P*
+bind -r C-r  rotate-window                                     # *CTRL-W_r* *CTRL-W_CTRL-R*
+bind -r C-s  split-window -v                                   # *CTRL-W_s* *CTRL-W_CTRL-S* *:sp* *:split*
+bind -r C-v  split-window -h                                   # *CTRL-W_v* *CTRL-W_CTRL-V* *:vs* *:vsplit*
+bind -r C-w  select-pane -t :.+                                # *CTRL-W_w* *CTRL-W_CTRL-W*
+bind -r C-x  swap-pane -U                                      # *CTRL-W_x* *CTRL-W_CTRL-X*
+bind -r Q    kill-pane                                         # *CTRL-W_q* *CTRL-W_CTRL-Q*
+bind -r R    rotate-window -U                                  # *CTRL-W_R*
+bind -r W    select-pane -t :.-                                # *CTRL-W_W*
+bind -r X    swap-pane -D                                      # Vim doesn't have exchange in reverse
+bind -r c    select-pane -t :.+ \; resize-pane -Z              # *CTRL-W_c* *:clo* *:close*
+bind -r o    resize-pane -Z                                    # *CTRL-W_o* *CTRL-W_CTRL-O* *:on* *:only*
+bind -r p    last-pane                                         # *CTRL-W_p* *CTRL-W_CTRL-P*
+bind -r q    confirm-before -p "Kill pane #P? (y/n)" kill-pane # *CTRL-W_q* *CTRL-W_CTRL-Q*
+bind -r r    rotate-window                                     # *CTRL-W_r* *CTRL-W_CTRL-R*
+bind -r s    split-window -v                                   # *CTRL-W_s* *CTRL-W_CTRL-S* *:sp* *:split*
+bind -r v    split-window -h                                   # *CTRL-W_v* *CTRL-W_CTRL-V* *:vs* *:vsplit*
+bind -r w    select-pane -t :.+                                # *CTRL-W_w* *CTRL-W_CTRL-W*
+bind -r x    swap-pane -U                                      # *CTRL-W_x* *CTRL-W_CTRL-X*
+bind =       select-layout -E                                  # *CTRL-W_=*
+bind C-b     select-pane -t:.-1                                # *CTRL-W_b* *CTRL-W_CTRL-B*
+bind C-e     select-layout -E                                  # *CTRL-W_=*
+bind C-h     select-pane -L                                    # *CTRL-W_<Left>* *CTRL-W_CTRL-H* *CTRL-W_h*
+bind C-j     select-pane -D                                    # *CTRL-W_<Down>* *CTRL-W_CTRL-J* *CTRL-W_j*
+bind C-k     select-pane -U                                    # *CTRL-W_<Up>* *CTRL-W_CTRL-K* *CTRL-W_k*
+bind C-l     select-pane -R                                    # *CTRL-W_<Right>* *CTRL-W_CTRL-L* *CTRL-W_l*
+bind C-t     select-pane -t:.1                                 # *CTRL-W_t* *CTRL-W_CTRL-T*
+bind b       select-pane -t:.-1                                # *CTRL-W_b* *CTRL-W_CTRL-B*
+bind e       select-layout -E                                  # *CTRL-W_=*
+bind h       select-pane -L                                    # *CTRL-W_<Left>* *CTRL-W_CTRL-H* *CTRL-W_h*
+bind j       select-pane -D                                    # *CTRL-W_<Down>* *CTRL-W_CTRL-J* *CTRL-W_j*
+bind k       select-pane -U                                    # *CTRL-W_<Up>* *CTRL-W_CTRL-K* *CTRL-W_k*
+bind l       select-pane -R                                    # *CTRL-W_<Right>* *CTRL-W_CTRL-L* *CTRL-W_l*
+bind t       select-pane -t:.1                                 # *CTRL-W_t* *CTRL-W_CTRL-T*
 
-# Windows
-# rebind n and p (n was unbound and p was bound to paste)
-# overwrite o (Select the next pane in the current window)
-# use r and C-r as C-o (rotate-window)
-# use o and C-o instead of l (last window)
-# use tmux-continuum's I to reload config
-bind -r n   next-window
-bind -r C-n next-window
-bind -r o   last-window
-bind -r C-o last-window
-bind -r p   previous-window
-bind -r C-p previous-window
-bind -r r   rotate-window
-bind -r C-r rotate-window
+# unbound
+# m, u
 
+# Info
+bind C-Enter display-panes                                     # Vim does not display window numbers
+bind C-g     display-message                                   # *CTRL-G* *:f* *:fi* *:file*
+bind Enter   display-panes                                     # Vim does not display window numbers
+bind g       display-message                                   # *CTRL-G* *:f* *:fi* *:file*
+
+# Tmux windows are like Vim tabs
+bind -r C-i  last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
+bind -r C-n  next-window                                       # *:tabn* *:tabnext* *gt*
+bind -r N    previous-window                                   # *:tabp* *:tabprevious* *gT* *:tabN*
+bind -r i    last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
+bind -r n    next-window                                       # *:tabn* *:tabnext* *gt*
+bind 0       select-window -t:^                                # *:tabfir* *:tabfirst* *:tabr* *:tabrewind*
+bind 1       select-window -t:1                                # *:tabfir* *:tabfirst* *:tabr* *:tabrewind*
+bind 2       select-window -t:2
+bind 3       select-window -t:3
+bind 4       select-window -t:4
+bind 5       select-window -t:5
+bind 6       select-window -t:6
+bind 7       select-window -t:7
+bind 8       select-window -t:8
+bind 9       select-window -t:$                                # *:tabl* *:tablast*
+bind T       break-pane                                        # *CTRL-W_T*
+
+# Sessions
+bind -r ,   switch-client -p
+bind -r L   switch-client -l
+bind -r \;  switch-client -n
+bind C-a    choose-session
+bind a      choose-session
+bind C-d    detach-client
+
+# Tmux buffers are like Vim registers
 # use bracketed-paste (-p option)
 # https://cirw.in/blog/bracketed-paste
 bind ]      paste-buffer -p
-bind y      paste-buffer -p
-bind C-y    paste-buffer -p
-
-# Splits
-# use / (Describe key binding) as % (Split the current pane into two, left and right)
-# ? (List all key bindings) eliminates the need for / (Describe key binding)
-# / resembles % and is below " (Split the current pane into two, top and bottom)
-# use ' as " (Split the current pane into two, top and bottom)
-# use " as ' (Prompt for a window index to select)
-# https://man7.org/linux/man-pages/man1/tmux.1.html#DEFAULT_KEY_BINDINGS
-# C-/ does not work, but C-' does
-bind /      split-window -h
-bind \'     split-window -v
-bind C-\'   split-window -v
-bind \"     command-prompt -p index "select-window -t ':%%'"
-
-# Sessions
-# use N as ) (go to next session in alphabetical order)
-# use O as L (go back to other (last) session)
-# use P as ( (go to previous session in alphabetical order)
-bind N      switch-client -n
-bind O      switch-client -l
-bind P      switch-client -p
-
-# Choose
-# Use b as = (Choose which buffer to paste...)
-# Override t (clock-mode)
-bind b      choose-buffer
-bind C-b    choose-buffer
-bind s      choose-session
-bind C-s    choose-session
-bind t      choose-tree
-bind C-t    choose-tree
-bind w      choose-window
-bind C-w    choose-window
-
-# Pane navigation (with repeat)
-# e stands for earlier pane
-# ; moves across panes like ; in vim after f or t
-bind -r e   last-pane
-bind -r \;  select-pane -t :.+
-bind -r h   select-pane -L  # move left
-bind -r j   select-pane -D  # move down
-bind -r k   select-pane -U  # move up
-bind -r l   select-pane -R  # move right
-bind -r C-h select-pane -L  # move left
-bind -r C-j select-pane -D  # move down
-bind -r C-k select-pane -U  # move up
-bind -r C-l select-pane -R  # move right
-# the default for l is last-window
+bind C-y    choose-buffer
 
 # Add ctrl to default keybindings that do not use shift
 # ctrl 2-8 send codes        
 # ctrl / sends codes 
 # ctrl is ignored with - ; = . [ ] , \ ' space enter 1 9 and comma
-bind `      last-window
-bind 0      last-window
-bind 1      select-window -t:^
-bind 9      select-window -t:$
-bind C-c    new-window
-bind C-d    detach-client
-bind C-f    command-prompt "find-window '%%'"
-bind C-i    display-message # c-i is the same as tab
-bind C-q    display-panes
-bind C-x    confirm-before -p "kill-pane #P? (y/n)" kill-pane
 # c-z suspends tmux
-# https://gist.github.com/mzmonsour/8791835
 bind M-1    select-layout even-horizontal
 bind M-2    select-layout even-vertical
 bind M-3    select-layout main-horizontal
 bind M-4    select-layout main-vertical
 bind M-5    select-layout tiled
+bind M-l    select-layout -l
 bind M-n    next-window -a
 bind M-o    rotate-window -D
 bind M-p    previous-window -a
@@ -431,7 +436,9 @@ set -g @continuum-boot-options 'iterm,fullscreen'
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/custom_key_bindings.md
 set -g @resurrect-save 'S'
-set -g @resurrect-restore 'R'
+set -g @resurrect-restore 'B'
 
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
+unbind y
+bind y      choose-buffer
