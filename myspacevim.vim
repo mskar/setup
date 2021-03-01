@@ -66,6 +66,19 @@ function! myspacevim#before() abort
     set <A-.>=.
   endif
 
+  " Window bindings
+  " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
+  " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
+  " https://vi.stackexchange.com/questions/241/undo-only-window
+  nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR>:file<CR>
+  nnoremap <C-w>c :mksession! ~/session.vim<CR>:wincmd c<CR>:file<CR>
+  nnoremap <C-w>q :mksession! ~/session.vim<CR>:wincmd q<CR>:file<CR>
+  " https://vi.stackexchange.com/questions/241/undo-only-window
+  nnoremap <C-w>u :silent :source ~/session.vim<CR>
+
+  " e is easier to reach than = and is unbound
+  nnoremap <C-w>e <C-w>=
+
   inoremap <C-a> <Home>
   cnoremap <C-a> <Home>
   " <C-b> = Move one character backward; the opposite of <C-f>

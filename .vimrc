@@ -736,8 +736,12 @@ nnoremap <C-i> <C-i>:file<CR>
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR>:file<CR>
 nnoremap <C-w>c :mksession! ~/session.vim<CR>:wincmd c<CR>:file<CR>
+nnoremap <C-w>q :mksession! ~/session.vim<CR>:wincmd q<CR>:file<CR>
 " https://vi.stackexchange.com/questions/241/undo-only-window
 nnoremap <C-w>u :silent :source ~/session.vim<CR>
+
+" e is easier to reach than = and is unbound
+nnoremap <C-w>e <C-w>=
 
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf
