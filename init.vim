@@ -584,7 +584,6 @@ inoremap <C-/> <C-o>u
 " <C-=> = Redo; opposite of <C-_>
 inoremap <C-=> <C-o><C-r>
 " Vimacs
-cnoremap <C-r> <CR><C-o>?<Up>
 imap <C-@> <C-Space>
 inoremap <C-<> <C-o>:call <SID>StartMarkSel()<CR><C-o>v1G0o
 inoremap <C->> <C-o>:call <SID>StartMarkSel()<CR><C-o>vG$o
@@ -825,7 +824,7 @@ nmap <leader>qf  <Plug>(coc-fix-current)
 " Show all diagnostics.
 " nnoremap <silent><nowait> <leader>a  :<C-u>CocList diagnostics<cr>
 " Manage extensions.
-nnoremap <silent><nowait> <leader>e  :<C-u>CocList extensions<cr>
+" nnoremap <silent><nowait> <leader>e  :<C-u>CocList extensions<cr>
 " Find symbol of current document.
 nnoremap <silent><nowait> <leader>o  :<C-u>CocList outline<cr>
 " Search workspace symbols.
