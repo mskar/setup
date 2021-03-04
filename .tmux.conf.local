@@ -343,7 +343,6 @@ bind -r s    split-window -v                                   # *CTRL-W_s* *CTR
 bind -r v    split-window -h                                   # *CTRL-W_v* *CTRL-W_CTRL-V* *:vs* *:vsplit*
 bind -r w    select-pane -t :.+                                # *CTRL-W_w* *CTRL-W_CTRL-W*
 bind -r x    swap-pane -D                                      # *CTRL-W_x* *CTRL-W_CTRL-X*
-bind =       select-layout -E                                  # *CTRL-W_=*
 bind C-b     select-pane -t:.-1                                # *CTRL-W_b* *CTRL-W_CTRL-B*
 bind C-e     select-layout -E                                  # *CTRL-W_=*
 bind C-h     select-pane -L                                    # *CTRL-W_<Left>* *CTRL-W_CTRL-H* *CTRL-W_h*
