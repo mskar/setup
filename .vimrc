@@ -610,7 +610,7 @@ inoremap <M-Space> <C-o>:call <SID>StartMarkSel()<CR><C-o>viw
 inoremap <M-\> <Esc>beldwi
 inoremap <M-^> <Up><End><C-o>J
 inoremap <M-`> <C-o>
-inoremap <M-h> <C-o>:call <SID>StartMarkSel()<CR><C-o>vap
+inoremap <M-h> <C-o>:call <SID>StartMarkSel()<CR><C-o>vapo
 inoremap <M-k> <C-o>d)
 inoremap <M-m> <C-o>^
 inoremap <M-n> <C-o>:cnext<CR>
@@ -624,6 +624,7 @@ inoremap <M-z> <C-o>dt
 inoremap <silent> <M-g> <C-o>:call <SID>GotoLine()<CR>
 inoremap <silent> <M-q> <C-o>:call <SID>FillParagraph()<CR>
 vnoremap <M-!> !
+vnoremap <M-h> o}o
 vnoremap <M-w> "1y
 vnoremap <M-x> :
 
