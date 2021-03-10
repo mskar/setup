@@ -71,10 +71,10 @@ function! myspacevim#before() abort
   " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
   " https://vi.stackexchange.com/questions/241/undo-only-window
   function! Zoom()
-    if winnr() != winnr('$')
-      mksession! ~/session.vim | wincmd o
+    if winbufnr(2) == -1 " https://stackoverflow.com/a/7070691
+      wa | source ~/session.vim
     else
-      source ~/session.vim
+      mksession! ~/session.vim | wincmd o
     endif
   endfunction
 

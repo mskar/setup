@@ -732,13 +732,13 @@ nnoremap <C-i> <C-i>:file<CR>
 " Run :file everytime I switch windows (not needed in nvim)
 
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
-" To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
+" To recover R console after pressing <C-w>c / <C-w>o/<C-w>q
 " https://vi.stackexchange.com/questions/241/undo-only-window
 function! Zoom()
-  if winnr() != winnr('$')
-    mksession! ~/session.vim | wincmd o
+  if winbufnr(2) == -1 " https://stackoverflow.com/a/7070691
+    wa | source ~/session.vim
   else
-    source ~/session.vim
+    mksession! ~/session.vim | wincmd o
   endif
 endfunction
 
