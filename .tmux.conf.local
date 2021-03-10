@@ -323,6 +323,10 @@ bind -r <    resize-pane -L 10                                 # *CTRL-W_<*
 bind -r >    resize-pane -R 10                                 # *CTRL-W_>*
 bind -r C    select-pane -t :.- \; resize-pane -Z              # *CTRL-W_c* *:clo* *:close*
 bind -r C-c  select-pane -t :.+ \; resize-pane -Z              # *CTRL-W_c* *:clo* *:close*
+bind -r C-h  select-pane -L                                    # *CTRL-W_<Left>* *CTRL-W_CTRL-H* *CTRL-W_h*
+bind -r C-j  select-pane -D                                    # *CTRL-W_<Down>* *CTRL-W_CTRL-J* *CTRL-W_j*
+bind -r C-k  select-pane -U                                    # *CTRL-W_<Up>* *CTRL-W_CTRL-K* *CTRL-W_k*
+bind -r C-l  select-pane -R                                    # *CTRL-W_<Right>* *CTRL-W_CTRL-L* *CTRL-W_l*
 bind -r C-o  resize-pane -Z                                    # *CTRL-W_o* *CTRL-W_CTRL-O* *:on* *:only*
 bind -r C-p  last-pane                                         # *CTRL-W_p* *CTRL-W_CTRL-P*
 bind -r C-r  rotate-window                                     # *CTRL-W_r* *CTRL-W_CTRL-R*
@@ -335,6 +339,11 @@ bind -r R    rotate-window -U                                  # *CTRL-W_R*
 bind -r W    select-pane -t :.-                                # *CTRL-W_W*
 bind -r X    swap-pane -U                                      # Vim doesn't have exchange in reverse
 bind -r c    select-pane -t :.+ \; resize-pane -Z              # *CTRL-W_c* *:clo* *:close*
+bind -r h    select-pane -L                                    # *CTRL-W_<Left>* *CTRL-W_CTRL-H* *CTRL-W_h*
+bind -r j    select-pane -D                                    # *CTRL-W_<Down>* *CTRL-W_CTRL-J* *CTRL-W_j*
+bind -r k    select-pane -U                                    # *CTRL-W_<Up>* *CTRL-W_CTRL-K* *CTRL-W_k*
+bind -r l    select-pane -R                                    # *CTRL-W_<Right>* *CTRL-W_CTRL-L* *CTRL-W_l*
+bind -r n    split-window -v \; swap-pane -D                   # *CTRL-W_n*	*CTRL-W_CTRL-N* *:new*
 bind -r o    resize-pane -Z                                    # *CTRL-W_o* *CTRL-W_CTRL-O* *:on* *:only*
 bind -r p    last-pane                                         # *CTRL-W_p* *CTRL-W_CTRL-P*
 bind -r q    confirm-before -p "Kill pane #P? (y/n)" kill-pane # *CTRL-W_q* *CTRL-W_CTRL-Q*
@@ -345,20 +354,17 @@ bind -r w    select-pane -t :.+                                # *CTRL-W_w* *CTR
 bind -r x    swap-pane -D                                      # *CTRL-W_x* *CTRL-W_CTRL-X*
 bind C-b     select-pane -t:.-1                                # *CTRL-W_b* *CTRL-W_CTRL-B*
 bind C-e     select-layout -E                                  # *CTRL-W_=*
-bind C-h     select-pane -L                                    # *CTRL-W_<Left>* *CTRL-W_CTRL-H* *CTRL-W_h*
-bind C-j     select-pane -D                                    # *CTRL-W_<Down>* *CTRL-W_CTRL-J* *CTRL-W_j*
-bind C-k     select-pane -U                                    # *CTRL-W_<Up>* *CTRL-W_CTRL-K* *CTRL-W_k*
-bind C-l     select-pane -R                                    # *CTRL-W_<Right>* *CTRL-W_CTRL-L* *CTRL-W_l*
 bind C-m     select-pane -m                                    # *m* *:ma* *:mark* *:k*
 bind C-t     select-pane -t:.1                                 # *CTRL-W_t* *CTRL-W_CTRL-T*
 bind b       select-pane -t:.-1                                # *CTRL-W_b* *CTRL-W_CTRL-B*
 bind e       select-layout -E                                  # *CTRL-W_=*
-bind h       select-pane -L                                    # *CTRL-W_<Left>* *CTRL-W_CTRL-H* *CTRL-W_h*
-bind j       select-pane -D                                    # *CTRL-W_<Down>* *CTRL-W_CTRL-J* *CTRL-W_j*
-bind k       select-pane -U                                    # *CTRL-W_<Up>* *CTRL-W_CTRL-K* *CTRL-W_k*
-bind l       select-pane -R                                    # *CTRL-W_<Right>* *CTRL-W_CTRL-L* *CTRL-W_l*
 bind m       select-pane -m                                    # *m* *:ma* *:mark* *:k*
 bind t       select-pane -t:.1                                 # *CTRL-W_t* *CTRL-W_CTRL-T*
+
+# Unbind defaults that do not match vim to avoid muscle memory conflicts
+unbind f                                                       # use M-f instead of f
+unbind i                                                       # use g instead of i
+unbind z                                                       # use o instead of z
 
 # Info
 bind C-Enter display-panes                                     # Vim does not display window numbers
@@ -367,12 +373,15 @@ bind Enter   display-panes                                     # Vim does not di
 bind g       display-message                                   # *CTRL-G* *:f* *:fi* *:file*
 
 # Tmux windows are like Vim tabs
-bind -r C-i  last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
-bind -r C-n  next-window                                       # *:tabn* *:tabnext* *gt*
-bind -r N    previous-window                                   # *:tabp* *:tabprevious* *gT* *:tabN*
+bind -r M-c  kill-window                                       # *:tabc* *:tabclose*
+bind -r M-e  new-window                                        # *:tabe* *:tabedit* *:tabnew*
+bind -r M-f  command-prompt "find-window '%%'"                 # *:tabf* *:tabfind*
+bind -r M-m  command-prompt "move-window -t '%%'"              # *:tabm* *:tabmove*
+bind -r M-n  next-window                                       # *:tabn* *:tabnext* *gt*
+bind -r M-o  kill-window -a                                    # *:tabo* *:tabonly*
+bind -r M-p  previous-window                                   # *:tabp* *:tabprevious* *gT* *:tabN*
+bind -r M-s  choose-window                                     # *:tabs*
 bind -r Tab  last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
-bind -r i    last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
-bind -r n    next-window                                       # *:tabn* *:tabnext* *gt*
 bind 0       select-window -t:^                                # *:tabfir* *:tabfirst* *:tabr* *:tabrewind*
 bind 1       select-window -t:1
 bind 2       select-window -t:2
@@ -387,24 +396,19 @@ bind T       break-pane                                        # *CTRL-W_T*
 
 # Sessions
 bind -r (    switch-client -p
-bind -r L    switch-client -l
+bind -r L    switch-client -l                                  # mnemonic: last
 bind -r )    switch-client -n
-bind C-a     choose-session                                     # mnemonic: all sessions
-bind C-d     detach-client
-bind C-u     choose-tree                                        # mnemonic: unfold all sessions
-bind a       choose-session                                     # mnemonic: all sessions
-bind d       detach-client
-bind u       choose-tree                                        # mnemonic: unfold all sessions
+bind C-a     choose-session                                    # mnemonic: attach
+bind C-d     detach-client                                     # mnemonic: detach
+bind a       choose-session                                    # mnemonic: attach
+bind d       detach-client                                     # mnemonic: detach
 
 # Tmux buffers are like Vim registers
 # use bracketed-paste (-p option)
 # https://cirw.in/blog/bracketed-paste
 bind C-y     choose-buffer
 bind ]       paste-buffer -p
-bind y       choose-buffer                                      # I have no idea why y is not working
-
-# Add ctrl to default keybindings that do not use shift
-bind C-f     command-prompt "find-window '%%'"
+bind y       choose-buffer                                     # I have no idea why y is not working
 
 # ctrl 2-8 send codes        
 # ctrl / sends codes 
@@ -415,10 +419,6 @@ bind M-2     select-layout even-vertical
 bind M-3     select-layout main-horizontal
 bind M-4     select-layout main-vertical
 bind M-5     select-layout tiled
-bind M-l     select-layout -l
-bind M-n     next-window -a
-bind M-o     rotate-window -D
-bind M-p     previous-window -a
 
 # List of plugins
 set -g @plugin 'tmux-plugins/tpm'
