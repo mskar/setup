@@ -70,7 +70,15 @@ function! myspacevim#before() abort
   " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
   " To recover R console after pressing <C-w>o (window only), press <C-w>u (window undo)
   " https://vi.stackexchange.com/questions/241/undo-only-window
-  nnoremap <C-w>o :mksession! ~/session.vim<CR>:wincmd o<CR>:file<CR>
+  function! Zoom()
+    if winnr() != winnr('$')
+      mksession! ~/session.vim | wincmd o
+    else
+      source ~/session.vim
+    endif
+  endfunction
+
+  nnoremap <C-w>o :call Zoom()<CR>
   nnoremap <C-w>c :mksession! ~/session.vim<CR>:wincmd c<CR>:file<CR>
   nnoremap <C-w>q :mksession! ~/session.vim<CR>:wincmd q<CR>:file<CR>
   " https://vi.stackexchange.com/questions/241/undo-only-window
