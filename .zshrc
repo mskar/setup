@@ -3,6 +3,7 @@
 # https://github.com/junegunn/fzf#respecting-gitignore
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+export PATH=/usr/local/bin:$PATH
 export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
 export MANPAGER="nvim -c 'set ft=man' -"
@@ -514,6 +515,7 @@ alias rhs2="git reset --soft HEAD~2"
 alias rhs3="git reset --soft HEAD~3"
 alias rhs="git reset --soft"
 alias rhsn="func() { git reset --soft $(echo 'HEAD~${1:-0} ${@:2}'); }; func"
+alias ri="func() { for pkg in $(echo '$@'); do; $(echo 'Rscript -e "install.packages(\"${pkg}\", repos=\"https://cran.rstudio.com\")"'); done; }; func"
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func"
 alias rp="git restore --patch"
 alias rr="func() { local files=$(echo '$(git diff HEAD --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | delta | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --staged --worktree --; }; func"
