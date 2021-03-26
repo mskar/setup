@@ -141,7 +141,7 @@ alias buo="brew upgrade $(echo '$(brew outdated --formula | cut -f1 | tr "\n" " 
 alias buco="brew upgrade --cask $(echo '$(brew outdated --cask | cut -f1 | tr "\n" " ")')"
 alias bx="brew uninstall"
 alias bxc="brew uninstall --cask"
-alias c="func() { git clone $(echo '$1 ${${1#*.*[:/]}%.*}') && cd $(echo '${${1#*.*[:/]}%.*}'); }; func" # clone and cd into repo (${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
+alias c="func() { local directory=$(echo '${2:-${${1#*.*[:/]}%.*}}') && git clone $(echo '$1 $directory') && cd $(echo '$directory'); }; func" # clone and cd into repo then create or switch to or attach tmux session, ${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
 alias ca="conda activate"
 alias caa="git commit --all --amend --reset-author"
 alias caam="func() { git commit --all --amend --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" --reset-author; }; func"
@@ -586,6 +586,7 @@ alias sz="source ~/.zshrc"
 alias t="tldr"
 alias ta="tmux attach"
 alias tat="tmux attach -t"
+alias tc="func() { local directory=$(echo '${2:-${${1#*.*[:/]}%.*}}') && local session=$(echo '${3:-${directory##*/}}') && git clone $(echo '$1 $directory') && cd $(echo '$directory') && tmux new -ds $(echo '$session') -c $(echo '$directory'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func" # clone and cd into repo then create or switch to or attach tmux session, ${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
 alias ti="tmux info"
 alias tj="func() { local directory=$(echo '$(fd --color=always --type d ^ $@ | fzf --ansi --no-multi)') && local session=$(echo '${directory##*/}') && [ $(echo '$directory') ] && [ -d $(echo '$directory') ] && [ $(echo '$session') ] && tmux new -ds $(echo '$session') -c $(echo '$directory'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func"
 alias tjj="func() { local directory=$(echo '$(fasd -Rdl | fzf --delimiter=/ --no-multi --with-nth=4..)') && local session=$(echo '${1:-${directory##*/}}') && [ $(echo '$directory') ] && [ -d $(echo '$directory') ] && [ $(echo '$session') ] && tmux new -ds $(echo '$session') -c $(echo '$directory'); tmux attach -t $(echo '$session') || tmux switch -t $(echo '$session'); }; func"
