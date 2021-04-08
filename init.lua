@@ -67,7 +67,7 @@ spoon.MiroWindowsManager:bindHotkeys({
   right = {shift_alt, "]"},
   down = {shift_alt, "-"},
   left = {shift_alt, "["},
-  fullscreen = {shift_alt, "m"}
+  fullscreen = {shift_alt, "return"}
 })
 
 -- https://stackoverflow.com/questions/54151343/how-to-move-an-application-between-monitors-in-hammerspoon
@@ -80,6 +80,11 @@ end)
 hs.hotkey.bind(shift_alt, 'g', function()
     hs.application.launchOrFocus('Google Chrome')
 end)
+
+hs.hotkey.bind(shift_alt, 'm', function()
+    hs.application.launchOrFocus('Firefox')
+end)
+
 
 hs.hotkey.bind(shift_alt, 'r', hs.reload)
 hs.hotkey.bind(shift_alt, 'c', hs.toggleConsole)

@@ -61,9 +61,10 @@ bind u:alt;shift     undo
 
 # Hammerspoon
 # c: console
-# r: reload
-# b: brave browser
+# g: google chrome
 # i: iTerm
+# m: mozilla firefox
+# r: reload
 
 # Unbound
 # g
