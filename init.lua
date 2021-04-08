@@ -77,8 +77,8 @@ hs.hotkey.bind(shift_alt, 'i', function()
     hs.application.launchOrFocus('iTerm')
 end)
 
-hs.hotkey.bind(shift_alt, 'b', function()
-    hs.application.launchOrFocus('Brave Browser')
+hs.hotkey.bind(shift_alt, 'g', function()
+    hs.application.launchOrFocus('Google Chrome')
 end)
 
 hs.hotkey.bind(shift_alt, 'r', hs.reload)
