@@ -37,8 +37,8 @@ bind 1:alt;shift     throw 0         resize
 bind 2:alt;shift     throw 1         resize
 bind 3:alt;shift     throw 2         resize
 bind 4:alt;shift     throw 3         resize
-# bind n:alt;shift     throw next      resize
-# bind p:alt;shift     throw previous  resize
+bind n:alt;shift     throw next      resize
+bind p:alt;shift     throw previous  resize
 
 # Focus Bindings
 bind h:alt;shift     focus left
@@ -64,8 +64,6 @@ bind u:alt;shift     undo
 # r: reload
 # b: brave browser
 # i: iTerm
-# n: next screen
-# p: previous screen
 
 # Unbound
 # g

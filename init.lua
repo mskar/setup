@@ -71,29 +71,7 @@ spoon.MiroWindowsManager:bindHotkeys({
 })
 
 -- https://stackoverflow.com/questions/54151343/how-to-move-an-application-between-monitors-in-hammerspoon
-function moveWindowToDisplay(d)
-  return function()
-    local displays = hs.screen.allScreens()
-    local win = hs.window.focusedWindow()
-    win:moveToScreen(displays[d], false, true)
-  end
-end
-
-hs.hotkey.bind(shift_alt, "1", moveWindowToDisplay(1))
-hs.hotkey.bind(shift_alt, "2", moveWindowToDisplay(2))
-hs.hotkey.bind(shift_alt, "3", moveWindowToDisplay(3))
-
-hs.hotkey.bind(shift_alt, 'n', function()
-  local win = hs.window.focusedWindow()
-  local screen = win:screen()
-  win:move(win:frame():toUnitRect(screen:frame()), screen:next(), true, 0)
-end)
-
-hs.hotkey.bind(shift_alt, 'p', function()
-  local win = hs.window.focusedWindow()
-  local screen = win:screen()
-  win:move(win:frame():toUnitRect(screen:frame()), screen:previous(), true, 0)
-end)
+-- I tried all of the answers, nothing worked
 
 hs.hotkey.bind(shift_alt, 'i', function()
     hs.application.launchOrFocus('iTerm')
