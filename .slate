@@ -37,8 +37,8 @@ bind 1:alt;shift     throw 0         resize
 bind 2:alt;shift     throw 1         resize
 bind 3:alt;shift     throw 2         resize
 bind 4:alt;shift     throw 3         resize
-bind n:alt;shift     throw next      resize
-bind p:alt;shift     throw previous  resize
+# bind n:alt;shift     throw next      resize
+# bind p:alt;shift     throw previous  resize
 
 # Focus Bindings
 bind h:alt;shift     focus left
@@ -49,18 +49,25 @@ bind o:alt;shift     focus behind
 
 # Toggle Bindings
 bind a:alt;shift     toggle all
-bind c:alt;shift     toggle current
+# bind c:alt;shift     toggle current
 bind t:alt;shift     toggle all-but:current
 
 # Other Bindings
 bind ;:alt;shift     switch
-bind r:alt;shift     relaunch
+# bind r:alt;shift     relaunch
 bind y:alt;shift     chain snapshot yanked save-to-disk;stack | activate-snapshot yanked
 bind space:alt;shift hint
 bind u:alt;shift     undo
 
+# Hammerspoon
+# c: console
+# r: reload
+# b: brave browser
+# i: iTerm
+# n: next screen
+# p: previous screen
+
 # Unbound
-# i
 # g
 # q: could be hints, like in pane numbers tmux
 # z: could be shell command (as in zsh), e.g. open vim to take notes in a split next to a web browser

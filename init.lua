@@ -1,5 +1,3 @@
-hs.loadSpoon("SpoonInstall")
-
 --------------------------------
 -- START VIM CONFIG
 --------------------------------
@@ -56,3 +54,55 @@ end
 quitModal:bind('cmd', 'q', doQuit)
 
 quitModal:bind('', 'escape', function() quitModal:exit() end)
+
+-- https://github.com/miromannino/miro-windows-manager
+
+hs.loadSpoon("MiroWindowsManager")
+
+local shift_alt = {"shift", "alt"}
+
+hs.window.animationDuration = 0 -- disable animations
+spoon.MiroWindowsManager:bindHotkeys({
+  up = {shift_alt, "="},
+  right = {shift_alt, "]"},
+  down = {shift_alt, "-"},
+  left = {shift_alt, "["},
+  fullscreen = {shift_alt, "m"}
+})
+
+-- https://stackoverflow.com/questions/54151343/how-to-move-an-application-between-monitors-in-hammerspoon
+function moveWindowToDisplay(d)
+  return function()
+    local displays = hs.screen.allScreens()
+    local win = hs.window.focusedWindow()
+    win:moveToScreen(displays[d], false, true)
+  end
+end
+
+hs.hotkey.bind(shift_alt, "1", moveWindowToDisplay(1))
+hs.hotkey.bind(shift_alt, "2", moveWindowToDisplay(2))
+hs.hotkey.bind(shift_alt, "3", moveWindowToDisplay(3))
+
+hs.hotkey.bind(shift_alt, 'n', function()
+  local win = hs.window.focusedWindow()
+  local screen = win:screen()
+  win:move(win:frame():toUnitRect(screen:frame()), screen:next(), true, 0)
+end)
+
+hs.hotkey.bind(shift_alt, 'p', function()
+  local win = hs.window.focusedWindow()
+  local screen = win:screen()
+  win:move(win:frame():toUnitRect(screen:frame()), screen:previous(), true, 0)
+end)
+
+hs.hotkey.bind(shift_alt, 'i', function()
+    hs.application.launchOrFocus('iTerm')
+end)
+
+hs.hotkey.bind(shift_alt, 'b', function()
+    hs.application.launchOrFocus('Brave Browser')
+end)
+
+hs.hotkey.bind(shift_alt, 'r', hs.reload)
+hs.hotkey.bind(shift_alt, 'c', hs.toggleConsole)
+

@@ -195,6 +195,9 @@ duti -s com.qvacua.VimR txt all
 ## vim mode spoon
 bash <(curl -s https://raw.githubusercontent.com/dbalatero/VimMode.spoon/master/bin/installer)
 
+## miro window manager spoon
+curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindowsManager.spoon.zip | tar -xf - -C ~/.hammerspoon/Spoons
+
 curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspoon/init.lua
 
 ## Add slate config
