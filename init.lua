@@ -67,7 +67,7 @@ spoon.MiroWindowsManager:bindHotkeys({
   right = {shift_alt, "]"},
   down = {shift_alt, "-"},
   left = {shift_alt, "["},
-  fullscreen = {shift_alt, "return"}
+  fullscreen = {shift_alt, "space"}
 })
 
 -- https://stackoverflow.com/questions/54151343/how-to-move-an-application-between-monitors-in-hammerspoon
