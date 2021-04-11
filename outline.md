@@ -1,25 +1,26 @@
 Characters:
-- Kaia - Kaiakeilaila (echo): will learn that she was imprinted with the consciousness of
+- Kaia (echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten long ago
-- Sata - Satalitastra: Kaia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
-- Ben - Beniaminabin (ender): will learn that his consciousness was created in the digital
+- Sata (human): Kaia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
+- Dela (human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
+- Ben (ender): will learn that his consciousness was created in the digital
   world and that his body was synthesized by his "parents" to test the ability
   of people to move back and forth between the physical and digital worlds
-- Ed - Edvardodaren (ender): will learn that his older brother Ben created him as a child by
+- Ed (ender): will learn that his older brother Ben created him as a child by
   subconsciously controlling a synthesizer and then imprinting Ed's
   consciousness during their childhood with the ideals of bravery, etc.
-- Dan - Danilonaidin (echo): will divulge that has been imprinted with the consciousness of an
+- Dan (echo): will divulge that has been imprinted with the consciousness of an
   Earthling scientist who was married to a Martian woman, became disillusioned,
   created the system of echos, destroyed Mars, and orchestrated the plan to
   imprint his consciousness and his wife's consciousness on future generations
   of Earthlings
-- Mora - Moralursulia (ender): will divulge that she was a man who transcended and returned
+- Mora (ender): will divulge that she was a man who transcended and returned
   as woman to try to realize her dream of becoming a mother
-- Rin - Rinzomirozin (mimic): will divulge that he is pregnant with Kaia's child and that he
+- Rin (mimic): will divulge that he is pregnant with Kaia's child and that he
   needs regular contact with her or else he will miscarry
-- Al - Alanselotsan (mimic): Ren's best friend
-- Nila - Nilarestaira (mimic): Ren's sister
-- Lyndsi - (relic) : The others explain that Lyndsi needs a longer name (12 letters, 5 syllables) that ends in "a" and that has a short form that also ends with "a".
+- Alan (mimic): Ren's best friend
+- Nila (mimic): Ren's sister
+- Lyndsi (relic/null/sinistrae) : The others explain that Lyndsi needs a longer name (12 letters, 5 syllables) that ends in "a" and that has a short form that also ends with "a".
 
 In the game that Kaia and Ed play after they are sent home from school,
 Kaia is a thief and Ed is a knight.
