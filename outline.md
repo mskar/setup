@@ -1,12 +1,12 @@
 Characters:
 - Kaia (echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten long ago
-- Sata (human): Kaia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
+- Lita (human): Kaia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
 - Dela (human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
-- Ben (ender): will learn that his consciousness was created in the digital
+- Ben (Ender): will learn that his consciousness was created in the digital
   world and that his body was synthesized by his "parents" to test the ability
   of people to move back and forth between the physical and digital worlds
-- Ed (ender): will learn that his older brother Ben created him as a child by
+- Ed (Ender): will learn that his older brother Ben created him as a child by
   subconsciously controlling a synthesizer and then imprinting Ed's
   consciousness during their childhood with the ideals of bravery, etc.
 - Dan (echo): will divulge that has been imprinted with the consciousness of an
@@ -14,12 +14,12 @@ Characters:
   created the system of echos, destroyed Mars, and orchestrated the plan to
   imprint his consciousness and his wife's consciousness on future generations
   of Earthlings
-- Mora (ender): will divulge that she was a man who transcended and returned
+- Mora (Ender): will divulge that she was a man who transcended and returned
   as woman to try to realize her dream of becoming a mother
-- Rin (mimic): will divulge that he is pregnant with Kaia's child and that he
+- Rin (Mimic): will divulge that he is pregnant with Kaia's child and that he
   needs regular contact with her or else he will miscarry
-- Alan (mimic): Ren's best friend
-- Nila (mimic): Ren's sister
+- Alan (Mimic): Ren's best friend
+- Nila (Mimic): Ren's sister
 - Lyndsi (relic/null/sinistrae) : The others explain that Lyndsi needs a longer name (12 letters, 5 syllables) that ends in "a" and that has a short form that also ends with "a".
 
 In the game that Kaia and Ed play after they are sent home from school,
@@ -50,7 +50,7 @@ When Ben and Rin join, Ben is a summoner mage and Rin is a priest.
         - Dan pretends to enjoy it and asks to be shocked again
         - Al pretends to get a kick out of the shock (what a rush!)
         - Mora cries out in pain and struggles to hold back tears
-        - Sata has a seizure (Kaia is relieved to see that is only an
+        - Lita has a seizure (Kaia is relieved to see that is only an
           absentee seizure)
         - Kaia has a vision of being on a desolate planet covered in ash and
           she screams in frustration and horror as she falls to her knees
@@ -89,13 +89,13 @@ When Ben and Rin join, Ben is a summoner mage and Rin is a priest.
     power-ups and softens up enemies before letting her get the XP from kills
   - When Ben gets home, he joins them in the vid and she notices that Ed
     switches to from helping her to supporting Ben
-  - Kaia thinks she sees Sata in the game, but Ben and Ed say it might be
+  - Kaia thinks she sees Lita in the game, but Ben and Ed say it might be
     because she got hit in the head
 4. Kaia is attacked in the cafeteria again
 - the bullies distract Ed by attacking Ben, who fights off the bullies using robotic animals.
-- Kaia, Mora, Rin, Nila, Sata hop on the table and keep the bullies at bay with their lunch trays
-5. Kaia, Ben, Ed, Mora, Rin, Nila, Sata meet with the principal who plans to expel them, but Ed gets the BuzzBees and BuzzBats to give the principal an extra dose of drugs and then convinces the principal to punish them with community service instead of expulsion
-6. Kaia, Ben, Ed, Mora, Sata discover the grotto and meet Lyndsi and agree to show her the outside world
+- Kaia, Mora, Rin, Nila, Lita hop on the table and keep the bullies at bay with their lunch trays
+5. Kaia, Ben, Ed, Mora, Rin, Nila, Lita meet with the principal who plans to expel them, but Ed gets the BuzzBees and BuzzBats to give the principal an extra dose of drugs and then convinces the principal to punish them with community service instead of expulsion
+6. Kaia, Ben, Ed, Mora, Lita discover the grotto and meet Lyndsi and agree to show her the outside world
 
 x. Kaia meets Granny
 
@@ -107,7 +107,7 @@ x. Kaia learns Granny is an Echo too
   - Kaia worries about how she will be effected by being an Echo given that Kaia already hears voices and was diagnosed with schizophrenia.
 
 -1. Kaia and Rin head out into the world with Eustace.
-  - Rin and his mimic warrior child save Kaia and Eustace from malfunctioning
+  - Rin and his Mimic warrior child save Kaia and Eustace from malfunctioning
     robots that pour out of an abandoned factory.
   - Rin finds Kaia and tells her that the PersonPrinters have been compromised
   - Kaia responds that she knows and tells Rin how someone had used Mora's body
@@ -156,3 +156,7 @@ x. Kaia learns Granny is an Echo too
 Book 2
 - Eustace finds an abandoned PersonPrinter and brings back Dan and Mora, who he
   considers to be his real father and mother, rejecting Kaia and Rin
+
+Lost civilizations:
+- Mimics: Government/Corporate scientists did not decode all of the information they received via intergalactic broadcasts. The information on Mimic culture and philosophy were not deemed important enough to spend time decoding. The fragments that the Mimics were able to piece together became the basis of Mimic culture on Earth. The Mimics want to find the remaining information to learn the purpose of their existence and the story behind the intergalactic broadcasts that carried the recipe for their creation.
+- Martians: Martian civilization ended in a war with Thelusians, a space dwelling civilization that replaced most people with androids. The space settlements started to orbit Mars and eventually all crashed into the surface of Mars. The remnants of Martian civilization and the Thelusian civilization are both still on the surface of Mars. Corporations from Earth have to fight with Thelusians for territory to mine resources from Mars. Martians are thought to have died out.

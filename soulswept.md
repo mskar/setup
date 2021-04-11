@@ -4,57 +4,89 @@ Kaia would have given anything to be normal. Filled with dread and paralyzed by
 anxiety, she wished she could be carefree and unconcerned like the other
 students in the cacophonous gymnasium.
 
-There was no way out. The polyethylene bleachers where Kaia sat were packed with
-the entire cohort of high school freshman. All around the bleachers, robotic
-animals and insects observed the students.
+There was no way out. The polyethylene bleachers where Kaia sat were packed
+with the entire cohort of high school freshman. All around the bleachers,
+robotic animals and insects buzzed, growled, sang, and hooted while observing
+the students.
 
-Kaia leaned in to her best friend Sata and whispered "Let's run."
+Kaia leaned in to her best friend Lita and whispered in her ear.
+
+"Let's run."
 
 "We wouldn't even make it to the door, which is locked by the way."
 
 "If we run, they'll have to knock us out and we'll miss the ceremony."
 
-Kaia and Sata looked at the hexagonal holes in the walls where the robotic
+Kaia and Lita looked at the hexagonal holes in the walls where the robotic
 insects made their nests. Inside the walls, there was a network of tunnels
 filled with robotic insects constantly ready to swarm anyone who stepped out of
 line.
 
-"If the BuzzBees knocked us out, the WakeupWasps would sting us."
+"If the BuzzBees knocked us out, the WakeupWasps would sting us until we were
+awake."
 
-"Maybe if we act crazy, they'll have to knock us out to keep us quiet."
+"Maybe if we act crazy, they'd wouldn't wake us to keep us from disrupting the
+ceremony."
 
 "Acting crazy should be easy for you, because you've always been insane."
 
-Sata knew that the joke didn't land well, so she tried to reassure her friend.
+Lita knew that the joke didn't land well, so she tried to reassure her friend.
 
-"Maybe it won't be so bad. Maybe I won't have a seizure and you won't freak out."
+"Maybe it won't be so bad. Maybe I won't have a seizure and you won't freak
+out."
 
-...
+"Awww, you always know exactly what to say to keep me from freaking out."
 
-In front of the bleachers where the students sat was a
-platform and podium where the principal students
+Lita smiled and put her arm around Kaia pretending to put her into a headlock.
+Before she realized it, Kaia's head was resting on Lita's shoulder as the two
+embraced. Several students in their vicinity started to jeer.
 
-In i students were surrounded by robotic animals 
+"Get a room, you two!"
 
-Kaia looked over to Sata, her best friend since primary school, and thought
-about how they never fit in at school. Thinking about her friendship with Sata,
-Kaia wondered if the only reason that they were friends was because they were
-both abnormal.
+"The sexual tension is so taut you could cut it with a knife!"
 
-For as long as she could remember, Kaia had auditory hallucinations. She always
-had trouble differentiating between the voices of people around her and the
-voices in her head.
+"Which one is butch? Which one is femme?"
+
+Kaia wondered if she was imagining the jeers until she felt Lita tense up and
+eventually withdraw from their embrace. For as long as she could remember, Kaia
+had auditory hallucinations. She always had trouble differentiating between the
+voices of people around her and the voices in her head.
 
 To make matters worse, Kaia often had strange dreams at night and weird visions
 during the day. The dreams and visions seemed so real and familiar that it
 sometimes took Kaia a long time to reacclimatize to reality.
 
-Sata did not suffer from mental illness like Kaia. Instead, Sata had a
+The jeering continued until the school principal walked up to the podium in
+front of the bleachers. Suddenly the gymnasium fell quiet. Even the robotic
+animals and insects were silent as the principal cleared his throat and
+prepared to speak.
+
+Already sweating, the principal wiped sweat from his brow with a lace
+handkerchief he retrieved the pocket of his blazer. With three clicks of his
+tongue, the principal summoned three BuzzBees. The BuzzBees landed on the
+principal's face and neck and used their stingers to administer the
+pharmacological relief that the principal would need to collect his frayed
+nerves.
+
+"Today, we welcome a new class of students as they transition from primary to
+secondary school."
+
+"In four years, the students present here today will enter the labor force,
+either as free citizens or as inmates of the penal system."
+
+...
+
+As the automated voice started calling students up to the TaserTutor, Kaia
+looked over to Lita thought about how they never fit in at school. Thinking
+about her friendship with Lita, Kaia wondered if the only reason that they were
+friends was because they were both abnormal.
+
+Lita did not suffer from mental illness like Kaia. Instead, Lita had a
 neurological condition called epilepsy.
 
-Sata often had absentee seizures that would incapacitate her for short periods
+Lita often had absentee seizures that would incapacitate her for short periods
 of time and leave her feeling weak and disoriented. The more severe seizures,
-during which Sata appeared to be tormented by invisible demons and tossed about
+during which Lita appeared to be tormented by invisible demons and tossed about
 by an unseen hand, were mercifully rare.
 
 None of the other students seemed to be at all concerned with the secondary
