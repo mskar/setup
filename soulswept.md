@@ -68,12 +68,16 @@ principal's face and neck and used their stingers to administer the
 pharmacological relief that the principal would need to collect his frayed
 nerves.
 
-"Today, we welcome a new class of students as they transition from primary to
-secondary school."
+"Today, we welcome a new class of high school students as they take an important step towards adulthood."
 
 "In four years, the students present here today will enter the labor force,
 either as free citizens or as inmates of the penal system."
 
+"To instill a sense of discipline and respect for authority, each student will be subjected to an electric shock from the TaserTutor."
+
+"According to tradition, the way each student responds to the foretells their future."
+
+"For those destined for greatness, the shock they receive today may very well be the last."
 ...
 
 As the automated voice started calling students up to the TaserTutor, Kaia
