@@ -63,25 +63,64 @@ prepared to speak.
 
 Already sweating, the principal wiped sweat from his brow with a lace
 handkerchief he retrieved the pocket of his blazer. With three clicks of his
-tongue, the principal summoned three BuzzBees. The BuzzBees landed on the
+tongue, the principal summoned three robotic bees. The bees landed on the
 principal's face and neck and used their stingers to administer the
 pharmacological relief that the principal would need to collect his frayed
 nerves.
 
-"Today, we welcome a new class of high school students as they take an important step towards adulthood."
+"Today we welcome a new cohort of-"
 
-"In four years, the students present here today will enter the labor force,
-either as free citizens or as inmates of the penal system."
+As the principal began to speak, one of the students jumped on top of her seat
+in the bleachers and began to shout into a hand-held sound amplification
+device.
 
-"To instill a sense of discipline and respect for authority, each student will be subjected to an electric shock from the TaserTutor."
+"Corporeal punishment is unjust!"
 
-"According to tradition, the way each student responds to the foretells their future."
+"Abolish TaserTutors!"
 
-"For those destined for greatness, the shock they receive today may very well be the last."
-...
+"Reform the penal system!"
 
-As the automated voice started calling students up to the TaserTutor, Kaia
-looked over to Lita thought about how they never fit in at school. Thinking
+"End forced labor!"
+
+A robotic primate jumped down from the rafters and tackled the student, knocking
+the sound amplifier out of her hand. Several more robotic primates scooped up the
+student and dragged her out of the gymnasium.
+
+Visibly shaken, the principal repeated his pre-speech ceremony by clearing his
+throat again and clicking his tongue three more times. The three additional
+robotic bee stings were successful in calming down the principal, but when the
+principal resumed his speech, he was swaying side to side, gripping the podium
+for support, and having difficulty speaking clearly.
+
+"Dishipline and rispet for aufority are eshenshial for a funshioning-"
+
+The principal suddenly lurched forward and vomited all over the podium.
+
+Wiping his mouth with the sleeve of his blazer, the principal wrapped up his speech.
+
+"Let the sheremony begin!"
+
+As the automated voice started calling students up to the testing chamber, the
+gymnasium erupted with the excited chatter of the students and the sounds of
+the robotic wildlife.
+
+Kaia leaned in to whisper to Lita again, but stopped when she noticed that her
+friend was having a seizure. Lita's expressionless face was frozen as she
+blankly stared into the distance.
+
+When she realized that the seizure was relatively mild and that Lita would
+recover shortly, Kaia let out a sigh of relief. The few times Kaia had seen her
+friend experience a severe seizure had left a indelible mark in Kaia's memory.
+
+Kaia's
+
+"I think she's about to propose!"
+
+"Is that even legal?"
+
+"Someone get the SecuritySimians to tackle those two!"
+
+thought about how they never fit in at school. Thinking
 about her friendship with Lita, Kaia wondered if the only reason that they were
 friends was because they were both abnormal.
 
@@ -95,3 +134,17 @@ by an unseen hand, were mercifully rare.
 
 None of the other students seemed to be at all concerned with the secondary
 school initiation ceremony.
+
+Kaia could hear  Gigaphones, sound amplifications
+devices capable of producing sounds 3 decibels louder than a megaphone, were so
+loud as to be classified as weapons.
+
+covered their ears. loud audio system in
+the gymnasium had no chance sound of the gigaphone, 3 decibels louder , was
+deafening.
+
+Seeing her best which Lita appeared to be
+tormented by invisible demons and tossed about by an unseen hand, were
+mercifully rare. Kaia held Lita's hands, which unfortunately led to another
+round of jeers.
+
