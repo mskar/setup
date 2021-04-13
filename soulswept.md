@@ -6,8 +6,8 @@ students in the cacophonous gymnasium.
 
 There was no way out. The polyethylene bleachers where Kaia sat were packed
 with the entire cohort of high school freshman. All around the bleachers,
-robotic animals and insects buzzed, growled, sang, and hooted while observing
-the students.
+robotic animals and insects buzzed, growled, and roared, while observing the
+students.
 
 Kaia leaned in to her best friend Lita and whispered in her ear.
 
@@ -25,7 +25,7 @@ line.
 "If the BuzzBees knocked us out, the WakeupWasps would sting us until we were
 awake."
 
-"Maybe if we act crazy, they'd wouldn't wake us to keep us from disrupting the
+"Maybe if we act crazy, they'd knock us out to keep us from disrupting the
 ceremony."
 
 "Acting crazy should be easy for you, because you've always been insane."
@@ -61,12 +61,11 @@ front of the bleachers. Suddenly the gymnasium fell quiet. Even the robotic
 animals and insects were silent as the principal cleared his throat and
 prepared to speak.
 
-Already sweating, the principal wiped sweat from his brow with a lace
-handkerchief he retrieved the pocket of his blazer. With three clicks of his
-tongue, the principal summoned three robotic bees. The bees landed on the
-principal's face and neck and used their stingers to administer the
-pharmacological relief that the principal would need to collect his frayed
-nerves.
+Already sweating, the principal his brow with a lace handkerchief he retrieved
+the pocket of his blazer. With three clicks of his tongue, the principal
+summoned three robotic bees. The bees landed on the principal's face and neck
+and used their stingers to administer the pharmacological relief that the
+principal would need to collect his frayed nerves.
 
 "Today we welcome a new cohort of-"
 
@@ -74,17 +73,15 @@ As the principal began to speak, one of the students jumped on top of her seat
 in the bleachers and began to shout into a hand-held sound amplification
 device.
 
-"Corporeal punishment is unjust!"
+"Corporeal punishment is barbaric and ineffective!"
 
-"Abolish TaserTutors!"
+"TaserTutors are torture!"
 
-"Reform the penal system!"
+"Reform the school system!"
 
-"End forced labor!"
-
-A robotic primate jumped down from the rafters and tackled the student, knocking
-the sound amplifier out of her hand. Several more robotic primates scooped up the
-student and dragged her out of the gymnasium.
+A robotic primate jumped down from the rafters and tackled the student,
+knocking the sound amplifier out of her hand. Several more robotic primates
+scooped up the student and dragged her out of the gymnasium.
 
 Visibly shaken, the principal repeated his pre-speech ceremony by clearing his
 throat again and clicking his tongue three more times. The three additional
@@ -92,27 +89,27 @@ robotic bee stings were successful in calming down the principal, but when the
 principal resumed his speech, he was swaying side to side, gripping the podium
 for support, and having difficulty speaking clearly.
 
-"Dishipline and rispet for aufority are eshenshial for a funshioning-"
+"Dishipline and rispet for aufority are eshenshial for a funshioning shosh-"
 
 The principal suddenly lurched forward and vomited all over the podium.
 
-Wiping his mouth with the sleeve of his blazer, the principal wrapped up his speech.
+Wiping his mouth with the sleeve of his blazer, the principal wrapped up his
+speech.
 
 "Let the sheremony begin!"
 
-As the automated voice started calling students up to the testing chamber, the
-gymnasium erupted with the excited chatter of the students and the sounds of
-the robotic wildlife.
+As soon as an automated voice started calling students to participate in the
+ceremony, the gymnasium erupted with the excited chatter of the students and
+the sounds of the robotic wildlife.
 
 Kaia leaned in to whisper to Lita again, but stopped when she noticed that her
-friend was having a seizure. Lita's expressionless face was frozen as she
-blankly stared into the distance.
+friend was having a seizure. Lita's expressionless face moved ever so slightly
+as she blankly stared into the distance.
 
 When she realized that the seizure was relatively mild and that Lita would
-recover shortly, Kaia let out a sigh of relief. The few times Kaia had seen her
-friend experience a severe seizure had left a indelible mark in Kaia's memory.
-
-Kaia's
+recover shortly, Kaia let out a sigh of relief. While waiting for her friend to
+recover, Kaia held Lita's hands, which unfortunately attracted the attention of
+nearby students.
 
 "I think she's about to propose!"
 
@@ -120,9 +117,150 @@ Kaia's
 
 "Someone get the SecuritySimians to tackle those two!"
 
-thought about how they never fit in at school. Thinking
-about her friendship with Lita, Kaia wondered if the only reason that they were
-friends was because they were both abnormal.
+After seeing it countless times, Kaia knew exactly what to expect. As the
+seizure ended, Lita looked around disoriented and confused. The part that
+always broke Kaia's heart was when Lita looked embarrassed about having a
+seizure. Lita pulled her hands away.
+
+Never knowing what to say, Kaia tried to start a conversation.
+
+"What do you think will happen to the protester?"
+
+"She's going to get kicked out of school."
+
+"How do you know?"
+
+"She didn't go through the ceremony."
+
+"Maybe we can protest too?"
+
+Clearly not in the mood to continue the conversation, Lita did not reply.
+The two friends sat in silence until Kaia's name was called.
+
+Desperate for a means of escape, Kaia looked pleadingly at Lita. Trying her
+best to be reassuring, Lita smiled weakly and gave Kaia a gesture of
+encouragement. Left with no other option, Kaia got up and started to squeeze
+through the rows of students.
+
+Kaia could feel the eyes of the students and robotic wildlife follow her to the
+metallic table next to the podium in front of the bleachers. As she approached,
+the table began to writhe as it adjusted to match her height and build. Robotic
+birds, bats, and bugs flew in circles above Kaia, recording her every move. A
+wall of robotic hummingbirds hovered in front of her face, staring at her with
+their piercing eyes.
+
+When Kaia placed her palms down on the table, metallic tendrils extended from
+the table and wrapped around her arms up to the shoulders. The automated voice
+that had called Kaia's name earlier began to deliver commands.
+
+"State your full name?"
+
+"Kaialeiala Arkadia."
+
+"State your age in years."
+
+"14."
+
+"List the three branches of Government."
+
+"The CorporateCouncil, the DemocraticDelegation, and the EternalEnlightened."
+
+So far so good, but the next questions would be much more difficult.
+
+"Given an average distance of 382 megameters, calculate the time in seconds required for a radio transmission to go from the surface of Earth to its moon and back? You have one minute to respond."
+
+Kaia typed out the problem in the virtual keyboard on the table.
+Distance: 382 megameters.
+Speed of light: 300 megameters per second.
+Time: 382 / 300 seconds = 1.27 seconds
+
+Kaia opened her mouth to answer, but froze in horror.
+"And back!", she said to herself.
+"From Earth to the moon AND BACK!"
+
+Terrified at the thought that she almost answered incorrectly, Kaia did the
+final calculation in her head.
+
+"2.54 seconds!"
+
+Kaia braced for an electric shock, but was relieved to hear the next question
+instead.
+
+"Given a distance range of 590 to 980 gigameters, calculate the minimum time in
+minutes required for a radio transmission to go from the surface of Earth to
+Jupiter. You have one minute to respond."
+
+Kaia's head was spinning.
+
+"No 'and back' this time.", she said to herself.
+
+"Minimum means 590 gigameters."
+
+Distance: 590 gigameters
+Speed of light: 18 gigameters per minute
+Time: 590 / 18 seconds ...
+
+"32.78 minutes."
+
+The pressure was getting to Kaia. She loved math, but hated solving word
+problems under threat of electric shock while everyone was watching. Luckily,
+the next question tested general knowledge.
+
+"Which mineral group is the most abundant in Earth's crust and what are it's
+three endmembers? You have 30 seconds to respond."
+
+"The feldspars are the most abundant. The endmembers are potassium feldspar,
+albite, and anorthite."
+
+"Construct the basic subunit of the feldspar chemical structure. You have three
+minutes to respond."
+
+The display on the table transformed from a keyboard into the periodic chart of
+elements. On top of each square on the chart was a sphere that represented an
+element. Kaia used the display to enter the number of atoms of each she would
+need. Each time she entered a number, a new set of spheres appeared in front of
+her. In total, Kaia had 4 potassium atoms, 4 aluminum atoms, 12 silicon atoms,
+and 128 oxygen atoms. Kaia began arranging the spheres. The metallic tendrils
+extending from the table stretched as she moved her hands from sphere to
+sphere. First, Kaia created 16 tiny pyramids by sticking 4 oxygen atoms to each
+aluminum and silicon atom. Then, she combined the pyramids into 4 rings by
+removing an oxygen from each pyramid and replacing it with the oxygen of
+another pyramid. Next, Kaia removed an oxygen to from each ring to arrange the
+rings in pairs. After removing an oxygen from each pair, Kaia stacked the pairs
+on top of each other. Finally, Kaia put two potassium atoms in the middle of
+the structure and then the last two potassium atoms on opposites corners of the
+structure.
+
+"This is the chemical structure of the basic subunit of potassium feldspar."
+
+Kaia's arms felt like they were made of feldspar. She was so exhausted that she
+almost did not care if she answered correctly or not.
+
+"Describe the mineral composition of the Martian crust. You have 30 seconds to
+respond."
+
+"The crust of Mars includes volcanic rock minerals such as feldspars,
+pyroxenes, and olivine."
+
+"Explain the origin of nanostructures on the surface of Mars. You have 30
+seconds to respond."
+
+"The nanostructures originate from the two sources: the ancient Martian civilization-"
+
+Kaia stopped mid-sentence. She felt like her mouth was filled with Martian
+dust. A pulsing red light warned Kaia that pauses were not allowed.
+
+"-and Thelusian spacecrafts that collided with Mars during the Martian-Thelusian War."
+
+Kaia looked up. The sky, once dark with orbiting spacecrafts, lit up as the
+entire Thelusian armada began to enter the thin Martian atmosphere.
+
+
+...
+
+
+fit in at school. Thinking about her friendship with Lita, Kaia wondered if the
+only reason that they were friends was because they were both abnormal.
 
 Lita did not suffer from mental illness like Kaia. Instead, Lita had a
 neurological condition called epilepsy.
@@ -135,16 +273,15 @@ by an unseen hand, were mercifully rare.
 None of the other students seemed to be at all concerned with the secondary
 school initiation ceremony.
 
-Kaia could hear  Gigaphones, sound amplifications
-devices capable of producing sounds 3 decibels louder than a megaphone, were so
-loud as to be classified as weapons.
+Kaia could hear  Gigaphones, sound amplifications devices capable of producing
+sounds 3 decibels louder than a megaphone, were so loud as to be classified as
+weapons.
 
-covered their ears. loud audio system in
-the gymnasium had no chance sound of the gigaphone, 3 decibels louder , was
-deafening.
+covered their ears. loud audio system in the gymnasium had no chance sound of
+the gigaphone, 3 decibels louder , was deafening.
 
-Seeing her best which Lita appeared to be
-tormented by invisible demons and tossed about by an unseen hand, were
-mercifully rare. Kaia held Lita's hands, which unfortunately led to another
-round of jeers.
-
+Seeing her best which Lita appeared to be tormented by invisible demons and
+tossed about by an unseen hand, were mercifully rare. Kaia held Lita's hands,
+which unfortunately led to another round of jeers. Seeing her best which Lita
+appeared to be tormented by invisible demons and tossed about by an unseen
+hand, were mercifully rare. 
