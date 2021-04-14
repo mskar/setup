@@ -6,7 +6,7 @@ students in the cacophonous gymnasium.
 
 There was no way out. The polyethylene bleachers where Kaia sat were packed
 with the entire cohort of high school freshman. All around the bleachers,
-robotic animals and insects buzzed, growled, and roared, while observing the
+robotic animals buzzed, growled, and roared, while observing the
 students.
 
 Kaia leaned in to her best friend Lita and whispered in her ear.
@@ -58,7 +58,7 @@ sometimes took Kaia a long time to reacclimatize to reality.
 
 The jeering continued until the school principal walked up to the podium in
 front of the bleachers. Suddenly the gymnasium fell quiet. Even the robotic
-animals and insects were silent as the principal cleared his throat and
+animals were silent as the principal cleared his throat and
 prepared to speak.
 
 Already sweating, the principal his brow with a lace handkerchief he retrieved
@@ -69,9 +69,9 @@ principal would need to collect his frayed nerves.
 
 "Today we welcome a new cohort of-"
 
-As the principal began to speak, one of the students jumped on top of her seat
-in the bleachers and began to shout into a hand-held sound amplification
-device.
+As the principal began to speak, a student with bright purple hair jumped on
+top of her seat in the bleachers and began to shout into a hand-held sound
+amplification device.
 
 "Corporeal punishment is barbaric and ineffective!"
 
@@ -255,6 +255,32 @@ dust. A pulsing red light warned Kaia that pauses were not allowed.
 Kaia looked up. The sky, once dark with orbiting spacecrafts, lit up as the
 entire Thelusian armada began to enter the thin Martian atmosphere.
 
+"Compare and contrast the EternalEnlightened with the other branches of
+government. You have 30 seconds to respond."
+
+People all around Kaia began to run for cover, but she knew there was nowhere
+to hide. Everyone was running and screaming except for her and Lita.
+
+"What is Lita doing here on Mars?", Kaia wondered.
+
+With an alarmed and desperate look on her face, Lita pointed down in front of
+Kaia. Unsure why Lita was pointing down and not up at impending cataclysm in
+the sky, Kaia looked down at the pulsing red light emanating from the metallic
+table. Kaia's body shook with electricity. Time had run out. Mars was doomed.
+
+"Given that the Venusian orbital period is 225 days, calculate how many days
+would pass before Earth and Venus would return to their current positions. You
+have 30 seconds to respond."
+
+Kaia was having trouble maintain her footing. Beneath her feet, countless
+skeletons were crumbling into dust. A ferocious wind swept up the dust. A storm
+was raging inside Kaia. Kaia stood in the eye of the storm. Lightning shot out
+of storm. When the lightning stuck her, Kaia screamed, not in pain, but in
+anger.
+
+The loss of an entire civilization weighed down on her. Kaia realized she had
+fallen to her knees. The metallic tendrils were still wrapped around her arms,
+keeping her upright.
 
 ...
 
