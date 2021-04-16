@@ -153,15 +153,15 @@ When Kaia placed her palms down on the table, metallic tendrils extended from
 the table and wrapped around her arms up to the shoulders. The automated voice
 that had called Kaia's name earlier began to deliver commands.
 
-"State your full name?"
+"State your full name? You have 5 seconds to respond."
 
 "Kaialeiala Arkadia."
 
-"State your age in years."
+"State your age in years. You have 5 seconds to respond."
 
 "14."
 
-"List the three branches of Government."
+"List the three branches of Government. You have 15 seconds to respond."
 
 "The CorporateCouncil, the DemocraticDelegation, and the EternalEnlightened."
 
@@ -273,14 +273,51 @@ would pass before Earth and Venus would return to their current positions. You
 have 30 seconds to respond."
 
 Kaia was having trouble maintain her footing. Beneath her feet, countless
-skeletons were crumbling into dust. A ferocious wind swept up the dust. A storm
-was raging inside Kaia. Kaia stood in the eye of the storm. Lightning shot out
-of storm. When the lightning stuck her, Kaia screamed, not in pain, but in
+skeletons were crumbling into dust. The dust began to swirl in circles around
+Kaia, as a ferocious wind built up into a raging storm. In the eye of the
+storm, Kaia stood staring at the remnants of an extinguished world. When
+lightning shot out of storm and struck Kaia, she screamed, not in pain, but in
 anger.
 
-The loss of an entire civilization weighed down on her. Kaia realized she had
-fallen to her knees. The metallic tendrils were still wrapped around her arms,
-keeping her upright.
+With the loss of an entire civilization weighing down on her, Kaia fell to her
+knees. The storm eventually began to subside and through the dust and skeletal
+fragments Kaia could see the pulsing red light of the metallic table.
+The tendrils were still wrapped around her arms. The ceremony was still
+ongoing.
+
+Another shock from the tendrils caused Kaia to spasm and she hit her head on
+the table. Enraged, Kaia stood up to look at the console atop the table. There
+was no way to stop the ceremony once it had begun and breaking free from the
+tendrils was impossible. The automated voice continued providing instructions,
+but Kaia was no longer paying attention. The ceremony seemed so insignificant
+when compared to the destruction of Mars. As the table, once again begun to
+pulse red, Kaia used the virtual keyboard to skip the current task.
+
+The resulting electric shock only added to the rage that Kaia felt. Kaia
+skipped each task again and again as soon as she could control her fingers
+after each subsequent electric shock. Kaia kept trying to skip even after the
+console stopped responding and the tendrils began to unwrap from around her
+arms. Tears were streaming down her face. Her ears were ringing. The burning
+smell was suffocating. Her breathing was hoarse and uneven. Her mouth tasted
+like it was coated with metal.
+
+Bracing against the table for support, Kaia was an easy target for the robotic
+primates. As she was dragged out of the gymnasium, Kaia looked towards the
+bleachers searching for Lita in the sea of students, who were all standing and
+staring.
+
+Kaia is brought to Principal's office. Mora is there, bruised and battered,
+being held by a GuardGorilla. A GuardGorilla puts Kaia in the seat next to
+Mora. The principal is passed out in his chair with drool coming from open
+mouth. Kaia and Mora talk before the Principal wakes up. The Principal asks
+Kaia if mental illness caused her to fail the ceremony or skipping the tasks a
+protest like the one Mora did.
+
+TODO:
+- name types of SecuritySimians (robotic primates): GuardGorillas, ObservationOrangutans, etc
+- describe the gigaphone Mora had: Gigaphones, sound amplifications devices capable of producing
+sounds 3 decibels louder than a megaphone, were so loud as to be classified as
+weapons.
 
 ...
 
@@ -298,10 +335,6 @@ by an unseen hand, were mercifully rare.
 
 None of the other students seemed to be at all concerned with the secondary
 school initiation ceremony.
-
-Kaia could hear  Gigaphones, sound amplifications devices capable of producing
-sounds 3 decibels louder than a megaphone, were so loud as to be classified as
-weapons.
 
 covered their ears. loud audio system in the gymnasium had no chance sound of
 the gigaphone, 3 decibels louder , was deafening.
