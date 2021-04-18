@@ -384,17 +384,18 @@ friend, Kaia became overwhelmed by the intoxicating scent of Lita's hair and
 almost fell over. As they entered the office, they saw the girl with the purple
 hair sitting in a chair with a GuardGorilla standing behind her.
 
-When she saw the look on the purple-haired girl's bruised face, Kaia began to wonder
-what she and Lita looked like. Lita, shirtless and missing a shoe, was
+In the opposite side of the room was a large, well-polished mahogany desk, and behind it sat the
+school Principal, snoring loudly with his head tilted back, his mouth open, his
+face and neck covered in BuzzBees, and drool flowing down the side of his chin.
+
+When she saw the look on the purple-haired girl's bruised face, Kaia began to
+wonder what she and Lita looked like. Lita, shirtless and missing a shoe, was
 supporting Kaia whose hair was still standing on end from being electrocuted
 countless times. The GuardGorilla pulled up a pair of chairs for Kaia and Lita.
-Kaia collapsed into the chair and Lita sat down in the chair next to her,
-crossing her arms over her exposed chest.
-
-Sitting in front of them behind a large, well-polished mahogany desk, the
-school Principal snored loudly with his head tilted back, his mouth open, his
-face and neck covered in BuzzBees, and drool flowing down the side of his chin.
-Turning towards the purple-haired girl, Lita tried to start a conversation.
+As soon as she helped Kaia sit down in the chair closest to door, Lita crossed
+her arms in front of her exposed chest and sat down in the chair in between
+Kaia and the purple-haired girl. Turning towards the purple-haired girl, Lita
+tried to start a conversation.
 
 "I think what you did in the gym was awesome!"
 
@@ -429,9 +430,10 @@ Dela shook her head.
 "There are easier ways to skip the ceremony. You should have protested like
 me."
 
-"How did you get the gigaphone into the gym?", Lita asked.
+"How did you smuggle in that thing that made your voice really loud?", Lita asked.
 
-"I didn't. I built it inside the gym from pieces of broken robotic animals."
+"The gigaphone? I didn't smuggle it in. I built it inside the gym from pieces
+of broken robotic animals."
 
 "Where did you get the tools from?"
 
@@ -458,8 +460,9 @@ As if on cue, the Principal woke up noisily, send BuzzBees flying in every
 direction. Disoriented and disconcerted, he looked back and forth between the
 three girls in his office. Unsure of what to do, the Principal began to tap at
 the console on his desk and mumble to himself. Whenever he looked up, it was
-always at Lita's chest. His gaze made her so uncomfortable, Lita curled up in a
-ball bringing her knees up to her chin.
+always at Lita's chest. His gaze made her so uncomfortable, Lita shrunk back
+into her chair and curled up in a ball, bringing her knees up to her chin and
+wrapping her arms around her shins.
 
 "Don't put your shoes on my office furniture!", the Principal barked angrily.
 
@@ -480,18 +483,85 @@ shirt was ripped off, he bounced in his chair with glee. After the recording
 ended, he cleared his throat and put on a serious face.
 
 "The crimes you have committed are very serious. Disruption of the peace,
-unsanctioned protest, destruction of school property, assault with a deadly weapon-"
+unsanctioned protest, destruction of school property, indecent exposure,
+resisting arrest, assault with a deadly weapon-"
 
-"What weapon?!", Lita exclaimed increduously.
+"What weapon?!", Lita exclaimed incredulously.
 
 "The gigaphone is classified as a lethal weapon. And rightly so, it can produce
 sounds 1000 times louder than a regular megaphone. If it had been a teraphone,
-I could have called in the SWAT team and had you killed on the spot!"
+I could have called in a strike team and had you executed on the spot!"
 
-Coming up next:
+The Principal's eyes returned to the screen on his desk.
 
-The Principal asks Kaia if mental illness caused her to fail the ceremony or
-skipping the tasks a protest like the one Dela did.
+"The EternalEnlightened have reviewed the video evidence related to your case.
+The results of your trial should be available any-"
+
+"Possible mitigating circumstances?!", the Principal exclaimed, interrupting himself.
+
+The Principal turned to Kaia.
+
+"The EternalEnlightened have asked for more information about your interaction
+with the TaserTutor. Why did you only provide responses for some of the tasks?
+Were you suffering from a psychotic episode? Or were you making a statement
+against corporeal punishment in the school system?"
+
+Surprised to suddenly become the center of attention, Kaia felt her cheeks burn
+red with embarrassment. She understood the reasoning behind the question. The
+school had access to all of her medical records, including her diagnoses. Kaia
+looked back and forth between Lita and Dela. She wanted to be defiant and
+strong like they were. She did not want mental illness to be the reason she got
+into the mess. She wanted to be normal.
+
+"It was a protest.", Kaia lied. Lita gasped. Dela nodded approvingly.
+
+"Was the protest premeditated? Did you conspired with the other two girls to
+stage the protest?", the Principal read off the screen.
+
+"Yes, I planned the whole thing, but on my own. Lita had nothing to do with it!
+She's innocent!", Kaia said.
+
+"She is hardly innocent. Indecent exposure, interruption of a
+government-mandated ceremony, and interference with the arrest of a protester
+are serious crimes.", the Principal huffed.
+
+"Lita didn't plan for any of that to happen. She was just trying to help me."
+
+"Is this true that you had no idea about the protest plans and were not trying
+to make a political statement?", the Principal asked, turning towards Lita.
+
+Still using her legs to shield herself from the prying eyes of the
+Principal, Lita nodded, her chin bouncing against her knees.
+
+Turning to Dela, "Did you conspire with the other girls to stage a protest?",
+the Principal asked.
+
+"I never even met them until you brought them in here!", Dela exclaimed.
+
+"We have a verdict!", the Principal shouted.
+
+"Ferdinandela Fridzia, you are found guilty of all charges and are sentenced to
+six years in juvenile detention. The sentence will be suspended and you will be
+allowed to begin your high school studies if you agree to complete the
+initiation ceremony, perform community service, and sign a statement disavowing
+all previous political statements and activities."
+
+"I'm not going to agree to anything.", Dela replied dourly.
+
+"Kaiakeilaila Arkadia, you are found guilty of all charges and are sentenced to
+four years in juvenile detention. The sentence will be suspended and you will
+be allowed to begin your high school studies if you agree to retry the
+initiation ceremony, perform community service, and sign a statement disavowing
+all previous political statements and activities."
+
+The Principal continued before Kaia could figure out what to say.
+
+"Satalitastra Azimuta, you are found guilty of all charges and are sentenced to
+one year in juvenile detention. The sentence will be suspended and you will be
+allowed to begin your high school studies if you agree to complete the
+initiation ceremony, perform community service, and sign a statement affirming
+that your actions were not political in nature."
+
 
 ...
 
