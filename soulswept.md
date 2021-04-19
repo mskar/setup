@@ -1443,21 +1443,19 @@ zone extended, but she knew that until she saw people, they wouldn't be safe.
 
 "We haf to make it to the treesh."
 
-Dela looked at where the Principal was pointing and realized that she was not
-going fast enough.
-
-Dela accelerated, but she knew that they had no chance of making it in time.
-Dela thought about what had happened that day. She had pushed back against the
-system and won. Even if only succeeded in smashing just a single cog in the
-machine of oppression, it was worth it. Reflecting on her life, Dela realized
-that for the first time in her life, she had felt truly powerful. She was
-always powerless to stop her father from beating her when he got angry. She
-could not do anything to keep her mother from self-medicating her worries away.
-Being in control, even if it was part of one day, was worth any cost for Dela.
-Even if she knew that she was going to die, she would not have changed much
-about today. She just wished she could have had a chance to apologize Kaia and
-Lita. Maybe if things were different, they could've been friends? Dela's eyes
-filled with tears.
+Dela did not know where the Principal was pointing, she had never seen trees in
+the city. She was not going fast enough. Dela accelerated, but she knew that
+they had no chance of making it in time. Dela thought about what had happened
+that day. She had pushed back against the system and won. Even if only
+succeeded in smashing just a single cog in the machine of oppression, it was
+worth it. Reflecting on her life, Dela realized that for the first time in her
+life, she had felt truly powerful. She was always powerless to stop her father
+from beating her when he got angry. She could not do anything to keep her
+mother from self-medicating her worries away. Being in control, even if it was
+part of one day, was worth any cost for Dela. Even if she knew that she was
+going to die, she would not have changed much about today. She just wished she
+could have had a chance to apologize Kaia and Lita. Maybe if things were
+different, they could've been friends? Dela's eyes filled with tears.
 
 "It's the wind in my eyes." Dela thought, "No way I'm crying over those
 losers."
@@ -1465,11 +1463,44 @@ losers."
 Dela closed her eyes. It didn't matter now. She was free. She relaxed her body
 and focused on her last few breaths. The blow from behind came sooner than Dela
 expected. She thought she would hear the explosion first and maybe have a
-chance to look back at it before it enveloped her. As she flew through the air
+chance to look back at the blast before it enveloped her. As she flew through the air
 with her eyes closed, she stretched out her arms and imagined she was a giant
 bird flying over the empty city towards an infinite horizon.
 
 ## Chapter 3
+
+Fire alarm wakes up Kaia and Lita. Aira said that Ryn left with Dela.
+
+They run to the exit. Pert and his posse are waiting there for Pert's father,
+but they decide to take advantage of the opportunity to harass the girls.
+Pert's head is bandaged after the collison with the HistorianHummingbird.
+
+"Afraid of a little fire?"
+
+"Wait a second. Did you replace one of your girlfriends already?"
+
+"I know you are one mistake away from going to prison, so you better just play along."
+
+A bird flies into Pert's face. 
+
+They meet Lans.
+
+Are you a Lunker too?
+
+A Lunker?! I was born to shine under the spotlight, not hide in the shadows!
+
+"Are you and Aira together?"
+
+"Me with her?! Oh no, a leading man needs a leading lady." Lans said looking at Ursa.
+
+An eagle brings Dela and the Principal down on top of a hill where Ryn is
+already waiting. 
+
+"How come the eagle didn't rip your shirt?"
+
+"Unlike you, I am friendly towards birds."
+
+Ryn followed Dela to the Principal's office to make sure she was OK. 
 
 "When you thought you were going to die, were you at any point concerned about
 my wellbeing?"
