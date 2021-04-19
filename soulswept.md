@@ -740,8 +740,80 @@ Pert, but was too weak to move Lita very far. Kaia opened her mouth to scream
 for help, but before she could make a sound, a HistorianHummingbird crashed
 into the side of Pert's face, sending him crashing to the floor.
 
-Dela gave Pert one more kick before the other two girls through the semicircle
-of stunned boys.
+Dela gave Pert one more kick before pulling the other two girls through the
+semicircle of stunned boys. After Lita recovered, she was dazed and confused,
+but she understood the need to run. Kaia's feet could barely keep from dragging
+on the ground while the other two girls carried her down the hallway.
+
+"Let's head to the theater.", Dela said, "It's dark inside and there are plenty
+of places to hide."
+
+Once inside the theater, the girls hid behind the curtains and tried to catch
+their breath. They were all tired, but still very much on-edge. They almost
+screamed when they noticed a set of four glowing eyes, arranged in the shape of a V, staring at the them.
+
+"Sorry to startle you.", said the four-eyed creature as it started to project a
+beam of light on the three girls.
+
+"Keep that light off of us, we are hiding.", Dela whispered sharply, blocking
+her eyes from the glaring light.
+
+"From whom?", the creature whispered back.
+
+"Bullies.", Dela replied.
+
+"Oh, bullies don't usually come to the theater. Is it OK if we turn on the
+lights? We really think you'll be safe here behind the curtain."
+
+"Alright, but if the bullies find us, I'm going to kick you in each one of your
+eyes."
+
+"That's fair.", the creature said as it moved towards the light switch.
+In the darkness, Kaia tried to count how many legs the creature had.
+
+When the lights were on, the three girls realized that the creature was
+actually two people, a boy and a girl, with their arms around each other and
+heads tilted towards each other. They were both dressed in black jumpsuits. The
+boy and the girl moved together as if they were one person. Whenever they had
+spoked earlier, the pair had spoken in unison. Lita began to pepper them with
+questions.
+
+"What are you doing back here? Why are you holding on to each other like that?
+Are you boyfriend and girlfriend? Why do your eyes glow in the dark?"
+
+The boy and girl looked surprised by all the questions and separated.
+
+"We work in the theater.", the boy said.
+
+"We are also wondering why you are holding on to each other.", the girl said
+gesturing toward the three girls.
+
+"Our friend is hurt.", Lita explained, "Now answer my questions."
+
+"We are brother and sister.", the boy said reluctantly.
+
+"We have a special connection that makes it easier to move around in the dark
+and its strongest when we are close together."
+
+"Can you see in the dark?"
+
+"Please don't tell anyone."
+
+"Are you Lunkers?"
+
+The boy and girl looked at each other with alarmed looks on their faces.
+
+"Yes, but please don't tell anyone. Nobody likes Lunkers here."
+
+"We're bullied enough as it is." the boy added.
+
+Clearly sympathizing with the pair now, Lita asked them about their names.
+
+"I'm Ren.", said the boy.
+
+"I'm Aira.", said the girl.
+
+""
 
 fit in at school.
 Thinking about her friendship with Lita, Kaia wondered if the only reason that
