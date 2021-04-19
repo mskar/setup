@@ -1360,7 +1360,7 @@ chest as he cried.
 "You mean the birds?!", Dela screamed. She suddenly felt filled with rage. She
 started kicking Ryn as hard as she could. When Ryn fell over, Dela stopped
 kicking and tried to pick him up, but he refused to stand up. Leaving Ryn
-behind, Dela raced to the Prinicipal's office and kicked down the door.
+behind, Dela raced to the Principal's office and kicked down the door.
 
 "Here's what's going to happen, you sack of-", Dela stopped when she saw that
 the Principal was sleeping in his usual position, head tilted back and mouth
@@ -1393,14 +1393,86 @@ Principal who couldn't keep his school from exploding?"
 "You're not so tough without your robotic animals and I had the BuzzBees give
 you a little something special before I blew them all up. I think you have so
 much pharma in your system right now that you'll need my help getting out of
-here."
+here. You definitely won't make it out if I'm trying to stop you."
 
 The Principal cleared his throat, and said "I can requesht a pardon from the
 E-" before vomiting all over Dela's leg.
 
-Dela recoiled in horror, then she instinctively kicked the Principal in the face, sending vomit flying in all directions.
+Dela recoiled in horror, then she instinctively kicked the Principal in the
+face, sending vomit flying in all directions.
 
-"Bring up the terms now!"
+"Request the pardon now!"
+
+The Principal wiped his face with the sleeve of his blazer and started entering
+the pardon requests as Dela stood over him making sure he did not try any
+tricks. The pardon requests were approved soon after the Principal submitted
+them. Dela hopped off the desk next to the Principal and read through each one
+of the pardons. When she was satisfied, Dela helped the Principal out of his
+chair and out the door of his office. The Principal was almost instantly
+out-of-breath, but impending death can be a powerful motivator and he kept
+moving towards the exit. Every other step that Dela took was followed by a
+squishing noise as the vomit in her shoe moved flowed back and forth. When they
+made it outside, they saw that the evacuation team had already cleared the
+blast zone. Dela guided the Principal to a microtransit vending machine.
+
+"Unlock it!"
+
+"What are-"
+
+"If you don't, we're both going to die."
+
+The Principal placed his palms on the machine and leaned in for the retinal
+scan. Dela made a selection using the accompanying display, and a black
+motocycle with a sidecar rolled up a ramp next to them. Dela ran to the
+motorcycle.
+
+"Wait, don't leaf me!" The Principal yelled reaching for Dela.
+
+"What do you think the sidecar is for?", Dela answered as she started the
+motorcycle.
+
+Dela spun the motorcycle around and pulled up next to the Principal who fell
+into the sidecar. Racing down the empty street, Dela tried to remember how much
+time was left before she left the school. Dela did not know how far the blast
+zone extended, but she knew that until she saw people, they wouldn't be safe.
+
+"How big is blast zone?", she yelled at the Principal.
+"To the treesh!", he yelled back.
+
+"What?"
+
+"We haf to make it to the treesh."
+
+Dela looked at where the Principal was pointing and realized that she was not
+going fast enough.
+
+Dela accelerated, but she knew that they had no chance of making it in time.
+Dela thought about what had happened that day. She had pushed back against the
+system and won. Even if only succeeded in smashing just a single cog in the
+machine of oppression, it was worth it. Reflecting on her life, Dela realized
+that for the first time in her life, she had felt truly powerful. She was
+always powerless to stop her father from beating her when he got angry. She
+could not do anything to keep her mother from self-medicating her worries away.
+Being in control, even if it was part of one day, was worth any cost for Dela.
+Even if she knew that she was going to die, she would not have changed much
+about today. She just wished she could have had a chance to apologize Kaia and
+Lita. Maybe if things were different, they could've been friends? Dela's eyes
+filled with tears.
+
+"It's the wind in my eyes." Dela thought, "No way I'm crying over those
+losers."
+
+Dela closed her eyes. It didn't matter now. She was free. She relaxed her body
+and focused on her last few breaths. The blow from behind came sooner than Dela
+expected. She thought she would hear the explosion first and maybe have a
+chance to look back at it before it enveloped her. As she flew through the air
+with her eyes closed, she stretched out her arms and imagined she was a giant
+bird flying over the empty city towards an infinite horizon.
+
+## Chapter 3
+
+"When you thought you were going to die, were you at any point concerned about
+my wellbeing?"
 
 fit in at school. Thinking about her friendship with Lita,
 Kaia wondered if the only reason that they were friends was because they were
