@@ -792,8 +792,12 @@ gesturing toward the three girls.
 
 "We are brother and sister.", the boy said reluctantly.
 
+"We're twins." the girl added.
+
+"And you why were you holding onto each other before?"
+
 "We have a special connection that makes it easier to move around in the dark
-and its strongest when we are close together."
+and our connection is strongest when we are close together."
 
 "Can you see in the dark?"
 
@@ -813,11 +817,126 @@ Clearly sympathizing with the pair now, Lita asked them about their names.
 
 "I'm Aira.", said the girl.
 
-""
+"Nice to meet you both. I'm Lita, the one with frizzy hair is Kaia, next to her
+is Dela". Lita smiled. "I'd shake your hand but my hands are kinda busy."
 
-fit in at school.
-Thinking about her friendship with Lita, Kaia wondered if the only reason that
-they were friends was because they were both abnormal.
+"I noticed you don't have a shirt on. We can lend you one from the theater."
+Aira said.
+
+"but you'll have to bring it back tomorrow or the theater director will kill
+us!", Ren added.
+
+Lita left Kaia with Dela and went with Aira to choose a shirt from among the
+many costumes in the theater. Ren moved closer to Kaia and Dela.
+
+"I think what you did in the gymnasium was very brave. I'll never forget when I
+went through the ceremony. It was horrible."
+
+"Well, all three of us still have to go through it."
+
+"But you already did it, right?", Ren said looking at Kaia.
+
+"That didn't count." Dela answered.
+
+"Is there a place where we can lie down?" Kaia asked.
+
+"Yeah, I would love to not have to lug this loser around anymore.", Dela added.
+
+"Yes, there is, but you can't tell anyone.", Ren said.
+
+"We get the idea, Ren.", Dela said, "We're not going to tell anyone anything."
+
+"Ok, Aira and I built a secret bed so we could sleep in the theater during work breaks."
+
+During the awkward silence that ensued, Kaia wished Lita were back so she could
+diffuse the situation with a joke. Dela couldn't resist.
+
+"You sleep with your sister? In a secret bed? That you built yourselves, so you
+could sleep together?", Dela asked smiling mischievously.
+
+Ren was so embarrassed, he started to stammer. Dela didn't relent.
+
+"How long have you been sleeping together? Is the sleep still good?"
+
+Ren ran away with tears in his eyes.
+
+Kaia was furious. "He was helping us and you started bullying him!"
+
+"We don't need his help. He was useless. He won't make it through the first few
+days of the revolution. Let's go find Lita." Dela responded.
+
+Not having the strength to stand on her own, Kaia had no choice but to hobble
+along with Dela as they went in the direction that Lita and Aira had gone.
+
+They found Lita twirling in front of a full-length mirror, wearing a long flowing shirt
+covered by an elegant bodice. She was spinning gracefully despite the tall
+heels she had on. When Lita saw Dela and Kaia, she stopped twirling and struck
+a pose. The sight of Lita took Kaia's breath away.
+
+"How do I look?", Lita asked.
+
+"Like a GuardGorilla in a milk maid outfit.", Dela said.
+
+"What is it with you?", Kaia screamed pushing Dela away. Suddenly standing on
+her own, Kaia stumbled and fell towards Lita. Landing on her hands and knees,
+Kaia was wracked with pain. She was shaking as Lita helped her stand up. When
+confronted with her reflection in the mirror, Kaia was horrified. Her hair was
+a tattered, frizzled mess. Her face was caked with sweat and dried blood. Long
+trails of tears extended below her eyes down to her chin and a similar trail
+went from her nose to her upper lip. Next to Lita, Kaia looked like a gnarled
+monster, not even human. Kaia started to tremble uncontrollably as she went
+into a panic attack.
+
+Seeing the effect her own reflection was having on Kaia, Lita turned Kaia away
+from the mirror.
+
+"Help me find a place for her to rest." Lita yelled at Aira.
+
+"Alright, but you can't tell anyone-"
+
+"Just take her to the goddamn bed!", Dela screamed.
+
+When Kaia collapsed onto the bed, she was still shaking like a 9-point Richter
+scale quake. Lita laid down next to Kaia, cradling Kaia in her arms. Kaia
+buried her face in Lita's shirt just above the bodice. The smell of the starchy
+shirt mixing with Lita's scent was heavenly. Soon Kaia stopped trembling and
+her body relaxed. Kaia lifted her face up to look at Lita. Lita was so radiant
+and beautiful that Kaia began to cry.
+
+Lita leaned in a kissed Kaia's cheeks, catching the fresh tears with her lips.
+Kaia fell asleep with a smile on her face as Lita slowly showered her with
+kisses. The blissful look on Kaia's face warmed Lita's heart. They were
+together. They were safe, at least for now. The world melted away. Lita did not
+realize how she was exhausted until now. With one arm still around Kaia, Lita
+tugged futilely at the bindings of her bodice.
+
+"Let me help you", Aira said, as she deftly undid the bindings of the bodice
+and pulled it out from under Lita. This kind gesture surprised Lita so much
+that she began to cry. Through the tears, Lita looked at Aira with gratitude.
+
+"Don't cry.", Aira said, unfastening and removing Lita's heels and then pulling
+up the blankets to cover Kaia and Lita, "You're safe here and I'll stay and
+watch over you."
+
+Unable to recall anyone other than Kaia being kind to her, Lita let out a sob.
+Afraid she had said something wrong, Aira stepped backwards.
+
+"I'm going to turn off the lights."
+
+As the theater descended into darkness, Lita snuggled up to Kaia, greedily
+interlacing their legs and pulling Kaia closer with her arms. Recalling how
+Kaia often breathed in deep when they hugged, Lita rested her nose on top of
+Kaia's head and filled her lungs with the scent of Kaia's hair. The darkness
+around Lita exploded with a kaleidoscope of shimmering colors. With another
+breath, Lita began to float in between the colors as they gently twinkled
+around her. By the third breath, Lita was in another plane of existence
+entirely, gently drifting off to sleep in the arms of her best friend.
+
+Kaia wakes up incredibly thirsty.
+
+fit in at school. Thinking
+about her friendship with Lita, Kaia wondered if the only reason that they were
+friends was because they were both abnormal.
 
 Lita did not suffer from mental illness like Kaia. Instead, Lita had a
 neurological condition called epilepsy.
