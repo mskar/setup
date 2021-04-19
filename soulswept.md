@@ -44,7 +44,7 @@ embraced. Several students in their vicinity started to jeer.
 
 "Looks like the sexual tension was too much for them!"
 
-"Which one is butch? Which one is femme?"
+"Which one is butch? And what do you call the other one?"
 
 Kaia wondered if she was imagining the jeers until she felt Lita tense up and
 eventually withdraw from their embrace. For as long as she could remember, Kaia
@@ -446,11 +446,11 @@ gigaphone."
 
 "Can you teach me to build things?", Lita asked.
 
-"Okay, but only if you want to help with the revolution."
+"I'd only teach you if you were part of the revolution."
 
 "The revolution?"
 
-"We're going to overthrow the CorporateCouncil and the EternalEnlightened."
+"The revolution is a movement that will overthrow the government and build a better world."
 
 "How are we going to do that?"
 
@@ -506,8 +506,8 @@ with the TaserTutor. Why did you only provide responses for some of the tasks?
 Were you suffering from a psychotic episode? Or were you making a statement
 against corporeal punishment in the school system?"
 
-Surprised to suddenly become the center of attention, Kaia felt her cheeks burn
-red with embarrassment. She understood the reasoning behind the question. The
+Surprised to suddenly become the center of attention, Kaia felt her cheeks become flushed
+with embarrassment. She understood the reasoning behind the question. The
 school had access to all of her medical records, including her diagnoses. Kaia
 looked back and forth between Lita and Dela. She wanted to be defiant and
 strong like they were. She did not want mental illness to be the reason she got
@@ -538,36 +538,197 @@ the Principal asked.
 
 "I never even met them until you brought them in here!", Dela exclaimed.
 
-"We have a verdict!", the Principal shouted.
+"We have results!", the Principal shouted and read the verdicts and sentences
+one after another.
 
 "Ferdinandela Fridzia, you are found guilty of all charges and are sentenced to
-six years in juvenile detention. The sentence will be suspended and you will be
-allowed to begin your high school studies if you agree to complete the
-initiation ceremony, perform community service, and sign a statement disavowing
-all previous political statements and activities."
+four years in juvenile detention."
+
+
+"Kaiakeilaila Arkadia, you are found guilty of all charges and are sentenced to
+three years in juvenile detention."
+
+
+"Satalitastra Azimuta, you are found guilty of all charges and are sentenced to
+one year in juvenile detention."
+
+"Your sentences can be suspended and you can be allowed to begin your high
+school studies if you agree to complete the initiation ceremony, perform
+community service, and sign a statement disavowing all previous political
+statements and activities. You each can each agree or disagree to the sentence
+suspension terms. You must decide before leaving this office."
+
+"We should all agree.", Kaia said quickly looking at the other two girls.
 
 "I'm not going to agree to anything.", Dela replied dourly.
 
-"Kaiakeilaila Arkadia, you are found guilty of all charges and are sentenced to
-four years in juvenile detention. The sentence will be suspended and you will
-be allowed to begin your high school studies if you agree to retry the
-initiation ceremony, perform community service, and sign a statement disavowing
-all previous political statements and activities."
+"If you go to prison, we'll never see you again! If you stay, maybe we can be
+friends?"
 
-The Principal continued before Kaia could figure out what to say.
+"I don't want friends, I want to smash the system!"
 
-"Satalitastra Azimuta, you are found guilty of all charges and are sentenced to
-one year in juvenile detention. The sentence will be suspended and you will be
-allowed to begin your high school studies if you agree to complete the
-initiation ceremony, perform community service, and sign a statement affirming
-that your actions were not political in nature."
+"You can't start a revolution from inside prison.", Lita said.
+
+"I don't care. I stand by what I did and said."
+
+While Lita kept trying to convince Dela, Kaia looked at the Principal, who had
+zoned out and tapping listlessly on his desk console.
+
+"He wants you to refuse, so he can send you to prison and not have
+to deal with you! Are you just going to give him what he wants?"
+
+When Dela did not answer, Kaia got the Principal's attention.
+
+"Principal Naksos, what do you think we should do?"
+
+The Principal looked up from the console and looked confused.
+
+"What decision do you think we should make? Should we accept or refuse?"
+
+"I would encourage you to not compromise your deeply held beliefs. It is very
+likely you would all end up in prison anyway, so refusing the sentence
+suspension terms would save everyone a great deal of time and effort."
+
+"Thank you for sharing your thoughts.", Kaia said, "but I think we're all
+going to agree to the terms."
+
+"Accepting the terms will be extremely bothersome for everyone. First, we would
+have to deal with the disavowal statements. Then, you all will have to go
+through the initiation ceremony, find community service opportunities, and
+complete the required community service hours in addition to your studies."
+
+"That honestly sounds better than going to prison.", Lita said.
+
+"If you accept the terms, I can assure you that high school will be a living
+hell for you. Given the events that occurred today, it is almost certain that
+you will be ostracized by your peers and targeted by bullies. It won't be too
+long before you will be wishing for peace and quiet of the penal system."
+
+"Why are you trying so hard to convince us to refuse?", Dela asked.
+
+"Your chances of success in high school are close to non-existent and your
+chances of finding employment after high school are even lower. Even if you do
+everything perfectly, you will still end up in prison sooner or later after
+prolonged unemployment. The automatic background checks will always point the
+recordings from the ceremony today. Do you really think anyone would want to
+hire you after seeing what happened?"
+
+The Principal replayed the recordings of the ceremony on the walls of his
+office.
+
+"I've seen a lot of students go through this school and I can always predict
+which students will end up as prison laborers. Well, since the vast majority of
+public school students end up in the penal system, I would be correct most of
+the time even if I blindly guessed that everyone would go to prison.
+Nevertheless, you can trust me when I say by accepting the terms you will only
+be setting yourselves up for disappointment."
+
+"It's better to try and fail, then to never try at all.", Lita said.
+
+"I disagree. The penal system is really not that bad. Plenty of people go to
+prison voluntarily to avoid the perils of a life in poverty. In prison, you
+will be guaranteed ample food, water, heat, and oxygen, as long as you work. I
+hear weightlessness is great fun and the views are majestic. After a few years
+in prison, you will become physiologically adapted to space and you won't even
+want to return to Earth."
+
+"If it's so great, why don't you go?", Dela asked sarcastically.
+
+The Principal cleared his throat nervously.
+
+"I am needed here. My sacred duty of molding young minds is of utmost
+importance. Of course, I also cannot abandon my dear son Pert."
+
+The Principal called up an image of a young man flexing his muscles and
+sticking out his tongue.
+
+"That's the guy who was heckling us during the ceremony!", Lita exclaimed.
+
+"He is quite the precocious young man.", the Principal said fondly.
+
+"If your son were in our situation, would you recommend that he enter the penal
+system too?", Kaia asked.
+
+"Of course not!", the Principal shouted, turning red and getting flustered.
+
+"Pertik has a bright future ahead of him! I would never send him to rot in
+that-"
+
+The Principal stopped when he realized that he was hurting his own argument.
+
+"Don't you think it might be better to accept the terms, Dela?", Kaia asked.
+
+"Fine, I'll accept, but that doesn't mean I'm going to be friends with you two
+losers.", Dela huffed.
+
+"I can tell we're going to get along swimmingly.", Lita quipped.
+
+"We are ready to sign the statements.", Kaia said to the Principal, trying to
+move things along before Dela had a chance to change her mind.
+
+"I truly believe you are making a mistake.", the Principal said shaking his head.
+
+Seeing that the girls were adamant, the Principal sighed and brought up three
+copies of the disavowal statement on the desk, one in front of each girl.
+
+"Go ahead and sign, but don't come complaining to me when you inevitably fail."
+
+The three girls started scrolling through statements, carefully reading each
+word.
+
+ Kaia finished reading first. "Why does the-"
+
+"The statement text is non-negotiable.", the Principal said sharply, cutting Kaia off.
+
+"But I don't under-"
+
+"If your families could afford attorneys, they would have paid into your school
+accounts. It is not my job to explain legalese to you. I told you that
+accepting the terms was going to be a huge burden on everyone!"
+
+After going over the statement again, Kaia placed her palms on the desk to sign
+the statement. A few moments later, Lita did the same. The two girls turned
+their attention to Dela, who was staring at the statement with clenched fists.
+
+When Dela noticed the other two girls looking at her, she exploded.
+
+"This is bull-"
+
+"Just sign it already, so we can get out of here!", Lita pleaded.
+
+Dela slammed her palms on the desk to sign the statement and proceeded to kick
+the desk repeatedly.
+
+"That's real mahogany!", the Principal lamented.
+
+"Come on. Help me lift Kaia.", Lita said pulling Dela with one hand and
+covering herself with the other hand.
+
+As soon as Lita got up from her chair, the Principal became entranced and soon
+forgot about any damage that his desk might have sustained.
+
+Exiting the Principal's office required a team effort. It took all of Kaia's
+strength just to hold onto the other girls. With Lita trying to cover herself,
+it was up to Dela to open the door. As soon as they made it past the door, they
+were greeted by a familiar voice.
+
+"Hey guys, who ordered the lesbo sandwich with butch bread?"
+
+A handful of boys started laughing and exchanging high-fives in front of the
+office door. The boy had been waiting for the three girls to exit. The girls
+recognized that the boy speaking to them was Pert.
+
+"If you play your cards right, I add some of my special sauce to your crappy
+sandwich."
 
 
-...
+The boys went beserk.
 
+""
 
-fit in at school. Thinking about her friendship with Lita, Kaia wondered if the
-only reason that they were friends was because they were both abnormal.
+fit in at school.
+Thinking about her friendship with Lita, Kaia wondered if the only reason that
+they were friends was because they were both abnormal.
 
 Lita did not suffer from mental illness like Kaia. Instead, Lita had a
 neurological condition called epilepsy.
