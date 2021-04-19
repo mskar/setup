@@ -1,5 +1,7 @@
 # Soulswept
 
+## Chapter 1
+
 Kaia would have given anything to be normal. Filled with dread and paralyzed by
 anxiety, she wished she could be carefree and unconcerned like the other
 students in the cacophonous gymnasium.
@@ -813,7 +815,7 @@ The boy and girl looked at each other with alarmed looks on their faces.
 
 Clearly sympathizing with the pair now, Lita asked them about their names.
 
-"I'm Ren.", said the boy.
+"I'm Ryn.", said the boy.
 
 "I'm Aira.", said the girl.
 
@@ -824,17 +826,17 @@ is Dela". Lita smiled. "I'd shake your hand but my hands are kinda busy."
 Aira said.
 
 "but you'll have to bring it back tomorrow or the theater director will kill
-us!", Ren added.
+us!", Ryn added.
 
 Lita left Kaia with Dela and went with Aira to choose a shirt from among the
-many costumes in the theater. Ren moved closer to Kaia and Dela.
+many costumes in the theater. Ryn moved closer to Kaia and Dela.
 
 "I think what you did in the gymnasium was very brave. I'll never forget when I
 went through the ceremony. It was horrible."
 
 "Well, all three of us still have to go through it."
 
-"But you already did it, right?", Ren said looking at Kaia.
+"But you already did it, right?", Ryn said looking at Kaia.
 
 "That didn't count." Dela answered.
 
@@ -842,9 +844,9 @@ went through the ceremony. It was horrible."
 
 "Yeah, I would love to not have to lug this loser around anymore.", Dela added.
 
-"Yes, there is, but you can't tell anyone.", Ren said.
+"Yes, there is, but you can't tell anyone.", Ryn said.
 
-"We get the idea, Ren.", Dela said, "We're not going to tell anyone anything."
+"We get the idea, Ryn.", Dela said, "We're not going to tell anyone anything."
 
 "Ok, Aira and I built a secret bed so we could sleep in the theater during work breaks."
 
@@ -852,18 +854,21 @@ During the awkward silence that ensued, Kaia wished Lita were back so she could
 diffuse the situation with a joke. Dela couldn't resist.
 
 "You sleep with your sister? In a secret bed? That you built yourselves, so you
-could sleep together?", Dela asked smiling mischievously.
+could sleep together? Is that a normal thing for Lunkers?", Dela asked smiling
+mischievously.
 
-Ren was so embarrassed, he started to stammer. Dela didn't relent.
+Ryn was so embarrassed, he started to stammer. Dela didn't relent.
 
-"How long have you been sleeping together? Is the sleep still good?"
+"How long have you been sleeping together? Is the sleep still good? Are you
+doing anything to spice it up? A new pillow maybe?"
 
-Ren ran away with tears in his eyes.
+Ryn covered his face with hands to cover the tears in his eyes and exited stage
+left.
 
-Kaia was furious. "He was helping us and you started bullying him!"
-
-"We don't need his help. He was useless. He won't make it through the first few
-days of the revolution. Let's go find Lita." Dela responded.
+Kaia was furious. "He was helping us and you started bullying him!" Dela still
+laughing. "What a drama queen! We don't need his help. He was useless. He won't make
+it through the first few days of the revolution. Let's go find Lita." Dela
+responded.
 
 Not having the strength to stand on her own, Kaia had no choice but to hobble
 along with Dela as they went in the direction that Lita and Aira had gone.
@@ -930,13 +935,476 @@ Kaia's head and filled her lungs with the scent of Kaia's hair. The darkness
 around Lita exploded with a kaleidoscope of shimmering colors. With another
 breath, Lita began to float in between the colors as they gently twinkled
 around her. By the third breath, Lita was in another plane of existence
-entirely, gently drifting off to sleep in the arms of her best friend.
+entirely, gently drifting off to sleep in the arms of her lifelong best friend.
 
-Kaia wakes up incredibly thirsty.
+## Chapter 2
 
-fit in at school. Thinking
-about her friendship with Lita, Kaia wondered if the only reason that they were
-friends was because they were both abnormal.
+"Why am I like this?", Dela thought as covered her mouth so no one would hear
+her crying. She had been drifting in and out of sleep on the hard concrete
+floor of the theater, but images of SecuritySimians, Lita, Kaia and the
+Principal kept waking her up. She wanted to lay down in the secret bed, it
+looked really nice, but she felt responsible for Kaia having a panic attack and
+did not feel she deserved to be comfortable.
+
+"I don't need sleep. Beds are for the weak. The only thing that matters is the
+revolution.", Dela thought as she got up and started trying to find her way out
+of the theater in complete darkness. With each step, she probed the ground
+beneath her. She hadn't gotten very far when she noticed two glowing eyes
+observing her in the darkness.
+
+"You know you are creepy as hell.", Dela said.
+
+"Yes, I am aware of that. I am still learning how to interact with topsiders. My
+sister is much better. She is a people person.", Ryn answered.
+
+"Well, then bring her here. I'd rather talk to her."
+
+"She is watching over Lita and Kaia. If they wake up in the darkness-"
+
+"Shut up. I need to get out of here and you're going to help me."
+
+Ryn breathed deeply, trying to calm himself.
+
+"The things you said earlier really hurt-"
+
+"Shut up. I don't care. Just show me the way out."
+
+Ryn drew in a big breathe. "I'm not going to help you until you apologize and
+agree to be nicer to me."
+
+"I'm not going to apologize!"
+
+"Then fumble around in the darkness by yourself." Ryn said, turning around to
+leave.
+
+"Wait!" Dela said, "If you don't help me, I'm going to tell everyone about your
+secret bed."
+
+Ryn turned around, his eyes wide with shock.
+
+"I'll also make sure everyone knows you sleep with your sister."
+
+Ryn whimpered and started crying. The glow from his eyes
+illuminated the tears rolling down his cheeks until they disappeared in the
+darkness.
+
+"Stop crying and get me out of here!"
+
+Wiping his eyes, Ryn walked closer to Dela.
+
+"What the hell are you doing?"
+
+"I'm going to guide you to the exit."
+
+"Hell no, just turn on the lights!"
+
+"The light might wake up Kaia and Dela."
+
+"Ok, then go get a flashlight."
+
+"Aira has it and we only have one. She needs it in case Kaia and Dela-."
+
+"How the hell are you planning to get me out of here?"
+
+"I can guide you out if you just hold my hand."
+
+"You're crazy, I'm not holding your hand. We're not in preschool."
+
+"Are as you afraid of holding hands as you are afraid of the dark?"
+
+"I'm not afraid of anything!"
+
+"Then will you let me help you?"
+
+"Fine, just get me out of here!"
+
+Ryn's hand was suprisingly calloused and strong, his grip on Dela's hand was
+gentle but firm. He walked slowly because Dela still felt uncertain about
+walking in the dark.
+
+"You hands are quite manly hands, considering you are such a wimp."
+
+"It's from working on the theater sets. Aira and I build them all ourselves."
+
+"Have you ever even held hands with a girl before? Other than your sister, of
+course."
+
+Ryn stopped for a second, "What is the significance of holding a girl's hand?",
+he asked.
+
+Dela laughed in his face or at least where she assumed his face was based on
+the position of his eyes. She stopped laughing when she realized that Ryn was
+being serious.
+
+"You really don't know?!"
+
+Ryn looked down in embarrassment.
+
+"People hold hands when they're going out together."
+
+"Yes, we are holding hands and we are going out of the theater together."
+
+"No, I mean going out as in they're boyfriend and girlfriend."
+
+"Are Kaia and Lita boyfriend and girlfriend?"
+
+"No, they're both girls! Can't you tell?!"
+
+"I can. I am just not sure about the words. People can be friends, but
+sometimes when they say boyfriend and girlfriend, it means something
+different."
+
+"What do Lunkers say instead of boyfriend and girlfriend?"
+
+"I think we say mate."
+
+"Lunkers are weird."
+
+"I think it is weird that topsiders say things that they know are not true or
+say things to hurt each other on purpose."
+
+"Are you talking about lies and insults?"
+
+"Yes, those are the words."
+
+"Do Lunkers always tell the truth and never insult each other?"
+
+"If someone believes that telling lies can help others, then I can at least
+understand the logic behind deception, even if I disagree, but I do not
+understand the point of insults at all. I might say another to another Lunker
+that I dislike the sound of their voice, but that is irrelevant. If I said to
+another Lunker that their eyes glow dimly in the darkness, it would be out of
+genuine concern for their wellbeing, not an insult. I think living in the darkness
+helps us to build compassion."
+
+"If you don't know how to lie, you are going to believe every lie you hear. If
+you don't know how to insult someone, you won't know know how to defend
+yourself."
+
+Ryn was quiet for a while. Dela realized that they had been talking in the dark
+for a long time.
+
+"Keep walking.", Dela said shaking Ryn's hand to indicate urgency. Ryn complied.
+
+"Can you teach me to lie to others and insult them?", Ryn asked shyly.
+
+Dela laughed again, but this time with less malice.
+
+"I'll only teach you if join the revolution."
+
+"The revolution?"
+
+"We're going to overthrow the government!"
+
+"The government is not nice to Lunkers. They search our caves for precious
+minerals with blindingly bright lights. If they find anything, we have to move
+our settlements to avoid the drilling machines."
+
+"In the new world we are going to build, there will be justice for everyone,
+even Lunkers."
+
+"If I can help people by joining your revolution, then I am happy to do so."
+
+"I'm not sure what a wimp like you is going to be able to contribute, but maybe
+you can at least be good cannon fodder."
+
+"What is cannon fodder?"
+
+"It's when expendable people are used to absorb enemy fire."
+
+"I am starting to think you do not care much about others."
+
+"I don't care what you think. Are we almost there yet? I feel like we are going
+in circles."
+
+"That is because we are going in circles."
+
+"What?"
+
+"I have been practicing deception to try to understand your motivations, elicit
+sympathy in you, and to learn more about topsiders in general."
+
+"You dirty moleman!", Dela screamed at Ryn, throwing his hand off to the side.
+
+"Did you know that Lunkers do not consider the word 'moleman' to be an insult?
+It sounds like molmin, a Lunker word meaning well-crafted or done with
+purpose and skill."
+
+"I don't care about your stupid language!"
+
+"The word 'Lunker' was actually considered a slur until the government made it
+the official name for our people."
+
+"Nobody cares about Lunkers, because you are all pushovers!"
+
+"If we try to resist the government, they release poisonous gas into our
+tunnels. The gas burns our skin, especially our eyes. If anyone breathes it in,
+they die. The gas poisons our food and water. Even with filter masks, we-"
+
+"You all deserve to be gassed, you filthy Lunker molemen!"
+
+Ryn covered his face with his hands as he started sobbing violently. With Ryn's
+eyes closed, the darkness in front of Dela was complete.
+
+"They all died." he whimpered, falling to the ground and shaking
+uncontrollably. "Aira and I were the only ones who made it. The gas was
+clogging the filters and everyone was suffocating. They gave us all their spare
+filters and helped us get out even though they could not breathe. We left them
+behind to save ourselves. I still see their melted faces whenever I close my
+eyes."
+
+Dela stood over Ryn with tears in her eyes. She was angry at Ryn for being so
+weak and angry at herself for crying and wasting time on such a weakling. "If
+Lunkers are so easy to kill, maybe they deserve it.", Dela thought. She wiped
+her face and used the sound of crying to locate Ryn's head. She kicked out her
+foot and was surprised at how solidly her shoe connect with the source of the
+crying.
+
+"Stop crying and get up!" 
+
+When Ryn kept crying, Dela was furious. She kicked him repeatedly until she was
+gasping for breath from the exertion. Ryn was not making any sound whatsoever.
+Dela dropped to her hands and knees, listening for breathing or any signs of
+life.
+
+"Are you concerned for my wellbeing?", Ryn asked, scaring Dela.
+
+"No!", Dela replied, punching Ryn in one of the eyes he had just opened.
+
+It was silent and dark for a while before Ryn spoke again.
+
+"I am sorry for crying. I can still help you, but could you stop hurting me
+please? If my eyes swell up more, I will not be able to see in the dark."
+
+Dela stood up and gave Ryn another kick. "I will stop hurting you when stop
+being such a weakling. Now get up!"
+
+Ryn got up and shrunk away from Dela. The shape of his eyes were different.
+"His eyes really are swollen.", Dela thought realizing that she had been
+kicking Ryn in the face.
+
+"Help me out of here or I will smash up your face so much we'll both be stuck
+here."
+
+This time Ryn did not delay in taking Dela to the exit. When they moved past
+the last curtain. Dela looked Ryn who was shielding his eyes from the light.
+His face was swollen and covered with bruises. Was he not defending himself at
+all from her kicks? Ryn turned around to leave.
+
+"Oh no, you're not off the hook yet.", Dela said.
+
+Ryn froze, then turned around with a pitiful look on his face.
+
+"Please, no more.", he mumbled.
+
+"I need to destroy a TaserTutor, actually burning down the entire gym down
+will be better, and you're going to help me."
+
+"No, I can't." Ryn pleaded.
+
+"If you don't, I will tell everyone about your filthy, incestuous relationship
+with your sister."
+
+"No, it's not true."
+
+"I'll help the bullies beat you and your sister into a pulp."
+
+"Please no. Please don't hurt Aira." Ryn said crying.
+
+"No crying!", Dela yelled slapping Ryn in the face, "Or I'll rip her apart and
+make you watch."
+
+Ryn bit his knuckle to bring himself under control.
+
+"Ok, I'll do anything, but please don't hurt Aira." his voice quivering.
+
+"Get moving. We can't waste anymore time" Dela said shoving Ryn out the door of
+the theater.
+
+Outside the theater, Ryn took a long time to get used to bright lights. Dela
+realized that both of their faces were covered with bruises and that they were attracting the attention of nearby students.
+
+"Come on, people are starting to stare at your stupid, swollen face."
+
+"I am sorry my face is swollen."
+
+"You've never looked better. Now move or I'll make a few more improvements."
+
+"How are you going to burn down the gymnasium?"
+
+"You mean, how are WE going to burn down the gym. WE are going to overload all
+of the power cells in all of the robotic animals."
+
+"But that will cause a huge explosion!"
+
+"If we're lucky. Now keep your voice down or someone will hear us."
+
+"There are people in the gymnasium. The ceremony is still ongoing."
+
+"I don't care about them."
+
+"I won't let anyone get hurt. What if we set off the fire alarm before the
+explosion?"
+
+"Sure, that's fine as long as the TaserTutor is destroyed."
+
+"Ok, but you can't tell anyone anything.", Ryn said.
+
+When Dela nodded, Ryn led her down several hallways and up to a set of windows.
+
+"Help me open all the windows.", Ryn said.
+
+"You can kill yourself after we blow up the gym, not before."
+
+"I don't want to kill myself. I just want to create a diversion."
+
+"What?"
+
+"Just help me it will be faster if we work together."
+
+After opening all the windows, Dela grew impatient when nothing happened.
+
+"What are we waiting for? Why are we wasting time just standing her?"
+
+"Please wait.", Ryn said with eyes closed.
+
+"What the hell are you doing? Snap out of it.", Dela said grabbing his
+shoulders and shaking him.
+
+"I'm creating a diversion."
+
+"By standing next to a window with your eyes closed? Are you a lizard that
+needs sit in the sun to stay warm? Are you making food from the sunlight like a
+plant?"
+
+"How did you know I can photosynthesize?", Ryn asked opening his eyes wide in
+shock. When Ryn realized that Dela did not know that he could photosynthesize
+until he gave it away, he got flustered.
+
+"You can't tell anyone anything!", Ryn exclaimed.
+
+"Fine! Just hurry it up with your diversion."
+
+"Ok, it's ready. Now move away from window."
+
+"First, we need to stand next to window and now we need to move away? What the
+hell are you-"
+
+Ryn grabbed Dela's hand, pulled her into a corner, and used his body to shield
+her from the flood of birds that were flying in through the open windows.
+
+When the birds passed, Ryn pulled Dela out of the corner and ran with her down
+the hallway after the mass of birds. All through the hallways, robotic animals
+fought with the birds. Ryn ran up to a door and placed his palms on the door
+and brought his closer for a retina scan. They went through the open door and saw an empty room with a large table in the center. As the door closed behind them, the sounds of the chaotic battle in the hallway faded away and an automated voice greeted them.
+
+"Welcome Principal Naksos.", the voice said.
+
+"What?", Dela asked.
+
+"I gave myself the Principal's fingerprints and retinas, so I could access
+any system in the school. You can't tell anyone anything."
+
+"That's actually kinda awesome.", Dela admitted.
+
+"I will do anything to protect Aira.", Ryn said getting emotional again.
+
+"Ok, I get it. Let's get this over with."
+
+"I am going to unlock the control center. You start the fire alarm and I will
+detonate the robotic animals after everyone is clear."
+
+Ryn used his palms and eyes to activate the table. When Dela walked up to it, a
+console appeared. She had administrative access to the entire school system.
+Dela did not waste any time setting off the first alarm. Ryn was busy working
+on the console. First, he had the TaserTutor release the student currently
+going through the ceremony. Then, he had the automated voice tell everyone to
+evacuate. Finally, he had all of the robotic animals surround the TaserTutor
+before sending the command for them to detonate.
+
+"It is done. We should go now."
+
+"Not yet.", Dela replied.
+
+"The TaserTutor is destroyed, the gymnasium is buried in rubble. What are you
+doing?"
+
+"Shut up. You had all of this power and you didn't use it. You're an idiot!"
+
+Ryn ran over to Dela and looked at what she was entering into the console.
+
+"If you detonate all of the robotic animals, people could get hurt!"
+Ryn tried to pull Dela away from the console, but he was swarmed with BuzzBees.
+
+"Don't hurt Aira." Ryn said as he succumbed to the BuzzBee stings.
+
+Turning back to the console, Dela finished detonating all of the remaining
+robotic animals except a handful of WakeupWasps which she sent to revive Ryn.
+As Ryn was waking up, Dela initiated the self-destruct sequence of the school
+reactor, opened the door to the control room, and locked the control console.
+An automated voice announced that they should evacuate the building. Dela
+grabbed Ryn by the hand and yanked him outside. They ran through a charred
+hallway filled with rubble, the remains of exploded robotic animals, and bodies
+of dead birds. Ryn suddenly stopped and fell to his knees crying.
+
+"Why are you stopping?"
+
+"They're dead. You killed them."
+
+"I didn't kill anyone. I made sure only to detonate the robots if there were no
+people around."
+
+Ryn gingerly picked up the burnt carcass of a dead bird and hugged it to his
+chest as he cried.
+
+"You mean the birds?!", Dela screamed. She suddenly felt filled with rage. She
+started kicking Ryn as hard as she could. When Ryn fell over, Dela stopped
+kicking and tried to pick him up, but he refused to stand up. Leaving Ryn
+behind, Dela raced to the Prinicipal's office and kicked down the door.
+
+"Here's what's going to happen, you sack of-", Dela stopped when she saw that
+the Principal was sleeping in his usual position, head tilted back and mouth
+opened. Jumping on top of the desk, Dela kicked the Principal in his face until
+he woke up. Placing her foot on his chest and leaning in as if were stretching
+her psoas muscle, Dela looked at the Principal menacingly.
+
+"This school and everyone in it is going to get blown up if I don't get what I
+want.", Dela said, "Do I have your attention?".
+
+"Yesh", the Principal wheezed.
+
+"I want you a full pardon for me and the other girls."
+
+"I don't haf that aufority!"
+
+"Then you better find someone who does or we are both going to die here."
+
+"Your bluffing."
+
+"Are you sure? Take your time trying to figure it out, I'm not in a rush."
+
+"A shtrike team hash already been dishpatched."
+
+"Are they really going to charge into the blast zone just to save a drug addict
+Principal who couldn't keep his school from exploding?"
+
+"You can't shtop me. I'm shtronger fan you."
+
+"You're not so tough without your robotic animals and I had the BuzzBees give
+you a little something special before I blew them all up. I think you have so
+much pharma in your system right now that you'll need my help getting out of
+here."
+
+The Principal cleared his throat, and said "I can requesht a pardon from the
+E-" before vomiting all over Dela's leg.
+
+Dela recoiled in horror, then she instinctively kicked the Principal in the face, sending vomit flying in all directions.
+
+"Bring up the terms now!"
+
+fit in at school. Thinking about her friendship with Lita,
+Kaia wondered if the only reason that they were friends was because they were
+both abnormal.
 
 Lita did not suffer from mental illness like Kaia. Instead, Lita had a
 neurological condition called epilepsy.
