@@ -469,6 +469,9 @@ wrapping her arms around her shins.
 "What happened to your other shoe? And what happened to your shirt?", he asked
 disapprovingly.
 
+Kaia watched helplessly as Lita slipped into a seizure. Luckily, Lita stayed in
+fetal position in the chair even though her hands floated to her sides.
+
 "Nevermind, I'm pulling up the recordings.", he said before Lita could respond.
 
 Images of the ceremony showed up on the walls of the Principal's office. Kaia
@@ -718,13 +721,27 @@ A handful of boys started laughing and exchanging high-fives in front of the
 office door. The boy had been waiting for the three girls to exit. The girls
 recognized that the boy speaking to them was Pert.
 
-"If you play your cards right, I add some of my special sauce to your crappy
+"If you play your cards right, I might add some of my special sauce to your crappy
 sandwich."
 
+The boys went berserk with laughter.
 
-The boys went beserk.
+"You had all that time since the ceremony and that was the best you could come
+up with?" Dela asked.
 
-""
+Looking over at Lita, Kaia noticed that her friend was having a seizure. Kaia
+watched powerlessly as the hand that was covering Lita's chest drifted down in
+the front of her.
+
+"Look fellas, this one is ready for me.", said Pert as he moved forward with
+his hands reaching out towards Lita's chest. Dela swung at Pert with her free
+hand, while kicking him in the shins. Kaia tried to pull Lita back away from
+Pert, but was too weak to move Lita very far. Kaia opened her mouth to scream
+for help, but before she could make a sound, a HistorianHummingbird crashed
+into the side of Pert's face, sending him crashing to the floor.
+
+Dela gave Pert one more kick before the other two girls through the semicircle
+of stunned boys.
 
 fit in at school.
 Thinking about her friendship with Lita, Kaia wondered if the only reason that
