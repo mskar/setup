@@ -750,128 +750,142 @@ on the ground while the other two girls carried her down the hallway.
 "Let's head to the theater.", Dela said, "It's dark inside and there are plenty
 of places to hide."
 
-Once inside the theater, the girls hid behind the curtains and tried to catch
-their breath. They were all tired, but still very much on-edge. They almost
-screamed when they noticed a set of four glowing eyes, arranged in the shape of a V, staring at the them.
+Once inside the theater, the girls got up on the stage and hid behind the
+curtains, trying to catch their breath. They were all tired, but still very
+much on-edge. They all jumped when they noticed a set of four glowing eyes, in
+the same configuration as a brown recluse spider, staring at the them. From the
+darkness, a sweet voice rang out.
 
-"Sorry to startle you.", said the four-eyed creature as it started to project a
-beam of light on the three girls.
+"Sorry to startle you. No one ever comes to visit us. Please wait one moment
+while we turn on the lights. You might want to cover your eyes until they
+adjust.", said a sweet voice.
 
-"Keep that light off of us, we are hiding.", Dela whispered sharply, blocking
-her eyes from the glaring light.
+When the lights came on, the girls saw a boy and girl, dressed in matching black
+jumpsuits. The boy seemed very awkward and reserved, while the girl carried
+herself with confidence.
 
-"From whom?", the creature whispered back.
+"Welcome to the theater!" , the girl proclaimed with a flourish.
 
-"Bullies.", Dela replied.
+"What the hell are you?", Dela said sharply.
 
-"Oh, bullies don't usually come to the theater. Is it OK if we turn on the
-lights? We really think you'll be safe here behind the curtain."
+"Apologies, I am not sure what you mean.", the girl replied.
 
-"Alright, but if the bullies find us, I'm going to kick you in each one of your
-eyes."
+"Your eyes were glowing in the dark.", Lita explained.
 
-"That's fair.", the creature said as it moved towards the light switch.
-In the darkness, Kaia tried to count how many legs the creature had.
+"And you looked like a spider." Kaia added.
 
-When the lights were on, the three girls realized that the creature was
-actually two people, a boy and a girl, with their arms around each other and
-heads tilted towards each other. They were both dressed in black jumpsuits. The
-boy and the girl moved together as if they were one person. Whenever they had
-spoked earlier, the pair had spoken in unison. Lita began to pepper them with
-questions.
+"I can assure you that we are not spiders.", the girl replied.
 
-"What are you doing back here? Why are you holding on to each other like that?
-Are you boyfriend and girlfriend? Why do your eyes glow in the dark?"
+"Why do your eyes glow in the dark?", Lita persisted.
 
-The boy and girl looked surprised by all the questions and separated.
+"I think you were seeing things. Sometimes when people are afraid of the dark,
+their minds play tricks on them.", the girl replied.
 
-"We work in the theater.", the boy said.
+"Cut the crap. We all saw it." Dela said advancing menacingly towards the girl.
+"You're Lunkers, aren't you? If you try to lie to us-"
 
-"We are also wondering why you are holding on to each other.", the girl said
-gesturing toward the three girls.
+"You mustn't tell anyone anything!", the girl replied.
 
-"Our friend is hurt.", Lita explained, "Now answer my questions."
+"It makes sense that Lunkers would want to work in a dark theater. It must
+remind you of home.", Lita offered.
 
-"We are brother and sister.", the boy said reluctantly.
+"Explain the spider eyes.", Dela said letting go of Kaia and holding up two
+fingers on each hand next to her eyes.
 
-"We're twins." the girl added.
+After realizing what Dela meant, the boy and girl put their arms around each
+other and tilted their heads together.
 
-"And you why were you holding onto each other before?"
+"We walk together like this because it enhances our night vision.", the girl
+explained.
 
-"We have a special connection that makes it easier to move around in the dark
-and our connection is strongest when we are close together."
+"You two look really cute together.", Lita said smiling at them warmly.
 
-"Can you see in the dark?"
+"Ha, I think the night vision enhancement isn't the only reason they can't keep
+their hands off of each other.", Dela said laughing.
 
-"You mustn't tell anyone anything."
+The boy and the girl separated, looking very embarrassed.
 
-"Are you Lunkers?"
+"We are brother and sister!", the boy blurted out.
 
-The boy and girl looked at each other with alarmed looks on their faces.
+Dela did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
 
-"Yes, but you mustn't tell anyone anything. Nobody likes Lunkers here."
+"Stop it, Dela.", Kaia said, kicking her.
 
-"We're bullied enough as it is." the boy added.
+"What are your names?", Lita said, trying to smooth things over.
 
-Clearly sympathizing with the pair now, Lita asked them about their names.
+"My name is Aira.", said the girl.
 
-"I'm Ryn.", said the boy.
+"I am Ryn.", said the boy.
 
-"I'm Aira.", said the girl.
+"I'm Lita, this is Kaia, and next to her is Dela. Nice to meet you both. I'd
+shake your hands, but my hands are full.", Lita said.
 
-"Nice to meet you both. I'm Lita, the one with frizzy hair is Kaia, next to her
-is Dela". Lita smiled. "I'd shake your hand but my hands are kinda busy."
+"Don't say it.", Dela warned.
 
-"I noticed you don't have a shirt on. We can lend you one from the theater."
-Aira said.
+"Do you want me to lend you a shirt from the theater?" Aira said to Lita.
 
-"but you'll have to bring it back tomorrow or the theater director will kill
-us!", Ryn added.
+Lita nodded emphatically.
 
-Lita left Kaia with Dela and went with Aira to choose a shirt from among the
-many costumes in the theater. Ryn moved closer to Kaia and Dela.
+"Do you want to come with me to dressing room so you can try a few things on?"
 
-"I think what you did in the gymnasium was very brave. I'll never forget when I
-went through the ceremony. It was horrible."
-
-"Well, all three of us still have to go through it."
-
-"But you already did it, right?", Ryn said looking at Kaia.
-
-"That didn't count." Dela answered.
-
-"Is there a place where we can lie down?" Kaia asked.
+Lita looked at Kaia. "Kaia is hurt, do you have a place she can rest?"
 
 "Yeah, I would love to not have to lug this loser around anymore.", Dela added.
 
-"Yes, there is, but you mustn't tell anyone anything.", Ryn said.
+"Yes, there is, but you mustn't tell anyone anything.", Aira said.
 
-"We get the idea, Ryn.", Dela said, "We're not going to tell anyone anything."
+"We get the idea.", Dela said flatly, "We're not going to tell anyone anything."
 
-"Ok, Aira and I built a secret bed so we could sleep in the theater during work breaks."
+"Ok, Ryn and I built a secret bed so we could sleep in the theater during
+breaks from work."
 
-During the awkward silence that ensued, Kaia wished Lita were back so she could
-diffuse the situation with a joke. Dela couldn't resist.
+During the awkward silence that ensued, Kaia saw Lita was tempted to make a
+joke but held back. Unlike Lita, Dela couldn't resist.
 
-"You sleep with your sister? In a secret bed? That you built yourselves, so you
-could sleep together? Is that a normal thing for Lunkers?", Dela asked smiling
-mischievously.
+"You have a secret bed? That you built yourselves, so you could sleep together?
+Is that a normal thing for Lunkers?", Dela asked smiling mischievously.
 
 Ryn was so embarrassed, he started to stammer. Dela didn't relent.
 
 "How long have you been sleeping together? Is the sleep still good? Are you
-doing anything to spice it up? A new pillow maybe?"
+doing anything to spice it up? Trying out a new pillow, maybe?"
 
-Ryn covered his face with hands to cover the tears in his eyes and exited stage
-left.
+Kaia was furious. "They're trying to help us and you keep bullying them!"
 
-Kaia was furious. "He was helping us and you started bullying him!" Dela still
-laughing. "What a drama queen! We don't need his help. He was useless. He won't make
-it through the first few days of the revolution. Let's go find Lita." Dela
-responded.
+"Ryn, show Dela and Kaia were the bed is hidden. I'll take Lita to the dressing
+room."
 
-Not having the strength to stand on her own, Kaia had no choice but to hobble
-along with Dela as they went in the direction that Lita and Aira had gone.
+"We saw the recording of the ceremony today. We think you are all very brave.",
+Ryn said trying to diffuse the situation. "I thought the gigaphone you built
+was great. I like building things too.", Ryn said to Dela shyly.
+
+
+Dela waited until Lita and Aira were out of earshot. "Have you built any
+special recently? Maybe a device to help your sister sleep?" Dela continued,
+"Something to knock her out so you can knock her up!"
+
+"Stop it!", Kaia yelled.
+
+"When you sleep together, does she snore really loud? Do you have to cover her
+mouth to keep the whole school from hearing?"
+
+"That's enough!", Kaia screamed pushing Dela away. Not having the strength to
+stand on her own, Kaia fell to her knees. Dela was not done yet.
+
+"Kaia, are you sure you even want to lay down in the secret bed? It must be
+covered with sleep stains!"
+
+Kaia began to cry, feeling powerless to stop Dela.
+
+"When's the last time you cleaned the sheets? Wait, have you ever cleaned the
+sheets? I bet we can find it just by the smell!"
+
+Ryn helped Kaia to her feet and started walking with her in the direction of the secret bed.
+
+"Be careful, Ryn, your sister might get jealous! She's used to having you all
+to herself, she might not like sharing you with Kaia."
+
+"Have you ever been this close to a girl that wasn't your sister?"
 
 They found Lita twirling in front of a full-length mirror, wearing a long flowing shirt
 covered by an elegant bodice. She was spinning gracefully despite the tall
@@ -961,7 +975,11 @@ sister is much better. She is a people person.", Ryn answered.
 
 "She is watching over Lita and Kaia. If they wake up in the darkness-"
 
-"Shut up. I need to get out of here and you're going to help me."
+"Shut up, turn on a flashlight, and show me the way out of here."
+
+Ryn complied immediately.
+
+"I saw the recording of your protest. You are very brave."
 
 Ryn breathed deeply, trying to calm himself.
 
@@ -1222,7 +1240,8 @@ Ryn bit his knuckle to bring himself under control.
 the theater.
 
 Outside the theater, Ryn took a long time to get used to bright lights. Dela
-realized that both of their faces were covered with bruises and that they were attracting the attention of nearby students.
+realized that both of their faces were covered with bruises and that they were
+attracting the attention of nearby students.
 
 "Come on, people are starting to stare at your stupid, swollen face."
 
