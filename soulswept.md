@@ -882,40 +882,29 @@ sheets? I bet we can find it just by the smell!"
 
 Ryn helped Kaia to her feet and started walking with her in the direction of the secret bed.
 
-"Be careful, Ryn, your sister might get jealous! She's used to having you all
-to herself, she might not like sharing you with Kaia."
+"Have you ever been this close to a girl that wasn't your sister? Be careful,
+Ryn, your sister might get jealous! She's used to having you all to herself,
+she might not like sharing you with Kaia."
 
-"Have you ever been this close to a girl that wasn't your sister?"
+Dela continued to taunt Ryn all the way to secret bed. Lita and Aira were already there waiting for them.
 
-They found Lita twirling in front of a full-length mirror, wearing a long flowing shirt
-covered by an elegant bodice. She was spinning gracefully despite the tall
-heels she had on. When Lita saw Dela and Kaia, she stopped twirling and struck
-a pose. The sight of Lita took Kaia's breath away.
+"What took you so long? I was worried", Lita said.
+
+Kaia didn't respond, she just looked angrily at Dela. Sensing the tension, Lita tried to change the subject.
 
 "How do I look?", Lita asked.
 
+Lita twirl and struck a pose. She was wearing a long flowing shirt
+covered by an elegant bodice. The sight of Lita took Kaia's breath away.
+
+
 "Like a GuardGorilla in a milk maid outfit.", Dela said.
 
-"What is it with you?", Kaia screamed pushing Dela away. Suddenly standing on
-her own, Kaia stumbled and fell towards Lita. Landing on her hands and knees,
-Kaia was wracked with pain. She was shaking as Lita helped her stand up. When
-confronted with her reflection in the mirror, Kaia was horrified. Her hair was
-a tattered, frizzled mess. Her face was caked with sweat and dried blood. Long
-trails of tears extended below her eyes down to her chin and a similar trail
-went from her nose to her upper lip. Next to Lita, Kaia looked like a gnarled
-monster, not even human. Kaia started to tremble uncontrollably as she went
-into a panic attack.
+"What is it with you?", Kaia screamed lunging at Dela. Dela stepped away
+effortlessly. Kaia stumbled and fell, landing on her hands and knees. Kaia was
+shaking as Lita helped her stand up.
 
-Seeing the effect her own reflection was having on Kaia, Lita turned Kaia away
-from the mirror.
-
-"Help me find a place for her to rest." Lita yelled at Aira.
-
-"Alright, but you mustn't tell anyone any-"
-
-"Just take her to the goddamn bed!", Dela screamed.
-
-When Kaia collapsed onto the bed, she was still shaking like a 9-point Richter
+When Kaia collapsed onto the bed. she was still shaking like a 9-point Richter
 scale quake. Lita laid down next to Kaia, cradling Kaia in her arms. Kaia
 buried her face in Lita's shirt just above the bodice. The smell of the starchy
 shirt mixing with Lita's scent was heavenly. Soon Kaia stopped trembling and
