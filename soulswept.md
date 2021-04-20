@@ -1716,16 +1716,24 @@ get taken. My parents were taken, because they were different. If someone finds
 out about me, I will get taken too. That's why you mustn't tell anyone
 anything."
 
+When Lans finished his story, Kaia looked back at Lita. Neither of them had any
+idea what to do.
 
+"Everyone has these incredibly traumatic events in their lives. Are you going
+to surprise me with some trauma I never heard about even though we grew up 
+together?"
 
+"No, are you?"
+"No, before today I really didn't have much going on in the trauma department."
+"I think you are projecting the Lunkers who saved you onto Officer Gudman."
+"Yes, I think you are right but it still makes me happy, so I think it is ok."
 
 Are you a Lunker too?
-
 A Lunker?! I was born to shine under the spotlight, not hide in the shadows!
 
 "Are you and Aira together?"
-
 "Me with her?! Oh no, a leading man needs a leading lady." Lans said looking at Ursa.
+
 
 An eagle brings Dela and the Principal down on top of a hill where Ryn is
 already waiting. 
