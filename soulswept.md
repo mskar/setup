@@ -857,8 +857,7 @@ room."
 
 "We saw the recording of the ceremony today. We think you are all very brave.",
 Ryn said trying to diffuse the situation. "I thought the gigaphone you built
-was great. I like building things too.", Ryn said to Dela shyly.
-
+was great. I like making things too.", Ryn said to Dela shyly.
 
 Dela waited until Lita and Aira were out of earshot. "Have you built any
 special recently? Maybe a device to help your sister sleep?" Dela continued,
@@ -1038,12 +1037,24 @@ entirely, gently drifting off to sleep in the arms of her lifelong best friend.
 
 ## Chapter 2
 
-"Why am I like this?", Dela thought as covered her mouth so no one would hear
-her crying. She had been drifting in and out of sleep on the hard concrete
-floor of the theater, but images of SecuritySimians, Lita, Kaia and the
-Principal kept waking her up. She wanted to lay down in the secret bed, it
-looked really nice, but she felt responsible for Kaia having a panic attack and
-did not feel she deserved to be comfortable.
+"Why am I like this?", Dela thought as she covered her mouth so no one would
+hear her crying. She had been drifting in and out of sleep on the hard concrete
+floor of the theater, but she could not stop thinking of Kaia writhing on the
+ground during her psychotic episode. The screams were bad, but the low dull
+wailing that followed was somehow worse. It was as if Kaia had a demon inside
+her trying to claw its way out. Lita held onto Kaia the whole time, having
+seizures one after another. During the seizures, Lita's eyes stayed open, the
+look of concern on her face would melt away, she would stare off into void.
+When Kaia stopped breathing, Lita responded immediately by giving her CPR. Did
+Lita already know what to do, because she had been in this situation before?
+Dela felt absolutely powerless. She had never known anyone like Lita and Kaia.
+Was she responsible for what happened?
+
+"It's not my fault that they're like that.", Dela thought to herself, getting
+up off the ground and looking at Kaia and Lita lying peacefully in the secret
+bed. Dela wanted to lay down in the secret bed next to them, it looked really
+nice, but she was wracked by feelings of guilt and did not feel she deserved to
+be comfortable.
 
 "I don't need sleep. Beds are for the weak. The only thing that matters is the
 revolution.", Dela thought as she got up and started trying to find her way out
@@ -1051,7 +1062,7 @@ of the theater in complete darkness. With each step, she probed the ground
 beneath her. She hadn't gotten very far when she noticed two glowing eyes
 observing her in the darkness.
 
-"You know you are creepy as hell.", Dela said.
+"You know you're creepy as hell.", Dela said.
 
 "Yes, I am aware of that. I am still learning how to interact with topsiders. My
 sister is much better. She is a people person.", Ryn answered.
@@ -1062,11 +1073,706 @@ sister is much better. She is a people person.", Ryn answered.
 
 "Shut up, turn on a flashlight, and show me the way out of here."
 
-Ryn complied immediately.
+Ryn complied immediately. "Would you like to see the machine workshop?"
 
-"I saw the recording of your protest. You are very brave."
+"Was he still trying to be friends with her?", Dela thought, "What a loser!".
 
-Ryn breathed deeply, trying to calm himself.
+Not having any other plan, Dela nodded. The machine workshop would be a welcome
+distraction.
+
+Arriving at the machine shop, Dela was dumbstruck at how technologically
+advanced and well stocked it was.
+
+"I was not expecting this place to be halfway decent. Everything else in the
+crappy school is absolutely worthless."
+
+"Ben and Ed's family finances the machine shop but do not provide funding for
+any other part of the school."
+
+"Who are Ben and Ed?"
+
+"They are my friends. Ben is really smart. Ed is really big and strong."
+
+Dela laughed. "They have money to burn on all of this?"
+
+"Their parents are high ranking members of the CorporateCouncil."
+
+"If they're so rich, why do they go to a run-down public school?"
+
+"I do not know.", Ryn said walking up to a console, "I ask them to come here so
+you can ask."
+
+It was no long before a thin boy wearing powerskates zipped into the machine
+shop with another boy nearly as large as a GuardGorilla running in after him.
+him. The boy in power skates did a sliding stop right in front of Dela and Ryn
+and the other boy ran up and stopped a few steps behind him. Reaching out one
+hand to Dela and gesturing around the machine workshop with the other, "Welcome
+to the machine shop!", the boy in power skates said. He was wearing metallic
+gloves covered with intricate patterns.
+
+Turning one begloved hand towards himself, "I'm Ben." and the other begloved
+hand to boy behind him "and this is my little brother Ed.", bowing deeply "and
+we are both deeply honored to be at your service."
+
+"This is Dela.", Ryn said, "She likes making things too!"
+
+"The gigaphone you built was impressive, considering the limited resources you
+had at your disposal.", Ed said. "Just think of what you could build in the
+machine workshop!"
+
+"I can use all this stuff?", Dela asked.
+
+"Yes, of course! Let me show you around." Ed
+replied.
+
+"You can use any free workstation you like.", Ed said sweeping his hand across
+the workshop, then turning towards a console, "You can also reserve any
+workstation for any period of time,", holding up one finger on one hand, "but
+you can only reserve one workstation at a time.".
+
+"The reservation schedule looks mostly empty. Actually, you and Ryn are the
+only ones making reservations. Do people mostly use whatever workstation is
+available?
+
+Ben looked a little uncomfortable. "The workshop is criminally underutilized.
+The school does not require anyone to use it and it seems that making things is
+not everyone's cup of tea. I hold biweekly maker interest group (MIG) meetings
+that are open to everyone, but admittedly the attendance is very poor."
+
+"Maybe more people would show up if you made the meetings secret and exclusive.
+People like being part of inside groups."
+
+Ben stopped for a moment and began to scribble notes on his palm with his finger.
+
+"That's brilliant!" Looking up from his palm, "Would you like to be the first
+member of our newly formed secret maker interest group?"
+
+"Sure.", Dela replied casually.
+
+"Excellent!" Ben responded opening a large cabinet. "I just gave you full
+access to the workshop. You can use any of the tools as long as you follow the workshop
+rules."
+
+"What are the rules?"
+
+Ben brought up an image on the wall that said,
+MACHINE WORKSHOP RULES
+1. Do not intentionally kill, maim, or otherwise injury any living thing.
+
+"Is there just one rule?"
+
+"For now. To be honest, I couldn't think of any others."
+
+"What about stealing?"
+
+"Every item has a tracker and everything in the entire school is recorded, so I
+don't think that will be necessary. If a MIG member steals anything, we will
+know and can revoke their access immediately."
+
+"What about destruction of property?"
+
+"Property can be replaced. Sometimes property gets destroyed during testing of
+new inventions. I do not think protection of property should be a priority.
+Again, if a MIG member acts maliciously, we can always revoke their access."
+
+...
+
+Metabuilding
+
+Question about Pert and the bird
+
+Ben makes a matching set of powergloves for Dela. She puts on powerskates and
+the new powergloves and Ben teaches her the ancient MakerMixedMartialArts
+moves that he made up himself.
+
+"How is it ancient if you made it up yourself?"
+
+"Sorry, you're right. It just sounds better if martial arts are ancient."
+
+Dela is impressed by the immense power that the gloves hold. She asks if there
+are any failsafes.
+
+Ben shows her how the gloves can be deactivated. Dela deactivates Ben's gloves
+and asks if she did it right. Ben is impressed that Dela did it correctly on
+her first try. He asks her to reactivate his gloves, but she deactivates all of
+his security access and sends BuzzBees to knock out Ben, Ed, and Ryn. Ed is
+immune to the sedatives and chases her. She is amazed that he can keep up with
+her and commands GuardGorillas to slow him down. Dela heads to the Principal's
+office to strongarm him into requesting a pardon. She stands on his desk and
+holds an activated powerskate next to his face. The Principal vomits all the
+skate short circuiting it. 
+
+...
+
+"Here's what's going to happen, you sack of-", Dela stopped when she saw that
+the Principal was sleeping in his usual position, head tilted back and mouth
+opened. Jumping on top of the desk, Dela kicked the Principal in his face until
+he woke up. Placing her foot on his chest and leaning in as if were stretching
+her psoas muscle, Dela looked at the Principal menacingly.
+
+"This school and everyone in it is going to get blown up if I don't get what I
+want.", Dela said, "Do I have your attention?".
+
+"Yesh", the Principal wheezed.
+
+"I want you a full pardon for me and the other girls."
+
+"I don't haf that aufority!"
+
+"Then you better find someone who does or we are both going to die here."
+
+"Your bluffing."
+
+"Are you sure? Take your time trying to figure it out, I'm not in a rush."
+
+"A shtrike team hash already been dishpatched."
+
+"Are they really going to charge into the blast zone just to save a drug addict
+Principal who couldn't keep his school from exploding?"
+
+"You can't shtop me. I'm shtronger fan you."
+
+"You're not so tough without your robotic animals and I had the BuzzBees give
+you a little something special before I blew them all up. I think you have so
+much pharma in your system right now that you'll need my help getting out of
+here. You definitely won't make it out if I'm trying to stop you."
+
+The Principal cleared his throat, and said "I can requesht a pardon from the
+E-" before vomiting all over Dela's leg.
+
+Dela recoiled in horror, then she instinctively kicked the Principal in the
+face, sending vomit flying in all directions.
+
+"Request the pardon now!"
+
+Drags Principal out of the school using
+powerskates. "How does it feel to get dragged through the school? Not great,
+right?"
+
+The Principal wiped his face with the sleeve of his blazer and started entering
+the pardon requests as Dela stood over him making sure he did not try any
+tricks. The pardon requests were approved soon after the Principal submitted
+them. Dela hopped off the desk next to the Principal and read through each one
+of the pardons.
+
+After discovering the school AI and that the
+Principal's console gives ultimate override access over everything in the
+school, Dela starts the school's self destruct sequence.
+
+The self-destruct alarm alerts Ben, Ed, and Ryn, who burst into the Principal's
+office.
+
+Dela faces off against Ben, Ed, and Ryn, who try to force her to deactivate the
+school self-destruct system. Ed wrestles GuardGorillas, Ben uses powerskates
+and taser batons, but Ed leaves when Ben is knocked unconscious. Ryn stays to
+stop Dela, she laughs at him for being a weakling, but he summons birds to
+fight the robotic animals and destroys the lights to try to gain an advantage
+over Dela. Dela is terrified but she finds Ryn in the darkness by his glowing
+eyes and kicks him repeatedly in the face with the vomit covered powerskate.
+After finding a flashlight in the dark, Dela decides to escape so she can save
+Ryn and the Principal.
+
+She thinks that no one would charge in now to try to deactivate the
+self-destruct sequence, so Dela grabs the unconscious Ryn and the groggy
+Principal and pulls them out of the school while balancing on only one
+powerskate. Once outside the Principal purchases a motorcycle with a sidecar at
+the microtransit vending machine and then after Dela brings the motorcycle
+around the Principal lifts Ryn onto Dela's lap and they try to escape. In the
+final moments, Dela reflects on Ben, Ed, Ryn, Aira, Lita, and Kaia, starting to
+cry when she thought about how they might have been friends if things were
+different. She thinks about feeling powerless to stop her abusive father and
+substance dependent mother. As she is knocked off the motorcycle from behind
+she imagines she is a bird flying off into the horizon.
+
+...
+
+When Dela made it outside with Ryn and the Principal in tow, they saw that the
+evacuation team had already cleared the blast zone. Dela guided the Principal
+to a microtransit vending machine.
+
+"Unlock it!"
+
+"What are-"
+
+"If you don't, we're both going to die."
+
+The Principal placed his palms on the machine and leaned in for the retinal
+scan. Dela made a selection using the accompanying display, and a black
+motocycle with a sidecar rolled up a ramp next to them. Dela ran to the
+motorcycle.
+
+"Wait, don't leaf me!" The Principal yelled reaching for Dela.
+
+"What do you think the sidecar is for?", Dela answered as she started the
+motorcycle.
+
+Dela spun the motorcycle around and pulled up next to the Principal who fell
+into the sidecar. Racing down the empty street, Dela tried to remember how much
+time was left before she left the school. Dela did not know how far the blast
+zone extended, but she knew that until she saw people, they wouldn't be safe.
+
+"How big is blast zone?", she yelled at the Principal.
+"To the treesh!", he yelled back.
+
+"What?"
+
+"We haf to make it to the treesh."
+
+Dela did not know where the Principal was pointing, she had never seen trees in
+the city. She was not going fast enough. Dela accelerated, but she knew that
+they had no chance of making it in time. Dela thought about what had happened
+that day. She had pushed back against the system and won. Even if only
+succeeded in smashing just a single cog in the machine of oppression, it was
+worth it. Reflecting on her life, Dela realized that for the first time in her
+life, she had felt truly powerful. She was always powerless to stop her father
+from beating her when he got angry. She could not do anything to keep her
+mother from self-medicating her worries away. Being in control, even if it was
+part of one day, was worth any cost for Dela. Even if she knew that she was
+going to die, she would not have changed much about today. She just wished she
+could have had a chance to apologize Kaia and Lita. Maybe if things were
+different, they could've been friends? Dela's eyes filled with tears.
+
+Dela thinks about Ben and Ed too, and the life she could have had working in
+the machine workshop, maybe helping Aira and Ryn in the theater.
+
+Dela strokes Ryn's hair and caresses his mangled face.
+
+"It's the wind in my eyes." Dela thought, "No way I'm crying over those
+losers."
+
+Dela closed her eyes. It didn't matter now. She was free. She relaxed her body
+and focused on her last few breaths. The blow from behind came sooner than Dela
+expected. She thought she would hear the explosion first and maybe have a
+chance to look back at the blast before it enveloped her. As she flew through
+the air with her eyes closed, she stretched out her arms and imagined she was a
+giant bird flying over the empty city towards an infinite sea of green on the
+horizon.
+
+"I hope Dela made it out OK.", Ed asked.
+
+"I am sure she did. Dela is extremely cunning. I have never before met someone
+who I might consider my intellectual equal.", Ben asked. "No offense, Ed."
+
+"Is Dela still going to be part of our group?", Ed asked.
+
+"As far as I can tell, she did not do anything against the Machine workshop
+rules. The city was safely evacuated and reconstruction has already begun. To
+be frank, the MIG always felt incomplete when it was just you, me, and Ryn."
+
+"I am glad that Dela is still in our group."
+
+"Me too." Ben said, patting Ed's massive shoulder.
+
+The brothers, both thinking fondly of Dela, watched as the sunset behind the
+smoldering remains of the city.
+
+## Chapter 3
+
+The sound of the fire alarm was brutal. Waking up in total darkness, Kaia and
+Lita were in a state of panic. Aira was at the side of the bed in an instant,
+shining a flashlight on the floor until their eyes adjusted to the light.
+
+"Lita, Kaia, put on these shoes.", Aira said, handing each of the girls a pair
+of ballet flats from a satchel she wore across her shoulder, "Just slip them on
+and let's go. Dela and Ryn left while you were sleeping."
+
+"It could be just a drill.", Lita said.
+
+"We will find out when we get outside.", Aira responded.
+
+As they were leaving the theater, a huge explosion rocked the school.
+
+"Ok, it's definitely not a drill.", Lita said.
+
+Outside the theater, there was utter pandemonium. Students were running towards
+the exits as robotic animals, large and small, were exploding. The three girls
+ran to the main exit. Surprised that she could run at all, Kaia marvelled at
+how comfortable the ballet flats were to run in.
+
+"How did you know our sizes?", Kaia asked Aira.
+
+"Lita was trying on shoes before you went to sleep and I took your shoes off
+once to wear asleep. Your shoes were in pretty bad shape. I hope you don't mind."
+
+"Oh, I don't mind at all. These shoes are much better."
+
+When the girls made it outside, Lita and Kaia were dismayed to see Pert and his
+posse waiting in front of the entrance to the school. Pert's head was wrapped
+in bandages. A small of blood had permeated the bandages in the spot were the
+HistorianHummingbird had hit him.
+
+"What's wrong? Afraid of a little fire-", Pert started, but the paused as he
+inspected the girls more closely.
+
+"Wait a second. Did you replace one of your girlfriends already?", Pert said to
+Kaia, "You just love 'em and leave 'em, dontcha? You go through girls faster
+than I do!"
+
+The boys erupted with laughter.
+
+Before the Kaia and Lita could think of a plan, Aira walked up to Pert and
+introduced herself.
+
+"Hello, I'm Aira. What's your name?", Aira said, projecting her voice so
+everyone hear as if she were on stage.
+
+"Pert, but you can call me the Pertinator, and this is my Posse, I call them
+Pert's Posse.", Pert said, flexing his muscles and gesturing at the boys behind
+him.
+
+"Nice to meet you, Pert! What happened to your head?"
+
+"Oh, this? It's nothing." Pert was clearly not used to anyone of the opposite
+sex taking an interest in him.
+
+"A bird flew into his head.", Lita said.
+
+"What did you say?", Pert pushed past Aira and stood menacingly in front of
+Kaia and Lita.
+
+"I said, a bird flew into your head.", Lita said defiantly.
+
+"What are the chances of a bird flying into someone's head?", Aira interrupted.
+She really knew how to make her voice carry.
+
+"Pert must really be an airhead.", Lita said.
+
+"A real chick magnet!", Kaia said exploding with laughter.
+A few hours of sleep had done them both a lot of good.
+
+Pert moved closer to Lita and Kaia and spoke in a low voice.
+"Listen, I know you are one mistake away from going to prison, so you better
+start treating me really nicely or I might have a word with my father and-."
+
+At that moment, a bird flew into the previously undamaged side of Pert's face.
+
+"What are the chances of two different birds flying into the same person's
+head?", Aira said as she grabbed Kaia and Lita by the hands and led them away
+through the circle of stunned boys.
+
+"He got two birds with one head!", Lita screamed as they ran, hoping everyone
+could hear her. Laughing hysterically, Kaia did not try to come up with any
+more bird puns, because she knew she would not be able to top that one.
+
+When the girls arrived at the emergency meeting point, an very sharply dressed
+young man waved at them enthusiastically and began to run in their direction.
+Aira squealed with glee and began to run towards him.
+
+"Airunia!", the young man yelled.
+
+"Lanselolek!" Aira responded.
+
+They hugged and spun around, laughing like children.
+
+When Kaia and Lita walked up to them, Aira put her arm around the young man and
+gestured towards the two girls.
+
+"Lans, this is Kaia and Lita. Kaia and Lita, this is Lans."
+
+Lans stepped forward and bowed with a flourish.
+
+"Very pleased to make your acquaintance. Any friend of my Airunianunia is a
+friend of mine! Please, follow me. I have the best seats in the best airship
+reserved for only the best of the friends."
+
+"Airship?!", Aira exclaimed. Lans stopped and looked at the girls.
+
+"Haven't you heard?! The entire city is going to explode! We have to be ready
+to evacuate as soon as we get the signal."
+
+"We have to go back for Ryn and Dela.", Kaia said.
+
+"Oh no, I'm afraid that will be absolutely impossible! Anyone trying to leave
+this area will be executed immediately to ensure a safe and organized
+evacuation."
+
+"How is executing people going to ensure safety?"
+
+"I don't know, I don't make the rules, but I do know that the snipers on the
+roof mean business."
+
+The girls look up at the rooftops and saw gunmen covering all of the possible
+exits.
+
+"I'm sure everyone will make it onto an airship just fine. It seems like
+they're in no hurry to launch, but we might as well wait inside. Come on, we
+can have some refreshments. You all look positively parched and famished!"
+
+As they approached a regal looking airship, Lans suddenly changed course waving
+towards a strike team officer with one hand and pulling Aira behind him. The
+strike team officer looked very intimidating. His face was hidden behind a
+black balaclava and dark sunglasses. He was resting his hands on a massive
+rifle that was slung over his shoulder. The exoskeleton armor he was wearing
+made him look could wrestle a GuardGorilla and win.
+
+Officer Gudman!, Lans exclaimed, "I'd like to introduce you to Aira and her
+friends Kaia and Lita."
+
+Getting behind Aira, Lans whispered something into her ear, carefully took her
+satchel, and gently nudged her forward.
+
+Aira adjusted her hair and approached the officer shyly, but pretty soon they
+were standing next to each other as they posed for a picture together. Aira's
+face was flushed with emotion as beamed at the PictureParrot that perched in
+front of them. She put her hand on Officer Gudman's arm and leaned into him as
+he stood motionless. After the picture, she came back to stand next to Kaia and
+Lita. Lans walked up to Officer Gudman and stood next to him speaking in a
+hushed tone. The officer nodded, then Lans stuck out his elbow and two briefly
+connected elbows.
+
+As they resumed their trajectory to the airship, Lans was smiling ear to ear.
+
+"It's all taken care of. Thanks to Aira, our airship has official VIP
+designation and all of the best local shops are being requisitioned for the
+best supplies. We have complete control of the guest list. If anyone gives us
+any trouble, we can have them thrown out. And the best part is that Officer
+Gudman will be flying with us as our personal security escort."
+
+Aira was blushing deeply and she pulled in Kaia and Lita on either side of her.
+
+"Are you crying?", Kaia asked.
+
+"Not here. Wait until we get onto the airship.", Aira replied smiling broadly
+through the tears.
+
+As soon as they were in the gangway of the airship, Aira pulled Kaia and Lita
+into a huddle as Lans was on the lookout.
+
+"That officer was a Lunker." Aira said as tears dropped down on the ground in
+front of her.
+
+Kaia and Lita were waiting to hear more, but what followed was a bit
+anticlimactic. "You mustn't tell anyone anything!".
+
+After wiping her face, Aira pulled the two girls up the gangway into the
+airship. The interior of the airship was impeccably stylish and as far they
+could tell completely empty.
+
+"I'm going to freshen up.", Aira said quickly, "Lans, will you take care of our
+guests?"
+
+Lans launched into his role as host with bravado. He first offered his guests a
+selection of beverages and did an excellent job hiding his disappointment when
+he found out that he guests only wanted regular water to drink. After the girls
+drank several bottle of water, Lans lifted a silver cover with a flourish to
+reveal a veritable cornucopia of delicious-looking foods. The two girls began
+to eat with abandon using their hands to shuttle food from the platter directly
+to their mouths. Lans started to explain the unique origins and laud the
+quality of each food item, but then he fell silent when he realized no one was
+listening to him. Kaia could not help but noticed that Lans was growing
+increasingly uneasy as they ate, but she could not resist the food. After the girls
+cleared almost all of the food on the platter, they looked up at Lans with
+gratitude.
+
+"That was the best meal I've had in my life." Lita said and Kaia
+enthusiastically agreed.
+
+"I couldn't eat another bite!" Lita added."
+
+"Should we have saved some for Aira?", Kaia asked, trying to guess why Lans
+looked so uncomfortable.
+
+"Oh no, we have plenty of food and there's plenty more being loaded now."
+
+"Lans, did we do something wrong?", Kaia asked quietly.
+
+"Heavens no, you two are absolutely perfect. I was just hoping that you might
+save a little room for the soup, salad, main course, and dessert, but I am so
+glad that you liked the appetizer tray so much-." Lans said as he burst into
+tears using the bend in his elbow to cover his face.
+
+"I am really sorry we ate all the appetizers. We'll be hungry again soon I
+promise!", Kaia said trying to cheer up Lans, but he only cried harder. Kaia
+sat down next to Lans and put her hand on his shoulder unsure of how to console
+him. When Lans lifted his tear-soaked face to look at Kaia, she was stunned to
+see the deep sorrow in eyes. There was clearly more to the story than the
+appetizer tray. Lans gently leaned into Kaia for a hug, his body was
+occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
+shoulder. When he stopped crying, he looked at Kaia lovingly.
+
+Aira arrives looking gorgeous. Both Kaia and Lita are very impressed. Lans
+wipes his eyes and continues entertaining. Aira is anxious for Officer Gudman
+to arrive. When he does, she runs up to him and throws her arms around him.
+Officer Gudman removes and stows away his armor along with his rifle. Without
+the armor, he looks much smaller, but still very intimidating. After they talk
+and eat, Aira announces that she is going to show Officer Gudman around. When
+Kaia asks if they can come too, Lans says that he will show Kaia and Lita
+around later, separately.
+
+Are you a Lunker too?
+A Lunker?! I was born to shine under the spotlight, not hide in the shadows!
+
+"Earlier, I thought you and Aira together. I don't think that now, obviously."
+"Me with Aira?! Oh no, a leading man needs a leading lady." Lans said.
+
+"Let me introduce you to subject of my affection, but please you mustn't tell
+anyone anything."
+
+Lans introduces Lita and Kaia to Ursa. They knock on the door to Ursa's cabin,
+Ursa opens. Lita and Kaia are both extremely impressed with how elegant,
+beautiful, and athletic Ursa is.
+
+Dan barges in on them with Figa (Figurina?) in tow. Dan tries his best to charm Kaia. Kaia
+is unsure why he is focusing on her, when she hasn't fixed her appearance since
+before the ceremony. The airship begins to go down (it is secretly sabotaged by
+Dan, who wants an opportunity trying to look like a hero). He demonstrates his
+leadership skills and leverages his relationship with Figa and Ursa to save the
+day. He gives commands to Ursa and Figa, both of whom are incredibly strong and
+athletic. Ursa is always cheerful. Figa never smiles.
+
+At the airship crash site, Lans is upset to leave all of the supplies behind
+especially the food. Officer Gudman arranges an evacuation to the refugee camp
+where all the other students are to meet. A refugee camp school is repurposed
+and expanded to hold all of the new students in addition to the original
+refugees that already lived in the camp. Lans decides to work in the kitchen
+and uses his connections and swagger to get more food and other supplies for
+the camp.
+
+Kaia is ambushed by Pert and his posse (who were secretly hired by Dan) in the
+cafeteria. Kaia is saved by Ed, because Ed is much faster than Dan.
+
+...
+
+## Chapter 4
+
+"What is this Lord Of The Rings, deus-ex-machina bullshit?", Dela screamed.
+
+"Are you upset that you did not die?", Ryn asked confused.
+
+"No, but being saved by a giant bird is weird, and I don't like dangling in air
+from razor sharp talons. How do I know that this dumb bird won't drop me?" Dela
+said feeling powerless. Her gloves and skates were useless in the air.
+
+"Please just enjoy the view, and it would be best if you did not insult our
+avian saviors."
+
+"Why did you save me?"
+
+"I didn't save you. The birds did."
+
+"But you control the birds, right?"
+
+"You mustn't tell anyone anything!"
+
+"Why didn't you leave me behind?"
+
+"Based on my observations of you, I am convinced that you do not wish to do me
+any harm and perhaps may even by fond of me."
+
+"What the hell are you taking about?"
+
+"When we were on the motorcycle, were concerned about my wellbeing?
+
+"Don't flatter yourself."
+
+"You were running your fingers through my hair ever so gently."
+
+"You were unconscious. You were probably just dreaming."
+
+"I feel like it is my turn to tease you."
+
+"What?"
+
+"You obviously feel affection towards me but do not want to admit it."
+
+"When we land, I will show you some affection with my foot on your face. I'm
+going to tender, love, and care your face until there's nothing left." Dela
+screamed swinging at arms and legs at Ryn.
+
+"Please Dela, you're upsetting the birds. I do not believe you anyway. You are
+using deception to hide your feelings, because you are afraid of getting hurt.
+Do not worry. I am fond of you as well, and I will do anything I can to protect
+you and make you happy."
+
+"The only thing that will make me happy is stomping on your face."
+
+"I will be glad to oblige. There is not much left of my face anyway."
+
+"You've never looked better. I'm going to make some improvements when we land."
+
+"I am looking forward to it."
+
+The eagles brings Dela, Ryn, and the Principal down on top of a hill.
+
+"How come the eagle didn't rip your shirt as much as mine?"
+
+"Unlike you, I am friendly towards birds."
+
+Ryn followed Dela to the Principal's office to make sure she was OK.
+
+## Miscellaneous
+
+When she was satisfied, Dela helped the Principal out of his
+chair and out the door of his office. The Principal was almost instantly
+out-of-breath, but impending death can be a powerful motivator and he kept
+moving towards the exit. Every other step that Dela took was followed by a
+squishing noise as the vomit in her shoe moved flowed back and forth.
+
+fit in at school. Thinking about her friendship with Lita,
+Kaia wondered if the only reason that they were friends was because they were
+both abnormal.
+
+Lita did not suffer from mental illness like Kaia. Instead, Lita had a
+neurological condition called epilepsy.
+
+Lita often had absentee seizures that would incapacitate her for short periods
+of time and leave her feeling weak and disoriented. The more severe seizures,
+during which Lita appeared to be tormented by invisible demons and tossed about
+by an unseen hand, were mercifully rare.
+
+None of the other students seemed to be at all concerned with the secondary
+school initiation ceremony.
+
+covered their ears. loud audio system in the gymnasium had no chance sound of
+the gigaphone, 3 decibels louder , was deafening.
+
+Seeing her best which Lita appeared to be tormented by invisible demons and
+tossed about by an unseen hand, were mercifully rare. Kaia held Lita's hands,
+which unfortunately led to another round of jeers. Seeing her best which Lita
+appeared to be tormented by invisible demons and tossed about by an unseen
+hand, were mercifully rare. 
+
+### Lans
+
+"Can I tell you something? I want to tell you, but you mustn't tell anyone
+anything, please."
+
+Kaia emphatically agreed and Lita was quick to echo the sentiment.
+
+"When I was little, I lived in a orphanage made of stone. I was happy, because
+I had so many friends, but it was hard. There was no one to take care of us.
+Everyone was hungry all of the time, except for me, because-", Lans looked
+around the empty airship cabin, "I can photosynthesize."
+
+"After all the buildings were replaced with factories, we stopped seeing any
+grown-ups anymore, everything was automated or controlled remotely. The river
+slowly turned into sludge and all the vegetation died. My friends and I stopped
+being able to find food. I didn't want to see them starve, so I begged them to
+eat me first, but they wouldn't, they said they didn't want to hurt me. When it
+got really bad, I was the only who could still move. I would cut off pieces",
+Lans pointed to his torso, arms, and legs, "and give it to them, but the meat
+would grow back so slowly and there were so many friends to feed. When a friend
+died, I would redistribute them to the friends who were still alive, but soon
+all my friends were gone. When the constructions crews came to clear the
+orphanage, they saw me escaping from the rubble. They thought that I ate my
+friends to survive. I couldn't tell them the truth. People who are different
+get taken. My parents were taken, because they were different. If someone finds
+out about me, I will get taken too. That's why you mustn't tell anyone
+anything."
+
+When Lans finished his story, Kaia looked back at Lita. Neither of them had any
+idea what to do.
+
+"Everyone has these incredibly traumatic events in their lives. Are you going
+to surprise me with some trauma I never heard about even though we grew up 
+together?"
+
+"No, are you?"
+"No, before today I really didn't have much going on in the trauma department."
+"I think you are projecting the Lunkers who saved you onto Officer Gudman."
+"Yes, I think you are right but it still makes me happy, so I think it is ok."
+
+### Ryn and Dela
 
 "The things you said earlier really hurt-"
 
@@ -1263,7 +1969,7 @@ her face and used the sound of crying to locate Ryn's head. She kicked out her
 foot and was surprised at how solidly her shoe connect with the source of the
 crying.
 
-"Stop crying and get up!" 
+"Stop crying and get up!"
 
 When Ryn kept crying, Dela was furious. She kicked him repeatedly until she was
 gasping for breath from the exertion. Ryn was not making any sound whatsoever.
@@ -1319,7 +2025,7 @@ make you watch."
 
 Ryn bit his knuckle to bring himself under control.
 
-"Ok, I'll do anything, but please don't hurt Aira." his voice quivering.
+"Ok, I'll do anything, but please don't hurt Aira.", his voice quivering.
 
 "Get moving. We can't waste anymore time" Dela said shoving Ryn out the door of
 the theater.
@@ -1465,412 +2171,3 @@ chest as he cried.
 started kicking Ryn as hard as she could. When Ryn fell over, Dela stopped
 kicking and tried to pick him up, but he refused to stand up. Leaving Ryn
 behind, Dela raced to the Principal's office and kicked down the door.
-
-"Here's what's going to happen, you sack of-", Dela stopped when she saw that
-the Principal was sleeping in his usual position, head tilted back and mouth
-opened. Jumping on top of the desk, Dela kicked the Principal in his face until
-he woke up. Placing her foot on his chest and leaning in as if were stretching
-her psoas muscle, Dela looked at the Principal menacingly.
-
-"This school and everyone in it is going to get blown up if I don't get what I
-want.", Dela said, "Do I have your attention?".
-
-"Yesh", the Principal wheezed.
-
-"I want you a full pardon for me and the other girls."
-
-"I don't haf that aufority!"
-
-"Then you better find someone who does or we are both going to die here."
-
-"Your bluffing."
-
-"Are you sure? Take your time trying to figure it out, I'm not in a rush."
-
-"A shtrike team hash already been dishpatched."
-
-"Are they really going to charge into the blast zone just to save a drug addict
-Principal who couldn't keep his school from exploding?"
-
-"You can't shtop me. I'm shtronger fan you."
-
-"You're not so tough without your robotic animals and I had the BuzzBees give
-you a little something special before I blew them all up. I think you have so
-much pharma in your system right now that you'll need my help getting out of
-here. You definitely won't make it out if I'm trying to stop you."
-
-The Principal cleared his throat, and said "I can requesht a pardon from the
-E-" before vomiting all over Dela's leg.
-
-Dela recoiled in horror, then she instinctively kicked the Principal in the
-face, sending vomit flying in all directions.
-
-"Request the pardon now!"
-
-The Principal wiped his face with the sleeve of his blazer and started entering
-the pardon requests as Dela stood over him making sure he did not try any
-tricks. The pardon requests were approved soon after the Principal submitted
-them. Dela hopped off the desk next to the Principal and read through each one
-of the pardons. When she was satisfied, Dela helped the Principal out of his
-chair and out the door of his office. The Principal was almost instantly
-out-of-breath, but impending death can be a powerful motivator and he kept
-moving towards the exit. Every other step that Dela took was followed by a
-squishing noise as the vomit in her shoe moved flowed back and forth. When they
-made it outside, they saw that the evacuation team had already cleared the
-blast zone. Dela guided the Principal to a microtransit vending machine.
-
-"Unlock it!"
-
-"What are-"
-
-"If you don't, we're both going to die."
-
-The Principal placed his palms on the machine and leaned in for the retinal
-scan. Dela made a selection using the accompanying display, and a black
-motocycle with a sidecar rolled up a ramp next to them. Dela ran to the
-motorcycle.
-
-"Wait, don't leaf me!" The Principal yelled reaching for Dela.
-
-"What do you think the sidecar is for?", Dela answered as she started the
-motorcycle.
-
-Dela spun the motorcycle around and pulled up next to the Principal who fell
-into the sidecar. Racing down the empty street, Dela tried to remember how much
-time was left before she left the school. Dela did not know how far the blast
-zone extended, but she knew that until she saw people, they wouldn't be safe.
-
-"How big is blast zone?", she yelled at the Principal.
-"To the treesh!", he yelled back.
-
-"What?"
-
-"We haf to make it to the treesh."
-
-Dela did not know where the Principal was pointing, she had never seen trees in
-the city. She was not going fast enough. Dela accelerated, but she knew that
-they had no chance of making it in time. Dela thought about what had happened
-that day. She had pushed back against the system and won. Even if only
-succeeded in smashing just a single cog in the machine of oppression, it was
-worth it. Reflecting on her life, Dela realized that for the first time in her
-life, she had felt truly powerful. She was always powerless to stop her father
-from beating her when he got angry. She could not do anything to keep her
-mother from self-medicating her worries away. Being in control, even if it was
-part of one day, was worth any cost for Dela. Even if she knew that she was
-going to die, she would not have changed much about today. She just wished she
-could have had a chance to apologize Kaia and Lita. Maybe if things were
-different, they could've been friends? Dela's eyes filled with tears.
-
-"It's the wind in my eyes." Dela thought, "No way I'm crying over those
-losers."
-
-Dela closed her eyes. It didn't matter now. She was free. She relaxed her body
-and focused on her last few breaths. The blow from behind came sooner than Dela
-expected. She thought she would hear the explosion first and maybe have a
-chance to look back at the blast before it enveloped her. As she flew through
-the air with her eyes closed, she stretched out her arms and imagined she was a
-giant bird flying over the empty city towards an infinite sea of green on the
-horizon.
-
-## Chapter 3
-
-The sound of the fire alarm was brutal. Waking up in total darkness, Kaia and
-Lita were in a state of panic. Aira was at the side of the bed in an instant,
-shining a flashlight on the floor until their eyes adjusted to the light.
-
-"Lita, Kaia, put on these shoes.", Aira said, handing each of the girls a pair
-of ballet flats from a satchel she wore across her shoulder, "Just slip them on
-and let's go. Dela and Ryn left while you were sleeping."
-
-"It could be just a drill.", Lita said.
-
-"We will find out when we get outside.", Aira responded.
-
-As they were leaving the theater, a huge explosion rocked the school.
-
-"Ok, it's definitely not a drill.", Lita said.
-
-Outside the theater, there was utter pandemonium. Students were running towards
-the exits as robotic animals, large and small, were exploding. The three girls
-ran to the main exit. Surprised that she could run at all, Kaia marvelled at
-how comfortable the ballet flats were to run in.
-
-"How did you know our sizes?", Kaia asked Aira.
-
-"Lita was trying on shoes before you went to sleep and I took your shoes off
-once to wear asleep. Your shoes were in pretty bad shape. I hope you don't mind."
-
-"Oh, I don't mind at all. These shoes are much better."
-
-When the girls made it outside, Lita and Kaia were dismayed to see Pert and his
-posse waiting in front of the entrance to the school. Pert's head was wrapped
-in bandages. A small of blood had permeated the bandages in the spot were the
-HistorianHummingbird had hit him.
-
-"What's wrong? Afraid of a little fire-", Pert started, but the paused as he
-inspected the girls more closely.
-
-"Wait a second. Did you replace one of your girlfriends already?", Pert said to
-Kaia, "You just love 'em and leave 'em, dontcha? You go through girls faster
-than I do!"
-
-The boys erupted with laughter.
-
-Before the Kaia and Lita could think of a plan, Aira walked up to Pert and
-introduced herself.
-
-"Hello, I'm Aira. What's your name?", Aira said, projecting her voice so
-everyone hear as if she were on stage.
-
-"Pert, but you can call me the-", Pert said, starting the flex his muscles.
-
-"Nice to meet you, Pert! What happened to your head?"
-
-"Oh, this? It's nothing." Pert was clearly not used to anyone of the opposite
-sex taking an interest in him.
-
-"A bird flew into his head.", Lita said.
-
-"What did you say?", Pert pushed past Aira and stood menacingly in front of
-Kaia and Lita.
-
-"I said, a bird flew into your head.", Lita said defiantly.
-
-"What are the chances of a bird flying into someone's head?", Aira interrupted.
-She really knew how to make her voice carry.
-
-"Pert must really be an airhead.", Lita said.
-
-"A real chick magnet!", Kaia said exploding with laughter.
-A few hours of sleep had done them both a lot of good.
-
-Pert moved closer to Lita and Kaia and spoke in a low voice.
-"Listen, I know you are one mistake away from going to prison, so you better
-start treating me really nicely or I might have a word with my father and-."
-
-At that moment, a bird flew into the previously undamaged side of Pert's face.
-
-"What are the chances of two different birds flying into the same person's
-head?", Aira said as she grabbed Kaia and Lita by the hands and led them away
-through the circle of stunned boys.
-
-"He got two birds with one head!", Lita screamed as they ran, hoping everyone
-could hear her. Laughing hysterically, Kaia did not try to come up with any
-more bird puns, because she knew she would not be able to top that one.
-
-When the girls arrived at the emergency meeting point, an very sharply dressed
-young man waved at them enthusiastically and began to run in their direction.
-Aira squealed with glee and began to run towards him.
-
-"Airunia!", the young man yelled.
-
-"Lanselolek!" Aira responded.
-
-They hugged and spun around, laughing like children.
-
-When Kaia and Lita walked up to them, Aira put her arm around the young man and
-gestured towards the two girls.
-
-"Lans, this is Kaia and Lita. Kaia and Lita, this is Lans."
-
-Lans stepped forward and bowed with a flourish.
-
-"Very pleased to make your acquaintance. Any friend of my Airunianunia is a
-friend of mine! Please, follow me. I have the best seats in the best airship
-reserved for only the best of the friends."
-
-"Airship?!", Aira exclaimed. Lans stopped and looked at the girls.
-
-"Haven't you heard?! The entire city is going to explode! We have to be ready
-to evacuate as soon as we get the signal."
-
-"We have to go back for Ryn and Dela.", Kaia said.
-
-"Oh no, I'm afraid that will be absolutely impossible! Anyone trying to leave
-this area will be executed immediately to ensure a safe and organized
-evacuation."
-
-"How is executing people going to ensure safety?"
-
-"I don't know, I don't make the rules, but I do know that the snipers on the
-roof mean business."
-
-The girls look up at the rooftops and saw gunmen covering all of the possible
-exits.
-
-"I'm sure everyone will make it onto an airship just fine. It seems like
-they're in no hurry to launch, but we might as well wait inside. Come on, we
-can have some refreshments. You all look positively parched and famished!"
-
-As they approached a regal looking airship, Lans suddenly changed course waving
-towards a strike team officer with one hand and pulling Aira behind him. The
-strike team officer looked very intimidating. His face was hidden behind a
-black balaclava and dark sunglasses. He was resting his hands on a massive
-rifle that was slung over his shoulder. The exoskeleton armor he was wearing
-made him look could wrestle a GuardGorilla and win.
-
-Officer Gudman!, Lans exclaimed, "I'd like to introduce you to Aira and her
-friends Kaia and Lita."
-
-Getting behind Aira, Lans whispered something into her ear, carefully took her
-satchel, and gently nudged her forward.
-
-Aira adjusted her hair and approached the officer shyly, but pretty soon they
-were standing next to each other as they posed for a picture together. Aira's
-face was flushed with emotion as beamed at the PictureParrot that perched in
-front of them. She put her hand on Officer Gudman's arm and leaned into him as
-he stood motionless. After the picture, she came back to stand next to Kaia and
-Lita. Lans walked up to Officer Gudman and stood next to him speaking in a
-hushed tone. The officer nodded, then Lans stuck out his elbow and two briefly
-connected elbows.
-
-As they resumed their trajectory to the airship, Lans was smiling ear to ear.
-
-"It's all taken care of. Thanks to Aira, our airship has official VIP
-designation and all of the best local shops are being requisitioned for the
-best supplies. We have complete control of the guest list. If anyone gives us
-any trouble, we can have them thrown out. And the best part is that Officer
-Gudman will be flying with us as our personal security escort."
-
-Aira was blushing deeply and she pulled in Kaia and Lita on either side of her.
-
-"Are you crying?", Kaia asked.
-
-"Not here. Wait until we get onto the airship.", Aira replied smiling broadly
-through the tears.
-
-As soon as they were in the gangway of the airship, Aira pulled Kaia and Lita
-into a huddle as Lans was on the lookout.
-
-"That officer was a Lunker." Aira said as tears dropped down on the ground in
-front of her.
-
-Kaia and Lita were waiting to hear more, but what followed was a bit
-anticlimactic. "You mustn't tell anyone anything!".
-
-After wiping her face, Aira pulled the two girls up the gangway into the
-airship. The interior of the airship was impeccably stylish and as far they
-could tell completely empty.
-
-"I'm going to freshen up.", Aira said quickly, "Lans, will you take care of our
-guests?"
-
-Lans launched into his role as host with bravado. He first offered his guests a
-selection of beverages and did an excellent job hiding his disappointment when
-he found out that he guests only wanted regular water to drink. After the girls
-drank several bottle of water, Lans lifted a silver cover with a flourish to
-reveal a veritable cornucopia of delicious-looking foods. The two girls began
-to eat with abandon using their hands to shuttle food from the platter directly
-to their mouths. Lans started to explain the unique origins and laud the
-quality of each food item, but then he fell silent when he realized no one was
-listening to him. Kaia could not help but noticed that Lans was growing
-increasingly uneasy as they ate, but she could not resist the food. After the girls
-cleared almost all of the food on the platter, they looked up at Lans with
-gratitude.
-
-"That was the best meal I've had in my life." Lita said and Kaia
-enthusiastically agreed.
-
-"I couldn't eat another bite!" Lita added."
-
-"Should we have saved some for Aira?", Kaia asked, trying to guess why Lans
-looked so uncomfortable.
-
-"Oh no, we have plenty of food and there's plenty more being loaded now."
-
-"Lans, did we do something wrong?", Kaia asked quietly.
-
-"Heavens no, you two are absolutely perfect. I was just hoping that you might
-save a little room for the soup, salad, main course, and dessert, but I am so
-glad that you liked the appetizer tray so much-." Lans said as he burst into
-tears using the bend in his elbow to cover his face.
-
-"I am really sorry we ate all the appetizers. We'll be hungry again soon I
-promise!", Kaia said trying to cheer up Lans, but he only cried harder. Kaia
-sat down next to Lans and put her hand on his shoulder unsure of how to console
-him. When Lans lifted his tear-soaked face to look at Kaia, she was stunned to
-see the deep sorrow in eyes. There was clearly more to the story than the
-appetizer tray. Lans gently leaned into Kaia for a hug, his body was
-occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
-shoulder. When he stopped crying, he looked at Kaia lovingly.
-
-"Can I tell you something? I want to tell you, but you mustn't tell anyone
-anything, please."
-
-Kaia emphatically agreed and Lita was quick to echo the sentiment.
-
-"When I was little, I lived in a orphanage made of stone. I was happy, because
-I had so many friends, but it was hard. There was no one to take care of us.
-Everyone was hungry all of the time, except for me, because-", Lans looked
-around the empty airship cabin, "I can photosynthesize."
-
-"After all the buildings were replaced with factories, we stopped seeing any
-grown-ups anymore, everything was automated or controlled remotely. The river
-slowly turned into sludge and all the vegetation died. My friends and I stopped
-being able to find food. I didn't want to see them starve, so I begged them to
-eat me first, but they wouldn't, they said they didn't want to hurt me. When it
-got really bad, I was the only who could still move. I would cut off pieces",
-Lans pointed to his torso, arms, and legs, "and give it to them, but the meat
-would grow back so slowly and there were so many friends to feed. When a friend
-died, I would redistribute them to the friends who were still alive, but soon
-all my friends were gone. When the constructions crews came to clear the
-orphanage, they saw me escaping from the rubble. They thought that I ate my
-friends to survive. I couldn't tell them the truth. People who are different
-get taken. My parents were taken, because they were different. If someone finds
-out about me, I will get taken too. That's why you mustn't tell anyone
-anything."
-
-When Lans finished his story, Kaia looked back at Lita. Neither of them had any
-idea what to do.
-
-"Everyone has these incredibly traumatic events in their lives. Are you going
-to surprise me with some trauma I never heard about even though we grew up 
-together?"
-
-"No, are you?"
-"No, before today I really didn't have much going on in the trauma department."
-"I think you are projecting the Lunkers who saved you onto Officer Gudman."
-"Yes, I think you are right but it still makes me happy, so I think it is ok."
-
-Are you a Lunker too?
-A Lunker?! I was born to shine under the spotlight, not hide in the shadows!
-
-"Are you and Aira together?"
-"Me with her?! Oh no, a leading man needs a leading lady." Lans said looking at Ursa.
-
-
-An eagle brings Dela and the Principal down on top of a hill where Ryn is
-already waiting. 
-
-"How come the eagle didn't rip your shirt?"
-
-"Unlike you, I am friendly towards birds."
-
-Ryn followed Dela to the Principal's office to make sure she was OK. 
-
-"When you thought you were going to die, were you at any point concerned about
-my wellbeing?"
-
-fit in at school. Thinking about her friendship with Lita,
-Kaia wondered if the only reason that they were friends was because they were
-both abnormal.
-
-Lita did not suffer from mental illness like Kaia. Instead, Lita had a
-neurological condition called epilepsy.
-
-Lita often had absentee seizures that would incapacitate her for short periods
-of time and leave her feeling weak and disoriented. The more severe seizures,
-during which Lita appeared to be tormented by invisible demons and tossed about
-by an unseen hand, were mercifully rare.
-
-None of the other students seemed to be at all concerned with the secondary
-school initiation ceremony.
-
-covered their ears. loud audio system in the gymnasium had no chance sound of
-the gigaphone, 3 decibels louder , was deafening.
-
-Seeing her best which Lita appeared to be tormented by invisible demons and
-tossed about by an unseen hand, were mercifully rare. Kaia held Lita's hands,
-which unfortunately led to another round of jeers. Seeing her best which Lita
-appeared to be tormented by invisible demons and tossed about by an unseen
-hand, were mercifully rare. 
