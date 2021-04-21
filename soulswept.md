@@ -1348,6 +1348,10 @@ the air with her eyes closed, she stretched out her arms and imagined she was a
 giant bird flying over the empty city towards an infinite sea of green on the
 horizon.
 
+...
+
+Ben and Ed on one of their family's airships.
+
 "I hope Dela made it out OK.", Ed asked.
 
 "I am sure she did. Dela is extremely cunning. I have never before met someone
@@ -1363,8 +1367,9 @@ be frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
 "Me too." Ben said, patting Ed's massive shoulder.
 
-The brothers, both thinking fondly of Dela, watched as the sunset behind the
-smoldering remains of the city.
+Looking out the windows of the observation deck of their airship, the brothers,
+both thinking fondly of Dela, watched as the sunset behind the smoldering
+remains of the city.
 
 ## Chapter 3
 
