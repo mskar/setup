@@ -897,19 +897,115 @@ Kaia didn't respond, she just looked angrily at Dela. Sensing the tension, Lita 
 Lita twirl and struck a pose. She was wearing a long flowing shirt
 covered by an elegant bodice. The sight of Lita took Kaia's breath away.
 
-
 "Like a GuardGorilla in a milk maid outfit.", Dela said.
 
 "What is it with you?", Kaia screamed lunging at Dela. Dela stepped away
-effortlessly. Kaia stumbled and fell, landing on her hands and knees. Kaia was
-shaking as Lita helped her stand up.
+effortlessly. Kaia stumbled and fell, landing on her hands and knees.
 
-When Kaia collapsed onto the bed. she was still shaking like a 9-point Richter
-scale quake. Lita laid down next to Kaia, cradling Kaia in her arms. Kaia
-buried her face in Lita's shirt just above the bodice. The smell of the starchy
-shirt mixing with Lita's scent was heavenly. Soon Kaia stopped trembling and
-her body relaxed. Kaia lifted her face up to look at Lita. Lita was so radiant
-and beautiful that Kaia began to cry.
+"Looks like I hit a nerve! I've been making fun of Ryn for ages without much of a
+response. Then, I say one harmless thing about Lita and Kaia flips out."
+
+"Sorry Ryn, looks like Kaia only cares about Lita, I guess you are stuck with
+your sister for now."
+
+Kaia couldn't hear Dela anymore over the howling wind tearing through the
+theater. Sifting through the dust on the floor with her fingers, Kaia pulled
+out assorted fragments of bone and shook them in her hand like dice. Through
+the dust swirling around Kaia, she saw the metallic glint of the TaserTutor.
+The metallic tendrils extending from TaserTutor were coiled around her arms up
+to the shoulder. The ceremony was still ongoing. The TaserTutor began to pulse
+red. Kaia's heart sunk. Had she imagined everything? Dela, the Principal, Pert,
+Ryn, Aira? Lightning shot out of the surrounding storm and coursed through
+Kaia's body. Kaia screamed and writhed on the ground, but then got up with a
+renewed sense of purpose.
+
+Did she have a chance to change the future? If she answered the remaining
+questions, could she turn everything around? Kaia knew what she had to do. She
+would continue through the ceremony, deny any political motivations, blame
+everything on her mental illness, and anything else she needed to do to keep
+Lita safe, even if it meant that Dela would go to prison for years. Kaia began
+to feverishly work on the problem displayed on the console.
+
+She nearly finished with the task when the tendrils started restricting her
+movements and moving up past her shoulder. The tendrils wrapped her neck and
+around her head. She braced her legs against the TaserTutor and pushed as hard
+as she could, trying to break free of the tendrils. New tendrils extended out
+of TaserTutor wrapping around her legs. Before long, Kaia was encased head to
+foot in tendrils. The tendrils constricted, squeezing all of the moisture out
+of her body. When the final drop of blood disappeared in the swirling dust
+below, Kaia had been squeezed dry and her mummification was complete.
+
+Roving the desolate wasteland of Mars, Kaia was a vengeful spirit in search of
+her next victim. She hunted the new invaders, the ones who desecrated the
+remains of her people in search of riches. When the invaders began to arrive
+with greater frequency, she raised an army of the dead to repel them. Sitting
+victorious atop her throne, she waited for the next opportunity to fertilize
+the barren soil of Mars with blood of her enemies. This is was Kaia's fate.
+This is how she would remain. In a perpetual cycle of death and waiting, Kaia
+would protect the memory of her lost civilization from each new crop of fools
+who sought to strike gold on the red planet.
+
+Disturbed by an unfamiliar sensation on her forehead, the mummy queen let out
+her anger in a roar that shook the ground. After probing her face with an
+tendril-covered hand, she inspected her hand and was stunned to see that her
+fingers were moist. Where had the moisture come from? She had not had even a
+drop of blood in her for eons, she was dessicated to the core. What was going
+on? Tiny drops of water were falling down on the mummy queen's face wherever
+she went. How could there be rain on Mars? She looked up and saw the
+constellations rearranging into a face that filled the heavens. The mummy queen
+recognized the face in the stars. It was Lita. The raindrops were coming from
+her.
+
+"Come back to me, please.", the sky whispered. It was no use. There was nothing
+left of Kaia. The mummy queen was not going to spring back to life from a few
+drops of water! The sky sighed and began squeeze the land where the mummy queen
+stood until it disappeared completely and the mummy queen was left floating in
+the void. The constellations warped and stretched until they formed a single
+brilliant ball of light. The ball of light grew arms, legs, and a head, taking
+the form of Lita. Lita reached her hand out to the mummy queen and the tendrils
+began to break apart, revealing the dried out cadaver underneath.
+
+"Kaia.", Lita said. "Yes", the mummy queen thought, "that was once my name. In
+a past life? Or a future one?"
+
+The light began to burn away her parched skin and brittle bones. Beneath it
+all, a dim flicker of light began to shine. Could I still be saved? Lita cupped
+her hands around the flicker and blew into it gently. Each time Lita blew into
+her hands, the flicker grew stronger, eventually growing into a flame. As Lita
+drew in breath, Kaia reached out from inside the flame and gently touched the
+sides of Lita's face. When Lita leaned into blow on the flame again, Kaia
+pulled her in and kissed her on the lips, sucking her life giving breathe deep
+into her lungs.
+
+Kaia's body convulsed on the hard concrete floor of the theater. She was
+hyperventilating, in a panic. Lita lifted Kaia's head up off the ground and
+cradled it in her arms. She smoothed Kaia's hair with one hand and supported
+Kaia's neck with the other. Soon the convulsions were replaced by shivers and
+Kaia's eyes focused on Lita's face. Still trembling, Kaia looked up at Lita.
+Tears were falling from Lita's eyes onto Kaia's face.
+
+"Is she alive?", Dela asked impatiently.
+
+"Yes. No thanks to you.", Lita replied sharply.
+
+"Let's get her into bed.", Aira said.
+
+Kaia was underwater, looking up at Lita in the stars above. An octopus obscured
+the view of the sky and Kaia tried to shoo it away, but it extended four pairs
+of tentacles towards Kaia and carried her with to onto a tuft of seaweed. Kaia
+suddenly felt very grateful to the octopus. Reaching out her hands, she began
+to caress the tentacles. The tentacles began to reciprocate. Kaia was
+blissfully exchanging caresses with the octopus when she had a startling
+thought. If I'm underwater, how is it that I'm breathing? Kaia shot up,
+throwing the tentacles off of her, and gasping for air.
+
+"It's ok, Kaia.", Lita said reassuringly, "You're safe now."
+
+Lita laid down next to Kaia in the bed, cradling Kaia in her arms. Kaia buried
+her face in Lita's shirt just above the bodice. The smell of the starchy shirt
+mixing with Lita's scent was heavenly. Soon Kaia stopped trembling and her body
+relaxed. Kaia lifted her face up to look at Lita. Lita was so radiant and
+beautiful that Kaia began to cry.
 
 Lita leaned in a kissed Kaia's cheeks, catching the fresh tears with her lips.
 Kaia fell asleep with a smile on her face as Lita slowly showered her with
