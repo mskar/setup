@@ -31,7 +31,8 @@ ceremony."
 
 "Acting crazy should be easy for you, because you've always been insane."
 
-Lita knew that the joke didn't land well, so she tried to reassure her friend.
+Lita could see that the joke didn't land well, so she tried to reassure her
+friend.
 
 "Maybe it won't be so bad. Maybe I won't have a seizure and you won't freak
 out."
@@ -64,8 +65,8 @@ prepared to speak.
 
 Already sweating, the principal his brow with a lace handkerchief he retrieved
 the pocket of his blazer. With three clicks of his tongue, the principal
-summoned three robotic bees. The bees landed on the principal's face and neck
-and used their stingers to administer the pharmacological relief that the
+summoned three robotic bees. The BuzzBees landed on the principal's face and
+neck and used their stingers to administer the pharmacological relief that the
 principal would need to collect his frayed nerves.
 
 "Today we welcome a new cohort of-"
@@ -115,7 +116,7 @@ nearby students.
 
 "Is that even legal?"
 
-"Someone get the SecuritySimians to tackle those two!"
+"Someone get the SecuritySimians to arrest those two!"
 
 After seeing it countless times, Kaia knew exactly what to expect. As the
 seizure ended, Lita looked around disoriented and confused. The part that
@@ -142,13 +143,15 @@ best to be reassuring, Lita smiled weakly and gave Kaia a gesture of
 encouragement. Left with no other option, Kaia got up and started to squeeze
 through the rows of students.
 
-Kaia could feel the eyes of the students and robotic wildlife follow her to the
-TaserTutor next to the podium in front of the bleachers. As she approached, the
-TaserTutor began to writhe as it adjusted to match her height and build.
-Robotic birds, bats, and bugs flew in circles above Kaia. A wall of
-HistorianHummingbirds hovered in front of her face, recording her every move,
-staring at her with their piercing eyes, projecting everything they saw onto
-the hexagonal walls of the gymnasium.
+Kaia could feel the eyes of the students and robotic animals follow her to the
+TaserTutor next to the podium in front of the bleachers. The TaserTutor looked
+a table covered with a silvery hair. As she approached, the TaserTutor began to
+writhe as it adjusted to match her height and build. Robotic birds, bats, and
+bugs flew in circles above Kaia. A wall of HistorianHummingbirds hovered in
+front of her face, recording her every move from multiple angles , staring at
+her with their piercing eyes, relaying everything they saw to the projector
+system that displayed a multitude of video feeds on the hexagonal walls of the
+gymnasium.
 
 When Kaia placed her palms down on the TaserTutor, metallic tendrils extended from
 the TaserTutor and wrapped around her arms up to the shoulders like vines around a
@@ -452,7 +455,8 @@ gigaphone."
 
 "The revolution?"
 
-"The revolution is a movement that will overthrow the government and build a better world."
+"The revolution is a movement that will overthrow the government and build a
+better world."
 
 "How are we going to do that?"
 
@@ -885,11 +889,13 @@ Ryn helped Kaia to her feet and started walking with her in the direction of the
 Ryn, your sister might get jealous! She's used to having you all to herself,
 she might not like sharing you with Kaia."
 
-Dela continued to taunt Ryn all the way to secret bed. Lita and Aira were already there waiting for them.
+Dela continued to taunt Ryn all the way to secret bed. Lita and Aira were
+already there waiting for them.
 
 "What took you so long? I was worried", Lita said.
 
-Kaia didn't respond, she just looked angrily at Dela. Sensing the tension, Lita tried to change the subject.
+Kaia didn't respond, she just looked angrily at Dela. Sensing the tension, Lita
+tried to change the subject.
 
 "How do I look?", Lita asked.
 
@@ -957,12 +963,12 @@ her.
 
 "Come back to me, please.", the sky whispered. It was no use. There was nothing
 left of Kaia. The mummy queen was not going to spring back to life from a few
-drops of water! The sky sighed and began squeeze the land where the mummy queen
-stood until it disappeared completely and the mummy queen was left floating in
-the void. The constellations warped and stretched until they formed a single
-brilliant ball of light. The ball of light grew arms, legs, and a head, taking
-the form of Lita. Lita reached her hand out to the mummy queen and the tendrils
-began to break apart, revealing the dried out cadaver underneath.
+drops of water! The sky sighed and began to squeeze the horizons until the land
+where the mummy queen stood disappeared completely and the mummy queen was left
+floating in the void. The constellations warped and stretched until they formed
+a single brilliant ball of light. The ball of light grew arms, legs, and a
+head, taking the form of Lita. Lita reached her hand out to the mummy queen and
+the tendrils began to break apart, revealing the dried out cadaver underneath.
 
 "Kaia.", Lita said. "Yes", the mummy queen thought, "that was once my name. In
 a past life? Or a future one?"
@@ -1093,7 +1099,7 @@ any other part of the school."
 
 "They are my friends. Ben is really smart. Ed is really big and strong."
 
-Dela laughed. "They have money to burn on all of this?"
+Dela laughed. "And they have money to burn on all of this?"
 
 "Their parents are high ranking members of the CorporateCouncil."
 
@@ -1200,7 +1206,7 @@ immune to the sedatives and chases her. She is amazed that he can keep up with
 her and commands GuardGorillas to slow him down. Dela heads to the Principal's
 office to strongarm him into requesting a pardon. She stands on his desk and
 holds an activated powerskate next to his face. The Principal vomits all the
-skate short circuiting it. 
+skate short-circuiting it. 
 
 ...
 
@@ -1512,7 +1518,7 @@ black balaclava and dark sunglasses. He was resting his hands on a massive
 rifle that was slung over his shoulder. The exoskeleton armor he was wearing
 made him look could wrestle a GuardGorilla and win.
 
-Officer Gudman!, Lans exclaimed, "I'd like to introduce you to Aira and her
+Officer Krasnal!, Lans exclaimed, "I'd like to introduce you to Aira and her
 friends Kaia and Lita."
 
 Getting behind Aira, Lans whispered something into her ear, carefully took her
@@ -1521,9 +1527,9 @@ satchel, and gently nudged her forward.
 Aira adjusted her hair and approached the officer shyly, but pretty soon they
 were standing next to each other as they posed for a picture together. Aira's
 face was flushed with emotion as beamed at the PictureParrot that perched in
-front of them. She put her hand on Officer Gudman's arm and leaned into him as
+front of them. She put her hand on Officer Krasnal's arm and leaned into him as
 he stood motionless. After the picture, she came back to stand next to Kaia and
-Lita. Lans walked up to Officer Gudman and stood next to him speaking in a
+Lita. Lans walked up to Officer Krasnal and stood next to him speaking in a
 hushed tone. The officer nodded, then Lans stuck out his elbow and two briefly
 connected elbows.
 
@@ -1533,7 +1539,7 @@ As they resumed their trajectory to the airship, Lans was smiling ear to ear.
 designation and all of the best local shops are being requisitioned for the
 best supplies. We have complete control of the guest list. If anyone gives us
 any trouble, we can have them thrown out. And the best part is that Officer
-Gudman will be flying with us as our personal security escort."
+Krasnal will be flying with us as our personal security escort."
 
 Aira was blushing deeply and she pulled in Kaia and Lita on either side of her.
 
@@ -1598,11 +1604,11 @@ occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
 shoulder. When he stopped crying, he looked at Kaia lovingly.
 
 Aira arrives looking gorgeous. Both Kaia and Lita are very impressed. Lans
-wipes his eyes and continues entertaining. Aira is anxious for Officer Gudman
+wipes his eyes and continues entertaining. Aira is anxious for Officer Krasnal
 to arrive. When he does, she runs up to him and throws her arms around him.
-Officer Gudman removes and stows away his armor along with his rifle. Without
+Officer Krasnal removes and stows away his armor along with his rifle. Without
 the armor, he looks much smaller, but still very intimidating. After they talk
-and eat, Aira announces that she is going to show Officer Gudman around. When
+and eat, Aira announces that she is going to show Officer Krasnal around. When
 Kaia asks if they can come too, Lans says that he will show Kaia and Lita
 around later, separately.
 
@@ -1627,22 +1633,23 @@ leadership skills and leverages his relationship with Figa and Ursa to save the
 day. He gives commands to Ursa and Figa, both of whom are incredibly strong and
 athletic. Ursa is always cheerful. Figa never smiles.
 
-At the airship crash site, Lans is upset to leave all of the supplies behind
-especially the food. Officer Gudman arranges an evacuation to the refugee camp
-where all the other students are to meet. A refugee camp school is repurposed
-and expanded to hold all of the new students in addition to the original
-refugees that already lived in the camp. Lans decides to work in the kitchen
-and uses his connections and swagger to get more food and other supplies for
-the camp.
+The airship crashes in a lake and sinks to the bottom. Ursa dives into the lake
+and recovers supplies for them. Lans annoys her by asking for more and more
+supplies. Figa refuses to get in the water. Since it was already dark, they
+decided to make camp at the airship crash site. They talk around the camp fire.
+Someone notices that Krasnal and Aira's eyes glow in the dark. All of the girls
+walk along the side of lake to find a spot to bathe. Krasnal, Dan, and Lans
+stay behind. Figa waits by the side of the lake. "I don't do water." The girls
+have fun in the water. Kaia is amazed at how great Lita, Aira, and especially
+Ursa look. Aira and Ursa are surprised to see how Kaia looks underneath all the
+grime.
 
-Kaia is ambushed by Pert and his posse (who were secretly hired by Dan) in the
-cafeteria. Kaia is saved by Ed, because Ed is much faster than Dan.
-
-...
+The Chapter ends when everyone falls asleep next to the campfire. Kaia curls up
+next to Lita.
 
 ## Chapter 4
 
-"What is this Lord Of The Rings, deus-ex-machina bullshit?", Dela screamed.
+"What is this Lord-Of-The-Rings, deus-ex-machina bullshit?", Dela screamed.
 
 "Are you upset that you did not die?", Ryn asked confused.
 
@@ -1705,7 +1712,21 @@ The eagles brings Dela, Ryn, and the Principal down on top of a hill.
 
 "Unlike you, I am friendly towards birds."
 
-Ryn followed Dela to the Principal's office to make sure she was OK.
+## Chapter 5
+
+Lans is upset to leave all of the supplies behind,
+especially the food. Officer Krasnal arranges for a smaller airship to the
+refugee camp where all the other students are to meet. A refugee camp school is
+repurposed and expanded to hold all of the new students in addition to the
+original refugees that already lived in the camp. Lans decides to work in the
+kitchen and uses his connections and swagger to get more food and other
+supplies for the camp.
+
+Kaia is ambushed by Pert and his posse (who were secretly hired by Dan) in the
+cafeteria. Kaia is saved by Ed, because Ed is much faster than Dan.
+
+...
+
 
 ## Miscellaneous
 
@@ -1776,7 +1797,7 @@ together?"
 
 "No, are you?"
 "No, before today I really didn't have much going on in the trauma department."
-"I think you are projecting the Lunkers who saved you onto Officer Gudman."
+"I think you are projecting the Lunkers who saved you onto Officer Krasnal."
 "Yes, I think you are right but it still makes me happy, so I think it is ok."
 
 ### Ryn and Dela
