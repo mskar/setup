@@ -1255,9 +1255,11 @@ tricks. The pardon requests were approved soon after the Principal submitted
 them. Dela hopped off the desk next to the Principal and read through each one
 of the pardons.
 
-After discovering the school AI and that the
-Principal's console gives ultimate override access over everything in the
-school, Dela starts the school's self destruct sequence.
+After discovering the school AI and that the Principal's console gives ultimate
+override access over everything in the school, Dela uses the AI to replace the
+recordings of Kaia, Lita and herself with deep fakes showing flawless
+performances during the initiation ceremony, then she starts the school's self
+destruct sequence.
 
 The self-destruct alarm alerts Ben, Ed, and Ryn, who burst into the Principal's
 office.
