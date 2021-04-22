@@ -1754,9 +1754,12 @@ copies before they were replaced.
 
 The Lunkers lost the ancient war between dextrae and sinistrae.
 The sinistrae retreated to the hidden silos.
+The AI is based on a system called UNO, while other AIs are based on DOS.
+The AI has been sabotaging DOS systems since the war ended for fun.
+No one has noticed because DOS systems are innately terrible.
 
-The AI offers Dela a choice to
-become the figurehead of the next revolution or continue in her current state.
+The AI offers Dela a choice to become the figurehead of the next revolution or
+continue in her current state.
 
 The drawback is that outside technology would cease to work for her, but
 anything inside the silo would work for her. Also, dextrae AIs would try to
@@ -1819,6 +1822,9 @@ and turn black in an effort to maximize photosynthesis.
 The government starts abducting mimics around the world.
 Aira and Lans are taken by the government.
 
+Krasnal is indifferent to Aira being taken. He says that she lied to him about
+being a Lunker.
+
 Dela, Ryn, and Naksos arrive at the refugee camp. Dela promises everyone that she
 has no idea how the government got sinistrae nanotech or figured out how to use
 it to detect mimics. As proof that she has nothing against mimics, she offers
@@ -1852,28 +1858,47 @@ with the network in the same way she is with the signals reaching Kaia. Ryn
 goes to the silo to ask Dela, Kaia, and Lita for help with distributing the
 inoculations to mimics hiding underground.
 
+## Chapter -4
+
+Kaia is captured by the Enders who want to transfer her consciousness so they can study it.
+Ben and Ed try to convince her to join them willingly, offering Pert as a peace offering.
+Pert reveals that Dan paid him to act her in the refugee camp, so he could look like a hero.
+Ben reveals that Ursa is an ender, who used to be a man.
+Kaia is rescued by Dan, Ursa, and Figa.
+She returns to the silo to live with Dela and Lita.
+
 ## Chapter -3
 
-Kaia arrives to destroy Echo Corp, but decides to stay when she meets the baby.
-Ryn comes to bring Kaia back, but he stays when he realizes that she will not
-leave the baby.
+Kaia arrives to destroy Echo Corp (or for another reason?), but decides to stay
+when she meets the baby. Ryn comes to bring Kaia back, but he stays when he
+realizes that she will not leave the baby.
 
 ## Chapter -2
 
-Lita arrives to retrieve Kaia. Kaia agrees to leave with Lita if she can take
-the baby. While Kaia is preparing to leave. Ursa captures Lita and uploads her
-consciousness so she can be rebuilt later, killing her in the process, to keep
-Kaia from leaving. Kaia curses out Ursa, but agrees not to kill Ursa until Ursa
-has a chance to rebuild Lita.
+Lita arrives to retrieve Kaia. Kaia explains that she cannot leave because the
+baby will not let her. Lita has trouble believing it, but she agrees to stay
+and give up sinistrae even though she starts experiencing her seizures again.
+They live happily for a while despite Lita's seizures and Kaia's visions and
+the baby's mind control.
 
-Dela kills Ursa in revenge for Lita. Kaia kills Dela, because Dela wants to
-kill the baby. Rebuilt Ursa and Lita go crazy and kill Dan. Kaia kills rebuilt
+Dela arrives and kills Lita easily and then battles Ursa and Dan. Dela kills
+Ursa and severely wounds Dan before Kaia kills her. Dan explains that he has a
+backup of uploads her consciousness so she can be rebuilt later, killing her in
+the process, to keep Kaia from leaving.
+
+Rebuilt Ursa and Lita go crazy and kill Dan. Kaia kills rebuilt
 Ursa and rebuilt Lita. Kaia believes that Lita's consciousness has been
 corrupted, perhaps by the Mummy Queen.
 
 ## Chapter -1
+
 Kaia faces off against Ben and Ed, and kills them both with the help of Ryn.
-She is unsure of whether she should kill Ryn.
+Ryn tells her he was working with Dela and Lita. It was part of their plan to
+have sinistrae take over. He says that Lita and Dela backed themselves up
+before dying in Echo Corp. She is unsure of whether she should kill Ryn. Kaia
+starts planning to go back to the silo but the baby won't let her. Sinistrae
+make the baby lose his telepathy and other abilities and he doesn't want to
+lose his connection and control over his mother.
 
 ## Miscellaneous
 
