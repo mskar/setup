@@ -1525,7 +1525,7 @@ black balaclava and dark sunglasses. He was resting his hands on a massive
 rifle that was slung over his shoulder. The exoskeleton armor he was wearing
 made him look could wrestle a GuardGorilla and win.
 
-Officer Krasnal!, Lans exclaimed, "I'd like to introduce you to Aira and her
+Officer Kransal!, Lans exclaimed, "I'd like to introduce you to Aira and her
 friends Kaia and Lita."
 
 Getting behind Aira, Lans whispered something into her ear, carefully took her
@@ -1534,9 +1534,9 @@ satchel, and gently nudged her forward.
 Aira adjusted her hair and approached the officer shyly, but pretty soon they
 were standing next to each other as they posed for a picture together. Aira's
 face was flushed with emotion as beamed at the PictureParrot that perched in
-front of them. She put her hand on Officer Krasnal's arm and leaned into him as
+front of them. She put her hand on Officer Kransal's arm and leaned into him as
 he stood motionless. After the picture, she came back to stand next to Kaia and
-Lita. Lans walked up to Officer Krasnal and stood next to him speaking in a
+Lita. Lans walked up to Officer Kransal and stood next to him speaking in a
 hushed tone. The officer nodded, then Lans stuck out his elbow and two briefly
 connected elbows.
 
@@ -1546,7 +1546,7 @@ As they resumed their trajectory to the airship, Lans was smiling ear to ear.
 designation and all of the best local shops are being requisitioned for the
 best supplies. We have complete control of the guest list. If anyone gives us
 any trouble, we can have them thrown out. And the best part is that Officer
-Krasnal will be flying with us as our personal security escort."
+Kransal will be flying with us as our personal security escort."
 
 Aira was blushing deeply and she pulled in Kaia and Lita on either side of her.
 
@@ -1611,11 +1611,11 @@ occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
 shoulder. When he stopped crying, he looked at Kaia lovingly.
 
 Aira arrives looking gorgeous. Both Kaia and Lita are very impressed. Lans
-wipes his eyes and continues entertaining. Aira is anxious for Officer Krasnal
+wipes his eyes and continues entertaining. Aira is anxious for Officer Kransal
 to arrive. When he does, she runs up to him and throws her arms around him.
-Officer Krasnal removes and stows away his armor along with his rifle. Without
+Officer Kransal removes and stows away his armor along with his rifle. Without
 the armor, he looks much smaller, but still very intimidating. After they talk
-and eat, Aira announces that she is going to show Officer Krasnal around. When
+and eat, Aira announces that she is going to show Officer Kransal around. When
 Kaia asks if they can come too, Lans says that he will show Kaia and Lita
 around later, separately.
 
@@ -1644,8 +1644,8 @@ The airship crashes in a lake and sinks to the bottom. Ursa dives into the lake
 and recovers supplies for them. Lans annoys her by asking for more and more
 supplies. Figa refuses to get in the water. Since it was already dark, they
 decided to make camp at the airship crash site. They talk around the camp fire.
-Someone notices that Krasnal and Aira's eyes glow in the dark. All of the girls
-walk along the side of lake to find a spot to bathe. Krasnal, Dan, and Lans
+Someone notices that Kransal and Aira's eyes glow in the dark. All of the girls
+walk along the side of lake to find a spot to bathe. Kransal, Dan, and Lans
 stay behind. Figa waits by the side of the lake. "I don't do water." The girls
 have fun in the water. Kaia is amazed at how great Lita, Aira, and especially
 Ursa look. Aira and Ursa are surprised to see how Kaia looks underneath all the
@@ -1779,7 +1779,7 @@ to the refugee camp.
 ## Chapter 5
 
 Lans is upset to leave all of the supplies behind,
-especially the food. Officer Krasnal arranges for a smaller airship to the
+especially the food. Officer Kransal arranges for a smaller airship to the
 refugee camp where all the other students are to meet. A refugee camp school is
 repurposed and expanded to hold all of the new students in addition to the
 original refugees that already lived in the camp. Lans decides to work in the
@@ -1788,7 +1788,7 @@ supplies for the camp.
 
 Kaia is ambushed by Pert and his posse (who were secretly hired by Dan) in the
 cafeteria. Ed goes to help Ben instead of Kaia. Ursa and Figa are not around.
-Aira is with Krasnal. Only Dan is around to save Kaia.
+Aira is with Kransal. Only Dan is around to save Kaia.
 
 Dan takes Kaia to the hospital. Dan and Lita decide to stay with Kaia all
 night.
@@ -1822,7 +1822,7 @@ and turn black in an effort to maximize photosynthesis.
 The government starts abducting mimics around the world.
 Aira and Lans are taken by the government.
 
-Krasnal is indifferent to Aira being taken. He says that she lied to him about
+Kransal is indifferent to Aira being taken. He says that she lied to him about
 being a Lunker.
 
 Dela, Ryn, and Naksos arrive at the refugee camp. Dela promises everyone that she
@@ -1843,7 +1843,7 @@ nanotech?
 Aira and Lans are already dead when they find them at the government detention
 center.
 
-Ryn is heartbroken when he finds out that Aira was pregnant with Krasnal's
+Ryn is heartbroken when he finds out that Aira was pregnant with Kransal's
 child.
 
 Kaia comforts Ryn and he imprints on her.
@@ -1877,11 +1877,12 @@ realizes that she will not leave the baby.
 
 Lita arrives to retrieve Kaia. Kaia explains that she cannot leave because the
 baby will not let her. Lita has trouble believing it, but she agrees to stay.
-Dela and the Principal show up and Dela says that she respects their decision
-to leave sinistrae, even though she strongly disagrees. They live happily for a
-while despite Kaia's visions and the baby's mind control, but then Lita getting
-ill. Dan informs them that Lita is sick and dying. Dela tries to heal Lita with
-sinistrae tech, but it doesn't work. Dan cannot heal her either.
+Dela, Kransal, and the Principal show up and Dela says that she respects their
+decision to leave sinistrae, even though she strongly disagrees. They live
+happily for a while despite Kaia's visions and the baby's mind control, but
+then Lita getting ill. Dan informs them that Lita is sick and dying. Dela tries
+to heal Lita with sinistrae tech, but it doesn't work. Dan cannot heal her
+either.
 
 Lita says that she wants to stay with Kaia rather than go back to the silo to
 try to save her life there, because it looks like the disease is incurable. Dan
@@ -1891,16 +1892,16 @@ definitely changed her, even though she cannot describe in what way she is
 different. Ursa shows Lita how to use her powers. After Ursa discharges much of
 her energy in a demo of how to use ender powers, Lita asks Ursa to show it to
 her again and then immediately kills her. As Dan and Figa spring into battle,
-Dela and the Principal defend Lita while Kaia tries to plead with Lita. Dan
-blinds Lita and she tries to get away, but before Dan can attack Lita, Dela
-knocks him out and rips apart his snakes. No longer blinded Lita kills Dan.
-Figa kills the Principal, and then Lita and Dela kill Figa. Lita says she
-just wants them all to be together, but Kaia doesn't believe her. Lita says she
-wants to kill the baby, so they can all be together. Dela and the Principal
-subdue Lita. Kaia moves to a forest cabin near the silo the Dela has built for
-her, so that Dela can keep her safe. Dela brings groceries and other supplies,
-and spends time with Kaia and the baby, even though the baby doesn't like not
-being able to control Dela or read her mind.
+Dela, Kransal, and the Principal defend Lita while Kaia tries to plead with
+Lita. Dan blinds Lita and she tries to get away, but before Dan can attack
+Lita, Dela knocks him out and rips apart his snakes. No longer blinded Lita
+kills Dan. Figa kills the Principal (and Kransal?), and then Lita and Dela kill
+Figa. Lita says she just wants them all to be together, but Kaia doesn't
+believe her. Lita says she wants to kill the baby, so they can all be together.
+Dela and the Principal subdue Lita. Kaia moves to a forest cabin near the silo
+the Dela has built for her, so that Dela can keep her safe. Dela brings
+groceries and other supplies, and spends time with Kaia and the baby, even
+though the baby doesn't like not being able to control Dela or read her mind.
 
 Kaia believes that Lita's consciousness has been corrupted, perhaps by the
 Mummy Queen.
@@ -2047,7 +2048,7 @@ together?"
 
 "No, are you?"
 "No, before today I really didn't have much going on in the trauma department."
-"I think you are projecting the Lunkers who saved you onto Officer Krasnal."
+"I think you are projecting the Lunkers who saved you onto Officer Kransal."
 "Yes, I think you are right but it still makes me happy, so I think it is ok."
 
 ### Ryn and Dela
