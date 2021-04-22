@@ -1929,6 +1929,13 @@ heart broken that Kaia doesn't want to stay and that Dela cannot protect her if
 she leaves. Kaia says that she will stay, but only if Dela admits what she did.
 Dela maintains that she did not do the things that Ryn said.
 
+Should Kaia believe Dela or Ryn? Both could be lying. Ryn's explanation seems
+crazy enough to be true. Dela says that sinistrae don't have the tech that Ryn
+says they do and that only enders do, but that the ender tech is compromised.
+She says that she is trying to recreate that functionality using sinistrae
+technology. Dela says that she has nothing to hide and that she would bring
+back Lita if she could.
+
 ## Prologue
 
 Kaia leaves and Ryn joins her in secret. Kaia asks Ryn if he lied. Ryn says
@@ -1957,12 +1964,19 @@ visions. She wonders if she will ever see Lita again. She thinks she might be
 going crazy. She decides to go back to Dela. She starts to think that maybe
 Dela is telling the truth and that Ryn is lying. Being near the silo helps
 control her visions and she needs larger and larger doses of sinistrae to keep
-her baby from ravaging her mind. Dela is very happy to see Kaia and says that
+her baby from ravaging her mind.
+
+When Kaia arrives at the silo, Dela is very happy to see Kaia and says that
 she can forgive Ryn if he admits that he lied to keep Kaia all to himself. Ryn
-says that he is sorry that he lied and asks if he can still live with Kaia.
-Kaia doesn't know who to believe, but she says it doesn't matter. Does Kaia
-fall for Dela? Does she let Ryn live with her? What happens to the Lita
-imposter?
+is afraid that Kaia will kill him, so he doesn't go with Kaia.
+
+Then Dela says that she forgave Ryn and that Ryn is ready to apologize for
+lying. Ryn says that he is sorry that he lied and asks if he can still live
+with Kaia. Kaia doesn't know who to believe, but she says it doesn't matter.
+Does Kaia eventually fall for Dela? Does she let Ryn live with her? What
+happens to the Lita imposter? Eventually the sinistrae injections are not
+enough to stop the visions. Kaia needs to go to Mars and asks Dela for help.
+Dela immediately agrees and says that they will conquer Mars together.
 
 ## Miscellaneous
 
