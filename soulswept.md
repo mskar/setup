@@ -1762,26 +1762,16 @@ The drawback is that outside technology would cease to work for her, but
 anything inside the silo would work for her. Also, dextrae AIs would try to
 kill her so she needed to stay underground until they could destroy the satellites.
 
-Dela accepts and begins organizing the revolution.
-
-The Principal becomes her administrative assistant. Ryn helps out with
-technology.
-
-Dela gets together with Ryn? Does he adapt to the sinistrae nanotech?
-
-When do Dela, Ryn, and the Principal get to the refugee camp?
-
-After Dela uncovers the sinistrae nanotech.
-
 She notices that it makes Ryn sick, but does not affect the Principal.
 
+Dela accepts and begins organizing the revolution.
 
+The Principal becomes her administrative assistant. Ryn helps out by spreading
+the word to all Lunkers. He cannot help inside the silo because he has to stay
+outside the silo because it makes him sick.
 
-Principal goes into withdrawal. He's the only one who knows how to get to the
-refugee camp.
-
-
-
+The chapter ends with Dela, Naksos, and Ryn sleeping on the train on their way
+to the refugee camp.
 
 ## Chapter 5
 
@@ -1794,10 +1784,96 @@ kitchen and uses his connections and swagger to get more food and other
 supplies for the camp.
 
 Kaia is ambushed by Pert and his posse (who were secretly hired by Dan) in the
-cafeteria. Kaia is saved by Ed, because Ed is much faster than Dan.
+cafeteria. Ed goes to help Ben instead of Kaia. Ursa and Figa are not around.
+Aira is with Krasnal. Only Dan is around to save Kaia.
 
-...
+Dan takes Kaia to the hospital. Dan and Lita decide to stay with Kaia all
+night.
 
+The chapter ends when Kaia drifts off to sleep with Lita stroking her hair.
+
+## Chapter 6
+
+Dela, Ryn, and Naksos arrive at the refugee camp. Pert is reunited with his
+father. Ryn is reunited with Aira and Lans. Dela tells Kaia and Lita that she
+has changed and is deeply sorry for how she behaved earlier.
+
+Dela arm wrestles Figa, Ursa, and Ed, beating all of them.
+
+The chapter ends with a celebration in the refugee camp honoring the return of
+Dela, Ryn, and Naksos.
+
+## Chapter 7
+
+Dela begins to market sinistrae nanotech as tech detox treatments, but secretly
+begins selling them as mimic detection kits to the government.
+She doesn't let anyone know.
+
+The detox treatments have different effects on different people. Figa shuts
+down, Ursa starts crying and loses her strength and agility she
+doesn't want to see anyone because she thinks she looks ugly and doesn't want to
+talk because she thinks that her voice is different, Ed gets confused and weak
+and is not sure where to go or what to do. It causes mimics to grow membranes
+and turn black in an effort to maximize photosynthesis.
+
+The government starts abducting mimics around the world.
+Aira and Lans are taken by the government.
+
+Dela, Ryn, and Naksos arrive at the refugee camp. Dela promises everyone that she
+has no idea how the government got sinistrae nanotech or figured out how to use
+it to detect mimics. As proof that she has nothing against mimics, she offers
+to help rescue Aira and Lans. She tells Kaia and Lita that the only way
+to rescue them is to accept sinistrae nanotech. Dan also agrees to help. They
+go in teams.
+
+- Ben, Ed, and Ryn
+- Dan, Ursa, and Figa
+- Kaia, Lita, and Dela
+
+Is this when Ben becomes obsessed with studying Kaia's brain? When Kaia
+demonstrated her ability to simultaneously control dextrae and sinistrae
+nanotech?
+
+Aira and Lans are already dead when they find them at the government detention
+center.
+
+Ryn is heartbroken when he finds out that Aira was pregnant with Krasnal's
+child.
+
+Kaia comforts Ryn and he imprints on her.
+
+Ryn begins working on a way to adapt mimics to sinistrae nanotech. He goes to
+work at Ben and Ed's parents' company. After he solves it, he starts
+distributing the inoculation to mimics everywhere. He secretly hatches a plan
+to destroy the government and dextrae companies. He sabotages PeoplePrinters
+around the world and starts replacing people with dopplegangers who say they
+are loyal to the Mummy Queen on Mars to make it seem like she is interfering
+with the network in the same way she is with the signals reaching Kaia. Ryn
+goes to the silo to ask Dela, Kaia, and Lita for help with distributing the
+inoculations to mimics hiding underground.
+
+## Chapter -3
+
+Kaia arrives to destroy Echo Corp, but decides to stay when she meets the baby.
+Ryn comes to bring Kaia back, but he stays when he realizes that she will not
+leave the baby.
+
+## Chapter -2
+
+Lita arrives to retrieve Kaia. Kaia agrees to leave with Lita if she can take
+the baby. While Kaia is preparing to leave. Ursa captures Lita and uploads her
+consciousness so she can be rebuilt later, killing her in the process, to keep
+Kaia from leaving. Kaia curses out Ursa, but agrees not to kill Ursa until Ursa
+has a chance to rebuild Lita.
+
+Dela kills Ursa in revenge for Lita. Kaia kills Dela, because Dela wants to
+kill the baby. Rebuilt Ursa and Lita go crazy and kill Dan. Kaia kills rebuilt
+Ursa and rebuilt Lita. Kaia believes that Lita's consciousness has been
+corrupted, perhaps by the Mummy Queen.
+
+## Chapter -1
+Kaia faces off against Ben and Ed, and kills them both with the help of Ryn.
+She is unsure of whether she should kill Ryn.
 
 ## Miscellaneous
 
