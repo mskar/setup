@@ -1666,9 +1666,6 @@ said feeling powerless. Her gloves and skates were useless in the air.
 
 Dela drops the gloves and the skates because she doesn't want Ben and Ed to track her.
 
-"Please just enjoy the view, and it would be best if you did not insult our
-avian saviors."
-
 "Why did you save me?"
 
 "I didn't save you. The birds did."
@@ -1684,11 +1681,11 @@ any harm and perhaps may even by fond of me."
 
 "What the hell are you taking about?"
 
-"When we were on the motorcycle, were concerned about my wellbeing?
+"When we were on the motorcycle, were you concerned about my wellbeing?
 
 "Don't flatter yourself."
 
-"You were running your fingers through my hair ever so gently."
+"You were touching my hair and face very gently."
 
 "You were unconscious. You were probably just dreaming."
 
@@ -1711,12 +1708,18 @@ you and make you happy."
 
 "I will be glad to oblige. There is not much left of my face anyway."
 
-"You've never looked better. I'm going to make some improvements when we land."
+"You've never looked better. I'm going to make some more improvements when we
+land."
 
 "I am looking forward to it."
 
 "Where are we flying anyway?"
 
+"A Lunker colony."
+
+"What?! No!"
+
+"You do not have much of a choice in the matter."
 
 The eagles brings Dela, Ryn, and the Principal down on top of a hill.
 
@@ -1724,12 +1727,61 @@ The eagles brings Dela, Ryn, and the Principal down on top of a hill.
 
 "Unlike you, I am friendly towards birds."
 
-How do Dela, Ryn, and the Principal get to the refugee camp?
+Ryn takes them to the Lunker colony.
+
+Ryn explains the history of the Lunkers. People went underground to escape
+laser-equipped orbital satellites that would indiscriminately kill anyone who
+was on the surface during past wars.
+
+The Principal goes through withdrawal and starts a redemption arc.
+
+In the Lunker colony, they hear a legend of a series of buried silos.
+
+Should they go somewhere else or find the silo buried there?
+
+They travel by underground train. hyperloop. vacuum tunnel.
+
+Ryn wants to impress her with Lunker technology and culture.
+He offers to take her to an archaeology dig.
+
+The door to the ancient structure opens when Dela approaches.
+
+The AI inside greets Dela and explains that it observed Dela in the school and
+was very impressed.
+
+Even though Dela replaced all of the footage of her with deep fakes, the AI saved
+copies before they were replaced.
+
+The Lunkers lost the ancient war between dextrae and sinistrae.
+The sinistrae retreated to the hidden silos.
+
+The AI offers Dela a choice to
+become the figurehead of the next revolution or continue in her current state.
+
+The drawback is that outside technology would cease to work for her, but
+anything inside the silo would work for her. Also, dextrae AIs would try to
+kill her so she needed to stay underground until they could destroy the satellites.
+
+Dela accepts and begins organizing the revolution.
+
+The Principal becomes her administrative assistant. Ryn helps out with
+technology.
+
+Dela gets together with Ryn? Does he adapt to the sinistrae nanotech?
+
+When do Dela, Ryn, and the Principal get to the refugee camp?
+
+After Dela uncovers the sinistrae nanotech.
+
+She notices that it makes Ryn sick, but does not affect the Principal.
+
+
 
 Principal goes into withdrawal. He's the only one who knows how to get to the
 refugee camp.
 
-Ben and Ed pick them up because of the tracking device
+
+
 
 ## Chapter 5
 
