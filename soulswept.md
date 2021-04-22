@@ -1889,19 +1889,25 @@ try to save her life there, because it looks like the disease is incurable. Dan
 says that he can turn Lita into an ender and then bring her back. Lita is
 scanned and they print her. Lita says feels fine but that being brought back
 definitely changed her, even though she cannot describe in what way she is
-different. Ursa shows Lita how to use her powers. After Ursa discharges much of
-her energy in a demo of how to use ender powers, Lita asks Ursa to show it to
-her again and then immediately kills her. As Dan and Figa spring into battle,
-Dela, Kransal, and the Principal defend Lita while Kaia tries to plead with
-Lita. Dan blinds Lita and she tries to get away, but before Dan can attack
-Lita, Dela knocks him out and rips apart his snakes. No longer blinded Lita
-kills Dan. Figa kills the Principal (and Kransal?), and then Lita and Dela kill
-Figa. Lita says she just wants them all to be together, but Kaia doesn't
-believe her. Lita says she wants to kill the baby, so they can all be together.
-Dela and the Principal subdue Lita. Kaia moves to a forest cabin near the silo
-the Dela has built for her, so that Dela can keep her safe. Dela brings
-groceries and other supplies, and spends time with Kaia and the baby, even
-though the baby doesn't like not being able to control Dela or read her mind.
+different. Ursa shows Lita how to use her powers. Ursa explains that Lita needs
+to channel the energy away from her or she might lose a hand or even arm. After
+Ursa discharges much of her energy in a demo of how to use ender powers, Lita
+asks Ursa to show it to her again and then immediately kills her. Ursa's head
+explodes spraying blood everywhere. Lita's hand is blown off. "Oopsie," Lita
+says, "I guess I didn't channel the energy away from me." looking at the bloody
+stump where her used to be. As Dan and Figa spring into battle, Dela, Kransal,
+and the Principal defend Lita while Kaia watches in horror. Dan blinds Lita,
+but his powers are useless against the sinistrae and as Lita tries to get away
+falling down on the ground, Dan is about to kill Lita when Dela knocks him out
+and rips apart his snakes. No longer blinded Lita kills Dan by exploding his
+head. "I'm getting the hang of this!", she said triumphantly looking at the
+bloody stump where her foot used to be. Dela, Naksos, and Kransal kill Figa.
+Lita says she just wants them all to be together, but Kaia doesn't believe her.
+Lita says she wants to kill the baby, so they can all be together. Dela and the
+Principal subdue Lita. Kaia moves to a forest cabin near the silo the Dela has
+built for her, so that Dela can keep her safe. Dela brings groceries and other
+supplies, and spends time with Kaia and the baby, even though the baby doesn't
+like not being able to control Dela or read her mind.
 
 Kaia believes that Lita's consciousness has been corrupted, perhaps by the
 Mummy Queen.
