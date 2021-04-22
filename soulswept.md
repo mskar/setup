@@ -1876,29 +1876,93 @@ realizes that she will not leave the baby.
 ## Chapter -2
 
 Lita arrives to retrieve Kaia. Kaia explains that she cannot leave because the
-baby will not let her. Lita has trouble believing it, but she agrees to stay
-and give up sinistrae even though she starts experiencing her seizures again.
-They live happily for a while despite Lita's seizures and Kaia's visions and
-the baby's mind control.
+baby will not let her. Lita has trouble believing it, but she agrees to stay.
+Dela and the Principal show up and Dela says that she respects their decision
+to leave sinistrae, even though she strongly disagrees. They live happily for a
+while despite Kaia's visions and the baby's mind control, but then Lita getting
+ill. Dan informs them that Lita is sick and dying. Dela tries to heal Lita with
+sinistrae tech, but it doesn't work. Dan cannot heal her either.
 
-Dela arrives and kills Lita easily and then battles Ursa and Dan. Dela kills
-Ursa and severely wounds Dan before Kaia kills her. Dan explains that he has a
-backup of uploads her consciousness so she can be rebuilt later, killing her in
-the process, to keep Kaia from leaving.
+Lita says that she wants to stay with Kaia rather than go back to the silo to
+try to save her life there, because it looks like the disease is incurable. Dan
+says that he can turn Lita into an ender and then bring her back. Lita is
+scanned and they print her. Lita says feels fine but that being brought back
+definitely changed her, even though she cannot describe in what way she is
+different. Ursa shows Lita how to use her powers. After Ursa discharges much of
+her energy in a demo of how to use ender powers, Lita asks Ursa to show it to
+her again and then immediately kills her. As Dan and Figa spring into battle,
+Dela and the Principal defend Lita while Kaia tries to plead with Lita. Dan
+blinds Lita and she tries to get away, but before Dan can attack Lita, Dela
+knocks him out and rips apart his snakes. No longer blinded Lita kills Dan.
+Figa kills the Principal, and then Lita and Dela kill Figa. Lita says she
+just wants them all to be together, but Kaia doesn't believe her. Lita says she
+wants to kill the baby, so they can all be together. Dela and the Principal
+subdue Lita. Kaia moves to a forest cabin near the silo the Dela has built for
+her, so that Dela can keep her safe. Dela brings groceries and other supplies,
+and spends time with Kaia and the baby, even though the baby doesn't like not
+being able to control Dela or read her mind.
 
-Rebuilt Ursa and Lita go crazy and kill Dan. Kaia kills rebuilt
-Ursa and rebuilt Lita. Kaia believes that Lita's consciousness has been
-corrupted, perhaps by the Mummy Queen.
+Kaia believes that Lita's consciousness has been corrupted, perhaps by the
+Mummy Queen.
+
+Dela says that the rebuilt Lita destabilized even further and is being kept in
+the silo so that she cannot hurt anyone else. Dela asks if Kaia wants to see
+Lita. Kaia replies that the person who killed Ursa and Dan is not Lita. Dela
+says that she is working on curing Lita, but has not made any progress. Dela
+says that she loves Kaia, but she thinks that Kaia doesn't love her, but that
+Dela is prepared to wait. Kaia says that she is hurt and confused, but is very
+glad that she is not alone. Dela says that maybe when the baby gets older that they
+can all live together as a family. Dela leaves.
 
 ## Chapter -1
 
-Kaia faces off against Ben and Ed, and kills them both with the help of Ryn.
-Ryn tells her he was working with Dela and Lita. It was part of their plan to
-have sinistrae take over. He says that Lita and Dela backed themselves up
-before dying in Echo Corp. She is unsure of whether she should kill Ryn. Kaia
-starts planning to go back to the silo but the baby won't let her. Sinistrae
-make the baby lose his telepathy and other abilities and he doesn't want to
-lose his connection and control over his mother.
+Ryn shows up and ask Kaia to leave with him. He explains how Dela planned
+everything and is keeping Lita's consciousness prisoner after rebuilding her in
+a diseased body and that the consciousness in Lita's latest body is Dela's.
+Kaia doesn't know if she can believe him, but he says that Dela will kill him
+and hunt down all mimics if she finds out. Kaia decides to confront Dela. Dela
+denies everything, but then Kaia asks to see Lita. Dela takes Kaia to see Lita,
+but when Lita cannot recall any of the details of their childhood, Kaia becomes
+convinced that Ryn was telling the truth. Kaia says that she doesn't want to
+stay with Dela anymore. Dela says Kaia is welcome to leave, but that she is
+heart broken that Kaia doesn't want to stay and that Dela cannot protect her if
+she leaves. Kaia says that she will stay, but only if Dela admits what she did.
+Dela maintains that she did not do the things that Ryn said.
+
+## Prologue
+
+Kaia leaves and Ryn joins her in secret. Kaia asks Ryn if he lied. Ryn says
+that he did not lie and he can explain everything that happened. Kaia believes
+him because he knows details that he wouldn't have otherwise been able to know.
+
+Ryn and Kaia are living in a cave by the sea (like in Caotica
+Ana).
+
+Ben and Ed arrive accusing Ryn of sabotaging the PeoplePrinters. Ryn admits to
+it immediately and he says that he already told Kaia. Ben says that they want
+revenge on Ryn, because their companies tanked during the shift from dextrae to
+sinistrae and that they still want to study Kaia's brain and also want to study
+the baby. Kaia doesn't want to hand Ryn over. Ryn starts to explain that Dela
+planned everything and convinced him to help in exchange for favorable
+conditions for mimics. He says that she threatened to slaughter mimics like the
+government if he didn't help her. Ben and Ed say that all of that doesn't
+matter they still want revenge against him.
+
+Kaia faces off against Ben and Ed, and kills them both using her dextrae and
+sinistrae powers with the help of Ryn. Kaia's visions get stronger as the baby
+gets stronger and learns to break through sinistrae defenses. Kaia weeps as she
+realizes that she has no way of getting Lita back and that the baby and the
+visions will drive her crazy. She knows she will have to go to Mars to stop the
+visions. She wonders if she will ever see Lita again. She thinks she might be
+going crazy. She decides to go back to Dela. She starts to think that maybe
+Dela is telling the truth and that Ryn is lying. Being near the silo helps
+control her visions and she needs larger and larger doses of sinistrae to keep
+her baby from ravaging her mind. Dela is very happy to see Kaia and says that
+she can forgive Ryn if he admits that he lied to keep Kaia all to himself. Ryn
+says that he is sorry that he lied and asks if he can still live with Kaia.
+Kaia doesn't know who to believe, but she says it doesn't matter. Does Kaia
+fall for Dela? Does she let Ryn live with her? What happens to the Lita
+imposter?
 
 ## Miscellaneous
 
