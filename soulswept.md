@@ -1375,9 +1375,16 @@ be frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
 "Me too." Ben said, patting Ed's massive shoulder.
 
+Ben receives a notification that Dela's powergloves were destroyed in the blast.
+
+"Maybe she dropped them along the way?"
+
+Ed is already crying at the thought of Dela dying.
+
 Looking out the windows of the observation deck of their airship, the brothers,
-both thinking fondly of Dela, watched as the sunset behind the smoldering
+both remembering Dela fondly, watched as the sunset behind the smoldering
 remains of the city.
+
 
 ## Chapter 3
 
@@ -1657,6 +1664,8 @@ next to Lita.
 from razor sharp talons. How do I know that this dumb bird won't drop me?" Dela
 said feeling powerless. Her gloves and skates were useless in the air.
 
+Dela drops the gloves and the skates because she doesn't want Ben and Ed to track her.
+
 "Please just enjoy the view, and it would be best if you did not insult our
 avian saviors."
 
@@ -1706,11 +1715,21 @@ you and make you happy."
 
 "I am looking forward to it."
 
+"Where are we flying anyway?"
+
+
 The eagles brings Dela, Ryn, and the Principal down on top of a hill.
 
 "How come the eagle didn't rip your shirt as much as mine?"
 
 "Unlike you, I am friendly towards birds."
+
+How do Dela, Ryn, and the Principal get to the refugee camp?
+
+Principal goes into withdrawal. He's the only one who knows how to get to the
+refugee camp.
+
+Ben and Ed pick them up because of the tracking device
 
 ## Chapter 5
 
