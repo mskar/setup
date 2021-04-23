@@ -23,7 +23,7 @@ Kaia and Lita looked at the hexagonal holes in the walls. Inside the walls,
 there was a network of tunnels filled with robotic insects always ready to
 swarm anyone who stepped out of line.
 
-"If the BuzzBees knocked us out, the WakeupWasps would sting us until we were
+"If the buzzBees knocked us out, the wakeupWasps would sting us until we were
 awake."
 
 "Maybe if we act crazy, they'd knock us out to keep us from disrupting the
@@ -65,7 +65,7 @@ prepared to speak.
 
 Already sweating, the principal his brow with a lace handkerchief he retrieved
 the pocket of his blazer. With three clicks of his tongue, the principal
-summoned three robotic bees. The BuzzBees landed on the principal's face and
+summoned three robotic bees. The buzzBees landed on the principal's face and
 neck and used their stingers to administer the pharmacological relief that the
 principal would need to collect his frayed nerves.
 
@@ -76,12 +76,12 @@ top of her seat in the bleachers and began to shout into a hand-held gigaphone.
 
 "Corporeal punishment is barbaric and ineffective!"
 
-"TaserTutors are torture!"
+"taserTutors are torture!"
 
 "Reform the school system!"
 
-A ChaseChimpanzee jumped down from the rafters and tackled the student,
-knocking the gigaphone out of her hand. Several GuardGorillas
+A chaseChimpanzee jumped down from the rafters and tackled the student,
+knocking the gigaphone out of her hand. Several guardGorillas
 scooped up the student and carried her out of the gymnasium.
 
 Visibly shaken, the principal repeated his pre-speech ritual by clearing his
@@ -116,7 +116,7 @@ nearby students.
 
 "Is that even legal?"
 
-"Someone get the SecuritySimians to arrest those two!"
+"Someone get the securitySimians to arrest those two!"
 
 After seeing it countless times, Kaia knew exactly what to expect. As the
 seizure ended, Lita looked around disoriented and confused. The part that
@@ -144,17 +144,17 @@ encouragement. Left with no other option, Kaia got up and started to squeeze
 through the rows of students.
 
 Kaia could feel the eyes of the students and robotic animals follow her to the
-TaserTutor next to the podium in front of the bleachers. The TaserTutor looked
-a table covered with a silvery hair. As she approached, the TaserTutor began to
+taserTutor next to the podium in front of the bleachers. The taserTutor looked
+a table covered with a silvery hair. As she approached, the taserTutor began to
 writhe as it adjusted to match her height and build. Robotic birds, bats, and
-bugs flew in circles above Kaia. A wall of HistorianHummingbirds hovered in
+bugs flew in circles above Kaia. A wall of historianHummingbirds hovered in
 front of her face, recording her every move from multiple angles , staring at
 her with their piercing eyes, relaying everything they saw to the projector
 system that displayed a multitude of video feeds on the hexagonal walls of the
 gymnasium.
 
-When Kaia placed her palms down on the TaserTutor, metallic tendrils extended from
-the TaserTutor and wrapped around her arms up to the shoulders like vines around a
+When Kaia placed her palms down on the taserTutor, metallic tendrils extended from
+the taserTutor and wrapped around her arms up to the shoulders like vines around a
 tree. The automated voice that had called Kaia's name earlier began to deliver
 commands.
 
@@ -176,7 +176,7 @@ So far so good, but the next questions would be much more difficult.
 required for a radio transmission to go from the surface of Earth to its moon
 and back? You have one minute to respond."
 
-Kaia typed out the problem in the virtual keyboard on the TaserTutor.
+Kaia typed out the problem in the virtual keyboard on the taserTutor.
 Distance: 382 megameters.
 Speed of light: 300 megameters per second.
 Time: 382 / 300 seconds = 1.27 seconds
@@ -221,13 +221,13 @@ albite, and anorthite."
 "Construct the basic subunit of the feldspar chemical structure. You have three
 minutes to respond."
 
-The display on the TaserTutor transformed from a keyboard into the periodic
+The display on the taserTutor transformed from a keyboard into the periodic
 chart of elements. On top of each square on the chart was a sphere that
 represented an element. Kaia used the display to enter the number of atoms of
 each she would need. Each time she entered a number, a new set of spheres
 appeared in front of her. In total, Kaia had 4 potassium atoms, 4 aluminum
 atoms, 12 silicon atoms, and 128 oxygen atoms. Kaia began arranging the
-spheres. The metallic tendrils extending from the TaserTutor stretched as she
+spheres. The metallic tendrils extending from the taserTutor stretched as she
 moved her hands from sphere to sphere. First, Kaia created 16 tiny pyramids by
 sticking 4 oxygen atoms to each aluminum and silicon atom. Then, she combined
 the pyramids into 4 rings by removing an oxygen from each pyramid and replacing
@@ -289,17 +289,17 @@ anger.
 
 With the loss of an entire civilization weighing down on her, Kaia fell to her
 knees. The storm eventually began to subside and through the dust and skeletal
-fragments Kaia could see the pulsing red warning light of the TaserTutor. The
+fragments Kaia could see the pulsing red warning light of the taserTutor. The
 tendrils were still wrapped around her arms. The initiation ceremony was still
 ongoing.
 
 Another shock from the tendrils caused Kaia to spasm and she hit her head on
-the TaserTutor. Enraged, Kaia stood up to look at the console atop the
-TaserTutor. There was no way to stop the ceremony once it had begun and
+the taserTutor. Enraged, Kaia stood up to look at the console atop the
+taserTutor. There was no way to stop the ceremony once it had begun and
 breaking free from the tendrils was impossible. The automated voice continued
 providing instructions, but Kaia was no longer paying attention. The ceremony
 seemed so insignificant when compared to the destruction of Mars. Kaia just
-wanted it to end. As the TaserTutor once again begun to pulse red, Kaia used
+wanted it to end. As the taserTutor once again begun to pulse red, Kaia used
 the virtual keyboard to skip the current task.
 
 The resulting electric shock only added to the fury that Kaia felt. As soon as
@@ -310,34 +310,34 @@ smell was suffocating. Her mouth tasted like it was coated with metal. Rage was
 the only thing keeping her going.
 
 Kaia kept trying to skip even after the console stopped responding and the
-tendrils began to unwrap from around her arms. Bracing against the TaserTutor
+tendrils began to unwrap from around her arms. Bracing against the taserTutor
 for support and still focused on the console, Kaia was an easy target for the
-did not even notice the ChaseChimpanzees charging towards her. The
-ChaseChimpanzees tackled Kaia into TaserTutor so hard that she bounced off and
-ended sprawled on the floor. A GuardGorilla lumbered up to Kaia, grabbed her by
+did not even notice the chaseChimpanzees charging towards her. The
+chaseChimpanzees tackled Kaia into taserTutor so hard that she bounced off and
+ended sprawled on the floor. A guardGorilla lumbered up to Kaia, grabbed her by
 an ankle, and proceeded to drag her out of the gymnasium.
 
 As she was dragged past the bleachers, Kaia looked searched for Lita in the sea
 of standing and staring students. The automated voice was already calling the
-next student up to the TaserTutor. Lita pushed through the densely packed crowd
+next student up to the taserTutor. Lita pushed through the densely packed crowd
 of students, leapt off the bleachers, and ran towards Kaia. When she was a
-steps away from Kaia, a nearby GuardGorilla grabbed Lita by her shirt and
+steps away from Kaia, a nearby guardGorilla grabbed Lita by her shirt and
 plucked her off the ground. Simultaneously kicking and punching the
-GuardGorilla, Lita fought to break free. Reaching her hand out to Lita, Kaia
+guardGorilla, Lita fought to break free. Reaching her hand out to Lita, Kaia
 tried to say her name, but the sound that came was nothing more than a pitiful
 moan.
 
-Suspended in the air, Lita braced her legs against the GuardGorilla that was
+Suspended in the air, Lita braced her legs against the guardGorilla that was
 carrying her and pushed off like a olympic swimmer completing a flip turn.
 Lita's shirt ripped and she landed shirtless flat on the ground. Crawling on
 her hands and knees, Lita made it Kaia and grabbed her outstretched hand.
-Seemingly perplexed by the situation, the SecuritySimians paused for a moment.
+Seemingly perplexed by the situation, the securitySimians paused for a moment.
 
-Still holding the ripped remains of Lita's shirt, one of the GuardGorillas
-tried to separate the two friends by grabbing Lita's foot. As the GuardGorillas
+Still holding the ripped remains of Lita's shirt, one of the guardGorillas
+tried to separate the two friends by grabbing Lita's foot. As the guardGorillas
 yank from both ends trying to pull them apart, Lita held on to Kaia's hands
 with all her strength. When Lita's shoe came off, they hit the ground, Kaia on
-her back, Lita on her belly, but they remained linked. The GuardGorilla holding
+her back, Lita on her belly, but they remained linked. The guardGorilla holding
 Kaia's ankle seemed to grow impatient and began to drag the two friends out of
 the gymnasium.
 
@@ -349,7 +349,7 @@ her friend was beginning to cry, Lita tried to strike a jovial tone.
 
 "Was this best plan you could come up with?"
 
-"It's better than the one with the BuzzBees and WakeupWasps."
+"It's better than the one with the buzzBees and wakeupWasps."
 
 "Yeah, I hate bugs."
 
@@ -373,30 +373,30 @@ through the venue."
 
 Kaia rolled her eyes.
 
-"Did you hear the one about the GuardGorilla, the HistorianHummingbird, and
-BuzzBee?"
+"Did you hear the one about the guardGorilla, the historianHummingbird, and
+buzzBee?"
 
-"A ChaseChimpanzee, a SurveillanceSpider, and a MessengerMeerkat walk into a
+"A chaseChimpanzee, a surveillanceSloth, and a messengerMeerkat walk into a
 bar...", Kaia retorted.
 
 "There you go! Maybe we can form a comedy duo? We'll get dragged through all
 the best places in town!"
 
-When they arrived at the Principal's office, the GuardGorilla let go of Kaia's
+When they arrived at the Principal's office, the guardGorilla let go of Kaia's
 foot and opened the door. Lita helped Kaia to her feet, put Kaia's arm around
 her shoulder, and walked with her towards the office. Leaning against her
 friend, Kaia became overwhelmed by the intoxicating scent of Lita's hair and
 almost fell over. As they entered the office, they saw the girl with the purple
-hair sitting in a chair with a GuardGorilla standing behind her.
+hair sitting in a chair with a guardGorilla standing behind her.
 
 In the opposite side of the room was a large, well-polished mahogany desk, and behind it sat the
 school Principal, snoring loudly with his head tilted back, his mouth open, his
-face and neck covered in BuzzBees, and drool flowing down the side of his chin.
+face and neck covered in buzzBees, and drool flowing down the side of his chin.
 
 When she saw the look on the purple-haired girl's bruised face, Kaia began to
 wonder what she and Lita looked like. Lita, shirtless and missing a shoe, was
 supporting Kaia whose hair was still standing on end from being electrocuted
-countless times. The GuardGorilla pulled up a pair of chairs for Kaia and Lita.
+countless times. The guardGorilla pulled up a pair of chairs for Kaia and Lita.
 As soon as she helped Kaia sit down in the chair closest to door, Lita crossed
 her arms in front of her exposed chest and sat down in the chair in between
 Kaia and the purple-haired girl. Turning towards the purple-haired girl, Lita
@@ -407,7 +407,7 @@ tried to start a conversation.
 "What the hell happened to you?"
 
 "Kaia was doing really well in the ceremony, but then decided to skip the rest
-of the TaserTutor tasks. She got fried, then the SecuritySimians got her. I
+of the taserTutor tasks. She got fried, then the securitySimians got her. I
 tried to rescue her, but they got me too and brought us both here."
 
 When the purple-haired girl did not respond, Lita continued.
@@ -462,7 +462,7 @@ better world."
 
 "Anyway we can! The system of oppression that forces us to-"
 
-As if on cue, the Principal woke up noisily, send BuzzBees flying in every
+As if on cue, the Principal woke up noisily, send buzzBees flying in every
 direction. Disoriented and disconcerted, he looked back and forth between the
 three girls in his office. Unsure of what to do, the Principal began to tap at
 the console on his desk and mumble to himself. Whenever he looked up, it was
@@ -484,10 +484,10 @@ Images of the ceremony showed up on the walls of the Principal's office. Kaia
 shivered when she saw herself being repeatedly electrocuted. The visions that
 were so powerful during the ceremony now seemed so distant and foreign. She saw
 that Lita tried to go to Kaia after the first few electric shocks, but a
-ChaseChimpanzee pulled her back to her seat on the bleachers.
+chaseChimpanzee pulled her back to her seat on the bleachers.
 
-Everyone in the room winced when they saw Kaia get tackled by a ChaseChimpanzee
-into the TaserTutor. The Principal seemed to be enjoying the show. When Lita's
+Everyone in the room winced when they saw Kaia get tackled by a chaseChimpanzee
+into the taserTutor. The Principal seemed to be enjoying the show. When Lita's
 shirt was ripped off, he bounced in his chair with glee. After the recording
 ended, he cleared his throat and put on a serious face.
 
@@ -511,7 +511,7 @@ The results of your trial should be available any-"
 The Principal turned to Kaia.
 
 "The EternalEnlightened have asked for more information about your interaction
-with the TaserTutor. Why did you only provide responses for some of the tasks?
+with the taserTutor. Why did you only provide responses for some of the tasks?
 Were you suffering from a psychotic episode? Or were you making a statement
 against corporeal punishment in the school system?"
 
@@ -743,7 +743,7 @@ the front of her.
 his hands reaching out towards Lita's chest. Dela swung at Pert with her free
 hand, while kicking him in the shins. Kaia tried to pull Lita back away from
 Pert, but was too weak to move Lita very far. Kaia opened her mouth to scream
-for help, but before she could make a sound, a HistorianHummingbird crashed
+for help, but before she could make a sound, a historianHummingbird crashed
 into the side of Pert's face, sending him crashing to the floor.
 
 Dela gave Pert one more kick before pulling the other two girls through the
@@ -902,7 +902,7 @@ tried to change the subject.
 Lita twirl and struck a pose. She was wearing a long flowing shirt
 covered by an elegant bodice. The sight of Lita took Kaia's breath away.
 
-"Like a GuardGorilla in a milk maid outfit.", Dela said.
+"Like a guardGorilla in a milk maid outfit.", Dela said.
 
 "What is it with you?", Kaia screamed lunging at Dela. Dela stepped away
 effortlessly. Kaia stumbled and fell, landing on her hands and knees.
@@ -916,9 +916,9 @@ your sister for now."
 Kaia couldn't hear Dela anymore over the howling wind tearing through the
 theater. Sifting through the dust on the floor with her fingers, Kaia pulled
 out assorted fragments of bone and shook them in her hand like dice. Through
-the dust swirling around Kaia, she saw the metallic glint of the TaserTutor.
-The metallic tendrils extending from TaserTutor were coiled around her arms up
-to the shoulder. The ceremony was still ongoing. The TaserTutor began to pulse
+the dust swirling around Kaia, she saw the metallic glint of the taserTutor.
+The metallic tendrils extending from taserTutor were coiled around her arms up
+to the shoulder. The ceremony was still ongoing. The taserTutor began to pulse
 red. Kaia's heart sunk. Had she imagined everything? Dela, the Principal, Pert,
 Ryn, Aira? Lightning shot out of the surrounding storm and coursed through
 Kaia's body. Kaia screamed and writhed on the ground, but then got up with a
@@ -933,9 +933,9 @@ to feverishly work on the problem displayed on the console.
 
 She nearly finished with the task when the tendrils started restricting her
 movements and moving up past her shoulder. The tendrils wrapped her neck and
-around her head. She braced her legs against the TaserTutor and pushed as hard
+around her head. She braced her legs against the taserTutor and pushed as hard
 as she could, trying to break free of the tendrils. New tendrils extended out
-of TaserTutor wrapping around her legs. Before long, Kaia was encased head to
+of taserTutor wrapping around her legs. Before long, Kaia was encased head to
 foot in tendrils. The tendrils constricted, squeezing all of the moisture out
 of her body. When the final drop of blood disappeared in the swirling dust
 below, Kaia had been squeezed dry and her mummification was complete.
@@ -1109,7 +1109,7 @@ Dela laughed. "And they have money to burn on all of this?"
 you can ask."
 
 It was no long before a thin boy wearing powerskates zipped into the machine
-shop with another boy nearly as large as a GuardGorilla running in after him.
+shop with another boy nearly as large as a guardGorilla running in after him.
 him. The boy in power skates did a sliding stop right in front of Dela and Ryn
 and the other boy ran up and stopped a few steps behind him. Reaching out one
 hand to Dela and gesturing around the machine workshop with the other, "Welcome
@@ -1201,9 +1201,9 @@ are any failsafes.
 Ben shows her how the gloves can be deactivated. Dela deactivates Ben's gloves
 and asks if she did it right. Ben is impressed that Dela did it correctly on
 her first try. He asks her to reactivate his gloves, but she deactivates all of
-his security access and sends BuzzBees to knock out Ben, Ed, and Ryn. Ed is
+his security access and sends buzzBees to knock out Ben, Ed, and Ryn. Ed is
 immune to the sedatives and chases her. She is amazed that he can keep up with
-her and commands GuardGorillas to slow him down. Dela heads to the Principal's
+her and commands guardGorillas to slow him down. Dela heads to the Principal's
 office to strongarm him into requesting a pardon. She stands on his desk and
 holds an activated powerskate next to his face. The Principal vomits all the
 skate short-circuiting it. 
@@ -1238,7 +1238,7 @@ Principal who couldn't keep his school from exploding?"
 
 "You can't shtop me. I'm shtronger fan you."
 
-"You're not so tough without your robotic animals and I had the BuzzBees give
+"You're not so tough without your robotic animals and I had the buzzBees give
 you a little something special before I blew them all up. I think you have so
 much pharma in your system right now that you'll need my help getting out of
 here. You definitely won't make it out if I'm trying to stop you."
@@ -1271,7 +1271,7 @@ The self-destruct alarm alerts Ben, Ed, and Ryn, who burst into the Principal's
 office.
 
 Dela faces off against Ben, Ed, and Ryn, who try to force her to deactivate the
-school self-destruct system. Ed wrestles GuardGorillas, Ben uses powerskates
+school self-destruct system. Ed wrestles guardGorillas, Ben uses powerskates
 and taser batons, but Ed leaves when Ben is knocked unconscious. Ryn stays to
 stop Dela, she laughs at him for being a weakling, but he summons birds to
 fight the robotic animals and destroys the lights to try to gain an advantage
@@ -1419,7 +1419,7 @@ once to wear asleep. Your shoes were in pretty bad shape. I hope you don't mind.
 When the girls made it outside, Lita and Kaia were dismayed to see Pert and his
 posse waiting in front of the entrance to the school. Pert's head was wrapped
 in bandages. A small of blood had permeated the bandages in the spot were the
-HistorianHummingbird had hit him.
+historianHummingbird had hit him.
 
 "What's wrong? Afraid of a little fire-", Pert started, but the paused as he
 inspected the girls more closely.
@@ -1523,7 +1523,7 @@ towards a strike team officer with one hand and pulling Aira behind him. The
 strike team officer looked very intimidating. His face was hidden behind a
 black balaclava and dark sunglasses. He was resting his hands on a massive
 rifle that was slung over his shoulder. The exoskeleton armor he was wearing
-made him look could wrestle a GuardGorilla and win.
+made him look could wrestle a guardGorilla and win.
 
 Officer Kransal!, Lans exclaimed, "I'd like to introduce you to Aira and her
 friends Kaia and Lita."
@@ -1533,7 +1533,7 @@ satchel, and gently nudged her forward.
 
 Aira adjusted her hair and approached the officer shyly, but pretty soon they
 were standing next to each other as they posed for a picture together. Aira's
-face was flushed with emotion as beamed at the PictureParrot that perched in
+face was flushed with emotion as beamed at the pictureParrot that perched in
 front of them. She put her hand on Officer Kransal's arm and leaned into him as
 he stood motionless. After the picture, she came back to stand next to Kaia and
 Lita. Lans walked up to Officer Kransal and stood next to him speaking in a
@@ -1615,8 +1615,9 @@ wipes his eyes and continues entertaining. Aira is anxious for Officer Kransal
 to arrive. When he does, she runs up to him and throws her arms around him.
 Officer Kransal removes and stows away his armor along with his rifle. Without
 the armor, he looks much smaller, but still very intimidating. After they talk
-and eat, Aira announces that she is going to show Officer Kransal around. When
-Kaia asks if they can come too, Lans says that he will show Kaia and Lita
+and eat, Kransal tells them they can call him Taz as long as his not in uniform
+or on duty. Aira announces that she is going to show Officer Kransal around.
+When Kaia asks if they can come too, Lans says that he will show Kaia and Lita
 around later, separately.
 
 Are you a Lunker too?
@@ -1632,10 +1633,10 @@ Lans introduces Lita and Kaia to Ursa. They knock on the door to Ursa's cabin,
 Ursa opens. Lita and Kaia are both extremely impressed with how elegant,
 beautiful, and athletic Ursa is.
 
-Dan barges in on them with Figa (Figurina?) in tow. Dan tries his best to charm Kaia. Kaia
+Zak barges in on them with Figa (Figurina?) in tow. Zak tries his best to charm Kaia. Kaia
 is unsure why he is focusing on her, when she hasn't fixed her appearance since
 before the ceremony. The airship begins to go down (it is secretly sabotaged by
-Dan, who wants an opportunity trying to look like a hero). He demonstrates his
+Zak, who wants an opportunity tryi ng to look like a hero). He demonstrates his
 leadership skills and leverages his relationship with Figa and Ursa to save the
 day. He gives commands to Ursa and Figa, both of whom are incredibly strong and
 athletic. Ursa is always cheerful. Figa never smiles.
@@ -1645,7 +1646,7 @@ and recovers supplies for them. Lans annoys her by asking for more and more
 supplies. Figa refuses to get in the water. Since it was already dark, they
 decided to make camp at the airship crash site. They talk around the camp fire.
 Someone notices that Kransal and Aira's eyes glow in the dark. All of the girls
-walk along the side of lake to find a spot to bathe. Kransal, Dan, and Lans
+walk along the side of lake to find a spot to bathe. Kransal, Zak, and Lans
 stay behind. Figa waits by the side of the lake. "I don't do water." The girls
 have fun in the water. Kaia is amazed at how great Lita, Aira, and especially
 Ursa look. Aira and Ursa are surprised to see how Kaia looks underneath all the
@@ -1786,11 +1787,11 @@ original refugees that already lived in the camp. Lans decides to work in the
 kitchen and uses his connections and swagger to get more food and other
 supplies for the camp.
 
-Kaia is ambushed by Pert and his posse (who were secretly hired by Dan) in the
+Kaia is ambushed by Pert and his posse (who were secretly hired by Zak) in the
 cafeteria. Ed goes to help Ben instead of Kaia. Ursa and Figa are not around.
-Aira is with Kransal. Only Dan is around to save Kaia.
+Aira is with Kransal. Only Zak is around to save Kaia.
 
-Dan takes Kaia to the hospital. Dan and Lita decide to stay with Kaia all
+Zak takes Kaia to the hospital. Zak and Lita decide to stay with Kaia all
 night.
 
 The chapter ends when Kaia drifts off to sleep with Lita stroking her hair.
@@ -1829,11 +1830,11 @@ Dela, Ryn, and Naksos arrive at the refugee camp. Dela promises everyone that sh
 has no idea how the government got sinistrae nanotech or figured out how to use
 it to detect mimics. As proof that she has nothing against mimics, she offers
 to help rescue Aira and Lans. She tells Kaia and Lita that the only way
-to rescue them is to accept sinistrae nanotech. Dan also agrees to help. They
+to rescue them is to accept sinistrae nanotech. Zak also agrees to help. They
 go in teams.
 
 - Ben, Ed, and Ryn
-- Dan, Ursa, and Figa
+- Zak, Ursa, and Figa
 - Kaia, Lita, and Dela
 
 Is this when Ben becomes obsessed with studying Kaia's brain? When Kaia
@@ -1862,9 +1863,9 @@ inoculations to mimics hiding underground.
 
 Kaia is captured by the Enders who want to transfer her consciousness so they can study it.
 Ben and Ed try to convince her to join them willingly, offering Pert as a peace offering.
-Pert reveals that Dan paid him to act her in the refugee camp, so he could look like a hero.
+Pert reveals that Zak paid him to act her in the refugee camp, so he could look like a hero.
 Ben reveals that Ursa is an ender, who used to be a man.
-Kaia is rescued by Dan, Ursa, and Figa.
+Kaia is rescued by Zak, Ursa, and Figa.
 She returns to the silo to live with Dela and Lita.
 
 ## Chapter -3
@@ -1880,12 +1881,12 @@ baby will not let her. Lita has trouble believing it, but she agrees to stay.
 Dela, Kransal, and the Principal show up and Dela says that she respects their
 decision to leave sinistrae, even though she strongly disagrees. They live
 happily for a while despite Kaia's visions and the baby's mind control, but
-then Lita getting ill. Dan informs them that Lita is sick and dying. Dela tries
-to heal Lita with sinistrae tech, but it doesn't work. Dan cannot heal her
+then Lita getting ill. Zak informs them that Lita is sick and dying. Dela tries
+to heal Lita with sinistrae tech, but it doesn't work. Zak cannot heal her
 either.
 
 Lita says that she wants to stay with Kaia rather than go back to the silo to
-try to save her life there, because it looks like the disease is incurable. Dan
+try to save her life there, because it looks like the disease is incurable. Zak
 says that he can turn Lita into an ender and then bring her back. Lita is
 scanned and they print her. Lita says feels fine but that being brought back
 definitely changed her, even though she cannot describe in what way she is
@@ -1895,11 +1896,11 @@ Ursa discharges much of her energy in a demo of how to use ender powers, Lita
 asks Ursa to show it to her again and then immediately kills her. Ursa's head
 explodes spraying blood everywhere. Lita's hand is blown off. "Oopsie," Lita
 says, "I guess I didn't channel the energy away from me." looking at the bloody
-stump where her used to be. As Dan and Figa spring into battle, Dela, Kransal,
-and the Principal defend Lita while Kaia watches in horror. Dan blinds Lita,
+stump where her used to be. As Zak and Figa spring into battle, Dela, Kransal,
+and the Principal defend Lita while Kaia watches in horror. Zak blinds Lita,
 but his powers are useless against the sinistrae and as Lita tries to get away
-falling down on the ground, Dan is about to kill Lita when Dela knocks him out
-and rips apart his snakes. No longer blinded Lita kills Dan by exploding his
+falling down on the ground, Zak is about to kill Lita when Dela knocks him out
+and rips apart his snakes. No longer blinded Lita kills Zak by exploding his
 head. "I'm getting the hang of this!", she said triumphantly looking at the
 bloody stump where her foot used to be. Dela, Naksos, and Kransal kill Figa.
 Lita says she just wants them all to be together, but Kaia doesn't believe her.
@@ -1914,7 +1915,7 @@ Mummy Queen.
 
 Dela says that the rebuilt Lita destabilized even further and is being kept in
 the silo so that she cannot hurt anyone else. Dela asks if Kaia wants to see
-Lita. Kaia replies that the person who killed Ursa and Dan is not Lita. Dela
+Lita. Kaia replies that the person who killed Ursa and Zak is not Lita. Dela
 says that she is working on curing Lita, but has not made any progress. Dela
 says that she loves Kaia, but she thinks that Kaia doesn't love her, but that
 Dela is prepared to wait. Kaia says that she is hurt and confused, but is very
@@ -1971,11 +1972,11 @@ visions. She wonders if she will ever see Lita again. She thinks she might be
 going crazy. She decides to go back to Dela. She starts to think that maybe
 Dela is telling the truth and that Ryn is lying. Being near the silo helps
 control her visions and she needs larger and larger doses of sinistrae to keep
-her baby from ravaging her mind.
+her baby from ravaging her mind. Ryn is afraid that Dela will kill him, so he
+doesn't go with Kaia.
 
 When Kaia arrives at the silo, Dela is very happy to see Kaia and says that
-she can forgive Ryn if he admits that he lied to keep Kaia all to himself. Ryn
-is afraid that Kaia will kill him, so he doesn't go with Kaia.
+she can forgive Ryn if he admits that he lied to keep Kaia all to himself.
 
 Then Dela says that she forgave Ryn and that Ryn is ready to apologize for
 lying. Ryn says that he is sorry that he lied and asks if he can still live
@@ -2291,7 +2292,7 @@ Ryn froze, then turned around with a pitiful look on his face.
 
 "Please, no more.", he mumbled.
 
-"I need to destroy a TaserTutor, actually burning down the entire gym down
+"I need to destroy a taserTutor, actually burning down the entire gym down
 will be better, and you're going to help me."
 
 "No, I can't." Ryn pleaded.
@@ -2341,7 +2342,7 @@ of the power cells in all of the robotic animals."
 "I won't let anyone get hurt. What if we set off the fire alarm before the
 explosion?"
 
-"Sure, that's fine as long as the TaserTutor is destroyed."
+"Sure, that's fine as long as the taserTutor is destroyed."
 
 "Ok, but you mustn't tell anyone anything.", Ryn said.
 
@@ -2412,16 +2413,16 @@ detonate the robotic animals after everyone is clear."
 Ryn used his palms and eyes to activate the table. When Dela walked up to it, a
 console appeared. She had administrative access to the entire school system.
 Dela did not waste any time setting off the first alarm. Ryn was busy working
-on the console. First, he had the TaserTutor release the student currently
+on the console. First, he had the taserTutor release the student currently
 going through the ceremony. Then, he had the automated voice tell everyone to
-evacuate. Finally, he had all of the robotic animals surround the TaserTutor
+evacuate. Finally, he had all of the robotic animals surround the taserTutor
 before sending the command for them to detonate.
 
 "It is done. We should go now."
 
 "Not yet.", Dela replied.
 
-"The TaserTutor is destroyed, the gymnasium is buried in rubble. What are you
+"The taserTutor is destroyed, the gymnasium is buried in rubble. What are you
 doing?"
 
 "Shut up. You had all of this power and you didn't use it. You're an idiot!"
@@ -2429,12 +2430,12 @@ doing?"
 Ryn ran over to Dela and looked at what she was entering into the console.
 
 "If you detonate all of the robotic animals, people could get hurt!"
-Ryn tried to pull Dela away from the console, but he was swarmed with BuzzBees.
+Ryn tried to pull Dela away from the console, but he was swarmed with buzzBees.
 
-"Don't hurt Aira." Ryn said as he succumbed to the BuzzBee stings.
+"Don't hurt Aira." Ryn said as he succumbed to the buzzBee stings.
 
 Turning back to the console, Dela finished detonating all of the remaining
-robotic animals except a handful of WakeupWasps which she sent to revive Ryn.
+robotic animals except a handful of wakeupWasps which she sent to revive Ryn.
 As Ryn was waking up, Dela initiated the self-destruct sequence of the school
 reactor, opened the door to the control room, and locked the control console.
 An automated voice announced that they should evacuate the building. Dela

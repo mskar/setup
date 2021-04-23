@@ -1,31 +1,32 @@
 Characters:
-- Kaia (echo): will learn that she was imprinted with the consciousness of
+- Kaiakeilaila Erkadia (echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten long ago
-- Lita (human): Kaia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
-- Dela (human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
-- Ben (Ender): will learn that his consciousness was created in the digital
+- Satalitastra Azymuta (human): Kaia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
+- Feraziandela Fridzia (human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
+- Beniaminakim (Ender): will learn that his consciousness was created in the digital
   world and that his body was synthesized by his "parents" to test the ability
   of people to move back and forth between the physical and digital worlds
-- Ed (Ender): will learn that his older brother Ben created him as a child by
+- Dovaredodren (Ender): will learn that his older brother Ben created him as a child by
   subconsciously controlling a synthesizer and then imprinting Ed's
   consciousness during their childhood with the ideals of bravery, etc.
-- Dan (echo): will divulge that has been imprinted with the consciousness of an
+- Ianaizakivor (echo): will divulge that has been imprinted with the consciousness of an
   Earthling scientist who was married to a Martian woman, became disillusioned,
   created the system of echos, destroyed Mars, and orchestrated the plan to
   imprint his consciousness and his wife's consciousness on future generations
   of Earthlings
-- Mora (Ender): will divulge that she was a man who transcended and returned
+- Moliuralursa (Ender): will divulge that she was a man who transcended and returned
   as woman to try to realize her dream of becoming a mother
-- Rin (Mimic): will divulge that he is pregnant with Kaia's child and that he
+- Rynzomirozyn (Mimic): will divulge that he is pregnant with Kaia's child and that he
   needs regular contact with her or else he will miscarry
-- Alan (Mimic): Ren's best friend
-- Nila (Mimic): Ren's sister
-- Lyndsi (relic/null/sinistrae) : The others explain that Lyndsi needs a longer name (12 letters, 5 syllables) that ends in "a" and that has a short form that also ends with "a".
+- Lansealotsek (Mimic): Ryn's best friend
+- Nilarestaira (Mimic): Ryn's sister, then Taz's lover
+- Tsivantazolt Kransal (Lunker): Strike force officer, then Aira's lover
+- Dionymelitid Naksos: School Principal, then Administrative Assistant to Dela
 
 In the game that Kaia and Ed play after they are sent home from school,
 Kaia is a thief and Ed is a knight.
 He constantly lets her get all of the power-ups and the XP from important enemies.
-When Ben and Rin join, Ben is a summoner mage and Rin is a priest.
+When Ben and Ryn join, Ben is a summoner mage and Ryn is a priest.
 
 1. Kaia is nervous about starting high school
     - In the public school system, all students are shocked by a machine called
