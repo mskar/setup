@@ -221,8 +221,24 @@ preparing the next generation of MIG members."
 "You have my vote too.", Ed added.
 
 "Yes, I plan to vote for you as well. As the current Vice President and very
-likely future President of the MIG, you should learn about executive powers."
+likely future President of the MIG, you should learn about our executive
+powers. If something were to happen to me, you have to be ready to step in and
+take over. Without the guardianship of the MIG, the school could descend into
+chaos.", Ben said, walking over to a synthesizer and entering a complex series
+of key presses and then laying his hands down on the screen.
 
+I am making you a pair of gloves and skates that match my own. Ben said before
+stopping, "Do you know how to skate?".
+
+Dela nodded. Skating was Dela's refuge. All throughout middle school, she would
+skate everyday until late in the night, skipping dinner and only coming home to
+avoid sleeping on the street. Whenever she was home, she never felt safe. She
+would sneak in after her parents were asleep and quietly crawl into bed.
+Sometimes her father would wake up angry. Most of time, that anger would spill
+over onto her mother, but sometimes her father would wake Dela up to yell at
+her and hit her. There were a few times when he did not even wake Dela up and
+just started hitting her while she was still in bed. If anyone asked about the
+bruises that covered her body, Dela would say that fell down while skating. Even the mot
 
 Question about Pert and the bird
 
