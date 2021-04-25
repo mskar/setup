@@ -475,11 +475,24 @@ in the hallway to attack Ed. Ed started to slow down as the animalAutomatons
 began to pile on. Before going around the corner, Dela saw Ed under a mountain
 of animalAutomatons, valiantly trying to fight them all off.
 
-Dela burst into the Principal's office and commanded the animalAutomatons inside to stand down.
+Dela burst into the Principal's office and commanded the animalAutomatons
+inside to stand down.
 
-Turning to the Principal,
+"Here's what's going to happen, you sack of-", Dela stopped when she saw that
+the Principal was sleeping in his usual position, head tilted back and mouth
+opened.
 
-to strongarm him into requesting a pardon.
+Jumping on top of the desk, Dela kicked the Principal in his face until
+he woke up. Placing her on his chest, lunging forward and leaning in as if were
+stretching her psoas muscle, Dela looked at the Principal menacingly.
+
+"I want a full pardon for me and the other girls."
+
+The Principal looked back and forth between Dela and the powerskate on his
+chest. Then, the Principal opened his mouth to speak, but instead vomited all
+over Dela's powerskate.
+
+
 She stands on his desk and holds an activated powerskate next to his face. The
 Principal vomits all the skate short-circuiting it.
 
@@ -488,7 +501,6 @@ Principal vomits all the skate short-circuiting it.
 Placing one of her powerskates on his chest and leaning in as if she was
 stretching her psoas muscle, Dela looked at the Principal menacingly.
 
-"I want you a full pardon for me and the other girls."
 
 "I don't haf that aufority!"
 
