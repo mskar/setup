@@ -36,20 +36,20 @@ sister is much better. She is a people person.", Ryn answered.
 
 "Shut up, turn on a flashlight, and show me the way out of here."
 
-Ryn complied immediately. "Would you like to see the machine workshop?"
+Ryn complied immediately. "Would you like to see the maker workshop?"
 
 "Was he still trying to be friends with her?", Dela thought, "What a loser!".
 
-Not having any other plan, Dela nodded. The machine workshop would be a welcome
+Not having any other plan, Dela nodded. The maker workshop would be a welcome
 distraction.
 
-Arriving at the machine shop, Dela was dumbstruck at how technologically
+Arriving at the maker workshop, Dela was dumbstruck at how technologically
 advanced and well stocked it was.
 
 "I was not expecting this place to be halfway decent. Everything else in the
 crappy school is absolutely worthless."
 
-"Ben and Ed's family finances the machine shop but do not provide funding for
+"Ben and Ed's family finances the maker workshop but do not provide funding for
 any other part of the school."
 
 "Who are Ben and Ed?"
@@ -65,12 +65,12 @@ Dela laughed. "And they have money to burn on all of this?"
 "I do not know.", Ryn said walking up to a console, "I ask them to come here so
 you can ask."
 
-It was no long before a thin boy wearing powerskates zipped into the machine
+It was no long before a thin boy wearing powerskates zipped into the maker
 shop with another boy nearly as large as a guardGorilla running in after him.
 him. The boy in power skates did a sliding stop right in front of Dela and Ryn
 and the other boy ran up and stopped a few steps behind him. Reaching out one
-hand to Dela and gesturing around the machine workshop with the other, "Welcome
-to the machine shop!", the boy in power skates said. He was wearing metallic
+hand to Dela and gesturing around the maker workshop with the other, "Welcome
+to the maker shop!", the boy in power skates said. He was wearing metallic
 gloves covered with intricate patterns.
 
 Turning one begloved hand towards himself, "I'm Ben." and the other begloved
@@ -81,7 +81,7 @@ we are both deeply honored to be at your service."
 
 "The gigaphone you built was impressive, considering the limited resources you
 had at your disposal.", Ed said. "Just think of what you could build in the
-machine workshop!"
+maker workshop!"
 
 "I can use all this stuff?", Dela asked.
 
@@ -227,41 +227,257 @@ take over. Without the guardianship of the MIG, the school could descend into
 chaos.", Ben said, walking over to a synthesizer and entering a complex series
 of key presses and then laying his hands down on the screen.
 
-I am making you a pair of gloves and skates that match my own. Ben said before
-stopping, "Do you know how to skate?".
+"Take off your shoes, take a seat, and put your hands and feet into the scanner
+please."
 
-Dela nodded. Skating was Dela's refuge. All throughout middle school, she would
-skate everyday until late in the night, skipping dinner and only coming home to
-avoid sleeping on the street. Whenever she was home, she never felt safe. She
-would sneak in after her parents were asleep and quietly crawl into bed.
-Sometimes her father would wake up angry. Most of time, that anger would spill
-over onto her mother, but sometimes her father would wake Dela up to yell at
-her and hit her. There were a few times when he did not even wake Dela up and
-just started hitting her while she was still in bed. If anyone asked about the
-bruises that covered her body, Dela would say that fell down while skating. Even the mot
+"What? Why?"
 
-Question about Pert and the bird
+I am going to make you a pair of presidentialPowergloves and a pair of
+presidentialPowerskates, like the ones I have, but I need have the exact scans
+of your hands and feet."
 
-Ben makes a matching set of powergloves for Dela. She puts on powerskates and
-the new powergloves and Ben teaches her the ancient MakerMixedMartialArts
-moves that he made up himself.
+Dela sat down in front of the synthesizer and slid her hands and into the
+scanner.
 
-"How is it ancient if you made it up yourself?"
+"You do know how to skate, right?", Ben said suddenly, realizing he should have
+asked earlier.
 
-"Sorry, you're right. It just sounds better if martial arts are ancient."
+Dela nodded. Skating was Dela's refuge. She learn to build things by fixing and
+upgrading her skates. All throughout middle school, she would skate everyday
+until late in the night, skipping dinner and only coming home to avoid sleeping
+on the street. The only time she felt safe at home, was when her father was
+asleep. She would sneak in after her parents were asleep and quietly crawl into
+bed. Sometimes her father would wake up angry. Most of time, that anger would
+spill over onto her mother, but sometimes her father would wake Dela up to yell
+at her and hit her. There were a few times when he did not even wake Dela up
+and just started hitting her while she was still sleeping in bed. If anyone
+asked about the bruises that covered her body, Dela would say that fell down
+while skating. The truth was that skating was much safer than being at home.
 
-Dela is impressed by the immense power that the gloves hold. She asks if there
-are any failsafes.
+"While the synthesizer is making your gloves and skates, I can show you how
+they work.", Ben said, then noticing that Dela had not moved since she sat
+down, "Er, the scanner is done. You can pull your hands and feet out now."
 
-Ben shows her how the gloves can be deactivated. Dela deactivates Ben's gloves
-and asks if she did it right. Ben is impressed that Dela did it correctly on
-her first try. He asks her to reactivate his gloves, but she deactivates all of
-his security access and sends buzzBees to knock out Ben, Ed, and Ryn. Ed is
-immune to the sedatives and chases her. She is amazed that he can keep up with
-her and commands guardGorillas to slow him down. Dela heads to the Principal's
-office to strongarm him into requesting a pardon. She stands on his desk and
-holds an activated powerskate next to his face. The Principal vomits all the
-skate short-circuiting it.
+Dela engrossed in her thoughts, snapped out of it, retrieved her hands and feet
+from the scanner, turning her attention to Ben.
+
+"The skates provide a top-level security clearance, so you can go anywhere in
+the school and the AnimalAutomatons will not try to stop you. To speed up,
+press your big toe down, to slow down lift your big toe, but be careful if you
+lift it to high, you will start going backwards. To turn very quickly, lower
+one big toe and raise the other. To activate magnetism, curl all of your toes.
+Magnetism is most useful for tight turns, but you can also skate on any wall
+that has a high metal content, which is most of the walls in the school. Do you
+have any questions?"
+
+Dela shook her head.
+
+The skates are really intuitive. I am sure you will get the hang of them
+quickly. The gloves are a bit more complex. First of all, the gloves can open
+any door and activate any console in the school, you just have to place a hand
+on it. You can also control any AnimalAutomaton in the school. To provide a
+command, speak clearly and use gestures. The gloves also accept commands in
+sign language, but you can do almost everything with verbal commands.
+
+"I know sign language.", Dela said.
+
+Ben looked shocked.
+
+"My mother was deaf for a long time before she got the implant. She taught me
+sign language, because she said that I couldn't really know her without
+learning her native language.", Dela explained.
+
+In the mornings, while her father was still asleep, Dela and her mother spoke
+in complete silence using sign language. Dela would have her bag packed, hours
+before she needed to leave for school. If she heard her father waking up, Dela
+would grab her bag and run out the door. The mornings when her father would
+sleep in were the best, Dela would sign with her mother for as long as she
+could. Her mother would tell her stories while Dela wolfed down food after
+skipping dinner the day before. When her mother's stories would make Dela
+laugh, Dela had to cover her mouth so that her laughter would not wake her
+father.
+
+"Dela, are you listening?"
+
+Even though her mother took the brunt of the abuse, Dela was secretly jealous
+of her mother. When her father would start yelling, her mother could deactivate
+her implant and pretend she was still listening. Dela wished she could turn off
+her hearing or at least turn off her memory. Dela would cover her ears, but she
+couldn't close her ears the way she could close her eyes. Instead, she had to
+absorb all of the yelling, often for many hours. Every horrible thing her
+father said remained burned in her memory.
+
+"Yes, sorry, you were saying."
+
+"The gloves have a range of a few hundred meters and if you ever find yourself
+further away than that, you should be able to close the distance quickly with
+the skates. Each glove can also deliver a non-lethal electric shock, but the
+shock requires direct contact and should only be used in emergencies, because
+the shock drains the glove fuel cells. After delivering a shock, the gloves are
+useless until they are recharged. The electric shocks are only for an
+emergency, do you understand?"
+
+When Dela first got her period, her mother showed her a hidden bag filled with
+supplies and explained the emergency plan. If Dela's father ever tried to take
+off Dela's clothes or took his clothes off in front of her, Dela was supposed to
+yell as loud as she could, then while her mother distracted her father, Dela
+was supposed to grab the hidden bag, run out the door, and never come back.
+
+"Dela, maybe you want to sit down and take a break?"
+
+"No, I don't need a break."
+
+Dela saw that the synthesizer had finished.
+
+"I'm ready to try out the gloves and skates."
+
+"Ok, but let me know if need to rest for a bit."
+
+"I'm fine.", Dela said sharply. She opened the lid of the synthesizer and put
+on the skates and the gloves.
+
+"Now, you'll want to take it slow for a-", Ben started.
+
+Dela hop onto the skates and whizzed up to a guardGorilla watching over the
+maker workshop and started signing at him furiously. The guardGorilla hopped
+onto its hands and started to dance upside-down. Dela called three ChaseChimps
+over and made them cannonball one by one onto the feet of the guardGorilla.
+Ben, Ryn, and Ed looked in on in shock as the guardGorilla started to juggle
+the ChaseChimps with its feet. Dela turned towards a wall and with a few signs
+had a swarm of BuzzBees and WakeupWasps hovering in front of her. She had the
+swarm form different shapes in the air and then sent all of the robotic bugs
+back to their nests.
+
+"Ok, I think I'm getting the hang of this.", Dela said stopping right in front
+of the three stunned boys.
+
+"It appears you have a natural affinity to the skates and gloves. I believe you
+are ready to begin learning the Ancient martial art of droneDancing."
+
+"droneDancing?!"
+
+"Yes, that's what it's called until we can agree on a better name.", Ben said
+unfurling a worn scroll with hand-drawn images and intricate hand-written text.
+This ancient scroll holds the long-forgotten secrets of the droneDancers of the
+distant past.
+
+Studying the scroll, Dela noticed something strange. "Ben, is that your name at the
+bottom there?"
+
+Ben looked embarrassed. "Yes, it is."
+
+"Did you make droneDancing up?"
+
+"No, it is a real martial art but I did invent it."
+
+"How is it ancient if you invented it?"
+
+"Sorry, you're right. It just sounds better if a martial art is ancient. I was
+thinking that no one is going to care about a martial art developed by a
+teenager."
+
+"You might be right. Let me see that scroll." Dela said starting to take the
+scroll from Ben.
+
+"Be careful with that, it's ancient!", Ben said sharply.
+
+Dela looked at him sternly.
+
+"You're right. It is not ancient. I burnt the edges and then poured tea all
+over it." Ben said, surrendering the scroll to Dela.
+
+Dela looked at the scroll intensely. "It's very convincing. If it weren't for
+the signature, I might not have figured it out right away."
+
+"You can send flying animalAutomatons into your opponents?" Dela asked.
+
+"Yes, any animalAutomatons can be used, but birds have the right combination of
+speed and mass."
+
+"Did you make a bird hit Pert in the head?"
+
+"Who is Pert?"
+
+"A boy who was bullying me and two other girls."
+
+"I've never used droneDancing against another student. Actually, I've never
+used droneDancing against anyone. I've never had a sparing partner, so I've
+only done the kata."
+
+Dela used her gloves to summon two historianHummingbirds. "En garde.", She
+said, looking menacingly at Ben.
+
+"To be honest, I don't think you are ready for sparing. We should start with
+some kata. Here, I can-"
+
+Dela sent her two birds flying at Ben's head from two different angles. Ben
+pivoted to avoid the birds, lost control of his skates, and landed on ground.
+Dela had the birds land on Ben's chest.
+
+"Do you yield?", she asked triumphantly.
+
+"Yes, yes!", Ben said quickly. Dela helped him to his feet.
+
+"Do you want to go again?", Dela asked innocently.
+
+"No, no, I think that's enough for today. "
+
+"Hold on, these gloves are extremely powerful. Is there some kind of fail safe?
+Some limit to their power?"
+
+"A fail safe? That's an interesting idea. The gloves are tailored to their
+specific wearer, so they could not be used by anyone else."
+
+"If you wanted to turn off someone else's gloves, would you be able to?", Dela asked.
+
+Ben thought for a while. "Yes, I would need to access a console to deactivate a
+pair of gloves."
+
+"Can you show me?", Dela asked sweetly.
+
+"Of course!", Ben said expertly gliding up to a console. "First, you need to find the user. Then you can see all of their permissions. For example, you have two pieces of linked equipment, the gloves and skates, workspace reservations right, and access to the entire maker workshop."
+
+"Let me see." Dela said moving up to the console, "Do changes take effect right
+away or do you have to confirm them?"
+
+"They take effect immediately, so please be careful!"
+
+"Did I do it right?"
+
+"Yes, that's amazing. You deactivated my gloves and skates on the first try!"
+
+"And if I pull up two users, I can transfer permissions between them?"
+
+"Yes, that's correct. Just move the icons, just like that. I knew the interface I designed was intuitive, but I never thought anyone would be able to figure it out without an explanation. I guess my user interface design skills are better than I suspected.", Ben said proudly.
+
+"Er, Dela, you seem be locking me out of the system. Could you please restore
+my permissions? Also, I think we should discuss the permissions that you
+enabled for yourself. This is still your first day in the MIG and as far as I
+understand your first day in high school, so maybe we should take things one
+step-"
+
+"It's been a very productive day so far." Dela said still tapping at the
+console. "I made great new friends and found a place where I truly feel I
+belong. Thank you for accepting me into your group and making me feel welcome."
+Dela said, turning to face the boys.
+
+Ben grabbed his chest overcome with emotion, almost falling off of his
+deactivated powerskates. Ryn and Ed both started to cry and held onto each
+other for support. All three boys looked at Dela with admiration and affection.
+They were caught completely off guard by swarm of BuzzBees Dela sent after
+them. On her way out of the workshop, Dela commanded the ChaseChimps and the
+guardGorilla to keep the boys in the workshop.
+
+Dela sped down the hallway towards the Principal's office, but she turned
+around when she heard a fierce battle cry behind her. It was Ed, covered in
+BuzzBees, sprinting toward her. Dela started to command every animalAutomaton
+in the hallway to attack Ed. Ed started to slow down as the animalAutomatons
+began to pile on. Before going around the corner, Dela saw Ed under a mountain
+of animalAutomatons, valiantly trying to fight them all off.
+
+Dela heads to the Principal's office to strongarm him into requesting a pardon.
+She stands on his desk and holds an activated powerskate next to his face. The
+Principal vomits all the skate short-circuiting it.
 
 ...
 
@@ -791,7 +1007,7 @@ could have had a chance to apologize Kaia and Lita. Maybe if things were
 different, they could've been friends? Dela's eyes filled with tears.
 
 Dela thinks about Ben and Ed too, and the life she could have had working in
-the machine workshop, maybe helping Aira and Ryn in the theater.
+the maker workshop, maybe helping Aira and Ryn in the theater.
 
 Dela strokes Ryn's hair and caresses his mangled face.
 
@@ -817,7 +1033,7 @@ who I might consider my intellectual equal.", Ben asked. "No offense, Ed."
 
 "Is Dela still going to be part of our group?", Ed asked.
 
-"As far as I can tell, she did not do anything against the Machine workshop
+"As far as I can tell, she did not do anything against the maker workshop
 rules. The city was safely evacuated and reconstruction has already begun. To
 be frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
