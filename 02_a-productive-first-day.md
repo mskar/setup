@@ -344,7 +344,7 @@ onto its hands and started to dance upside-down. Dela called three ChaseChimps
 over and made them cannonball one by one onto the feet of the guardGorilla.
 Ben, Ryn, and Ed looked in on in shock as the guardGorilla started to juggle
 the ChaseChimps with its feet. Dela turned towards a wall and with a few signs
-had a swarm of BuzzBees and WakeupWasps hovering in front of her. She had the
+had a swarm of buzzBees and wakeupWasps hovering in front of her. She had the
 swarm form different shapes in the air and then sent all of the robotic bugs
 back to their nests.
 
@@ -464,13 +464,13 @@ Dela said, turning to face the boys.
 Ben grabbed his chest overcome with emotion, almost falling off of his
 deactivated powerskates. Ryn and Ed both started to cry and held onto each
 other for support. All three boys looked at Dela with admiration and affection.
-They were caught completely off guard by swarm of BuzzBees Dela sent after
-them. On her way out of the workshop, Dela commanded the ChaseChimps and the
+They were caught completely off guard by swarm of buzzBees Dela sent after
+them. On her way out of the workshop, Dela commanded the chaseChimps and the
 guardGorilla to keep the boys in the workshop.
 
 Dela sped down the hallway towards the Principal's office, but she turned
 around when she heard a fierce battle cry behind her. It was Ed, covered in
-BuzzBees, sprinting toward her. Dela started to command every animalAutomaton
+buzzBees, sprinting toward her. Dela started to command every animalAutomaton
 in the hallway to attack Ed. Ed started to slow down as the animalAutomatons
 began to pile on. Before going around the corner, Dela saw Ed under a mountain
 of animalAutomatons, valiantly trying to fight them all off.
@@ -492,15 +492,10 @@ The Principal looked back and forth between Dela and the powerskate on his
 chest. Then, the Principal opened his mouth to speak, but instead vomited all
 over Dela's powerskate.
 
+Dela recoiled in horror, then she instinctively kicked the Principal in the
+face repeatedly, sending specks of vomit flying in all directions.
 
-She stands on his desk and holds an activated powerskate next to his face. The
-Principal vomits all the skate short-circuiting it.
-
-...
-
-Placing one of her powerskates on his chest and leaning in as if she was
-stretching her psoas muscle, Dela looked at the Principal menacingly.
-
+"Get the pardons! For me, Kaia, and Lita."
 
 "I don't haf that aufority!"
 
@@ -516,19 +511,16 @@ while the guardGorillas hold you down."
 "Are they really going to charge in her just to save a buzzBee-addicted
 Principal who lost control of school?"
 
-The Principal cleared his throat, and said "I can requesht a pardon from the
-E-" before vomiting all over Dela's leg.
+The Principal cleared his throat, and said "I can requesht the pardonsh from the
+eternalEnlightened."
 
-Dela recoiled in horror, then she instinctively kicked the Principal in the
-face, sending vomit flying in all directions.
-
-"Request the pardon now!"
+"Request the pardons now! Do it now!"
 
 The Principal wiped his face with the sleeve of his blazer and started entering
 the pardon requests as Dela stood over him making sure he did not try any
 tricks. The pardon requests were approved soon after the Principal submitted
-them. Dela hopped off the desk next to the Principal and read through each one
-of the pardons.
+them. Dela commmanded the guardGorillas to hold the Principal down before
+hopping off the desk to read carefully through each one of the pardons.
 
 "Great, but there's something else I want to do. I'm going to replace all of
 the recordings of me and the other girls with fakes that show us all doing
@@ -536,130 +528,59 @@ really well in the initiation ceremony. I know I can't replace any local
 copies that anyone downloaded, but with the digital watermark from console no
 one will be able to say which version is the real one."
 
-"While the fakes are being generated, let's see what else I can do"
+"While the fakes are being generated, let's see what else I can do at your console."
 
 "Fire alarm. Sprinklers. Deactivate all animalAutomatons. Self-destruct?"
 
 "No, not the shelf-deshtruct!"
 
-The self-destruct alarm alerts Ben, Ed, and Ryn, who find Dela outside the Principal's
-office, having guardGorillas carry the Principal.
+Dela laughed as she started the school's self-destruct sequence. An automated
+voice started to count down in reverse.
 
-Ben and Ed try to force her to deactivate the school self-destruct system. Ed
-wrestles guardGorillas, Ben uses powerskates and taser batons, but Ed leaves
-when Ben is knocked unconscious. Dela faces off against Ben and Ed, Ryn
-deactivates the lights trying to gain an advantage over Dela. Ryn stays to stop
-Dela, she laughs at him for being a weakling, and when Kaia had guardGorillas
-break a hole in the wall to get some light, Ryn summons birds to fight the
-robotic animals. Dela is terrified but she finds
-Ryn in the darkness by his glowing eyes and kicks him repeatedly in the face
-with the vomit covered powerskate.
+Dela had the guardGorillas carry the Principal out of the office. Dela nearly fell over over her way out of the office. The powerskate covered in the Principal's vomit was not working at all. When Dela
+looked out into the hallway, she was surprised to see that it was completely
+dark.
 
+"I thought we were friends...", Ryn said, hiding in the darkness, "but you are not acting like a friend."
 
-
-### Ryn and Dela
+"What are you doing here, Ryn?"
 
 "The things you said earlier really hurt-"
 
-"Shut up. I don't care. Just show me the way out."
+"Shut up. I don't care. Just turn the lights back on."
 
 Ryn drew in a big breathe. "I'm not going to help you until you apologize and
-agree to be nicer to me."
+agree to be nicer to me, and turn off the self-destruct sequence."
 
-"I'm not going to apologize!"
+"I'm never going to apologize and I definitely won't turn off the self-destruct
+sequence"
 
-"Then fumble around in the darkness by yourself." Ryn said, turning around to
-leave.
+"Then fumble around in the darkness until the school explodes." Ryn said,
+turning around to leave.
 
 "Wait!" Dela said, "If you don't help me, I'm going to tell everyone about your
 secret bed."
 
-Ryn turned around, his eyes wide with shock.
+Ryn remained silent in the darkness.
 
 "I'll also make sure everyone knows you sleep with your sister."
 
-Ryn whimpered and started crying. The glow from his eyes
-illuminated the tears rolling down his cheeks until they disappeared in the
-darkness.
+"If you don't, I will tell everyone about your filthy, incestuous relationship
+with your sister."
 
-"Stop crying and get me out of here!"
+"No, it's not true."
 
-Wiping his eyes, Ryn walked closer to Dela.
+"I'll help the bullies beat you and your sister into a pulp."
 
-"What the hell are you doing?"
+Ryn whimpered and started crying. The glow from his eyes illuminated the tears
+rolling down his cheeks until they disappeared in the darkness.
 
-"I'm going to guide you to the exit."
-
-"Hell no, just turn on the lights!"
-
-"The light might wake up Kaia and Dela."
-
-"Ok, then go get a flashlight."
-
-"Aira has it and we only have one. She needs it in case Kaia and Dela-."
-
-"How the hell are you planning to get me out of here?"
-
-"I can guide you out if you just hold my hand."
-
-"You're crazy, I'm not holding your hand. We're not in preschool."
-
-"Are as you afraid of holding hands as you are afraid of the dark?"
-
-"I'm not afraid of anything!"
-
-"Then will you let me help you?"
-
-"Fine, just get me out of here!"
-
-Ryn's hand was suprisingly calloused and strong, his grip on Dela's hand was
-gentle but firm. He walked slowly because Dela still felt uncertain about
-walking in the dark.
-
-"You hands are quite manly hands, considering you are such a wimp."
-
-"It's from working on the theater sets. Aira and I build them all ourselves."
-
-"Have you ever even held hands with a girl before? Other than your sister, of
-course."
-
-Ryn stopped for a second, "What is the significance of holding a girl's hand?",
-he asked.
-
-Dela laughed in his face or at least where she assumed his face was based on
-the position of his eyes. She stopped laughing when she realized that Ryn was
-being serious.
-
-"You really don't know?!"
-
-Ryn looked down in embarrassment.
-
-"People hold hands when they're going out together."
-
-"Yes, we are holding hands and we are going out of the theater together."
-
-"No, I mean going out as in they're boyfriend and girlfriend."
-
-"Are Kaia and Lita boyfriend and girlfriend?"
-
-"No, they're both girls! Can't you tell?!"
-
-"I can. I am just not sure about the words. People can be friends, but
-sometimes when they say boyfriend and girlfriend, it means something
-different."
-
-"What do Lunkers say instead of boyfriend and girlfriend?"
-
-"I think we say mate."
+"You're so mean."
 
 "Lunkers are weird."
 
 "I think it is weird that topsiders say things that they know are not true or
 say things to hurt each other on purpose."
-
-"Are you talking about lies and insults?"
-
-"Yes, those are the words."
 
 "Do Lunkers always tell the truth and never insult each other?"
 
@@ -678,11 +599,9 @@ yourself."
 Ryn was quiet for a while. Dela realized that they had been talking in the dark
 for a long time.
 
-"Keep walking.", Dela said shaking Ryn's hand to indicate urgency. Ryn complied.
-
 "Can you teach me to lie to others and insult them?", Ryn asked shyly.
 
-Dela laughed again, but this time with less malice.
+Dela laughed.
 
 "I'll only teach you if join the revolution."
 
@@ -708,17 +627,31 @@ you can at least be good cannon fodder."
 
 "I am starting to think you do not care much about others."
 
-"I don't care what you think. Are we almost there yet? I feel like we are going
-in circles."
+"And I'm starting to think you are stalling."
 
-"That is because we are going in circles."
+"That is because I am stalling."
 
-"What?"
+"For what?"
 
-"I have been practicing deception to try to understand your motivations, elicit
-sympathy in you, and to learn more about topsiders in general."
+"Ben and Ed are working on stopping the self-destruct command."
 
-"You dirty moleman!", Dela screamed at Ryn, throwing his hand off to the side.
+Light began to trickle into the hallway.
+
+"You're not the only one with a plan."
+
+"I had every nearby guardGorillas start punch holes into the walls."
+
+Suddenly bathed in light, Ryn started to retreat.
+
+Dela charged forward on her sole working powerskate. She saw Ryn's outline in
+the shadows, she kicked out the vomit covered powerskate and was surprised at
+how solidly her it connected. Dela kicked Ryn until he stopped moving. She then grabbed his arm and started to drag him down the hallway.
+
+"Ben read your profile after we woke. He said that you have anger management
+issues, just like your father."
+
+"You dirty moleman! I'm nothing like my father!"
+", Dela screamed at Ryn and began to kick him with the broken powerskate again.
 
 "Did you know that Lunkers do not consider the word 'moleman' to be an insult?
 It sounds like molmin, a Lunker word meaning well-crafted or done with
@@ -740,7 +673,7 @@ they die. The gas poisons our food and water. Even with filter masks, we-"
 Ryn covered his face with his hands as he started sobbing violently. With Ryn's
 eyes closed, the darkness in front of Dela was complete.
 
-"They all died." he whimpered, falling to the ground and shaking
+"They all died.", he whimpered, falling to the ground and shaking
 uncontrollably. "Aira and I were the only ones who made it. The gas was
 clogging the filters and everyone was suffocating. They gave us all their spare
 filters and helped us get out even though they could not breathe. We left them
@@ -749,10 +682,9 @@ eyes."
 
 Dela stood over Ryn with tears in her eyes. She was angry at Ryn for being so
 weak and angry at herself for crying and wasting time on such a weakling. "If
-Lunkers are so easy to kill, maybe they deserve it.", Dela thought. She wiped
-her face and used the sound of crying to locate Ryn's head. She kicked out her
-foot and was surprised at how solidly her shoe connect with the source of the
-crying.
+Lunkers are so easy to kill, maybe they deserve it.", Dela thought.
+
+Dela wiped her face and gave Ryn another kick.
 
 "Stop crying and get up!"
 
@@ -765,111 +697,22 @@ life.
 
 "No!", Dela replied, punching Ryn in one of the eyes he had just opened.
 
-It was silent and dark for a while before Ryn spoke again.
-
-"I am sorry for crying. I can still help you, but could you stop hurting me
-please? If my eyes swell up more, I will not be able to see in the dark."
-
-Dela stood up and gave Ryn another kick. "I will stop hurting you when stop
-being such a weakling. Now get up!"
-
-Ryn got up and shrunk away from Dela. The shape of his eyes were different.
-"His eyes really are swollen.", Dela thought realizing that she had been
-kicking Ryn in the face.
-
-"Help me out of here or I will smash up your face so much we'll both be stuck
-here."
-
-This time Ryn did not delay in taking Dela to the exit. When they moved past
-the last curtain. Dela looked Ryn who was shielding his eyes from the light.
+Dela looked Ryn who was shielding his eyes from the light.
 His face was swollen and covered with bruises. Was he not defending himself at
-all from her kicks? Ryn turned around to leave.
+all from her kicks?
 
-"Oh no, you're not off the hook yet.", Dela said.
-
-Ryn froze, then turned around with a pitiful look on his face.
-
-"Please, no more.", he mumbled.
-
-"I need to destroy a taserTutor, actually burning down the entire gym down
-will be better, and you're going to help me."
-
-"No, I can't." Ryn pleaded.
-
-"If you don't, I will tell everyone about your filthy, incestuous relationship
-with your sister."
-
-"No, it's not true."
-
-"I'll help the bullies beat you and your sister into a pulp."
-
-"Please no. Please don't hurt Aira." Ryn said crying.
-
-"No crying!", Dela yelled slapping Ryn in the face, "Or I'll rip her apart and
-make you watch."
-
-Ryn bit his knuckle to bring himself under control.
-
-"Ok, I'll do anything, but please don't hurt Aira.", his voice quivering.
-
-"Get moving. We can't waste anymore time" Dela said shoving Ryn out the door of
-the theater.
-
-Outside the theater, Ryn took a long time to get used to bright lights. Dela
-realized that both of their faces were covered with bruises and that they were
-attracting the attention of nearby students.
-
-"Come on, people are starting to stare at your stupid, swollen face."
-
-"I am sorry my face is swollen."
-
-"You've never looked better. Now move or I'll make a few more improvements."
-
-"How are you going to burn down the gymnasium?"
-
-"You mean, how are WE going to burn down the gym. WE are going to overload all
-of the power cells in all of the robotic animals."
-
-"But that will cause a huge explosion!"
-
-"If we're lucky. Now keep your voice down or someone will hear us."
-
-"There are people in the gymnasium. The ceremony is still ongoing."
-
-"I don't care about them."
-
-"I won't let anyone get hurt. What if we set off the fire alarm before the
-explosion?"
-
-"Sure, that's fine as long as the taserTutor is destroyed."
-
-"Ok, but you mustn't tell anyone anything.", Ryn said.
-
-When Dela nodded, Ryn led her down several hallways and up to a set of windows.
-
-"Help me open all the windows.", Ryn said.
-
-"You can kill yourself after we blow up the gym, not before."
-
-"I don't want to kill myself. I just want to create a diversion."
-
-"What?"
-
-"Just help me it will be faster if we work together."
-
-After opening all the windows, Dela grew impatient when nothing happened.
+"Get moving. We can't waste anymore time."
 
 "What are we waiting for? Why are we wasting time just standing her?"
 
-"Please wait.", Ryn said with eyes closed.
+"Please wait a moment.", Ryn said with eyes closed.
 
 "What the hell are you doing? Snap out of it.", Dela said grabbing his
 shoulders and shaking him.
 
 "I'm creating a diversion."
 
-"By standing next to a window with your eyes closed? Are you a lizard that
-needs sit in the sun to stay warm? Are you making food from the sunlight like a
+"How? By growing roots? Are you making food from the sunlight like a
 plant?"
 
 "How did you know I can photosynthesize?", Ryn asked opening his eyes wide in
@@ -878,89 +721,21 @@ until he gave it away, he got flustered.
 
 "You mustn't tell anyone anything!", Ryn exclaimed.
 
-"Fine! Just hurry it up with your diversion."
+The hallway suddenly filled with a birds.
 
-"Ok, it's ready. Now move away from window."
+...
 
-"First, we need to stand next to window and now we need to move away? What the
-hell are you-"
+Ben and Ed try to force her to deactivate the school self-destruct system. Ed
+wrestles guardGorillas, Ben uses powerskates and taser batons, but Ed leaves
+when Ben is knocked unconscious. Dela faces off against Ben and Ed, Ryn
+deactivates the lights trying to gain an advantage over Dela. Ryn stays to stop
+Dela, she laughs at him for being a weakling, and when Kaia had guardGorillas
+break a hole in the wall to get some light, Ryn summons birds to fight the
+robotic animals. Dela is terrified but she finds
+Ryn in the darkness by his glowing eyes and kicks him repeatedly in the face
+with the vomit covered powerskate.
 
-Ryn grabbed Dela's hand, pulled her into a corner, and used his body to shield
-her from the flood of birds that were flying in through the open windows.
-
-When the birds passed, Ryn pulled Dela out of the corner and ran with her down
-the hallway after the mass of birds. All through the hallways, robotic animals
-fought with the birds. Ryn ran up to a door and placed his palms on the door
-and brought his closer for a retina scan. They went through the open door and saw an empty room with a large table in the center. As the door closed behind them, the sounds of the chaotic battle in the hallway faded away and an automated voice greeted them.
-
-"Welcome Principal Naksos.", the voice said.
-
-"What?", Dela asked.
-
-"I gave myself the Principal's fingerprints and retinas, so I could access
-any system in the school. You mustn't tell anyone anything."
-
-"That's actually kinda awesome.", Dela admitted.
-
-"I will do anything to protect Aira.", Ryn said getting emotional again.
-
-"Ok, I get it. Let's get this over with."
-
-"I am going to unlock the control center. You start the fire alarm and I will
-detonate the robotic animals after everyone is clear."
-
-Ryn used his palms and eyes to activate the table. When Dela walked up to it, a
-console appeared. She had administrative access to the entire school system.
-Dela did not waste any time setting off the first alarm. Ryn was busy working
-on the console. First, he had the taserTutor release the student currently
-going through the ceremony. Then, he had the automated voice tell everyone to
-evacuate. Finally, he had all of the robotic animals surround the taserTutor
-before sending the command for them to detonate.
-
-"It is done. We should go now."
-
-"Not yet.", Dela replied.
-
-"The taserTutor is destroyed, the gymnasium is buried in rubble. What are you
-doing?"
-
-"Shut up. You had all of this power and you didn't use it. You're an idiot!"
-
-Ryn ran over to Dela and looked at what she was entering into the console.
-
-"If you detonate all of the robotic animals, people could get hurt!"
-Ryn tried to pull Dela away from the console, but he was swarmed with buzzBees.
-
-"Don't hurt Aira." Ryn said as he succumbed to the buzzBee stings.
-
-Turning back to the console, Dela finished detonating all of the remaining
-robotic animals except a handful of wakeupWasps which she sent to revive Ryn.
-As Ryn was waking up, Dela initiated the self-destruct sequence of the school
-reactor, opened the door to the control room, and locked the control console.
-An automated voice announced that they should evacuate the building. Dela
-grabbed Ryn by the hand and yanked him outside. They ran through a charred
-hallway filled with rubble, the remains of exploded robotic animals, and bodies
-of dead birds. Ryn suddenly stopped and fell to his knees crying.
-
-"Why are you stopping?"
-
-"They're dead. You killed them."
-
-"I didn't kill anyone. I made sure only to detonate the robots if there were no
-people around."
-
-Ryn gingerly picked up the burnt carcass of a dead bird and hugged it to his
-chest as he cried.
-
-"You mean the birds?!", Dela screamed. She suddenly felt filled with rage. She
-started kicking Ryn as hard as she could. When Ryn fell over, Dela stopped
-kicking and tried to pick him up, but he refused to stand up. Leaving Ryn
-behind, Dela raced to the Principal's office and kicked down the door.
-
-
-
-
-
+...
 
 She thinks that no one would charge in now to try to deactivate the
 self-destruct sequence, so Dela grabs the unconscious Ryn and the groggy
