@@ -16,7 +16,7 @@ Characters:
 Female names are created from given name, mother's name, maternal grandmother's name, e.g. Kaia, Kela, Isla
 Male names are created from given name, father's name, paternal grandfather's name, e.g. Zek, Ian, Rov
 
-Bring in a relic character to be a potential partner for Dela. The silos are
+Bring in a Relic character to be a romantic partner for Dela. The silos are
 all connected. The AI explains that there is a survivor from the war between
 sinistrae and dekstrae intact in stasis. The AI explains that Eiva is pregnant
 and she was selected to be the first person to be awakened as part of the plan
@@ -28,6 +28,29 @@ her that matched the time when she was awakened. Eiva's husband died trying to
 protect the silos and keep them hidden. The AI does not try to create a full
 name for Eiva and instead suggests that she add Fera's mother's name and Fera's
 maternal grandmother's name (Eivavikadela) and pretend she is Fera's sister.
+
+Eiva and Fera develop a relationship and start sleeping together.
+
+"After being frozen for thousands of years, I thought you might be a bit... frigid."
+
+Eiva tackled Fera and started to throttle her.
+
+"Oh, how did you know that's what I'm into?", Dela said, laughing.
+
+Ryn discovers them. "You are together with Eiva?!" Then, a mischievous look
+overtook Ryn's face. "Remember when you accused me of sleeping with my sister?
+Turns out that you're an incestuous hypocrite."
+
+Eiva looked puzzled.
+
+"You're going to pay for that, you filthy moleman!"
+
+Fera thinks that Eiva was lying to her about being pregnant. Eiva says she did
+not know she was pregnant. She did not know it was possible for an embryo to
+survive stasis. "When the baby is born, will our relationship change?", Fera
+asked nervously.
+
+Eiva's baby is a girl. Kaia's baby is a boy.
 
 In the game that Keia and Ed play after they are sent home from school, Keia is
 a thief and Ed is a knight. He constantly lets her get all of the power-ups and
