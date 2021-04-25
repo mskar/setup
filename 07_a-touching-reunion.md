@@ -49,13 +49,13 @@ being a Lunker.
 Dela, Ryn, and Naksos arrive at the refugee camp. Dela promises everyone that she
 has no idea how the government got sinistrae nanotech or figured out how to use
 it to detect mimics. As proof that she has nothing against mimics, she offers
-to help rescue Aira and Lans. She tells Kaia and Lita that the only way
+to help rescue Aira and Lans. She tells Kaia and Sata that the only way
 to rescue them is to accept sinistrae nanotech. Zek also agrees to help. They
 go in teams.
 
 - Ben, Ed, and Ryn
 - Zek, Ursa, and Figa
-- Kaia, Lita, and Dela
+- Kaia, Sata, and Dela
 
 Is this when Ben becomes obsessed with studying Kaia's brain? When Kaia
 demonstrated her ability to simultaneously control dextrae and sinistrae
@@ -76,6 +76,6 @@ to destroy the government and dextrae companies. He sabotages PeoplePrinters
 around the world and starts replacing people with dopplegangers who say they
 are loyal to the Mummy Queen on Mars to make it seem like she is interfering
 with the network in the same way she is with the signals reaching Kaia. Ryn
-goes to the silo to ask Dela, Kaia, and Lita for help with distributing the
+goes to the silo to ask Dela, Kaia, and Sata for help with distributing the
 inoculations to mimics hiding underground.
 

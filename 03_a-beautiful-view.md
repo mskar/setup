@@ -1,20 +1,20 @@
 ## Chapter 3: A beautiful view
 
 The sound of the fire alarm was brutal. Waking up in total darkness, Kaia and
-Lita were in a state of panic. Aira was at the side of the bed in an instant,
+Sata were in a state of panic. Aira was at the side of the bed in an instant,
 shining a flashlight on the floor until their eyes adjusted to the light.
 
-"Lita, Kaia, put on these shoes.", Aira said, handing each of the girls a pair
+"Sata, Kaia, put on these shoes.", Aira said, handing each of the girls a pair
 of ballet flats from a satchel she wore across her shoulder, "Just slip them on
 and let's go. Dela and Ryn left while you were sleeping."
 
-"It could be just a drill.", Lita said.
+"It could be just a drill.", Sata said.
 
 "We will find out when we get outside.", Aira responded.
 
 As they were leaving the theater, a huge explosion rocked the school.
 
-"Ok, it's definitely not a drill.", Lita said.
+"Ok, it's definitely not a drill.", Sata said.
 
 Outside the theater, there was utter pandemonium. Students were running towards
 the exits as robotic animals, large and small, were exploding. The three girls
@@ -23,12 +23,12 @@ how comfortable the ballet flats were to run in.
 
 "How did you know our sizes?", Kaia asked Aira.
 
-"Lita was trying on shoes before you went to sleep and I took your shoes off
+"Sata was trying on shoes before you went to sleep and I took your shoes off
 once to wear asleep. Your shoes were in pretty bad shape. I hope you don't mind."
 
 "Oh, I don't mind at all. These shoes are much better."
 
-When the girls made it outside, Lita and Kaia were dismayed to see Pert and his
+When the girls made it outside, Sata and Kaia were dismayed to see Pert and his
 posse waiting in front of the entrance to the school. Pert's head was wrapped
 in bandages. A small of blood had permeated the bandages in the spot were the
 historianHummingbird had hit him.
@@ -42,7 +42,7 @@ than I do!"
 
 The boys erupted with laughter.
 
-Before the Kaia and Lita could think of a plan, Aira walked up to Pert and
+Before the Kaia and Sata could think of a plan, Aira walked up to Pert and
 introduced herself.
 
 "Hello, I'm Aira. What's your name?", Aira said, projecting her voice so
@@ -57,32 +57,32 @@ him.
 "Oh, this? It's nothing." Pert was clearly not used to anyone of the opposite
 sex taking an interest in him.
 
-"A bird flew into his head.", Lita said.
+"A bird flew into his head.", Sata said.
 
 "What did you say?", Pert pushed past Aira and stood menacingly in front of
-Kaia and Lita.
+Kaia and Sata.
 
-"I said, a bird flew into your head.", Lita said defiantly.
+"I said, a bird flew into your head.", Sata said defiantly.
 
 "What are the chances of a bird flying into someone's head?", Aira interrupted.
 She really knew how to make her voice carry.
 
-"Pert must really be an airhead.", Lita said.
+"Pert must really be an airhead.", Sata said.
 
 "A real chick magnet!", Kaia said exploding with laughter.
 A few hours of sleep had done them both a lot of good.
 
-Pert moved closer to Lita and Kaia and spoke in a low voice.
+Pert moved closer to Sata and Kaia and spoke in a low voice.
 "Listen, I know you are one mistake away from going to prison, so you better
 start treating me really nicely or I might have a word with my father and-."
 
 At that moment, a bird flew into the previously undamaged side of Pert's face.
 
 "What are the chances of two different birds flying into the same person's
-head?", Aira said as she grabbed Kaia and Lita by the hands and led them away
+head?", Aira said as she grabbed Kaia and Sata by the hands and led them away
 through the circle of stunned boys.
 
-"He got two birds with one head!", Lita screamed as they ran, hoping everyone
+"He got two birds with one head!", Sata screamed as they ran, hoping everyone
 could hear her. Laughing hysterically, Kaia did not try to come up with any
 more bird puns, because she knew she would not be able to top that one.
 
@@ -96,10 +96,10 @@ Aira squealed with glee and began to run towards him.
 
 They hugged and spun around, laughing like children.
 
-When Kaia and Lita walked up to them, Aira put her arm around the young man and
+When Kaia and Sata walked up to them, Aira put her arm around the young man and
 gestured towards the two girls.
 
-"Lans, this is Kaia and Lita. Kaia and Lita, this is Lans."
+"Lans, this is Kaia and Sata. Kaia and Sata, this is Lans."
 
 Lans stepped forward and bowed with a flourish.
 
@@ -138,7 +138,7 @@ rifle that was slung over his shoulder. The exoskeleton armor he was wearing
 made him look could wrestle a guardGorilla and win.
 
 Officer Kransal!, Lans exclaimed, "I'd like to introduce you to Aira and her
-friends Kaia and Lita."
+friends Kaia and Sata."
 
 Getting behind Aira, Lans whispered something into her ear, carefully took her
 satchel, and gently nudged her forward.
@@ -148,7 +148,7 @@ were standing next to each other as they posed for a picture together. Aira's
 face was flushed with emotion as beamed at the pictureParrot that perched in
 front of them. She put her hand on Officer Kransal's arm and leaned into him as
 he stood motionless. After the picture, she came back to stand next to Kaia and
-Lita. Lans walked up to Officer Kransal and stood next to him speaking in a
+Sata. Lans walked up to Officer Kransal and stood next to him speaking in a
 hushed tone. The officer nodded, then Lans stuck out his elbow and two briefly
 connected elbows.
 
@@ -160,20 +160,20 @@ best supplies. We have complete control of the guest list. If anyone gives us
 any trouble, we can have them thrown out. And the best part is that Officer
 Kransal will be flying with us as our personal security escort."
 
-Aira was blushing deeply and she pulled in Kaia and Lita on either side of her.
+Aira was blushing deeply and she pulled in Kaia and Sata on either side of her.
 
 "Are you crying?", Kaia asked.
 
 "Not here. Wait until we get onto the airship.", Aira replied smiling broadly
 through the tears.
 
-As soon as they were in the gangway of the airship, Aira pulled Kaia and Lita
+As soon as they were in the gangway of the airship, Aira pulled Kaia and Sata
 into a huddle as Lans was on the lookout.
 
 "That officer was a Lunker." Aira said as tears dropped down on the ground in
 front of her.
 
-Kaia and Lita were waiting to hear more, but what followed was a bit
+Kaia and Sata were waiting to hear more, but what followed was a bit
 anticlimactic. "You mustn't tell anyone anything!".
 
 After wiping her face, Aira pulled the two girls up the gangway into the
@@ -196,10 +196,10 @@ increasingly uneasy as they ate, but she could not resist the food. After the gi
 cleared almost all of the food on the platter, they looked up at Lans with
 gratitude.
 
-"That was the best meal I've had in my life." Lita said and Kaia
+"That was the best meal I've had in my life." Sata said and Kaia
 enthusiastically agreed.
 
-"I couldn't eat another bite!" Lita added."
+"I couldn't eat another bite!" Sata added."
 
 "Should we have saved some for Aira?", Kaia asked, trying to guess why Lans
 looked so uncomfortable.
@@ -222,14 +222,14 @@ appetizer tray. Lans gently leaned into Kaia for a hug, his body was
 occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
 shoulder. When he stopped crying, he looked at Kaia lovingly.
 
-Aira arrives looking gorgeous. Both Kaia and Lita are very impressed. Lans
+Aira arrives looking gorgeous. Both Kaia and Sata are very impressed. Lans
 wipes his eyes and continues entertaining. Aira is anxious for Officer Kransal
 to arrive. When he does, she runs up to him and throws her arms around him.
 Officer Kransal removes and stows away his armor along with his rifle. Without
 the armor, he looks much smaller, but still very intimidating. After they talk
 and eat, Kransal tells them they can call him Taz as long as his not in uniform
 or on duty. Aira announces that she is going to show Officer Kransal around.
-When Kaia asks if they can come too, Lans says that he will show Kaia and Lita
+When Kaia asks if they can come too, Lans says that he will show Kaia and Sata
 around later, separately.
 
 Are you a Lunker too?
@@ -241,8 +241,8 @@ A Lunker?! I was born to shine under the spotlight, not hide in the shadows!
 "Let me introduce you to subject of my affection, but please you mustn't tell
 anyone anything."
 
-Lans introduces Lita and Kaia to Ursa. They knock on the door to Ursa's cabin,
-Ursa opens. Lita and Kaia are both extremely impressed with how elegant,
+Lans introduces Sata and Kaia to Ursa. They knock on the door to Ursa's cabin,
+Ursa opens. Sata and Kaia are both extremely impressed with how elegant,
 beautiful, and athletic Ursa is.
 
 Zek barges in on them with Figa (Figurina?) in tow. Zek tries his best to charm Kaia. Kaia
@@ -260,9 +260,9 @@ decided to make camp at the airship crash site. They talk around the camp fire.
 Someone notices that Kransal and Aira's eyes glow in the dark. All of the girls
 walk along the side of lake to find a spot to bathe. Kransal, Zek, and Lans
 stay behind. Figa waits by the side of the lake. "I don't do water." The girls
-have fun in the water. Kaia is amazed at how great Lita, Aira, and especially
+have fun in the water. Kaia is amazed at how great Sata, Aira, and especially
 Ursa look. Aira and Ursa are surprised to see how Kaia looks underneath all the
 grime.
 
 The Chapter ends when everyone falls asleep next to the campfire. Kaia curls up
-next to Lita.
+next to Sata.

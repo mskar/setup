@@ -12,10 +12,10 @@ Kaia is ambushed by Pert and his posse (who were secretly hired by Zek) in the
 cafeteria. Ed goes to help Ben instead of Kaia. Ursa and Figa are not around.
 Aira is with Kransal. Only Zek is around to save Kaia.
 
-Zek takes Kaia to the hospital. Zek and Lita decide to stay with Kaia all
+Zek takes Kaia to the hospital. Zek and Sata decide to stay with Kaia all
 night.
 
 "Just when I thought I was finally fitting in."
 
-The chapter ends when Kaia drifts off to sleep with Lita stroking her hair.
+The chapter ends when Kaia drifts off to sleep with Sata stroking her hair.
 

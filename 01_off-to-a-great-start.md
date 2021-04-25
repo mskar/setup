@@ -9,7 +9,7 @@ with the entire cohort of high school freshman. All around the bleachers,
 robotic animals buzzed, growled, and roared, while observing the
 students.
 
-Kaia leaned in to her best friend Lita and whispered in her ear.
+Kaia leaned in to her best friend Sata and whispered in her ear.
 
 "Let's run."
 
@@ -17,7 +17,7 @@ Kaia leaned in to her best friend Lita and whispered in her ear.
 
 "If we run, they'll have to knock us out and we'll miss the ceremony."
 
-Kaia and Lita looked at the hexagonal holes in the walls. Inside the walls,
+Kaia and Sata looked at the hexagonal holes in the walls. Inside the walls,
 there was a network of tunnels filled with robotic insects always ready to
 swarm anyone who stepped out of line.
 
@@ -29,7 +29,7 @@ ceremony."
 
 "Acting crazy should be easy for you, because you've always been insane."
 
-Lita could see that the joke didn't land well, so she tried to reassure her
+Sata could see that the joke didn't land well, so she tried to reassure her
 friend.
 
 "Maybe it won't be so bad. Maybe I won't have a seizure and you won't freak
@@ -37,8 +37,8 @@ out."
 
 "Awww, you always know exactly what to say to keep me from freaking out."
 
-Lita smiled and put her arm around Kaia pretending to put her into a headlock.
-Before she realized it, Kaia's head was resting on Lita's shoulder as the two
+Sata smiled and put her arm around Kaia pretending to put her into a headlock.
+Before she realized it, Kaia's head was resting on Sata's shoulder as the two
 embraced. Several students in their vicinity started to jeer.
 
 "Get a room, you two!"
@@ -47,7 +47,7 @@ embraced. Several students in their vicinity started to jeer.
 
 "Which one is butch? And what do you call the other one?"
 
-Kaia wondered if she was imagining the jeers until she felt Lita tense up and
+Kaia wondered if she was imagining the jeers until she felt Sata tense up and
 eventually withdraw from their embrace. For as long as she could remember, Kaia
 had auditory hallucinations. She always had trouble differentiating between the
 voices of people around her and the voices in her head.
@@ -101,13 +101,13 @@ As soon as an automated voice started calling students to participate in the
 initiation ceremony, the gymnasium erupted with the excited chatter of the
 students and the sounds of the robotic wildlife.
 
-Kaia leaned in to whisper to Lita again, but stopped when she noticed that her
-friend was having a seizure. Lita's expressionless face moved ever so slightly
+Kaia leaned in to whisper to Sata again, but stopped when she noticed that her
+friend was having a seizure. Sata's expressionless face moved ever so slightly
 as she blankly stared into the distance.
 
-When she realized that the seizure was relatively mild and that Lita would
+When she realized that the seizure was relatively mild and that Sata would
 recover shortly, Kaia let out a sigh of relief. While waiting for her friend to
-recover, Kaia held Lita's hands, which unfortunately attracted the attention of
+recover, Kaia held Sata's hands, which unfortunately attracted the attention of
 nearby students.
 
 "I think she's about to propose!"
@@ -117,9 +117,9 @@ nearby students.
 "Someone get the securitySimians to arrest those two!"
 
 After seeing it countless times, Kaia knew exactly what to expect. As the
-seizure ended, Lita looked around disoriented and confused. The part that
-always broke Kaia's heart was when Lita looked embarrassed about having a
-seizure. Lita pulled her hands away.
+seizure ended, Sata looked around disoriented and confused. The part that
+always broke Kaia's heart was when Sata looked embarrassed about having a
+seizure. Sata pulled her hands away.
 
 Never knowing what to say, Kaia tried to start a conversation.
 
@@ -133,11 +133,15 @@ Never knowing what to say, Kaia tried to start a conversation.
 
 "Maybe we can protest too?"
 
-Clearly not in the mood to continue the conversation, Lita did not reply.
-The two friends sat in silence until Kaia's name was called.
+Clearly not in the mood to continue the conversation, Sata did not reply. Kaia
+and Sata never fit in at school. Thinking about her friendship with Sata, Kaia
+wondered if the only reason that they were friends was because they were both
+abnormal. Would they still be friends if Sata was not epileptic? Or would Sata
+prefer to spend time with friends who did not hear and see things that were not
+there? The two friends sat in silence until Kaia's name was called.
 
-Desperate for a means of escape, Kaia looked pleadingly at Lita. Trying her
-best to be reassuring, Lita smiled weakly and gave Kaia a gesture of
+Desperate for a means of escape, Kaia looked pleadingly at Sata. Trying her
+best to be reassuring, Sata smiled weakly and gave Kaia a gesture of
 encouragement. Left with no other option, Kaia got up and started to squeeze
 through the rows of students.
 
@@ -262,12 +266,12 @@ entire Thelusian armada began to enter the thin Martian atmosphere.
 government.
 
 People all around Kaia began to run for cover, but she knew there was nowhere
-to hide. Everyone was running and screaming except for her and Lita.
+to hide. Everyone was running and screaming except for her and Sata.
 
-"What is Lita doing here on Mars?", Kaia wondered.
+"What is Sata doing here on Mars?", Kaia wondered.
 
-With an alarmed and desperate look on her face, Lita pointed down in front of
-Kaia. Unsure why Lita was pointing down and not up at impending cataclysm in
+With an alarmed and desperate look on her face, Sata pointed down in front of
+Kaia. Unsure why Sata was pointing down and not up at impending cataclysm in
 the sky, Kaia looked down at the pulsing red light emanating from the metallic
 table. Kaia's body shook with electricity. Time had run out. Mars was doomed.
 
@@ -311,35 +315,35 @@ chaseChimpanzees tackled Kaia into taserTutor so hard that she bounced off and
 ended sprawled on the floor. A guardGorilla lumbered up to Kaia, grabbed her by
 an ankle, and proceeded to drag her out of the gymnasium.
 
-As she was dragged past the bleachers, Kaia looked searched for Lita in the sea
+As she was dragged past the bleachers, Kaia looked searched for Sata in the sea
 of standing and staring students. The automated voice was already calling the
-next student up to the taserTutor. Lita pushed through the densely packed crowd
+next student up to the taserTutor. Sata pushed through the densely packed crowd
 of students, leapt off the bleachers, and ran towards Kaia. When she was a
-steps away from Kaia, a nearby guardGorilla grabbed Lita by her shirt and
+steps away from Kaia, a nearby guardGorilla grabbed Sata by her shirt and
 plucked her off the ground. Simultaneously kicking and punching the
-guardGorilla, Lita fought to break free. Reaching her hand out to Lita, Kaia
+guardGorilla, Sata fought to break free. Reaching her hand out to Sata, Kaia
 tried to say her name, but the sound that came was nothing more than a pitiful
 moan.
 
-Suspended in the air, Lita braced her legs against the guardGorilla that was
+Suspended in the air, Sata braced her legs against the guardGorilla that was
 carrying her and pushed off like a olympic swimmer completing a flip turn.
-Lita's shirt ripped and she landed shirtless flat on the ground. Crawling on
-her hands and knees, Lita made it Kaia and grabbed her outstretched hand.
+Sata's shirt ripped and she landed shirtless flat on the ground. Crawling on
+her hands and knees, Sata made it Kaia and grabbed her outstretched hand.
 Seemingly perplexed by the situation, the securitySimians paused for a moment.
 
-Still holding the ripped remains of Lita's shirt, one of the guardGorillas
-tried to separate the two friends by grabbing Lita's foot. As the guardGorillas
-yank from both ends trying to pull them apart, Lita held on to Kaia's hands
-with all her strength. When Lita's shoe came off, they hit the ground, Kaia on
-her back, Lita on her belly, but they remained linked. The guardGorilla holding
+Still holding the ripped remains of Sata's shirt, one of the guardGorillas
+tried to separate the two friends by grabbing Sata's foot. As the guardGorillas
+yank from both ends trying to pull them apart, Sata held on to Kaia's hands
+with all her strength. When Sata's shoe came off, they hit the ground, Kaia on
+her back, Sata on her belly, but they remained linked. The guardGorilla holding
 Kaia's ankle seemed to grow impatient and began to drag the two friends out of
 the gymnasium.
 
-"At least now, I won't have to go through the ceremony.", Lita joked.
+"At least now, I won't have to go through the ceremony.", Sata joked.
 
-Despite the pain, Kaia smiled. Lita was so brave and strong, always looking out
+Despite the pain, Kaia smiled. Sata was so brave and strong, always looking out
 for Kaia and trying to cheer her up. Kaia's eyes began to well up. Seeing that
-her friend was beginning to cry, Lita tried to strike a jovial tone.
+her friend was beginning to cry, Sata tried to strike a jovial tone.
 
 "Was this best plan you could come up with?"
 
@@ -347,15 +351,15 @@ her friend was beginning to cry, Lita tried to strike a jovial tone.
 
 "Yeah, I hate bugs."
 
-Lita laughed at her own joke and Kaia's heart melted. Even being dragged
-shirtless through a school they would likely soon be expelled from, Lita was
-defiant and beautiful. Wishing she could pull Lita closer, Kaia became
+Sata laughed at her own joke and Kaia's heart melted. Even being dragged
+shirtless through a school they would likely soon be expelled from, Sata was
+defiant and beautiful. Wishing she could pull Sata closer, Kaia became
 overwhelmed with emotion and broke down crying.
 
 "Cheer up, at least we're helping to clean to the floor. Maybe we found our
 calling? I can be a broom and you can be a mop!"
 
-When Kaia continued to cry, Lita decided to double down.
+When Kaia continued to cry, Sata decided to double down.
 
 "Okay, okay, you can be the broom and I'll be the mop. Is that better?"
 
@@ -377,9 +381,9 @@ bar...", Kaia retorted.
 the best places in town!"
 
 When they arrived at the Principal's office, the guardGorilla let go of Kaia's
-foot and opened the door. Lita helped Kaia to her feet, put Kaia's arm around
+foot and opened the door. Sata helped Kaia to her feet, put Kaia's arm around
 her shoulder, and walked with her towards the office. Leaning against her
-friend, Kaia became overwhelmed by the intoxicating scent of Lita's hair and
+friend, Kaia became overwhelmed by the intoxicating scent of Sata's hair and
 almost fell over. As they entered the office, they saw the girl with the purple
 hair sitting in a chair with a guardGorilla standing behind her.
 
@@ -388,12 +392,12 @@ school Principal, snoring loudly with his head tilted back, his mouth open, his
 face and neck covered in buzzBees, and drool flowing down the side of his chin.
 
 When she saw the look on the purple-haired girl's bruised face, Kaia began to
-wonder what she and Lita looked like. Lita, shirtless and missing a shoe, was
+wonder what she and Sata looked like. Sata, shirtless and missing a shoe, was
 supporting Kaia whose hair was still standing on end from being electrocuted
-countless times. The guardGorilla pulled up a pair of chairs for Kaia and Lita.
-As soon as she helped Kaia sit down in the chair closest to door, Lita crossed
+countless times. The guardGorilla pulled up a pair of chairs for Kaia and Sata.
+As soon as she helped Kaia sit down in the chair closest to door, Sata crossed
 her arms in front of her exposed chest and sat down in the chair in between
-Kaia and the purple-haired girl. Turning towards the purple-haired girl, Lita
+Kaia and the purple-haired girl. Turning towards the purple-haired girl, Sata
 tried to start a conversation.
 
 "I think what you did in the gym was awesome!"
@@ -404,18 +408,18 @@ tried to start a conversation.
 of the taserTutor tasks. She got fried, then the securitySimians got her. I
 tried to rescue her, but they got me too and brought us both here."
 
-When the purple-haired girl did not respond, Lita continued.
+When the purple-haired girl did not respond, Sata continued.
 
-"My name is Lita. My friend is Kaia. What's your name?"
+"My name is Sata. My friend is Kaia. What's your name?"
 
 "Dela."
 
 "Hi Dela! I'd shake your hand, but my hands are full."
 
-Lita looked down at her arms, still crossed in front of her chest. "Very full!"
+Sata looked down at her arms, still crossed in front of her chest. "Very full!"
 she exclaimed as she wiggled her shoulders and smiled at Dela.
 
-"Can one of you give me a hand?", Lita said looking back and forth between Dela
+"Can one of you give me a hand?", Sata said looking back and forth between Dela
 and Kaia.
 
 Is she always like this?, Dela asked looking at Kaia.
@@ -429,7 +433,7 @@ Dela shook her head.
 "There are easier ways to skip the ceremony. You should have protested like
 me."
 
-"How did you smuggle in that thing that made your voice really loud?", Lita asked.
+"How did you smuggle in that thing that made your voice really loud?", Sata asked.
 
 "The gigaphone? I didn't smuggle it in. I built it inside the gym from pieces
 of broken robotic animals."
@@ -438,12 +442,12 @@ of broken robotic animals."
 
 "I built the tools I needed from pieces of broken robotic animals."
 
-Pre-empting the next question, Dela responded before Lita could ask.
+Pre-empting the next question, Dela responded before Sata could ask.
 
 "Don't ask me where I got the tools to build the tools I needed to build the
 gigaphone."
 
-"Can you teach me to build things?", Lita asked.
+"Can you teach me to build things?", Sata asked.
 
 "I'd only teach you if you were part of the revolution."
 
@@ -460,7 +464,7 @@ As if on cue, the Principal woke up noisily, send buzzBees flying in every
 direction. Disoriented and disconcerted, he looked back and forth between the
 three girls in his office. Unsure of what to do, the Principal began to tap at
 the console on his desk and mumble to himself. Whenever he looked up, it was
-always at Lita's chest. His gaze made her so uncomfortable, Lita shrunk back
+always at Sata's chest. His gaze made her so uncomfortable, Sata shrunk back
 into her chair and curled up in a ball, bringing her knees up to her chin and
 wrapping her arms around her shins.
 
@@ -469,7 +473,7 @@ wrapping her arms around her shins.
 "What happened to your other shoe? And what happened to your shirt?", he asked
 disapprovingly.
 
-Kaia watched helplessly as Lita slipped into a seizure. Luckily, Lita stayed in
+Kaia watched helplessly as Sata slipped into a seizure. Luckily, Sata stayed in
 fetal position in the chair even though her hands floated to her sides.
 
 "Nevermind, I'm pulling up the recordings.", he said, losing patience quickly.
@@ -477,11 +481,11 @@ fetal position in the chair even though her hands floated to her sides.
 Images of the ceremony showed up on the walls of the Principal's office. Kaia
 shivered when she saw herself being repeatedly electrocuted. The visions that
 were so powerful during the ceremony now seemed so distant and foreign. She saw
-that Lita tried to go to Kaia after the first few electric shocks, but a
+that Sata tried to go to Kaia after the first few electric shocks, but a
 chaseChimpanzee pulled her back to her seat on the bleachers.
 
 Everyone in the room winced when they saw Kaia get tackled by a chaseChimpanzee
-into the taserTutor. The Principal seemed to be enjoying the show. When Lita's
+into the taserTutor. The Principal seemed to be enjoying the show. When Sata's
 shirt was ripped off, he bounced in his chair with glee. After the recording
 ended, he cleared his throat and put on a serious face.
 
@@ -489,7 +493,7 @@ ended, he cleared his throat and put on a serious face.
 unsanctioned protest, destruction of school property, indecent exposure,
 resisting arrest, assault with a deadly weapon-"
 
-"What weapon?!", Lita exclaimed incredulously.
+"What weapon?!", Sata exclaimed incredulously.
 
 "The gigaphone is classified as a lethal weapon. And rightly so, it can produce
 sounds 1000 times louder than a regular megaphone. If it had been a teraphone,
@@ -512,29 +516,29 @@ against corporeal punishment in the school system?"
 Surprised to suddenly become the center of attention, Kaia felt her cheeks become flushed
 with embarrassment. She understood the reasoning behind the question. The
 school had access to all of her medical records, including her diagnoses. Kaia
-looked back and forth between Lita and Dela. She wanted to be defiant and
+looked back and forth between Sata and Dela. She wanted to be defiant and
 strong like they were. She did not want mental illness to be the reason she got
 into the mess. She wanted to be normal.
 
-"It was a protest.", Kaia lied. Lita gasped. Dela nodded approvingly.
+"It was a protest.", Kaia lied. Sata gasped. Dela nodded approvingly.
 
 "Was the protest premeditated? Did you conspired with the other two girls to
 stage the protest?", the Principal read off the screen.
 
-"Yes, I planned the whole thing, but on my own. Lita had nothing to do with it!
+"Yes, I planned the whole thing, but on my own. Sata had nothing to do with it!
 She's innocent!", Kaia said.
 
 "She is hardly innocent. Indecent exposure, interruption of a
 government-mandated ceremony, and interference with the arrest of a protester
 are serious crimes.", the Principal huffed.
 
-"Lita didn't plan for any of that to happen. She was just trying to help me."
+"Sata didn't plan for any of that to happen. She was just trying to help me."
 
 "Is this true that you had no idea about the protest plans and were not trying
-to make a political statement?", the Principal asked, turning towards Lita.
+to make a political statement?", the Principal asked, turning towards Sata.
 
 Still using her legs to shield herself from the prying eyes of the
-Principal, Lita nodded, her chin bouncing against her knees.
+Principal, Sata nodded, her chin bouncing against her knees.
 
 Turning to Dela, "Did you conspire with the other girls to stage a protest?",
 the Principal asked.
@@ -554,7 +558,7 @@ three years in juvenile detention."
 "Satalitastra Azimuta, you are found guilty of all charges and are sentenced to
 one year in juvenile detention."
 
-"Well, our high school careers are really off to a great start.", Lita said
+"Well, our high school careers are really off to a great start.", Sata said
 somberly.
 
 "Your sentences can be suspended and you can be allowed to begin your high
@@ -572,11 +576,11 @@ friends?"
 
 "I don't want friends, I want to smash the system!"
 
-"You can't start a revolution from inside prison.", Lita said.
+"You can't start a revolution from inside prison.", Sata said.
 
 "I don't care. I stand by what I did and said."
 
-While Lita kept trying to convince Dela, Kaia looked at the Principal, who had
+While Sata kept trying to convince Dela, Kaia looked at the Principal, who had
 zoned out and tapping listlessly on his desk console.
 
 "He wants you to refuse, so he can send you to prison and not have
@@ -602,7 +606,7 @@ have to deal with the disavowal statements. Then, you all will have to go
 through the initiation ceremony, find community service opportunities, and
 complete the required community service hours in addition to your studies."
 
-"That honestly sounds better than going to prison.", Lita said.
+"That honestly sounds better than going to prison.", Sata said.
 
 "If you accept the terms, I can assure you that high school will be a living
 hell for you. Given the events that occurred today, it is almost certain that
@@ -628,7 +632,7 @@ the time even if I blindly guessed that everyone would go to prison.
 Nevertheless, you can trust me when I say by accepting the terms you will only
 be setting yourselves up for disappointment."
 
-"It's better to try and fail, then to never try at all.", Lita said.
+"It's better to try and fail, then to never try at all.", Sata said.
 
 "I disagree. The penal system is really not that bad. Plenty of people go to
 prison voluntarily to avoid the perils of a life in poverty. In prison, you
@@ -647,7 +651,7 @@ importance. Of course, I also cannot abandon my dear son Pert."
 The Principal called up an image of a young man flexing his muscles and
 sticking out his tongue.
 
-"That's the guy who was heckling us during the ceremony!", Lita exclaimed.
+"That's the guy who was heckling us during the ceremony!", Sata exclaimed.
 
 "He is quite the precocious young man.", the Principal said fondly.
 
@@ -666,7 +670,7 @@ The Principal stopped when he realized that he was hurting his own argument.
 "Fine, I'll accept, but that doesn't mean I'm going to be friends with you two
 losers.", Dela huffed.
 
-"I can tell we're going to get along swimmingly.", Lita quipped.
+"I can tell we're going to get along swimmingly.", Sata quipped.
 
 "We are ready to sign the statements.", Kaia said to the Principal, trying to
 move things along before Dela had a chance to change her mind.
@@ -692,28 +696,28 @@ accounts. It is not my job to explain legalese to you. I told you that
 accepting the terms was going to be a huge burden on everyone!"
 
 After going over the statement again, Kaia placed her palms on the desk to sign
-the statement. A few moments later, Lita did the same. The two girls turned
+the statement. A few moments later, Sata did the same. The two girls turned
 their attention to Dela, who was staring at the statement with clenched fists.
 
 When Dela noticed the other two girls looking at her, she exploded.
 
 "This is bull-"
 
-"Just sign it already, so we can get out of here!", Lita pleaded.
+"Just sign it already, so we can get out of here!", Sata pleaded.
 
 Dela slammed her palms on the desk to sign the statement and proceeded to kick
 the desk repeatedly.
 
 "That's real mahogany!", the Principal lamented.
 
-"Come on. Help me lift Kaia.", Lita said pulling Dela with one hand and
+"Come on. Help me lift Kaia.", Sata said pulling Dela with one hand and
 covering herself with the other hand.
 
-As soon as Lita got up from her chair, the Principal became entranced and soon
+As soon as Sata got up from her chair, the Principal became entranced and soon
 forgot about any damage that his desk might have sustained.
 
 Exiting the Principal's office required a team effort. It took all of Kaia's
-strength just to hold onto the other girls. With Lita trying to cover herself,
+strength just to hold onto the other girls. With Sata trying to cover herself,
 it was up to Dela to open the door. As soon as they made it past the door, they
 were greeted by a familiar voice.
 
@@ -731,19 +735,19 @@ The boys went berserk with laughter.
 "You had all that time since the ceremony and that was the best you could come
 up with?" Dela asked.
 
-Looking over at Lita, Kaia noticed that her friend was having a seizure. Kaia
-watched powerlessly as the hand that was covering Lita's chest drifted down in
+Looking over at Sata, Kaia noticed that her friend was having a seizure. Kaia
+watched powerlessly as the hand that was covering Sata's chest drifted down in
 the front of her.
 
 "Look fellas, this one is ready for me.", said Pert as he moved forward with
-his hands reaching out towards Lita's chest. Dela swung at Pert with her free
-hand, while kicking him in the shins. Kaia tried to pull Lita back away from
-Pert, but was too weak to move Lita very far. Kaia opened her mouth to scream
+his hands reaching out towards Sata's chest. Dela swung at Pert with her free
+hand, while kicking him in the shins. Kaia tried to pull Sata back away from
+Pert, but was too weak to move Sata very far. Kaia opened her mouth to scream
 for help, but before she could make a sound, a historianHummingbird crashed
 into the side of Pert's face, sending him crashing to the floor.
 
 Dela gave Pert one more kick before pulling the other two girls through the
-semicircle of stunned boys. After Lita recovered, she was dazed and confused,
+semicircle of stunned boys. After Sata recovered, she was dazed and confused,
 but she understood the need to run. Kaia's feet could barely keep from dragging
 on the ground while the other two girls carried her down the hallway.
 
@@ -770,13 +774,13 @@ herself with confidence.
 
 "Apologies, I am not sure what you mean.", the girl replied.
 
-"Your eyes were glowing in the dark.", Lita explained.
+"Your eyes were glowing in the dark.", Sata explained.
 
 "And you looked like a spider." Kaia added.
 
 "I can assure you that we are not spiders.", the girl replied.
 
-"Why do your eyes glow in the dark?", Lita persisted.
+"Why do your eyes glow in the dark?", Sata persisted.
 
 "I think you were seeing things. Sometimes when people are afraid of the dark,
 their minds play tricks on them.", the girl replied.
@@ -787,7 +791,7 @@ their minds play tricks on them.", the girl replied.
 "You mustn't tell anyone anything!", the girl replied.
 
 "It makes sense that Lunkers would want to work in a dark theater. It must
-remind you of home.", Lita offered.
+remind you of home.", Sata offered.
 
 "Explain the spider eyes.", Dela said letting go of Kaia and holding up two
 fingers on each hand next to her eyes.
@@ -798,7 +802,7 @@ other and tilted their heads together.
 "We walk together like this because it enhances our night vision.", the girl
 explained.
 
-"You two look really cute together.", Lita said smiling at them warmly.
+"You two look really cute together.", Sata said smiling at them warmly.
 
 "Ha, I think the night vision enhancement isn't the only reason they can't keep
 their hands off of each other.", Dela said laughing.
@@ -811,24 +815,24 @@ Dela did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
 
 "Stop it, Dela.", Kaia said, kicking her.
 
-"What are your names?", Lita said, trying to smooth things over.
+"What are your names?", Sata said, trying to smooth things over.
 
 "My name is Aira.", said the girl.
 
 "I am Ryn.", said the boy.
 
-"I'm Lita, this is Kaia, and next to her is Dela. Nice to meet you both. I'd
-shake your hands, but my hands are full.", Lita said.
+"I'm Sata, this is Kaia, and next to her is Dela. Nice to meet you both. I'd
+shake your hands, but my hands are full.", Sata said.
 
 "Don't say it.", Dela warned.
 
-"Do you want me to lend you a shirt from the theater?" Aira said to Lita.
+"Do you want me to lend you a shirt from the theater?" Aira said to Sata.
 
-Lita nodded emphatically.
+Sata nodded emphatically.
 
 "Do you want to come with me to dressing room so you can try a few things on?"
 
-Lita looked at Kaia. "Kaia is hurt, do you have a place she can rest?"
+Sata looked at Kaia. "Kaia is hurt, do you have a place she can rest?"
 
 "Yeah, I would love to not have to lug this loser around anymore.", Dela added.
 
@@ -839,8 +843,8 @@ Lita looked at Kaia. "Kaia is hurt, do you have a place she can rest?"
 "Ok, Ryn and I built a secret bed so we could sleep in the theater during
 breaks from work."
 
-During the awkward silence that ensued, Kaia saw Lita was tempted to make a
-joke but held back. Unlike Lita, Dela couldn't resist.
+During the awkward silence that ensued, Kaia saw Sata was tempted to make a
+joke but held back. Unlike Sata, Dela couldn't resist.
 
 "You have a secret bed? That you built yourselves, so you could sleep together?
 Is that a normal thing for Lunkers?", Dela asked smiling mischievously.
@@ -852,14 +856,14 @@ doing anything to spice it up? Trying out a new pillow, maybe?"
 
 Kaia was furious. "They're trying to help us and you keep bullying them!"
 
-"Ryn, show Dela and Kaia were the bed is hidden. I'll take Lita to the dressing
+"Ryn, show Dela and Kaia were the bed is hidden. I'll take Sata to the dressing
 room."
 
 "We saw the recording of the ceremony today. We think you are all very brave.",
 Ryn said trying to diffuse the situation. "I thought the gigaphone you built
 was great. I like making things too.", Ryn said to Dela shyly.
 
-Dela waited until Lita and Aira were out of earshot. "Have you built any
+Dela waited until Sata and Aira were out of earshot. "Have you built any
 special recently? Maybe a device to help your sister sleep?" Dela continued,
 "Something to knock her out so you can knock her up!"
 
@@ -885,18 +889,18 @@ Ryn helped Kaia to her feet and started walking with her in the direction of the
 Ryn, your sister might get jealous! She's used to having you all to herself,
 she might not like sharing you with Kaia."
 
-Dela continued to taunt Ryn all the way to secret bed. Lita and Aira were
+Dela continued to taunt Ryn all the way to secret bed. Sata and Aira were
 already there waiting for them.
 
-"What took you so long? I was worried", Lita said.
+"What took you so long? I was worried", Sata said.
 
-Kaia didn't respond, she just looked angrily at Dela. Sensing the tension, Lita
+Kaia didn't respond, she just looked angrily at Dela. Sensing the tension, Sata
 tried to change the subject.
 
-"How do I look?", Lita asked.
+"How do I look?", Sata asked.
 
-Lita twirl and struck a pose. She was wearing a long flowing shirt
-covered by an elegant bodice. The sight of Lita took Kaia's breath away.
+Sata twirl and struck a pose. She was wearing a long flowing shirt
+covered by an elegant bodice. The sight of Sata took Kaia's breath away.
 
 "Like a guardGorilla in a milk maid outfit.", Dela said.
 
@@ -904,9 +908,9 @@ covered by an elegant bodice. The sight of Lita took Kaia's breath away.
 effortlessly. Kaia stumbled and fell, landing on her hands and knees.
 
 "Looks like I hit a nerve! I've been making fun of Ryn for ages without much of a
-response. Then, I say one harmless thing about Lita and Kaia flips out."
+response. Then, I say one harmless thing about Sata and Kaia flips out."
 
-"Sorry Ryn, looks like Kaia only cares about Lita, I guess you are stuck with
+"Sorry Ryn, looks like Kaia only cares about Sata, I guess you are stuck with
 your sister for now."
 
 Kaia couldn't hear Dela anymore over the howling wind tearing through the
@@ -924,7 +928,7 @@ Did she have a chance to change the future? If she answered the remaining
 questions, could she turn everything around? Kaia knew what she had to do. She
 would continue through the ceremony, deny any political motivations, blame
 everything on her mental illness, and anything else she needed to do to keep
-Lita safe, even if it meant that Dela would go to prison for years. Kaia began
+Sata safe, even if it meant that Dela would go to prison for years. Kaia began
 to feverishly work on the problem displayed on the console.
 
 She nearly finished with the task when the tendrils started restricting her
@@ -954,7 +958,7 @@ drop of blood in her for eons, she was dessicated to the core. What was going
 on? Tiny drops of water were falling down on the mummy queen's face wherever
 she went. How could there be rain on Mars? She looked up and saw the
 constellations rearranging into a face that filled the heavens. The mummy queen
-recognized the face in the stars. It was Lita. The raindrops were coming from
+recognized the face in the stars. It was Sata. The raindrops were coming from
 her.
 
 "Come back to me, please.", the sky whispered. It was no use. There was nothing
@@ -963,35 +967,35 @@ drops of water! The sky sighed and began to squeeze the horizons until the land
 where the mummy queen stood disappeared completely and the mummy queen was left
 floating in the void. The constellations warped and stretched until they formed
 a single brilliant ball of light. The ball of light grew arms, legs, and a
-head, taking the form of Lita. Lita reached her hand out to the mummy queen and
+head, taking the form of Sata. Sata reached her hand out to the mummy queen and
 the tendrils began to break apart, revealing the dried out cadaver underneath.
 
-"Kaia.", Lita said. "Yes", the mummy queen thought, "that was once my name. In
+"Kaia.", Sata said. "Yes", the mummy queen thought, "that was once my name. In
 a past life? Or a future one?"
 
 The light began to burn away her parched skin and brittle bones. Beneath it
-all, a dim flicker of light began to shine. Could I still be saved? Lita cupped
-her hands around the flicker and blew into it gently. Each time Lita blew into
-her hands, the flicker grew stronger, eventually growing into a flame. As Lita
+all, a dim flicker of light began to shine. Could I still be saved? Sata cupped
+her hands around the flicker and blew into it gently. Each time Sata blew into
+her hands, the flicker grew stronger, eventually growing into a flame. As Sata
 drew in breath, Kaia reached out from inside the flame and gently touched the
-sides of Lita's face. When Lita leaned into blow on the flame again, Kaia
+sides of Sata's face. When Sata leaned into blow on the flame again, Kaia
 pulled her in and kissed her on the lips, sucking her life giving breathe deep
 into her lungs.
 
 Kaia's body convulsed on the hard concrete floor of the theater. She was
-hyperventilating, in a panic. Lita lifted Kaia's head up off the ground and
+hyperventilating, in a panic. Sata lifted Kaia's head up off the ground and
 cradled it in her arms. She smoothed Kaia's hair with one hand and supported
 Kaia's neck with the other. Soon the convulsions were replaced by shivers and
-Kaia's eyes focused on Lita's face. Still trembling, Kaia looked up at Lita.
-Tears were falling from Lita's eyes onto Kaia's face.
+Kaia's eyes focused on Sata's face. Still trembling, Kaia looked up at Sata.
+Tears were falling from Sata's eyes onto Kaia's face.
 
 "Is she alive?", Dela asked impatiently.
 
-"Yes. No thanks to you.", Lita replied sharply.
+"Yes. No thanks to you.", Sata replied sharply.
 
 "Let's get her into bed.", Aira said.
 
-Kaia was underwater, looking up at Lita in the stars above. An octopus obscured
+Kaia was underwater, looking up at Sata in the stars above. An octopus obscured
 the view of the sky and Kaia tried to shoo it away, but it extended four pairs
 of tentacles towards Kaia and carried her with to onto a tuft of seaweed. Kaia
 suddenly felt very grateful to the octopus. Reaching out her hands, she began
@@ -1000,39 +1004,39 @@ blissfully exchanging caresses with the octopus when she had a startling
 thought. If I'm underwater, how is it that I'm breathing? Kaia shot up,
 throwing the tentacles off of her, and gasping for air.
 
-"It's ok, Kaia.", Lita said reassuringly, "You're safe now."
+"It's ok, Kaia.", Sata said reassuringly, "You're safe now."
 
-Lita laid down next to Kaia in the bed, cradling Kaia in her arms. Kaia buried
-her face in Lita's shirt just above the bodice. The smell of the starchy shirt
-mixing with Lita's scent was heavenly. Soon Kaia stopped trembling and her body
-relaxed. Kaia lifted her face up to look at Lita. Lita was so radiant and
+Sata laid down next to Kaia in the bed, cradling Kaia in her arms. Kaia buried
+her face in Sata's shirt just above the bodice. The smell of the starchy shirt
+mixing with Sata's scent was heavenly. Soon Kaia stopped trembling and her body
+relaxed. Kaia lifted her face up to look at Sata. Sata was so radiant and
 beautiful that Kaia began to cry.
 
-Lita leaned in a kissed Kaia's cheeks, catching the fresh tears with her lips.
-Kaia fell asleep with a smile on her face as Lita slowly showered her with
-kisses. The blissful look on Kaia's face warmed Lita's heart. They were
-together. They were safe, at least for now. The world melted away. Lita did not
-realize how she was exhausted until now. With one arm still around Kaia, Lita
+Sata leaned in a kissed Kaia's cheeks, catching the fresh tears with her lips.
+Kaia fell asleep with a smile on her face as Sata slowly showered her with
+kisses. The blissful look on Kaia's face warmed Sata's heart. They were
+together. They were safe, at least for now. The world melted away. Sata did not
+realize how she was exhausted until now. With one arm still around Kaia, Sata
 tugged futilely at the bindings of her bodice.
 
 "Let me help you", Aira said, as she deftly undid the bindings of the bodice
-and pulled it out from under Lita. This kind gesture surprised Lita so much
-that she began to cry. Through the tears, Lita looked at Aira with gratitude.
+and pulled it out from under Sata. This kind gesture surprised Sata so much
+that she began to cry. Through the tears, Sata looked at Aira with gratitude.
 
-"Don't cry.", Aira said, unfastening and removing Lita's heels and then pulling
-up the blankets to cover Kaia and Lita, "You're safe here and I'll stay and
+"Don't cry.", Aira said, unfastening and removing Sata's heels and then pulling
+up the blankets to cover Kaia and Sata, "You're safe here and I'll stay and
 watch over you."
 
-Unable to recall anyone other than Kaia being kind to her, Lita let out a sob.
+Unable to recall anyone other than Kaia being kind to her, Sata let out a sob.
 Afraid she had said something wrong, Aira stepped backwards.
 
 "I'm going to turn off the lights."
 
-As the theater descended into darkness, Lita snuggled up to Kaia, greedily
+As the theater descended into darkness, Sata snuggled up to Kaia, greedily
 interlacing their legs and pulling Kaia closer with her arms. Recalling how
-Kaia often breathed in deep when they hugged, Lita rested her nose on top of
+Kaia often breathed in deep when they hugged, Sata rested her nose on top of
 Kaia's head and filled her lungs with the scent of Kaia's hair. The darkness
-around Lita exploded with a kaleidoscope of shimmering colors. With another
-breath, Lita began to float in between the colors as they gently twinkled
-around her. By the third breath, Lita was in another plane of existence
+around Sata exploded with a kaleidoscope of shimmering colors. With another
+breath, Sata began to float in between the colors as they gently twinkled
+around her. By the third breath, Sata was in another plane of existence
 entirely, gently drifting off to sleep in the arms of her lifelong best friend.

@@ -5,16 +5,16 @@ hear her crying. She had been drifting in and out of sleep on the hard concrete
 floor of the theater, but she could not stop thinking of Kaia writhing on the
 ground during her psychotic episode. The screams were bad, but the low dull
 wailing that followed was somehow worse. It was as if Kaia had a demon inside
-her trying to claw its way out. Lita held onto Kaia the whole time, having
-seizures one after another. During the seizures, Lita's eyes stayed open, the
+her trying to claw its way out. Sata held onto Kaia the whole time, having
+seizures one after another. During the seizures, Sata's eyes stayed open, the
 look of concern on her face would melt away, she would stare off into void.
-When Kaia stopped breathing, Lita responded immediately by giving her CPR. Did
-Lita already know what to do, because she had been in this situation before?
-Dela felt absolutely powerless. She had never known anyone like Lita and Kaia.
+When Kaia stopped breathing, Sata responded immediately by giving her CPR. Did
+Sata already know what to do, because she had been in this situation before?
+Dela felt absolutely powerless. She had never known anyone like Sata and Kaia.
 Was she responsible for what happened?
 
 "It's not my fault that they're like that.", Dela thought to herself, getting
-up off the ground and looking at Kaia and Lita lying peacefully in the secret
+up off the ground and looking at Kaia and Sata lying peacefully in the secret
 bed. Dela wanted to lay down in the secret bed next to them, it looked really
 nice, but she was wracked by feelings of guilt and did not feel she deserved to
 be comfortable.
@@ -32,7 +32,7 @@ sister is much better. She is a people person.", Ryn answered.
 
 "Well, then bring her here. I'd rather talk to her."
 
-"She is watching over Lita and Kaia. If they wake up in the darkness-"
+"She is watching over Sata and Kaia. If they wake up in the darkness-"
 
 "Shut up, turn on a flashlight, and show me the way out of here."
 
@@ -456,17 +456,17 @@ enabled for yourself. This is still your first day in the MIG and as far as I
 understand your first day in high school, so maybe we should take things one
 step-"
 
-"It's been a very productive day so far." Dela said still tapping at the
-console. "I made great new friends and found a place where I truly feel I
-belong. Thank you for accepting me into your group and making me feel welcome."
-Dela said, turning to face the boys.
+"It's been a crazy first day so far." Dela said still tapping at the console.
+"I made great new friends and found a place where I truly feel I belong. Thank
+you for accepting me into your group and making me feel welcome." Dela said,
+turning to face the boys.
 
 Ben grabbed his chest overcome with emotion, almost falling off of his
-deactivated powerskates. Ryn and Ed both started to cry and held onto each
-other for support. All three boys looked at Dela with admiration and affection.
-They were caught completely off guard by swarm of buzzBees Dela sent after
-them. On her way out of the workshop, Dela commanded the chaseChimps and the
-guardGorilla to keep the boys in the workshop.
+deactivated powerskates. Ryn and Ed both held onto each other for support,
+wiping tears from their eyes. All three boys looked at Dela with admiration and
+affection. They were caught completely off guard by swarm of buzzBees Dela sent
+after them. On her way out of the workshop, Dela commanded the chaseChimps and
+the guardGorilla to keep the boys in the workshop.
 
 Dela sped down the hallway towards the Principal's office, but she turned
 around when she heard a fierce battle cry behind her. It was Ed, covered in
@@ -495,7 +495,7 @@ over Dela's powerskate.
 Dela recoiled in horror, then she instinctively kicked the Principal in the
 face repeatedly, sending specks of vomit flying in all directions.
 
-"Get the pardons! For me, Kaia, and Lita."
+"Get the pardons! For me, Kaia, and Sata."
 
 "I don't haf that aufority!"
 
@@ -743,7 +743,7 @@ Principal and pulls them out of the school while balancing on only one
 powerskate. Once outside the Principal purchases a motorcycle with a sidecar at
 the microtransit vending machine and then after Dela brings the motorcycle
 around the Principal lifts Ryn onto Dela's lap and they try to escape. In the
-final moments, Dela reflects on Ben, Ed, Ryn, Aira, Lita, and Kaia, starting to
+final moments, Dela reflects on Ben, Ed, Ryn, Aira, Sata, and Kaia, starting to
 cry when she thought about how they might have been friends if things were
 different. She thinks about feeling powerless to stop her abusive father and
 substance dependent mother. As she is knocked off the motorcycle from behind
@@ -794,7 +794,7 @@ from beating her when he got angry. She could not do anything to keep her
 mother from self-medicating her worries away. Being in control, even if it was
 part of one day, was worth any cost for Dela. Even if she knew that she was
 going to die, she would not have changed much about today. She just wished she
-could have had a chance to apologize Kaia and Lita. Maybe if things were
+could have had a chance to apologize Kaia and Sata. Maybe if things were
 different, they could've been friends? Dela's eyes filled with tears.
 
 Dela thinks about Ben and Ed too, and the life she could have had working in
