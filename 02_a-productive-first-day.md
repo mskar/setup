@@ -475,7 +475,11 @@ in the hallway to attack Ed. Ed started to slow down as the animalAutomatons
 began to pile on. Before going around the corner, Dela saw Ed under a mountain
 of animalAutomatons, valiantly trying to fight them all off.
 
-Dela heads to the Principal's office to strongarm him into requesting a pardon.
+Dela burst into the Principal's office and commanded the animalAutomatons inside to stand down.
+
+Turning to the Principal,
+
+to strongarm him into requesting a pardon.
 She stands on his desk and holds an activated powerskate next to his face. The
 Principal vomits all the skate short-circuiting it.
 
