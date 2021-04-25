@@ -1,22 +1,38 @@
 Characters:
-- Kaiakeilaila Erkadia (echo): will learn that she was imprinted with the consciousness of
+- Kaiakelaisla Erkadia (Echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten long ago
-- Satalitastra Azymuta (human): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
-- Feravikadela Fridzia (human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
-- Beniaminakim (Ender): will learn that his consciousness was created in the digital world and that his body was synthesized by his "parents" to test the ability of people to move back and forth between the physical and digital worlds
-- Edvardodaren (Ender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Ed's consciousness during their childhood with the ideals of bravery, etc.
-- Zekianikivor (echo): will divulge that has been imprinted with the consciousness of an Earthling scientist who was married to a Martian woman, became disillusioned, created the system of echos, destroyed Mars, and orchestrated the plan to imprint his consciousness and his wife's consciousness on future generations of Earthlings
-- Ursauralmora (Ender): will divulge that she was a man who transcended and returned as woman to try to realize her dream of becoming a mother
-- Rynzomirozyn (Mimic): will divulge that he is pregnant with Keia's child and that he needs regular contact with her or else he will miscarry
-- Lansealotsek (Mimic): Ryn's best friend
+- Satalitastra Azymuta (Human): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
+- Feravikadela Fridzia (Human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
+- Benairwyz (Ender): will learn that his consciousness was created in the digital world and that his body was synthesized by his "parents" to test the ability of people to move back and forth between the physical and digital worlds
+- Edsvardos (Ender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Ed's consciousness during their childhood with the ideals of bravery, etc.
+- Zekianrov (Echo): will divulge that has been imprinted with the consciousness of an Earthling scientist who was married to a Martian woman, became disillusioned, created the system of echos, destroyed Mars, and orchestrated the plan to imprint his consciousness and his wife's consciousness on future generations of Earthlings
+- Ursaultamora (Ender): will divulge that she was a man who transcended and returned as woman to try to realize her dream of becoming a mother
+- Rynzomirz (Mimic): will divulge that he is pregnant with Keia's child and that he needs regular contact with her or else he will miscarry
+- Lanseltos (Mimic): Ryn's best friend
 - Airanilaresa (Mimic): Ryn's sister, then Taz's lover
-- Tazolntsivan Kransal (Lunker): Strike force officer, then Aira's lover
-- Melitidionis Naiksos: School Principal, then Administrative Assistant to Dela
+- Tazoltvan Kransal (Lunker): Strike force officer, then Aira's lover
+- Meliedion Naiksos: School Principal, then Administrative Assistant to Dela
 
-In the game that Keia and Ed play after they are sent home from school,
-Keia is a thief and Ed is a knight.
-He constantly lets her get all of the power-ups and the XP from important enemies.
-When Ben and Ryn join, Ben is a summoner mage and Ryn is a priest.
+Female names are created from given name, mother's name, maternal grandmother's name, e.g. Kaia, Kela, Isla
+Male names are created from given name, father's name, paternal grandfather's name, e.g. Zek, Ian, Rov
+
+Bring in a relic character to be a potential partner for Dela. The silos are
+all connected. The AI explains that there is a survivor from the war between
+sinistrae and dekstrae intact in stasis. The AI explains that Eiva is pregnant
+and she was selected to be the first person to be awakened as part of the plan
+to bring about the resurgence of sinistrae. The AI tells Fera that she should
+awaken Eiva and start introducing her to the new world and meanwhile Eiva will
+teach Fera how to use sinistrae powers. When Eiva awakens she admits that Eiva
+was not originally her name, but the AI said that she would pick a new name for
+her that matched the time when she was awakened. Eiva's husband died trying to
+protect the silos and keep them hidden. The AI does not try to create a full
+name for Eiva and instead suggests that she add Fera's mother's name and Fera's
+maternal grandmother's name (Eivavikadela) and pretend she is Fera's sister.
+
+In the game that Keia and Ed play after they are sent home from school, Keia is
+a thief and Ed is a knight. He constantly lets her get all of the power-ups and
+the XP from important enemies. When Ben and Ryn join, Ben is a summoner mage
+and Ryn is a priest.
 
 1. Keia is nervous about starting high school
     - In the public school system, all students are shocked by a machine called
