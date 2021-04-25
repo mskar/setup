@@ -1,6 +1,6 @@
 ## Chapter 2: A productive first day
 
-"Why am I like this?", Dela thought as she covered her mouth so no one would
+"Why am I like this?", Fera thought as she covered her mouth so no one would
 hear her crying. She had been drifting in and out of sleep on the hard concrete
 floor of the theater, but she could not stop thinking of Kaia writhing on the
 ground during her psychotic episode. The screams were bad, but the low dull
@@ -10,22 +10,22 @@ seizures one after another. During the seizures, Sata's eyes stayed open, the
 look of concern on her face would melt away, she would stare off into void.
 When Kaia stopped breathing, Sata responded immediately by giving her CPR. Did
 Sata already know what to do, because she had been in this situation before?
-Dela felt absolutely powerless. She had never known anyone like Sata and Kaia.
+Fera felt absolutely powerless. She had never known anyone like Sata and Kaia.
 Was she responsible for what happened?
 
-"It's not my fault that they're like that.", Dela thought to herself, getting
+"It's not my fault that they're like that.", Fera thought to herself, getting
 up off the ground and looking at Kaia and Sata lying peacefully in the secret
-bed. Dela wanted to lay down in the secret bed next to them, it looked really
+bed. Fera wanted to lay down in the secret bed next to them, it looked really
 nice, but she was wracked by feelings of guilt and did not feel she deserved to
 be comfortable.
 
 "I don't need sleep. Beds are for the weak. The only thing that matters is the
-revolution.", Dela thought as she got up and started trying to find her way out
+revolution.", Fera thought as she got up and started trying to find her way out
 of the theater in complete darkness. With each step, she probed the ground
 beneath her. She hadn't gotten very far when she noticed two glowing eyes
 observing her in the darkness.
 
-"You know you're creepy as hell.", Dela said.
+"You know you're creepy as hell.", Fera said.
 
 "Yes, I am aware of that. I am still learning how to interact with topsiders. My
 sister is much better. She is a people person.", Ryn answered.
@@ -38,12 +38,12 @@ sister is much better. She is a people person.", Ryn answered.
 
 Ryn complied immediately. "Would you like to see the maker workshop?"
 
-"Was he still trying to be friends with her?", Dela thought, "What a loser!".
+"Was he still trying to be friends with her?", Fera thought, "What a loser!".
 
-Not having any other plan, Dela nodded. The maker workshop would be a welcome
+Not having any other plan, Fera nodded. The maker workshop would be a welcome
 distraction.
 
-Arriving at the maker workshop, Dela was dumbstruck at how technologically
+Arriving at the maker workshop, Fera was dumbstruck at how technologically
 advanced and well stocked it was.
 
 "I was not expecting this place to be halfway decent. Everything else in the
@@ -56,7 +56,7 @@ any other part of the school."
 
 "They are my friends. Ben is really smart. Ed is really big and strong."
 
-Dela laughed. "And they have money to burn on all of this?"
+Fera laughed. "And they have money to burn on all of this?"
 
 "Their parents are high ranking members of the CorporateCouncil."
 
@@ -67,9 +67,9 @@ you can ask."
 
 It was no long before a thin boy wearing powerskates zipped into the maker
 shop with another boy nearly as large as a guardGorilla running in after him.
-him. The boy in power skates did a sliding stop right in front of Dela and Ryn
+him. The boy in power skates did a sliding stop right in front of Fera and Ryn
 and the other boy ran up and stopped a few steps behind him. Reaching out one
-hand to Dela and gesturing around the maker workshop with the other, "Welcome
+hand to Fera and gesturing around the maker workshop with the other, "Welcome
 to the maker shop!", the boy in power skates said. He was wearing metallic
 gloves covered with intricate patterns.
 
@@ -77,13 +77,13 @@ Turning one begloved hand towards himself, "I'm Ben." and the other begloved
 hand to boy behind him "and this is my little brother Ed.", bowing deeply "and
 we are both deeply honored to be at your service."
 
-"This is Dela.", Ryn said, "She likes making things too!"
+"This is Fera.", Ryn said, "She likes making things too!"
 
 "The gigaphone you built was impressive, considering the limited resources you
 had at your disposal.", Ed said. "Just think of what you could build in the
 maker workshop!"
 
-"I can use all this stuff?", Dela asked.
+"I can use all this stuff?", Fera asked.
 
 "Yes, of course! Let me show you around." Ed replied.
 
@@ -115,7 +115,7 @@ Ben stopped for a moment and began to scribble notes on his palm with his finger
 "That's brilliant!" Looking up from his palm, "Would you like to be the first
 member of our newly formed secret maker interest group?"
 
-"Sure.", Dela replied casually.
+"Sure.", Fera replied casually.
 
 "Excellent!" Ben responded opening a large cabinet. "I just gave you full
 access to the workshop. You can use any of the tools as long as you follow the
@@ -152,15 +152,15 @@ Again, if a MIG member acts maliciously, we can always revoke their access."
 "Well, yes, within reason. As the MIG Founder and President, I rarely exercise
 my executive powers. We put most decisions to vote."
 
-Dela took a moment to savor the idea of being able to do whatever she wanted.
-Dela noticed a container labeled Ben's Builder Bots.
+Fera took a moment to savor the idea of being able to do whatever she wanted.
+Fera noticed a container labeled Ben's Builder Bots.
 
 "You're building builder bots?"
 
 "Yes, though I prefer to call it metabuilding.", Ben said pulling out the
-container to show Dela.
+container to show Fera.
 
-Dela studied the contents of the container.
+Fera studied the contents of the container.
 "Can the builder bots build builder bots?", she asked.
 
 Ben opened his mouth to answer, but then starting scribbling furiously on his
@@ -170,7 +170,7 @@ metabuild when I can metametabuild? Brilliant!"
 
 Then looking up, "Would you like to be Vice President of the MIG?".
 
-"You don't already have a Vice President?". Dela asked looking at Ryn and Ed.
+"You don't already have a Vice President?". Fera asked looking at Ryn and Ed.
 
 "Ed and Ryn said they are both happy being Treasurer and Recordkeeper."
 
@@ -192,21 +192,21 @@ indisposed, you would exercise your executive powers."
 president. Do you want to run? Even though you'll be running unopposed, we
 still have to vote."
 
-"Ok, sure." Dela said, trying her best to sound indifferent.
+"Ok, sure." Fera said, trying her best to sound indifferent.
 
 "Excellent, with all current members present, we have quorum. All those in
-favor of Dela becoming Vice President of the MIG?"
+favor of Fera becoming Vice President of the MIG?"
 
 Ryn, Ed, and Ben all raised their hands, said "Aye!", and then all looked at
-Dela.
+Fera.
 
-When Dela realized that they were waiting for her, she raised her hand and said
+When Fera realized that they were waiting for her, she raised her hand and said
 "Aye.".
 
 "Alright, all opposed?" Ben asked, waiting for a few moments for anyone to
 object.
 
-Dela opened her mouth to say something, but decided against it.
+Fera opened her mouth to say something, but decided against it.
 
 "The vote is unanimous. Congratulations! We will hold elections at the end of
 the school year. If you like you can run for President."
@@ -236,29 +236,29 @@ I am going to make you a pair of presidentialPowergloves and a pair of
 presidentialPowerskates, like the ones I have, but I need have the exact scans
 of your hands and feet."
 
-Dela sat down in front of the synthesizer and slid her hands and into the
+Fera sat down in front of the synthesizer and slid her hands and into the
 scanner.
 
 "You do know how to skate, right?", Ben said suddenly, realizing he should have
 asked earlier.
 
-Dela nodded. Skating was Dela's refuge. She learn to build things by fixing and
+Fera nodded. Skating was Fera's refuge. She learn to build things by fixing and
 upgrading her skates. All throughout middle school, she would skate everyday
 until late in the night, skipping dinner and only coming home to avoid sleeping
 on the street. The only time she felt safe at home, was when her father was
 asleep. She would sneak in after her parents were asleep and quietly crawl into
 bed. Sometimes her father would wake up angry. Most of time, that anger would
-spill over onto her mother, but sometimes her father would wake Dela up to yell
-at her and hit her. There were a few times when he did not even wake Dela up
+spill over onto her mother, but sometimes her father would wake Fera up to yell
+at her and hit her. There were a few times when he did not even wake Fera up
 and just started hitting her while she was still sleeping in bed. If anyone
-asked about the bruises that covered her body, Dela would say that fell down
+asked about the bruises that covered her body, Fera would say that fell down
 while skating. The truth was that skating was much safer than being at home.
 
 "While the synthesizer is making your gloves and skates, I can show you how
-they work.", Ben said, then noticing that Dela had not moved since she sat
+they work.", Ben said, then noticing that Fera had not moved since she sat
 down, "Er, the scanner is done. You can pull your hands and feet out now."
 
-Dela engrossed in her thoughts, snapped out of it, retrieved her hands and feet
+Fera engrossed in her thoughts, snapped out of it, retrieved her hands and feet
 from the scanner, turning her attention to Ben.
 
 "The skates provide a top-level security clearance, so you can go anywhere in
@@ -270,7 +270,7 @@ Magnetism is most useful for tight turns, but you can also skate on any wall
 that has a high metal content, which is most of the walls in the school. Do you
 have any questions?"
 
-Dela shook her head.
+Fera shook her head.
 
 The skates are really intuitive. I am sure you will get the hang of them
 quickly. The gloves are a bit more complex. First of all, the gloves can open
@@ -279,30 +279,30 @@ on it. You can also control any AnimalAutomaton in the school. To provide a
 command, speak clearly and use gestures. The gloves also accept commands in
 sign language, but you can do almost everything with verbal commands.
 
-"I know sign language.", Dela said.
+"I know sign language.", Fera said.
 
 Ben looked shocked.
 
 "My mother was deaf for a long time before she got the implant. She taught me
 sign language, because she said that I couldn't really know her without
-learning her native language.", Dela explained.
+learning her native language.", Fera explained.
 
-In the mornings, while her father was still asleep, Dela and her mother spoke
-in complete silence using sign language. Dela would have her bag packed, hours
-before she needed to leave for school. If she heard her father waking up, Dela
+In the mornings, while her father was still asleep, Fera and her mother spoke
+in complete silence using sign language. Fera would have her bag packed, hours
+before she needed to leave for school. If she heard her father waking up, Fera
 would grab her bag and run out the door. The mornings when her father would
-sleep in were the best, Dela would sign with her mother for as long as she
-could. Her mother would tell her stories while Dela wolfed down food after
-skipping dinner the day before. When her mother's stories would make Dela
-laugh, Dela had to cover her mouth so that her laughter would not wake her
+sleep in were the best, Fera would sign with her mother for as long as she
+could. Her mother would tell her stories while Fera wolfed down food after
+skipping dinner the day before. When her mother's stories would make Fera
+laugh, Fera had to cover her mouth so that her laughter would not wake her
 father.
 
-"Dela, are you listening?"
+"Fera, are you listening?"
 
-Even though her mother took the brunt of the abuse, Dela was secretly jealous
+Even though her mother took the brunt of the abuse, Fera was secretly jealous
 of her mother. When her father would start yelling, her mother could deactivate
-her implant and pretend she was still listening. Dela wished she could turn off
-her hearing or at least turn off her memory. Dela would cover her ears, but she
+her implant and pretend she was still listening. Fera wished she could turn off
+her hearing or at least turn off her memory. Fera would cover her ears, but she
 couldn't close her ears the way she could close her eyes. Instead, she had to
 absorb all of the yelling, often for many hours. Every horrible thing her
 father said remained burned in her memory.
@@ -317,38 +317,38 @@ the shock drains the glove fuel cells. After delivering a shock, the gloves are
 useless until they are recharged. The electric shocks are only for an
 emergency, do you understand?"
 
-When Dela first got her period, her mother showed her a hidden bag filled with
-supplies and explained the emergency plan. If Dela's father ever tried to take
-off Dela's clothes or took his clothes off in front of her, Dela was supposed to
-yell as loud as she could, then while her mother distracted her father, Dela
+When Fera first got her period, her mother showed her a hidden bag filled with
+supplies and explained the emergency plan. If Fera's father ever tried to take
+off Fera's clothes or took his clothes off in front of her, Fera was supposed to
+yell as loud as she could, then while her mother distracted her father, Fera
 was supposed to grab the hidden bag, run out the door, and never come back.
 
-"Dela, maybe you want to sit down and take a break?"
+"Fera, maybe you want to sit down and take a break?"
 
 "No, I don't need a break."
 
-Dela saw that the synthesizer had finished.
+Fera saw that the synthesizer had finished.
 
 "I'm ready to try out the gloves and skates."
 
 "Ok, but let me know if need to rest for a bit."
 
-"I'm fine.", Dela said sharply. She opened the lid of the synthesizer and put
+"I'm fine.", Fera said sharply. She opened the lid of the synthesizer and put
 on the skates and the gloves.
 
 "Now, you'll want to take it slow for a-", Ben started.
 
-Dela hop onto the skates and whizzed up to a guardGorilla watching over the
+Fera hop onto the skates and whizzed up to a guardGorilla watching over the
 maker workshop and started signing at him furiously. The guardGorilla hopped
-onto its hands and started to dance upside-down. Dela called three ChaseChimps
+onto its hands and started to dance upside-down. Fera called three ChaseChimps
 over and made them cannonball one by one onto the feet of the guardGorilla.
 Ben, Ryn, and Ed looked in on in shock as the guardGorilla started to juggle
-the ChaseChimps with its feet. Dela turned towards a wall and with a few signs
+the ChaseChimps with its feet. Fera turned towards a wall and with a few signs
 had a swarm of buzzBees and wakeupWasps hovering in front of her. She had the
 swarm form different shapes in the air and then sent all of the robotic bugs
 back to their nests.
 
-"Ok, I think I'm getting the hang of this.", Dela said stopping right in front
+"Ok, I think I'm getting the hang of this.", Fera said stopping right in front
 of the three stunned boys.
 
 "It appears you have a natural affinity to the skates and gloves. I believe you
@@ -361,7 +361,7 @@ unfurling a worn scroll with hand-drawn images and intricate hand-written text.
 This ancient scroll holds the long-forgotten secrets of the droneDancers of the
 distant past.
 
-Studying the scroll, Dela noticed something strange. "Ben, is that your name at the
+Studying the scroll, Fera noticed something strange. "Ben, is that your name at the
 bottom there?"
 
 Ben looked embarrassed. "Yes, it is."
@@ -376,20 +376,20 @@ Ben looked embarrassed. "Yes, it is."
 thinking that no one is going to care about a martial art developed by a
 teenager."
 
-"You might be right. Let me see that scroll." Dela said starting to take the
+"You might be right. Let me see that scroll." Fera said starting to take the
 scroll from Ben.
 
 "Be careful with that, it's ancient!", Ben said sharply.
 
-Dela looked at him sternly.
+Fera looked at him sternly.
 
 "You're right. It is not ancient. I burnt the edges and then poured tea all
-over it." Ben said, surrendering the scroll to Dela.
+over it." Ben said, surrendering the scroll to Fera.
 
-Dela looked at the scroll intensely. "It's very convincing. If it weren't for
+Fera looked at the scroll intensely. "It's very convincing. If it weren't for
 the signature, I might not have figured it out right away."
 
-"You can send flying animalAutomatons into your opponents?" Dela asked.
+"You can send flying animalAutomatons into your opponents?" Fera asked.
 
 "Yes, any animalAutomatons can be used, but birds have the right combination of
 speed and mass."
@@ -404,21 +404,21 @@ speed and mass."
 used droneDancing against anyone. I've never had a sparing partner, so I've
 only done the kata."
 
-Dela used her gloves to summon two historianHummingbirds. "En garde.", She
+Fera used her gloves to summon two historianHummingbirds. "En garde.", She
 said, looking menacingly at Ben.
 
 "To be honest, I don't think you are ready for sparing. We should start with
 some kata. Here, I can-"
 
-Dela sent her two birds flying at Ben's head from two different angles. Ben
+Fera sent her two birds flying at Ben's head from two different angles. Ben
 pivoted to avoid the birds, lost control of his skates, and landed on ground.
-Dela had the birds land on Ben's chest.
+Fera had the birds land on Ben's chest.
 
 "Do you yield?", she asked triumphantly.
 
-"Yes, yes!", Ben said quickly. Dela helped him to his feet.
+"Yes, yes!", Ben said quickly. Fera helped him to his feet.
 
-"Do you want to go again?", Dela asked innocently.
+"Do you want to go again?", Fera asked innocently.
 
 "No, no, I think that's enough for today. "
 
@@ -428,16 +428,16 @@ Some limit to their power?"
 "A fail safe? That's an interesting idea. The gloves are tailored to their
 specific wearer, so they could not be used by anyone else."
 
-"If you wanted to turn off someone else's gloves, would you be able to?", Dela asked.
+"If you wanted to turn off someone else's gloves, would you be able to?", Fera asked.
 
 Ben thought for a while. "Yes, I would need to access a console to deactivate a
 pair of gloves."
 
-"Can you show me?", Dela asked sweetly.
+"Can you show me?", Fera asked sweetly.
 
 "Of course!", Ben said expertly gliding up to a console. "First, you need to find the user. Then you can see all of their permissions. For example, you have two pieces of linked equipment, the gloves and skates, workspace reservations right, and access to the entire maker workshop."
 
-"Let me see." Dela said moving up to the console, "Do changes take effect right
+"Let me see." Fera said moving up to the console, "Do changes take effect right
 away or do you have to confirm them?"
 
 "They take effect immediately, so please be careful!"
@@ -450,49 +450,49 @@ away or do you have to confirm them?"
 
 "Yes, that's correct. Just move the icons, just like that. I knew the interface I designed was intuitive, but I never thought anyone would be able to figure it out without an explanation. I guess my user interface design skills are better than I suspected.", Ben said proudly.
 
-"Er, Dela, you seem be locking me out of the system. Could you please restore
+"Er, Fera, you seem be locking me out of the system. Could you please restore
 my permissions? Also, I think we should discuss the permissions that you
 enabled for yourself. This is still your first day in the MIG and as far as I
 understand your first day in high school, so maybe we should take things one
 step-"
 
-"It's been a crazy first day so far." Dela said still tapping at the console.
+"It's been a crazy first day so far." Fera said still tapping at the console.
 "I made great new friends and found a place where I truly feel I belong. Thank
-you for accepting me into your group and making me feel welcome." Dela said,
+you for accepting me into your group and making me feel welcome." Fera said,
 turning to face the boys.
 
 Ben grabbed his chest overcome with emotion, almost falling off of his
 deactivated powerskates. Ryn and Ed both held onto each other for support,
-wiping tears from their eyes. All three boys looked at Dela with admiration and
-affection. They were caught completely off guard by swarm of buzzBees Dela sent
-after them. On her way out of the workshop, Dela commanded the chaseChimps and
+wiping tears from their eyes. All three boys looked at Fera with admiration and
+affection. They were caught completely off guard by swarm of buzzBees Fera sent
+after them. On her way out of the workshop, Fera commanded the chaseChimps and
 the guardGorilla to keep the boys in the workshop.
 
-Dela sped down the hallway towards the Principal's office, but she turned
+Fera sped down the hallway towards the Principal's office, but she turned
 around when she heard a fierce battle cry behind her. It was Ed, covered in
-buzzBees, sprinting toward her. Dela started to command every animalAutomaton
+buzzBees, sprinting toward her. Fera started to command every animalAutomaton
 in the hallway to attack Ed. Ed started to slow down as the animalAutomatons
-began to pile on. Before going around the corner, Dela saw Ed under a mountain
+began to pile on. Before going around the corner, Fera saw Ed under a mountain
 of animalAutomatons, valiantly trying to fight them all off.
 
-Dela burst into the Principal's office and commanded the animalAutomatons
+Fera burst into the Principal's office and commanded the animalAutomatons
 inside to stand down.
 
-"Here's what's going to happen, you sack of-", Dela stopped when she saw that
+"Here's what's going to happen, you sack of-", Fera stopped when she saw that
 the Principal was sleeping in his usual position, head tilted back and mouth
 opened.
 
-Jumping on top of the desk, Dela kicked the Principal in his face until
+Jumping on top of the desk, Fera kicked the Principal in his face until
 he woke up. Placing her on his chest, lunging forward and leaning in as if were
-stretching her psoas muscle, Dela looked at the Principal menacingly.
+stretching her psoas muscle, Fera looked at the Principal menacingly.
 
 "I want a full pardon for me and the other girls."
 
-The Principal looked back and forth between Dela and the powerskate on his
+The Principal looked back and forth between Fera and the powerskate on his
 chest. Then, the Principal opened his mouth to speak, but instead vomited all
-over Dela's powerskate.
+over Fera's powerskate.
 
-Dela recoiled in horror, then she instinctively kicked the Principal in the
+Fera recoiled in horror, then she instinctively kicked the Principal in the
 face repeatedly, sending specks of vomit flying in all directions.
 
 "Get the pardons! For me, Kaia, and Sata."
@@ -517,9 +517,9 @@ eternalEnlightened."
 "Request the pardons now! Do it now!"
 
 The Principal wiped his face with the sleeve of his blazer and started entering
-the pardon requests as Dela stood over him making sure he did not try any
+the pardon requests as Fera stood over him making sure he did not try any
 tricks. The pardon requests were approved soon after the Principal submitted
-them. Dela commmanded the guardGorillas to hold the Principal down before
+them. Fera commmanded the guardGorillas to hold the Principal down before
 hopping off the desk to read carefully through each one of the pardons.
 
 "Great, but there's something else I want to do. I'm going to replace all of
@@ -534,10 +534,10 @@ one will be able to say which version is the real one."
 
 "No, not the shelf-deshtruct!"
 
-Dela laughed as she started the school's self-destruct sequence. An automated
+Fera laughed as she started the school's self-destruct sequence. An automated
 voice started to count down in reverse.
 
-Dela had the guardGorillas carry the Principal out of the office. Dela nearly fell over over her way out of the office. The powerskate covered in the Principal's vomit was not working at all. When Dela
+Fera had the guardGorillas carry the Principal out of the office. Fera nearly fell over over her way out of the office. The powerskate covered in the Principal's vomit was not working at all. When Fera
 looked out into the hallway, she was surprised to see that it was completely
 dark.
 
@@ -558,7 +558,7 @@ sequence"
 "Then fumble around in the darkness until the school explodes." Ryn said,
 turning around to leave.
 
-"Wait!" Dela said, "If you don't help me, I'm going to tell everyone about your
+"Wait!" Fera said, "If you don't help me, I'm going to tell everyone about your
 secret bed."
 
 Ryn remained silent in the darkness.
@@ -596,12 +596,12 @@ helps us to build compassion."
 you don't know how to insult someone, you won't know know how to defend
 yourself."
 
-Ryn was quiet for a while. Dela realized that they had been talking in the dark
+Ryn was quiet for a while. Fera realized that they had been talking in the dark
 for a long time.
 
 "Can you teach me to lie to others and insult them?", Ryn asked shyly.
 
-Dela laughed.
+Fera laughed.
 
 "I'll only teach you if join the revolution."
 
@@ -643,15 +643,15 @@ Light began to trickle into the hallway.
 
 Suddenly bathed in light, Ryn started to retreat.
 
-Dela charged forward on her sole working powerskate. She saw Ryn's outline in
+Fera charged forward on her sole working powerskate. She saw Ryn's outline in
 the shadows, she kicked out the vomit covered powerskate and was surprised at
-how solidly her it connected. Dela kicked Ryn until he stopped moving. She then grabbed his arm and started to drag him down the hallway.
+how solidly her it connected. Fera kicked Ryn until he stopped moving. She then grabbed his arm and started to drag him down the hallway.
 
 "Ben read your profile after we woke. He said that you have anger management
 issues, just like your father."
 
 "You dirty moleman! I'm nothing like my father!"
-", Dela screamed at Ryn and began to kick him with the broken powerskate again.
+", Fera screamed at Ryn and began to kick him with the broken powerskate again.
 
 "Did you know that Lunkers do not consider the word 'moleman' to be an insult?
 It sounds like molmin, a Lunker word meaning well-crafted or done with
@@ -671,7 +671,7 @@ they die. The gas poisons our food and water. Even with filter masks, we-"
 "You all deserve to be gassed, you filthy Lunker molemen!"
 
 Ryn covered his face with his hands as he started sobbing violently. With Ryn's
-eyes closed, the darkness in front of Dela was complete.
+eyes closed, the darkness in front of Fera was complete.
 
 "They all died.", he whimpered, falling to the ground and shaking
 uncontrollably. "Aira and I were the only ones who made it. The gas was
@@ -680,24 +680,24 @@ filters and helped us get out even though they could not breathe. We left them
 behind to save ourselves. I still see their melted faces whenever I close my
 eyes."
 
-Dela stood over Ryn with tears in her eyes. She was angry at Ryn for being so
+Fera stood over Ryn with tears in her eyes. She was angry at Ryn for being so
 weak and angry at herself for crying and wasting time on such a weakling. "If
-Lunkers are so easy to kill, maybe they deserve it.", Dela thought.
+Lunkers are so easy to kill, maybe they deserve it.", Fera thought.
 
-Dela wiped her face and gave Ryn another kick.
+Fera wiped her face and gave Ryn another kick.
 
 "Stop crying and get up!"
 
-When Ryn kept crying, Dela was furious. She kicked him repeatedly until she was
+When Ryn kept crying, Fera was furious. She kicked him repeatedly until she was
 gasping for breath from the exertion. Ryn was not making any sound whatsoever.
-Dela dropped to her hands and knees, listening for breathing or any signs of
+Fera dropped to her hands and knees, listening for breathing or any signs of
 life.
 
-"Are you concerned for my wellbeing?", Ryn asked, scaring Dela.
+"Are you concerned for my wellbeing?", Ryn asked, scaring Fera.
 
-"No!", Dela replied, punching Ryn in one of the eyes he had just opened.
+"No!", Fera replied, punching Ryn in one of the eyes he had just opened.
 
-Dela looked Ryn who was shielding his eyes from the light.
+Fera looked Ryn who was shielding his eyes from the light.
 His face was swollen and covered with bruises. Was he not defending himself at
 all from her kicks?
 
@@ -707,7 +707,7 @@ all from her kicks?
 
 "Please wait a moment.", Ryn said with eyes closed.
 
-"What the hell are you doing? Snap out of it.", Dela said grabbing his
+"What the hell are you doing? Snap out of it.", Fera said grabbing his
 shoulders and shaking him.
 
 "I'm creating a diversion."
@@ -716,7 +716,7 @@ shoulders and shaking him.
 plant?"
 
 "How did you know I can photosynthesize?", Ryn asked opening his eyes wide in
-shock. When Ryn realized that Dela did not know that he could photosynthesize
+shock. When Ryn realized that Fera did not know that he could photosynthesize
 until he gave it away, he got flustered.
 
 "You mustn't tell anyone anything!", Ryn exclaimed.
@@ -727,23 +727,23 @@ The hallway suddenly filled with a birds.
 
 Ben and Ed try to force her to deactivate the school self-destruct system. Ed
 wrestles guardGorillas, Ben uses powerskates and taser batons, but Ed leaves
-when Ben is knocked unconscious. Dela faces off against Ben and Ed, Ryn
-deactivates the lights trying to gain an advantage over Dela. Ryn stays to stop
-Dela, she laughs at him for being a weakling, and when Kaia had guardGorillas
+when Ben is knocked unconscious. Fera faces off against Ben and Ed, Ryn
+deactivates the lights trying to gain an advantage over Fera. Ryn stays to stop
+Fera, she laughs at him for being a weakling, and when Kaia had guardGorillas
 break a hole in the wall to get some light, Ryn summons birds to fight the
-robotic animals. Dela is terrified but she finds
+robotic animals. Fera is terrified but she finds
 Ryn in the darkness by his glowing eyes and kicks him repeatedly in the face
 with the vomit covered powerskate.
 
 ...
 
 She thinks that no one would charge in now to try to deactivate the
-self-destruct sequence, so Dela grabs the unconscious Ryn and the groggy
+self-destruct sequence, so Fera grabs the unconscious Ryn and the groggy
 Principal and pulls them out of the school while balancing on only one
 powerskate. Once outside the Principal purchases a motorcycle with a sidecar at
-the microtransit vending machine and then after Dela brings the motorcycle
-around the Principal lifts Ryn onto Dela's lap and they try to escape. In the
-final moments, Dela reflects on Ben, Ed, Ryn, Aira, Sata, and Kaia, starting to
+the microtransit vending machine and then after Fera brings the motorcycle
+around the Principal lifts Ryn onto Fera's lap and they try to escape. In the
+final moments, Fera reflects on Ben, Ed, Ryn, Aira, Sata, and Kaia, starting to
 cry when she thought about how they might have been friends if things were
 different. She thinks about feeling powerless to stop her abusive father and
 substance dependent mother. As she is knocked off the motorcycle from behind
@@ -751,8 +751,8 @@ she imagines she is a bird flying off into the horizon.
 
 ...
 
-When Dela made it outside with Ryn and the Principal in tow, they saw that the
-evacuation team had already cleared the blast zone. Dela guided the Principal
+When Fera made it outside with Ryn and the Principal in tow, they saw that the
+evacuation team had already cleared the blast zone. Fera guided the Principal
 to a microtransit vending machine.
 
 "Unlock it!"
@@ -762,18 +762,18 @@ to a microtransit vending machine.
 "If you don't, we're both going to die."
 
 The Principal placed his palms on the machine and leaned in for the retinal
-scan. Dela made a selection using the accompanying display, and a black
-motocycle with a sidecar rolled up a ramp next to them. Dela ran to the
+scan. Fera made a selection using the accompanying display, and a black
+motocycle with a sidecar rolled up a ramp next to them. Fera ran to the
 motorcycle.
 
-"Wait, don't leaf me!" The Principal yelled reaching for Dela.
+"Wait, don't leaf me!" The Principal yelled reaching for Fera.
 
-"What do you think the sidecar is for?", Dela answered as she started the
+"What do you think the sidecar is for?", Fera answered as she started the
 motorcycle.
 
-Dela spun the motorcycle around and pulled up next to the Principal who fell
-into the sidecar. Racing down the empty street, Dela tried to remember how much
-time was left before she left the school. Dela did not know how far the blast
+Fera spun the motorcycle around and pulled up next to the Principal who fell
+into the sidecar. Racing down the empty street, Fera tried to remember how much
+time was left before she left the school. Fera did not know how far the blast
 zone extended, but she knew that until she saw people, they wouldn't be safe.
 
 "How big is blast zone?", she yelled at the Principal.
@@ -783,30 +783,30 @@ zone extended, but she knew that until she saw people, they wouldn't be safe.
 
 "We haf to make it to the treesh."
 
-Dela did not know where the Principal was pointing, she had never seen trees in
-the city. She was not going fast enough. Dela accelerated, but she knew that
-they had no chance of making it in time. Dela thought about what had happened
+Fera did not know where the Principal was pointing, she had never seen trees in
+the city. She was not going fast enough. Fera accelerated, but she knew that
+they had no chance of making it in time. Fera thought about what had happened
 that day. She had pushed back against the system and won. Even if only
 succeeded in smashing just a single cog in the machine of oppression, it was
-worth it. Reflecting on her life, Dela realized that for the first time in her
+worth it. Reflecting on her life, Fera realized that for the first time in her
 life, she had felt truly powerful. She was always powerless to stop her father
 from beating her when he got angry. She could not do anything to keep her
 mother from self-medicating her worries away. Being in control, even if it was
-part of one day, was worth any cost for Dela. Even if she knew that she was
+part of one day, was worth any cost for Fera. Even if she knew that she was
 going to die, she would not have changed much about today. She just wished she
 could have had a chance to apologize Kaia and Sata. Maybe if things were
-different, they could've been friends? Dela's eyes filled with tears.
+different, they could've been friends? Fera's eyes filled with tears.
 
-Dela thinks about Ben and Ed too, and the life she could have had working in
+Fera thinks about Ben and Ed too, and the life she could have had working in
 the maker workshop, maybe helping Aira and Ryn in the theater.
 
-Dela strokes Ryn's hair and caresses his mangled face.
+Fera strokes Ryn's hair and caresses his mangled face.
 
-"It's the wind in my eyes." Dela thought, "No way I'm crying over those
+"It's the wind in my eyes." Fera thought, "No way I'm crying over those
 losers."
 
-Dela closed her eyes. It didn't matter now. She was free. She relaxed her body
-and focused on her last few breaths. The blow from behind came sooner than Dela
+Fera closed her eyes. It didn't matter now. She was free. She relaxed her body
+and focused on her last few breaths. The blow from behind came sooner than Fera
 expected. She thought she would hear the explosion first and maybe have a
 chance to look back at the blast before it enveloped her. As she flew through
 the air with her eyes closed, she stretched out her arms and imagined she was a
@@ -817,28 +817,28 @@ horizon.
 
 Ben and Ed on one of their family's airships.
 
-"I hope Dela made it out OK.", Ed asked.
+"I hope Fera made it out OK.", Ed asked.
 
-"I am sure she did. Dela is extremely cunning. I have never before met someone
+"I am sure she did. Fera is extremely cunning. I have never before met someone
 who I might consider my intellectual equal.", Ben asked. "No offense, Ed."
 
-"Is Dela still going to be part of our group?", Ed asked.
+"Is Fera still going to be part of our group?", Ed asked.
 
 "As far as I can tell, she did not do anything against the maker workshop
 rules. The city was safely evacuated and reconstruction has already begun. To
 be frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
-"I am glad that Dela is still in our group."
+"I am glad that Fera is still in our group."
 
 "Me too." Ben said, patting Ed's massive shoulder.
 
-Ben receives a notification that Dela's powergloves were destroyed in the blast.
+Ben receives a notification that Fera's powergloves were destroyed in the blast.
 
 "Maybe she dropped them along the way?"
 
-Ed is already crying at the thought of Dela dying.
+Ed is already crying at the thought of Fera dying.
 
 Looking out the windows of the observation deck of their airship, the brothers,
-both remembering Dela fondly, watched as the sunset behind the smoldering
+both remembering Fera fondly, watched as the sunset behind the smoldering
 remains of the city.
 

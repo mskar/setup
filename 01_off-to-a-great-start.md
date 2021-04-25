@@ -412,23 +412,23 @@ When the purple-haired girl did not respond, Sata continued.
 
 "My name is Sata. My friend is Kaia. What's your name?"
 
-"Dela."
+"Fera."
 
-"Hi Dela! I'd shake your hand, but my hands are full."
+"Hi Fera! I'd shake your hand, but my hands are full."
 
 Sata looked down at her arms, still crossed in front of her chest. "Very full!"
-she exclaimed as she wiggled her shoulders and smiled at Dela.
+she exclaimed as she wiggled her shoulders and smiled at Fera.
 
-"Can one of you give me a hand?", Sata said looking back and forth between Dela
+"Can one of you give me a hand?", Sata said looking back and forth between Fera
 and Kaia.
 
-Is she always like this?, Dela asked looking at Kaia.
+Is she always like this?, Fera asked looking at Kaia.
 
 "Not really. I think she is just happy she got to skip the ceremony."
 
 "Kaia got herself fried so I wouldn't have to go through it."
 
-Dela shook her head.
+Fera shook her head.
 
 "There are easier ways to skip the ceremony. You should have protested like
 me."
@@ -442,7 +442,7 @@ of broken robotic animals."
 
 "I built the tools I needed from pieces of broken robotic animals."
 
-Pre-empting the next question, Dela responded before Sata could ask.
+Pre-empting the next question, Fera responded before Sata could ask.
 
 "Don't ask me where I got the tools to build the tools I needed to build the
 gigaphone."
@@ -516,11 +516,11 @@ against corporeal punishment in the school system?"
 Surprised to suddenly become the center of attention, Kaia felt her cheeks become flushed
 with embarrassment. She understood the reasoning behind the question. The
 school had access to all of her medical records, including her diagnoses. Kaia
-looked back and forth between Sata and Dela. She wanted to be defiant and
+looked back and forth between Sata and Fera. She wanted to be defiant and
 strong like they were. She did not want mental illness to be the reason she got
 into the mess. She wanted to be normal.
 
-"It was a protest.", Kaia lied. Sata gasped. Dela nodded approvingly.
+"It was a protest.", Kaia lied. Sata gasped. Fera nodded approvingly.
 
 "Was the protest premeditated? Did you conspired with the other two girls to
 stage the protest?", the Principal read off the screen.
@@ -540,17 +540,16 @@ to make a political statement?", the Principal asked, turning towards Sata.
 Still using her legs to shield herself from the prying eyes of the
 Principal, Sata nodded, her chin bouncing against her knees.
 
-Turning to Dela, "Did you conspire with the other girls to stage a protest?",
+Turning to Fera, "Did you conspire with the other girls to stage a protest?",
 the Principal asked.
 
-"I never even met them until you brought them in here!", Dela exclaimed.
+"I never even met them until you brought them in here!", Fera exclaimed.
 
 "We have results!", the Principal shouted and read the verdicts and sentences
 one after another.
 
-"Ferdinandela Fridzia, you are found guilty of all charges and are sentenced to
+"Feravikadela Fridzia, you are found guilty of all charges and are sentenced to
 four years in juvenile detention."
-
 
 "Kaiakeilaila Arkadia, you are found guilty of all charges and are sentenced to
 three years in juvenile detention."
@@ -569,7 +568,7 @@ suspension terms. You must decide before leaving this office."
 
 "We should all agree.", Kaia said quickly, looking at the other two girls.
 
-"I'm not going to agree to anything.", Dela replied dourly.
+"I'm not going to agree to anything.", Fera replied dourly.
 
 "If you go to prison, we'll never see you again! If you stay, maybe we can be
 friends?"
@@ -580,13 +579,13 @@ friends?"
 
 "I don't care. I stand by what I did and said."
 
-While Sata kept trying to convince Dela, Kaia looked at the Principal, who had
+While Sata kept trying to convince Fera, Kaia looked at the Principal, who had
 zoned out and tapping listlessly on his desk console.
 
 "He wants you to refuse, so he can send you to prison and not have
 to deal with you! Are you just going to give him what he wants?"
 
-When Dela did not answer, Kaia got the Principal's attention.
+When Fera did not answer, Kaia got the Principal's attention.
 
 "Principal Naksos, what do you think we should do?"
 
@@ -613,7 +612,7 @@ hell for you. Given the events that occurred today, it is almost certain that
 you will be ostracized by your peers and targeted by bullies. It won't be too
 long before you will be wishing for peace and quiet of the penal system."
 
-"Why are you trying so hard to convince us to refuse?", Dela asked.
+"Why are you trying so hard to convince us to refuse?", Fera asked.
 
 "Your chances of success in high school are close to non-existent and your
 chances of finding employment after high school are even lower. Even if you do
@@ -641,7 +640,7 @@ hear weightlessness is great fun and the views are majestic. After a few years
 in prison, you will become physiologically adapted to space and you won't even
 want to return to Earth."
 
-"If it's so great, why don't you go?", Dela asked sarcastically.
+"If it's so great, why don't you go?", Fera asked sarcastically.
 
 The Principal cleared his throat nervously.
 
@@ -665,15 +664,15 @@ that-"
 
 The Principal stopped when he realized that he was hurting his own argument.
 
-"Don't you think it might be better to accept the terms, Dela?", Kaia asked.
+"Don't you think it might be better to accept the terms, Fera?", Kaia asked.
 
 "Fine, I'll accept, but that doesn't mean I'm going to be friends with you two
-losers.", Dela huffed.
+losers.", Fera huffed.
 
 "I can tell we're going to get along swimmingly.", Sata quipped.
 
 "We are ready to sign the statements.", Kaia said to the Principal, trying to
-move things along before Dela had a chance to change her mind.
+move things along before Fera had a chance to change her mind.
 
 "I truly believe you are making a mistake.", the Principal said shaking his head.
 
@@ -697,20 +696,20 @@ accepting the terms was going to be a huge burden on everyone!"
 
 After going over the statement again, Kaia placed her palms on the desk to sign
 the statement. A few moments later, Sata did the same. The two girls turned
-their attention to Dela, who was staring at the statement with clenched fists.
+their attention to Fera, who was staring at the statement with clenched fists.
 
-When Dela noticed the other two girls looking at her, she exploded.
+When Fera noticed the other two girls looking at her, she exploded.
 
 "This is bull-"
 
 "Just sign it already, so we can get out of here!", Sata pleaded.
 
-Dela slammed her palms on the desk to sign the statement and proceeded to kick
+Fera slammed her palms on the desk to sign the statement and proceeded to kick
 the desk repeatedly.
 
 "That's real mahogany!", the Principal lamented.
 
-"Come on. Help me lift Kaia.", Sata said pulling Dela with one hand and
+"Come on. Help me lift Kaia.", Sata said pulling Fera with one hand and
 covering herself with the other hand.
 
 As soon as Sata got up from her chair, the Principal became entranced and soon
@@ -718,7 +717,7 @@ forgot about any damage that his desk might have sustained.
 
 Exiting the Principal's office required a team effort. It took all of Kaia's
 strength just to hold onto the other girls. With Sata trying to cover herself,
-it was up to Dela to open the door. As soon as they made it past the door, they
+it was up to Fera to open the door. As soon as they made it past the door, they
 were greeted by a familiar voice.
 
 "Hey guys, who ordered the lesbo sandwich with butch bread?"
@@ -733,25 +732,25 @@ sandwich."
 The boys went berserk with laughter.
 
 "You had all that time since the ceremony and that was the best you could come
-up with?" Dela asked.
+up with?" Fera asked.
 
 Looking over at Sata, Kaia noticed that her friend was having a seizure. Kaia
 watched powerlessly as the hand that was covering Sata's chest drifted down in
 the front of her.
 
 "Look fellas, this one is ready for me.", said Pert as he moved forward with
-his hands reaching out towards Sata's chest. Dela swung at Pert with her free
+his hands reaching out towards Sata's chest. Fera swung at Pert with her free
 hand, while kicking him in the shins. Kaia tried to pull Sata back away from
 Pert, but was too weak to move Sata very far. Kaia opened her mouth to scream
 for help, but before she could make a sound, a historianHummingbird crashed
 into the side of Pert's face, sending him crashing to the floor.
 
-Dela gave Pert one more kick before pulling the other two girls through the
+Fera gave Pert one more kick before pulling the other two girls through the
 semicircle of stunned boys. After Sata recovered, she was dazed and confused,
 but she understood the need to run. Kaia's feet could barely keep from dragging
 on the ground while the other two girls carried her down the hallway.
 
-"Let's head to the theater.", Dela said, "It's dark inside and there are plenty
+"Let's head to the theater.", Fera said, "It's dark inside and there are plenty
 of places to hide."
 
 Once inside the theater, the girls got up on the stage and hid behind the
@@ -770,7 +769,7 @@ herself with confidence.
 
 "Welcome to the theater!" , the girl proclaimed with a flourish.
 
-"What the hell are you?", Dela said sharply.
+"What the hell are you?", Fera said sharply.
 
 "Apologies, I am not sure what you mean.", the girl replied.
 
@@ -785,7 +784,7 @@ herself with confidence.
 "I think you were seeing things. Sometimes when people are afraid of the dark,
 their minds play tricks on them.", the girl replied.
 
-"Cut the crap. We all saw it." Dela said advancing menacingly towards the girl.
+"Cut the crap. We all saw it." Fera said advancing menacingly towards the girl.
 "You're Lunkers, aren't you? If you try to lie to us-"
 
 "You mustn't tell anyone anything!", the girl replied.
@@ -793,10 +792,10 @@ their minds play tricks on them.", the girl replied.
 "It makes sense that Lunkers would want to work in a dark theater. It must
 remind you of home.", Sata offered.
 
-"Explain the spider eyes.", Dela said letting go of Kaia and holding up two
+"Explain the spider eyes.", Fera said letting go of Kaia and holding up two
 fingers on each hand next to her eyes.
 
-After realizing what Dela meant, the boy and girl put their arms around each
+After realizing what Fera meant, the boy and girl put their arms around each
 other and tilted their heads together.
 
 "We walk together like this because it enhances our night vision.", the girl
@@ -805,15 +804,15 @@ explained.
 "You two look really cute together.", Sata said smiling at them warmly.
 
 "Ha, I think the night vision enhancement isn't the only reason they can't keep
-their hands off of each other.", Dela said laughing.
+their hands off of each other.", Fera said laughing.
 
 The boy and the girl separated, looking very embarrassed.
 
 "We are brother and sister!", the boy blurted out.
 
-Dela did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
+Fera did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
 
-"Stop it, Dela.", Kaia said, kicking her.
+"Stop it, Fera.", Kaia said, kicking her.
 
 "What are your names?", Sata said, trying to smooth things over.
 
@@ -821,10 +820,10 @@ Dela did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
 
 "I am Ryn.", said the boy.
 
-"I'm Sata, this is Kaia, and next to her is Dela. Nice to meet you both. I'd
+"I'm Sata, this is Kaia, and next to her is Fera. Nice to meet you both. I'd
 shake your hands, but my hands are full.", Sata said.
 
-"Don't say it.", Dela warned.
+"Don't say it.", Fera warned.
 
 "Do you want me to lend you a shirt from the theater?" Aira said to Sata.
 
@@ -834,37 +833,37 @@ Sata nodded emphatically.
 
 Sata looked at Kaia. "Kaia is hurt, do you have a place she can rest?"
 
-"Yeah, I would love to not have to lug this loser around anymore.", Dela added.
+"Yeah, I would love to not have to lug this loser around anymore.", Fera added.
 
 "Yes, there is, but you mustn't tell anyone anything.", Aira said.
 
-"We get the idea.", Dela said flatly, "We're not going to tell anyone anything."
+"We get the idea.", Fera said flatly, "We're not going to tell anyone anything."
 
 "Ok, Ryn and I built a secret bed so we could sleep in the theater during
 breaks from work."
 
 During the awkward silence that ensued, Kaia saw Sata was tempted to make a
-joke but held back. Unlike Sata, Dela couldn't resist.
+joke but held back. Unlike Sata, Fera couldn't resist.
 
 "You have a secret bed? That you built yourselves, so you could sleep together?
-Is that a normal thing for Lunkers?", Dela asked smiling mischievously.
+Is that a normal thing for Lunkers?", Fera asked smiling mischievously.
 
-Ryn was so embarrassed, he started to stammer. Dela didn't relent.
+Ryn was so embarrassed, he started to stammer. Fera didn't relent.
 
 "How long have you been sleeping together? Is the sleep still good? Are you
 doing anything to spice it up? Trying out a new pillow, maybe?"
 
 Kaia was furious. "They're trying to help us and you keep bullying them!"
 
-"Ryn, show Dela and Kaia were the bed is hidden. I'll take Sata to the dressing
+"Ryn, show Fera and Kaia were the bed is hidden. I'll take Sata to the dressing
 room."
 
 "We saw the recording of the ceremony today. We think you are all very brave.",
 Ryn said trying to diffuse the situation. "I thought the gigaphone you built
-was great. I like making things too.", Ryn said to Dela shyly.
+was great. I like making things too.", Ryn said to Fera shyly.
 
-Dela waited until Sata and Aira were out of earshot. "Have you built any
-special recently? Maybe a device to help your sister sleep?" Dela continued,
+Fera waited until Sata and Aira were out of earshot. "Have you built any
+special recently? Maybe a device to help your sister sleep?" Fera continued,
 "Something to knock her out so you can knock her up!"
 
 "Stop it!", Kaia yelled.
@@ -872,13 +871,13 @@ special recently? Maybe a device to help your sister sleep?" Dela continued,
 "When you sleep together, does she snore really loud? Do you have to cover her
 mouth to keep the whole school from hearing?"
 
-"That's enough!", Kaia screamed pushing Dela away. Not having the strength to
-stand on her own, Kaia fell to her knees. Dela was not done yet.
+"That's enough!", Kaia screamed pushing Fera away. Not having the strength to
+stand on her own, Kaia fell to her knees. Fera was not done yet.
 
 "Kaia, are you sure you even want to lay down in the secret bed? It must be
 covered with sleep stains!"
 
-Kaia began to cry, feeling powerless to stop Dela.
+Kaia began to cry, feeling powerless to stop Fera.
 
 "When's the last time you cleaned the sheets? Wait, have you ever cleaned the
 sheets? I bet we can find it just by the smell!"
@@ -889,12 +888,12 @@ Ryn helped Kaia to her feet and started walking with her in the direction of the
 Ryn, your sister might get jealous! She's used to having you all to herself,
 she might not like sharing you with Kaia."
 
-Dela continued to taunt Ryn all the way to secret bed. Sata and Aira were
+Fera continued to taunt Ryn all the way to secret bed. Sata and Aira were
 already there waiting for them.
 
 "What took you so long? I was worried", Sata said.
 
-Kaia didn't respond, she just looked angrily at Dela. Sensing the tension, Sata
+Kaia didn't respond, she just looked angrily at Fera. Sensing the tension, Sata
 tried to change the subject.
 
 "How do I look?", Sata asked.
@@ -902,9 +901,9 @@ tried to change the subject.
 Sata twirl and struck a pose. She was wearing a long flowing shirt
 covered by an elegant bodice. The sight of Sata took Kaia's breath away.
 
-"Like a guardGorilla in a milk maid outfit.", Dela said.
+"Like a guardGorilla in a milk maid outfit.", Fera said.
 
-"What is it with you?", Kaia screamed lunging at Dela. Dela stepped away
+"What is it with you?", Kaia screamed lunging at Fera. Fera stepped away
 effortlessly. Kaia stumbled and fell, landing on her hands and knees.
 
 "Looks like I hit a nerve! I've been making fun of Ryn for ages without much of a
@@ -913,13 +912,13 @@ response. Then, I say one harmless thing about Sata and Kaia flips out."
 "Sorry Ryn, looks like Kaia only cares about Sata, I guess you are stuck with
 your sister for now."
 
-Kaia couldn't hear Dela anymore over the howling wind tearing through the
+Kaia couldn't hear Fera anymore over the howling wind tearing through the
 theater. Sifting through the dust on the floor with her fingers, Kaia pulled
 out assorted fragments of bone and shook them in her hand like dice. Through
 the dust swirling around Kaia, she saw the metallic glint of the taserTutor.
 The metallic tendrils extending from taserTutor were coiled around her arms up
 to the shoulder. The ceremony was still ongoing. The taserTutor began to pulse
-red. Kaia's heart sunk. Had she imagined everything? Dela, the Principal, Pert,
+red. Kaia's heart sunk. Had she imagined everything? Fera, the Principal, Pert,
 Ryn, Aira? Lightning shot out of the surrounding storm and coursed through
 Kaia's body. Kaia screamed and writhed on the ground, but then got up with a
 renewed sense of purpose.
@@ -928,7 +927,7 @@ Did she have a chance to change the future? If she answered the remaining
 questions, could she turn everything around? Kaia knew what she had to do. She
 would continue through the ceremony, deny any political motivations, blame
 everything on her mental illness, and anything else she needed to do to keep
-Sata safe, even if it meant that Dela would go to prison for years. Kaia began
+Sata safe, even if it meant that Fera would go to prison for years. Kaia began
 to feverishly work on the problem displayed on the console.
 
 She nearly finished with the task when the tendrils started restricting her
@@ -989,7 +988,7 @@ Kaia's neck with the other. Soon the convulsions were replaced by shivers and
 Kaia's eyes focused on Sata's face. Still trembling, Kaia looked up at Sata.
 Tears were falling from Sata's eyes onto Kaia's face.
 
-"Is she alive?", Dela asked impatiently.
+"Is she alive?", Fera asked impatiently.
 
 "Yes. No thanks to you.", Sata replied sharply.
 

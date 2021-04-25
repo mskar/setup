@@ -8,7 +8,7 @@ who used to be a man. Ben explains that many Enders think life in the physical
 world should end, because it is wasteful, inefficient, and help humanity learn
 anything new. Ben and Ed believe in life in the physical world and want Kaia to
 transcend to prove that physical life is worthwhile. Kaia is rescued by Zek,
-Ursa, and Figa. She returns to the silo to live with Dela and Sata, because Zek
+Ursa, and Figa. She returns to the silo to live with Fera and Sata, because Zek
 paid Pert to attack her so he could be a hero and Ursa did not tell her about
 previously being a man even though they went skinny dipping in the lake before
 and had other intimate moments.

@@ -6,7 +6,7 @@ shining a flashlight on the floor until their eyes adjusted to the light.
 
 "Sata, Kaia, put on these shoes.", Aira said, handing each of the girls a pair
 of ballet flats from a satchel she wore across her shoulder, "Just slip them on
-and let's go. Dela and Ryn left while you were sleeping."
+and let's go. Fera and Ryn left while you were sleeping."
 
 "It could be just a drill.", Sata said.
 
@@ -112,7 +112,7 @@ reserved for only the best of the friends."
 "Haven't you heard?! The entire city is going to explode! We have to be ready
 to evacuate as soon as we get the signal."
 
-"We have to go back for Ryn and Dela.", Kaia said.
+"We have to go back for Ryn and Fera.", Kaia said.
 
 "Oh no, I'm afraid that will be absolutely impossible! Anyone trying to leave
 this area will be executed immediately to ensure a safe and organized

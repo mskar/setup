@@ -1,6 +1,6 @@
 ## Chapter 7: A touching reunion
 
-Dela begins to market sinistrae nanotech as tech detox treatments, but secretly
+Fera begins to market sinistrae nanotech as tech detox treatments, but secretly
 begins selling them as mimic detection kits to the government.
 She doesn't let anyone know.
 
@@ -46,7 +46,7 @@ Aira and Lans are taken by the government.
 Kransal is indifferent to Aira being taken. He says that she lied to him about
 being a Lunker.
 
-Dela, Ryn, and Naksos arrive at the refugee camp. Dela promises everyone that she
+Fera, Ryn, and Naksos arrive at the refugee camp. Fera promises everyone that she
 has no idea how the government got sinistrae nanotech or figured out how to use
 it to detect mimics. As proof that she has nothing against mimics, she offers
 to help rescue Aira and Lans. She tells Kaia and Sata that the only way
@@ -55,7 +55,7 @@ go in teams.
 
 - Ben, Ed, and Ryn
 - Zek, Ursa, and Figa
-- Kaia, Sata, and Dela
+- Kaia, Sata, and Fera
 
 Is this when Ben becomes obsessed with studying Kaia's brain? When Kaia
 demonstrated her ability to simultaneously control dextrae and sinistrae
@@ -76,6 +76,6 @@ to destroy the government and dextrae companies. He sabotages PeoplePrinters
 around the world and starts replacing people with dopplegangers who say they
 are loyal to the Mummy Queen on Mars to make it seem like she is interfering
 with the network in the same way she is with the signals reaching Kaia. Ryn
-goes to the silo to ask Dela, Kaia, and Sata for help with distributing the
+goes to the silo to ask Fera, Kaia, and Sata for help with distributing the
 inoculations to mimics hiding underground.
 
