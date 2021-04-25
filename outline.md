@@ -1,27 +1,17 @@
 Characters:
-- Keiakeilaila Erkadia (echo): will learn that she was imprinted with the consciousness of
+- Kaiakeilaila Erkadia (echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten long ago
 - Satalitastra Azymuta (human): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
-- Feraziandela Fridzia (human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
-- Beniaminakim (Ender): will learn that his consciousness was created in the digital
-  world and that his body was synthesized by his "parents" to test the ability
-  of people to move back and forth between the physical and digital worlds
-- Dovaredodren (Ender): will learn that his older brother Ben created him as a child by
-  subconsciously controlling a synthesizer and then imprinting Ed's
-  consciousness during their childhood with the ideals of bravery, etc.
-- Ianaizakivor (echo): will divulge that has been imprinted with the consciousness of an
-  Earthling scientist who was married to a Martian woman, became disillusioned,
-  created the system of echos, destroyed Mars, and orchestrated the plan to
-  imprint his consciousness and his wife's consciousness on future generations
-  of Earthlings
-- Moliuralursa (Ender): will divulge that she was a man who transcended and returned
-  as woman to try to realize her dream of becoming a mother
-- Rynzomirozyn (Mimic): will divulge that he is pregnant with Keia's child and that he
-  needs regular contact with her or else he will miscarry
+- Feravikadela Fridzia (human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
+- Beniaminakim (Ender): will learn that his consciousness was created in the digital world and that his body was synthesized by his "parents" to test the ability of people to move back and forth between the physical and digital worlds
+- Edvardodaren (Ender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Ed's consciousness during their childhood with the ideals of bravery, etc.
+- Zekianikivor (echo): will divulge that has been imprinted with the consciousness of an Earthling scientist who was married to a Martian woman, became disillusioned, created the system of echos, destroyed Mars, and orchestrated the plan to imprint his consciousness and his wife's consciousness on future generations of Earthlings
+- Ursauralmora (Ender): will divulge that she was a man who transcended and returned as woman to try to realize her dream of becoming a mother
+- Rynzomirozyn (Mimic): will divulge that he is pregnant with Keia's child and that he needs regular contact with her or else he will miscarry
 - Lansealotsek (Mimic): Ryn's best friend
-- Nilarestaira (Mimic): Ryn's sister, then Taz's lover
-- Tsivantazolt Kransal (Lunker): Strike force officer, then Aira's lover
-- Dionymelitid Naksos: School Principal, then Administrative Assistant to Dela
+- Airanilaresa (Mimic): Ryn's sister, then Taz's lover
+- Tazolntsivan Kransal (Lunker): Strike force officer, then Aira's lover
+- Melitidionis Naiksos: School Principal, then Administrative Assistant to Dela
 
 In the game that Keia and Ed play after they are sent home from school,
 Keia is a thief and Ed is a knight.
