@@ -19,6 +19,11 @@ Characters:
 - Male names are created from given name,
 father's name, paternal grandfather's (yeye's) name, e.g. Zek, Ian, Rov
 
+Intro new characters named Dza and Aka, Mung girls who needs exoskeletons to
+move around on earth because her bones are brittle and weak after a lifetime in
+space. The Mung people are named after the Mung beans that they grow in space
+as a protein source for Earth.
+
 No one can carry a cellphone because during the war cellphone's could be caused
 to detonate spontaneously. Kaia later learns to detonate anything with a fuel
 cell, e.g. powerskates, powergloves, energy weapons, airships, etc. Kaia has a
