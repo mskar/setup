@@ -191,7 +191,87 @@ The next books focus on Eiva's daughter and Kaia's son. Eiva's daughter is
 training to be queen. Kaia's son is not as good at controlling sinistrae as
 Eiva's daughter. He is jealous of his older "sister". He has no claim to the
 throne. He still has dreams of Mars. His mother's dreams bleed over into his
-dreams.
+dreams. He wants to bring back his father, his other mother, his mother's
+friend, but he cannot since dextrae technology has been banned. He has to keep
+his ability to control dextrae a secret. He is planning to destroy the current
+world and bring back dekstrae.
+
+When Kaia and Lita are reunited.
+
+Kaia was apprehensive. She could not help be remember the last time she stood
+over a peoplePrinter waiting for Lita to be brought back to life. Her son
+assured her that this time would be different. He was printing a body for Lita
+that was many years older than the body she had before so Kaia and Lita could
+be the same age, like before. Kaia was braced for heartbreak. When the lid to
+the personPrinter opened, she was already in tears. Lita got out the
+personPrinter, Kaia was amazed with amazing she looked. Kaia searched Lita's
+face for signs of hatred or resentment. What she saw in Lita's face prompted
+Kaia to throw her arms around Lita and hug her. Lita hugged her back. Her smell
+was the same as before. Her touch was electrifying. Kaia did not allow herself
+to believe just yet.
+
+Kaia asks a question that only Lita can answer. When Lita answers it correctly,
+Kaia gasps and reaches out to touch Lita's face. "It's really you." Lita nods.
+They are both crying. Kaia starts to explain. "The years without you. Every
+night I dreamt of you." Lita placed a hand on either side of Kaia's face and
+gazed deeply into her eyes as they widened with shock. Lita crashed her face in
+Kaia's, kissing her deep. Kaia melted into Lita's strong yet soft hands. The
+room exploded with colors. Had they never kissed before? Kaia realized that she
+had never really kissed anyone before. Kaia broke from the kiss. She was
+hyperventilating and her head was spinning. She held onto Lita, who looked at
+her with an amused expression on her face.
+
+"Was it that good? I wasn't expecting you get all googly eyed on me."
+
+Kaia started to laugh. Lita was back after years living as in the Enderverse.
+Her worries that things would be different were dispelled. The horrible
+waiting, the terrible uncertainty, the crushing doubt, all of it faded away.
+Kaia couldn't express what she was feeling.
+
+"We should probably get going. We have a planet to reconquer." Kaia's son said,
+uncomfortable with the intense display of affection.
+
+Kaia had forgotten she was not alone with Lita. Kaia became annoyed and was no
+longer willing to hide her emotions.
+
+"I've waited years for this. I never asked any of you for anything, never
+anything for myself. Get the hell out and leave us alone!"
+
+Everyone was shocked.
+
+"Sure, no problem. You're welcome for reuniting you with the love of your life
+by the way. Now that I've accomplished the impossible, I'll just go and sit in
+a dark room by myself."
+
+Kaia pulled Lita by the hand towards the table, thinking they could chat and
+catch up after years of separation. Lita pulled Kaia in, wrapping her arms
+around her lower back and burying her head in Kaia's chest.
+
+"These are bigger than I remember."
+
+Kaia struggled to catch her breath. Her heart was pounding. She felt like she
+had been running for hours. Lita grabbed Kaia's hands and rested them on her
+shoulders. Then grabbing the backs of Kaia's thighs, Lita lifted Kaia up with
+ease and gently sat her down on the table.
+
+"Were did you learn these moves?"
+
+"I've been planning this for years and I watched a lot of naughty videos while
+I was waiting for you to make me a new body."
+
+Kaia laughed. "Are you planning to do something naughty to me?"
+
+"I honestly wouldn't even know where to begin.", Lita admitted, "I was a virgin
+before I died and I didn't even have a body in the Enderverse, much less a love life."
+
+"I'm still a virgin too.", Kaia said bashfully.
+
+"Shut up! How can you be a virgin when you have a kid?", Lita said, putting her hands on her hips.
+
+"No, it's true! Zek did-"
+
+"I remember. You told me before. I was just teasing you."
+
 
 Fera is planning to invade Mars and recover it from the Thelusians. Having
 complete control of Earth, she launches her assault on Mars.
