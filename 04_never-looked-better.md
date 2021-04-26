@@ -79,11 +79,175 @@ was on the surface during past wars.
 
 The Principal goes through withdrawal and starts a redemption arc.
 
-In the Lunker colony, they hear a legend of a series of buried silos.
+In the Lunker colony, a young Lunker approaches them and says that they have
+won a free boat ride for three.
 
-Should they go somewhere else or find the silo buried there?
+"Congratulations, you've won a free, all-expenses-paid trip to Wieliczka salt
+mine, including a free boat ride on Lake Wessel, for three people!
 
-They travel by underground train. hyperloop. vacuum tunnel.
+"Excuse us, we need to discuss." Fera said, drawing Mel and Ryn into a huddle.
+
+"Don't you think it is suspicious that it's a free tip and boat ride
+specifically for three people? There are exactly three of us. It seems a little
+on the nose."
+
+"We shouldn't look a gift horse in the mouth.", Mel said.
+
+"That lake is an important part of the cultural heritage of Lunkers. I have
+always wanted to see it.", Ryn said.
+
+"It's a trap and I am going to say no and anyone who wants to stop me is going
+to get a rock thrown at their head."
+
+"Please Fera, let me talk to him, Lunker to Lunker. If it is a trap, I will
+find out."
+
+"Ok, go ahead, you have one minute."
+
+Ryn walked up to Nil with a smile and started to talk with him in a quiet,
+friendly voice. The conversation seemed to be going well until a rock hit Nil
+in the side of the head with such force that he crumpled to the floor.
+
+Fera pounced on Nil's chest a rock in each hand and started to make a few
+improvements to his face.
+
+Ryn and Mel looked on in horror. They wanted to stop Fera, but both felt that
+it was better that Fera focused on Nil rather then them.
+
+Once Fera was satisfied with the facial remodeling, leaned in close to Nil's
+face and said "Who sent you?", in the lowest voice she could. Nil was
+unfortunately very unconscious and unable to answer the question.
+
+"Lunkers are useless. Let's get out of here."
+
+Ryn and Mel quickly followed Fera, afraid that if they did not, they might be
+next. Before long, another Lunker approached them, as before.
+
+"Congratulations, you've won a free, all-expenses-paid trip to the Wieliczka
+salt mine and a free boat ride on Lake Wessel for any number of people!"
+
+Fera laughed, thinking it was a joke, then realized that the Lunker was
+absolutely serious, and picked up a fresh pair of rocks.
+
+"Who sent you?", Fera asked, raising one of the rocks.
+
+"I got a gig job. "
+
+"Your name is Oil?"
+
+"My parents are trying to break the world record for most number of children
+produced by a monogamous couple. They thought it would get confusing with so
+many children so they created a system. The first letter of the first name of
+each subsequent child is next letter of the alphabet."
+
+Fera thought for a little while.
+
+"You have 14 older siblings?"
+
+"Actually, my parents don't keep track of our ages, so I am not sure what the
+temporal order might be. All I know is that I am their 15th son and my sister
+Nila is their 15th daughter."
+
+"Nila was my mother's name!"
+
+Fera remembered that Kaia's waipo's name (mother's mother's name) was Aila.
+Perhaps Lunkers were not that different from topsiders?
+
+"Do you have an older brother named Nil by any chance?"
+
+"Yes, of course I do! He was very excited this morning, because he got a big
+job that he said would pay a lot of money. He said we would never go hungry
+again! Then, I got this job, which also has a big payout. And all I have to do
+is to take you to the lake and get you on the boat!"
+
+""
+
+"What happened to Nil?"
+
+"He fell on his face. Repeatedly. So clumsy. He really should learn to be more
+careful." Fera saw the two bloody rocks she had dropped earlier and hastily
+flung them away with her feet.
+
+When Nil regained consciousness, he saw Fera and shrunk back in fear.
+
+"Wakey, Wakey, Nil. After you fell down on your face repeatedly, we went to go
+get help and ran into your brother Oil."
+
+"I fell on my face?" Nil asked, surprised.
+
+"Yes.", Fera emphasized, "Repeatedly. You're quite clumsy. You should really
+learn to be more careful."
+
+"Nil has never fallen down before..."
+
+"Well, there's a first time for everything. We'll let you take us to your
+stupid lake, but if you slow us down, we're going to leave you behind and go
+ourselves."
+
+Nil was on his feet in a flash. "No if you go yourselves, we will not get
+paid."
+
+"Well, then you better not slow us down."
+
+...
+
+"Why is this place called Wieliczka?"
+
+"This mine has been called many things over the years. The first name was Magnus Sal, from ancient Latin, and the name Wieliczka, from ancient Polish, was just an alias."
+
+"Magnus Sal? Meaning great salt?"
+
+"Yes, the first."
+
+"The meaning is the subject of ongoing debate of toponomastic experts. In the
+past, mine has been called Gross Salce from ancient German and Wielka Sól or
+Wieliczka in ancient Polish."
+
+"These tunnels were carved by ancient miners."
+
+"What were they mining?"
+
+"Salt."
+
+"What?! They couldn't desalinate sea water?"
+
+"I guess not. The mine was a huge source of wealth. Salt was the main method to
+keep food from spoiling."
+
+"They did not have refrigerators? Or synthesizers to make their food?"
+
+"I guess not. My understanding is that they had no electronics at all."
+
+"How did they survive?"
+
+
+"This is the part of the tunnel where the salt concentration is the highest.
+You can taste the salt by licking any of the walls, but this part of the tunnel
+is extra salty."
+
+Ryn leaned in towards the wall, sticking out his tongue.
+
+"Ryn, what are you doing?!"
+
+"Tasting the salt." he said sheepishly.
+
+"Do you know how many people have licked these walls before you?"
+
+"No one knows for sure, but millions of people visit the salt mine every year
+and the Licking Ring is very popular, because of its purported health benefits."
+
+"This whole tunnel is filled with germs."
+
+"Actually, the only microorganisms that can survive on the walls are halophilic
+bacteria. The halophiles are one possible explanation for the health benefits
+that many visitors report."
+
+"No one is licking the walls." Fera said definitely. "Let's keep moving."
+
+Nil describes the carvings in the walls and 
+
+difficult to remember " They travel by underground train.
+hyperloop. vacuum tunnel.
 
 Ryn wants to impress her with Lunker technology and culture.
 He offers to take her to an archaeology dig.

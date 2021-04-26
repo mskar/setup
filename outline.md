@@ -1,5 +1,5 @@
 Characters:
-- Kaiakelaisla Erkadia (Echo): will learn that she was imprinted with the consciousness of
+- Kaiakelaaila Erkadia (Echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten long ago
 - Satalitastra Azymuta (Human): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
 - Feravikadela Fridzia (Human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
@@ -13,8 +13,18 @@ Characters:
 - Tazoltvan Kransal (Lunker): Strike force officer, then Aira's lover
 - Meliedion Naiksos: School Principal, then Administrative Assistant to Dela
 
-Female names are created from given name, mother's name, maternal grandmother's name, e.g. Kaia, Kela, Isla
-Male names are created from given name, father's name, paternal grandfather's name, e.g. Zek, Ian, Rov
+
+- Female names are created from given name, mother's name, maternal grandmother's
+(waipo's) name, e.g. Kaia, Kela, Aila
+- Male names are created from given name,
+father's name, paternal grandfather's (yeye's) name, e.g. Zek, Ian, Rov
+
+No one can carry a cellphone because during the war cellphone's could be caused
+to detonate spontaneously. Kaia later learns to detonate anything with a fuel
+cell, e.g. powerskates, powergloves, energy weapons, airships, etc. Kaia has a
+dream that she is the mummy queen crawling through the airship. She finds the
+airship fuel cells and destroys them. When Kaia wakes up the fuel cells have
+actually been destroyed. The airship crashes into Zakrzówek quarry lake.
 
 Bring in a Relic character to be a romantic partner for Dela. The silos are
 all connected. The AI explains that there is a survivor from the war between
