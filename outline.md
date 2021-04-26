@@ -4,7 +4,7 @@ Characters:
 - Satalitastra Azymuta (Human): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
 - Feravikadela Fridzia (Human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
 - Benairwyz (Ender): will learn that his consciousness was created in the digital world and that his body was synthesized by his "parents" to test the ability of people to move back and forth between the physical and digital worlds
-- Edsvardos (Ender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Ed's consciousness during their childhood with the ideals of bravery, etc.
+- Edlvardos (Ender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Ed's consciousness during their childhood with the ideals of bravery, etc.
 - Zekianrov (Echo): will divulge that has been imprinted with the consciousness of an Earthling scientist who was married to a Martian woman, became disillusioned, created the system of echos, destroyed Mars, and orchestrated the plan to imprint his consciousness and his wife's consciousness on future generations of Earthlings
 - Ursaultamora (Ender): will divulge that she was a man who transcended and returned as woman to try to realize her dream of becoming a mother
 - Rynzomirz (Mimic): will divulge that he is pregnant with Keia's child and that he needs regular contact with her or else he will miscarry
@@ -19,10 +19,182 @@ Characters:
 - Male names are created from given name,
 father's name, paternal grandfather's (yeye's) name, e.g. Zek, Ian, Rov
 
-Intro new characters named Dza and Aka, Mung girls who needs exoskeletons to
-move around on earth because her bones are brittle and weak after a lifetime in
-space. The Mung people are named after the Mung beans that they grow in space
-as a protein source for Earth.
+Girls take their mother's last name, while boys take their fathers last name.
+
+Intro two new characters named Dzaa and Daka. Aka is a Mung girl who needs
+exoskeletons to move around on earth because she suffers from osteogeneza
+imperfecta and her bones are brittle and weak after a lifetime in space. Dzaa
+is a Mung girl who grew up on a spacecraft that was spinning wildly out of
+control. After a lifetime of being exposed to extreme G forces, Dzaa became
+extremely strong, the exact opposite of Aka. Dzaa falls for Edl, because he is
+the only man she has seen who can rival her strength. Ben takes an interest in
+Daka's exoskeleton, which she built herself in space (a throwback to his
+earlier interest in Fera). The Mung people are named after the Mung beans that
+they grow in space as a protein source for Earth. The Mungs consist of various
+ethnicities that were driven into space when larger, more powerful neighbours
+took over their land. Various stereotypes exist regarding Mungs, e.g. that they
+use their babies to plug holes in their spacecraft. Mungs fight with prisoners
+sent to space. The government does not recognize Mungs as a people. Mungs want
+a sovereign nation. The government cracks down on any political activity and
+indiscriminately destroyed Mung ships before but had stopped since the Mungs
+learn to throw space rocks at Earth with great precision. Currently, there is a
+stalemate.
+
+Dzaa and Daka are sent to Earth to talk with Fera after the Mung people she her
+success as CEO of Reli Corp and connect it to the recording of Fera's protest.
+
+The girls plead with Fera to help the Mungs gain sovereignty from the government.
+
+Fera tells that them after the revolution, there will be freedom for everyone,
+even Mungs.
+
+"and Lunkers." Ryn added cautiously.
+
+"Yes, Lunkers and Mungs."
+
+"What about Antlanteans?"
+
+"The fish people? Ok, sure they can have freedom and equality too."
+
+"What about Arborists?"
+
+"Yes, the tree people can also have freedom."
+
+"What about-"
+
+"Stop naming various ethnicities already! Look, everyone will get freedom and equality."
+
+It is very important for Mungs to be a sovereign nation. We don't want end up like the Zeppeliners.
+
+Nomads that roamed the air in the their floating cities. To be honest, they
+were a nuisance. They would hunt birds for food, hijack airships, and dump
+their trash on the people below. Luckily, the government wiped them all out by
+igniting all of their hydrogen and taking away all of their precious helium.
+
+Arborists show up to ask Fera to promise that she will protect the trees,
+Antlanteans ask Fera to promise to respect the oceans. Fera agrees in exchange
+for their promise to support the revolution.
+
+A descendant of the Zeppeliners approaches Fera asking for her help to rebuild
+the Zeppelin civilization. Fera's advisors tell her not to because Zeppeliners
+were jerks.
+
+"Why is there a downvote arrow on your head?"
+
+Fera asks what the Zeppeliner what he can bring to the revolution.
+He says that he can control the air.
+
+"What good are gusts of wind good for?"
+
+"Well if you have sails, I can fill them with air on windless day."
+
+Fera waited for additional benefits, but then realized that the list ended with
+the first item.
+
+"Ok, so you will be useful when we are on some kind of vehicle propelled by
+wind."
+
+"Yes, the obvious example is a sailboat, but land yachts also have sails.
+There's also parasailing, paragliding, and windsurfing."
+
+Fera asks him for a demonstration, but the
+exposure to sinistrae makes the demo very unimpressive.
+
+"I think I felt something, but honestly I am not sure."
+
+"That's what SHE said!" Eiva broke out laughing, then stopped laughing when she
+saw that no one else was laughing.
+
+"You don't have that joke here?"
+
+"Obviously not, what's so funny?"
+
+"Well, here is a guy who started off really confident, tried really hard to
+impress us with skills until he was red in the face, and we barely felt a
+thing, and I said that's what SHE said." Eiva broke out laughing again.
+
+"It honestly is really funny. Y'all just don't understand." Eiva said a bit offended.
+
+"Ok, I have seen enough. How many soldiers do you have?"
+
+"Soldiers?"
+
+"Yes, how many soldiers can you contribute to the revolution?"
+
+"Zeppeliners were always peaceful. We only stole what we needed for our
+floating cities."
+
+"Ok, if you do not have any soldiers, what do you have? Workers? Inventors?
+Farmers?"
+
+"We never farmed because we were nomads and lived in floating cities, but we
+raised on our own birds. There were workers and inventors in Zeppelin
+civilization, but now I am the only left."
+
+"Wait, you're the only left?"
+
+"Yes, as far as I know."
+
+"And your only talent is moving air around?"
+
+"Yes, but I am sure that with time and training I could master the other elements as well."
+
+"Ok, I think we may have a use for you. Your job is stand next to me and fan
+me. I don't want you speak, just fan me silently while looking at me with
+complete admiration. I don't want to know your name. I will just call you
+fanboy."
+
+"Where should I get the fan?"
+
+"Show a little initiative and find the fan yourself, you little runt! Do you
+think the bone queen should solve all of your problems? Get going before I fill
+you with hydrogen and lit you on fire!" Fera exploded, finally losing her
+patience.
+
+Fera later becomes the CorporateCouncil Chair and becomes the most popular
+streamer in the DemocracticDelegation. She is exhausted from constant work
+meetings and never-ending demands from her followers for more content. She
+shares videos of Eiva and her baby girl along with videos of Kaia and her baby
+boy. Fera's followers speculate that Kaia, Eiva, and Fera are in a polyam
+(polyamorous) relationship. Kaia does not use social media so only finds out
+when she talks to Lita via her son. Lita is jealous. She thinks that Kaia got
+rid of her so that she could live with Eiva and Fera.
+
+"We are the Arborists, we speak for the trees!"
+
+Fera stations guards around the secret locations of the eternalEnlighted. If
+the eternalEnlighted ever disobey her, the guards are instructed to destroy all
+of the brain tanks. She grants sovereignty to the Antlanteans, Arborists,
+Mungs, and Lunkers, as she promised, and she forms two new branches of
+government: a monarchy with her as the queen and a council with a
+representative from the Antlanteans, the Arborists, the Lunkers, and the Mungs.
+
+Fera gives herself a permanent seat on the new council with veto power and puts
+her fanboy on the Council as the Zeppeliner representative and uses him as her
+puppet.
+
+Ryn asks for a seat on the council for mimics. Ben virtually represents Enders,
+because he still cannot obtain a body. Kaia is asked to represent Martians.
+Figa represents Thelusians.
+
+Fera controls all branches of government. She is the matriarchalMonarch, the
+permanent queen of the entire government, and Eiva's daughter will be Queen
+after her. Kaia's son is referred to as the dark prince, he has no claim to the
+throne, because only women can be matriarchalMonarchs. Kaia has to keep her
+son's powers a secret. The other 4 branches of government advise her. She has
+veto power and final say over their decisions. Fera is Chair of the
+CorporateCouncil and the most popular streamer in the DemocracticDelegation.
+She is a permanent member of the electedEthnicities representing sinistrae.
+Dextrae do no get representation in the government.
+
+The next books focus on Eiva's daughter and Kaia's son. Eiva's daughter is
+training to be queen. Kaia's son is not as good at controlling sinistrae as
+Eiva's daughter. He is jealous of his older "sister". He has no claim to the
+throne. He still has dreams of Mars. His mother's dreams bleed over into his
+dreams.
+
+Fera is planning to invade Mars and recover it from the Thelusians. Having
+complete control of Earth, she launches her assault on Mars.
 
 No one can carry a cellphone because during the war cellphone's could be caused
 to detonate spontaneously. Kaia later learns to detonate anything with a fuel
@@ -42,7 +214,7 @@ was not originally her name, but the AI said that she would pick a new name for
 her that matched the time when she was awakened. Eiva's husband died trying to
 protect the silos and keep them hidden. The AI does not try to create a full
 name for Eiva and instead suggests that she add Fera's mother's name and Fera's
-maternal grandmother's name (Eivavikadela) and pretend she is Fera's sister.
+maternal grandmother's name (Eivavikadela Fridzia) and pretend she is Fera's sister.
 
 Eiva and Fera develop a relationship and start sleeping together.
 
