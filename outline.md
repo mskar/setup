@@ -76,6 +76,14 @@ father's name, paternal grandfather's (yeye's) name, e.g. Zek, Ian, Rov
 
 Girls take their mother's last name, while boys take their fathers last name.
 
+## Ryn
+
+Ryn gets pregnant from Fera. When she discovers sinistrae, Ryn miscarries. He
+is heartbroken and cannot be near her again, so he tries to invent a way to
+inoculate mimics against sinistrae and eventually adapt their reproductive
+systems to sinistrae. He fails to create the inoculation and later falls in
+love with Kaia.
+
 ## Mungs:
 
 Intro two new characters named Dzaa and Daka. Aka is a Mung girl who needs
