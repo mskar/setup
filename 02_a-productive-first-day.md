@@ -49,12 +49,12 @@ advanced and well stocked it was.
 "I was not expecting this place to be halfway decent. Everything else in the
 crappy school is absolutely worthless."
 
-"Ben and Ed's family finances the maker workshop but do not provide funding for
+"Ben and Edl's family finances the maker workshop but do not provide funding for
 any other part of the school."
 
-"Who are Ben and Ed?"
+"Who are Ben and Edl?"
 
-"They are my friends. Ben is really smart. Ed is really big and strong."
+"They are my friends. Ben is really smart. Edl is really big and strong."
 
 Fera laughed. "And they have money to burn on all of this?"
 
@@ -74,20 +74,20 @@ to the maker shop!", the boy in power skates said. He was wearing metallic
 gloves covered with intricate patterns.
 
 Turning one begloved hand towards himself, "I'm Ben." and the other begloved
-hand to boy behind him "and this is my little brother Ed.", bowing deeply "and
+hand to boy behind him "and this is my little brother Edl.", bowing deeply "and
 we are both deeply honored to be at your service."
 
 "This is Fera.", Ryn said, "She likes making things too!"
 
 "The gigaphone you built was impressive, considering the limited resources you
-had at your disposal.", Ed said. "Just think of what you could build in the
+had at your disposal.", Edl said. "Just think of what you could build in the
 maker workshop!"
 
 "I can use all this stuff?", Fera asked.
 
-"Yes, of course! Let me show you around." Ed replied.
+"Yes, of course! Let me show you around." Edl replied.
 
-"You can use any free workstation you like.", Ed said sweeping his hand across
+"You can use any free workstation you like.", Edl said sweeping his hand across
 the workshop, then turning towards a console, "You can also reserve any
 workstation for any period of time,", holding up one finger on one hand, "but
 you can only reserve one workstation at a time.".
@@ -104,7 +104,7 @@ social interaction! In fact, I hold biweekly maker interest group (MIG)
 meetings that are open to everyone. Despite my best efforts in promoting the
 MIG, attendance remains limited."
 
-"If you come to the meetings, we can have... four people!", Ed said looking
+"If you come to the meetings, we can have... four people!", Edl said looking
 around the workshop, then showing four fingers on one hand.
 
 "Maybe more people would show up if you made the meetings secret and exclusive.
@@ -170,11 +170,11 @@ metabuild when I can metametabuild? Brilliant!"
 
 Then looking up, "Would you like to be Vice President of the MIG?".
 
-"You don't already have a Vice President?". Fera asked looking at Ryn and Ed.
+"You don't already have a Vice President?". Fera asked looking at Ryn and Edl.
 
-"Ed and Ryn said they are both happy being Treasurer and Recordkeeper."
+"Edl and Ryn said they are both happy being Treasurer and Recordkeeper."
 
-"I look at the money go in and out.", Ed said proudly.
+"I look at the money go in and out.", Edl said proudly.
 
 "Look?"
 
@@ -197,7 +197,7 @@ still have to vote."
 "Excellent, with all current members present, we have quorum. All those in
 favor of Fera becoming Vice President of the MIG?"
 
-Ryn, Ed, and Ben all raised their hands, said "Aye!", and then all looked at
+Ryn, Edl, and Ben all raised their hands, said "Aye!", and then all looked at
 Fera.
 
 When Fera realized that they were waiting for her, she raised her hand and said
@@ -218,7 +218,7 @@ preparing the next generation of MIG members."
 
 "If you run for President next time, I will vote for you.", Ryn said.
 
-"You have my vote too.", Ed added.
+"You have my vote too.", Edl added.
 
 "Yes, I plan to vote for you as well. As the current Vice President and very
 likely future President of the MIG, you should learn about our executive
@@ -342,7 +342,7 @@ Fera hop onto the skates and whizzed up to a guardGorilla watching over the
 maker workshop and started signing at him furiously. The guardGorilla hopped
 onto its hands and started to dance upside-down. Fera called three ChaseChimps
 over and made them cannonball one by one onto the feet of the guardGorilla.
-Ben, Ryn, and Ed looked in on in shock as the guardGorilla started to juggle
+Ben, Ryn, and Edl looked in on in shock as the guardGorilla started to juggle
 the ChaseChimps with its feet. Fera turned towards a wall and with a few signs
 had a swarm of buzzBees and wakeupWasps hovering in front of her. She had the
 swarm form different shapes in the air and then sent all of the robotic bugs
@@ -384,7 +384,7 @@ scroll from Ben.
 Fera looked at him sternly.
 
 "You're right. It is not ancient. I burnt the edges and then poured tea all
-over it." Ben said, surrscendering the scroll to Fera.
+over it." Ben said, surrendering the scroll to Fera.
 
 Fera looked at the scroll intensely. "It's very convincing. If it weren't for
 the signature, I might not have figured it out right away."
@@ -448,7 +448,10 @@ away or do you have to confirm them?"
 
 "And if I pull up two users, I can transfer permissions between them?"
 
-"Yes, that's correct. Just move the icons, just like that. I knew the interface I designed was intuitive, but I never thought anyone would be able to figure it out without an explanation. I guess my user interface design skills are better than I suspected.", Ben said proudly.
+"Yes, that's correct. Just move the icons, just like that. I knew the interface
+I designed was intuitive, but I never thought anyone would be able to figure it
+out without any explanation. I guess my user interface design skills are better
+than I suspected.", Ben said proudly.
 
 "Er, Fera, you seem be locking me out of the system. Could you please restore
 my permissions? Also, I think we should discuss the permissions that you
@@ -462,17 +465,17 @@ you for accepting me into your group and making me feel welcome." Fera said,
 turning to face the boys.
 
 Ben grabbed his chest overcome with emotion, almost falling off of his
-deactivated powerskates. Ryn and Ed both held onto each other for support,
+deactivated powerskates. Ryn and Edl both held onto each other for support,
 wiping tears from their eyes. All three boys looked at Fera with admiration and
 affection. They were caught completely off guard by swarm of buzzBees Fera sent
 after them. On her way out of the workshop, Fera commanded the chaseChimps and
 the guardGorilla to keep the boys in the workshop.
 
 Fera sped down the hallway towards the Principal's office, but she turned
-around when she heard a fierce battle cry behind her. It was Ed, covered in
+around when she heard a fierce battle cry behind her. It was Edl, covered in
 buzzBees, sprinting toward her. Fera started to command every animalAutomaton
-in the hallway to attack Ed. Ed started to slow down as the animalAutomatons
-began to pile on. Before going around the corner, Fera saw Ed under a mountain
+in the hallway to attack Edl. Edl started to slow down as the animalAutomatons
+began to pile on. Before going around the corner, Fera saw Edl under a mountain
 of animalAutomatons, valiantly trying to fight them all off.
 
 Fera burst into the Principal's office and commanded the animalAutomatons
@@ -482,8 +485,8 @@ inside to stand down.
 the Principal was sleeping in his usual position, head tilted back and mouth
 opened.
 
-Jumping on top of the desk, Fera kicked the Principal in his face until
-he woke up. Placing her on his chest, lunging forward and leaning in as if were
+Jumping on top of the desk, Fera kicked the Principal in his face until he woke
+up. Placing her on his chest, lunging forward and leaning in as if she were
 stretching her psoas muscle, Fera looked at the Principal menacingly.
 
 "I want a full pardon for me and the other girls."
@@ -492,7 +495,7 @@ The Principal looked back and forth between Fera and the powerskate on his
 chest. Then, the Principal opened his mouth to speak, but instead vomited all
 over Fera's powerskate.
 
-Fera recoiled in horror, then she instinctively kicked the Principal in the
+Fera recoiled in disgust, then she instinctively kicked the Principal in the
 face repeatedly, sending specks of vomit flying in all directions.
 
 "Get the pardons! For me, Kaia, and Sata."
@@ -502,33 +505,38 @@ face repeatedly, sending specks of vomit flying in all directions.
 "Then you better find someone who does or I'm going to powerskate all over face
 while the guardGorillas hold you down."
 
-"Your bluffing."
+"You're bluffing."
 
-"Are you sure? Take your time trying to figure it out, I'm not in a rush."
+Fera signaled to the guardGorillas to take the Principal to ground. She jumped
+down from the desk and lowered the vomit-covered powerskate towards the
+Principal's face. When Fera activated the powerskate, it sprayed the Principal
+with his own vomit. Whenever Fera touched the powerskate to the Principal's
+face, her leg would fly forward as she were kicking an invisible foe.
 
-"A shtrike team hash already been dishpatched."
+"Shtop, Shtop, please."
 
-"Are they really going to charge in her just to save a buzzBee-addicted
-Principal who lost control of school?"
+"Oh, you're no fun.", Fera said as she commanded the guardGorillas to put the
+Principal back in his chair.
 
-The Principal cleared his throat, and said "I can requesht the pardonsh from the
-eternalEnlightened."
+"I can requesht the pardonsh from the eternalEnlightened."
 
-"Request the pardons now! Do it now!"
+"Request the pardons! Do it now!"
 
-The Principal wiped his face with the sleeve of his blazer and started entering
-the pardon requests as Fera stood over him making sure he did not try any
-tricks. The pardon requests were approved soon after the Principal submitted
-them. Fera commmanded the guardGorillas to hold the Principal down before
-hopping off the desk to read carefully through each one of the pardons.
+The Principal cleared his throat, wiped his face with the sleeve of his blazer,
+and started entering the pardon requests as Fera stood over him making sure he
+did not try any tricks. The pardon requests were approved soon after the
+Principal submitted them. Fera commanded the guardGorillas to hold the
+Principal by his arms before hopping off the desk to read carefully through
+each one of the pardons.
 
 "Great, but there's something else I want to do. I'm going to replace all of
 the recordings of me and the other girls with fakes that show us all doing
-really well in the initiation ceremony. I know I can't replace any local
-copies that anyone downloaded, but with the digital watermark from console no
-one will be able to say which version is the real one."
+really well in the initiation ceremony. I know I can't replace any local copies
+that anyone downloaded, but with the digital watermark no one will be able to
+say which version is the real one."
 
-"While the fakes are being generated, let's see what else I can do at your console."
+"While the fakes are being generated, let's see what else I can do at your
+console."
 
 "Fire alarm. Sprinklers. Deactivate all animalAutomatons. Self-destruct?"
 
@@ -537,23 +545,24 @@ one will be able to say which version is the real one."
 Fera laughed as she started the school's self-destruct sequence. An automated
 voice started to count down in reverse.
 
-Fera had the guardGorillas carry the Principal out of the office. Fera nearly fell over over her way out of the office. The powerskate covered in the Principal's vomit was not working at all. When Fera
-looked out into the hallway, she was surprised to see that it was completely
-dark.
+Fera had the guardGorillas carry the Principal out of the office. Fera nearly
+fell over over her way out of the office. The powerskate covered in the
+Principal's vomit was not working at all. When Fera looked out into the
+hallway, she was surprised to see that it was completely dark.
 
-"I thought we were friends...", Ryn said, hiding in the darkness, "but you are not acting like a friend."
+"I thought we were friends...", Ryn said, hiding in the darkness, "but you are
+not acting like a friend."
 
 "What are you doing here, Ryn?"
 
-"The things you said earlier really hurt-"
+"The things you said about my sister and me really hurt-"
 
 "Shut up. I don't care. Just turn the lights back on."
 
 Ryn drew in a big breathe. "I'm not going to help you until you apologize and
 agree to be nicer to me, and turn off the self-destruct sequence."
 
-"I'm never going to apologize and I definitely won't turn off the self-destruct
-sequence"
+"I'm not going to do any of that."
 
 "Then fumble around in the darkness until the school explodes." Ryn said,
 turning around to leave.
@@ -570,7 +579,7 @@ with your sister."
 
 "No, it's not true."
 
-"I'll help the bullies beat you and your sister into a pulp."
+"I'll have bullies beat her sister into a pulp and make you watch!"
 
 Ryn whimpered and started crying. The glow from his eyes illuminated the tears
 rolling down his cheeks until they disappeared in the darkness.
@@ -579,7 +588,7 @@ rolling down his cheeks until they disappeared in the darkness.
 
 "Lunkers are weird."
 
-"I think it is weird that Cacumens say things that they know are not true or
+"I think it is weird that Cacumina say things that they know are not true or
 say things to hurt each other on purpose."
 
 "Do Lunkers always tell the truth and never insult each other?"
@@ -589,8 +598,8 @@ understand the logic behind deception, even if I disagree, but I do not
 understand the point of insults at all. I might say another to another Lunker
 that I dislike the sound of their voice, but that is irrelevant. If I said to
 another Lunker that their eyes glow dimly in the darkness, it would be out of
-genuine concern for their wellbeing, not an insult. I think living in the darkness
-helps us to build compassion."
+genuine concern for their wellbeing, not an insult. I think living in the
+darkness helps us to build compassion."
 
 "If you don't know how to lie, you are going to believe every lie you hear. If
 you don't know how to insult someone, you won't know know how to defend
@@ -609,14 +618,14 @@ Fera laughed.
 
 "We're going to overthrow the government!"
 
-"The government is not nice to Lunkers. They search our caves for precious
+"The government is not nice to Lunkers. They search our cities for precious
 minerals with blindingly bright lights. If they find anything, we have to move
-our settlements to avoid the drilling machines."
+our people to avoid the drilling machines."
 
 "In the new world we are going to build, there will be justice for everyone,
 even Lunkers."
 
-"If I can help people by joining your revolution, then I am happy to do so."
+"If I can help my people by joining your revolution, then I am happy to do so."
 
 "I'm not sure what a wimp like you is going to be able to contribute, but maybe
 you can at least be good cannon fodder."
@@ -633,36 +642,39 @@ you can at least be good cannon fodder."
 
 "For what?"
 
-"Ben and Ed are working on stopping the self-destruct command."
+"Ben and Edl are working on stopping the self-destruct command."
 
-Light began to trickle into the hallway.
+"You're not the only one with a plan. I had every large animalAutomaton, except
+for these guardGorillas, gather by the walls and now I'm going to detonate all
+of their fuel cells at once. You might want to cover your ears."
 
-"You're not the only one with a plan."
+Fera had the guardGorillas protect Ryn, the Principal, and herself. After a
+tremendous explosion, the hallway was bathed in light. When Fera's eyes
+adjusted to the light, she saw that Ryn was already trying to escape down the
+hallway. Fera charged forward on her sole working powerskate. She saw Ryn's
+outline in the shadows, she kicked out the vomit covered powerskate and was
+surprised at how solidly her it connected. Fera kicked Ryn until he stopped
+moving. She then grabbed his arm and started to drag him down the hallway,
+signalling to the guardGorillas to do the same with the Principal. Fera was
+surprised when Ryn continued to speak.
 
-"I had every nearby guardGorillas start punch holes into the walls."
+"Ben read your profile after we recovered from the buzzBee stings. Ben said
+that you have anger management issues, just like your father."
 
-Suddenly bathed in light, Ryn started to retreat.
-
-Fera charged forward on her sole working powerskate. She saw Ryn's outline in
-the shadows, she kicked out the vomit covered powerskate and was surprised at
-how solidly her it connected. Fera kicked Ryn until he stopped moving. She then grabbed his arm and started to drag him down the hallway.
-
-"Ben read your profile after we woke. He said that you have anger management
-issues, just like your father."
-
-"You dirty moleman! I'm nothing like my father!"
-", Fera screamed at Ryn and began to kick him with the broken powerskate again.
+"You dirty moleman! I'm nothing like my father!", Fera screamed and began to
+kick Ryn with the broken powerskate again, but this time with a ferocity that
+quickly left her out of breath. She stood in hallway, panting, looking down at
+Ryn.
 
 "Did you know that Lunkers do not consider the word 'moleman' to be an insult?
-It sounds like molmin, a Lunker word meaning well-crafted or done with
-purpose and skill."
+Moles are industrious expert diggers."
 
-"I don't care about your stupid language!"
+"I don't care!"
 
 "The word 'Lunker' was actually considered a slur until the government made it
 the official name for our people."
 
-"Nobody cares about Lunkers, because you are all pushovers!"
+"Nobody cares about Lunkers, because you're all pushovers!"
 
 "If we try to resist the government, they release poisonous gas into our
 tunnels. The gas burns our skin, especially our eyes. If anyone breathes it in,
@@ -670,15 +682,13 @@ they die. The gas poisons our food and water. Even with filter masks, we-"
 
 "You all deserve to be gassed, you filthy Lunker molemen!"
 
-Ryn covered his face with his hands as he started sobbing violently. With Ryn's
-eyes closed, the darkness in front of Fera was complete.
+Ryn covered his face with his hands as he started sobbing violently.
 
-"They all died.", he whimpered, falling to the ground and shaking
-uncontrollably. "Aira and I were the only ones who made it. The gas was
-clogging the filters and everyone was suffocating. They gave us all their spare
-filters and helped us get out even though they could not breathe. We left them
-behind to save ourselves. I still see their melted faces whenever I close my
-eyes."
+"They all died.", he whimpered, shaking uncontrollably on the ground. "Aira and
+I were the only ones who made it. The gas was clogging the filters and everyone
+was suffocating. They gave us all their spare filters and helped us get out
+even though they could not breathe. We left them behind to save ourselves. I
+still see their melted faces whenever I close my eyes."
 
 Fera stood over Ryn with tears in her eyes. She was angry at Ryn for being so
 weak and angry at herself for crying and wasting time on such a weakling. "If
@@ -686,7 +696,8 @@ Lunkers are so easy to kill, maybe they deserve it.", Fera thought.
 
 Fera wiped her face and gave Ryn another kick.
 
-"Stop crying and get up!"
+"Stop crying and get up! We need to get out of here before the school blows
+up."
 
 When Ryn kept crying, Fera was furious. She kicked him repeatedly until she was
 gasping for breath from the exertion. Ryn was not making any sound whatsoever.
@@ -695,15 +706,13 @@ life.
 
 "Are you concerned for my wellbeing?", Ryn asked, scaring Fera.
 
-"No!", Fera replied, punching Ryn in one of the eyes he had just opened.
+"No!", Fera replied, punching Ryn in the face with a begloved hand.
 
-Fera looked Ryn who was shielding his eyes from the light.
-His face was swollen and covered with bruises. Was he not defending himself at
-all from her kicks?
+Fera looked at Ryn. His face was swollen and covered with bruises. Was he not
+defending himself at all from her kicks?
 
-"Get moving. We can't waste anymore time."
-
-"What are we waiting for? Why are we wasting time just standing her?"
+"Get moving. We can't waste anymore time. What are you waiting for? Why are you
+wasting time just laying there?"
 
 "Please wait a moment.", Ryn said with eyes closed.
 
@@ -712,30 +721,58 @@ shoulders and shaking him.
 
 "I'm creating a diversion."
 
-"How? By growing roots? Are you making food from the sunlight like a
-plant?"
+"How? By growing roots? By making food from the sunlight like a plant?"
 
-"How did you know I can photosynthesize?", Ryn asked opening his eyes wide in
-shock. When Ryn realized that Fera did not know that he could photosynthesize
-until he gave it away, he got flustered.
+"How did you know I can grow roots and photosynthesize?", Ryn asked opening his
+eyes wide in shock. When Ryn realized that Fera did not know about his
+plant-like abilities until he gave it away, he got flustered.
 
 "You mustn't tell anyone anything!", Ryn exclaimed.
 
-The hallway suddenly filled with a birds.
+Fera stood up and then immediately crouched down again.
 
-...
+The hallway suddenly filled the sound and movement as thick mass of birds flew
+in through the holes in the walls.
 
-Ben and Ed try to force her to deactivate the school self-destruct system. Ed
-wrestles guardGorillas, Ben uses powerskates and taser batons, but Ed leaves
-when Ben is knocked unconscious. Fera faces off against Ben and Ed, Ryn
-deactivates the lights trying to gain an advantage over Fera. Ryn stays to stop
-Fera, she laughs at him for being a weakling, and when Kaia had guardGorillas
-break a hole in the wall to get some light, Ryn summons birds to fight the
-robotic animals. Fera is terrified but she finds
-Ryn in the darkness by his glowing eyes and kicks him repeatedly in the face
-with the vomit covered powerskate.
+Ryn pulled Fera down and shielded her from the birds with his body.
 
-...
+Fera signalled to every nearby robotic bird, bat, and bee to fight the avian
+invaders.
+
+"Did you do this?", Fera asked over the sound of the birds clashing with the
+animalAutomatons.
+
+Ryn nodded. "I am sorry, Fera, but my diversion worked. I think you are really
+amazing, but I cannot allow you to blow up the school.", Ryn said as he floated
+away from Fera.
+
+Ben and Edl were standing over Fera. Edl was holding Ryn in his arms, while Ben
+was holding a stunStaff in each hand.
+
+"Greetings Fera. Could you please deactivate the school self-destruct system?"
+
+"No.", Fera said defiantly, calling the guardGorillas to attack Ben and Edl.
+Ben had already disabled the guardGorillas while Fera was distracted by the birds.
+
+"If you continue to refuse, I'm afraid that I will have to shock you with these
+stunStaffs.", Ben said. When he brought the stunStaffs together they crackled
+with electricity.
+
+"You can take those stunStaffs and shove them up your-" Fera said until she
+was interrupted by the shock of a stunStaff.
+
+"I really hate to have to insist. Are you open to deactivating the school
+self-destruct system now?"
+
+"No, but maybe one more shock will do the trick."
+
+Ben sighed and brought one of the stunStaffs in for another shock. This time,
+Fera grabbed the stunStaff and pulled Ben in. With her other hand, Fera grabbed
+Ben's wrist shocked him with the powerglove. Ben crumpled to the floor. Edl set
+Ryn down on the ground and picked up Ben, cradling him in his arms. Edl looked
+at Fera with tears in his eyes and then ran down the hallway, carrying Ben to
+safety.
+
 
 She thinks that no one would charge in now to try to deactivate the
 self-destruct sequence, so Fera grabs the unconscious Ryn and the groggy
@@ -743,7 +780,7 @@ Principal and pulls them out of the school while balancing on only one
 powerskate. Once outside the Principal purchases a motorcycle with a sidecar at
 the microtransit vending machine and then after Fera brings the motorcycle
 around the Principal lifts Ryn onto Fera's lap and they try to escape. In the
-final moments, Fera reflects on Ben, Ed, Ryn, Aira, Sata, and Kaia, starting to
+final moments, Fera reflects on Ben, Edl, Ryn, Aira, Sata, and Kaia, starting to
 cry when she thought about how they might have been friends if things were
 different. She thinks about feeling powerless to stop her abusive father and
 substance dependent mother. As she is knocked off the motorcycle from behind
@@ -797,7 +834,7 @@ going to die, she would not have changed much about today. She just wished she
 could have had a chance to apologize Kaia and Sata. Maybe if things were
 different, they could've been friends? Fera's eyes filled with tears.
 
-Fera thinks about Ben and Ed too, and the life she could have had working in
+Fera thinks about Ben and Edl too, and the life she could have had working in
 the maker workshop, maybe helping Aira and Ryn in the theater.
 
 Fera strokes Ryn's hair and caresses his mangled face.
@@ -815,14 +852,14 @@ horizon.
 
 ...
 
-Ben and Ed on one of their family's airships.
+Ben and Edl on one of their family's airships.
 
-"I hope Fera made it out OK.", Ed asked.
+"I hope Fera made it out OK.", Edl asked.
 
 "I am sure she did. Fera is extremely cunning. I have never before met someone
-who I might consider my intellectual equal.", Ben asked. "No offense, Ed."
+who I might consider my intellectual equal.", Ben asked. "No offense, Edl."
 
-"Is Fera still going to be part of our group?", Ed asked.
+"Is Fera still going to be part of our group?", Edl asked.
 
 "As far as I can tell, she did not do anything against the maker workshop
 rules. The city was safely evacuated and reconstruction has already begun. To
@@ -830,13 +867,13 @@ be frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
 "I am glad that Fera is still in our group."
 
-"Me too." Ben said, patting Ed's massive shoulder.
+"Me too." Ben said, patting Edl's massive shoulder.
 
 Ben receives a notification that Fera's powergloves were destroyed in the blast.
 
 "Maybe she dropped them along the way?"
 
-Ed is already crying at the thought of Fera dying.
+Edl is already crying at the thought of Fera dying.
 
 Looking out the windows of the observation deck of their airship, the brothers,
 both remembering Fera fondly, watched as the sunset behind the smoldering

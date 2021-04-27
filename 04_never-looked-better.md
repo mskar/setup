@@ -8,7 +8,7 @@
 from razor sharp talons. How do I know that this dumb bird won't drop me?" Fera
 said feeling powerless. Her gloves and skates were useless in the air.
 
-Fera drops the gloves and the skates because she doesn't want Ben and Ed to track her.
+Fera drops the gloves and the skates because she doesn't want Ben and Edl to track her.
 
 "Why did you save me?"
 

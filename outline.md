@@ -5,7 +5,7 @@
 - Satalitastra Azymuta (Cacumen): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
 - Feravikadela Fridzia (Cacumen): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
 - Benairwyz (Scender): will learn that his consciousness was created in the digital world and that his body was synthesized by his "parents" to test the ability of people to move back and forth between the physical and digital worlds
-- Edlvardos (Scender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Ed's consciousness during their childhood with the ideals of bravery, etc.
+- Edllvardos (Scender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Edl's consciousness during their childhood with the ideals of bravery, etc.
 - Zekianrov (Echo): will divulge that has been imprinted with the consciousness of an Earthling scientist who was married to a Martian woman, became disillusioned, created the system of echos, destroyed Mars, and orchestrated the plan to imprint his consciousness and his wife's consciousness on future generations of Earthlings
 - Ursaultamora (Scender): will divulge that she was a man who transcended and returned as woman to try to realize her dream of becoming a mother
 - Rynzomirz (Mimic): will divulge that he is pregnant with Keia's child and that he needs regular contact with her or else he will miscarry
@@ -45,7 +45,7 @@ exoskeletons to move around on earth because she suffers from osteogeneza
 imperfecta and her bones are brittle and weak after a lifetime in space. Dzaa
 is a Mung girl who grew up on a spacecraft that was spinning wildly out of
 control. After a lifetime of being exposed to extreme G forces, Dzaa became
-extremely strong, the exact opposite of Aka. Dzaa falls for Edl, because he is
+extremely strong, the exact opposite of Aka. Dzaa falls for Edll, because he is
 the only man she has seen who can rival her strength. Ben takes an interest in
 Daka's exoskeleton, which she built herself in space (a throwback to his
 earlier interest in Fera). The Mung people are named after the Mung beans that
@@ -338,8 +338,8 @@ asked nervously.
 
 Eiva's baby is a girl. Kaia's baby is a boy.
 
-In the game that Keia and Ed play after they are sent home from school, Keia is
-a thief and Ed is a knight. He constantly lets her get all of the power-ups and
+In the game that Keia and Edl play after they are sent home from school, Keia is
+a thief and Edl is a knight. He constantly lets her get all of the power-ups and
 the XP from important enemies. When Ben and Ryn join, Ben is a summoner mage
 and Ryn is a priest.
 
@@ -352,8 +352,8 @@ and Ryn is a priest.
     - Each student is shocked in a random order and the wait builds tension
     - Keia's friends give her advice on how to handle the shock
     - Ben suggests using mind over body principle to deal with the pain
-    - Ed says he will imagine himself as a rock and thus not feel any pain
-        - Ben jokes that it must be easy for Ed to imagine himself as a rock
+    - Edl says he will imagine himself as a rock and thus not feel any pain
+        - Ben jokes that it must be easy for Edl to imagine himself as a rock
           given the many similarities
     - Ursa says that it is ok to cry
     - Dan tells Keia to focus on the stakes
@@ -362,7 +362,7 @@ and Ryn is a priest.
           jobs in the future
     - Each of her Friends reacts to the shock differently
         - Ben trembles
-        - Ed shows no signs of distress
+        - Edl shows no signs of distress
         - Dan pretends to enjoy it and asks to be shocked again
         - Al pretends to get a kick out of the shock (what a rush!)
         - Ursa cries out in pain and struggles to hold back tears
@@ -379,39 +379,39 @@ and Ryn is a priest.
   - Keia's parent are disappointed with Keia
   - They tell her that the recording of her reaction to the shock is trending
     on social media
-2. Keia gets attacked by bullies during lunch and Ed comes to her rescue
+2. Keia gets attacked by bullies during lunch and Edl comes to her rescue
 - The bullies use lunch trays to block the view of cameras, encircle Keia, knock her down, and start kicking her
-- Keia and Ed are blamed for starting the fight
-- Keia and Ed meet with the school principal
+- Keia and Edl are blamed for starting the fight
+- Keia and Edl meet with the school principal
 - The principal is furious and sweats profusely, but calms down after snapping his fingers and clicking his tongue to summon BuzzBees and BuzzBats to provide drug cocktails via stings and bites.
-3. Keia and Ed are sent home
-  - Keia asks if she can go to Ed's house
-  - Keia is surprised by how affluent Ed's family appears and asks why he
+3. Keia and Edl are sent home
+  - Keia asks if she can go to Edl's house
+  - Keia is surprised by how affluent Edl's family appears and asks why he
     doesn't go to private school if his family can afford
-  - Ed answers that his parents think that private school makes students lazy
-  - Ed gives Keia food (she didn't have a chance to eat anything during lunch) and takes her downstairs
-  - Keia see Ed's weight set and asks he can really lift that much weight
-  - Ed appears nervous and flustered and starts explaining that he just wanted
+  - Edl answers that his parents think that private school makes students lazy
+  - Edl gives Keia food (she didn't have a chance to eat anything during lunch) and takes her downstairs
+  - Keia see Edl's weight set and asks he can really lift that much weight
+  - Edl appears nervous and flustered and starts explaining that he just wanted
     to see how many plates can fit on the bar
-  - Keia laughs and says that she doesn't care how much Ed can lift and she
+  - Keia laughs and says that she doesn't care how much Edl can lift and she
     convinces him to show her
-  - After watching Ed bench an incredible amount of weight, she tells him to
+  - After watching Edl bench an incredible amount of weight, she tells him to
     give it a rest because she was already impressed
-  - Ed says very nervously that he wasn't trying to impress her
-  - Keia touches Ed's shoulder and leans in the kiss him but changes her mind
+  - Edl says very nervously that he wasn't trying to impress her
+  - Keia touches Edl's shoulder and leans in the kiss him but changes her mind
     when ruins the moment by wondering whether his brother is ok
-  - Keia excuses herself to go to the bathroom and starts to cry when she sees her bruised and puffy face thinking that Ed didn't want to kiss her because of the way she looked.
-  - While playing vids, Keia realizes that Ed lets her get all of the
+  - Keia excuses herself to go to the bathroom and starts to cry when she sees her bruised and puffy face thinking that Edl didn't want to kiss her because of the way she looked.
+  - While playing vids, Keia realizes that Edl lets her get all of the
     power-ups and softens up enemies before letting her get the XP from kills
-  - When Ben gets home, he joins them in the vid and she notices that Ed
+  - When Ben gets home, he joins them in the vid and she notices that Edl
     switches to from helping her to supporting Ben
-  - Keia thinks she sees Lita in the game, but Ben and Ed say it might be
+  - Keia thinks she sees Lita in the game, but Ben and Edl say it might be
     because she got hit in the head
 4. Keia is attacked in the cafeteria again
-- the bullies distract Ed by attacking Ben, who fights off the bullies using robotic animals.
+- the bullies distract Edl by attacking Ben, who fights off the bullies using robotic animals.
 - Keia, Ursa, Ryn, Nila, Lita hop on the table and keep the bullies at bay with their lunch trays
-5. Keia, Ben, Ed, Ursa, Ryn, Nila, Lita meet with the principal who plans to expel them, but Ed gets the BuzzBees and BuzzBats to give the principal an extra dose of drugs and then convinces the principal to punish them with community service instead of expulsion
-6. Keia, Ben, Ed, Ursa, Lita discover the grotto and meet Lyndsi and agree to show her the outside world
+5. Keia, Ben, Edl, Ursa, Ryn, Nila, Lita meet with the principal who plans to expel them, but Edl gets the BuzzBees and BuzzBats to give the principal an extra dose of drugs and then convinces the principal to punish them with community service instead of expulsion
+6. Keia, Ben, Edl, Ursa, Lita discover the grotto and meet Lyndsi and agree to show her the outside world
 
 x. Keia meets Granny
 

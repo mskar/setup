@@ -36,7 +36,7 @@ wife and starting a family with him was more than Aira could have ever dreamed.
 The detox treatments have different effects on different people. Figa shuts
 down, Ursa starts crying and loses her strength and agility she
 doesn't want to see anyone because she thinks she looks ugly and doesn't want to
-talk because she thinks that her voice is different, Ed gets confused and weak
+talk because she thinks that her voice is different, Edl gets confused and weak
 and is not sure where to go or what to do. It causes mimics to grow membranes
 and turn black in an effort to maximize photosynthesis.
 
@@ -53,7 +53,7 @@ to help rescue Aira and Lan. She tells Kaia and Sata that the only way
 to rescue them is to accept sinistrae nanotech. Zek also agrees to help. They
 go in teams.
 
-- Ben, Ed, and Ryn
+- Ben, Edl, and Ryn
 - Zek, Ursa, and Figa
 - Kaia, Sata, and Fera
 
@@ -70,7 +70,7 @@ child.
 Kaia comforts Ryn and he imprints on her.
 
 Ryn begins working on a way to adapt mimics to sinistrae nanotech. He goes to
-work at Ben and Ed's parents' company. After he solves it, he starts
+work at Ben and Edl's parents' company. After he solves it, he starts
 distributing the inoculation to mimics everywhere. He secretly hatches a plan
 to destroy the government and dextrae companies. He sabotages PeoplePrinters
 around the world and starts replacing people with dopplegangers who say they
