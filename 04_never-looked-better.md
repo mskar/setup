@@ -1,14 +1,15 @@
 ## Chapter 4
 
-"What is this Lord-Of-The-Rings, deus-ex-machina bullshit?", Fera screamed.
+"What is this Lord-Of-The-Rings, deus-ex-machina nonsense?", Fera screamed.
 
 "Are you upset that you did not die?", Ryn asked confused.
 
 "No, but being saved by a giant bird is weird, and I don't like dangling in air
 from razor sharp talons. How do I know that this dumb bird won't drop me?" Fera
-said feeling powerless. Her gloves and skates were useless in the air.
-
-Fera drops the gloves and the skates because she doesn't want Ben and Edl to track her.
+said feeling powerless. Her gloves and skates were useless in the air. Fera
+remembered that Ben said that all the equipment from the maker workshop had
+trackers. Fera hastily removed her gloves and skates, dropping them into the
+city below.
 
 "Why did you save me?"
 
@@ -29,7 +30,7 @@ any harm and perhaps may even by fond of me."
 
 "Don't flatter yourself."
 
-"You were touching my hair and face very gently."
+"You touched my hair very gently."
 
 "You were unconscious. You were probably just dreaming."
 
@@ -37,10 +38,10 @@ any harm and perhaps may even by fond of me."
 
 "What?"
 
-"You obviously feel affection towards me but do not want to admit it."
+"You obviously feel affection towards me but you do not want to admit it."
 
 "When we land, I will show you some affection with my foot on your face. I'm
-going to tscender, love, and care your face until there's nothing left." Fera
+going to tender, love, and care your face until there's nothing left." Fera
 screamed swinging at arms and legs at Ryn.
 
 "Please Fera, you're upsetting the birds. I do not believe you anyway. You are
@@ -65,15 +66,71 @@ land."
 
 "You do not have much of a choice in the matter."
 
-The eagles brings Fera, Ryn, and the Principal down on top of a hill.
+The eagles set Fera, Ryn, and the Principal down next to a forest.
+
+"The entrance is hidden in the forest. We have to walk the rest of the way."
 
 "How come the eagle didn't rip your shirt as much as mine?"
 
 "Unlike you, I am friendly towards birds."
 
-"Don't you know where entrance is?"
+Only a few minutes into the forest, Fera and Ryn noticed that the Principal
+looked terrible. After a few more minutes, the Principal fell over and began to
+shake.
 
-"I don't have the entire map of the tunnel system memorized."
+"He's going into withdrawal!", Ryn said.
+
+"What should we do?", Fera asked.
+
+"I'm going to call for help."
+
+"No more birds!", Fera yelled.
+
+"Ok, no more birds.", Ryn agreed.
+
+Ryn closed his eyes. Before long, two stags emerged from the trees.
+
+Fera and Ryn lifted the Principal onto one of the stags. Ryn grabbed onto the
+antlers of the stag carrying the Principal and swung himself up onto its back.
+Fera did her best to mount the other stag as gracefully as Ryn. The stags
+sprinted in between the trees as if they knew exactly where to go. Fera had
+never even ridden a horse, much less a stag. She held onto the antlers of her
+stag for dear life. The stags stopped in front a giant tree. Ryn hopped of his
+stag and raised arms showing his palms.
+
+"We need your help!", Ryn said.
+
+"Ryn, there's no one here."
+
+Ryn kept looking at the giant tree.
+
+"Do you expect the tree to help us? Are you going to show it how you can grow
+roots and photosynthesize?"
+
+"You mustn't tell anyone anything!", Ryn said forcefully.
+
+"Look, if this tree is your whole plan, then I think the Principal is as good
+as dead."
+
+A door opened up in the side of the giant tree and small elderly woman got out.
+
+"Who are you to request the aid the druidicDryads?"
+
+"I am Ryn. One of my companions is recovering from exposure to narcotics. He
+may die without your help."
+
+"How is it that you know this forest?"
+
+"I do not this forest, but these stags do."
+
+"How is it that you can command the stags?"
+
+"I am a mimic."
+
+"A mimic? We have heard of your kind. That means that these stags are mimics
+too and not real animals."
+
+"We"
 
 "Are you sure it is not a question of motivation? I am sure a few kicks to the
 face would motivate you."
