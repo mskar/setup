@@ -41,7 +41,7 @@ and is not sure where to go or what to do. It causes mimics to grow membranes
 and turn black in an effort to maximize photosynthesis.
 
 The government starts abducting mimics around the world.
-Aira and Lans are taken by the government.
+Aira and Lan are taken by the government.
 
 Kransal is indifferent to Aira being taken. He says that she lied to him about
 being a Lunker.
@@ -49,7 +49,7 @@ being a Lunker.
 Fera, Ryn, and Naksos arrive at the refugee camp. Fera promises everyone that she
 has no idea how the government got sinistrae nanotech or figured out how to use
 it to detect mimics. As proof that she has nothing against mimics, she offers
-to help rescue Aira and Lans. She tells Kaia and Sata that the only way
+to help rescue Aira and Lan. She tells Kaia and Sata that the only way
 to rescue them is to accept sinistrae nanotech. Zek also agrees to help. They
 go in teams.
 
@@ -61,7 +61,7 @@ Is this when Ben becomes obsessed with studying Kaia's brain? When Kaia
 demonstrated her ability to simultaneously control dextrae and sinistrae
 nanotech?
 
-Aira and Lans are already dead when they find them at the government detention
+Aira and Lan are already dead when they find them at the government detention
 center.
 
 Ryn is heartbroken when he finds out that Aira was pregnant with Kransal's

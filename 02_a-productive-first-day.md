@@ -27,7 +27,7 @@ observing her in the darkness.
 
 "You know you're creepy as hell.", Fera said.
 
-"Yes, I am aware of that. I am still learning how to interact with topsiders. My
+"Yes, I am aware of that. I am still learning how to interact with Cacumens. My
 sister is much better. She is a people person.", Ryn answered.
 
 "Well, then bring her here. I'd rather talk to her."
@@ -384,7 +384,7 @@ scroll from Ben.
 Fera looked at him sternly.
 
 "You're right. It is not ancient. I burnt the edges and then poured tea all
-over it." Ben said, surrendering the scroll to Fera.
+over it." Ben said, surrscendering the scroll to Fera.
 
 Fera looked at the scroll intensely. "It's very convincing. If it weren't for
 the signature, I might not have figured it out right away."
@@ -579,7 +579,7 @@ rolling down his cheeks until they disappeared in the darkness.
 
 "Lunkers are weird."
 
-"I think it is weird that topsiders say things that they know are not true or
+"I think it is weird that Cacumens say things that they know are not true or
 say things to hurt each other on purpose."
 
 "Do Lunkers always tell the truth and never insult each other?"

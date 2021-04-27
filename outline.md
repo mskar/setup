@@ -1,18 +1,35 @@
-Characters:
+## Characters:
+
 - Kaiakelaaila Erkadia (Echo): will learn that she was imprinted with the consciousness of
   a long dead Martian woman whose world and culture was destroyed and forgotten long ago
-- Satalitastra Azymuta (Human): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
-- Feravikadela Fridzia (Human): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
-- Benairwyz (Ender): will learn that his consciousness was created in the digital world and that his body was synthesized by his "parents" to test the ability of people to move back and forth between the physical and digital worlds
-- Edlvardos (Ender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Ed's consciousness during their childhood with the ideals of bravery, etc.
+- Satalitastra Azymuta (Cacumen): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
+- Feravikadela Fridzia (Cacumen): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
+- Benairwyz (Scender): will learn that his consciousness was created in the digital world and that his body was synthesized by his "parents" to test the ability of people to move back and forth between the physical and digital worlds
+- Edlvardos (Scender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Ed's consciousness during their childhood with the ideals of bravery, etc.
 - Zekianrov (Echo): will divulge that has been imprinted with the consciousness of an Earthling scientist who was married to a Martian woman, became disillusioned, created the system of echos, destroyed Mars, and orchestrated the plan to imprint his consciousness and his wife's consciousness on future generations of Earthlings
-- Ursaultamora (Ender): will divulge that she was a man who transcended and returned as woman to try to realize her dream of becoming a mother
+- Ursaultamora (Scender): will divulge that she was a man who transcended and returned as woman to try to realize her dream of becoming a mother
 - Rynzomirz (Mimic): will divulge that he is pregnant with Keia's child and that he needs regular contact with her or else he will miscarry
 - Lanseltos (Mimic): Ryn's best friend
-- Airanilaresa (Mimic): Ryn's sister, then Taz's lover
+- Airanilaresa (Mimic): Ryn's sister, then Taz's lover, Aira is Ursa's trunderstudy (triple understudy), Kaia convinces Ursa to pretend she is sick, and kidnaps Ursa's dunderstudy and understudy so that can perform in front of Taz.
 - Tazoltvan Kransal (Lunker): Strike force officer, then Aira's lover
-- Meliedion Naiksos: School Principal, then Administrative Assistant to Dela
+- Meliedion Naiksos (Cacumen): School Principal, then Administrative Assistant to Dela
+- Dzaa (Mung): Very strong from growing in extreme gravity. Thinks people on Earth are weak.
+- Daka (Mung): Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 
+## Civilizations:
+
+- Cacumina (topsiders)
+- Martians
+- Thelusians
+- Scenders
+- Arborists
+- Atlantans
+- Zeppelinomads
+- Mimics
+- Mungs
+- Lunkers
+
+## Names:
 
 - Female names are created from given name, mother's name, maternal grandmother's
 (waipo's) name, e.g. Kaia, Kela, Aila
@@ -20,6 +37,8 @@ Characters:
 father's name, paternal grandfather's (yeye's) name, e.g. Zek, Ian, Rov
 
 Girls take their mother's last name, while boys take their fathers last name.
+
+## Mungs:
 
 Intro two new characters named Dzaa and Daka. Aka is a Mung girl who needs
 exoskeletons to move around on earth because she suffers from osteogeneza
@@ -52,7 +71,7 @@ even Mungs.
 
 "Yes, Lunkers and Mungs."
 
-"What about Antlanteans?"
+"What about Atlantans?"
 
 "The fish people? Ok, sure they can have freedom and equality too."
 
@@ -64,7 +83,7 @@ even Mungs.
 
 "Stop naming various ethnicities already! Look, everyone will get freedom and equality."
 
-It is very important for Mungs to be a sovereign nation. We don't want end up like the Zeppeliners.
+It is very important for Mungs to be a sovereign nation. We don't want end up like the Zeppelinomads.
 
 Nomads that roamed the air in the their floating cities. To be honest, they
 were a nuisance. They would hunt birds for food, hijack airships, and dump
@@ -72,16 +91,16 @@ their trash on the people below. Luckily, the government wiped them all out by
 igniting all of their hydrogen and taking away all of their precious helium.
 
 Arborists show up to ask Fera to promise that she will protect the trees,
-Antlanteans ask Fera to promise to respect the oceans. Fera agrees in exchange
+Atlantans ask Fera to promise to respect the oceans. Fera agrees in exchange
 for their promise to support the revolution.
 
-A descendant of the Zeppeliners approaches Fera asking for her help to rebuild
-the Zeppelin civilization. Fera's advisors tell her not to because Zeppeliners
+A descendant of the Zeppelinomads approaches Fera asking for her help to rebuild
+the Zeppelin civilization. Fera's advisors tell her not to because Zeppelinomads
 were jerks.
 
 "Why is there a downvote arrow on your head?"
 
-Fera asks what the Zeppeliner what he can bring to the revolution.
+Fera asks what the Zeppelinomads what he can bring to the revolution.
 He says that he can control the air.
 
 "What good are gusts of wind good for?"
@@ -121,7 +140,7 @@ thing, and I said that's what SHE said." Eiva broke out laughing again.
 
 "Yes, how many soldiers can you contribute to the revolution?"
 
-"Zeppeliners were always peaceful. We only stole what we needed for our
+"Zeppelinomads were always peaceful. We only stole what we needed for our
 floating cities."
 
 "Ok, if you do not have any soldiers, what do you have? Workers? Inventors?
@@ -148,7 +167,7 @@ fanboy."
 
 "Show a little initiative and find the fan yourself, you little runt! Do you
 think the bone queen should solve all of your problems? Get going before I fill
-you with hydrogen and lit you on fire!" Fera exploded, finally losing her
+you with hydrogen and light you on fire!" Fera exploded, finally losing her
 patience.
 
 Fera later becomes the CorporateCouncil Chair and becomes the most popular
@@ -164,16 +183,16 @@ rid of her so that she could live with Eiva and Fera.
 
 Fera stations guards around the secret locations of the eternalEnlighted. If
 the eternalEnlighted ever disobey her, the guards are instructed to destroy all
-of the brain tanks. She grants sovereignty to the Antlanteans, Arborists,
+of the brain tanks. She grants sovereignty to the Atlantans, Arborists,
 Mungs, and Lunkers, as she promised, and she forms two new branches of
 government: a monarchy with her as the queen and a council with a
-representative from the Antlanteans, the Arborists, the Lunkers, and the Mungs.
+representative from the Atlantans, the Arborists, the Lunkers, and the Mungs.
 
 Fera gives herself a permanent seat on the new council with veto power and puts
 her fanboy on the Council as the Zeppeliner representative and uses him as her
 puppet.
 
-Ryn asks for a seat on the council for mimics. Ben virtually represents Enders,
+Ryn asks for a seat on the council for mimics. Ben virtually represents scenders,
 because he still cannot obtain a body. Kaia is asked to represent Martians.
 Figa represents Thelusians.
 
@@ -186,6 +205,9 @@ veto power and final say over their decisions. Fera is Chair of the
 CorporateCouncil and the most popular streamer in the DemocracticDelegation.
 She is a permanent member of the electedEthnicities representing sinistrae.
 Dextrae do no get representation in the government.
+
+Fera is planning to invade Mars and recover it from the Thelusians. Having
+complete control of Earth, she launches her assault on Mars.
 
 The next books focus on Eiva's daughter and Kaia's son. Eiva's daughter is
 training to be queen. Kaia's son is not as good at controlling sinistrae as
@@ -223,7 +245,7 @@ her with an amused expression on her face.
 
 "Was it that good? I wasn't expecting you get all googly eyed on me."
 
-Kaia started to laugh. Lita was back after years living as in the Enderverse.
+Kaia started to laugh. Lita was back after years living as in the scenderverse.
 Her worries that things would be different were dispelled. The horrible
 waiting, the terrible uncertainty, the crushing doubt, all of it faded away.
 Kaia couldn't express what she was feeling.
@@ -237,7 +259,7 @@ longer willing to hide her emotions.
 "I've waited years for this. I never asked any of you for anything, never
 anything for myself. Get the hell out and leave us alone!"
 
-Everyone was shocked.
+Kaia's son was shocked.
 
 "Sure, no problem. You're welcome for reuniting you with the love of your life
 by the way. Now that I've accomplished the impossible, I'll just go and sit in
@@ -262,7 +284,7 @@ I was waiting for you to make me a new body."
 Kaia laughed. "Are you planning to do something naughty to me?"
 
 "I honestly wouldn't even know where to begin.", Lita admitted, "I was a virgin
-before I died and I didn't even have a body in the Enderverse, much less a love life."
+before I died and I didn't even have a body in the scenderverse, much less a love life."
 
 "I'm still a virgin too.", Kaia said bashfully.
 
@@ -272,9 +294,6 @@ before I died and I didn't even have a body in the Enderverse, much less a love 
 
 "I remember. You told me before. I was just teasing you."
 
-
-Fera is planning to invade Mars and recover it from the Thelusians. Having
-complete control of Earth, she launches her assault on Mars.
 
 No one can carry a cellphone because during the war cellphone's could be caused
 to detonate spontaneously. Kaia later learns to detonate anything with a fuel

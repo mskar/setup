@@ -40,7 +40,7 @@ any harm and perhaps may even by fond of me."
 "You obviously feel affection towards me but do not want to admit it."
 
 "When we land, I will show you some affection with my foot on your face. I'm
-going to tender, love, and care your face until there's nothing left." Fera
+going to tscender, love, and care your face until there's nothing left." Fera
 screamed swinging at arms and legs at Ryn.
 
 "Please Fera, you're upsetting the birds. I do not believe you anyway. You are
@@ -70,6 +70,71 @@ The eagles brings Fera, Ryn, and the Principal down on top of a hill.
 "How come the eagle didn't rip your shirt as much as mine?"
 
 "Unlike you, I am friendly towards birds."
+
+"Don't you know where entrance is?"
+
+"I don't have the entire map of the tunnel system memorized."
+
+"Are you sure it is not a question of motivation? I am sure a few kicks to the
+face would motivate you."
+
+"Wait."
+
+"I am not going to wait."
+
+"Wait, we are surrounded."
+
+"There's no one here, Ryn."
+
+"We are Arborists. We speak for the trees. You are trespassing in our forest."
+
+"I am Fera. We have no interest in your forest, we are trying to find the
+entrance to Fundus."
+
+"The Cacumina will look for people to blame for the destruction of their city."
+
+"They're not going to blame you."
+
+"How can you be certain of this?"
+
+"Because I am the one who blew up the city."
+
+"How did a child such as you destroy a whole city?"
+
+"She activated the self-destruct sequence of the school reactor, which caused a
+chain reaction and all of the reactors in the city exploded at once."
+
+"Why did you blow up the city?"
+
+"I am tired of government-mandated oppression. I blew up the city as part of
+the revolution that will overthrow the government and usher in a new era of
+freedom and equality."
+
+The Arborists conferred.
+
+"Your words do not sound hollow. We will allow you pass. Moreover, we will
+guide you to the nearest entrance to Fundus. First, we wish to equip the city
+destroyer for her quest to overthrow the government."
+
+Fera a bit disappointed that knives and arrows she received were completely
+wooden. When she tried the edges of the knives, she was surprised that they
+were quite sharp.
+
+"The knives and arrows are lignum vitae wood. They cannot break steel, but they can cut flesh."
+
+The shoes, moccasins made out of animal skin, were a big improvement
+over walking in her socks along. The Arborists assumed that Fera knew how to
+shoot a bow, but the truth she had no idea.
+
+"Why do your people live in the forest?"
+
+"It is the same reason why Fundis hid below and Atlantans went underneath the
+ocean. A long time in a great war, light would come down from the sky to kill
+those who walked in the open. Our Ancestors noticed that if we stayed in the
+forest that we would not die from the light. Our ancestors thought that the
+light was sent from the heavens to show us the correct way to live. Even when
+the light stopped taking people who walked in the open, we stayed in the
+forest."
 
 Ryn takes them to the Lunker colony.
 
@@ -151,7 +216,7 @@ Nila is their 15th daughter."
 "Nila was my mother's name!"
 
 Fera remembered that Kaia's waipo's name (mother's mother's name) was Aila.
-Perhaps Lunkers were not that different from topsiders?
+Perhaps Lunkers were not that different from Cacumina?
 
 "Do you have an older brother named Nil by any chance?"
 
@@ -166,7 +231,7 @@ is to take you to the lake and get you on the boat!"
 
 "He fell on his face. Repeatedly. So clumsy. He really should learn to be more
 careful." Fera saw the two bloody rocks she had dropped earlier and hastily
-flung them away with her feet.
+kicked them away.
 
 When Nil regained consciousness, he saw Fera and shrunk back in fear.
 
@@ -184,7 +249,7 @@ learn to be more careful."
 stupid lake, but if you slow us down, we're going to leave you behind and go
 ourselves."
 
-Nil was on his feet in a flash. "No if you go yourselves, we will not get
+Nil was on his feet in a flash. "No, if you go yourselves, we will not get
 paid."
 
 "Well, then you better not slow us down."
@@ -193,15 +258,11 @@ paid."
 
 "Why is this place called Wieliczka?"
 
-"This mine has been called many things over the years. The first name was Magnus Sal, from ancient Latin, and the name Wieliczka, from ancient Polish, was just an alias."
+"This mine has been called many things over the years. Magnus Sal, from ancient Latin, and Gross Salce, from ancient German.
 
 "Magnus Sal? Meaning great salt?"
 
-"Yes, the first."
-
-"The meaning is the subject of ongoing debate of toponomastic experts. In the
-past, mine has been called Gross Salce from ancient German and Wielka Sól or
-Wieliczka in ancient Polish."
+"Yes, the translation of Magnus Sal into Ancient Polish, Wielka Sól, is the supposed origin of the name Wieliczka.
 
 "These tunnels were carved by ancient miners."
 

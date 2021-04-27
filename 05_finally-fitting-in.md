@@ -1,10 +1,10 @@
 ## Chapter 5: Finally fitting in
 
-Lans is upset to leave all of the supplies behind,
+Lan is upset to leave all of the supplies behind,
 especially the food. Officer Kransal arranges for a smaller airship to the
 refugee camp where all the other students are to meet. A refugee camp school is
 repurposed and expanded to hold all of the new students in addition to the
-original refugees that already lived in the camp. Lans decides to work in the
+original refugees that already lived in the camp. Lan decides to work in the
 kitchen and uses his connections and swagger to get more food and other
 supplies for the camp.
 

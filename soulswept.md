@@ -30,7 +30,7 @@ which unfortunately led to another round of jeers. Seeing her best which Lita
 appeared to be tormented by invisible demons and tossed about by an unseen
 hand, were mercifully rare. 
 
-### Lans
+### Lan
 
 "Can I tell you something? I want to tell you, but you mustn't tell anyone
 anything, please."
@@ -39,7 +39,7 @@ Kaia emphatically agreed and Lita was quick to echo the sentiment.
 
 "When I was little, I lived in a orphanage made of stone. I was happy, because
 I had so many friends, but it was hard. There was no one to take care of us.
-Everyone was hungry all of the time, except for me, because-", Lans looked
+Everyone was hungry all of the time, except for me, because-", Lan looked
 around the empty airship cabin, "I can photosynthesize."
 
 "After all the buildings were replaced with factories, we stopped seeing any
@@ -48,7 +48,7 @@ slowly turned into sludge and all the vegetation died. My friends and I stopped
 being able to find food. I didn't want to see them starve, so I begged them to
 eat me first, but they wouldn't, they said they didn't want to hurt me. When it
 got really bad, I was the only who could still move. I would cut off pieces",
-Lans pointed to his torso, arms, and legs, "and give it to them, but the meat
+Lan pointed to his torso, arms, and legs, "and give it to them, but the meat
 would grow back so slowly and there were so many friends to feed. When a friend
 died, I would redistribute them to the friends who were still alive, but soon
 all my friends were gone. When the constructions crews came to clear the
@@ -58,7 +58,7 @@ get taken. My parents were taken, because they were different. If someone finds
 out about me, I will get taken too. That's why you mustn't tell anyone
 anything."
 
-When Lans finished his story, Kaia looked back at Lita. Neither of them had any
+When Lan finished his story, Kaia looked back at Lita. Neither of them had any
 idea what to do.
 
 "Everyone has these incredibly traumatic events in their lives. Are you going

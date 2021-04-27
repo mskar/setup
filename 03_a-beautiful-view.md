@@ -99,15 +99,15 @@ They hugged and spun around, laughing like children.
 When Kaia and Sata walked up to them, Aira put her arm around the young man and
 gestured towards the two girls.
 
-"Lans, this is Kaia and Sata. Kaia and Sata, this is Lans."
+"Lan, this is Kaia and Sata. Kaia and Sata, this is Lan."
 
-Lans stepped forward and bowed with a flourish.
+Lan stepped forward and bowed with a flourish.
 
 "Very pleased to make your acquaintance. Any friend of my Airunianunia is a
 friend of mine! Please, follow me. I have the best seats in the best airship
 reserved for only the best of the friends."
 
-"Airship?!", Aira exclaimed. Lans stopped and looked at the girls.
+"Airship?!", Aira exclaimed. Lan stopped and looked at the girls.
 
 "Haven't you heard?! The entire city is going to explode! We have to be ready
 to evacuate as soon as we get the signal."
@@ -130,17 +130,17 @@ exits.
 they're in no hurry to launch, but we might as well wait inside. Come on, we
 can have some refreshments. You all look positively parched and famished!"
 
-As they approached a regal looking airship, Lans suddenly changed course waving
+As they approached a regal looking airship, Lan suddenly changed course waving
 towards a strike team officer with one hand and pulling Aira behind him. The
 strike team officer looked very intimidating. His face was hidden behind a
 black balaclava and dark sunglasses. He was resting his hands on a massive
 rifle that was slung over his shoulder. The exoskeleton armor he was wearing
 made him look could wrestle a guardGorilla and win.
 
-Officer Kransal!, Lans exclaimed, "I'd like to introduce you to Aira and her
+Officer Kransal!, Lan exclaimed, "I'd like to introduce you to Aira and her
 friends Kaia and Sata."
 
-Getting behind Aira, Lans whispered something into her ear, carefully took her
+Getting behind Aira, Lan whispered something into her ear, carefully took her
 satchel, and gently nudged her forward.
 
 Aira adjusted her hair and approached the officer shyly, but pretty soon they
@@ -148,11 +148,11 @@ were standing next to each other as they posed for a picture together. Aira's
 face was flushed with emotion as beamed at the pictureParrot that perched in
 front of them. She put her hand on Officer Kransal's arm and leaned into him as
 he stood motionless. After the picture, she came back to stand next to Kaia and
-Sata. Lans walked up to Officer Kransal and stood next to him speaking in a
-hushed tone. The officer nodded, then Lans stuck out his elbow and two briefly
+Sata. Lan walked up to Officer Kransal and stood next to him speaking in a
+hushed tone. The officer nodded, then Lan stuck out his elbow and two briefly
 connected elbows.
 
-As they resumed their trajectory to the airship, Lans was smiling ear to ear.
+As they resumed their trajectory to the airship, Lan was smiling ear to ear.
 
 "It's all taken care of. Thanks to Aira, our airship has official VIP
 designation and all of the best local shops are being requisitioned for the
@@ -168,7 +168,7 @@ Aira was blushing deeply and she pulled in Kaia and Sata on either side of her.
 through the tears.
 
 As soon as they were in the gangway of the airship, Aira pulled Kaia and Sata
-into a huddle as Lans was on the lookout.
+into a huddle as Lan was on the lookout.
 
 "That officer was a Lunker." Aira said as tears dropped down on the ground in
 front of her.
@@ -180,20 +180,20 @@ After wiping her face, Aira pulled the two girls up the gangway into the
 airship. The interior of the airship was impeccably stylish and as far they
 could tell completely empty.
 
-"I'm going to freshen up.", Aira said quickly, "Lans, will you take care of our
+"I'm going to freshen up.", Aira said quickly, "Lan, will you take care of our
 guests?"
 
-Lans launched into his role as host with bravado. He first offered his guests a
+Lan launched into his role as host with bravado. He first offered his guests a
 selection of beverages and did an excellent job hiding his disappointment when
 he found out that he guests only wanted regular water to drink. After the girls
-drank several bottle of water, Lans lifted a silver cover with a flourish to
+drank several bottle of water, Lan lifted a silver cover with a flourish to
 reveal a veritable cornucopia of delicious-looking foods. The two girls began
 to eat with abandon using their hands to shuttle food from the platter directly
-to their mouths. Lans started to explain the unique origins and laud the
+to their mouths. Lan started to explain the unique origins and laud the
 quality of each food item, but then he fell silent when he realized no one was
-listening to him. Kaia could not help but noticed that Lans was growing
+listening to him. Kaia could not help but noticed that Lan was growing
 increasingly uneasy as they ate, but she could not resist the food. After the girls
-cleared almost all of the food on the platter, they looked up at Lans with
+cleared almost all of the food on the platter, they looked up at Lan with
 gratitude.
 
 "That was the best meal I've had in my life." Sata said and Kaia
@@ -201,47 +201,47 @@ enthusiastically agreed.
 
 "I couldn't eat another bite!" Sata added."
 
-"Should we have saved some for Aira?", Kaia asked, trying to guess why Lans
+"Should we have saved some for Aira?", Kaia asked, trying to guess why Lan
 looked so uncomfortable.
 
 "Oh no, we have plenty of food and there's plenty more being loaded now."
 
-"Lans, did we do something wrong?", Kaia asked quietly.
+"Lan, did we do something wrong?", Kaia asked quietly.
 
 "Heavens no, you two are absolutely perfect. I was just hoping that you might
 save a little room for the soup, salad, main course, and dessert, but I am so
-glad that you liked the appetizer tray so much-." Lans said as he burst into
+glad that you liked the appetizer tray so much-." Lan said as he burst into
 tears using the bend in his elbow to cover his face.
 
 "I am really sorry we ate all the appetizers. We'll be hungry again soon I
-promise!", Kaia said trying to cheer up Lans, but he only cried harder. Kaia
-sat down next to Lans and put her hand on his shoulder unsure of how to console
-him. When Lans lifted his tear-soaked face to look at Kaia, she was stunned to
+promise!", Kaia said trying to cheer up Lan, but he only cried harder. Kaia
+sat down next to Lan and put her hand on his shoulder unsure of how to console
+him. When Lan lifted his tear-soaked face to look at Kaia, she was stunned to
 see the deep sorrow in eyes. There was clearly more to the story than the
-appetizer tray. Lans gently leaned into Kaia for a hug, his body was
+appetizer tray. Lan gently leaned into Kaia for a hug, his body was
 occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
 shoulder. When he stopped crying, he looked at Kaia lovingly.
 
-Aira arrives looking gorgeous. Both Kaia and Sata are very impressed. Lans
+Aira arrives looking gorgeous. Both Kaia and Sata are very impressed. Lan
 wipes his eyes and continues entertaining. Aira is anxious for Officer Kransal
 to arrive. When he does, she runs up to him and throws her arms around him.
 Officer Kransal removes and stows away his armor along with his rifle. Without
 the armor, he looks much smaller, but still very intimidating. After they talk
 and eat, Kransal tells them they can call him Taz as long as his not in uniform
 or on duty. Aira announces that she is going to show Officer Kransal around.
-When Kaia asks if they can come too, Lans says that he will show Kaia and Sata
+When Kaia asks if they can come too, Lan says that he will show Kaia and Sata
 around later, separately.
 
 Are you a Lunker too?
 A Lunker?! I was born to shine under the spotlight, not hide in the shadows!
 
 "Earlier, I thought you and Aira together. I don't think that now, obviously."
-"Me with Aira?! Oh no, a leading man needs a leading lady." Lans said.
+"Me with Aira?! Oh no, a leading man needs a leading lady." Lan said.
 
 "Let me introduce you to subject of my affection, but please you mustn't tell
 anyone anything."
 
-Lans introduces Sata and Kaia to Ursa. They knock on the door to Ursa's cabin,
+Lan introduces Sata and Kaia to Ursa. They knock on the door to Ursa's cabin,
 Ursa opens. Sata and Kaia are both extremely impressed with how elegant,
 beautiful, and athletic Ursa is.
 
@@ -254,11 +254,11 @@ day. He gives commands to Ursa and Figa, both of whom are incredibly strong and
 athletic. Ursa is always cheerful. Figa never smiles.
 
 The airship crashes in a lake and sinks to the bottom. Ursa dives into the lake
-and recovers supplies for them. Lans annoys her by asking for more and more
+and recovers supplies for them. Lan annoys her by asking for more and more
 supplies. Figa refuses to get in the water. Since it was already dark, they
 decided to make camp at the airship crash site. They talk around the camp fire.
 Someone notices that Kransal and Aira's eyes glow in the dark. All of the girls
-walk along the side of lake to find a spot to bathe. Kransal, Zek, and Lans
+walk along the side of lake to find a spot to bathe. Kransal, Zek, and Lan
 stay behind. Figa waits by the side of the lake. "I don't do water." The girls
 have fun in the water. Kaia is amazed at how great Sata, Aira, and especially
 Ursa look. Aira and Ursa are surprised to see how Kaia looks underneath all the
