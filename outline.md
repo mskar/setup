@@ -16,9 +16,43 @@
 - Dzaa (Mung): Very strong from growing in extreme gravity. Thinks people on Earth are weak.
 - Daka (Mung): Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 
- "What's a trunderstudy?"
+## Trunderstudy
 
- "A triple understudy. It is like a vice president. Or rather a vice vice vice president.", Aira explained, counting on her fingers with each "vice". "If something happens to the lead performer, the understudy, and the dunderstudy, then I have to be ready to take over, so that the show can go."
+"What's a trunderstudy?"
+
+"A triple understudy. It is like a vice president. Or rather a vice vice vice
+president.", Aira explained, counting on her fingers with each "vice". "If
+something happens to the lead performer, the understudy, and the dunderstudy,
+then I have to be ready to take over, so that the show can go on."
+
+## Eiva's daughter
+
+"Look at what she can do.", Eiva proudly gesturing towards her daughter.
+Fera looked in amazement as the skeleton in front of them danced.
+
+"She can move it with her mind? Did you know she could do that?", Fera asked.
+
+"Throw a bone knife at my face."
+
+"What? No!"
+
+"Fine, aim at my stomach. If I can't block it, you can always stitch up me
+afterwards, but I'm not in any danger, because you throw like a girl."
+
+Fera's favorite activity other than skating was throwing rocks. Whenever she
+was too tired to skate, she would spend hours throwing rocks at abandoned
+buildings. Throwing rocks was an outlet for the anger that Fera felt.
+
+"Come on! Let's see what that noodle arm can do. I bet you can't even reach
+me!"
+
+Fera did not need any further encouragement. She threw a bone knife straight at
+Eiva's chest.
+
+Eiva did not move a muscle, but the knife got knocked away in mid-air.
+
+"I was the best sinistrae wielder during the war. Changing the paths of thrown
+bone knives was my specialty. Too bad I couldn't deflect dextrae bullets."
 
 ## Civilizations:
 

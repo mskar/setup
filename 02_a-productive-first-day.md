@@ -751,35 +751,56 @@ was holding a stunStaff in each hand.
 
 "Greetings Fera. Could you please deactivate the school self-destruct system?"
 
-"No.", Fera said defiantly, calling the guardGorillas to attack Ben and Edl.
+"No.", Fera said defiantly, calling the guardGorillas to attack Ben and Edl, but
 Ben had already disabled the guardGorillas while Fera was distracted by the birds.
 
 "If you continue to refuse, I'm afraid that I will have to shock you with these
 stunStaffs.", Ben said. When he brought the stunStaffs together they crackled
 with electricity.
 
-"You can take those stunStaffs and shove them up your-" Fera said until she
+"You can take those stunStaffs and shove them up your-", Fera said until she
 was interrupted by the shock of a stunStaff.
 
-"I really hate to have to insist. Are you open to deactivating the school
-self-destruct system now?"
+"I really hate to have to insist, but I am still locked out of the system. Are
+you open to deactivating the school self-destruct system now?"
 
 "No, but maybe one more shock will do the trick."
 
 Ben sighed and brought one of the stunStaffs in for another shock. This time,
 Fera grabbed the stunStaff and pulled Ben in. With her other hand, Fera grabbed
-Ben's wrist shocked him with the powerglove. Ben crumpled to the floor. Edl set
-Ryn down on the ground and picked up Ben, cradling him in his arms. Edl looked
-at Fera with tears in his eyes and then ran down the hallway, carrying Ben to
-safety.
+Ben's wrist and shocked him with her powerglove. Ben crumpled to the floor. Edl
+set Ryn down on the ground and picked up Ben, cradling him in his arms. Edl
+looked at Fera with tears in his eyes and then ran down the hallway, carrying
+Ben to safety.
 
+An automated voice reminded them that they should evacuate the building. Dela
+saw that Ryn had fallen to his knees and started to cry. The hallway was filled
+with rubble, destroyed animalAutomatons, and dead birds.
 
-She thinks that no one would charge in now to try to deactivate the
-self-destruct sequence, so Fera grabs the unconscious Ryn and the groggy
-Principal and pulls them out of the school while balancing on only one
-powerskate. Once outside the Principal purchases a motorcycle with a sidecar at
-the microtransit vending machine and then after Fera brings the motorcycle
-around the Principal lifts Ryn onto Fera's lap and they try to escape. In the
+"What are you doing? We have to get out of here."
+
+"They're dead. You killed them."
+
+"I didn't kill anyone. Every started evacuating as soon as I turned on the
+self-destruct sequence."
+
+Ryn gingerly picked up the burnt carcass of a dead bird and hugged it to his
+chest as he cried.
+
+"You mean the birds?!", Fera screamed.
+
+She suddenly felt filled with rage. She started kicking Ryn as hard as she
+could. When Ryn fell over, Fera stopped kicking and tried to pick him up, but
+he refused to stand. The Principal came over and tried to help Fera move Ryn
+but Ryn was not being helpful and they did not get far.
+
+"Lay down on the ground next to Ryn!" Fera barked at the Principal.
+
+The Principal complied immediately. Fera grabbed the Principal and Ryn by the
+hand, then started to drag them through the hallway, meandering around rubble
+while balancing on her only working powerskate.
+
+ In the
 final moments, Fera reflects on Ben, Edl, Ryn, Aira, Sata, and Kaia, starting to
 cry when she thought about how they might have been friends if things were
 different. She thinks about feeling powerless to stop her abusive father and
@@ -798,6 +819,7 @@ to a microtransit vending machine.
 
 "If you don't, we're both going to die."
 
+
 The Principal placed his palms on the machine and leaned in for the retinal
 scan. Fera made a selection using the accompanying display, and a black
 motocycle with a sidecar rolled up a ramp next to them. Fera ran to the
@@ -808,17 +830,19 @@ motorcycle.
 "What do you think the sidecar is for?", Fera answered as she started the
 motorcycle.
 
-Fera spun the motorcycle around and pulled up next to the Principal who fell
-into the sidecar. Racing down the empty street, Fera tried to remember how much
-time was left before she left the school. Fera did not know how far the blast
-zone extended, but she knew that until she saw people, they wouldn't be safe.
+Fera spun the motorcycle around and pulled up next to the Principal. The
+Principal lifted Ryn onto the motorcycle in front of Fera and then climbed into
+the sidecar. Racing down the empty street, Fera tried to remember how much time
+was left before she left the school. Fera did not know how far the blast zone
+extended, but she knew that until she saw people, they wouldn't be safe.
 
 "How big is blast zone?", she yelled at the Principal.
 "To the treesh!", he yelled back.
 
 "What?"
 
-"We haf to make it to the treesh."
+"We haf to make it to the treesh." the Principal replied, pointing off into the
+distance.
 
 Fera did not know where the Principal was pointing, she had never seen trees in
 the city. She was not going fast enough. Fera accelerated, but she knew that
@@ -827,17 +851,17 @@ that day. She had pushed back against the system and won. Even if only
 succeeded in smashing just a single cog in the machine of oppression, it was
 worth it. Reflecting on her life, Fera realized that for the first time in her
 life, she had felt truly powerful. She was always powerless to stop her father
-from beating her when he got angry. She could not do anything to keep her
-mother from self-medicating her worries away. Being in control, even if it was
-part of one day, was worth any cost for Fera. Even if she knew that she was
-going to die, she would not have changed much about today. She just wished she
-could have had a chance to apologize Kaia and Sata. Maybe if things were
-different, they could've been friends? Fera's eyes filled with tears.
-
-Fera thinks about Ben and Edl too, and the life she could have had working in
-the maker workshop, maybe helping Aira and Ryn in the theater.
-
-Fera strokes Ryn's hair and caresses his mangled face.
+from beating her when he got angry. Even worse, She could not do anything to
+protect her mother. Being in control, even if it was part of one day, was worth
+any cost for Fera. Even if she knew that she was going to die, she would not
+have changed much about today. She wished she could say goodbye to her mother
+and hug her one last time. She also would have liked to be able to apologize to
+Kaia and Sata. Maybe if things were different, they could've been friends?
+Fera's eyes filled with tears. Fera thought about Ben, Edl, and the life she
+could have had working in the maker workshop. Maybe she could have also helped
+Aira and Ryn in the theater? Fera looked down at Ryn. He was not moving. Fera
+kept one hand on the throttle and stroked Ryn's hair with the other. She began
+to cry harder.
 
 "It's the wind in my eyes." Fera thought, "No way I'm crying over those
 losers."
@@ -850,32 +874,38 @@ the air with her eyes closed, she stretched out her arms and imagined she was a
 giant bird flying over the empty city towards an infinite sea of green on the
 horizon.
 
-...
+Ben and Edl looked out at the empty city from the observation deck of one of
+their family's airships.
 
-Ben and Edl on one of their family's airships.
-
-"I hope Fera made it out OK.", Edl asked.
+"I hope Fera and Ryn made it out OK.", Edl said.
 
 "I am sure she did. Fera is extremely cunning. I have never before met someone
 who I might consider my intellectual equal.", Ben asked. "No offense, Edl."
 
 "Is Fera still going to be part of our group?", Edl asked.
 
-"As far as I can tell, she did not do anything against the maker workshop
-rules. The city was safely evacuated and reconstruction has already begun. To
-be frank, the MIG always felt incomplete when it was just you, me, and Ryn."
+"As far as I can tell, she did not break the maker workshop rules. The city was
+safely evacuated and reconstruction will begin as the rubble cools. To be
+frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
-"I am glad that Fera is still in our group."
+"I am glad that Fera will be still in our group."
 
 "Me too." Ben said, patting Edl's massive shoulder.
 
-Ben receives a notification that Fera's powergloves were destroyed in the blast.
+Ben snapped his fingers as he got an idea. "We can track Fera using the
+powergloves and powerskates."
 
-"Maybe she dropped them along the way?"
+Moving to a console, Ben brought up Fera's location on a map.
 
-Edl is already crying at the thought of Fera dying.
+"She is still moving away from the city." Ben looked at the timer.
 
-Looking out the windows of the observation deck of their airship, the brothers,
-both remembering Fera fondly, watched as the sunset behind the smoldering
-remains of the city.
+"Can we pick her up?", Edl asked.
 
+"I'm afraid we wouldn't make it in time. It appears that Fera will not make it
+either."
+
+The two brothers looked out the windows at the chain of explosions snaking
+through the city. The signal from Fera's powegloves and powerskates disappeared
+inside the blast zone on the map. As the explosion spread and then faded, the
+brothers began to cry. The brothers, both remembering Fera fondly, watched as
+the sunset behind the smoldering remains of the city.
