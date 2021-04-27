@@ -16,6 +16,10 @@
 - Dzaa (Mung): Very strong from growing in extreme gravity. Thinks people on Earth are weak.
 - Daka (Mung): Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 
+ "What's a trunderstudy?"
+
+ "A triple understudy. It is like a vice president. Or rather a vice vice vice president.", Aira explained, counting on her fingers with each "vice". "If something happens to the lead performer, the understudy, and the dunderstudy, then I have to be ready to take over, so that the show can go."
+
 ## Civilizations:
 
 - Cacumina (topsiders)
