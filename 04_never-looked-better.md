@@ -200,7 +200,7 @@ Fera laughed as Ryn blushed.
 
 "We only know of mimics from our legends."
 
-"What do your legends say?"
+"What do your legends say?", Fera asked.
 
 "That mimics can look and act just like humans, but some mimics look and act
 like animals, and that mimics can communicate with each other without
@@ -387,13 +387,36 @@ to you and be near you always."
 "So you would just follow me around popping out kids forever?"
 
 "Yes, but each the pregnancy takes nine months and is risky. Mimics can live
-indefinitely, but many die during childbirth."
+indefinitely, but many die from complications during pregnancy or during
+childbirth."
 
 "Are you pregnant right now?"
 
 "No, but my body is already preparing for pregnancy. The process is not
-automatic, because a pregnant mimic can also die from sorrow if they are
-separated from their loved one."
+automatic, because a pregnant mimic can die from sorrow if they are separated
+from their loved one for too long."
+
+"So if you get pregnant and I ditch you, you could die."
+
+"Yes, so I would need to be convinced that there might be a chance for you to
+allow me to stay near you."
+
+"When you have a baby? Is it just a clone of you?"
+
+"No, mimic bodies collect the genetic material of our loved ones and mix the
+collected genetic material with our own to create a viable offspring. Unlike in
+human reproduction, the genetic material itself is insufficient to create a
+viable offspring. The offspring are engineered based on the information
+collected during interactions with loved ones."
+
+"Wow, I am not sure how you did it, but you succeeded in making sexual
+reproduction sound really boring."
+
+Questions about reproduction led to Fera asking about Ryn's parents, if they
+died in the gas attack (yes) and if they knew that he was a mimic (his father
+did not), which is an extremely painful topic for Ryn.
+
+...
 
 Ryn explains the history of the Lunkers. People went underground to escape
 laser-equipped orbital satellites that would indiscriminately kill anyone who
