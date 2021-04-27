@@ -114,10 +114,10 @@ as dead."
 
 A door opened up in the side of the giant tree and small elderly woman got out.
 
-"Who are you to request the aid the druidicDryads?"
+"We are druidicDryads. We speak for the trees. You are trespassing in our forest."
 
-"I am Ryn. One of my companions is recovering from exposure to narcotics. He
-may die without your help."
+"Greetings, I am Ryn. One of my companions is recovering from exposure to
+narcotics. He may die without your help."
 
 "How is it that you know this forest?"
 
@@ -128,64 +128,69 @@ may die without your help."
 "I am a mimic."
 
 "A mimic? We have heard of your kind. That means that these stags are mimics
-too and not real animals."
+too and not real animals. It will be no great loss if we kill you and use
+you as fertilizer."
 
-"We"
+"Please, one of my companions is a fierce warrior who destroyed the nearby city."
 
-"Are you sure it is not a question of motivation? I am sure a few kicks to the
-face would motivate you."
+"A warrior you say? We did take note of the explosion. Allow me to take a look
+at this warrior.", the woman said walking up to the stag carrying the Principal.
 
-"Wait."
+"He does not appear to be much of a warrior", the women said, poking the
+Principal with her staff.
 
-"I am not going to wait."
+"The warrior who destroyed the city is me.", Fera huffed.
 
-"Wait, we are surrounded."
-
-"There's no one here, Ryn."
-
-"We are Arborists. We speak for the trees. You are trespassing in our forest."
-
-"I am Fera. We have no interest in your forest, we are trying to find the
-entrance to Fundus."
-
-"The Cacumina will look for people to blame for the destruction of their city."
-
-"They're not going to blame you."
-
-"How can you be certain of this?"
-
-"Because I am the one who blew up the city."
-
+"You?!", the woman said, turning to face Fera, "a little girl?".
 "How did a child such as you destroy a whole city?"
 
-"She activated the self-destruct sequence of the school reactor, which caused a
-chain reaction and all of the reactors in the city exploded at once."
+"It is true, she activated the self-destruct sequence of our school, knowing it
+would cause a chain reaction that would destroy the whole city. Then, she
+fought bravely to keep anyone from stopping her plan to destroy the city."
 
-"Why did you blow up the city?"
+Fera had not known about the chain reaction, but she decided to pretend that
+she had known.
+
+"Why did you destroy the city?"
 
 "I am tired of government-mandated oppression. I blew up the city as part of
 the revolution that will overthrow the government and usher in a new era of
 freedom and equality."
 
-The Arborists conferred.
+"Your words do not sound hollow. If you swear to respect and protect the forest. We will aid you."
 
-"Your words do not sound hollow. We will allow you pass. Moreover, we will
-guide you to the nearest entrance to Fundus. First, we wish to equip the city
-destroyer for her quest to overthrow the government."
+Ryn and Fera swore.
 
-Fera a bit disappointed that knives and arrows she received were completely
-wooden. When she tried the edges of the knives, she was surprised that they
-were quite sharp.
+While we tend to your companion, you may eat and rest."
+
+Other druidicDryads emerged from the trees bringing food, water, and fresh clothes.
+
+"These weapons are for the city destroyer to aid her on her quest to overthrow
+the government.", a druidicDryad said, handing knives, a bow, and a quiver of
+arrows to Fera.
+
+Fera a bit disappointed that food consisted of bugs and berries. She was even
+more dissappointed to see that knives were entirely made out of wood. When she
+tried the edges of the knives, she was surprised that they were quite sharp.
 
 "The knives and arrows are lignum vitae wood. They cannot break steel, but they can cut flesh."
 
-The shoes, moccasins made out of animal skin, were a big improvement
-over walking in her socks along. The Arborists assumed that Fera knew how to
-shoot a bow, but the truth she had no idea.
+Fera put the shoes that the druidicDryads brought her. The shoes, moccasins
+made out of animal skin, were a big improvement over walking through the forest
+in her socks. She went behind a tree to change into the rest of the clothes.
+When she came back Ryn had already changed.
+
+"Not the modest type I see. You might even be an exhibitionist. Do you get off
+showing everyone your dangling parts."
+
+...
+
+The druidicDryads assumed that Fera knew how to shoot a bow, but the truth she
+had no idea.
 
 "Why do your people live in the forest?"
 
-"It is the same reason why Fundis hid below and Atlantans went underneath the
+"It is the same reason why Lunkers hid below and Atlantans went underneath the
 ocean. A long time in a great war, light would come down from the sky to kill
 those who walked in the open. Our Ancestors noticed that if we stayed in the
 forest that we would not die from the light. Our ancestors thought that the

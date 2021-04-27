@@ -60,7 +60,7 @@ bone knives was my specialty. Too bad I couldn't deflect dextrae bullets."
 - Martians
 - Thelusians
 - Scenders
-- Arborists
+- druidicDryads
 - Atlantans
 - Zeppelinomads
 - Mimics
@@ -113,7 +113,7 @@ even Mungs.
 
 "The fish people? Ok, sure they can have freedom and equality too."
 
-"What about Arborists?"
+"What about druidicDryads?"
 
 "Yes, the tree people can also have freedom."
 
@@ -128,7 +128,7 @@ were a nuisance. They would hunt birds for food, hijack airships, and dump
 their trash on the people below. Luckily, the government wiped them all out by
 igniting all of their hydrogen and taking away all of their precious helium.
 
-Arborists show up to ask Fera to promise that she will protect the trees,
+druidicDryads show up to ask Fera to promise that she will protect the trees,
 Atlantans ask Fera to promise to respect the oceans. Fera agrees in exchange
 for their promise to support the revolution.
 
@@ -217,14 +217,14 @@ boy. Fera's followers speculate that Kaia, Eiva, and Fera are in a polyam
 when she talks to Lita via her son. Lita is jealous. She thinks that Kaia got
 rid of her so that she could live with Eiva and Fera.
 
-"We are the Arborists, we speak for the trees!"
+"We are the druidicDryads, we speak for the trees!"
 
 Fera stations guards around the secret locations of the eternalEnlighted. If
 the eternalEnlighted ever disobey her, the guards are instructed to destroy all
-of the brain tanks. She grants sovereignty to the Atlantans, Arborists,
+of the brain tanks. She grants sovereignty to the Atlantans, druidicDryads,
 Mungs, and Lunkers, as she promised, and she forms two new branches of
 government: a monarchy with her as the queen and a council with a
-representative from the Atlantans, the Arborists, the Lunkers, and the Mungs.
+representative from the Atlantans, the druidicDryads, the Lunkers, and the Mungs.
 
 Fera gives herself a permanent seat on the new council with veto power and puts
 her fanboy on the Council as the Zeppeliner representative and uses him as her
