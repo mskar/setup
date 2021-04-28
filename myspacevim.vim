@@ -232,6 +232,8 @@ else
   let &t_EI.="\e[1 q" "EI = end insert mode NORMAL mode (ELSE)
 endif
 
+autocmd FileType pandoc,markdown setlocal expandtab tabstop=2 shiftwidth=2 softtabstop=2
+
 " https://github.com/SpaceVim/SpaceVim/issues/470
 autocmd ColorScheme molokai highlight EndOfBuffer ctermbg=NONE guibg=NONE
 autocmd ColorScheme molokai highlight LineNr     ctermbg=NONE guibg=NONE
@@ -240,6 +242,8 @@ autocmd ColorScheme molokai highlight Normal ctermbg=NONE guibg=NONE
 autocmd ColorScheme molokai highlight SignColumn ctermbg=NONE guibg=NONE
 autocmd ColorScheme molokai highlight VertSplit ctermbg=NONE guibg=NONE
 
+nnoremap n nzz
+nnoremap N Nzz
 nnoremap Q gqap
 nnoremap ZA :xa<CR>
 

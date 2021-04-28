@@ -337,6 +337,8 @@ augroup vimrc-sync-fromstart
   autocmd BufEnter * :syntax sync maxlines=200
 augroup END
 
+autocmd FileType pandoc,markdown setlocal expandtab tabstop=2 shiftwidth=2 softtabstop=2
+
 " Syntax highlighting for files with weird extensions
 autocmd BufNewFile,BufRead .tmux.conf* set syntax=tmux
 autocmd BufNewFile,BufRead *radian_profile set syntax=r
@@ -840,6 +842,8 @@ function! s:check_back_space() abort
   return !col || getline('.')[col - 1]  =~# '\s'
 endfunction
 
+nnoremap n nzz
+nnoremap N Nzz
 nnoremap Q gqap
 nnoremap ZA :xa<CR>
 
