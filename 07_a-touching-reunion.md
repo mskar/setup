@@ -33,7 +33,7 @@ well. Taz perhaps was not the brightest glowGuppy in the pond, but he was a
 decent man with a good heart, and after all Aira had been through, being Taz's
 wife and starting a family with him was more than Aira could have ever dreamed.
 
-The detox treatments have different effects on different people. Figa shuts
+The detox treatments have different effects on different people. Iona shuts
 down, Ursa starts crying and loses her strength and agility she
 doesn't want to see anyone because she thinks she looks ugly and doesn't want to
 talk because she thinks that her voice is different, Edl gets confused and weak
@@ -54,7 +54,7 @@ to rescue them is to accept sinistrae nanotech. Zek also agrees to help. They
 go in teams.
 
 - Ben, Edl, and Ryn
-- Zek, Ursa, and Figa
+- Zek, Ursa, and Iona
 - Kaia, Sata, and Fera
 
 Is this when Ben becomes obsessed with studying Kaia's brain? When Kaia

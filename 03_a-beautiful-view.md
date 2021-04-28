@@ -245,21 +245,21 @@ Lan introduces Sata and Kaia to Ursa. They knock on the door to Ursa's cabin,
 Ursa opens. Sata and Kaia are both extremely impressed with how elegant,
 beautiful, and athletic Ursa is.
 
-Zek barges in on them with Figa (Figurina?) in tow. Zek tries his best to charm Kaia. Kaia
+Zek barges in on them with Iona (Figurina?) in tow. Zek tries his best to charm Kaia. Kaia
 is unsure why he is focusing on her, when she hasn't fixed her appearance since
 before the ceremony. The airship begins to go down (it is secretly sabotaged by
 Zek, who wants an opportunity trying to look like a hero). He demonstrates his
-leadership skills and leverages his relationship with Figa and Ursa to save the
-day. He gives commands to Ursa and Figa, both of whom are incredibly strong and
-athletic. Ursa is always cheerful. Figa never smiles.
+leadership skills and leverages his relationship with Iona and Ursa to save the
+day. He gives commands to Ursa and Iona, both of whom are incredibly strong and
+athletic. Ursa is always cheerful. Iona never smiles.
 
 The airship crashes in a lake and sinks to the bottom. Ursa dives into the lake
 and recovers supplies for them. Lan annoys her by asking for more and more
-supplies. Figa refuses to get in the water. Since it was already dark, they
+supplies. Iona refuses to get in the water. Since it was already dark, they
 decided to make camp at the airship crash site. They talk around the camp fire.
 Someone notices that Kransal and Aira's eyes glow in the dark. All of the girls
 walk along the side of lake to find a spot to bathe. Kransal, Zek, and Lan
-stay behind. Figa waits by the side of the lake. "I don't do water." The girls
+stay behind. Iona waits by the side of the lake. "I don't do water." The girls
 have fun in the water. Kaia is amazed at how great Sata, Aira, and especially
 Ursa look. Aira and Ursa are surprised to see how Kaia looks underneath all the
 grime.

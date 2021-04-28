@@ -9,7 +9,7 @@ kitchen and uses his connections and swagger to get more food and other
 supplies for the camp.
 
 Kaia is ambushed by Pert and his posse (who were secretly hired by Zek) in the
-cafeteria. Edl goes to help Ben instead of Kaia. Ursa and Figa are not around.
+cafeteria. Edl goes to help Ben instead of Kaia. Ursa and Iona are not around.
 Aira is with Kransal. Only Zek is around to save Kaia.
 
 Zek takes Kaia to the hospital. Zek and Sata decide to stay with Kaia all

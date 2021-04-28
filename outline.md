@@ -5,7 +5,7 @@
 - Satalitastra Azymuta (Cacumen): Keia's best friend from middle school. Epileptic. Can project herself into electronics during absentee seizures. Later learns to influence and communicate with people while astral walking. Lives in fear of grand mal seizures during which she can't control her powers.
 - Feravikadela Fridzia (Cacumen): Young rebel that interrupts the commencement ceremony to protest corporeal punishment and the oppresive political system. She is beat up by SecuritySimians and converted from a student to a prisoner.
 - Benairwyz (Scender): will learn that his consciousness was created in the digital world and that his body was synthesized by his "parents" to test the ability of people to move back and forth between the physical and digital worlds
-- Edllvardos (Scender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Edl's consciousness during their childhood with the ideals of bravery, etc.
+- Edlvardos (Scender): will learn that his older brother Ben created him as a child by subconsciously controlling a synthesizer and then imprinting Edl's consciousness during their childhood with the ideals of bravery, etc.
 - Zekianrov (Echo): will divulge that has been imprinted with the consciousness of an Earthling scientist who was married to a Martian woman, became disillusioned, created the system of echos, destroyed Mars, and orchestrated the plan to imprint his consciousness and his wife's consciousness on future generations of Earthlings
 - Ursaultamora (Scender): will divulge that she was a man who transcended and returned as woman to try to realize her dream of becoming a mother
 - Rynzomirz (Mimic): will divulge that he is pregnant with Keia's child and that he needs regular contact with her or else he will miscarry
@@ -52,7 +52,11 @@ Eiva's chest.
 Eiva did not move a muscle, but the knife got knocked away in mid-air.
 
 "I was the best sinistrae wielder during the war. Changing the paths of thrown
-bone knives was my specialty. Too bad I couldn't deflect dextrae bullets."
+bone knives was my specialty. Too bad I couldn't deflect dextrae bullets during
+the war."
+
+"With Kaia, we don't need to deflect the bullets. She can blow up all of their
+weapons. Any who survive we can easily kill with arrows or knives."
 
 ## Civilizations:
 
@@ -76,6 +80,152 @@ father's name, paternal grandfather's (yeye's) name, e.g. Zek, Ian, Rov
 
 Girls take their mother's last name, while boys take their fathers last name.
 
+Zek and Zok are not actually twins. Danilo created Echo and Scender versions of
+himself. Zek fights in a mixed style, while Zok is pure melee. Zek pretends to
+be Iona's boyfriend, while Zok pretends to be Ursa's boyfriend. In reality,
+they are all polyamorous.
+
+## Combat
+
+The first time we see major combat is when everyone sets out to rescue Aira and
+Lan.
+
+Edl, Usra, Zok, and Iona are tanks
+Kaia and Sata are ranged
+Zek and the sinistrae (Fera, Eiva, and Mel) are mixed
+Taz refuses to come, because he says that Aira lied to him
+
+Sata is useful as a scout, but the major advantage is provided by Kaia who
+causes energy weapons and exoskeleton armor power suits to explode. The
+government soldiers who remove their energy-powered gear and avoid the
+explosions are left with only combat knives. None of the characters are immune
+to the combat knives, so there is still real danger, but their powers allow
+them to quickly defeat the government soldiers. For example, the government
+soldiers are not able to fight effectively when Kaia and Zek blind and
+disorient them. The government facilities also contain genetically engineered
+soldiers (GES) with pangolin armor plating growing on their bodies. The GES can
+use echo location to find their foes, so they can continue fighting even after
+Echos blind them. The Scender tanks have trouble defeating the GES, so the
+sinistrae get to show off their powers. Ryn in useless at all times. In
+comparison with the government soldiers, all of the characters seems really OP.
+
+### Melee
+- Edl:
+  - Tank
+  - Strong
+  - Body is mostly dextrae nanotech based
+    - Extremely resistant to conventional damage
+    - Sensitive to sinistrae (they can sap his strength until they can eventually overpower him)
+  - Echos like Kaia can blind and disorient him
+  - Kaia can eventually use her dextrae powers to control Edl like a puppet after weakening him with her sinistrae powers
+- Iona:
+  - Tank
+  - Strong
+  - Not as strong as Edl or as resistant to damage, but people underestimate her all the time because she looks like a beauty queen
+  - Thelusian
+    - Can expose built in retractable daggers that push through her soft casing
+    - Conventional damage causes her soft casing to be disrupted revealing that she is a robot
+    - Can continue fighting even after losing limbs (resistant to dismemberment)
+    - Can self repair injuries with time
+    - Sensitive to EMP and sinistrae
+    - Kaia can eventually use her dextrae powers to control Iona like a puppet
+      - Kaia freezes Iona with her dextrae powers and begs Fera not to kill Iona after the massive battle in the chapter called "Nothing interesting happens"
+      - After fake Sata kills Ursa and Zek, Kaia does not want to see any other friends die.
+      - Fera rips off Iona's head, but promises to reattach it after things settle down
+    - Fighting Iona is a sneak preview of fighting the mummy queen and the insane Thelusians on Mars
+- Ursa:
+  - Strong
+  - Energy wielder
+  - Not as strong as Edl or as resistant to damage, but people underestimate her all the time because she looks like a beauty queen
+    - Sensitive to sinistrae (they can sap his strength until they can eventually overpower him)
+  - Echos like Kaia can blind and disorient her
+- Dzaa:
+  - Strong
+  - Mung
+    - Not resistant to conventional damage
+    - Extremely resistant to extreme G
+    - Capable pilot in the air and in space
+
+### Mixed
+- Aira:
+  - Can summon and control mimic animals for transportation or combat
+  - Under extreme circumstances, can give birth to mimic warriors, who always look like children, because they never grow or age, but have retractable claws and teeth, and kill via stealth and surprise.
+    - Aira is killed along with her normal mimic child after she is captured by the government
+- Lan:
+  - Can summon and control mimic animals for transportation or combat
+  - Under extreme circumstances, can give birth to mimic warriors, who always look like children, because they never grow or age, but have retractable claws and teeth, and kill via stealth and surprise.
+    - Lan has a mimic warrior child because of the torture he suffers after he is captured by the government
+- Ryn:
+  - Can summon and control mimic animals for transportation or combat
+  - Under extreme circumstances, can give birth to mimic warriors, who always look like children, because they never grow or age, but have retractable claws and teeth, and kill via stealth and surprise.
+- Ben:
+  - Fast on smooth terrain when wearing powerskates
+  - Can control all animalAutomatons and later gun turrets and orbital lasers
+    - After being capturing by Ben, Kaia makes Ben destroy half his building with an orbital laser, so she can escape when Zek and Ursa come to rescue her
+  - Extremely sensitive to Kaia's Echo powers of making fuel cells exploded, because all of his tech contains fuel cells
+  - Tech genius
+- Taz (dextrae):
+  - Strike force officer
+  - Sniper rifle makes him ranged
+  - Exoskeleton suit makes him a tank and provides retractable knives as melee weapon
+- Taz (sinistrae):
+  - Fera's security officer
+  - Bow and arrow plus throwing bone knives makes him an effective ranged fighter
+  - Bone knives and bone armor make him a formidable melee fighter
+  - Immune to Echo manipulation
+  - Trades dextrae exoskeleton for sinistrae bone armor
+- Mel (sinistrae):
+  - Fera's administrative assistant
+  - Bow and arrow plus throwing bone knives makes him an effective ranged fighter
+  - Bone knives and bone armor make him a formidable melee fighter
+  - Immune to Echo manipulation
+- Kaia (sinistrae):
+  - Bow and arrow plus throwing bone knives makes her an effective ranged fighter
+  - Bone knives and bone armor make her a formidable melee fighter
+  - Trades dextrae powers for sinistrae powers, but later she can use both
+- Sata (sinistrae):
+  - Bow and arrow plus throwing bone knives makes her an effective ranged fighter
+  - Bone knives and bone armor make her a formidable melee fighter
+  - Immune to Echo manipulation
+- Eiva (sinistrae):
+  - Bow and arrow plus throwing bone knives makes her an effective ranged fighter
+  - Bone knives and bone armor make her a formidable melee fighter
+  - Immune to Echo manipulation
+  - Can change the paths of thrown bone knives
+  - Can create new bone weapons from the bones of fallen enemies and comrades
+- Fera (sinistrae):
+  - Bow and arrow plus throwing bone knives makes her an effective ranged fighter
+  - Bone knives and bone armor make her a formidable melee fighter
+  - Immune to Echo manipulation
+  - Can change the paths of thrown bone knives
+  - Can create new bone weapons from the bones of fallen enemies and comrades
+- Zek (Echo):
+  - Can blind and disorient dextrae
+  - Uses poisoned daggers and controls snakes
+  - Uses stealth and hit-and-run tactics
+  - Fights a bit like Adlet in Rokka anime
+- Zok (Scender):
+  - Strong
+  - Energy wielder
+  - Not as strong as Edl or as resistant to damage
+    - Sensitive to sinistrae (they can sap his strength until they can eventually overpower him)
+  - Echos like Kaia can blind and disorient him
+
+### Ranged
+- Sata (dextrae):
+  - Can control dextrae when she has seizures
+  - Has scouting capabilities
+- Kaia (dextrae):
+  - Plays a strong support role
+  - Can blind and disorient dextrae
+  - Can cause all dextrae fuel cells to explode, destroying animalAutomatons, exoskeleton powersuits, energy weapons, etc.
+    - Destruction of energy weapons shifts the balance in combat between dextrae and sinistrae
+    - In normal ranged combat, it is dextrae bullets versus sinistrae arrows
+    - With energy weapons, dextrae who can pin the sinistrae down with endless suppressing fire
+    - Without energy weapons, dextrae have no firepower, but sinistrae arrows still work
+    - Once energy weapons are destroyed, Sinistrae no longer have to use stealth to avoid dextrae bullets
+    - Fuel cells explosion can kill or maim Dextrae, those who survive have to fight sinistrae in melee combat while avoiding sinistrae arrows
+
 ## Ryn
 
 Ryn gets pregnant from Fera. When she discovers sinistrae, Ryn miscarries. He
@@ -84,7 +234,7 @@ inoculate mimics against sinistrae and eventually adapt their reproductive
 systems to sinistrae. He fails to create the inoculation and later falls in
 love with Kaia.
 
-## Mungs:
+## Mungs
 
 Intro two new characters named Dzaa and Daka. Aka is a Mung girl who needs
 exoskeletons to move around on earth because she suffers from osteogeneza
@@ -240,7 +390,7 @@ puppet.
 
 Ryn asks for a seat on the council for mimics. Ben virtually represents scenders,
 because he still cannot obtain a body. Kaia is asked to represent Martians.
-Figa represents Thelusians.
+Iona represents Thelusians.
 
 Fera controls all branches of government. She is the matriarchalMonarch, the
 permanent queen of the entire government, and Eiva's daughter will be Queen
@@ -524,3 +674,5 @@ Lost civilizations:
 - Martians: Martian civilization ended in a war with Thelusians, a space dwelling civilization that replaced most people with androids. The space settlements started to orbit Mars and eventually all crashed into the surface of Mars. The remnants of Martian civilization and the Thelusian civilization are both still on the surface of Mars. Corporations from Earth have to fight with Thelusians for territory to mine resources from Mars. Martians are thought to have died out.
 - Thelusians:
 - Sinistrae:
+
+The Mummy Queen eventually corrupts Kaia's son. He recognizes her as his mother.
