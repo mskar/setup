@@ -81,16 +81,29 @@ father's name, paternal grandfather's (yeye's) name, e.g. Zek, Ian, Rov
 Girls take their mother's last name, while boys take their fathers last name.
 
 Zek and Zok are not actually twins. Danilo created Echo and Scender versions of
-himself. Zek fights in a mixed style, while Zok is pure melee. Zek pretends to
-be Iona's boyfriend, while Zok pretends to be Ursa's boyfriend. In reality,
-they are all polyamorous.
+himself. Zek fights in a mixed style, while Zok is pure melee tank. Zek
+pretends to be Iona's boyfriend, while Zok pretends to be Ursa's boyfriend. In
+reality, they are all polyamorous. Zek fixes Iona when she needs repair and
+tries to make sure she is comfortable. Zok tries to keep Ursa entertained. Zok
+is more muscular and better looking than Zek while Zek is more nerdy and tech
+savvy. Kaia meets Zek and Zok (the twins as Lan introduces them) on the
+airship. The airship crashes because Kaia has a dream about the Mummy Queen
+destroying the fuel cell and it actually explodes in real life. Zek and Zok are
+responsible for the Echo dreams that Kaia experiences. They are secretly amazed
+by Kaia's ability to destroy fuel cells and decide to encourage her to develop
+this talent. They tell Kaia that she was responsible for the airship, she is
+dismayed, but they tell her that she can learn to control her power. The power
+to destroy fuel cells comes in handy when they go to rescue Aira and Lan.
+
+## Martian book
+Anyone non-Echo who looks at the text in the book loses the ability to breathe.
+Only by understanding Martian text can someone look at the book's text and survive.
 
 ## Combat
-
 The first time we see major combat is when everyone sets out to rescue Aira and
 Lan.
 
-Edl, Usra, Zok, and Iona are tanks
+Edl, Ursa, Zok, and Iona are tanks
 Kaia, Ben, and Sata are ranged
 Zek and the sinistrae (Fera, Eiva, and Mel) are mixed
 Taz refuses to come, because he says that Aira lied to him
@@ -113,7 +126,13 @@ engineered soldiers (GES) with pangolin armor plating growing on their bodies.
 The GES can use echo location to find their foes, so they can continue fighting
 even after Echos blind them. The Scender tanks have trouble defeating the GES,
 so the sinistrae get to show off their powers. In comparison with the regular
-government soldiers, all Echos, Sinistrae, and Scenders seem really OP.
+government soldiers, all Echos, Sinistrae, and Scenders seem really OP. The
+final battle is against a giant robot with a fuel cell that Kaia cannot explode
+because it would destroy the entire facility. Instead Kaia destroys anything on
+the robot that has an independent fuel cell, e.g. gun turrets. The scender
+tanks (Edl, Ursa, and Zok) and sinistrae (Fera, Eiva, and Mel) have to team up
+to destroy the giant robot. Zek is useless against it. Ben tries to hack it.
+Is Sata a sinistrae at this point? I think she shouldn't be.
 
 ### Melee
 - Edl:
