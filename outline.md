@@ -232,8 +232,15 @@ government soldiers, all Echos, Sinistrae, and Scenders seem really OP.
   - Extremely sensitive to Kaia's Echo powers of making fuel cells exploded, because all of his tech contains fuel cells
   - Tech genius
 
-## Ryn
+## Parents
+Kaia and Sata miss their parents (who are they?).
+Fera misses her mom, not her abusive father.
+Zek, Zok, Ursa, Ryn, Aira, Lan, and Iona do not have living parents.
+Ben and Edl have great relationships with their parents who try to hide the fact that Edl was synthesized by Ben when he was a child.
+Dzaa and Daka's parents are in space.
+Taz and Mel are adults.
 
+## Ryn
 Ryn gets pregnant from Fera. When she discovers sinistrae, Ryn miscarries. He
 is heartbroken and cannot be near her again, so he tries to invent a way to
 inoculate mimics against sinistrae and eventually adapt their reproductive
@@ -253,13 +260,15 @@ Daka's exoskeleton, which she built herself in space (a throwback to his
 earlier interest in Fera). The Mung people are named after the Mung beans that
 they grow in space as a protein source for Earth. The Mungs consist of various
 ethnicities that were driven into space when larger, more powerful neighbours
-took over their land. Various stereotypes exist regarding Mungs, e.g. that they
-use their babies to plug holes in their spacecraft. Mungs fight with prisoners
-sent to space. The government does not recognize Mungs as a people. Mungs want
-a sovereign nation. The government cracks down on any political activity and
-indiscriminately destroyed Mung ships before but had stopped since the Mungs
-learn to throw space rocks at Earth with great precision. Currently, there is a
-stalemate.
+took over their land. The Mungs believe that Tengri, the sky god, saved them
+from conflict on Earth by accepting them into the sky. The government views
+them as space parasites and promotes several stereotypes and misconceptions
+regarding Mungs, e.g. that they use their babies to plug holes in their
+spacecraft. Mungs fight with prisoners sent to space. The government does not
+recognize Mungs as a people. Mungs want a sovereign nation. The government
+cracks down on any political activity and indiscriminately destroyed Mung ships
+before but had stopped since the Mungs learn to throw space rocks at Earth with
+great precision. Currently, there is a stalemate.
 
 Dzaa and Daka are sent to Earth to talk with Fera after the Mung people she her
 success as CEO of Reli Corp and connect it to the recording of Fera's protest.
