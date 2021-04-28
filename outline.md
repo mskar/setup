@@ -91,23 +91,29 @@ The first time we see major combat is when everyone sets out to rescue Aira and
 Lan.
 
 Edl, Usra, Zok, and Iona are tanks
-Kaia and Sata are ranged
+Kaia, Ben, and Sata are ranged
 Zek and the sinistrae (Fera, Eiva, and Mel) are mixed
 Taz refuses to come, because he says that Aira lied to him
 
-Sata is useful as a scout, but the major advantage is provided by Kaia who
-causes energy weapons and exoskeleton armor power suits to explode. The
-government soldiers who remove their energy-powered gear and avoid the
+Sata is mostly useful as a scout. Ryn in useless at all times. Ben is fairly
+useless with his robotic birds, because Kaia can blow up any animalAutomatons
+before Ben can hack them. Ben is mostly good for scouting with his birds,
+opening doors, and accessing schematics. The major advantage is provided by
+Kaia who causes energy weapons and exoskeleton armor power suits to explode.
+The government soldiers who remove their energy-powered gear and avoid the
 explosions are left with only combat knives. None of the characters are immune
 to the combat knives, so there is still real danger, but their powers allow
 them to quickly defeat the government soldiers. For example, the government
 soldiers are not able to fight effectively when Kaia and Zek blind and
-disorient them. The government facilities also contain genetically engineered
-soldiers (GES) with pangolin armor plating growing on their bodies. The GES can
-use echo location to find their foes, so they can continue fighting even after
-Echos blind them. The Scender tanks have trouble defeating the GES, so the
-sinistrae get to show off their powers. Ryn in useless at all times. In
-comparison with the government soldiers, all of the characters seems really OP.
+disorient them. To keep the battles from being one-sided, the protagonists
+split up. How should they split up? Anyone who Kaia, has no problem. Without
+Kaia, Zek and the sinistrae have to use stealth and the tanks have to use
+lightning fast offense. The government facilities also contain genetically
+engineered soldiers (GES) with pangolin armor plating growing on their bodies.
+The GES can use echo location to find their foes, so they can continue fighting
+even after Echos blind them. The Scender tanks have trouble defeating the GES,
+so the sinistrae get to show off their powers. In comparison with the regular
+government soldiers, all Echos, Sinistrae, and Scenders seem really OP.
 
 ### Melee
 - Edl:
@@ -158,12 +164,6 @@ comparison with the government soldiers, all of the characters seems really OP.
 - Ryn:
   - Can summon and control mimic animals for transportation or combat
   - Under extreme circumstances, can give birth to mimic warriors, who always look like children, because they never grow or age, but have retractable claws and teeth, and kill via stealth and surprise.
-- Ben:
-  - Fast on smooth terrain when wearing powerskates
-  - Can control all animalAutomatons and later gun turrets and orbital lasers
-    - After being capturing by Ben, Kaia makes Ben destroy half his building with an orbital laser, so she can escape when Zek and Ursa come to rescue her
-  - Extremely sensitive to Kaia's Echo powers of making fuel cells exploded, because all of his tech contains fuel cells
-  - Tech genius
 - Taz (dextrae):
   - Strike force officer
   - Sniper rifle makes him ranged
@@ -225,6 +225,12 @@ comparison with the government soldiers, all of the characters seems really OP.
     - Without energy weapons, dextrae have no firepower, but sinistrae arrows still work
     - Once energy weapons are destroyed, Sinistrae no longer have to use stealth to avoid dextrae bullets
     - Fuel cells explosion can kill or maim Dextrae, those who survive have to fight sinistrae in melee combat while avoiding sinistrae arrows
+- Ben:
+  - Fast on smooth terrain when wearing powerskates
+  - Can control all animalAutomatons and later gun turrets and orbital lasers
+    - After being capturing by Ben, Kaia makes Ben destroy half his building with an orbital laser, so she can escape when Zek and Ursa come to rescue her
+  - Extremely sensitive to Kaia's Echo powers of making fuel cells exploded, because all of his tech contains fuel cells
+  - Tech genius
 
 ## Ryn
 
