@@ -28,38 +28,38 @@ once to wear asleep. Your shoes were in pretty bad shape. I hope you don't mind.
 
 "Oh, I don't mind at all. These shoes are much better."
 
-When the girls made it outside, Sata and Kaia were dismayed to see Pert and his
-posse waiting in front of the entrance to the school. Pert's head was wrapped
+When the girls made it outside, Sata and Kaia were dismayed to see Pyr and his
+posse waiting in front of the entrance to the school. Pyr's head was wrapped
 in bandages. A small of blood had permeated the bandages in the spot were the
 historianHummingbird had hit him.
 
-"What's wrong? Afraid of a little fire-", Pert started, but the paused as he
+"What's wrong? Afraid of a little fire-", Pyr started, but the paused as he
 inspected the girls more closely.
 
-"Wait a second. Did you replace one of your girlfriends already?", Pert said to
+"Wait a second. Did you replace one of your girlfriends already?", Pyr said to
 Kaia, "You just love 'em and leave 'em, dontcha? You go through girls faster
 than I do!"
 
 The boys erupted with laughter.
 
-Before the Kaia and Sata could think of a plan, Aira walked up to Pert and
+Before the Kaia and Sata could think of a plan, Aira walked up to Pyr and
 introduced herself.
 
 "Hello, I'm Aira. What's your name?", Aira said, projecting her voice so
 everyone hear as if she were on stage.
 
-"Pert, but you can call me the Pertinator, and this is my Posse, I call them
-Pert's Posse.", Pert said, flexing his muscles and gesturing at the boys behind
+"Pyr, but you can call me the Pyrinator, and this is my Posse, I call them
+Pyr's Posse.", Pyr said, flexing his muscles and gesturing at the boys behind
 him.
 
-"Nice to meet you, Pert! What happened to your head?"
+"Nice to meet you, Pyr! What happened to your head?"
 
-"Oh, this? It's nothing." Pert was clearly not used to anyone of the opposite
+"Oh, this? It's nothing." Pyr was clearly not used to anyone of the opposite
 sex taking an interest in him.
 
 "A bird flew into his head.", Sata said.
 
-"What did you say?", Pert pushed past Aira and stood menacingly in front of
+"What did you say?", Pyr pushed past Aira and stood menacingly in front of
 Kaia and Sata.
 
 "I said, a bird flew into your head.", Sata said defiantly.
@@ -67,16 +67,16 @@ Kaia and Sata.
 "What are the chances of a bird flying into someone's head?", Aira interrupted.
 She really knew how to make her voice carry.
 
-"Pert must really be an airhead.", Sata said.
+"Pyr must really be an airhead.", Sata said.
 
 "A real chick magnet!", Kaia said exploding with laughter.
 A few hours of sleep had done them both a lot of good.
 
-Pert moved closer to Sata and Kaia and spoke in a low voice.
+Pyr moved closer to Sata and Kaia and spoke in a low voice.
 "Listen, I know you are one mistake away from going to prison, so you better
 start treating me really nicely or I might have a word with my father and-."
 
-At that moment, a bird flew into the previously undamaged side of Pert's face.
+At that moment, a bird flew into the previously undamaged side of Pyr's face.
 
 "What are the chances of two different birds flying into the same person's
 head?", Aira said as she grabbed Kaia and Sata by the hands and led them away
@@ -245,24 +245,29 @@ Lan introduces Sata and Kaia to Ursa. They knock on the door to Ursa's cabin,
 Ursa opens. Sata and Kaia are both extremely impressed with how elegant,
 beautiful, and athletic Ursa is.
 
-Zek barges in on them with Iona (Figurina?) in tow. Zek tries his best to charm Kaia. Kaia
-is unsure why he is focusing on her, when she hasn't fixed her appearance since
-before the ceremony. The airship begins to go down (it is secretly sabotaged by
-Zek, who wants an opportunity trying to look like a hero). He demonstrates his
-leadership skills and leverages his relationship with Iona and Ursa to save the
-day. He gives commands to Ursa and Iona, both of whom are incredibly strong and
-athletic. Ursa is always cheerful. Iona never smiles.
+Zek and Zok barge in on them with Iona in tow. Zek and Zok try their best to
+charm Kaia. Kaia is unsure why he is focusing on her, when she hasn't fixed her
+appearance since before the ceremony. The airship begins to go down when Kaia
+has a dream about the mummy queen destroying the airship fuel cells. Zek and
+Zok demonstrate their leadership skills and relationships with Iona and Ursa to
+save the day. They give commands to Ursa and Iona, both of whom are incredibly
+strong and athletic. Ursa is always cheerful. Iona never smiles.
 
-The airship crashes in a lake and sinks to the bottom. Ursa dives into the lake
-and recovers supplies for them. Lan annoys her by asking for more and more
-supplies. Iona refuses to get in the water. Since it was already dark, they
-decided to make camp at the airship crash site. They talk around the camp fire.
-Someone notices that Kransal and Aira's eyes glow in the dark. All of the girls
-walk along the side of lake to find a spot to bathe. Kransal, Zek, and Lan
-stay behind. Iona waits by the side of the lake. "I don't do water." The girls
-have fun in the water. Kaia is amazed at how great Sata, Aira, and especially
-Ursa look. Aira and Ursa are surprised to see how Kaia looks underneath all the
-grime.
+A beautiful view, the chapter title, refers to the lake Zakrzówek and also the
+girls bathing.
+
+Zek and Zok spy on the girls.
+
+The airship crashes in a lake and sinks to the bottom. Zok and Ursa dives into
+the lake and recovers supplies for them. Lan annoys them by asking for more and
+more supplies. Iona refuses to get in the water. Since it was already dark,
+they decided to make camp at the airship crash site. They talk around the camp
+fire. Someone notices that Kransal and Aira's eyes glow in the dark. All of the
+girls walk along the side of lake to find a spot to bathe. Kransal, Zek, and
+Lan stay behind. Iona waits by the side of the lake. "I don't do water." The
+girls have fun in the water. Kaia is amazed at how great Sata, Aira, and
+especially Ursa look. Aira and Ursa are surprised to see how Kaia looks
+underneath all the grime.
 
 The Chapter ends when everyone falls asleep next to the campfire. Kaia curls up
 next to Sata.

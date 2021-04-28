@@ -8,7 +8,7 @@ original refugees that already lived in the camp. Lan decides to work in the
 kitchen and uses his connections and swagger to get more food and other
 supplies for the camp.
 
-Kaia is ambushed by Pert and his posse (who were secretly hired by Zek) in the
+Kaia is ambushed by Pyr and his posse (who were secretly hired by Zek) in the
 cafeteria. Edl goes to help Ben instead of Kaia. Ursa and Iona are not around.
 Aira is with Kransal. Only Zek is around to save Kaia.
 

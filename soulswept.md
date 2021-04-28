@@ -646,7 +646,7 @@ want to return to Earth."
 The Principal cleared his throat nervously.
 
 "I am needed here. My sacred duty of molding young minds is of utmost
-importance. Of course, I also cannot abandon my dear son Pert."
+importance. Of course, I also cannot abandon my dear son Pyr."
 
 The Principal called up an image of a young man flexing his muscles and
 sticking out his tongue.
@@ -660,7 +660,7 @@ system too?", Keia asked.
 
 "Of course not!", the Principal shouted, turning red and getting flustered.
 
-"Pertik has a bright future ahead of him! I would never send him to rot in
+"Pyrik has a bright future ahead of him! I would never send him to rot in
 that-"
 
 The Principal stopped when he realized that he was hurting his own argument.
@@ -725,7 +725,7 @@ were greeted by a familiar voice.
 
 A handful of boys started laughing and exchanging high-fives in front of the
 office door. The boy had been waiting for the three girls to exit. The girls
-recognized that the boy speaking to them was Pert.
+recognized that the boy speaking to them was Pyr.
 
 "If you play your cards right, I might add some of my special sauce to your crappy
 sandwich."
@@ -739,14 +739,14 @@ Looking over at Lita, Keia noticed that her friend was having a seizure. Keia
 watched powerlessly as the hand that was covering Lita's chest drifted down in
 the front of her.
 
-"Look fellas, this one is ready for me.", said Pert as he moved forward with
-his hands reaching out towards Lita's chest. Dela swung at Pert with her free
+"Look fellas, this one is ready for me.", said Pyr as he moved forward with
+his hands reaching out towards Lita's chest. Dela swung at Pyr with her free
 hand, while kicking him in the shins. Keia tried to pull Lita back away from
-Pert, but was too weak to move Lita very far. Keia opened her mouth to scream
+Pyr, but was too weak to move Lita very far. Keia opened her mouth to scream
 for help, but before she could make a sound, a historianHummingbird crashed
-into the side of Pert's face, sending him crashing to the floor.
+into the side of Pyr's face, sending him crashing to the floor.
 
-Dela gave Pert one more kick before pulling the other two girls through the
+Dela gave Pyr one more kick before pulling the other two girls through the
 semicircle of stunned boys. After Lita recovered, she was dazed and confused,
 but she understood the need to run. Keia's feet could barely keep from dragging
 on the ground while the other two girls carried her down the hallway.
@@ -919,7 +919,7 @@ out assorted fragments of bone and shook them in her hand like dice. Through
 the dust swirling around Keia, she saw the metallic glint of the taserTutor.
 The metallic tendrils extending from taserTutor were coiled around her arms up
 to the shoulder. The ceremony was still ongoing. The taserTutor began to pulse
-red. Keia's heart sunk. Had she imagined everything? Dela, the Principal, Pert,
+red. Keia's heart sunk. Had she imagined everything? Dela, the Principal, Pyr,
 Ryn, Aira? Lightning shot out of the surrounding storm and coursed through
 Keia's body. Keia screamed and writhed on the ground, but then got up with a
 renewed sense of purpose.
@@ -1185,7 +1185,7 @@ Again, if a MIG member acts maliciously, we can always revoke their access."
 
 Metabuilding
 
-Question about Pert and the bird
+Question about Pyr and the bird
 
 Ben makes a matching set of powergloves for Dela. She puts on powerskates and
 the new powergloves and Ben teaches her the ancient MakerMixedMartialArts
@@ -1811,38 +1811,38 @@ once to wear asleep. Your shoes were in pretty bad shape. I hope you don't mind.
 
 "Oh, I don't mind at all. These shoes are much better."
 
-When the girls made it outside, Lita and Keia were dismayed to see Pert and his
-posse waiting in front of the entrance to the school. Pert's head was wrapped
+When the girls made it outside, Lita and Keia were dismayed to see Pyr and his
+posse waiting in front of the entrance to the school. Pyr's head was wrapped
 in bandages. A small of blood had permeated the bandages in the spot were the
 historianHummingbird had hit him.
 
-"What's wrong? Afraid of a little fire-", Pert started, but the paused as he
+"What's wrong? Afraid of a little fire-", Pyr started, but the paused as he
 inspected the girls more closely.
 
-"Wait a second. Did you replace one of your girlfriends already?", Pert said to
+"Wait a second. Did you replace one of your girlfriends already?", Pyr said to
 Keia, "You just love 'em and leave 'em, dontcha? You go through girls faster
 than I do!"
 
 The boys erupted with laughter.
 
-Before the Keia and Lita could think of a plan, Aira walked up to Pert and
+Before the Keia and Lita could think of a plan, Aira walked up to Pyr and
 introduced herself.
 
 "Hello, I'm Aira. What's your name?", Aira said, projecting her voice so
 everyone hear as if she were on stage.
 
-"Pert, but you can call me the Pertinator, and this is my Posse, I call them
-Pert's Posse.", Pert said, flexing his muscles and gesturing at the boys behind
+"Pyr, but you can call me the Pyrinator, and this is my Posse, I call them
+Pyr's Posse.", Pyr said, flexing his muscles and gesturing at the boys behind
 him.
 
-"Nice to meet you, Pert! What happened to your head?"
+"Nice to meet you, Pyr! What happened to your head?"
 
-"Oh, this? It's nothing." Pert was clearly not used to anyone of the opposite
+"Oh, this? It's nothing." Pyr was clearly not used to anyone of the opposite
 sex taking an interest in him.
 
 "A bird flew into his head.", Lita said.
 
-"What did you say?", Pert pushed past Aira and stood menacingly in front of
+"What did you say?", Pyr pushed past Aira and stood menacingly in front of
 Keia and Lita.
 
 "I said, a bird flew into your head.", Lita said defiantly.
@@ -1850,16 +1850,16 @@ Keia and Lita.
 "What are the chances of a bird flying into someone's head?", Aira interrupted.
 She really knew how to make her voice carry.
 
-"Pert must really be an airhead.", Lita said.
+"Pyr must really be an airhead.", Lita said.
 
 "A real chick magnet!", Keia said exploding with laughter.
 A few hours of sleep had done them both a lot of good.
 
-Pert moved closer to Lita and Keia and spoke in a low voice.
+Pyr moved closer to Lita and Keia and spoke in a low voice.
 "Listen, I know you are one mistake away from going to prison, so you better
 start treating me really nicely or I might have a word with my father and-."
 
-At that moment, a bird flew into the previously undamaged side of Pert's face.
+At that moment, a bird flew into the previously undamaged side of Pyr's face.
 
 "What are the chances of two different birds flying into the same person's
 head?", Aira said as she grabbed Keia and Lita by the hands and led them away
@@ -2182,7 +2182,7 @@ original refugees that already lived in the camp. Lans decides to work in the
 kitchen and uses his connections and swagger to get more food and other
 supplies for the camp.
 
-Keia is ambushed by Pert and his posse (who were secretly hired by Zek) in the
+Keia is ambushed by Pyr and his posse (who were secretly hired by Zek) in the
 cafeteria. Ed goes to help Ben instead of Keia. Ursa and Figa are not around.
 Aira is with Kransal. Only Zek is around to save Keia.
 
@@ -2193,7 +2193,7 @@ The chapter ends when Keia drifts off to sleep with Lita stroking her hair.
 
 ## Chapter 6
 
-Dela, Ryn, and Naksos arrive at the refugee camp. Pert is reunited with his
+Dela, Ryn, and Naksos arrive at the refugee camp. Pyr is reunited with his
 father. Ryn is reunited with Aira and Lans. Dela tells Keia and Lita that she
 has changed and is deeply sorry for how she behaved earlier.
 
@@ -2287,14 +2287,14 @@ inoculations to mimics hiding underground.
 
 Keia is captured by the Enders who want to transfer her consciousness so they
 can study it. Ben and Ed try to convince her to join them willingly, offering
-Pert as a peace offering. Pert reveals that Zek paid him to act her in the
+Pyr as a peace offering. Pyr reveals that Zek paid him to act her in the
 refugee camp, so he could look like a hero. Ben reveals that Ursa is an ender,
 who used to be a man. Ben explains that many Enders think life in the physical
 world should end, because it is wasteful, inefficient, and help humanity learn
 anything new. Ben and Ed believe in life in the physical world and want Keia to
 transcend to prove that physical life is worthwhile. Keia is rescued by Zek,
 Ursa, and Figa. She returns to the silo to live with Dela and Lita, because Zek
-paid Pert to attack her so he could be a hero and Ursa did not tell her about
+paid Pyr to attack her so he could be a hero and Ursa did not tell her about
 previously being a man even though they went skinny dipping in the lake before
 and had other intimate moments.
 

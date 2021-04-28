@@ -394,9 +394,9 @@ the signature, I might not have figured it out right away."
 "Yes, any animalAutomatons can be used, but birds have the right combination of
 speed and mass."
 
-"Did you make a bird hit Pert in the head?"
+"Did you make a bird hit Pyr in the head?"
 
-"Who is Pert?"
+"Who is Pyr?"
 
 "A boy who was bullying me and two other girls."
 

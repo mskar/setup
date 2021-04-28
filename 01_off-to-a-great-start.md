@@ -9,20 +9,18 @@ with the entire cohort of high school freshman. All around the bleachers,
 robotic animals buzzed, growled, and roared, while observing the
 students.
 
-Kaia leaned in to her best friend Sata and whispered in her ear.
-
-"Let's run."
+Kaia leaned in to her best friend Sata and whispered in her ear. "Let's run."
 
 "We wouldn't even make it to the door, which is locked by the way."
 
-"If we run, they'll have to knock us out and we'll miss the ceremony."
+"If we run, they'll have to knock us out, and we'll miss the ceremony."
 
 Kaia and Sata looked at the hexagonal holes in the walls. Inside the walls,
 there was a network of tunnels filled with robotic insects always ready to
 swarm anyone who stepped out of line.
 
-"If the buzzBees knocked us out, the wakeupWasps would sting us until we were
-awake."
+Sata shook her head. "If the buzzBees knocked us out, the wakeupWasps would
+sting us until we were awake."
 
 "Maybe if we act crazy, they'd knock us out to keep us from disrupting the
 ceremony."
@@ -30,10 +28,8 @@ ceremony."
 "Acting crazy should be easy for you, because you've always been insane."
 
 Sata could see that the joke didn't land well, so she tried to reassure her
-friend.
-
-"Maybe it won't be so bad. Maybe I won't have a seizure and you won't freak
-out."
+friend. "Maybe it won't be so bad. Maybe I won't have a seizure and you won't
+freak out."
 
 "Awww, you always know exactly what to say to keep me from freaking out."
 
@@ -61,15 +57,15 @@ front of the bleachers. Suddenly the gymnasium fell quiet. Even the robotic
 animals were silent as the principal cleared his throat and
 prepared to speak.
 
-Already sweating, the principal his brow with a lace handkerchief he retrieved
-the pocket of his blazer. With three clicks of his tongue, the principal
-summoned three robotic bees. The buzzBees landed on the principal's face and
-neck and used their stingers to administer the pharmacological relief that the
-principal would need to collect his frayed nerves.
+Already sweating, the Principal wiped his brow with a lace handkerchief he
+retrieved the pocket of his blazer. With three clicks of his tongue, the
+Principal summoned three robotic bees. The buzzBees landed on the Principal's
+face and neck and used their stingers to administer the pharmacological relief
+that the Principal would need to collect his frayed nerves.
 
 "Today we welcome a new cohort of-"
 
-As the principal began to speak, a student with bright purple hair jumped on
+As the Principal began to speak, a student with bright purple hair jumped on
 top of her seat in the bleachers and began to shout into a hand-held gigaphone.
 
 "Corporeal punishment is barbaric and ineffective!"
@@ -93,9 +89,7 @@ for support, and having difficulty speaking clearly.
 The principal suddenly lurched forward and vomited all over the podium.
 
 Wiping his mouth with the sleeve of his blazer, the principal wrapped up his
-speech.
-
-"Let the sheremony begin!"
+speech. "Let the sheremony begin!"
 
 As soon as an automated voice started calling students to participate in the
 initiation ceremony, the gymnasium erupted with the excited chatter of the
@@ -150,7 +144,7 @@ taserTutor next to the podium in front of the bleachers. The taserTutor looked
 a table covered with a silvery hair. As she approached, the taserTutor began to
 writhe as it adjusted to match her height and build. Robotic birds, bats, and
 bugs flew in circles above Kaia. A wall of historianHummingbirds hovered in
-front of her face, recording her every move from multiple angles , staring at
+front of her face, recording her every move from multiple angles, staring at
 her with their piercing eyes, relaying everything they saw to the projector
 system that displayed a multitude of video feeds on the hexagonal walls of the
 gymnasium.
@@ -645,7 +639,7 @@ want to return to Earth."
 The Principal cleared his throat nervously.
 
 "I am needed here. My sacred duty of molding young minds is of utmost
-importance. Of course, I also cannot abandon my dear son Pert."
+importance. Of course, I also cannot abandon my dear son Pyr."
 
 The Principal called up an image of a young man flexing his muscles and
 sticking out his tongue.
@@ -659,7 +653,7 @@ system too?", Kaia asked.
 
 "Of course not!", the Principal shouted, turning red and getting flustered.
 
-"Pertik has a bright future ahead of him! I would never send him to rot in
+"Pyrik has a bright future ahead of him! I would never send him to rot in
 that-"
 
 The Principal stopped when he realized that he was hurting his own argument.
@@ -724,7 +718,7 @@ were greeted by a familiar voice.
 
 A handful of boys started laughing and exchanging high-fives in front of the
 office door. The boy had been waiting for the three girls to exit. The girls
-recognized that the boy speaking to them was Pert.
+recognized that the boy speaking to them was Pyr.
 
 "If you play your cards right, I might add some of my special sauce to your crappy
 sandwich."
@@ -738,14 +732,14 @@ Looking over at Sata, Kaia noticed that her friend was having a seizure. Kaia
 watched powerlessly as the hand that was covering Sata's chest drifted down in
 the front of her.
 
-"Look fellas, this one is ready for me.", said Pert as he moved forward with
-his hands reaching out towards Sata's chest. Fera swung at Pert with her free
+"Look fellas, this one is ready for me.", said Pyr as he moved forward with
+his hands reaching out towards Sata's chest. Fera swung at Pyr with her free
 hand, while kicking him in the shins. Kaia tried to pull Sata back away from
-Pert, but was too weak to move Sata very far. Kaia opened her mouth to scream
+Pyr, but was too weak to move Sata very far. Kaia opened her mouth to scream
 for help, but before she could make a sound, a historianHummingbird crashed
-into the side of Pert's face, sending him crashing to the floor.
+into the side of Pyr's face, sending him crashing to the floor.
 
-Fera gave Pert one more kick before pulling the other two girls through the
+Fera gave Pyr one more kick before pulling the other two girls through the
 semicircle of stunned boys. After Sata recovered, she was dazed and confused,
 but she understood the need to run. Kaia's feet could barely keep from dragging
 on the ground while the other two girls carried her down the hallway.
@@ -918,7 +912,7 @@ out assorted fragments of bone and shook them in her hand like dice. Through
 the dust swirling around Kaia, she saw the metallic glint of the taserTutor.
 The metallic tendrils extending from taserTutor were coiled around her arms up
 to the shoulder. The ceremony was still ongoing. The taserTutor began to pulse
-red. Kaia's heart sunk. Had she imagined everything? Fera, the Principal, Pert,
+red. Kaia's heart sunk. Had she imagined everything? Fera, the Principal, Pyr,
 Ryn, Aira? Lightning shot out of the surrounding storm and coursed through
 Kaia's body. Kaia screamed and writhed on the ground, but then got up with a
 renewed sense of purpose.
