@@ -929,7 +929,7 @@ movements and moving up past her shoulder. The tendrils wrapped her neck and
 around her head. She braced her legs against the taserTutor and pushed as hard
 as she could, trying to break free of the tendrils. New tendrils extended out
 of taserTutor wrapping around her legs. Before long, Kaia was encased head to
-foot in tendrils. The tendrils constricted, squeezing all of the moisture out
+foot in tendrils. The tendrils constricted, wringing all of the moisture out
 of her body. When the final drop of blood disappeared in the swirling dust
 below, Kaia had been squeezed dry and her mummification was complete.
 
@@ -938,7 +938,7 @@ her next victim. She hunted the new invaders, the ones who desecrated the
 remains of her people in search of riches. When the invaders began to arrive
 with greater frequency, she raised an army of the dead to repel them. Sitting
 victorious atop her throne, she waited for the next opportunity to fertilize
-the barren soil of Mars with blood of her enemies. This is was Kaia's fate.
+the barren soil of Mars with the blood of her enemies. This is was Kaia's fate.
 This is how she would remain. In a perpetual cycle of death and waiting, Kaia
 would protect the memory of her lost civilization from each new crop of fools
 who sought to strike gold on the red planet.
@@ -947,12 +947,12 @@ Disturbed by an unfamiliar sensation on her forehead, the mummy queen let out
 her anger in a roar that shook the ground. After probing her face with an
 tendril-covered hand, she inspected her hand and was stunned to see that her
 fingers were moist. Where had the moisture come from? She had not had even a
-drop of blood in her for eons, she was dessicated to the core. What was going
-on? Tiny drops of water were falling down on the mummy queen's face wherever
-she went. How could there be rain on Mars? She looked up and saw the
-constellations rearranging into a face that filled the heavens. The mummy queen
-recognized the face in the stars. It was Sata. The raindrops were coming from
-her.
+drop of blood in her for eons. She was dessicated to the core. Where had the
+moisture come from? Tiny drops of water were falling down on the mummy queen's
+face wherever she went. How could there be rain on Mars? She looked up and saw
+the constellations rearranging into a face that filled the heavens. The mummy
+queen recognized the face in the stars. It was Sata. The raindrops were coming
+from her eyes.
 
 "Come back to me, please.", the sky whispered. It was no use. There was nothing
 left of Kaia. The mummy queen was not going to spring back to life from a few
@@ -992,7 +992,7 @@ Kaia was underwater, looking up at Sata in the stars above. An octopus obscured
 the view of the sky and Kaia tried to shoo it away, but it extended four pairs
 of tentacles towards Kaia and carried her with to onto a tuft of seaweed. Kaia
 suddenly felt very grateful to the octopus. Reaching out her hands, she began
-to caress the tentacles. The tentacles began to reciprocate. Kaia was
+to caress its tentacles. The tentacles began to reciprocate. Kaia was
 blissfully exchanging caresses with the octopus when she had a startling
 thought. If I'm underwater, how is it that I'm breathing? Kaia shot up,
 throwing the tentacles off of her, and gasping for air.

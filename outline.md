@@ -1244,6 +1244,81 @@ asked nervously.
 
 Eiva's baby is a girl. Kaia's baby is a boy.
 
+Sinistrae disrupt dextrae technology. Fera began to tap away at a console. With
+every touch, the screen became increasingly distorted. Eventually, the screen
+froze in a contorted mess before going blank.
+
+"Dextrae tech is not going to work for us. The silo is the last place in the
+world that has sinistrae tech. Everything else is just going to break when we
+touch it."
+
+"That's not fair, I'm really good with tech."
+
+"Not just tech. You're really good at everything.", Eiva said admiringly.
+
+"That's true, I'm really quite amazing. We can't take over the world just by
+shooting arrows and throwing knives."
+
+"During the war, we had people who were not infused with sinistrae trying to
+reverse engineer dextrae technology. There were even a few dextrae carriers who
+tried to help us. Maybe we can find some people who know tech, who can help us."
+
+Fera shot up. "Eiva, you're brilliant." "Of course, I am, but where are you
+going?" Fera was already gone.
+
+"Ryn, how are you feeling?"
+
+Lunkers don't use dextrae tech. Lunkers don't trust dextrae tech, since they
+know dextrae tech can be manipulated by dextrae wielders. They use remnants of
+the technology left after the war. The Lunkers were on the losing side. Ryn
+opened his eyes very wide. He never thought Fera would ask him about his
+feelings. Seeing that Ryn was frozen in place, Fera tried to smooth things
+over. "Look, I feel bad. I know you wanted us to be together and it looks like
+that will not possible right now."
+
+"All I want to say is don't give up hope. I am sure you can find a way for us
+to be together."
+
+"Really?"
+
+"I could ask for Ben help."
+
+"Great idea. Could you maybe help me smooth things over with Ben and Edl?"
+
+"Smooth over which things?"
+
+"Well, when I blew up the school, I fought with them."
+
+"Oh yes, but I do not think they are angry about that."
+
+"Ben always complained of being bored and not having any challenges."
+
+"So they'll forgive me, because I challenged them?"
+
+"You did not just challenge them! You defeated them! If halogames have taught
+me one thing, it's that once you defeat someone, they can join your side."
+
+"You play halogames?"
+
+"Yes, I had a system hidden in the theater."
+
+"Listen, we need a way for Eiva and me to use dextrae tech. For consoles, I'm
+thinking multilayered gloves that separate the sinistrae on the inside from the
+dextrae outside."
+
+"Yes, that should be easy. All we need is a laminar flow cabinet where you can
+put on sterile latex gloves followed by a pair of synthesized dextrae infused
+gloves."
+
+"Let's use nitrile gloves. The latex ones are smelly."
+
+Ryn nodded. "After we figure that out. Maybe we can ask Ben for help with
+figuring out mimics can adapt to sinistrae?"
+
+Ryn looked away, blushing. Fera knew she had hit the bullseye. Having secured
+Ryn, Fera went back to sit with Eiva.
+
+we can build more sinistrae tech.
 1. Keia is nervous about starting high school
     - In the public school system, all students are shocked by a machine called
       a TeslaTutor, which was originally used to teach children to type, during
