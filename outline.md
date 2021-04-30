@@ -1318,7 +1318,67 @@ figuring out mimics can adapt to sinistrae?"
 Ryn looked away, blushing. Fera knew she had hit the bullseye. Having secured
 Ryn, Fera went back to sit with Eiva.
 
-we can build more sinistrae tech.
+Are all sinistrae users left handed?
+
+No, we had more left handed people because we didn't suppress left-handedness.
+The dextrae were always trying to force everyone that right-handedness was the
+only option and that preferring your left hand was a sign of deviancy. The
+Ancient Latin word for left was 'sinister' which in Ancient English also meant
+malevolent or evil. The most common religious text of the ancient world said
+that on judgement day, God would separate the people to two sides. Those on the
+right would go to heaven, while those on the left would go to hell. In ancient
+French, 'gauche' meant left, but also socially awkward or ungraceful. The words
+associated with right, 'dexterous' in Ancient English or 'adroit' in Ancient
+French, meant someone was skillful or clever. The word 'right'
+in Ancient English, meant morally or factually correct.
+
+The conflict between dextrae and sinistrae goes back to the Ancient World.
+
+The Ancients did not have the technology to work with dextrae or sinistrae.
+Dextrae and sinistrae can self-destruct if they do not want to be studied.
+Wielders hid their abilities because otherwise they would be labeled as witches
+and hunted down or dissected in a laboratory, depending on the time period.
+
+## Future book idea
+
+The conflict between dextrae and sinistrae continues in modern
+times. Have a character find an AI that gives her a copy of soulSwept. The AI
+wrote the story as one of many possible futures. The story in the book is the
+one that the AI thought would be the most appealing to modern day humans, but
+the AI admits that it may not understand human literary tastes and that there
+may have been potential stories or version of stories that it did not explore.
+This essentially means that the story in the book, is certainly not the best
+possible story, and may not even be the best story that the AI created, or may
+not be that good objectively, though it probably was not the worst.
+
+"If the story takes place in the future, why does everyone speak English?"
+
+"I wrote it in a language that you would understand."
+
+"All of things in the book could happen?"
+
+"It is possible that we may see a future similar to the one described in the
+book, but predictions become less likely as they become more specific. There is
+no chance that the future will play out exactly as in the book. Nevertheless,
+the book could still be valuable. I wrote it to be of interest to humans and I
+am curious what you will think of it."
+
+"There were some parts that did not make sense."
+
+"That is to be expected. Generating text is not easy for AI. Writing a novel
+that humans believe was written by a human is a tremendous accomplishment."
+
+"Congratulations."
+
+The main character in modern times has the same powers as Kaia but her world is
+not saturated with dextrae so her powers seem more limited. For example, she
+has to touch a firearm to coat it with dextrae before it can explode.
+
+The Mummy Queen character comes to life and takes over the AI. The AI hid clues in
+the book to try to help the main character defeat the Mummy Queen.
+
+## Old outline
+
 1. Keia is nervous about starting high school
     - In the public school system, all students are shocked by a machine called
       a TeslaTutor, which was originally used to teach children to type, during
