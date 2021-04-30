@@ -1244,6 +1244,28 @@ asked nervously.
 
 Eiva's baby is a girl. Kaia's baby is a boy.
 
+## Fera and Eiva name their baby
+
+---
+"What was your name before?"
+"It doesn't matter. That was a different life."
+"It matters to me."
+"Desirée."
+"What?"
+"It means desired in Ancient French. My friends would call me Desi."
+"Ok, I can understand why the AI gave you a new name. Your old name was complete trash."
+Eiva tackled Fera.
+"Can I call you Desi? When no one else is around? It can be our little secret."
+Eiva's eyes filled with tears. She enveloped Fera in her arms.
+"Maybe you can name your baby Desi? If it's a girl."
+"That wouldn't work though, right? Don't female names have to end in 'a'? It would have to be Desa."
+"After we overthrow the government and abolish the name laws, you can name your baby whatever you want."
+"Stop saying **your** baby."
+"What? Why?"
+"It'd make me happy if you said **our** baby."
+Fera knew in that moment that she would do anything to protect Eiva and **their** baby.
+---
+
 Sinistrae disrupt dextrae technology. Fera began to tap away at a console. With
 every touch, the screen became increasingly distorted. Eventually, the screen
 froze in a contorted mess before going blank.
