@@ -216,60 +216,101 @@ collapses when the giant robot fuel cells detonate.
 
 - 08: Honesty is the best policy
 
-Ben and Edl's parents rescue the protagonists, digging them out of the
-rubble, but Ben decides to scend Kaia while keeping everyone else captive. He
-explains his motives. Ben wants to convince scenders that physical life is
-useless. Ben says that he needs Kaia to be conscious while he scends her and
-that it would be best if she cooperated. He explains that scenders cannot
-forget anything ever and that if she experiences pain during the scending she
-will remember it forever. He takes Kaia into a chamber where the fuel cells
-are very far away, supposedly out of range. Ben operates the console with one
-hand, though he says he can grow himself another hand. Kaia tries to channel
-the Mummy Queen but she cannot. She resigns to her fate when she see Sata
-next to her. Sata controls Ben and has him release her. Sata loses control of
-Ben and Edl attack Kaia. Ben thinks that Kaia took control of him. Kaia
-blinds Ben and Edl, but she cannot open the doors. Ben refuses to let her out
-and laughs at her feeble attempt to escape. In a panic, Kaia slaps Ben in the
-face. He laughs at how weak her slap was, but then starts to scream as his
-skin burns in the place where Kaia slapped him. She tells him that the
-burning will continue until he lets her and everyone else go. Ben says that
-he can handle the pain but the burn is disintegrating his skin. He continues
-to resist until he loses half of his face and his jaw becomes unhinged. Kaia
-is horrified by when she has done. Ben then opens the door and shows her
-footage of her friends being released. She takes Ben as a hostage and leaves
-Edl blind and screaming for her blood, because she hurt his brother. The
-protagonists go to steal an airship to escape but the airships are gone and
-Ben and Edl's parents are there waiting for them with an army of scenders.
-They explain that they do not plan to let Kaia go. They say they can always
-print another Ben. They say that he was right that Kaia was valuable. They do
-not blame him for betraying them just to get the burning pain to stop. Ben
-cries, but he cannot talk because the bottom right side of his face is
-melted. Kaia and Zek blind the scenders but the protagonists are overwhelmed
-by the sheer volume of scenders. The scenders have shields and long spears.
-The scenders arrange themselves in a Ancient Roman testudo formation. The
-scenders know that they are immortal and that their painful deaths will not
-be recorded, so they throw themselves into battle without holding anything
-back. The mimic warrior cuts through the scenders with ease because it can
-move silently, evade their spears, fit under their shields, and then slash
-and bite their tendons. The scenders pile up on the protagonists and are
-about to take them captive. Faced with a wall of spears and exhausted from
-fighting, the protagonists consider surrendering. The scenders are stabbing
-blindly and moving in. The protagonists have there backs against a wall. Kaia
-wants to surrender. Fera asks why Kaia wants to surrender all the time, here
-and at the base. Fera stabs Sata and tells Kaia to do something or they will
-all die. As Sata bleeds out, Kaia channels the Mummy Queen. At first, it
-seems like nothing has happened, but soon the scenders start falling over one
-by one because the Mummy Queen stopped their breathing. From Kaia's view, the
-Mummy Queen has replicated herself and is strangling each of the scenders.
-The Mummy Queen also tries to strangle Fera, but cannot harm her. "See," Fera
-said, " all you needed was the right motivation." The Mummy Queen is furious
-that there is someone who she cannot kill. The Mummy Queen lashes out at
-Fera, but she an invisible shield protects Fera. The Mummy Queen slams
-against the invisible barrier until she dissipates. Eiva and Fera stabilize
-Sata by infusing her with sinistrae blood. They leave Ben because he has no
-value as a hostage. Ryn guides them underground and the protagonists (Sata,
-Kaia, Eiva, Fera, Zek, Zok, Ursa, Iona, and Ryn) head to Wessel lake in
-Wieliczka to hide from the scenders.
+Ben and Edl's parents rescue the protagonists, digging them out of the rubble,
+but Ben decides to scend Kaia while keeping everyone else captive. He explains
+his motives. Ben wants to convince scenders that physical life is useless. Ben
+says that he needs Kaia to be conscious while he scends her and that it would
+be best if she cooperated. He explains that scenders cannot forget anything
+ever and that if she experiences pain during the scending she will remember it
+forever. He takes Kaia into a chamber where the fuel cells are very far away,
+supposedly out of range. Ben operates the console with one hand, though he says
+he can grow himself another hand later. I'll never become a scender. No one
+should live forever. How can you say that when you have so many of your friends
+are scenders? Did you think the Ben and Edl were the only ones? Zok and Ursa
+are some of most wanted scender delinquents. Ursa has repeatedly stolen bodies
+and gotten pregnant. There's no rule against switching gender, but scenders are
+not supposed to return to the physical world without a mission and having
+children is strictly forbidden. Propagating physical life goes against the
+principles of scenderism. Ursa was obsessed with having a child in the physical
+world, that she kept trying despite the fact that our recovery teams captured
+her every time and destroyed the illegal offspring. We updated her mind in the
+scenderverse every time, hoping she would learn her lesson, but she kept trying
+until she met Zok. Together, the two started to worship the long dead Martian
+civilization and its undead leader. Zek and Iona are also part of the cult. I
+thought you might have been able to catch on since Iona is Thelusian and the
+Mummy Queen controls all Thelusians. The four of them have been doing the Mummy
+Queen's bidding on Earth for centuries. They built hidden relay stations and
+soulsweep people who are sensitive to dextrae, like you are, so that they
+eventually join the cult. Zek has overwritten countless minds with his own.
+They are trying to overwrite your mind with the memories of the Mummy Queen.
+Did you think we are the villains? We want to preserve your brain the way it
+is, before they turn you into a puppet for the Mummy Queen. Ryn has been
+feeding information about you to us in exchange for access to technology. He
+thinks he can save mimickind with his research. Kaia cries knowing that her
+friends except Sata have all lied to her. Lan and Aira are dead. Ursa was
+originally a man and is now part of the Mummy Queen cult with Zek, Iona, and
+Zok. Kaia channels the Mummy Queen but she cannot reach any nearby fuel cells.
+She resigns to her fate when she see Sata next to her. Sata controls Ben and
+has him release her. Sata loses control of Ben and Edl attack Kaia. Ben thinks
+that Kaia took control of him. Kaia blinds Ben and Edl, but she cannot open the
+doors. Ben refuses to let her out and laughs at her feeble attempt to escape.
+In a panic, Kaia slaps Ben in the face. He laughs at how weak her slap was, but
+then starts to scream as his skin burns in the place where Kaia slapped him.
+She tells him that the burning will continue until he lets her and everyone
+else go. Ben says that he can handle the pain but the burn is disintegrating
+his skin. He continues to resist until he loses half of his face and his jaw
+becomes unhinged. Kaia is horrified by when she has done. Ben then opens the
+door and shows her footage of her friends being released. She takes Ben as a
+hostage and leaves Edl blind and screaming for her blood, because she hurt his
+brother. The protagonists go to steal an airship to escape but the airships are
+gone and Ben and Edl's parents are there waiting for them with an army of
+scenders. They explain that they do not plan to let Kaia go. They say they can
+always print another Ben. They say that he was right that Kaia was valuable.
+They do not blame him for betraying them just to get the burning pain to stop.
+Ben cries, but he cannot talk because the bottom right side of his face is
+melted. Ben's parents try to convince Kaia that being a scender is a gift. They
+say that Ben was the first algorithmically created consciousness to be placed
+in a body. Everyone thought he would be disdainful of physical life, because he
+was born in the scenderverse, but it was quite the opposite. Ben was the
+greatest advocate for physical life among the scenders. Each one of the
+scenders in our army is dedicated to the cause. They believe that scenderism is
+the only true path for humanity. We can still learn things from chemical
+intelligence, but physical life in general is wasteful. Keeping so many people
+alive is holding back human progress. The only reason why scenders have not
+enacted our plan of ending physical life is because Ben convinced us otherwise.
+When Ben was a child he designed a companion for himself. He drew up the
+schematics himself, not fully even understanding what he was doing. A
+algorithmically created mind created another conscious being from nothing. We
+still do not understand how he did it and have not been able to repeat this
+feat ever since. You are another example of something we cannot explain. We
+need you to join us so we can study your abilities for the good of humanity.
+Kaia and Zek blind the scenders but the protagonists are overwhelmed by the
+sheer volume of scenders. The scenders have shields and long spears. The
+scenders arrange themselves in a Ancient Roman testudo formation. The scenders
+know that they are immortal and that their painful deaths will not be recorded,
+so they throw themselves into battle without holding anything back. The mimic
+warrior cuts through the scenders with ease because it can move silently, evade
+their spears, fit under their shields, and then slash and bite their tendons.
+The scenders pile up on the protagonists and are about to take them captive.
+Faced with a wall of spears and exhausted from fighting, the protagonists
+consider surrendering. The scenders are stabbing blindly and moving in. The
+protagonists have there backs against a wall. Kaia wants to surrender. Fera
+asks why Kaia wants to surrender all the time, here and at the base. Fera stabs
+Sata and tells Kaia to do something or they will all die. As Sata bleeds out,
+Kaia channels the Mummy Queen. At first, it seems like nothing has happened,
+but soon the scenders start falling over one by one because the Mummy Queen
+stopped their breathing. From Kaia's view, the Mummy Queen has replicated
+herself and is strangling each of the scenders. The Mummy Queen also tries to
+strangle Fera, but cannot harm her. "See," Fera said, " all you needed was the
+right motivation." The Mummy Queen is furious that there is someone who she
+cannot kill. The Mummy Queen lashes out at Fera, but she an invisible shield
+protects Fera. The Mummy Queen slams against the invisible barrier until she
+dissipates. Eiva and Fera stabilize Sata by infusing her with sinistrae blood.
+They leave Ben because he has no value as a hostage. Edl comes out of hiding,
+picks up Ben, and informs Kaia that he is no longer her friend after what she
+did to Ben. Ryn guides them underground and the protagonists (Sata, Kaia, Eiva,
+Fera, Zek, Zok, Ursa, Iona, and Ryn) head to Wessel lake in Wieliczka to hide
+from the scenders.
 
 - 09: Home sweet home
 
@@ -289,7 +330,9 @@ bottom of Lake Wessel. After they recover, they (Zek, Ursa, Ryn, and Iona) rush
 to get Zok to a Lunker hospital. They (Zek, Zok, Ursa, Ryn, and Iona) are
 captured by scenders who followed them into the tunnels. The scenders detonate
 explosives to collapse the tunnels in Wieliczka burying Kaia, Sata, Fera, and
-Eiva alive. - 10: Nothing interesting happens - Kaia takes sinistrae
+Eiva alive.
+
+- 10: Nothing interesting happens - Kaia takes sinistrae
 supplements to survive, while they dig themselves out. They are starving,
 because Fera hides food for Eiva who is revealed to be pregnant. They fill the
 silo with rubble as they dig their way out. The AI still has a connection to
