@@ -218,41 +218,97 @@ collapses when the giant robot fuel cells detonate.
 
 Ben and Edl's parents rescue the protagonists, digging them out of the rubble,
 but Ben decides to scend Kaia while keeping everyone else captive. He explains
-his motives. Ben wants to convince scenders that physical life is useless. Ben
-says that he needs Kaia to be conscious while he scends her and that it would
-be best if she cooperated. He explains that scenders cannot forget anything
-ever and that if she experiences pain during the scending she will remember it
-forever. He takes Kaia into a chamber where the fuel cells are very far away,
-supposedly out of range. Ben operates the console with one hand, though he says
-he can grow himself another hand later. I'll never become a scender. No one
-should live forever. How can you say that when you have so many of your friends
-are scenders? Did you think the Ben and Edl were the only ones? Zok and Ursa
-are some of most wanted scender delinquents. Ursa has repeatedly stolen bodies
-and gotten pregnant. There's no rule against switching gender, but scenders are
-not supposed to return to the physical world without a mission and having
-children is strictly forbidden. Propagating physical life goes against the
-principles of scenderism. Ursa was obsessed with having a child in the physical
-world, that she kept trying despite the fact that our recovery teams captured
-her every time and destroyed the illegal offspring. We updated her mind in the
-scenderverse every time, hoping she would learn her lesson, but she kept trying
-until she met Zok. Together, the two started to worship the long dead Martian
-civilization and its undead leader. Zek and Iona are also part of the cult. I
-thought you might have been able to catch on since Iona is Thelusian and the
-Mummy Queen controls all Thelusians. The four of them have been doing the Mummy
-Queen's bidding on Earth for centuries. They built hidden relay stations and
-soulsweep people who are sensitive to dextrae, like you are, so that they
-eventually join the cult. Zek has overwritten countless minds with his own.
-They are trying to overwrite your mind with the memories of the Mummy Queen.
-Did you think we are the villains? We want to preserve your brain the way it
-is, before they turn you into a puppet for the Mummy Queen. Ryn has been
-feeding information about you to us in exchange for access to technology. He
-thinks he can save mimickind with his research. Kaia cries knowing that her
-friends except Sata have all lied to her. Lan and Aira are dead. Ursa was
-originally a man and is now part of the Mummy Queen cult with Zek, Iona, and
-Zok. Kaia channels the Mummy Queen but she cannot reach any nearby fuel cells.
-She resigns to her fate when she see Sata next to her. Sata controls Ben and
-has him release her. Sata loses control of Ben and Edl attack Kaia. Ben thinks
-that Kaia took control of him. Kaia blinds Ben and Edl, but she cannot open the
+his motives. Ben wants to convince the other scenders that physical life is
+useless. Ben says that he needs Kaia to be conscious while he scends her and
+that it would be best if she cooperated. He explains that scenders cannot
+forget anything ever and that if she experiences pain during the scending she
+will remember it forever. He takes Kaia into a chamber where the fuel cells are
+very far away, supposedly out of range. Ben operates the console with one hand,
+though he says he can grow himself another hand later.
+
+"I'll never become a scender. No one should live forever."
+
+"If I can't convince you maybe some of you friends can."
+
+The door opens and Ursa, Zek, Zok, Ursa, and Iona are brought in, all of them
+bound by large metal shackles and surrounded by scenders as large as Edl and
+holding spears and large shields.
+
+"Where's Sata?"
+
+Not paying attention to Kaia.
+
+"Ursa, tell Kaia your story."
+
+"Kaia, I wanted to tell you..."
+
+"Ursa, get on with it."
+
+"I was a man in my first life, but I hated it. When I heard about scenderism, I
+saw it as a way to come back as who I was really meant to be."
+
+Kaia tried to process what Ursa was saying.
+
+"After I scended, I volunteered for any mission that would let me come back as
+a woman. I really liked it. On each mission I would play a different
+role. I always liked acting and no matter what role I was playing I always felt
+like I was closer to the real me than I ever had in my first life."
+
+"Tell her what you did on the missions."
+
+"Sometimes I would get information or destroy something."
+
+"Espionage and sabotage. What else, Ursa?"
+
+"Sometimes I had to kill people."
+
+"You completed hundreds of successful assassinations. You were the most
+accomplished assassin in the scenderverse."
+
+"When we met, where you on a mission?"
+
+Ben laughed. "Yes, she was, but not for scenders. Now, Ursa serves the Mummy Queen."
+
+Kaia looked in disbelief at Ursa. "Why, Ursa?"
+
+"The Mummy Queen promised me that I could be a woman forever and even have a
+baby."
+
+Ursa helped build facilities to spread the Mummy Queen's cult. Zek, Zok,
+and Iona were Ursa's accomplices.
+
+"Accomplice?! I was born on Mars and fought in the war. I saw the Thelusian
+spacecraft crash into Mars. Ursa has never even been to Mars."
+
+"I was there too. Zek and I stayed together the whole time even though our
+people were on opposite sides in the war. Ursa joined us much later."
+
+"Tell Kaia why you joined the Mummy Queen."
+
+"The Mummy Queen promised to rebuild both Mars and Thelus if we followed her."
+
+"Did you think that I was the villain? Ursa killed hundreds while working as a spy
+and an assassin. Zek has soulswept countless people like you, driving them insane or
+turning them into puppets for the Mummy Queen."
+
+"They are trying to overwrite your mind with the memories of the Mummy Queen.
+We want to preserve your brain the way it is. We want to study you to
+understand your gifts and use them for the good of humanity."
+
+"Can't you study me without killing me?"
+
+"We can bring you back right after you scend. And your mind is continuously
+being corrupted by the Mummy Queen, so there's no time to waste."
+
+"The scenders want to end physical life on Earth. The eternalEnlighted agree.
+They are going to kill everyone on Earth with a virus. Our research can
+convince them to not release the virus."
+
+Ben begins to lower the circular saws the will remove the top of Kaia's skull.
+Kaia channels the Mummy Queen but she cannot reach any nearby fuel cells. She
+resigns to her fate when she see Sata next to her. Sata controls Ben and has
+him release her. Sata loses control of Ben and Edl attack Kaia. Ben thinks that
+Kaia took control of him. Kaia blinds Ben and Edl, but she cannot open the
 doors. Ben refuses to let her out and laughs at her feeble attempt to escape.
 In a panic, Kaia slaps Ben in the face. He laughs at how weak her slap was, but
 then starts to scream as his skin burns in the place where Kaia slapped him.
@@ -1580,6 +1636,50 @@ Lost civilizations:
 - Thelusians:
 - Sinistrae:
 
+"Zok, are you soulswept like Zek?"
+
+"Well, I was soulswept, but then I scended and became... SWOLEswept."
+
+With peoplePrinters to print out cult members, relay stations to soulsweep
+anyone sensitive, and gestation pods to produce clones of Zek. The
+peoplePrinters would print out copies of cultists, like Ursa, while the relay
+stations would soulsweep people to bring them under the influence of the Mummy
+Queen.
+
+Scenders consider Ursa and Zok to be abominations. Zok and Ursa are some of
+most wanted scender delinquents. Ursa has repeatedly stolen bodies and gotten
+pregnant. There's no rule against switching gender, but scenders are not
+supposed to return to the physical world without a mission and having children
+is strictly forbidden. Propagating physical life goes against the principles of
+scenderism. Ursa was obsessed with having a child in the physical world, that
+she kept trying despite the fact that our recovery teams captured her every
+time and destroyed the illegal offspring. We updated her mind in the
+scenderverse every time, hoping she would learn her lesson, but she kept trying
+until she met Zok. Together, the two started to worship the long dead Martian
+civilization and its undead leader. Zek and Iona are also part of the cult. I
+thought you might have been able to catch on since Iona is Thelusian and the
+Mummy Queen controls all Thelusians. The four of them have been doing the Mummy
+Queen's bidding on Earth for centuries. They built hidden relay stations and
+soulsweep people who are sensitive to dextrae, like you are, so that they
+eventually join the cult. Zek has overwritten countless minds with his own.
+They are trying to overwrite your mind with the memories of the Mummy Queen. We
+want to preserve your brain the way it is, before they turn you into a puppet
+for the Mummy Queen. Ryn has been feeding information about you to us in
+exchange for access to technology. He thinks he can save mimickind with his
+research. Kaia cries knowing that her friends except Sata have all lied to her.
+Lan and Aira are dead. Ursa was originally a man and is now part of the Mummy
+Queen cult with Zek, Iona, and Zok.
+
+Ursa created her own peoplePrinters, so she could come back and have a baby.
+She would live in fear, but the scenders would always find her. She lost many
+babies at different stages of life as the scender recovery teams tracked her
+down. Each time, they killed her baby and brought her back to scend her so she
+would remember the loss and potentially be deterred from trying again. The
+recovery teams destroyed whatever peoplePrinters they could find, but Ursa
+always had backups.
+
+Iona was a child prostitute. The Thelusian government neglected her. She met
+Zek, who took her in. Loving her like a daughter until she grew up.
 
 Book 3:
 The third book starts with a surprise attack by the invading mimic forces. Earth, Mars, and the Thelusians are brought to their knees. The mimics begin to take control. Characters previously oppressed by the rulers of Earth and Mars are now forced to fight the mimics in addition to fighting to survive. New ethnicities have formed since the ending of the 2nd book. Ryn awakes and welcomes the invading forces, but they reject him because he is a weakling. The messages were only partially decoded by Earth's scientists and the invading mimics see Ryn as a flaw. Ryn decides to fight back against the mimic invasion. He hides the fact that he knew about the invasion from the other members of the resistance. The new mimics keep humans and old mimics alive to study how they have adapted to life on Earth. It turns out the old mimics adapted to be symbiotic humans while the new mimics are parasitic. New mimics can impregnate human men and women. Human men typically die after giving birth to a mimic baby, while human women typically survive the birth. Old mimics can only become pregnant themselves after interacting with humans. As the invading mimics adapt, it becomes difficult to say who is human, new mimic, and old mimic. Part of humanity escapes into space away from the mimic invaders. The new mimics rule over and oppress the humans and the old mimics. The humans and old mimics form an alliance against the new mimic oppressors. A new hero arises who gains the ability to fight back after she masters an ancient AI (the UNO AI is brought under control when the hero says tries to use a defective sudoku puzzle to destroy the AI, "command ku not found", "I guessed wrong", "Welcome guest wrong"). She is able to understand the thoughts of new mimics, old mimics, and humans. She teaches humans about the mimic hivemind. She uses her powers to destroy the new mimic power structure, killing off most of the people. The AI informs her that she made a mistake and the setback to technological progress could be disastrous. If the infighting and the setbacks to technological progress continue then humanity and mimicity will be unprepared for when Earth will be consumed by the Sun. The hero tries to organize the survivors, humans, new mimics, and old mimics alike, to work together to prepare for the Sun's expansion. The hero decides that the only way to ensure stability is install herself as the new ruler of Earth and Mars. The AI agrees and helps the hero to take over. The hero starts crushing those who defied her and rules over Mars and Earth with a iron fist calling herself the All Queen. She begins to transmit signals similar to those coming from the distant mimic civilizations, intending to destroy nascent mimic civilizations, and create more of her own civilizations throughout the universe. She makes plans to move first Earth and then Mars to escape the Sun's expansion. The All Queen sends out colony ships in all directions planning to conquer nearby worlds when Andromeda collides with the Milky Way and rule over all of Milkomeda.

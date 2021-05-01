@@ -1005,7 +1005,7 @@ mixing with Sata's scent was heavenly. Soon Kaia stopped trembling and her body
 relaxed. Kaia lifted her face up to look at Sata. Sata was so radiant and
 beautiful that Kaia began to cry.
 
-Sata leaned in a kissed Kaia's cheeks, catching the fresh tears with her lips.
+Sata leaned in and kissed Kaia's cheeks, catching the fresh tears with her lips.
 Kaia fell asleep with a smile on her face as Sata slowly showered her with
 kisses. The blissful look on Kaia's face warmed Sata's heart. They were
 together. They were safe, at least for now. The world melted away. Sata did not
