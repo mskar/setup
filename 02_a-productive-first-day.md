@@ -3,32 +3,35 @@
 "Why am I like this?", Fera thought as she covered her mouth so no one would
 hear her crying. She had been drifting in and out of sleep on the hard concrete
 floor of the theater, but she could not stop thinking of Kaia writhing on the
-ground during her psychotic episode. The screams were bad, but the low dull
-wailing that followed was somehow worse. It was as if Kaia had a demon inside
-her trying to claw its way out. Sata held onto Kaia the whole time, having
-seizures one after another. During the seizures, Sata's eyes stayed open, the
-look of concern on her face would melt away, she would stare off into void.
-When Kaia stopped breathing, Sata responded immediately by giving her CPR. Did
-Sata already know what to do, because she had been in this situation before?
-Fera felt absolutely powerless. She had never known anyone like Sata and Kaia.
-Was she responsible for what happened?
+ground during her psychotic episode.
 
-"It's not my fault that they're like that.", Fera thought to herself, getting
+The screams were bad, but the low dull wailing that followed was somehow worse.
+It was as if Kaia had a demon inside her trying to claw its way out. Sata held
+onto Kaia the whole time, having seizures one after another. During the
+seizures, Sata's eyes stayed open, the look of concern on her face would melt
+away, and she would stare off into void. When Kaia stopped breathing, Sata
+responded immediately by giving her CPR. Did Sata already know what to do,
+because she had been in this situation before? Fera felt absolutely powerless.
+She had never known anyone like Sata and Kaia. Was she responsible for what
+happened?
+
+"It's not my fault that they're like that," Fera thought to herself, getting
 up off the ground and looking at Kaia and Sata lying peacefully in the secret
 bed. Fera wanted to lay down in the secret bed next to them, it looked really
 nice, but she was wracked by feelings of guilt and did not feel she deserved to
 be comfortable.
 
 "I don't need sleep. Beds are for the weak. The only thing that matters is the
-revolution.", Fera thought as she got up and started trying to find her way out
+revolution," Fera thought as she got up and started trying to find her way out
 of the theater in complete darkness. With each step, she probed the ground
 beneath her. She hadn't gotten very far when she noticed two glowing eyes
 observing her in the darkness.
 
-"You know you're creepy as hell.", Fera said.
+"You know you're creepy as hell," Fera said.
 
-"Yes, I am aware of that. I am still learning how to interact with Cacumens. My
-sister is much better. She is a people person.", Ryn answered.
+"Yes, I am aware of that. I am still learning how to interact with topsiders...
+I mean, Cacumina. My sister is much better. She is a people person.", Ryn
+answered.
 
 "Well, then bring her here. I'd rather talk to her."
 
@@ -38,10 +41,10 @@ sister is much better. She is a people person.", Ryn answered.
 
 Ryn complied immediately. "Would you like to see the maker workshop?"
 
-"Was he still trying to be friends with her?", Fera thought, "What a loser!".
+"Is he still trying to be friends with me?" Fera thought. "What a loser!".
 
-Not having any other plan, Fera nodded. The maker workshop would be a welcome
-distraction.
+Not having other plans, Fera nodded. The maker workshop would be a welcome
+distraction from the feelings she was trying to ignore.
 
 Arriving at the maker workshop, Fera was dumbstruck at how technologically
 advanced and well stocked it was.
@@ -62,35 +65,33 @@ Fera laughed. "And they have money to burn on all of this?"
 
 "If they're so rich, why do they go to a run-down public school?"
 
-"I do not know.", Ryn said walking up to a console, "I ask them to come here so
-you can ask."
+"I do not know," Ryn said walking up to a console and calling Ben and Edl. "You
+can ask them yourself."
 
-It was no long before a thin boy wearing powerskates zipped into the maker
-shop with another boy nearly as large as a guardGorilla running in after him.
-him. The boy in power skates did a sliding stop right in front of Fera and Ryn
-and the other boy ran up and stopped a few steps behind him. Reaching out one
-hand to Fera and gesturing around the maker workshop with the other, "Welcome
-to the maker shop!", the boy in power skates said. He was wearing metallic
-gloves covered with intricate patterns.
+It was not long before a thin boy wearing powerskates and powergloves zipped
+into the maker shop with another boy nearly as large as a guardGorilla running
+in after him. Coming to sliding stop in front of Fera and Ryn, the boy in power
+skates gestured around the maker workshop and said, "Welcome to the maker
+shop!"
 
-Turning one begloved hand towards himself, "I'm Ben." and the other begloved
-hand to boy behind him "and this is my little brother Edl.", bowing deeply "and
-we are both deeply honored to be at your service."
+Turning one begloved hand towards himself, "I'm Ben," and the other begloved
+hand to boy behind him, "and this is my little brother Edl,", then bowing deeply
+"and we are both deeply honored to be at your service."
 
-"This is Fera.", Ryn said, "She likes making things too!"
+"This is Fera," Ryn said. "She likes making things too!"
 
 "The gigaphone you built was impressive, considering the limited resources you
-had at your disposal.", Edl said. "Just think of what you could build in the
+had at your disposal," Edl said. "Just think of what you could build in the
 maker workshop!"
 
 "I can use all this stuff?", Fera asked.
 
-"Yes, of course! Let me show you around." Edl replied.
+"Yes, of course! Let me show you around," Ben replied.
 
-"You can use any free workstation you like.", Edl said sweeping his hand across
+"You can use any free workstation you like," Ben said sweeping his hand across
 the workshop, then turning towards a console, "You can also reserve any
-workstation for any period of time,", holding up one finger on one hand, "but
-you can only reserve one workstation at a time.".
+workstation for any period of time," holding up one finger on one hand, "but
+you can only reserve one workstation at a time."
 
 "The reservation schedule looks mostly empty. Actually, you and Ryn are the
 only ones making reservations. Do people mostly use whatever workstation is
@@ -104,18 +105,17 @@ social interaction! In fact, I hold biweekly maker interest group (MIG)
 meetings that are open to everyone. Despite my best efforts in promoting the
 MIG, attendance remains limited."
 
-"If you come to the meetings, we can have... four people!", Edl said looking
+"If you come to the meetings, we can have... four people!" Edl said looking
 around the workshop, then showing four fingers on one hand.
 
 "Maybe more people would show up if you made the meetings secret and exclusive.
 People like being part of inside groups."
 
-Ben stopped for a moment and began to scribble notes on his palm with his finger.
+Ben stopped for a moment and began to scribble notes on his palm with his
+finger. "That's brilliant!" Looking up from his palm, "Would you like to be the
+first member of our newly formed secret maker interest group?"
 
-"That's brilliant!" Looking up from his palm, "Would you like to be the first
-member of our newly formed secret maker interest group?"
-
-"Sure.", Fera replied casually.
+"Sure," Fera replied casually.
 
 "Excellent!" Ben responded opening a large cabinet. "I just gave you full
 access to the workshop. You can use any of the tools as long as you follow the
@@ -161,9 +161,9 @@ Fera noticed a container labeled Ben's Builder Bots.
 container to show Fera.
 
 Fera studied the contents of the container.
-"Can the builder bots build builder bots?", she asked.
+"Can the builder bots build builder bots?" Fera asked.
 
-Ben opened his mouth to answer, but then starting scribbling furiously on his
+Ben opened his mouth to answer, but then started to scribble furiously on his
 palm while muttering to himself. "Builder bot building builder bots...
 Self-replication... Metametabuilding... Why build when I can metabuild? Why
 metabuild when I can metametabuild? Brilliant!"
@@ -172,7 +172,7 @@ Then looking up, "Would you like to be Vice President of the MIG?".
 
 "You don't already have a Vice President?". Fera asked looking at Ryn and Edl.
 
-"Edl and Ryn said they are both happy being Treasurer and Recordkeeper."
+"Edl and Ryn said they are happy being Treasurer and Recordkeeper, respectively."
 
 "I look at the money go in and out.", Edl said proudly.
 
@@ -183,8 +183,8 @@ unlimited."
 
 "What would I do as Vice President?"
 
-"You would represent the MIG, and if the need arises when the President is
-indisposed, you would exercise your executive powers."
+"You would represent the MIG, and if the President is indisposed, you would
+exercise your executive powers."
 
 "How would I exercise my executive powers?"
 
@@ -192,7 +192,7 @@ indisposed, you would exercise your executive powers."
 president. Do you want to run? Even though you'll be running unopposed, we
 still have to vote."
 
-"Ok, sure." Fera said, trying her best to sound indifferent.
+"Ok, sure," Fera said, trying her best to sound indifferent.
 
 "Excellent, with all current members present, we have quorum. All those in
 favor of Fera becoming Vice President of the MIG?"
@@ -200,13 +200,11 @@ favor of Fera becoming Vice President of the MIG?"
 Ryn, Edl, and Ben all raised their hands, said "Aye!", and then all looked at
 Fera.
 
-When Fera realized that they were waiting for her, she raised her hand and said
-"Aye.".
+When Fera realized that they were waiting for her, she raised her hand and said,
+"Aye."
 
 "Alright, all opposed?" Ben asked, waiting for a few moments for anyone to
-object.
-
-Fera opened her mouth to say something, but decided against it.
+object. Fera opened her mouth to say something, but decided against it.
 
 "The vote is unanimous. Congratulations! We will hold elections at the end of
 the school year. If you like you can run for President."
@@ -216,16 +214,16 @@ the school year. If you like you can run for President."
 "Next year, I am going to be a senior and I believe it is time for me to start
 preparing the next generation of MIG members."
 
-"If you run for President next time, I will vote for you.", Ryn said.
+"If you run for President next year, I will vote for you," Ryn said.
 
-"You have my vote too.", Edl added.
+"You have my vote too," Edl added.
 
 "Yes, I plan to vote for you as well. As the current Vice President and very
 likely future President of the MIG, you should learn about our executive
 powers. If something were to happen to me, you have to be ready to step in and
-take over. Without the guardianship of the MIG, the school could descend into
-chaos.", Ben said, walking over to a synthesizer and entering a complex series
-of key presses and then laying his hands down on the screen.
+take over. Without the guardianship of the MIG, the school would quickly
+descend into chaos.", Ben said, walking over to a synthesizer and entering a
+complex series of key presses and then laying his hands down on the screen.
 
 "Take off your shoes, take a seat, and put your hands and feet into the scanner
 please."
@@ -877,7 +875,7 @@ horizon.
 Ben and Edl looked out at the empty city from the observation deck of one of
 their family's airships.
 
-"I hope Fera and Ryn made it out OK.", Edl said.
+"I hope Fera and Ryn made it out OK," Edl said.
 
 "I am sure she did. Fera is extremely cunning. I have never before met someone
 who I might consider my intellectual equal.", Ben asked. "No offense, Edl."
@@ -888,16 +886,22 @@ who I might consider my intellectual equal.", Ben asked. "No offense, Edl."
 safely evacuated and reconstruction will begin as the rubble cools. To be
 frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
-"I am glad that Fera will be still in our group."
+"I am glad that Fera can be still in our group."
 
 "Me too." Ben said, patting Edl's massive shoulder.
+
+"To be honest, we'll be lucky to have her. On her first day in high school,
+Fera built a gigaphone from stolen parts, became MIG Vice President, mastered
+droneDancing, defeated us in combat, and doomed the entire city. I've never
+heard of anyone having such a productive day. The way she used the powergloves
+and powersk-"
 
 Ben snapped his fingers as he got an idea. "We can track Fera using the
 powergloves and powerskates."
 
 Moving to a console, Ben brought up Fera's location on a map.
 
-"She is still moving away from the city." Ben looked at the timer.
+"She is still in the city." Ben looked at the timer.
 
 "Can we pick her up?", Edl asked.
 
@@ -905,7 +909,11 @@ Moving to a console, Ben brought up Fera's location on a map.
 
 The two brothers looked out the windows at the chain of explosions snaking
 through the city. The signal from Fera's powergloves and powerskates
-disappeared inside the blast zone on the map. As the explosion spread and then
-faded, the Ben and Edl began to cry. The brothers, both remembering Fera
-fondly, gazed out the window long after the smoldering remains of the city
-disappeared behind the horizon.
+disappeared inside the blast zone on the map. Edl's eyes filled with tears.
+
+"Maybe she dropped them along the way?", Ben offered. His voice did not sound
+convincing. The signal disappeared while it was still moving out of the city.
+
+As the explosion spread and then faded, the Ben began to cry nearly as loudly
+as Edl. The brothers, both remembering Fera fondly, gazed out the window long
+after the smoldering remains of the city disappeared behind the horizon.

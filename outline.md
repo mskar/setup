@@ -75,6 +75,19 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 
 ## Chapters
 
+- [x] 01: Off to a great start
+- [ ] 02: A productive first day
+- [ ] 03: A beautiful view
+- [ ] 04: Never looked better
+- [ ] 05: Finally fitting in
+- [ ] 06: A great way to make friends
+- [ ] 07: A touching reunion
+- [ ] 08: Honesty is the best policy
+- [ ] 09: Home sweet home
+- [ ] 10: Nothing interesting happens
+- [ ] 11: Welcome back
+- [ ] 12: Take your time
+
 - 01: Off to a great start:
   - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Aira and Ryn
   - End: Kaia and Sata go to sleep together in the secret bed

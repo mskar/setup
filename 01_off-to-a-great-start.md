@@ -61,7 +61,7 @@ Already sweating, the Principal wiped his brow with a lace handkerchief he
 retrieved the pocket of his blazer. With three clicks of his tongue, the
 Principal summoned three robotic bees. The buzzBees landed on the Principal's
 face and neck and used their stingers to administer the pharmacological relief
-that the Principal would need to collect his frayed nerves.
+that the Principal would need to assemble his frayed nerves.
 
 "Today we welcome a new cohort of-"
 
@@ -80,18 +80,16 @@ scooped up the student and carried her out of the gymnasium.
 
 Visibly shaken, the principal repeated his pre-speech ritual by clearing his
 throat again and clicking his tongue three more times. The three additional
-robotic bee stings were successful in calming down the principal, but when the
-principal resumed his speech, he was swaying side to side, gripping the podium
-for support, and having difficulty speaking clearly.
+robotic bee stings successfully calmed the principal, but when he resumed his
+speech, he was swaying side to side, gripping the podium for support, and
+having difficulty speaking clearly.
 
 "Dishipline and rispet for aufority are eshenshial for a funshioning shosh-"
+The principal suddenly lurched forward and vomited all over the podium. Wiping
+his mouth with the sleeve of his blazer, the principal wrapped up his speech.
+"Let the sheremony begin!"
 
-The principal suddenly lurched forward and vomited all over the podium.
-
-Wiping his mouth with the sleeve of his blazer, the principal wrapped up his
-speech. "Let the sheremony begin!"
-
-As soon as an automated voice started calling students to participate in the
+An automated voice started calling students to participate in the
 initiation ceremony, the gymnasium erupted with the excited chatter of the
 students and the sounds of the robotic wildlife.
 
@@ -123,7 +121,7 @@ Never knowing what to say, Kaia tried to start a conversation.
 
 "How do you know?"
 
-"She didn't go through the ceremony."
+"She didn't go through the initiation rite."
 
 "Maybe we can protest too?"
 
@@ -141,13 +139,13 @@ through the rows of students.
 
 Kaia could feel the eyes of the students and robotic animals follow her to the
 taserTutor next to the podium in front of the bleachers. The taserTutor looked
-a table covered with a silvery hair. As she approached, the taserTutor began to
-writhe as it adjusted to match her height and build. Robotic birds, bats, and
-bugs flew in circles above Kaia. A wall of historianHummingbirds hovered in
-front of her face, recording her every move from multiple angles, staring at
-her with their piercing eyes, relaying everything they saw to the projector
-system that displayed a multitude of video feeds on the hexagonal walls of the
-gymnasium.
+like a metal table covered with a silvery hair. As she approached, the
+taserTutor began to writhe as it adjusted to match her height and build.
+Robotic birds, bats, and bugs flew in circles above Kaia. A wall of
+historianHummingbirds hovered in front of her face, recording her every move
+from multiple angles, staring at her with their piercing eyes, relaying
+everything they saw to the projector system that displayed a multitude of video
+feeds on the hexagonal walls of the gymnasium.
 
 When Kaia placed her palms down on the taserTutor, metallic tendrils extended from
 the taserTutor and wrapped around her arms up to the shoulders like vines around a
@@ -156,7 +154,7 @@ commands.
 
 "State your full name."
 
-"Kaialeiala Erkadia."
+"Kaiakelaaila Erkadia."
 
 "State your age in years."
 
@@ -178,25 +176,18 @@ Speed of light: 300 megameters per second.
 Time: 382 / 300 seconds = 1.27 seconds
 
 Kaia opened her mouth to answer, but froze in horror.
-"And back!", she said to herself.
-"From Earth to the moon AND BACK!"
+"And back!", she said to herself. "From Earth to the moon AND BACK!"
 
 Terrified at the thought that she almost answered incorrectly, Kaia did the
-final calculation in her head.
-
-"2.54 seconds!"
-
-Kaia braced for an electric shock, but was relieved to hear the next question
-instead.
+final calculation in her head. "2.54 seconds!" Kaia braced for an electric
+shock, but was relieved to hear the next question instead.
 
 "Given a distance range of 590 to 980 gigameters, calculate the minimum time in
 minutes required for a radio transmission to go from the surface of Earth to
 Jupiter."
 
-Kaia's head was spinning.
-
-"No 'and back' this time.", she said to herself. "Minimum means 590
-gigameters."
+Kaia's head was spinning. "No 'and back' this time.", she said to herself.
+"Minimum means 590 gigameters."
 
 Distance: 590 gigameters
 Speed of light: 18 gigameters per minute
@@ -242,7 +233,7 @@ almost did not care if she answered correctly or not.
 "The crust of Mars includes volcanic rock minerals such as feldspars,
 pyroxenes, and olivine."
 
-"Explain the origin of nanostructures on the surface of Mars.
+"Explain the origin of nanomaterials on the surface of Mars.
 
 "The nanostructures originate from the two sources: the ancient Martian
 civilization-"
@@ -260,9 +251,8 @@ entire Thelusian armada began to enter the thin Martian atmosphere.
 government.
 
 People all around Kaia began to run for cover, but she knew there was nowhere
-to hide. Everyone was running and screaming except for her and Sata.
-
-"What is Sata doing here on Mars?", Kaia wondered.
+to hide. Everyone was running and screaming except for her and Sata. "What is
+Sata doing here on Mars?", Kaia wondered.
 
 With an alarmed and desperate look on her face, Sata pointed down in front of
 Kaia. Unsure why Sata was pointing down and not up at impending cataclysm in
@@ -282,17 +272,17 @@ anger.
 With the loss of an entire civilization weighing down on her, Kaia fell to her
 knees. The storm eventually began to subside and through the dust and skeletal
 fragments Kaia could see the pulsing red warning light of the taserTutor. The
-tendrils were still wrapped around her arms. The initiation ceremony was still
+tendrils were still wrapped around her arms. Her initiation rite was still
 ongoing.
 
 Another shock from the tendrils caused Kaia to spasm and she hit her head on
 the taserTutor. Enraged, Kaia stood up to look at the console atop the
-taserTutor. There was no way to stop the ceremony once it had begun and
+taserTutor. There was no way to stop the initiation rite once it had begun and
 breaking free from the tendrils was impossible. The automated voice continued
-providing instructions, but Kaia was no longer paying attention. The ceremony
-seemed so insignificant when compared to the destruction of Mars. Kaia just
-wanted it to end. As the taserTutor once again begun to pulse red, Kaia used
-the virtual keyboard to skip the current task.
+providing instructions, but Kaia was no longer paying attention. The initiation
+ceremony seemed so insignificant when compared to the destruction of Mars. Kaia
+just wanted it to end. As the taserTutor once again begun to pulse red, Kaia
+used the virtual keyboard to skip the current task.
 
 The resulting electric shock only added to the fury that Kaia felt. As soon as
 she could control her fingers again, Kaia began skipping task after task,
@@ -304,36 +294,38 @@ the only thing keeping her going.
 Kaia kept trying to skip even after the console stopped responding and the
 tendrils began to unwrap from around her arms. Bracing against the taserTutor
 for support and still focused on the console, Kaia was an easy target for the
-did not even notice the chaseChimpanzees charging towards her. The
-chaseChimpanzees tackled Kaia into taserTutor so hard that she bounced off and
-ended sprawled on the floor. A guardGorilla lumbered up to Kaia, grabbed her by
-an ankle, and proceeded to drag her out of the gymnasium.
+chaseChimpanzees charging towards her. The chaseChimpanzees tackled Kaia into
+taserTutor so hard that she bounced off and ended sprawled on the floor. A
+guardGorilla lumbered up to Kaia, grabbed her by an ankle, and proceeded to
+drag her out of the gymnasium.
 
-As she was dragged past the bleachers, Kaia looked searched for Sata in the sea
-of standing and staring students. The automated voice was already calling the
-next student up to the taserTutor. Sata pushed through the densely packed crowd
-of students, leapt off the bleachers, and ran towards Kaia. When she was a
-steps away from Kaia, a nearby guardGorilla grabbed Sata by her shirt and
-plucked her off the ground. Simultaneously kicking and punching the
-guardGorilla, Sata fought to break free. Reaching her hand out to Sata, Kaia
-tried to say her name, but the sound that came was nothing more than a pitiful
-moan.
+As she was dragged past the bleachers, Kaia searched for Sata in the sea of
+students. The automated voice was already calling the next student up to the
+taserTutor. Sata pushed through the densely packed crowd of students, leapt off
+the bleachers, and ran towards Kaia. When she was a steps away from Kaia, a
+nearby guardGorilla grabbed Sata by her shirt and plucked her off the ground.
+Simultaneously kicking and punching the guardGorilla, Sata fought to break
+free. Reaching her hand out to Sata, Kaia tried to say her name, but the sound
+that came was nothing more than a pitiful moan.
 
 Suspended in the air, Sata braced her legs against the guardGorilla that was
 carrying her and pushed off like a olympic swimmer completing a flip turn.
-Sata's shirt ripped and she landed shirtless flat on the ground. Crawling on
+Sata's shirt ripped and she landed flat on the ground. Crawling on
 her hands and knees, Sata made it Kaia and grabbed her outstretched hand.
-Seemingly perplexed by the situation, the securitySimians paused for a moment.
+Seemingly perplexed by the situation, the guardGorilla paused for a moment,
+looking at the torn shirt in its hand.
 
-Still holding the ripped remains of Sata's shirt, one of the guardGorillas
-tried to separate the two friends by grabbing Sata's foot. As the guardGorillas
-yank from both ends trying to pull them apart, Sata held on to Kaia's hands
-with all her strength. When Sata's shoe came off, they hit the ground, Kaia on
-her back, Sata on her belly, but they remained linked. The guardGorilla holding
-Kaia's ankle seemed to grow impatient and began to drag the two friends out of
-the gymnasium.
+Still holding the ripped remains of Sata's shirt with one hand, the
+guardGorilla grabbed Sata's foot with the other other hand and tried to pull
+the two friends apart. As the guardGorillas yanked from both ends, Sata held on
+to Kaia's hands with all her strength. When Sata's shoe came off, they hit the
+ground, Kaia on her back, Sata on her chest, but they remained linked. The
+guardGorilla holding Sata's shirt and shoe, looked back and forth between the
+two items. Its programming had not prepared it for this kind of situation. The
+guardGorilla holding Kaia's ankle seemed to grow impatient and began to drag
+the two friends out of the gymnasium.
 
-"At least now, I won't have to go through the ceremony.", Sata joked.
+"At least now, I won't have to go through the initiation rite," Sata joked.
 
 Despite the pain, Kaia smiled. Sata was so brave and strong, always looking out
 for Kaia and trying to cheer her up. Kaia's eyes began to well up. Seeing that
@@ -351,16 +343,15 @@ defiant and beautiful. Wishing she could pull Sata closer, Kaia became
 overwhelmed with emotion and broke down crying.
 
 "Cheer up, at least we're helping to clean to the floor. Maybe we found our
-calling? I can be a broom and you can be a mop!"
-
-When Kaia continued to cry, Sata decided to double down.
+calling? I can be a broom and you can be a mop!" When Kaia continued to cry,
+Sata decided to double down.
 
 "Okay, okay, you can be the broom and I'll be the mop. Is that better?"
 
 Kaia huffed, pretending to be exasperated.
 
 "Admit it. I'm funny! This is the standup comedy show that will redefine the
-word standup. Pretty soon every comedian will do shows while being dragged
+word 'standup'. Pretty soon every comedian will do shows while being dragged
 through the venue."
 
 Kaia rolled her eyes.
@@ -369,7 +360,7 @@ Kaia rolled her eyes.
 buzzBee?"
 
 "A chaseChimpanzee, a surveillanceSloth, and a messengerMeerkat walk into a
-bar...", Kaia retorted.
+bar..." Kaia retorted.
 
 "There you go! Maybe we can form a comedy duo? We'll get dragged through all
 the best places in town!"
@@ -381,13 +372,14 @@ friend, Kaia became overwhelmed by the intoxicating scent of Sata's hair and
 almost fell over. As they entered the office, they saw the girl with the purple
 hair sitting in a chair with a guardGorilla standing behind her.
 
-In the opposite side of the room was a large, well-polished mahogany desk, and behind it sat the
-school Principal, snoring loudly with his head tilted back, his mouth open, his
-face and neck covered in buzzBees, and drool flowing down the side of his chin.
+In the opposite side of the room was a large, well-polished mahogany desk, and
+behind it sat the school Principal, snoring loudly with his head tilted back,
+his mouth open, his face and neck covered in buzzBees, and drool flowing down
+the side of his chin.
 
 When she saw the look on the purple-haired girl's bruised face, Kaia began to
 wonder what she and Sata looked like. Sata, shirtless and missing a shoe, was
-supporting Kaia whose hair was still standing on end from being electrocuted
+supporting Kaia, whose hair was still standing on end from being electrocuted
 countless times. The guardGorilla pulled up a pair of chairs for Kaia and Sata.
 As soon as she helped Kaia sit down in the chair closest to door, Sata crossed
 her arms in front of her exposed chest and sat down in the chair in between
@@ -398,9 +390,10 @@ tried to start a conversation.
 
 "What the hell happened to you?"
 
-"Kaia was doing really well in the ceremony, but then decided to skip the rest
-of the taserTutor tasks. She got fried, then the securitySimians got her. I
-tried to rescue her, but they got me too and brought us both here."
+"Kaia was doing really well in the initiation rite, but then she skipped the
+rest of the taserTutor tasks. She got fried over and over, and then the
+securitySimians got her. I tried to rescue her, but they got me too and brought
+us both here."
 
 When the purple-haired girl did not respond, Sata continued.
 
@@ -413,19 +406,14 @@ When the purple-haired girl did not respond, Sata continued.
 Sata looked down at her arms, still crossed in front of her chest. "Very full!"
 she exclaimed as she wiggled her shoulders and smiled at Fera.
 
-"Can one of you give me a hand?", Sata said looking back and forth between Fera
+"Can one of you give me a hand?" Sata said looking back and forth between Fera
 and Kaia.
 
-Is she always like this?, Fera asked looking at Kaia.
+"Is she always like this?" Fera asked looking at Kaia.
 
-"Not really. I think she is just happy she got to skip the ceremony."
+"Not really. I think she is just happy she got to skip the initiation rite."
 
-"Kaia got herself fried so I wouldn't have to go through it."
-
-Fera shook her head.
-
-"There are easier ways to skip the ceremony. You should have protested like
-me."
+"Kaia got herself fried so I wouldn't have to go through it," Sata said proudly.
 
 "How did you smuggle in that thing that made your voice really loud?", Sata asked.
 
@@ -463,20 +451,18 @@ into her chair and curled up in a ball, bringing her knees up to her chin and
 wrapping her arms around her shins.
 
 "Don't put your shoes on my office furniture!", the Principal barked angrily.
-
 "What happened to your other shoe? And what happened to your shirt?", he asked
-disapprovingly.
-
-Kaia watched helplessly as Sata slipped into a seizure. Luckily, Sata stayed in
-fetal position in the chair even though her hands floated to her sides.
+disapprovingly. Kaia watched helplessly as Sata slipped into a seizure.
+Luckily, Sata stayed in fetal position in the chair even though her hands
+floated to her sides.
 
 "Nevermind, I'm pulling up the recordings.", he said, losing patience quickly.
 
-Images of the ceremony showed up on the walls of the Principal's office. Kaia
-shivered when she saw herself being repeatedly electrocuted. The visions that
-were so powerful during the ceremony now seemed so distant and foreign. She saw
-that Sata tried to go to Kaia after the first few electric shocks, but a
-chaseChimpanzee pulled her back to her seat on the bleachers.
+Images of the initiation ceremony showed up on the walls of the Principal's
+office. Kaia shivered when she saw herself being repeatedly electrocuted. The
+visions that were so powerful during her initiation rite now seemed so distant
+and foreign. She saw that Sata tried to go to Kaia after the first few electric
+shocks, but a chaseChimpanzee pulled her back to her seat on the bleachers.
 
 Everyone in the room winced when they saw Kaia get tackled by a chaseChimpanzee
 into the taserTutor. The Principal seemed to be enjoying the show. When Sata's
@@ -504,7 +490,7 @@ The Principal turned to Kaia.
 
 "The EternalEnlightened have asked for more information about your interaction
 with the taserTutor. Why did you only provide responses for some of the tasks?
-Were you suffering from a psychotic episode? Or were you making a statement
+Did you suffer a psychotic episode? Or were you making a statement
 against corporeal punishment in the school system?"
 
 Surprised to suddenly become the center of attention, Kaia felt her cheeks become flushed
@@ -514,7 +500,7 @@ looked back and forth between Sata and Fera. She wanted to be defiant and
 strong like they were. She did not want mental illness to be the reason she got
 into the mess. She wanted to be normal.
 
-"It was a protest.", Kaia lied. Sata gasped. Fera nodded approvingly.
+"It was a protest," Kaia lied. Sata gasped. Fera nodded approvingly.
 
 "Was the protest premeditated? Did you conspired with the other two girls to
 stage the protest?", the Principal read off the screen.
@@ -528,7 +514,7 @@ are serious crimes.", the Principal huffed.
 
 "Sata didn't plan for any of that to happen. She was just trying to help me."
 
-"Is this true that you had no idea about the protest plans and were not trying
+"Is it true that you had no idea about the protest plans and were not trying
 to make a political statement?", the Principal asked, turning towards Sata.
 
 Still using her legs to shield herself from the prying eyes of the
@@ -539,8 +525,8 @@ the Principal asked.
 
 "I never even met them until you brought them in here!", Fera exclaimed.
 
-"We have results!", the Principal shouted and read the verdicts and sentences
-one after another.
+"We have the results!", the Principal shouted and read the verdicts and
+sentences one after another.
 
 "Feravikadela Fridzia, you are found guilty of all charges and are sentenced to
 four years in juvenile detention."
@@ -560,18 +546,18 @@ community service, and sign a statement disavowing all previous political
 statements and activities. You each can each agree or disagree to the sentence
 suspension terms. You must decide before leaving this office."
 
-"We should all agree.", Kaia said quickly, looking at the other two girls.
+"We should all agree," Kaia said quickly, looking at the other two girls.
 
-"I'm not going to agree to anything.", Fera replied dourly.
+"I'm not going to agree to anything," Fera replied dourly.
 
-"If you go to prison, we'll never see you again! If you stay, maybe we can be
+"If you go to prison, we'll never see you again! If you stay... maybe we can be
 friends?"
 
 "I don't want friends, I want to smash the system!"
 
 "You can't start a revolution from inside prison.", Sata said.
 
-"I don't care. I stand by what I did and said."
+"I don't care. I stand by what I said and did."
 
 While Sata kept trying to convince Fera, Kaia looked at the Principal, who had
 zoned out and tapping listlessly on his desk console.
@@ -581,14 +567,13 @@ to deal with you! Are you just going to give him what he wants?"
 
 When Fera did not answer, Kaia got the Principal's attention.
 
-"Principal Naksos, what do you think we should do?"
+"Principal Naiksos, what do you think we should do?"
 
-The Principal looked up from the console and looked confused.
-
+The Principal looked up from the console and looked confused. Kaia elaborated.
 "What decision do you think we should make? Should we accept or refuse?"
 
-"I would encourage you to not compromise your deeply held beliefs. It is very
-likely you would all end up in prison anyway, so refusing the sentence
+"I would encourage you to not compromise your deeply held political beliefs. It
+is very likely you would all end up in prison anyway, so refusing the sentence
 suspension terms would save everyone a great deal of time and effort."
 
 "Thank you for sharing your thoughts.", Kaia said, "but I think we're all
@@ -611,18 +596,16 @@ long before you will be wishing for peace and quiet of the penal system."
 "Your chances of success in high school are close to non-existent and your
 chances of finding employment after high school are even lower. Even if you do
 everything perfectly, you will still end up in prison sooner or later after
-prolonged unemployment. The automatic background checks will always point the
-recordings from the ceremony today. Do you really think anyone would want to
-hire you after seeing what happened?"
+prolonged unemployment. The automatic background checks will always point
+employers to he recordings from the ceremony today. Do you really think anyone
+would want to hire you after seeing what happened?"
 
 The Principal replayed the recordings of the ceremony on the walls of his
-office.
-
-"I've seen a lot of students go through this school and I can always predict
-which students will end up as prison laborers. Well, since the vast majority of
+office. "I've seen countless students go through this school, and I can always
+predict which students will end up in prison. Well, since the vast majority of
 public school students end up in the penal system, I would be correct most of
 the time even if I blindly guessed that everyone would go to prison.
-Nevertheless, you can trust me when I say by accepting the terms you will only
+Nevertheless, you can trust me, by accepting the terms you will only
 be setting yourselves up for disappointment."
 
 "It's better to try and fail, then to never try at all.", Sata said.
@@ -631,18 +614,15 @@ be setting yourselves up for disappointment."
 prison voluntarily to avoid the perils of a life in poverty. In prison, you
 will be guaranteed ample food, water, heat, and oxygen, as long as you work. I
 hear weightlessness is great fun and the views are majestic. After a few years
-in prison, you will become physiologically adapted to space and you won't even
-want to return to Earth."
+in prison, you will become physiologically adapted to space and you will not
+even want to return to Earth."
 
 "If it's so great, why don't you go?", Fera asked sarcastically.
 
-The Principal cleared his throat nervously.
-
-"I am needed here. My sacred duty of molding young minds is of utmost
-importance. Of course, I also cannot abandon my dear son Pyr."
-
-The Principal called up an image of a young man flexing his muscles and
-sticking out his tongue.
+The Principal cleared his throat nervously. "I am needed here. My sacred duty
+of molding young minds is of utmost importance. Of course, I also cannot
+abandon my dear son Pyr." The Principal called up an image of a young man
+flexing his muscles and sticking out his tongue.
 
 "That's the guy who was heckling us during the ceremony!", Sata exclaimed.
 
@@ -651,14 +631,12 @@ sticking out his tongue.
 "If your son were in our situation, would you recommend that he enter the penal
 system too?", Kaia asked.
 
-"Of course not!", the Principal shouted, turning red and getting flustered.
+"Of course not," the Principal shouted, turning red and getting flustered.
 
 "Pyrik has a bright future ahead of him! I would never send him to rot in
-that-"
+that-" The Principal stopped when he realized that he was hurting his own argument.
 
-The Principal stopped when he realized that he was hurting his own argument.
-
-"Don't you think it might be better to accept the terms, Fera?", Kaia asked.
+"Still want reject the terms, Fera?", Kaia asked.
 
 "Fine, I'll accept, but that doesn't mean I'm going to be friends with you two
 losers.", Fera huffed.
@@ -676,38 +654,40 @@ copies of the disavowal statement on the desk, one in front of each girl.
 "Go ahead and sign, but don't come complaining to me when you inevitably fail."
 
 The three girls started scrolling through statements, carefully reading each
-word.
+word. Fera finished reading first. "Why does the-"
 
-Kaia finished reading first. "Why does the-"
+"The statement text is non-negotiable.", the Principal said sharply, cutting Fera off.
 
-"The statement text is non-negotiable.", the Principal said sharply, cutting Kaia off.
-
-"But I don't under-"
+Kaia spoke up next. "I don't under-"
 
 "If your families could afford attorneys, they would have paid into your school
 accounts. It is not my job to explain legalese to you. I told you that
 accepting the terms was going to be a huge burden on everyone!"
 
-After going over the statement again, Kaia placed her palms on the desk to sign
-the statement. A few moments later, Sata did the same. The two girls turned
-their attention to Fera, who was staring at the statement with clenched fists.
+After going over the statement again, Kaia placed her hands on the desk and
+leaned her face over the desk, signing the statement with the scans of hands
+and face. A few moments later, Sata did the same. When Sata placed her hands on
+the table and leaned forward, the Principal froze with his eyes open wide and
+his mouth ajar. As soon as her statement was signed, Sata jumped back into the
+chair curled up in a ball again. Sata and Kaia turned their attention to Fera,
+who was staring at the statement with clenched fists.
 
 When Fera noticed the other two girls looking at her, she exploded.
 
 "This is bull-"
 
-"Just sign it already, so we can get out of here!", Sata pleaded.
+"Just sign it already, so we can get out of here," Sata pleaded.
 
-Fera slammed her palms on the desk to sign the statement and proceeded to kick
-the desk repeatedly.
+Fera slammed her palms on the desk to sign the statement and leaned over the
+table. Fera sat back down, but then shot back up and proceeded to kick the desk
+repeatedly.
 
-"That's real mahogany!", the Principal lamented.
+"That's real mahogany," the Principal lamented.
 
-"Come on. Help me lift Kaia.", Sata said pulling Fera with one hand and
-covering herself with the other hand.
-
-As soon as Sata got up from her chair, the Principal became entranced and soon
-forgot about any damage that his desk might have sustained.
+"Come on, help me with Kaia.", Sata said pulling Fera with one hand and
+covering herself with the other hand. As soon as Sata got up from her chair,
+the Principal became entranced and soon forgot about any damage that his desk
+might have sustained.
 
 Exiting the Principal's office required a team effort. It took all of Kaia's
 strength just to hold onto the other girls. With Sata trying to cover herself,
@@ -726,11 +706,11 @@ sandwich."
 The boys went berserk with laughter.
 
 "You had all that time since the ceremony and that was the best you could come
-up with?" Fera asked.
+up with?" Fera fired back.
 
-Looking over at Sata, Kaia noticed that her friend was having a seizure. Kaia
-watched powerlessly as the hand that was covering Sata's chest drifted down in
-the front of her.
+Looking over at Sata, Kaia noticed that her friend was having another seizure.
+Kaia watched powerlessly as the hand that was covering Sata's chest drifted
+down in the front of her.
 
 "Look fellas, this one is ready for me.", said Pyr as he moved forward with
 his hands reaching out towards Sata's chest. Fera swung at Pyr with her free
@@ -744,7 +724,7 @@ semicircle of stunned boys. After Sata recovered, she was dazed and confused,
 but she understood the need to run. Kaia's feet could barely keep from dragging
 on the ground while the other two girls carried her down the hallway.
 
-"Let's head to the theater.", Fera said, "It's dark inside and there are plenty
+"Let's head to the theater," Fera said. "It's dark inside and there are plenty
 of places to hide."
 
 Once inside the theater, the girls got up on the stage and hid behind the
@@ -755,25 +735,25 @@ darkness, a sweet voice rang out.
 
 "Sorry to startle you. No one ever comes to visit us. Please wait one moment
 while we turn on the lights. You might want to cover your eyes until they
-adjust.", said a sweet voice.
+adjust.", said the sweet voice.
 
 When the lights came on, the girls saw a boy and girl, dressed in matching black
 jumpsuits. The boy seemed very awkward and reserved, while the girl carried
 herself with confidence.
 
-"Welcome to the theater!" , the girl proclaimed with a flourish.
+"Welcome to the theater!" the girl proclaimed with a flourish.
 
-"What the hell are you?", Fera said sharply.
+"What the hell are you?" Fera asked sharply.
 
-"Apologies, I am not sure what you mean.", the girl replied.
+"Apologies, I am not sure what you mean," the girl replied.
 
-"Your eyes were glowing in the dark.", Sata explained.
+"Your eyes were glowing in the dark," Sata explained.
 
-"And you looked like a spider." Kaia added.
+"And you looked like a spider," Kaia added.
 
-"I can assure you that we are not spiders.", the girl replied.
+"I can assure you that we are not spiders," the girl replied.
 
-"Why do your eyes glow in the dark?", Sata persisted.
+"Why do your eyes glow in the dark?" Sata persisted.
 
 "I think you were seeing things. Sometimes when people are afraid of the dark,
 their minds play tricks on them.", the girl replied.
@@ -784,7 +764,7 @@ their minds play tricks on them.", the girl replied.
 "You mustn't tell anyone anything!", the girl replied.
 
 "It makes sense that Lunkers would want to work in a dark theater. It must
-remind you of home.", Sata offered.
+remind you of home," Sata offered.
 
 "Explain the spider eyes.", Fera said letting go of Kaia and holding up two
 fingers on each hand next to her eyes.
@@ -806,22 +786,21 @@ The boy and the girl separated, looking very embarrassed.
 
 Fera did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
 
-"Stop it, Fera.", Kaia said, kicking her.
+"Stop it, Fera," Kaia said, kicking her.
 
-"What are your names?", Sata said, trying to smooth things over.
+"What are your names?" Sata said, trying to smooth things over.
 
-"My name is Aira.", said the girl.
+"My name is Aira," said the girl.
 
-"I am Ryn.", said the boy.
+"I am Ryn," said the boy.
 
 "I'm Sata, this is Kaia, and next to her is Fera. Nice to meet you both. I'd
-shake your hands, but my hands are full.", Sata said.
+shake your hands, but my hands are full," Sata said.
 
-"Don't say it.", Fera warned.
+"Don't say it," Fera warned.
 
-"Do you want me to lend you a shirt from the theater?" Aira said to Sata.
-
-Sata nodded emphatically.
+"Do you want me to lend you a shirt from the theater?" Aira said to Sata. Sata
+nodded emphatically.
 
 "Do you want to come with me to dressing room so you can try a few things on?"
 
@@ -837,12 +816,12 @@ Sata looked at Kaia. "Kaia is hurt, do you have a place she can rest?"
 breaks from work."
 
 During the awkward silence that ensued, Kaia saw Sata was tempted to make a
-joke but held back. Unlike Sata, Fera couldn't resist.
+joke but held back. Unlike Sata, Fera could not resist.
 
 "You have a secret bed? That you built yourselves, so you could sleep together?
 Is that a normal thing for Lunkers?", Fera asked smiling mischievously.
 
-Ryn was so embarrassed, he started to stammer. Fera didn't relent.
+Ryn was so embarrassed, he started to stammer. Fera did not relent.
 
 "How long have you been sleeping together? Is the sleep still good? Are you
 doing anything to spice it up? Trying out a new pillow, maybe?"
@@ -857,10 +836,10 @@ Ryn said trying to diffuse the situation. "I thought the gigaphone you built
 was great. I like making things too.", Ryn said to Fera shyly.
 
 Fera waited until Sata and Aira were out of earshot. "Have you built any
-special recently? Maybe a device to help your sister sleep?" Fera continued,
+special recently? Maybe a device to help your sister sleep?" Fera continued.
 "Something to knock her out so you can knock her up!"
 
-"Stop it!", Kaia yelled.
+"Stop it!" Kaia yelled.
 
 "When you sleep together, does she snore really loud? Do you have to cover her
 mouth to keep the whole school from hearing?"
@@ -876,7 +855,8 @@ Kaia began to cry, feeling powerless to stop Fera.
 "When's the last time you cleaned the sheets? Wait, have you ever cleaned the
 sheets? I bet we can find it just by the smell!"
 
-Ryn helped Kaia to her feet and started walking with her in the direction of the secret bed.
+Ryn helped Kaia to her feet and started walking with her in the direction of
+the secret bed.
 
 "Have you ever been this close to a girl that wasn't your sister? Be careful,
 Ryn, your sister might get jealous! She's used to having you all to herself,
@@ -885,23 +865,22 @@ she might not like sharing you with Kaia."
 Fera continued to taunt Ryn all the way to secret bed. Sata and Aira were
 already there waiting for them.
 
-"What took you so long? I was worried", Sata said.
+"What took you so long? I was worried," Sata said.
 
 Kaia didn't respond, she just looked angrily at Fera. Sensing the tension, Sata
 tried to change the subject.
 
-"How do I look?", Sata asked.
-
-Sata twirl and struck a pose. She was wearing a long flowing shirt
-covered by an elegant bodice. The sight of Sata took Kaia's breath away.
+"How do I look?", Sata asked. Sata twirl and struck a pose. She was wearing a
+long flowing shirt covered by an elegant bodice. The sight of Sata took Kaia's
+breath away.
 
 "Like a guardGorilla in a milk maid outfit.", Fera said.
 
 "What is it with you?", Kaia screamed lunging at Fera. Fera stepped away
 effortlessly. Kaia stumbled and fell, landing on her hands and knees.
 
-"Looks like I hit a nerve! I've been making fun of Ryn for ages without much of a
-response. Then, I say one harmless thing about Sata and Kaia flips out."
+"Looks like I hit a nerve! I've been making fun of Ryn for ages without much of
+a response. Then, I say one harmless thing about Sata and Kaia flips out."
 
 "Sorry Ryn, looks like Kaia only cares about Sata, I guess you are stuck with
 your sister for now."
@@ -919,10 +898,10 @@ renewed sense of purpose.
 
 Did she have a chance to change the future? If she answered the remaining
 questions, could she turn everything around? Kaia knew what she had to do. She
-would continue through the ceremony, deny any political motivations, blame
-everything on her mental illness, and anything else she needed to do to keep
-Sata safe, even if it meant that Fera would go to prison for years. Kaia began
-to feverishly work on the problem displayed on the console.
+would continue through the initiation rite, deny any political motivations,
+blame everything on her mental illness, and do anything else necessary to
+keep Sata safe, even if it meant that Fera would go to prison for years. Kaia
+began to feverishly work on the problem displayed on the console.
 
 She nearly finished with the task when the tendrils started restricting her
 movements and moving up past her shoulder. The tendrils wrapped her neck and
@@ -939,54 +918,56 @@ remains of her people in search of riches. When the invaders began to arrive
 with greater frequency, she raised an army of the dead to repel them. Sitting
 victorious atop her throne, she waited for the next opportunity to fertilize
 the barren soil of Mars with the blood of her enemies. This is was Kaia's fate.
-This is how she would remain. In a perpetual cycle of death and waiting, Kaia
-would protect the memory of her lost civilization from each new crop of fools
-who sought to strike gold on the red planet.
+This is how she would remain forever. In a perpetual cycle of death and
+waiting, Kaia would protect the memory of her lost civilization from each new
+crop of fools who sought to strike gold on the red planet.
 
 Disturbed by an unfamiliar sensation on her forehead, the mummy queen let out
 her anger in a roar that shook the ground. After probing her face with an
-tendril-covered hand, she inspected her hand and was stunned to see that her
-fingers were moist. Where had the moisture come from? She had not had even a
-drop of blood in her for eons. She was dessicated to the core. Where had the
-moisture come from? Tiny drops of water were falling down on the mummy queen's
-face wherever she went. How could there be rain on Mars? She looked up and saw
-the constellations rearranging into a face that filled the heavens. The mummy
-queen recognized the face in the stars. It was Sata. The raindrops were coming
-from her eyes.
+tendril-covered hand, was stunned to see that her fingers were moist. Without
+even a drop of blood in her for eons, the Mummy Queen was dessicated to the
+core. Where had the moisture come from? Tiny drops of water were falling down
+on the Mummy Queen's face wherever she went. How could there be rain on Mars?
+She looked up and saw the constellations rearranging into a face that filled
+the heavens. The Mummy Queen recognized the face in the stars. It was Sata. The
+raindrops were coming from her eyes.
 
 "Come back to me, please.", the sky whispered. It was no use. There was nothing
 left of Kaia. The mummy queen was not going to spring back to life from a few
 drops of water! The sky sighed and began to squeeze the horizons until the land
 where the mummy queen stood disappeared completely and the mummy queen was left
-floating in the void. The constellations warped and stretched until they formed
-a single brilliant ball of light. The ball of light grew arms, legs, and a
-head, taking the form of Sata. Sata reached her hand out to the mummy queen and
-the tendrils began to break apart, revealing the dried out cadaver underneath.
+floating in the void. The constellations warped and stretched until they
+gathered into a single brilliant ball of light. The ball of light grew arms,
+legs, and a head, taking the form of Sata. Sata reached her hand out to the
+mummy queen and the tendrils began to break apart, revealing the dried out
+cadaver underneath.
 
-"Kaia.", Sata said. "Yes", the mummy queen thought, "that was once my name. In
+"Kaia," Sata said. "Yes," the Mummy Queen thought, "that was once my name. In
 a past life? Or a future one?"
 
 The light began to burn away her parched skin and brittle bones. Beneath it
-all, a dim flicker of light began to shine. Could I still be saved? Sata cupped
-her hands around the flicker and blew into it gently. Each time Sata blew into
-her hands, the flicker grew stronger, eventually growing into a flame. As Sata
-drew in breath, Kaia reached out from inside the flame and gently touched the
-sides of Sata's face. When Sata leaned into blow on the flame again, Kaia
-pulled her in and kissed her on the lips, sucking her life giving breathe deep
-into her lungs.
+all, a dim flicker of light began to shine. Could it still be revived? Sata
+cupped her hands around the flicker and blew into it gently. Each time Sata
+blew into her hands, the flicker grew stronger, eventually growing into a
+flame. As Sata drew in breath, Kaia reached out from inside the flame and
+gently touched the sides of Sata's face. When Sata leaned into blow on the
+flame again, Kaia pulled her in and kissed her on the lips, sucking her
+life-giving breathe deep into her lungs.
 
 Kaia's body convulsed on the hard concrete floor of the theater. She was
 hyperventilating, in a panic. Sata lifted Kaia's head up off the ground and
 cradled it in her arms. She smoothed Kaia's hair with one hand and supported
 Kaia's neck with the other. Soon the convulsions were replaced by shivers and
-Kaia's eyes focused on Sata's face. Still trembling, Kaia looked up at Sata.
-Tears were falling from Sata's eyes onto Kaia's face.
+Kaia's eyes focused on Sata's face. Kaia saw Sata's face become blank as a
+seizure seized her. Still trembling, Kaia looked up at Sata, studying her face
+intently, waiting for Sata to come back. When Sata returned and saw Kaia
+looking up at her, tears sprung anew from Sata's eyes and bathed Kaia's face.
 
 "Is she alive?", Fera asked impatiently.
 
-"Yes. No thanks to you.", Sata replied sharply.
+"Yes, no thanks to you," Sata replied sharply.
 
-"Let's get her into bed.", Aira said.
+"Let's get her into bed," Aira said.
 
 Kaia was underwater, looking up at Sata in the stars above. An octopus obscured
 the view of the sky and Kaia tried to shoo it away, but it extended four pairs
@@ -994,10 +975,10 @@ of tentacles towards Kaia and carried her with to onto a tuft of seaweed. Kaia
 suddenly felt very grateful to the octopus. Reaching out her hands, she began
 to caress its tentacles. The tentacles began to reciprocate. Kaia was
 blissfully exchanging caresses with the octopus when she had a startling
-thought. If I'm underwater, how is it that I'm breathing? Kaia shot up,
+thought. "If I'm underwater, how is it that I'm breathing?" Kaia shot up,
 throwing the tentacles off of her, and gasping for air.
 
-"It's ok, Kaia.", Sata said reassuringly, "You're safe now."
+"It's ok, Kaia," Sata said reassuringly. "You're safe now."
 
 Sata laid down next to Kaia in the bed, cradling Kaia in her arms. Kaia buried
 her face in Sata's shirt just above the bodice. The smell of the starchy shirt
@@ -1005,25 +986,24 @@ mixing with Sata's scent was heavenly. Soon Kaia stopped trembling and her body
 relaxed. Kaia lifted her face up to look at Sata. Sata was so radiant and
 beautiful that Kaia began to cry.
 
-Sata leaned in and kissed Kaia's cheeks, catching the fresh tears with her lips.
-Kaia fell asleep with a smile on her face as Sata slowly showered her with
-kisses. The blissful look on Kaia's face warmed Sata's heart. They were
+Sata leaned in and kissed Kaia's cheeks, catching the fresh tears with her
+lips. Kaia fell asleep with a smile on her face as Sata slowly showered her
+with kisses. The blissful look on Kaia's face warmed Sata's heart. They were
 together. They were safe, at least for now. The world melted away. Sata did not
-realize how she was exhausted until now. With one arm still around Kaia, Sata
+realize how exhausted she was until now. With one arm still around Kaia, Sata
 tugged futilely at the bindings of her bodice.
 
-"Let me help you", Aira said, as she deftly undid the bindings of the bodice
+"Let me help you," Aira said as she deftly undid the bindings of the bodice
 and pulled it out from under Sata. This kind gesture surprised Sata so much
 that she began to cry. Through the tears, Sata looked at Aira with gratitude.
 
-"Don't cry.", Aira said, unfastening and removing Sata's heels and then pulling
+"Don't cry," Aira said, unfastening and removing Sata's heels and then pulling
 up the blankets to cover Kaia and Sata, "You're safe here and I'll stay and
 watch over you."
 
 Unable to recall anyone other than Kaia being kind to her, Sata let out a sob.
-Afraid she had said something wrong, Aira stepped backwards.
-
-"I'm going to turn off the lights."
+Afraid she had said something wrong, Aira stepped backwards. "I'm going to turn
+off the lights."
 
 As the theater descended into darkness, Sata snuggled up to Kaia, greedily
 interlacing their legs and pulling Kaia closer with her arms. Recalling how
