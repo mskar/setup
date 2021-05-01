@@ -901,11 +901,11 @@ Moving to a console, Ben brought up Fera's location on a map.
 
 "Can we pick her up?", Edl asked.
 
-"I'm afraid we wouldn't make it in time. It appears that Fera will not make it
-either."
+"We wouldn't make it in time."
 
 The two brothers looked out the windows at the chain of explosions snaking
-through the city. The signal from Fera's powegloves and powerskates disappeared
-inside the blast zone on the map. As the explosion spread and then faded, the
-brothers began to cry. The brothers, both remembering Fera fondly, watched as
-the sunset behind the smoldering remains of the city.
+through the city. The signal from Fera's powergloves and powerskates
+disappeared inside the blast zone on the map. As the explosion spread and then
+faded, the Ben and Edl began to cry. The brothers, both remembering Fera
+fondly, gazed out the window long after the smoldering remains of the city
+disappeared behind the horizon.

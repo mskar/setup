@@ -4,8 +4,8 @@ Kaia would have given anything to be normal. Filled with dread and paralyzed by
 anxiety, she wished she could be carefree and unconcerned like the other
 students in the cacophonous gymnasium.
 
-There was no way out. The polyethylene bleachers where Kaia sat were packed
-with the entire cohort of high school freshman. All around the bleachers,
+There was no way out. The polyethylene bleachers were packed
+with the entire high school freshman class. All around the bleachers,
 robotic animals buzzed, growled, and roared, while observing the
 students.
 
@@ -27,7 +27,7 @@ ceremony."
 
 "Acting crazy should be easy for you, because you've always been insane."
 
-Sata could see that the joke didn't land well, so she tried to reassure her
+Sata could see that the joke did not land well, so she tried to reassure her
 friend. "Maybe it won't be so bad. Maybe I won't have a seizure and you won't
 freak out."
 
