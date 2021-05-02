@@ -1,30 +1,39 @@
 ## Chapter 3: A beautiful view
 
-The sound of the fire alarm was brutal. Waking up in total darkness, Kaia and
-Sata were in a state of panic. Aira was at the side of the bed in an instant,
-shining a flashlight on the floor until their eyes adjusted to the light.
+The sound of the fire alarm was brutal. Kaia and Sata woke up in total
+darkness, not remember where they were or why. As her eyes adjusted to light,
+Kaia saw she was in the secret bed next to Sata. A glint of metal caught Kaia's
+eye, she recoiled in horror when she that her hand was covered thin metal
+wires. Kaia kicked off the bed covers, the metallic tendrils covering her
+body were beginning to envelop Sata. In a panic, Kaia tore at the tendrils trying
+to rip them away from Sata. Sata looked at Kaia in shock.
 
-"Sata, Kaia, put on these shoes.", Aira said, handing each of the girls a pair
-of ballet flats from a satchel she wore across her shoulder, "Just slip them on
-and let's go. Fera and Ryn left while you were sleeping."
+"Kaia, what are you doing?"
 
-"It could be just a drill.", Sata said.
+"I'm trying to-" The tendrils were gone.
 
-"We will find out when we get outside.", Aira responded.
+"Sata, Kaia," Aira said, running up to the edge of the bed, "put on these
+shoes." Aira handed each of the girls a pair of ballet flats from a satchel she
+wore across her shoulder, "Just slip them on and let's go. Fera and Ryn left
+while you were sleeping."
+
+"It could be just a drill," Sata said.
+
+"We will find out when we get outside," Aira responded.
 
 As they were leaving the theater, a huge explosion rocked the school.
 
-"Ok, it's definitely not a drill.", Sata said.
+"Ok, it's definitely not a drill," Sata said.
 
-Outside the theater, there was utter pandemonium. Students were running towards
-the exits as robotic animals, large and small, were exploding. The three girls
-ran to the main exit. Surprised that she could run at all, Kaia marvelled at
-how comfortable the ballet flats were to run in.
+Outside the theater, there was utter pandemonium. Students and animalAutomatons
+were running towards the exits. The three girls followed the crowd heading to
+the main exit. Surprised that she could run at all, Kaia marvelled at how
+comfortable the ballet flats were to run in.
 
 "How did you know our sizes?", Kaia asked Aira.
 
-"Sata was trying on shoes before you went to sleep and I took your shoes off
-once to wear asleep. Your shoes were in pretty bad shape. I hope you don't mind."
+"I took your shoes off while you were sleeping. Your shoes were in pretty bad
+shape. I hope you don't mind."
 
 "Oh, I don't mind at all. These shoes are much better."
 
@@ -37,7 +46,7 @@ historianHummingbird had hit him.
 inspected the girls more closely.
 
 "Wait a second. Did you replace one of your girlfriends already?", Pyr said to
-Kaia, "You just love 'em and leave 'em, dontcha? You go through girls faster
+Kaia, "You just love 'em and leave 'em, don't ya? You go through girls faster
 than I do!"
 
 The boys erupted with laughter.
@@ -49,7 +58,7 @@ introduced herself.
 everyone hear as if she were on stage.
 
 "Pyr, but you can call me the Pyrinator, and this is my Posse, I call them
-Pyr's Posse.", Pyr said, flexing his muscles and gesturing at the boys behind
+Pyr's Posse," Pyr said, flexing his muscles and gesturing at the boys behind
 him.
 
 "Nice to meet you, Pyr! What happened to your head?"
@@ -57,60 +66,57 @@ him.
 "Oh, this? It's nothing." Pyr was clearly not used to anyone of the opposite
 sex taking an interest in him.
 
-"A bird flew into his head.", Sata said.
+"A bird flew into his head," Sata said.
 
-"What did you say?", Pyr pushed past Aira and stood menacingly in front of
+"What did you say?" Pyr pushed past Aira and stood menacingly in front of
 Kaia and Sata.
 
-"I said, a bird flew into your head.", Sata said defiantly.
+"I said, a bird flew into your head," Sata said defiantly.
 
-"What are the chances of a bird flying into someone's head?", Aira interrupted.
+"What are the chances of a bird flying into someone's head?" Aira interrupted.
 She really knew how to make her voice carry.
 
-"Pyr must really be an airhead.", Sata said.
+"Pyr must really be an airhead," Sata said, cracking a smile.
 
-"A real chick magnet!", Kaia said exploding with laughter.
-A few hours of sleep had done them both a lot of good.
+"He's a real chick magnet!" Kaia said exploding with laughter.
 
-Pyr moved closer to Sata and Kaia and spoke in a low voice.
-"Listen, I know you are one mistake away from going to prison, so you better
-start treating me really nicely or I might have a word with my father and-."
+"He gives new meaning to the word bird-brained!" Sata added, laughing even
+harder. A few hours of sleep had done them both a lot of good.
 
-At that moment, a bird flew into the previously undamaged side of Pyr's face.
+Pyr moved closer to Sata and Kaia and spoke in a low voice. "Listen, I know you
+are one mistake away from going to prison, so you better start treating me
+really nicely or I might have a word with my father and-." At that moment, a
+bird flew into the previously undamaged side of Pyr's head.
 
 "What are the chances of two different birds flying into the same person's
-head?", Aira said as she grabbed Kaia and Sata by the hands and led them away
+head?" Aira asked as she grabbed Kaia and Sata by the hands and led them away
 through the circle of stunned boys.
 
-"He got two birds with one head!", Sata screamed as they ran, hoping everyone
+"He got two birds with one head!" Sata screamed as they ran, hoping everyone
 could hear her. Laughing hysterically, Kaia did not try to come up with any
-more bird puns, because she knew she would not be able to top that one.
+more bird puns, because she knew she would not be able to top that last one.
 
-When the girls arrived at the emergency meeting point, an very sharply dressed
+When the girls arrived at the emergency meeting point, a very sharply dressed
 young man waved at them enthusiastically and began to run in their direction.
 Aira squealed with glee and began to run towards him.
 
-"Airunia!", the young man yelled.
+"Airunia!" the young man yelled.
 
 "Lanselolek!" Aira responded.
 
-They hugged and spun around, laughing like children.
-
-When Kaia and Sata walked up to them, Aira put her arm around the young man and
-gestured towards the two girls.
+They hugged and spun around, laughing like children. When Kaia and Sata walked
+up to them, Aira put her arm around the young man and gestured towards the two
+girls.
 
 "Lan, this is Kaia and Sata. Kaia and Sata, this is Lan."
 
-Lan stepped forward and bowed with a flourish.
+Lan stepped forward and bowed with a flourish. "Very pleased to make your
+acquaintance. Any friend of my Airunianunia is a friend of mine! Please, follow
+me. I have the best seats in the best airship reserved for us."
 
-"Very pleased to make your acquaintance. Any friend of my Airunianunia is a
-friend of mine! Please, follow me. I have the best seats in the best airship
-reserved for only the best of the friends."
-
-"Airship?!", Aira exclaimed. Lan stopped and looked at the girls.
-
-"Haven't you heard?! The entire city is going to explode! We have to be ready
-to evacuate as soon as we get the signal."
+"Airship?!" Aira exclaimed. Lan stopped and looked at the girls. "Haven't you
+heard?! The entire city is going to explode! We have to be ready to evacuate as
+soon as we get the signal."
 
 "We have to go back for Ryn and Fera.", Kaia said.
 
@@ -127,8 +133,9 @@ The girls look up at the rooftops and saw gunmen covering all of the possible
 exits.
 
 "I'm sure everyone will make it onto an airship just fine. It seems like
-they're in no hurry to launch, but we might as well wait inside. Come on, we
-can have some refreshments. You all look positively parched and famished!"
+they're in no hurry to launch, but we might as well wait inside. Come on, our
+airship is stocked with goodies. I think some refreshments might do you some
+good. You all look positively parched and famished!"
 
 As they approached a regal looking airship, Lan suddenly changed course waving
 towards a strike team officer with one hand and pulling Aira behind him. The
@@ -137,22 +144,21 @@ black balaclava and dark sunglasses. He was resting his hands on a massive
 rifle that was slung over his shoulder. The exoskeleton armor he was wearing
 made him look could wrestle a guardGorilla and win.
 
-Officer Kransal!, Lan exclaimed, "I'd like to introduce you to Aira and her
+"Officer Kransal!" Lan exclaimed. "I'd like to introduce you to Aira and her
 friends Kaia and Sata."
 
 Getting behind Aira, Lan whispered something into her ear, carefully took her
-satchel, and gently nudged her forward.
+satchel, and gently nudged her forward. Aira adjusted her hair and approached
+the officer shyly, but pretty soon they were standing next to each other as
+they posed for a picture together. Aira's face was flushed with emotion as
+beamed at the pictureParrot that perched in front of them. She put her hand on
+Officer Kransal's arm and leaned into him as he stood motionless. After the
+picture, she came back to stand next to Kaia and Sata.
 
-Aira adjusted her hair and approached the officer shyly, but pretty soon they
-were standing next to each other as they posed for a picture together. Aira's
-face was flushed with emotion as beamed at the pictureParrot that perched in
-front of them. She put her hand on Officer Kransal's arm and leaned into him as
-he stood motionless. After the picture, she came back to stand next to Kaia and
-Sata. Lan walked up to Officer Kransal and stood next to him speaking in a
-hushed tone. The officer nodded, then Lan stuck out his elbow and two briefly
-connected elbows.
-
-As they resumed their trajectory to the airship, Lan was smiling ear to ear.
+Lan walked up to Officer Kransal and stood next to him speaking in a hushed
+tone. The officer nodded, then Lan stuck out his elbow and two briefly
+connected elbows. As they resumed their trajectory to the airship, Lan was
+smiling ear to ear.
 
 "It's all taken care of. Thanks to Aira, our airship has official VIP
 designation and all of the best local shops are being requisitioned for the
@@ -162,7 +168,7 @@ Kransal will be flying with us as our personal security escort."
 
 Aira was blushing deeply and she pulled in Kaia and Sata on either side of her.
 
-"Are you crying?", Kaia asked.
+"Are you crying?" Kaia asked.
 
 "Not here. Wait until we get onto the airship.", Aira replied smiling broadly
 through the tears.
@@ -170,7 +176,7 @@ through the tears.
 As soon as they were in the gangway of the airship, Aira pulled Kaia and Sata
 into a huddle as Lan was on the lookout.
 
-"That officer was a Lunker." Aira said as tears dropped down on the ground in
+"That officer is a Lunker," Aira said as tears dropped down on the ground in
 front of her.
 
 Kaia and Sata were waiting to hear more, but what followed was a bit
@@ -185,40 +191,41 @@ guests?"
 
 Lan launched into his role as host with bravado. He first offered his guests a
 selection of beverages and did an excellent job hiding his disappointment when
-he found out that he guests only wanted regular water to drink. After the girls
-drank several bottle of water, Lan lifted a silver cover with a flourish to
-reveal a veritable cornucopia of delicious-looking foods. The two girls began
-to eat with abandon using their hands to shuttle food from the platter directly
-to their mouths. Lan started to explain the unique origins and laud the
-quality of each food item, but then he fell silent when he realized no one was
-listening to him. Kaia could not help but noticed that Lan was growing
-increasingly uneasy as they ate, but she could not resist the food. After the girls
-cleared almost all of the food on the platter, they looked up at Lan with
-gratitude.
+he found out that he guests only wanted regular water to drink. Lan lifted a
+silver cover with a flourish to reveal a veritable cornucopia of
+delicious-looking foods.
 
-"That was the best meal I've had in my life." Sata said and Kaia
-enthusiastically agreed.
+The two girls began to eat with abandon using their hands to shuttle food from
+the platter directly to their mouths. Lan started to explain the unique origins
+and laud the quality of each food item, but then he fell silent when he
+realized no one was listening to him. Kaia could not help but noticed that Lan
+was growing increasingly uneasy as they ate, but she could not resist the food.
+After the girls cleared almost all of the food on the platter, they looked up
+at Lan with gratitude.
 
-"I couldn't eat another bite!" Sata added."
+"That was the best meal I've had in my life," Sata said. Kaia
+enthusiastically agreed. "I couldn't eat another bite!"
 
 "Should we have saved some for Aira?", Kaia asked, trying to guess why Lan
 looked so uncomfortable.
 
-"Oh no, we have plenty of food and there's plenty more being loaded now."
+"Oh no, we have plenty of food and there's even more being loaded now."
 
 "Lan, did we do something wrong?", Kaia asked quietly.
 
 "Heavens no, you two are absolutely perfect. I was just hoping that you might
 save a little room for the soup, salad, main course, and dessert, but I am so
-glad that you liked the appetizer tray so much-." Lan said as he burst into
-tears using the bend in his elbow to cover his face.
+glad that you enjoyed the appetizer tray so much-" Lan stopped mid-sentence as
+his face started to quiver.
 
 "I am really sorry we ate all the appetizers. We'll be hungry again soon I
-promise!", Kaia said trying to cheer up Lan, but he only cried harder. Kaia
-sat down next to Lan and put her hand on his shoulder unsure of how to console
-him. When Lan lifted his tear-soaked face to look at Kaia, she was stunned to
-see the deep sorrow in eyes. There was clearly more to the story than the
-appetizer tray. Lan gently leaned into Kaia for a hug, his body was
+promise!", Kaia said trying to cheer up Lan, but he burst into tears, using the
+bend in his elbow to cover his face.
+
+Kaia sat down next to Lan and put her hand on his shoulder unsure of how to
+console him. When Lan lifted his tear-soaked face to look at Kaia, she was
+stunned to see the deep sorrow in eyes. There was clearly more to the story
+than the appetizer tray. Lan gently leaned into Kaia for a hug, his body was
 occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
 shoulder. When he stopped crying, he looked at Kaia lovingly.
 

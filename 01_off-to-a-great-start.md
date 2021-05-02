@@ -139,18 +139,18 @@ through the rows of students.
 
 Kaia could feel the eyes of the students and robotic animals follow her to the
 taserTutor next to the podium in front of the bleachers. The taserTutor looked
-like a metal table covered with a silvery hair. As she approached, the
-taserTutor began to writhe as it adjusted to match her height and build.
-Robotic birds, bats, and bugs flew in circles above Kaia. A wall of
-historianHummingbirds hovered in front of her face, recording her every move
-from multiple angles, staring at her with their piercing eyes, relaying
-everything they saw to the projector system that displayed a multitude of video
-feeds on the hexagonal walls of the gymnasium.
+like a metal altar covered with a silvery hair. As she approached, the metal
+wires covering the taserTutor began to writhe. The taserTutor shrunk down to
+match Kaia's height. Robotic birds, bats, and bugs flew in circles
+above Kaia. A wall of historianHummingbirds hovered in front of her face,
+recording her every move from multiple angles, staring at her with their
+piercing eyes, relaying everything they saw to the projector system that
+displayed a multitude of video feeds on the walls of the gymnasium.
 
-When Kaia placed her palms down on the taserTutor, metallic tendrils extended from
-the taserTutor and wrapped around her arms up to the shoulders like vines around a
-tree. The automated voice that had called Kaia's name earlier began to deliver
-commands.
+When Kaia placed her palms down on the taserTutor, metallic tendrils extended
+from the taserTutor and wrapped around her arms up to the shoulders like vines
+around a tree. The automated voice that had called Kaia's name earlier began to
+deliver commands.
 
 "State your full name."
 

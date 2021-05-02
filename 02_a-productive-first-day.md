@@ -253,11 +253,11 @@ asked about the bruises that covered her body, Fera would say that fell down
 while skating. The truth was that skating was much safer than being at home.
 
 "While the synthesizer is making your gloves and skates, I can show you how
-they work.", Ben said, then noticing that Fera had not moved since she sat
-down, "Er, the scanner is done. You can pull your hands and feet out now."
+they work.", Ben said, then he noticed that Fera had not moved since she sat
+down. "Fera, the scanner is done. You can pull your hands and feet out now."
 
 Fera engrossed in her thoughts, snapped out of it, retrieved her hands and feet
-from the scanner, turning her attention to Ben.
+from the scanner and turned her attention to Ben.
 
 "The skates provide a top-level security clearance, so you can go anywhere in
 the school and the AnimalAutomatons will not try to stop you. To speed up,
@@ -270,12 +270,12 @@ have any questions?"
 
 Fera shook her head.
 
-The skates are really intuitive. I am sure you will get the hang of them
+"The skates are really intuitive. I am sure you will get the hang of them
 quickly. The gloves are a bit more complex. First of all, the gloves can open
 any door and activate any console in the school, you just have to place a hand
 on it. You can also control any AnimalAutomaton in the school. To provide a
 command, speak clearly and use gestures. The gloves also accept commands in
-sign language, but you can do almost everything with verbal commands.
+sign language, but you can do almost everything with verbal commands."
 
 "I know sign language.", Fera said.
 
@@ -321,12 +321,10 @@ off Fera's clothes or took his clothes off in front of her, Fera was supposed to
 yell as loud as she could, then while her mother distracted her father, Fera
 was supposed to grab the hidden bag, run out the door, and never come back.
 
-"Fera, maybe you want to sit down and take a break?"
+Ben could tell that Fera's thoughts were elsewhere. "Fera, maybe you want to
+sit down and take a break?"
 
-"No, I don't need a break."
-
-Fera saw that the synthesizer had finished.
-
+"No, I don't need a break." Fera saw that the synthesizer had finished.
 "I'm ready to try out the gloves and skates."
 
 "Ok, but let me know if need to rest for a bit."
@@ -350,23 +348,23 @@ back to their nests.
 of the three stunned boys.
 
 "It appears you have a natural affinity to the skates and gloves. I believe you
-are ready to begin learning the Ancient martial art of droneDancing."
+are ready to begin learning the Ancient martial art of droneDarting."
 
-"droneDancing?!"
+"droneDarting?!"
 
 "Yes, that's what it's called until we can agree on a better name.", Ben said
 unfurling a worn scroll with hand-drawn images and intricate hand-written text.
-This ancient scroll holds the long-forgotten secrets of the droneDancers of the
-distant past.
+"This ancient scroll holds the long-forgotten secrets of the droneDarters of
+the distant past."
 
 Studying the scroll, Fera noticed something strange. "Ben, is that your name at the
 bottom there?"
 
 Ben looked embarrassed. "Yes, it is."
 
-"Did you make droneDancing up?"
+"Did you make droneDarting up?"
 
-"No, it is a real martial art but I did invent it."
+"Well, it is a real martial art, but yes, I did invent it."
 
 "How is it ancient if you invented it?"
 
@@ -377,7 +375,7 @@ teenager."
 "You might be right. Let me see that scroll." Fera said starting to take the
 scroll from Ben.
 
-"Be careful with that, it's ancient!", Ben said sharply.
+"Be careful with that, it's ancient!" Ben said sharply.
 
 Fera looked at him sternly.
 
@@ -385,9 +383,8 @@ Fera looked at him sternly.
 over it." Ben said, surrendering the scroll to Fera.
 
 Fera looked at the scroll intensely. "It's very convincing. If it weren't for
-the signature, I might not have figured it out right away."
-
-"You can send flying animalAutomatons into your opponents?" Fera asked.
+the signature, I might not have figured it out right away. The idea is to send
+flying animalAutomatons into your opponents?" Fera asked.
 
 "Yes, any animalAutomatons can be used, but birds have the right combination of
 speed and mass."
@@ -398,9 +395,9 @@ speed and mass."
 
 "A boy who was bullying me and two other girls."
 
-"I've never used droneDancing against another student. Actually, I've never
-used droneDancing against anyone. I've never had a sparing partner, so I've
-only done the kata."
+"I've never used droneDarting against another student. Actually, I've never
+used droneDarting against anyone. I've never even had a sparing partner, so
+I've only done the kata."
 
 Fera used her gloves to summon two historianHummingbirds. "En garde.", She
 said, looking menacingly at Ben.
@@ -409,16 +406,16 @@ said, looking menacingly at Ben.
 some kata. Here, I can-"
 
 Fera sent her two birds flying at Ben's head from two different angles. Ben
-pivoted to avoid the birds, lost control of his skates, and landed on ground.
-Fera had the birds land on Ben's chest.
+pivoted to avoid the birds, lost control of his skates, and landed on the
+ground. Fera had the birds land on Ben's chest.
 
-"Do you yield?", she asked triumphantly.
+"Do you yield?" she asked triumphantly.
 
-"Yes, yes!", Ben said quickly. Fera helped him to his feet.
+"Yes, yes!" Ben said quickly. Fera helped him to his feet.
 
-"Do you want to go again?", Fera asked innocently.
+"Do you want to go again?" Fera asked innocently.
 
-"No, no, I think that's enough for today. "
+"No, no, I think that's enough for today."
 
 "Hold on, these gloves are extremely powerful. Is there some kind of fail safe?
 Some limit to their power?"
@@ -426,14 +423,18 @@ Some limit to their power?"
 "A fail safe? That's an interesting idea. The gloves are tailored to their
 specific wearer, so they could not be used by anyone else."
 
-"If you wanted to turn off someone else's gloves, would you be able to?", Fera asked.
+"If you wanted to turn off someone else's gloves, would you be able to?" Fera
+asked.
 
-Ben thought for a while. "Yes, I would need to access a console to deactivate a
+"Yes, I would need to access a console to deactivate a
 pair of gloves."
 
-"Can you show me?", Fera asked sweetly.
+"Can you show me?" Fera asked sweetly.
 
-"Of course!", Ben said expertly gliding up to a console. "First, you need to find the user. Then you can see all of their permissions. For example, you have two pieces of linked equipment, the gloves and skates, workspace reservations right, and access to the entire maker workshop."
+"Of course!" Ben said, expertly gliding up to a console. "First, you need to
+find the user. Then you can see all of their permissions. For example, you have
+two pieces of linked equipment, the gloves and skates, workspace reservation
+rights, and access to the entire maker workshop."
 
 "Let me see." Fera said moving up to the console, "Do changes take effect right
 away or do you have to confirm them?"
@@ -892,7 +893,7 @@ frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
 "To be honest, we'll be lucky to have her. On her first day in high school,
 Fera built a gigaphone from stolen parts, became MIG Vice President, mastered
-droneDancing, defeated us in combat, and doomed the entire city. I've never
+droneDarting, defeated us in combat, and doomed the entire city. I've never
 heard of anyone having such a productive day. The way she used the powergloves
 and powersk-"
 
