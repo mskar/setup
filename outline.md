@@ -76,7 +76,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 ## Chapters
 
 - [x] 01: Off to a great start
-- [ ] 02: A productive first day
+- [x] 02: A productive first day
 - [ ] 03: A beautiful view
 - [ ] 04: Never looked better
 - [ ] 05: Finally fitting in
@@ -94,6 +94,13 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - 02: A productive first day:
   - Fera blows up the school
   - End: Fera, Ryn, and Mel appear to die
+
+In the final moments, Fera reflects on Ben, Edl, Ryn, Aira, Sata, and Kaia,
+starting to cry when she thought about how they might have been friends if
+things were different. She thinks about feeling powerless to stop her abusive
+father and substance dependent mother. As she is knocked off the motorcycle
+from behind she imagines she is a bird flying off into the horizon.
+
 - 03: A beautiful view:
 
 Kaia, Sata, and Aira leave the school, meet Lan and Taz, evacuate in an

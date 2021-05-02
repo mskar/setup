@@ -711,62 +711,47 @@ you please deactivate the school self-destruct system?"
 
 "No," Fera said defiantly, calling the guardGorillas to attack Ben and Edl. Nothing happened.
 
-I Ben had already disabled the guardGorillas while Fera was distracted by the birds.
+"I disabled the guardGorillas while you was distracted by the birds. If you
+continue to refuse, I'm afraid that I will have to shock you," Ben said. Ben
+brought the stunStaffs together, they crackled with electricity.
 
-"If you continue to refuse, I'm afraid that I will have to shock you with these
-stunStaffs.", Ben said. When he brought the stunStaffs together they crackled
-with electricity.
-
-"You can take those stunStaffs and shove them up your-", Fera said until she
-was interrupted by the shock of a stunStaff.
+"You can take those stunStaffs and shove them up your-" Fera was interrupted by
+the shock.
 
 "I really hate to have to insist, but I am still locked out of the system. Are
 you open to deactivating the school self-destruct system now?"
 
-"No, but maybe one more shock will do the trick."
-
-Ben sighed and brought one of the stunStaffs in for another shock. This time,
+"No, but maybe one more shock will do the trick," Fera said with a devilish
+smile. Ben sighed and brought one of the stunStaffs in for another shock. This time,
 Fera grabbed the stunStaff and pulled Ben in. With her other hand, Fera grabbed
 Ben's wrist and shocked him with her powerglove. Ben crumpled to the floor. Edl
 set Ryn down on the ground and picked up Ben, cradling him in his arms. Edl
 looked at Fera with tears in his eyes and then ran down the hallway, carrying
 Ben to safety.
 
-An automated voice reminded them that they should evacuate the building. Dela
+An automated voice reminded them that they should evacuate the building. Fera
 saw that Ryn had fallen to his knees and started to cry. The hallway was filled
-with rubble, destroyed animalAutomatons, and dead birds.
-
-"What are you doing? We have to get out of here."
+with rubble, destroyed animalAutomatons, and dead birds. Fera went up to Ryn
+and gave him a kick. "What are you doing? We have to get out of here."
 
 "They're dead. You killed them."
 
-"I didn't kill anyone. Every started evacuating as soon as I turned on the
+"I didn't kill anyone. Everyone started evacuating as soon as I turned on the
 self-destruct sequence."
 
-Ryn gingerly picked up the burnt carcass of a dead bird and hugged it to his
-chest as he cried.
+Ryn gingerly picked up a dead bird and hugged it to his chest as he cried.
 
-"You mean the birds?!", Fera screamed.
+"You mean the birds?!" Fera screamed, suddenly feeling full of rage. She
+started kicking Ryn as hard as she could. Fera kept kicking even after Ryn fell
+over. When one leg got tired, Fera switched to the other leg. After her rage
+dissipated, Fera remembered the impending destruction of the school.
 
-She suddenly felt filled with rage. She started kicking Ryn as hard as she
-could. When Ryn fell over, Fera stopped kicking and tried to pick him up, but
-he refused to stand. The Principal came over and tried to help Fera move Ryn
-but Ryn was not being helpful and they did not get far.
-
-"Lay down on the ground next to Ryn!" Fera barked at the Principal.
-
-The Principal complied immediately. Fera grabbed the Principal and Ryn by the
-hand, then started to drag them through the hallway, meandering around rubble
-while balancing on her only working powerskate.
-
- In the
-final moments, Fera reflects on Ben, Edl, Ryn, Aira, Sata, and Kaia, starting to
-cry when she thought about how they might have been friends if things were
-different. She thinks about feeling powerless to stop her abusive father and
-substance dependent mother. As she is knocked off the motorcycle from behind
-she imagines she is a bird flying off into the horizon.
-
-...
+"Come on," Fera yelled at the Principal as she took Ryn's arm and activated her
+the one powerskate that was still working. The Principal could not keep up.
+"Lay down next to Ryn!" Fera barked at the Principal, who dropped to ground in
+an instant. Fera grabbed the Principal and Ryn by the hand, then started to
+drag them through the hallway, meandering around rubble while balancing on her
+only working powerskate.
 
 When Fera made it outside with Ryn and the Principal in tow, they saw that the
 evacuation team had already cleared the blast zone. Fera guided the Principal
@@ -778,8 +763,7 @@ to a microtransit vending machine.
 
 "If you don't, we're both going to die."
 
-
-The Principal placed his palms on the machine and leaned in for the retinal
+The Principal placed his palms on the machine and leaned in for the
 scan. Fera made a selection using the accompanying display, and a black
 motocycle with a sidecar rolled up a ramp next to them. Fera ran to the
 motorcycle.
@@ -793,45 +777,51 @@ Fera spun the motorcycle around and pulled up next to the Principal. The
 Principal lifted Ryn onto the motorcycle in front of Fera and then climbed into
 the sidecar. Racing down the empty street, Fera tried to remember how much time
 was left before she left the school. Fera did not know how far the blast zone
-extended, but she knew that until she saw people, they wouldn't be safe.
+extended, but she knew that until she saw people, they would not be safe.
 
-"How big is blast zone?", she yelled at the Principal.
-"To the treesh!", he yelled back.
+The Principal retrieved a small case from the pocket of his blazer, pulled out
+all of the buzzBees in the case, and placed them inside of his shirt. Having
+exhausted his emergency supply, the Principal slumped back in the sidecar.
+
+"How big is blast zone?" Fera yelled at the Principal. He was enjoying the wind
+on his face and did not responded. Fera gave the Principal a kick and repeated
+the question.
+
+"To the treesh!" the Principal yelled back.
 
 "What?"
 
-"We haf to make it to the treesh." the Principal replied, pointing off into the
+"We haf to get to the treesh," the Principal replied, pointing off into the
 distance.
 
 Fera did not know where the Principal was pointing, she had never seen trees in
 the city. She was not going fast enough. Fera accelerated, but she knew that
 they had no chance of making it in time. Fera thought about what had happened
-that day. She had pushed back against the system and won. Even if only
+that day. She had pushed back against the system and won. Even if she only
 succeeded in smashing just a single cog in the machine of oppression, it was
 worth it. Reflecting on her life, Fera realized that for the first time in her
 life, she had felt truly powerful. She was always powerless to stop her father
 from beating her when he got angry. Even worse, She could not do anything to
 protect her mother. Being in control, even if it was part of one day, was worth
-any cost for Fera. Even if she knew that she was going to die, she would not
-have changed much about today. She wished she could say goodbye to her mother
-and hug her one last time. She also would have liked to be able to apologize to
-Kaia and Sata. Maybe if things were different, they could've been friends?
-Fera's eyes filled with tears. Fera thought about Ben, Edl, and the life she
-could have had working in the maker workshop. Maybe she could have also helped
-Aira and Ryn in the theater? Fera looked down at Ryn. He was not moving. Fera
-kept one hand on the throttle and stroked Ryn's hair with the other. She began
-to cry harder.
+any cost.
+
+Even if she knew that she was going to die, she would not have changed much
+about today. She wished she could say goodbye to her mother and hug her one
+last time. She also would have liked to be able to apologize to Kaia and Sata.
+Maybe if things were different, they could've been friends? Fera's eyes filled
+with tears. Fera thought about Ben, Edl, and the life she could have had
+working in the maker workshop. Maybe she could have also helped Aira and Ryn in
+the theater? Fera looked down at Ryn. He was not moving. Fera kept one hand on
+the throttle and stroked Ryn's hair with the other. She began to cry harder.
 
 "It's the wind in my eyes." Fera thought, "No way I'm crying over those
-losers."
-
-Fera closed her eyes. It didn't matter now. She was free. She relaxed her body
-and focused on her last few breaths. The blow from behind came sooner than Fera
-expected. She thought she would hear the explosion first and maybe have a
-chance to look back at the blast before it enveloped her. As she flew through
-the air with her eyes closed, she stretched out her arms and imagined she was a
-giant bird flying over the empty city towards an infinite sea of green on the
-horizon.
+losers." Fera closed her eyes. It didn't matter now. She was free. She relaxed
+her body and focused on her last few breaths. The blow from behind came sooner
+than Fera expected. She thought she would hear the explosion first and maybe
+have a chance to look back at the blast before it enveloped her. As she flew
+through the air with her eyes closed, she stretched out her arms and imagined
+she was a giant bird flying over the empty city towards an infinite sea of
+green on the horizon.
 
 Ben and Edl looked out at the empty city from the observation deck of one of
 their family's airships.
@@ -839,15 +829,15 @@ their family's airships.
 "I hope Fera and Ryn made it out OK," Edl said.
 
 "I am sure she did. Fera is extremely cunning. I have never before met someone
-who I might consider my intellectual equal.", Ben asked. "No offense, Edl."
+who I might consider my intellectual equal," Ben said. "No offense, Edl."
 
-"Is Fera still going to be part of our group?", Edl asked.
+"Is Fera still going to be part of our group?" Edl asked.
 
-"As far as I can tell, she did not break the maker workshop rules. The city was
-safely evacuated and reconstruction will begin as the rubble cools. To be
-frank, the MIG always felt incomplete when it was just you, me, and Ryn."
+"As far as I can tell, she did not break any maker workshop rules. The city was
+safely evacuated and reconstruction will begin as soon as the rubble cools. To
+be frank, the MIG always felt incomplete when it was just you, me, and Ryn."
 
-"I am glad that Fera can be still in our group."
+"I am glad that Fera can be still in our group," Edl said beaming.
 
 "Me too." Ben said, patting Edl's massive shoulder.
 
@@ -860,11 +850,10 @@ and powersk-"
 Ben snapped his fingers as he got an idea. "We can track Fera using the
 powergloves and powerskates."
 
-Moving to a console, Ben brought up Fera's location on a map.
+Moving to a console, Ben brought up Fera's location on a map. "She is still in
+the city."
 
-"She is still in the city." Ben looked at the timer.
-
-"Can we pick her up?", Edl asked.
+"Can we pick her up?" Edl asked.
 
 "We wouldn't make it in time."
 
@@ -872,9 +861,8 @@ The two brothers looked out the windows at the chain of explosions snaking
 through the city. The signal from Fera's powergloves and powerskates
 disappeared inside the blast zone on the map. Edl's eyes filled with tears.
 
-"Maybe she dropped them along the way?", Ben offered. His voice did not sound
+"Maybe she dropped them along the way?" Ben offered. His voice did not sound
 convincing. The signal disappeared while it was still moving out of the city.
-
-As the explosion spread and then faded, the Ben began to cry nearly as loudly
+As the explosion spread and then faded, Ben began to cry nearly as loudly
 as Edl. The brothers, both remembering Fera fondly, gazed out the window long
 after the smoldering remains of the city disappeared behind the horizon.

@@ -229,15 +229,18 @@ than the appetizer tray. Lan gently leaned into Kaia for a hug, his body was
 occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
 shoulder. When he stopped crying, he looked at Kaia lovingly.
 
-Lan wiped his eyes and cleared his throat Aira arrives looking gorgeous. Both Kaia and Sata are very impressed. Lan
-wipes his eyes and continues entertaining. Aira is anxious for Officer Kransal
-to arrive. When he does, she runs up to him and throws her arms around him.
-Officer Kransal removes and stows away his armor along with his rifle. Without
-the armor, he looks much smaller, but still very intimidating. After they talk
-and eat, Kransal tells them they can call him Taz as long as his not in uniform
-or on duty. Aira announces that she is going to show Officer Kransal around.
-When Kaia asks if they can come too, Lan says that he will show Kaia and Sata
-around later, separately.
+Lan wiped his eyes and cleared his throat as he heard Aira approaching.
+...
+arrives looking gorgeous. Both
+Kaia and Sata are very impressed. Lan wipes his eyes and continues
+entertaining. Aira is anxious for Officer Kransal to arrive. When he does, she
+runs up to him and throws her arms around him. Officer Kransal removes and
+stows away his armor along with his rifle. Without the armor, he looks much
+smaller, but still very intimidating. After they talk and eat, Kransal tells
+them they can call him Taz as long as his not in uniform or on duty. Aira
+announces that she is going to show Officer Kransal around. When Kaia asks if
+they can come too, Lan says that he will show Kaia and Sata around later,
+separately.
 
 Are you a Lunker too?
 A Lunker?! I was born to shine under the spotlight, not hide in the shadows!

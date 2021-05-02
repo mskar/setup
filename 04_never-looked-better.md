@@ -6,12 +6,14 @@
 
 "No, but being saved by a giant bird is weird, and I don't like dangling in air
 from razor sharp talons. How do I know that this dumb bird won't drop me?" Fera
-said feeling powerless. Her gloves and skates were useless in the air. Fera
-remembered that Ben said that all the equipment from the maker workshop had
-trackers. Fera hastily removed her gloves and skates, dropping them into the
-city below.
+said feeling powerless. Her gloves and skates were useless in the air.
 
-"Why did you save me?"
+Fera remembered that Ben said that all the equipment from the maker workshop
+had trackers. Fera hastily removed her gloves and skates, dropping them into
+the city below, and watching as they disappeared into the growing sea of fire
+below. The heat from the explosion lifted them up higher.
+
+"Why did you save me?" Fera asked Ryn.
 
 "I didn't save you. The birds did."
 
@@ -26,7 +28,7 @@ any harm and perhaps may even by fond of me."
 
 "What the hell are you taking about?"
 
-"When we were on the motorcycle, were you concerned about my wellbeing?
+"When we were on the motorcycle, were you concerned about my well being?
 
 "Don't flatter yourself."
 
@@ -38,11 +40,11 @@ any harm and perhaps may even by fond of me."
 
 "What?"
 
-"You obviously feel affection towards me but you do not want to admit it."
+"You obviously feel affection towards me, but you do not want to admit it."
 
-"When we land, I will show you some affection with my foot on your face. I'm
-going to tender, love, and care your face until there's nothing left." Fera
-screamed swinging at arms and legs at Ryn.
+"When we land, I will show you some affection with my foot. I'm going to
+tender, love, and care your face until there's nothing left," Fera screamed
+swinging at arms and legs at Ryn in a futile gesture of aggression.
 
 "Please Fera, you're upsetting the birds. I do not believe you anyway. You are
 using deception to hide your feelings, because you are afraid of getting hurt.
@@ -60,253 +62,356 @@ land."
 
 "Where are we flying anyway?"
 
-"A Lunker colony."
+"The entrance to the Lunker capital."
 
-"What?! No!"
+"What?! No!" Fera had never been outside of the city. The thought of going
+anywhere else, especially a place filled with Lunkers, did not seem very
+appealing.
 
-"You do not have much of a choice in the matter."
+"You do not have much of a choice in the matter," Ryn said gesturing towards
+the eagles. "After destroying the city, you may want to lay low for a while."
 
-The eagles set Fera, Ryn, and the Principal down next to a forest.
+The eagles set Fera, Ryn, and the Principal down on top of a hill surrounded by
+red brick ruins near the edge of the forest. Ryn pointed into the forest. "The
+entrance is hidden in the forest. We have to walk the rest of the way."
 
-"The entrance is hidden in the forest. We have to walk the rest of the way."
+"Wait, what is this place?" Fera asked.
 
-"How come the eagle didn't rip your shirt as much as mine?"
+"This is Kościuszko Mound in the Wolski Forest. The ancient city there was
+called Cracovia in Ancient Latin, Ancient Spanish, and Ancient Italian."
 
-"Unlike you, I am friendly towards birds."
+"What should we do with him?" Fera asked gesturing towards the Principal, who
+was lying on the ground next to them. His shirt and blazer were covered in
+vomit. "He doesn't look like he can walk and I wouldn't carry him even if I
+could."
 
-Only a few minutes into the forest, Fera and Ryn noticed that the Principal
-looked terrible. After a few more minutes, the Principal fell over and began to
-shake.
+"I will call for help," Ryn said closing his eyes.
 
-"He's going into withdrawal!", Ryn said.
+"No more birds!" Fera yelled.
 
-"What should we do?", Fera asked.
+"Ok, no more birds," Ryn agreed.
 
-"I'm going to call for help."
+"What should I do?"
 
-"No more birds!", Fera yelled.
+"Enjoy the view."
 
-"Ok, no more birds.", Ryn agreed.
+Fera spotted an airship in the distance. Fera was unsure about whether she
+should tell Ryn. She watched as it moved lazily across the sky. Why was it
+going so slow? Was it going in circles?
 
-Ryn closed his eyes. Before long, two stags emerged from the trees.
+"That airship will not be able to help us," Ryn said calmly, his eyes
+still closed.
 
-Fera and Ryn lifted the Principal onto one of the stags. Ryn grabbed onto the
-antlers of the stag carrying the Principal and swung himself up onto its back.
-Fera did her best to mount the other stag as gracefully as Ryn. The stags
-sprinted in between the trees as if they knew exactly where to go. Fera had
-never even ridden a horse, much less a stag. She held onto the antlers of her
-stag for dear life. The stags stopped in front a giant tree. Ryn hopped of his
-stag and raised arms showing his palms.
+"How do you know?"
 
-"We need your help!", Ryn said.
+"A little birdie told me."
 
-"Ryn, there's no one here."
+"Very funny."
 
-Ryn kept looking at the giant tree.
+"Their engines stopped working. They've been circling for hours. They are going
+to crash. We could wait for them to crash and then explore the wreckage for
+survivors."
 
-"Do you expect the tree to help us? Are you going to show it how you can grow
-roots and photosynthesize?"
+Fera thought about it. There might not be any survivors, but if there were,
+they might blame Fera for the crash. If Fera had not destroyed the city, they
+would not have been on the airship. Fera made up her mind quickly. "I don't
+want to wait."
 
-"You mustn't tell anyone anything!", Ryn said forcefully.
+Ryn opened his eyes. "Look there," he said pointing to the bottom of the hill,
+where three stags stood waiting.
 
-"Look, if this tree is your whole plan, then I think the Principal is as good
-as dead."
+"Is that our ride?" Fera asked. Ryn nodded.
 
-A door opened up in the side of the giant tree and small elderly woman got out.
+"Why don't you have them come here?"
 
-"We are druidicDryads. We speak for the trees. You are trespassing in our forest."
+"They don't want to climb up the hill just to carry us down."
 
-"Greetings, I am Ryn. One of my companions is recovering from exposure to
+"Are we supposed to carry the Principal down?"
+
+"We can roll him down," Ryn suggested. Fera liked that idea, perhaps a little
+too much. She gave the Principal a heave followed by a few kicks to keep him
+going. Ryn and Fera chased the Principal as he picked up speed going down the
+hill. Fera laughed as she watched the Principal flip and flop down the hill.
+Ryn stared at Fera as she ran barefoot down the hill. She was a Valkyrie taking
+delight in serving justice.
+
+When they got to the bottom of the hill, Fera wished she could roll the
+Principal down again. The stags knelt down and Fera helped Ryn put the
+Principal on the back of the nearest stag. Fera had never ridden an animal, not
+even a robotic one. The prospect of riding a real live stag was terrifying.
+
+"Can the other stags kneel down for us too?"
+
+"Watch." Ryn ran up to one of the stags, grabbed onto its antlers, and swung
+himself up onto its back.
+
+Fera copied Ryn, but did not pick up enough speed and slid down the side of her
+stag. The stag looked away from Fera as if embarrassed by her failure. Fera
+kept holding on the stag's antlers, terrified that the stag could impale her
+with just a flick of its head. The stag brought its head back around and Fera
+closed her eyes, expecting to be skewered. Flying through the air, Fera
+realized the stag was swinging her onto its back. When Fera landed, she made
+eye contact with one the stag's eyes. It waited for Fera to let go of its
+antlers before turning its head back around.
+
+The three stags walked through the ruins and then entered the forest, as if
+they knew exactly where to go. Fera held onto the antlers of her stag for dear
+life. Ryn was looking at her intently.
+
+"Why are you looking at me like that?"
+
+"Is this a good time to talk about our mutual affection?"
+
+"Do you enjoy getting kicked?"
+
+"I do not, but ever since I understood that you express your emotions through
+violence, I feel strangely content when you kick me."
+
+"You get off on me kicking you?"
+
+"I would prefer that you show your affection for me some other way."
+
+"I think kicks are the only kind of affection you're going to get from me."
+
+"I will be happy to receive any kind of affection from you I can."
+
+"Why do you like me?" Fera asked after a long pause.
+
+Ryn looked at her intensely. "You are the most amazing person I have ever met."
+
+Fera was shocked. "All I do is make fun of you and kick you."
+
+"When I look at you, I can feel your pain. I am not angry at you for hurting
+me. Actually, it's quite the opposite. I want you to kick me, as long as it
+helps you. Whenever you need a face to kick, I will be happy to offer mine."
+
+Fera could tell that Ryn was being absolutely serious. He looked sad and
+compassionate, but hopeful. Ryn smiled at Fera. "Talking with you feels really
+nice. This moment is worth all of the kicks you gave me."
+
+Fera looked away. She riding a stag through the woods next to a crazy person.
+She decided to change the subject. "How much farther?"
+
+"We are taking a detour to get help for the Principal. He is going to go into
+withdrawal, if he hasn't already."
+
+"Who are we getting help from? More of your animals?"
+
+"This time we need help from the people of this forest. They call
+themselves the druidicDryads."
+
+"People live in this forest?"
+
+"They keep their presence hidden from other topsiders. They feel more
+comfortable around Lunkers than city dwellers. Let me do the talking.
+I think I can convince them to help us."
+
+"Ok, let me know when we are close."
+
+"Oh, we are already close."
+
+"What?"
+
+"They have been following us and studying us since we entered the forest."
+
+Fera looked around, but could not see anyone. She was about to ask Ryn if he
+was joking, when arrows shot down from the trees above and landed in front of
+them. The stags reared up on their hindlegs. Fera was able to hold on, but the
+Principal tumbled down off of his stag.
+
+Ryn hopped of his stag and raised his arms, showing his palms. "We need your
+help!"
+
+"Ryn, maybe you can show them how you can grow roots and photosynthesize?"
+
+"You mustn't tell anyone anything!" Ryn said forcefully.
+
+A small elderly woman rappelled down from a tree. "We are druidicDryads. We
+speak for the trees. You are trespassing in our forest."
+
+"Greetings, I am Ryn, and this is Fera. Our companion is sick from exposure to
 narcotics. He may die without your help."
 
-"How is it that you know this forest?"
+"Greetings, Ryn and Fera. I am Arba. How is it that you know this forest?"
 
-"I do not this forest, but these stags do."
+"I do not know this forest, but these stags do."
 
-"How is it that you can command the stags?"
+"How is it that you can command the stags? And the birds that brought you
+here?"
 
 "I am a mimic."
 
-"A mimic? We have heard of your kind. That means that these stags are mimics
+"A mimic? We know of your kind. That means that these stags are mimics
 too and not real animals. It will be no great loss if we kill you and use
 you as fertilizer."
 
-"Please, one of my companions is a fierce warrior who destroyed the nearby city."
+"Please, one of my companions is a brave warrior who destroyed the nearby
+city of Katovicen."
 
-"A warrior you say? We did take note of the explosion. Allow me to take a look
-at this warrior.", the woman said walking up to the stag carrying the Principal.
+"A warrior you say? We saw the smoke above Katovicen from the treetops. Allow
+me to take a look at this warrior," Arba said walking up to the Principal.
 
-"He does not appear to be much of a warrior", the woman said, poking the
-Principal with her staff.
+"He does not appear to be much of a warrior," Arba said, disappointedly poking
+the Principal with her toe.
 
-"The warrior who destroyed the city is me.", Fera huffed.
+"The warrior who destroyed the city is me," Fera huffed.
 
-"You?!", the woman said, turning to face Fera, "a little girl?".
-"How did a child such as you destroy a whole city?"
+"You?" Arba said, turning to face Fera. "A little girl? How did a child
+such as you destroy a whole city?"
 
 "It is true, she activated the self-destruct sequence of our school, knowing it
-would cause a chain reaction that would destroy the whole city. Then, she
-fought bravely to keep anyone from stopping from destroying the city."
+would cause a chain reaction that would destroy the whole city."
 
 Fera had not known about the chain reaction, but she decided to pretend that
 she had known.
 
-"Why did you destroy the city?"
+"Why did you destroy the city?" Arba asked leaning towards Fera.
 
-"The government only protects the people in power and oppresses everyone else.
-I blew up the city as part of the revolution that will overthrow the government
-and usher in a new era of freedom and equality."
+"The government oppresses anyone who doesn't have power. I blew up the city as
+part of the revolution that will overthrow the government and usher in a new
+era of freedom and equality."
 
 "Your words do not sound hollow. If you promise to respect and protect the
 forest. We will aid you."
 
-After Ryn and Fera promised, other druidicDryads emerged from the door in the
-giant tree. Still more, came out of hiding from behind other trees, bringing
-various items and placing them down on the ground in front of Fera and Ryn. The
-items included leaves filled with food, gourds filled with water, clothes made
-of animal skins, knives, bows, and quivers of arrows.
+After Ryn and Fera promised, other druidicDryads rappelled down from trees.
+Still more, came out of hiding from behind other trees, bringing various items
+and placing them down on the ground in front of Fera and Ryn. Fera looked over
+the items. There were leaves covered berries, nut, and insects, gourds filled
+with water, clothes made of animal skins, knives, bows, and quivers of arrows.
 
 "While we tend to your companion, you may eat and rest. We would be honored if
 the city destroyer and her mimic companion could wear our clothing and use our
-weapons on their quest to overthrow the government.", the woman said.
+weapons on their quest to overthrow the government," Arba said as several
+druidicDryads carried the Principal away on a wooden sled.
 
-Fera was a bit disappointed to see that the food consisted of bugs and berries.
-She was even more disappointed to see that knives were entirely made out of
-wood. When she tried the edges of the knives, she was surprised that they were
-quite sharp.
+Fera eyed the food with suspension. Ryn seemed to have no problem with the food
+and ate bugs, nuts, and berries heartily. Fera picked a knife and unsheathed
+it. She was disappointed to see that knives it was entirely made out of wood.
+When she tried the edge of the knife, she was surprised that it was quite
+sharp.
 
 "The knives and arrows are lignum vitae wood. They cannot break steel, but they
-can cut flesh.", the woman explained.
+can cut flesh," Arba explained.
 
 Fera put the shoes that the druidicDryads brought her. The shoes, moccasins
-made out of animal skin, were a big improvement over walking through the forest
-in her socks. She went behind a tree to change into the rest of the clothes.
-When she came back Ryn had already changed.
+made out of animal skin, were very comfortable. She went behind a tree to
+change into the rest of the clothes. When she came back Ryn had already
+changed.
 
 "Not the modest type I see. You might even be an exhibitionist. Do you get off
-showing everyone your dangling parts."
+on showing everyone your dangling parts?"
 
 Ryn was silent.
 
-"You're probably excited that you can finally undress in front of someone who
-is not your sister."
+"You're probably excited that you can finally undress in front of someone other
+than your sister."
 
-"Why do mimic men like to undress in front of others?", the woman asked,
+"Why do mimic men like to undress in front of others?" Arba asked,
 sitting down in front of Fera and Ryn.
 
-Fera laughed as Ryn blushed.
+Ryn blushed and Fera laughed. "It may not be all mimic men, but this one
+certainly does."
 
-"It may not be all mimic men, but this one certainly does."
+Arba furrowed her brow in thought. "We only know of mimics from our
+legends."
 
-"We only know of mimics from our legends."
-
-"What do your legends say?", Fera asked.
+"What do your legends say, Arba?" Fera asked, sitting down as Arba had done.
 
 "That mimics can look and act just like humans, but some mimics look and act
 like animals, and that mimics can communicate with each other without
 speaking."
 
-"That's how you controlled the birds and stags, with telepathy?"
+Fera raised her eyebrows at Ryn. "That's how you controlled the birds and
+stags, with telepathy?"
 
 Ryn nodded.
 
-"Other than the animal mind control, what else makes mimics different?"
+Fera turned back to Arba. "Other than the animal mind control,
+what else makes mimics different?"
 
-"Mimics age until maturity and then do not age. They can live and bear offspring
+"Mimics grow until maturity and then age no more. They can live and bear offspring
 forever, but mimics reproduce differently from us. For example, we know that a
 mimic man cannot get a human woman pregnant, but can himself become pregnant,
 even without intercourse."
 
-Fera's eyes lit up at the prospect of new ways to tease Ryn.
+Fera's eyes lit up at the prospect of new ways to tease Ryn. "So the downside
+is that you are shooting blanks, but the upside is that you are capable of
+immaculate conception?"
 
-"So the downside is that you are shooting blanks, but the upside is that you
-are capable of immaculate conception?"
+Ryn nodded again. Fera was eager to learn more. "What about mimic women?"
 
-Ryn nodded again.
+"Mimic women can be pregnant without intercourse as well," Arba explained.
 
-"What about mimic women?"
+"And that's it?" Fera asked, a bit disappointed.
 
-"Mimic women can be pregnant without intercourse as well.", the woman said.
+"Mimic women are harder to identify than mimic men," Arba explained.
 
-"And that's it?"
+"Are there no other ways to tell who is a mimic?" Fera asked.
 
-"Mimic women are harder to identify than mimic men.", the woman explained.
+"If a mimic is starved, they can survive by becoming like plants," Arba said.
 
-"Are there no other ways to tell who is a mimic?"
+Fera looked at Ryn in amazement. "You weren't kidding when you said you could
+photosynthesize!"
 
-"If a mimic is starved, they can survive by becoming like plants."
+"Yes, but you mustn't tell anyone anything! I believe the druidicDryad mean us
+no harm, but other topsiders might want to capture and study mimics."
 
-"You weren't kidding when you said you could photosynthesize!"
+"Where do mimics come from?" Fera asked.
 
-"Yes, but you mustn't tell anyone anything! My people have lived amongst the
-druidicDryad for a long time, so I felt like trusting them was an acceptable
-risk. To protect ourselves from the Cacumina, mimics have had to remove all
-traces of our existence."
+"The stars," Arba said.
 
-"Where do mimics come from?"
+"You're an alien?" Fera asked.
 
-"The stars.", the woman said.
+Ryn nodded.
 
-"So you are aliens?"
+"Are you here to invade Earth?" Fera asked.
 
-"Yes, but we have adapted perfectly to living in harmony with humans.", Ryn answered.
-
-"But not with Cacumina?", Fera asked.
-
-"The Cacumina are the ones who originally received us from the stars. We came
-as messages from distant worlds. The Cacumina decoded the messages and built us
-according to the encoded messages. We tried to live among the Cacumina, but
-they always treated us like laboratory experiments. A few mimics were able to
-escape with the help of sympathetic Cacumina scientists, who understood us to
-be intelligent creatures looking to coexist with humans. Since the escape, we
-have spread around the globe, sometimes finding acceptance among druidicDryads,
-the Atlantans, and the Lunkers, but we stayed hidden from the Cacumina to avoid
-becoming the subjects in their laboratory experiments."
-
-Segue to talking about origins of druidicDryad and other oppressed peoples and
-why mimics sometimes found acceptance among them.
-
-...
+"I don't know. We came to Earth as messages from distant worlds. Humans decoded
+the messages and built the first mimics according to the encoded instructions.
+Since then we have been learning to peacefully co-exist with humans."
 
 "Why do your people live in the forest?"
 
-"It is the same reason why Lunkers hid below and Atlantans went underneath the
-ocean. A long time in a great war, light beams would come down from the sky to
-burns those who walked in the open. Our Ancestors noticed that if we stayed in
-the forest that we would not die from the light beams. Our ancestors thought
-that the light beams were sent from the heavens to show us the correct way to
-live. Even when it was once again safe walk in the open, our people stayed in
-the forests."
+"It is the same reason why Lunkers hid below the ground and Subaqs hid beneath
+the waves. A long time, there was a great war fought with terrible weapons.
+Light beams would come down from the sky to burn those who walked in the open.
+Our Ancestors survived by hiding in the forest."
 
-"Do you live that tree with the door?"
+"It's safe to be out in the open now."
 
-We built most of our houses in the tree branches. For distinguished elders,
-such as myself, we may build a house inside of tree if we can find a knot large enough?
-
-"A knot?"
-
-"Yes, knots in wood are useless to the tree, so we can carve out the knot and
-then build a home instead. We disguise the entrance to look like the tree is
-still intact."
+"We know. We believe that the light beams were sent from the heavens to show us
+that living among the trees is the best way for our people."
 
 "How is that we speak the same language and you seem to know everything about
 us?"
 
-"The young of our people go through a rite of passage by living in a city and
-pretending to be Cacumina. After the rite of passage is complete, they choose
-to stay among the Cacumina or return to our people. I went through the rite of
-passage many years ago. After I finished high school, I chose to come back to
-the forest and have lived her ever since. I teach our young about the Cacumina
-to prepare them for the rite of passage."
+"The young of our people go through a rite of passage by living in a city. By
+going through the rite, our young can learn about city life and why living
+among the trees is better. I went through the rite many years ago. I am glad
+that you destroyed the city."
 
-"Has anyone from the city ever come to live in the forest?"
+"But what about the rite of passage? Can your young go to Cracovia instead of
+Katovicen?"
 
-"You and your companions can be the first, if you like. Your companion is very
-sick. It may be many days before he is well enough to travel. We can teach you
-how to shoot a bow, how to hide, and how to find food and healing plants in the
-forest."
+Arba shook her head. "Anyone who enters Cracovia does not return."
 
-"I would like to learn to hunt."
+"The World Heritage Site robots kill anyone inside the city," Ryn explained.
+
+"Is there another city nearby?
+
+"None like Katovicen. On the other side of Cracovia, there is a city of tents.
+The airships from Katovicen are heading there."
+
+"Do you want to go there instead of the Lunker city?" Ryn asked. Fera shrugged.
+She was not sure if she was a fugitive. It might be smarter to go to the
+Lunker city until she found out for sure.
+
+"Your companion is very sick. It may be many
+days before he is well enough to travel. In the meantime, we can teach you out
+ways," Arba offered.
+
+"I would like to learn to hunt," Fera admitted.
 
 "We do not hunt."
 
@@ -314,9 +419,8 @@ forest."
 
 "We look for dead animals in the forest and skin them."
 
-Fera looked her clothes and tempted to smell them.
-
-"Do you ever hunt animals? For meat?"
+Fera looked her clothes and was tempted to smell them. "Do you ever hunt
+animals? For meat?"
 
 "No, we do not hunt. We get more than enough food from the forest."
 
@@ -333,18 +437,130 @@ food tasted.
 "Well, we do not want to delay our quest to overthrow the government, so
 perhaps we can leave our sick companion with you until he gets better."
 
-"Yes, of course, but before you leave, tell us your name so we may spread the
-fame of the city destroyer throughout the forests."
+"Yes, of course, you may leave him, but you should not travel at night. Stay
+one night. You may leave at first light."
 
-"My name is Fera. What's your name?"
+Fera nodded. Riding a stag through a dark forest did not seem like a great
+idea. The druidicDryads laid down pieces of moss-covered bark onto the ground.
+Arba got up and gestured towards the bark. "You may sleep here. We will return
+at sunrise to bid you farewell on your quest. Good night."
 
-"Arba."
+Fera walked up to the spot Arba had indicated. "What do you think, Ryn? Will it
+be as comfortable as your secret bed?"
 
-"It was a pleasure meeting you, Arba. Thank you for everything you've done for
-us.", Fera said slinging a water gourd, a bow, and a quiver of arrows over shoulder.
+Ryn sat down on the bark bed opposite Fera. Fera pulled out a wooden knife.
+"Just don't try anything, I'm not your sister."
+Ryn curled up into ball facing away from Fera. Fera tried to smooth things over.
+"At least I don't have to worry about you getting me pregnant, right?"
 
-"If you ever need assistance again, you can always go to the forest. We will
-send runners in all directions to sing your praises."
+"Yes, mimics cannot get humans pregnant."
+
+"But you can become pregnant? At any moment? Is it random?"
+
+"No, it is not random. I would have to develop a deep emotional connection with
+someone for a long period of time."
+
+"You get pregnant from emotions?! Am I getting you pregnant right now just by
+talking with you?" Fera said excitedly.
+
+Ryn looked back at Fera, his eyes filled with tears. "I would be the luckiest
+mimic on Earth if I could bear children for you. I feel like I could be with
+you forever and it wouldn't be enough."
+
+Fera was stunned, but then broke out laughing. "Did you just propose to me?"
+
+"Mimics do not view marriage the same was as humans. You do not need to
+dedicate yourself to me. I would only ask that you allow me to dedicate myself
+to you and be near you always."
+
+"So you would just follow me around popping out kids forever?"
+
+"Yes, but each the pregnancy takes nine months and is risky. Mimics can live
+indefinitely, but many die from complications during pregnancy or during
+childbirth."
+
+"Are you pregnant right now?"
+
+"No, but my body is already preparing for pregnancy. The process is not
+automatic, because a pregnant mimic can die from sorrow if they are separated
+from their loved one for too long."
+
+"So if you get pregnant and I ditch you, you could die."
+
+"Yes, but first I would need to be convinced that there might be a chance for
+you to allow me to stay near you."
+
+"When you have a baby? Is it just a clone of you?"
+
+"No, mimic bodies collect the genetic material of our loved ones and mix the
+collected genetic material with our own to create a viable offspring. Unlike in
+human reproduction, the genetic material itself is insufficient to create a
+viable offspring. The offspring are engineered based on the information
+collected during interactions with loved ones."
+
+"Wow, I am not sure how you did it, but you succeeded in making sexual
+reproduction sound really boring."
+
+"Sex is not required for mimic reproduction."
+
+Fera thought for a while. "Will you let me know before you get pregnant?"
+
+"Of course, I would never do it without your consent."
+
+Satisfied with Ryn's answers, Fera laid down on the bark bed next to him.
+Looking up at the stars through the trees, Fera thought for a long time about
+her next question. "When you lived with the Lunkers, did they know you were a
+mimic?"
+
+"No, my mother choose not to tell anyone that she was a mimic. She told Aira
+and me to keep it a secret. My father never knew."
+
+"Did your parents die in the gas attack?"
+
+"Yes. You are lucky to still have your parents."
+
+"I miss my mom. I hope she got out of the city in time, but I wouldn't be upset
+if my dad died in the explosion."
+
+"I am sorry that he hurt you," Ryn said quietly. Fera was angry that Ryn
+brought it up, but she felt a lot less anger than she expected. She considered
+stabbing Ryn with her wooden knife, but decided against it. Instead, Fera kept
+her mind busy by counting all the ways she could torture and brutally kill Ryn
+the next day.
+
+Fera awoke shivering. It was still dark and the moist moss had permeated
+through her animal skin clothes. She had never felt so cold in her life. She
+noticed that Ryn was sleeping soundly without shivering at all. Fera shifted
+towards Ryn hoping to warm up a little.
+
+"Are you cold?" Ryn asked.
+
+"Yes, aren't you?"
+
+"Mimics do not need as much heat as humans. If you like, I can warm you up."
+
+"Fine, but don't get any funny ideas or I'll carve you open and sleep inside
+your entrails for warmth."
+
+Ryn put his arms around Fera. He started to vibrate and emanate a surprising
+amount of heat. "How are you doing that?" Fera asked.
+
+"Producing heat? The same way you do, by contracting my muscles and releasing
+energy stored in glycogen. I have a lot of energy saved from being out in the
+sun and from the food the druidicDryads gave us. You should have eaten
+more. Would you like me to bring you some of the food now?"
+
+"Just shut up and be warm," Fera turning around and pressing her back against
+Ryn. His body conformed around her and Fera soon stopped shivering. She felt
+safe. She was glad to be alive. Ryn had saved her. Fera would never admit it,
+but she felt grateful. This time when Fera went to sleep she was thinking happy
+thoughts. She dreamt was holding a child in her arms. The child looked up her.
+It looked like her and Ryn. It was her child. It did not matter that it was a mimic.
+
+When she woke up, Fera looked around for her child, before she remembered that
+she did not have a child.
+
+...
 
 Fera stood up and grabbed her stag by the antlers swung up onto its back. This
 time the motion was much more fluid and Fera noted the impression it made on

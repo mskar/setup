@@ -65,8 +65,8 @@ that the Principal would need to assemble his frayed nerves.
 
 "Today we welcome a new cohort of-"
 
-As the Principal began to speak, a student with bright purple hair jumped on
-top of her seat in the bleachers and began to shout into a hand-held gigaphone.
+As the Principal began to speak, a student jumped on top of her seat in the
+bleachers and began to shout into a hand-held gigaphone.
 
 "Corporeal punishment is barbaric and ineffective!"
 
@@ -369,21 +369,21 @@ When they arrived at the Principal's office, the guardGorilla let go of Kaia's
 foot and opened the door. Sata helped Kaia to her feet, put Kaia's arm around
 her shoulder, and walked with her towards the office. Leaning against her
 friend, Kaia became overwhelmed by the intoxicating scent of Sata's hair and
-almost fell over. As they entered the office, they saw the girl with the purple
-hair sitting in a chair with a guardGorilla standing behind her.
+almost fell over. As they entered the office, they saw the protester sitting in
+a chair with a guardGorilla standing behind her.
 
 In the opposite side of the room was a large, well-polished mahogany desk, and
 behind it sat the school Principal, snoring loudly with his head tilted back,
 his mouth open, his face and neck covered in buzzBees, and drool flowing down
 the side of his chin.
 
-When she saw the look on the purple-haired girl's bruised face, Kaia began to
+When she saw the look on the protester's bruised face, Kaia began to
 wonder what she and Sata looked like. Sata, shirtless and missing a shoe, was
 supporting Kaia, whose hair was still standing on end from being electrocuted
 countless times. The guardGorilla pulled up a pair of chairs for Kaia and Sata.
 As soon as she helped Kaia sit down in the chair closest to door, Sata crossed
 her arms in front of her exposed chest and sat down in the chair in between
-Kaia and the purple-haired girl. Turning towards the purple-haired girl, Sata
+Kaia and the protester. Turning towards the protester, Sata
 tried to start a conversation.
 
 "I think what you did in the gym was awesome!"
@@ -395,7 +395,7 @@ rest of the taserTutor tasks. She got fried over and over, and then the
 securitySimians got her. I tried to rescue her, but they got me too and brought
 us both here."
 
-When the purple-haired girl did not respond, Sata continued.
+When the protester did not respond, Sata continued.
 
 "My name is Sata. My friend is Kaia. What's your name?"
 
