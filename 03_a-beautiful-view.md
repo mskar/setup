@@ -229,7 +229,7 @@ than the appetizer tray. Lan gently leaned into Kaia for a hug, his body was
 occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
 shoulder. When he stopped crying, he looked at Kaia lovingly.
 
-Aira arrives looking gorgeous. Both Kaia and Sata are very impressed. Lan
+Lan wiped his eyes and cleared his throat Aira arrives looking gorgeous. Both Kaia and Sata are very impressed. Lan
 wipes his eyes and continues entertaining. Aira is anxious for Officer Kransal
 to arrive. When he does, she runs up to him and throws her arms around him.
 Officer Kransal removes and stows away his armor along with his rifle. Without
