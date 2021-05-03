@@ -438,7 +438,7 @@ to make me jealous."
 
 Ursa seemed a little uncomfortable. "Is she always like this?"
 
-Kaia nodded. "She likes to dispel tension with humor."
+Kaia nodded. "She likes to diffuse tension with humor."
 
 Sata and Ursa helped Kaia to her feet.
 
@@ -485,23 +485,190 @@ hear. No one answered. Officer Kransal explained the plan.
 "The pilots have set the autopilot to circle the planned crash site to burn up
 as much fuel as possible before the airship crashes. The planned crash site is
 an artificial lake that was once an ancient stone quarry. We'll jump at around
-4000 meters. You'll have about one minute of freefall until you open your
+4000 meters. You'll have about one minute of freefall before you open your
 chutes between 750 and 800 meters. Our landing site will be an ancient military
 facility called Nil Army Base, west of the artificial lake and south of the
 Vistula River. Do not land in Cracovia or you will be killed on sight. Is all
 of that understood?"
 
 Everyone nodded excepted for Kaia, who was still in shock. Ursa took Kaia by
-the arm and led her to the cargo bay. "Don't worry, I've skydived dozens of
+the arm and led her to the cargo bay.
+
+"Do you want anything for your nose?" Ursa asked.
+
+"My nose?" Kaia touched her nose and winced in pain.
+
+"You jumped head first into the glass floor when you were... I don't know what the
+word for it is. I'm really sorry."
+
+Kaia knew what Ursa meant. She remembered diving into the dust after Fera. She
+was embarrassed to think of how it must have looked to everyone. Ursa could see
+that Kaia was uncomfortable talking about it, so she changed the subject.
+
+
+"Don't worry, you're in really good hands. I've skydived dozens of
 times on missions, hundreds of times recreationally, and thousands of times in
 virtual reality. I'm a real adrenaline junkie."
 
-"On missions?" Kaia asked, not sure if she was hearing things again. Ursa
-looked flustered. "The truth is I'm a spy. Wait, I was a spy, but I'm not
-anymore. I still remember all of my training. I have a really good memory."
+"On missions?" Kaia asked, not sure if she was hearing things again.
 
-Kaia had no idea if Ursa was kidding, but she was reassured by Ursa's
-confidence.
+Ursa looked flustered. "The truth is I'm a spy. Wait, I was a spy. I'm not
+anymore, but I still remember all of my training. I have a really good memory."
+
+Kaia had no idea if Ursa was kidding, but she was reassured by how confidently
+Ursa carried herself. In the cargo bay, they laid out 4 tandem chutes and one
+solo chute. Officer Kransal took off his armor and started to attach a large
+chute on each shoulder. He looked much smaller without the armor, though he was
+still very authoritative and intimidating. Aira stood next to Officer Kransal
+and watched him work. Kaia noted with surprise that Aira was taller than
+Officer Kransal.
+
+Kaia stared at Aira and Officer Kransal as she thought about their differences
+in height and age. Aira was a junior, so she must be about 16. How old was
+Officer Kransal? In his 20s or 30s? It was hard to tell because always wore his
+balaclava and dark sunglasses. If she's taller than him now, then a few years...
+
+"I don't think you're going to understand anything they're saying." Kaia
+snapped out of it and turned her attention back to Ursa.
+
+"They're speaking Lunker. Oh, I'm not sure if that's what it's called, but they
+have their own language and it's very different than the one we speak. But
+don't worry, I'll explain everything to you!"
+
+Lan and Sata moved to closer to listen as Ursa gave Kaia instructions.
+
+"When we're exiting, hold onto your harness and keep your chin up. Do not try to grab
+onto anything. When we're in freefall, arch your back and try to enjoy it.
+After I open the chute, we'll slow down fast. It should be pretty smooth but
+it's OK to get a little scared. When we're landing, you need to keep your legs
+up. Think of an airplane landing. The back wheels have to touch down first."
+
+"Did you get all of that?" Iona asked Sata.
+
+"Yes, but I still want to hear you say it," Sata replied.
+
+Iona repeated everything Ursa had said, but more than twice as fast, faster
+than seemed humanly possible.
+
+"Is it all clear now?"
+
+Sata smiled mischievously. "One more time should do it."
+
+Iona started to repeat everything again, but Kaia interrupted her. "Sata is
+joking. We all heard the instructions."
+
+"The instructions are no laughing matter. If you bring your legs down during
+landing you could twist an ankle or break a leg." Iona said to Sata.
+
+"I love it when you reprimand me," Sata said with a sigh. "If I step out of
+line again, make sure to really give it to me good."
+
+Iona paused and seemed uncertain of how to respond. Kaia felt sorry for Iona
+and tried to explain. "Sata is joking again. She thinks it's hilarious to flirt
+with girls."
+
+"How do you know I'm joking?" Sata asked Kaia while keeping her eyes
+fixed on Iona.
+
+"Sata, stop it. You're taking this too far."
+
+"Do you think I've gone too far, Iona? Have I been naughty? Maybe you should
+punish me to teach me a lesson," Sata cooed.
+
+"I can punish you as needed after we land," Iona said dryly. "Right now we need
+to get strapped in and read to jump."
+
+"Aye Aye, Captain," Sata said saluting Iona.
+
+They put on jumpsuits over their clothes and lined up with their partners. Ursa
+put on their chute and harness, then helped Kaia put on the harness and handed
+her a pair of goggles. Kaia looked over at Sata, who was smiling devilishly
+again. Kaia could tell that Sata was thinking of many new jokes, but luckily
+Sata kept them to herself.
+
+Taz was once again in his armor and yelled out the final instructions.
+
+"The exit order is Aira and me, Lan and Zok, Kaia and Ursa, Sata and Iona, and
+finally Zek. Wait ten seconds between jumps. Hit it Zek!"
+
+Zek was standing off to the side with his solo chute. He opened the cargo bay
+door. When the air started to rush past her face, Kaia began to tremble.
+
+"Hold to your harness, like this" Ursa said crossing Kaia's hands in front of
+her chest.
+
+"Could you put your arms around me like that again?" Kaia asked meekly,
+embarrassed that she was so scared. Ursa obliged. After Lan and Zok jumped,
+Kaia tried desperately to count down from the ten, but the numbers got all
+muddled in her head. Near the edge, Kaia started to backpedal instinctively.
+Luckily, Ursa was a lot stronger and knew what she was doing. Ursa lifted Kaia
+up off the ground and jumped out into the sky.
+
+Kaia struggled to breathe. The wind was really loud. Ursa yelled something
+encouraging, but Kaia could not understand her, because the sound was muffled
+by the water. Kaia looked around at the sea creatures surrounding her. The
+fish, turtles, and sharks took no interest in her, but a lone octopus stared at
+her intently. The octopus spread out its tentacles and changed its colors in
+pattern as if communicating with Kaia. Somehow she could understand the
+pattern. Kaia spread out her tentacles, as the octopus had done. She felt her
+body relax.
+
+"Why are you helping me? Are you my spirit animal?" Kaia thought. The octopus
+changed colors to let Kaia know that it was very silly to try to talk to an
+octopus the same way she would a person. Kaia understood and tried to ask again
+but this time by changing her colors. The octopus responded by rapidly changing
+colors. Kaia could only make out part of the message. "You... listen...
+follow... find..."
+
+Content with itself, the octopus began to swim away. Kaia tried to swim after
+it, but a net came up from under her and yanked her out of the water. Kaia
+fought to break free of the net, trying to grab onto the sides with her
+tentacles and push her way up and out.
+
+"You're OK!"
+
+Kaia flashed her colors angrily. How could she be OK when she was caught in a
+net?
+
+"Kaia, when we are close you need to be able to pick up your legs!"
+
+"All of them?"
+
+"Yes, all of them!" Ursa answered. "Can you practice it for me? Show me you can
+lift your legs."
+
+Kaia tried to raise her legs, but they were tangled in the net. Kaia realized
+the task would be easier if she had fewer legs, so she folded space in half and
+switched from radial to bilateral symmetry. Focusing only on two legs, Kaia
+pulled them from the net and lifted them into the air.
+
+"You did it! That's great, Kaia!"
+
+"It's trivial to lift two legs! Lifting eight legs simultaneously is much
+harder," Kaia said.
+
+"OK Kaia, I'm not sure what you mean, but you don't have to worry about my
+legs. Just lift up your two legs when I tell you."
+
+Kaia looked down. Below her, she saw water, glorious and blue.
+
+"We're going to miss the water!" Kaia shouted.
+
+"That's the idea. A water landing would be really dangerous. We could drown!"
+
+"Drown?! How could an octopus drown?" Kaia scoffed.
+
+"Kaia, I'll get you to the water, if that's what you need, but first we need to
+land at the army base. You just have to trust me."
+
+Kaia felt she could trust the voice behind her. The person holding the net did
+not mean her any harm and had promised to return Kaia to the water. Kaia felt
+better and relaxed.
+
+"OK, Kaia, get ready. Lift your legs when I say 'legs up'. Ready? Legs up! Legs
+up! Legs up!"
+
+
 
 ...
 
