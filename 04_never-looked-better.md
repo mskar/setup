@@ -131,7 +131,7 @@ where three stags stood waiting.
 "We can roll him down," Ryn suggested. Fera liked that idea, perhaps a little
 too much. She gave the Principal a heave followed by a few kicks to keep him
 going. Ryn and Fera chased the Principal as he picked up speed going down the
-hill. Fera laughed as she watched the Principal flip and flop down the hill.
+hill. Fera laughed as she watched the Principal tumbled down the hill.
 Ryn stared at Fera as she ran barefoot down the hill. She was a Valkyrie taking
 delight in serving justice.
 
@@ -526,12 +526,14 @@ if my dad died in the explosion."
 brought it up, but she felt a lot less anger than she expected. She considered
 stabbing Ryn with her wooden knife, but decided against it. Instead, Fera kept
 her mind busy by counting all the ways she could torture and brutally kill Ryn
-the next day.
+the next day. Fera fell asleep with violence on her mind. She dreamed of
+stringing up those who had wronged her, slicing them open with her wooden
+knives, and dancing beneath the shower of their blood.
 
-Fera awoke shivering. It was still dark and the moist moss had permeated
-through her animal skin clothes. She had never felt so cold in her life. She
-noticed that Ryn was sleeping soundly without shivering at all. Fera shifted
-towards Ryn hoping to warm up a little.
+Fera awoke shivering. It was still dark and the moisture from the moss beneath
+her had permeated through her animal skin clothes. She had never felt so cold
+in her life. She noticed that Ryn was sleeping soundly without shivering at
+all. Fera shifted towards Ryn hoping to warm up a little.
 
 "Are you cold?" Ryn asked.
 
@@ -553,134 +555,117 @@ more. Would you like me to bring you some of the food now?"
 "Just shut up and be warm," Fera turning around and pressing her back against
 Ryn. His body conformed around her and Fera soon stopped shivering. She felt
 safe. She was glad to be alive. Ryn had saved her. Fera would never admit it,
-but she felt grateful. This time when Fera went to sleep she was thinking happy
-thoughts. She dreamt was holding a child in her arms. The child looked up her.
-It looked like her and Ryn. It was her child. It did not matter that it was a mimic.
+but she felt grateful.
 
-When she woke up, Fera looked around for her child, before she remembered that
-she did not have a child.
+This time when Fera went to sleep she was thinking happy thoughts. She dreamed
+she was holding a child in her arms. The child looked up at her. Fera
+recognized herself in the child's face. Ryn had given Fera the gift of life a
+second time. Surrounded by warmth and love, Fera began to cry tears of joy.
 
-...
+When Fera woke up in morning, her child was gone. Fera looked around in a
+panic, but then she remembered that she did not have a child. Her stirring woke
+up Ryn. "Fera are you alright?"
 
-Fera stood up and grabbed her stag by the antlers swung up onto its back. This
+"Yes, I'm fine. Even though I couldn't sleep much with you poking at me all
+night."
+
+Ryn blushed and moved away. "That's a normal reaction that human males have. To
+become better adapted to living among humans, mimic males have evolved to
+exhibit the same response."
+
+Fera laughed. She enjoyed tormenting Ryn and he made it so easy for her. Fera
+stood up fastened a belt with two sheathed knives to her waist and slung a
+quiver of wooden arrows, a bow, and a water gourd over her shoulder.
+
+"Come on, lover boy, you promised you would show me around the Lunker capital."
+
+Ryn stood up, but then turned away from Fera. Fera laughed again. "You're such
+a prude! You said it was normal. As natural as rainbows! There's no need to
+hide it!"
+
+Ryn grabbed two water gourds and a quiver of arrows, then mounted his stag in
+hurry. Fera threw a bow towards Ryn. "You forgot this. The arrows won't be much good
+without it."
+
+The druidicDryads had begun to gather around. Fera saw Arba and waved to her.
+
+"Farewell city destroyer. We will tend to your companion. If you ever need
+assistance, come to this forest. We will teach our children to sing songs of
+your bravery, glory, and honor."
+
+Fera bowed to Arba, ran up to her stag, swung up by its antlers onto its back. This
 time the motion was much more fluid and Fera noted the impression it made on
 the druidicDryads.
 
-Once they were out of earshot, Fera looked at Ryn, "Is the Principal going to be ok with them?".
+Once they were out of earshot, Fera looked at Ryn, "Is the Principal going to
+be ok with them?".
 
 "Yes, he will have the best care possible. Fresh air, clean water, natural
-food, and no buzzBees."
+food, and most importantly no buzzBees."
 
-"I have to ask. Can you become pregnant at any moment? Is it random?"
+I was not long before they arrived at a cave. Fera was upset to see that the
+cave was not from the Kościuszko mound. "We were right next to it when we landed!"
 
-"No, it is not random. I would have to develop a deep emotional connection with
-someone for a long period of time."
+"Yes, but we have to help the Principal first," Ryn said as he dismounted and
+walked towards the cave.
 
-"You get pregnant from emotions!", Fera yelled, delighted.
+"I'm not going to be able to see in there, am I?"
 
-"Yes, but specifically I have to feel deeply for the person who is with me."
+"I'll gather enough bioluminescent algae for you to see. When we get to the
+city, there will be electric lights. We can ask around. Maybe we can find out
+where the airships were headed."
 
-"Are you feeling deeply for me? Right now?"
+Fera follow Ryn into the cave and watched him scrap algae off the walls. He
+triumphantly showed her the handful of algae he had collected. Fera could see
+Ryn's hand and his glowing eyes, but not much else. Ryn held out the algae with
+one hand and pulled Fera forward with the other. Fera had no idea where they
+were going. Even after her eyes adjusted to darkness, she could only see Ryn's
+outline illuminated by the algae in his hand.
 
-Ryn blushed like never before and looked away.
-
-"Am I getting you pregnant right now just by talking with you?" Fera said excitedly.
-
-Ryn looked back at Fera, his eyes filled with tears.
-
-"I would be the luckiest mimic on Earth if I could bear children for you. You
-are the most amazing person I have ever met. I feel like I could be with you
-forever and it wouldn't be enough."
-
-Fera was stunned, but then broke out laughing.
-
-"Did you just propose to me?"
-
-"Mimics do not view marriage the same was as humans. You do not need to
-dedicate yourself to me. I would only ask that you allow me to dedicate myself
-to you and be near you always."
-
-"So you would just follow me around popping out kids forever?"
-
-"Yes, but each the pregnancy takes nine months and is risky. Mimics can live
-indefinitely, but many die from complications during pregnancy or during
-childbirth."
-
-"Are you pregnant right now?"
-
-"No, but my body is already preparing for pregnancy. The process is not
-automatic, because a pregnant mimic can die from sorrow if they are separated
-from their loved one for too long."
-
-"So if you get pregnant and I ditch you, you could die."
-
-"Yes, so I would need to be convinced that there might be a chance for you to
-allow me to stay near you."
-
-"When you have a baby? Is it just a clone of you?"
-
-"No, mimic bodies collect the genetic material of our loved ones and mix the
-collected genetic material with our own to create a viable offspring. Unlike in
-human reproduction, the genetic material itself is insufficient to create a
-viable offspring. The offspring are engineered based on the information
-collected during interactions with loved ones."
-
-"Wow, I am not sure how you did it, but you succeeded in making sexual
-reproduction sound really boring."
-
-Questions about reproduction led to Fera asking about Ryn's parents, if they
-died in the gas attack (yes) and if they knew that he was a mimic (his father
-did not), which is an extremely painful topic for Ryn.
-
-...
-
-Ryn explains the history of the Lunkers. People went underground to escape
-laser-equipped orbital satellites that would indiscriminately kill anyone who
-was on the surface during past wars.
-
-In the Lunker colony, a young Lunker approaches them and says that they have
-won a free boat ride for three.
-
+Fera breathed a sigh of relief when they entered a tunnel with electric lights.
+As they approached the entrance to the city, a young Lunker run up to them.
 "Congratulations, you've won a free, all-expenses-paid trip to Wieliczka salt
-mine, including a free boat ride on Lake Wessel, for three people!
+mine, including a free boat ride on Lake Wessel, for two people!
 
-"Excuse us, we need to discuss." Fera said, drawing Mel and Ryn into a huddle.
+"Excuse us, we need to discuss." Fera said, drawing Ryn into a huddle.
 
 "Don't you think it is suspicious that it's a free tip and boat ride
-specifically for three people? There are exactly three of us. It seems a little
-on the nose."
+specifically for two people? There are exactly two of us. It seems a little on
+the nose."
 
-"We shouldn't look a gift horse in the mouth.", Mel said.
+"We shouldn't look a gift horse in the mouth," Ryn said. "That lake is an
+important part of the cultural heritage of Lunkers. I have always wanted to see
+it," Ryn said.
 
-"That lake is an important part of the cultural heritage of Lunkers. I have
-always wanted to see it.", Ryn said.
-
-"It's a trap and I am going to say no and anyone who wants to stop me is going
-to get a rock thrown at their head."
+"It's a trap and I am going to say no and if you try to stop me I'll stab you."
 
 "Please Fera, let me talk to him, Lunker to Lunker. If it is a trap, I will
 find out."
 
 "Ok, go ahead, you have one minute."
 
-Ryn walked up to Nil with a smile and started to talk with him in a quiet,
-friendly voice. The conversation seemed to be going well until a rock hit Nil
-in the side of the head with such force that he crumpled to the floor.
+Ryn walked up to his fellow Lunker with a smile and started to talk with him in
+a quiet, friendly voice.
 
-Fera pounced on Nil's chest a rock in each hand and started to make a few
-improvements to his face.
+"What's your name?"
 
-Ryn and Mel looked on in horror. They wanted to stop Fera, but both felt that
-it was better that Fera focused on Nil rather then them.
+"Nil."
 
-Once Fera was satisfied with the facial remodeling, leaned in close to Nil's
-face and said "Who sent you?", in the lowest voice she could. Nil was
-unfortunately very unconscious and unable to answer the question.
+"Greetings Nil! I am Ryn and this is Fera." The conversation seemed to be going
+well until a rock hit the Lunker in the side of the head with such force that
+he crumpled to the floor. Fera pounced on Lunker's chest with a rock in each
+hand and started to make a few improvements to his face.
+
+Ryn looked on in horror. He wanted to stop Fera, but both felt that it was
+better that Fera stayed focused on Nil rather than on him. Once Fera was
+satisfied with the facial remodeling, leaned in close to the Nil's face and
+said "Who sent you?", in the lowest voice she could. Unfortunately, Nil was
+very unconscious and unable to answer her question.
 
 "Lunkers are useless. Let's get out of here."
 
-Ryn and Mel quickly followed Fera, afraid that if they did not, they might be
-next. Before long, another Lunker approached them, as before.
+Ryn quickly followed Fera, afraid that if he did not, then he might be next.
+Before long, another Lunker approached them, as before.
 
 "Congratulations, you've won a free, all-expenses-paid trip to the Wieliczka
 salt mine and a free boat ride on Lake Wessel for any number of people!"
@@ -688,11 +673,15 @@ salt mine and a free boat ride on Lake Wessel for any number of people!"
 Fera laughed, thinking it was a joke, then realized that the Lunker was
 absolutely serious, and picked up a fresh pair of rocks.
 
-"Who sent you?", Fera asked, raising one of the rocks.
+"Who sent you?" Fera asked, raising one of the rocks.
 
-"I got a gig job. "
+"Please don't hurt me. I'll tell you everything."
 
-"Your name is Oil?"
+"Why don't you start with your name," Ryn said trying to diffuse the situation.
+
+"Oil."
+
+"Your name is Oil?" Fera asked.
 
 "My parents are trying to break the world record for most number of children
 produced by a monogamous couple. They thought it would get confusing with so
@@ -707,10 +696,10 @@ Fera thought for a little while.
 temporal order might be. All I know is that I am their 15th son and my sister
 Nila is their 15th daughter."
 
-"Nila was my mother's name!"
+"Nila was my mother's name!" Ryn shouted.
 
 Fera remembered that Kaia's waipo's name (mother's mother's name) was Aila.
-Perhaps Lunkers were not that different from Cacumina?
+Perhaps Lunkers were not that different from topsiders?
 
 "Do you have an older brother named Nil by any chance?"
 
@@ -719,6 +708,7 @@ job that he said would pay a lot of money. He said we would never go hungry
 again! Then, I got this job, which also has a big payout. And all I have to do
 is to take you to the lake and get you on the boat!"
 
+...
 ""
 
 "What happened to Nil?"

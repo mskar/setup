@@ -750,22 +750,20 @@ dissipated, Fera remembered the impending destruction of the school.
 the one powerskate that was still working. The Principal could not keep up.
 "Lay down next to Ryn!" Fera barked at the Principal, who dropped to ground in
 an instant. Fera grabbed the Principal and Ryn by the hand, then started to
-drag them through the hallway, meandering around rubble while balancing on her
-only working powerskate.
+pull them down the hallway, meandering around rubble while balancing on her
+only working powerskate. Whenever Fera used the non-functioning powerskate to
+make a tight turn, she could feel the vomit squish inside.
 
-When Fera made it outside with Ryn and the Principal in tow, they saw that the
-evacuation team had already cleared the blast zone. Fera guided the Principal
-to a microtransit vending machine.
-
-"Unlock it!"
+Once they were outside, Fera saw that the evacuation team had already cleared
+the area around the school. Fera pulled up to a microtransit vending machine with the Principal and Ryn in tow. Fera whipped the Principal toward the vending machine. "Unlock it!"
 
 "What are-"
 
-"If you don't, we're both going to die."
+"If you don't, we're all going to die."
 
 The Principal placed his palms on the machine and leaned in for the
 scan. Fera made a selection using the accompanying display, and a black
-motocycle with a sidecar rolled up a ramp next to them. Fera ran to the
+motocycle with a sidecar rolled up a ramp next to them. Fera zoomed up to the
 motorcycle.
 
 "Wait, don't leaf me!" The Principal yelled reaching for Fera.
@@ -776,16 +774,18 @@ motorcycle.
 Fera spun the motorcycle around and pulled up next to the Principal. The
 Principal lifted Ryn onto the motorcycle in front of Fera and then climbed into
 the sidecar. Racing down the empty street, Fera tried to remember how much time
-was left before she left the school. Fera did not know how far the blast zone
-extended, but she knew that until she saw people, they would not be safe.
+was left before she left the school. She sped towards the nearest location
+where airships were lifting off.
 
-The Principal retrieved a small case from the pocket of his blazer, pulled out
-all of the buzzBees in the case, and placed them inside of his shirt. Having
-exhausted his emergency supply, the Principal slumped back in the sidecar.
+Fera drove right under an airship as it was talking off. The airship kept
+rising up into the air. Fera stopped the motorcycle and started waving her
+hands in the air. They must have seen her. Why were they still moving upwards?
 
-"How big is blast zone?" Fera yelled at the Principal. He was enjoying the wind
-on his face and did not responded. Fera gave the Principal a kick and repeated
-the question.
+Fera looked to the Principal for answers. The Principal retrieved a small case
+from the pocket of his blazer, pulled out all of the buzzBees in the case, and
+placed them inside of his shirt.
+
+"How big is blast zone?" Fera yelled at the Principal.
 
 "To the treesh!" the Principal yelled back.
 
@@ -795,15 +795,15 @@ the question.
 distance.
 
 Fera did not know where the Principal was pointing, she had never seen trees in
-the city. She was not going fast enough. Fera accelerated, but she knew that
-they had no chance of making it in time. Fera thought about what had happened
-that day. She had pushed back against the system and won. Even if she only
-succeeded in smashing just a single cog in the machine of oppression, it was
-worth it. Reflecting on her life, Fera realized that for the first time in her
-life, she had felt truly powerful. She was always powerless to stop her father
-from beating her when he got angry. Even worse, She could not do anything to
-protect her mother. Being in control, even if it was part of one day, was worth
-any cost.
+the city. She knew that she did not have enough time to make it out of the
+city, but she decided to enjoy the motorcycle while she could. As Fera
+accelerated down the street, she thought about what had happened that day. Fera
+had pushed back against the system and won. Even if she had only succeeded in
+smashing just a single cog in the machine of oppression, it was worth it.
+Reflecting on her life, Fera realized that for the first time, she had felt
+truly powerful. She was always powerless to stop her father from beating her
+when he got angry. Even worse, she could not do anything to protect her mother.
+Being in control, even if it was part of one day, was worth any cost.
 
 Even if she knew that she was going to die, she would not have changed much
 about today. She wished she could say goodbye to her mother and hug her one
@@ -820,13 +820,11 @@ her body and focused on her last few breaths. The blow from behind came sooner
 than Fera expected. She thought she would hear the explosion first and maybe
 have a chance to look back at the blast before it enveloped her. As she flew
 through the air with her eyes closed, she stretched out her arms and imagined
-she was a giant bird flying over the empty city towards an infinite sea of
+she was a bird flying over the empty city towards an infinite sea of
 green on the horizon.
 
 Ben and Edl looked out at the empty city from the observation deck of one of
-their family's airships.
-
-"I hope Fera and Ryn made it out OK," Edl said.
+their family's airships. "I hope Fera and Ryn made it out OK," Edl said.
 
 "I am sure she did. Fera is extremely cunning. I have never before met someone
 who I might consider my intellectual equal," Ben said. "No offense, Edl."
