@@ -1,4 +1,4 @@
-## Chapter 4
+## Chapter 5
 
 "What is this Lord-Of-The-Rings, deus-ex-machina nonsense?", Fera screamed.
 

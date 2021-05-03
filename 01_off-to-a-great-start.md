@@ -415,7 +415,7 @@ and Kaia.
 
 "Kaia got herself fried so I wouldn't have to go through it," Sata said proudly.
 
-"How did you smuggle in that thing that made your voice really loud?", Sata asked.
+"How did you smuggle in that thing that made your voice really loud?" Sata asked.
 
 "The gigaphone? I didn't smuggle it in. I built it inside the gym from pieces
 of broken robotic animals."
@@ -810,7 +810,7 @@ Sata looked at Kaia. "Kaia is hurt, do you have a place she can rest?"
 
 "Yes, there is, but you mustn't tell anyone anything.", Aira said.
 
-"We get the idea.", Fera said flatly, "We're not going to tell anyone anything."
+"We get the idea," Fera said flatly, "We're not going to tell anyone anything."
 
 "Ok, Ryn and I built a secret bed so we could sleep in the theater during
 breaks from work."
@@ -819,7 +819,7 @@ During the awkward silence that ensued, Kaia saw Sata was tempted to make a
 joke but held back. Unlike Sata, Fera could not resist.
 
 "You have a secret bed? That you built yourselves, so you could sleep together?
-Is that a normal thing for Lunkers?", Fera asked smiling mischievously.
+Is that a normal thing for Lunkers?" Fera asked smiling mischievously.
 
 Ryn was so embarrassed, he started to stammer. Fera did not relent.
 
@@ -828,12 +828,15 @@ doing anything to spice it up? Trying out a new pillow, maybe?"
 
 Kaia was furious. "They're trying to help us and you keep bullying them!"
 
-"Ryn, show Fera and Kaia were the bed is hidden. I'll take Sata to the dressing
-room."
+"We saw the recording of the ceremony today. We think you are all very brave,"
+Aira said trying to diffuse the situation. "We went through the rite two years
+ago, but we'll never forget it even after two hundred years. It was horrible."
 
-"We saw the recording of the ceremony today. We think you are all very brave.",
-Ryn said trying to diffuse the situation. "I thought the gigaphone you built
-was great. I like making things too.", Ryn said to Fera shyly.
+"I thought the gigaphone you built was great. I like making things too," Ryn
+said to Fera shyly.
+
+"Ryn, you can tell Fera and Kaia about your tinkering on the way to the secret
+bed. I'll take Sata to the dressing room," Aira said.
 
 Fera waited until Sata and Aira were out of earshot. "Have you built any
 special recently? Maybe a device to help your sister sleep?" Fera continued.

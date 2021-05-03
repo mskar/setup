@@ -78,8 +78,8 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - [x] 01: Off to a great start
 - [x] 02: A productive first day
 - [ ] 03: A beautiful view
-- [ ] 04: Never looked better
-- [ ] 05: Finally fitting in
+- [ ] 04: Finally fitting in
+- [ ] 05: Never looked better
 - [ ] 06: A great way to make friends
 - [ ] 07: A touching reunion
 - [ ] 08: Honesty is the best policy
@@ -108,45 +108,44 @@ airship, crash by Zakrzówek lake, make camp, the girls bath and bond
 
 End: Kaia and Sata go to sleep together by the camp fire
 
-- 04: Never looked better:
-
-Fera and Ryn go to the druidicDryads to ask for help with Mel. They spend the
-night. Fera feels very cold. The druidicDryad do not use fire. She did not
-eat much of the food and now is hungry. Ryn hugs her to keep her warm. Fera
-complains but secretly enjoys physical contact with Ryn. After they leave on
-their stags, Fera asks questions and Ryn confesses his love for her. They
-arrive at the Lunker city. They meet Nil and Oil. Fera thinks the boat ride
-is a trap, but decides to go anyway. Nil and Oil act as tour guides. Fera
-enjoys the boat ride with Ryn, even though she does not want to admit it. The
-boat is pulled between the two sides of the lake by a rope. The water level
-drops until the boat is on the bottom of a ravine. A door opens. After going
-through the door, Ryn gets sick and his body abandons preparation for
-pregnancy causing him to bleed. Fera drags Ryn outside and then goes back in
-to look for help. She encounters an AI. The AI explains sinistrae and
-introduces Fera to Eiva, who immediately hit it off. Fera forgets about Ryn.
-Fera and Eiva climb out and then lower a rope to Ryn. Fera is suprised that
-she can climb so well. She thinks Ryn is extremely light, but the truth is
-she has become extremely strong. The AI closes the lake to visitors and only
-gives Fera and Eiva access. On the train to the refugee camp, Fera is angered
-when Ryn continues to cry over losing the pregnancy and feeling sick in the
-presence of Fera and Eiva. Fera and Eiva move away from Ryn. They snuggle up
-together. What the hell is this romantic subplot bullshit? Fera says she
-feels weird sleeping next to Eiva. Eiva tells her to shut up and enjoy it,
-which Fera does.
-
-- 05: Finally fitting in
+- 04: Finally fitting in
 
 Kaia, Sata, Lan, Aira, Zek, Zok, Ursa, Iona, and Taz settle into the refugee
-camp. Each protagonist has a job/activity, e.g. Lan works in the kitchen and
-Taz guards the camp. The theater group puts a show. Kaia convinces Ursa and
-her understudy and dunderstudy to pretend to be sick. To prevent any
-questions, they tell everyone that all three were kissing each other. Aira
-was not invited to the kissing party, because she is with Taz. Aira performs
-in front of Taz and the entire refugee camp and is extremely moved by how
-well the show goes. She thanks Kaia and Ursa. Kaia gets beat up by Pyr and
-his posse. Everyone visits Kaia in the hospital. Zek, Zok, Ursa, Iona, and
-Sata stay with Kaia all night in the hospital. Kaia goes to sleep with Sata
-stroking her hair and holding her hand.
+camp. Kaia gets confirmation from Ben and Edl that Fera did not make it. Each
+protagonist has a job/activity, e.g. Lan works in the kitchen and Taz guards
+the camp. The theater group puts a show. Kaia convinces Ursa and her understudy
+and dunderstudy to pretend to be sick. To prevent any questions, they tell
+everyone that all three were kissing each other. Aira was not invited to the
+kissing party, because she is with Taz. Aira performs in front of Taz and the
+entire refugee camp and is extremely moved by how well the show goes. She
+thanks Kaia and Ursa. Kaia gets beat up by Pyr and his posse. Everyone visits
+Kaia in the hospital. Zek, Zok, Ursa, Iona, and Sata stay with Kaia all night
+in the hospital. Kaia goes to sleep with Sata stroking her hair and holding her
+hand.
+
+- 05: Never looked better:
+
+Fera and Ryn go to the druidicDryads to ask for help with Mel. They spend the
+night. Fera feels very cold. The druidicDryad do not use fire. She did not eat
+much of the food and now is hungry. Ryn hugs her to keep her warm. Fera
+complains but secretly enjoys physical contact with Ryn. They arrive at the
+Lunker city. They meet Nil and Oil. Fera thinks the boat ride is a trap, but
+decides to go anyway. Nil and Oil act as tour guides. Fera enjoys the boat ride
+with Ryn, even though she does not want to admit it. The boat is pulled between
+the two sides of the lake by a rope. The water level drops until the boat is on
+the bottom of a ravine. A door opens. After going through the door, Ryn gets
+sick and his body abandons preparation for pregnancy causing him to bleed. Fera
+drags Ryn outside and then goes back in to look for help. She encounters an AI.
+The AI explains sinistrae and introduces Fera to Eiva, who immediately hit it
+off. Fera forgets about Ryn. Fera and Eiva climb out using the rope connected
+to the boat then use the rope to lift Ryn out. Fera is suprised that she can
+climb so well. She thinks Ryn is extremely light, but the truth is she has
+become extremely strong. The AI closes the lake to visitors and only gives Fera
+and Eiva access. On the train to the refugee camp, Fera is angered when Ryn
+continues to cry over losing the pregnancy and feeling sick in the presence of
+Fera and Eiva. Fera and Eiva move away from Ryn. They snuggle up together. What
+the hell is this romantic subplot bullshit? Fera says she feels weird sleeping
+next to Eiva. Eiva tells her to shut up and enjoy it, which Fera does.
 
 - 06: A great way to make friends
 

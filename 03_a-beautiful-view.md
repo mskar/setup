@@ -1,12 +1,12 @@
 ## Chapter 3: A beautiful view
 
 The sound of the fire alarm was brutal. Kaia and Sata woke up in total
-darkness, not remember where they were or why. As her eyes adjusted to light,
-Kaia saw she was in the secret bed next to Sata. A glint of metal caught Kaia's
-eye, she recoiled in horror when she that her hand was covered thin metal
-wires. Kaia kicked off the bed covers, the metallic tendrils covering her
-body were beginning to envelop Sata. In a panic, Kaia tore at the tendrils trying
-to rip them away from Sata. Sata looked at Kaia in shock.
+darkness, not remembering where they were or why. As her eyes adjusted to
+light, Kaia saw she was in the secret bed next to Sata. A glint of metal caught
+Kaia's eye, she recoiled in horror when she that her hand was covered thin
+metal wires. Kaia kicked off the bed covers, the metallic tendrils covering her
+body were beginning to envelop Sata. In a panic, Kaia tore at the tendrils
+trying to rip them away from Sata. Sata looked at Kaia in shock.
 
 "Kaia, what are you doing?"
 
@@ -28,9 +28,9 @@ As they were leaving the theater, a huge explosion rocked the school.
 Outside the theater, there was utter pandemonium. Students and animalAutomatons
 were running towards the exits. The three girls followed the crowd heading to
 the main exit. Surprised that she could run at all, Kaia marvelled at how
-comfortable the ballet flats were to run in.
+comfortable the ballet flats.
 
-"How did you know our sizes?", Kaia asked Aira.
+"How did you know our sizes?" Kaia asked Aira.
 
 "I took your shoes off while you were sleeping. Your shoes were in pretty bad
 shape. I hope you don't mind."
@@ -219,7 +219,7 @@ glad that you enjoyed the appetizer tray so much-" Lan stopped mid-sentence as
 his face started to quiver.
 
 "I am really sorry we ate all the appetizers. We'll be hungry again soon I
-promise!", Kaia said trying to cheer up Lan, but he burst into tears, using the
+promise!" Kaia said trying to cheer up Lan, but he burst into tears, using the
 bend in his elbow to cover his face.
 
 Kaia sat down next to Lan and put her hand on his shoulder unsure of how to
@@ -229,18 +229,304 @@ than the appetizer tray. Lan gently leaned into Kaia for a hug, his body was
 occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
 shoulder. When he stopped crying, he looked at Kaia lovingly.
 
-Lan wiped his eyes and cleared his throat as he heard Aira approaching.
+Lan wiped his eyes and cleared his throat when he heard someone approaching.
+Kaia and Sata's jaws dropped when they recognized who it was. Aira had let her
+hair down and changed from her black jumpsuit into a simple dress and heels.
+
+"How do I look?" Aira asked.
+
+When Aira spun around to show off her costume change, Kata and Sata both
+swooned.
+
+Sata covered Kaia's eyes with her hand. "Don't get too excited or you might
+start hyperventilating, you creep."
+
+Kaia passed Sata a napkin. "Here, wipe the drool off your face, you lecher."
+
+Lan was clearly impressed. "Airuniapyzunia, you are a vision of beauty!"
+
+Aira blushed and curtsied. "Come on everyone we are about to lift off," Aira
+said waving for them to hurry.
+
+The airship had two observation decks, one in the front and one in the rear.
+Each one was a glass protrusion that extended out from the metal hull of the
+airship. Lan led them to the aft observation deck so they could see the last
+passengers boarding and any remaining supplies being loaded.
+
+"There's Taz!" Aira exclaimed pointing towards Officer Kransal.
+
+"And here come Iona, Ursa, Zek, and Zok." Lan said.
+
+"Who are they?" Sata asked.
+
+"They're all part of our theater group. Iona directs. Ursa and Zok act.
+Zek writes." Lan answered. "Come on, I'll introduce you."
+
+They went to the gangway to greet the new passengers. Taz stood guard over the
+gangway as Iona, Ursa, Zek, and Zok boarded. They took their time going up the
+gangway, as if in slow motion. Kaia could not believe how great they all
+looked, but she tried to hide her amazement, because she did not want to make a
+bad first impression. As the new arrivals walked up in pairs, Lan introduced
+them, starting with Iona and Zek.
+
+Iona was cool, composed, and elegant. She walked up the gangway like a model.
+Iona and Zek both wore expensive-looking suits, but next to Iona, Zek looked
+looked like a tacky accessory that she wore sarcastically. Iona remained
+expressionless while Zek seemed to be unimpressed with everything he saw.
+
+Ursa seemed like the polar opposite of Iona. She was giddy, bouncing up down,
+and swinging from Zok's arm. Ursa and Zok were wearing athletic clothes and
+looked incredibly fit. Kaia had the impression that Ursa and Zok were too
+perfect to be real like a retouched photograph in motion.
+
+When Lan turned and introduced Kaia and Sata, Kaia became self-conscious. She
+realized that she had not looked in a mirror since before the initiation rite.
+Kaia relaxed when everyone greeted her warmly and seemed to mind her
+appearance. Ursa waved, grinned at them, and ran up to Sata and Kaia.
+
+"So nice to meet you! I hope we're going to be best friends!" Ursa said
+enthusiastically. Iona walked up next to Ursa and attempted a smile. Clearly,
+smiling was not something Iona often or well, but it was the thought that
+counted. Zek and Zok took up positions on either side of Iona and Ursa. They
+seemed to be striking a dramatic pose. Kaia suddenly became very aware of how
+she was standing.
+
+Officer Kransal walked up gestured for them to move. "Clear the cargo bay and strap in,
+we're taking off."
+
+Kaia was following everyone out of the cargo bay when she felt a strange
+sensation. She turned around and caught a glimpse of Fera and the Principal on
+a motorcycle through the closing cargo bay doors.
+
+Kaia grabbed Sata and Aira by the arm. "It's Fera! She's still down there!"
+
+When Sata and Aira looked, Fera was no longer visible.
+
+"Clear the cargo bay now! We're airborne!" Officer Kransal yelled.
+
+"Please our friend is down there. The school Principal too."
+
+Officer Kransal turned away and touch his earpiece. "Cockpit, this is aft guard. Do you
+have visual of anyone on the ground?"
+
+"Understood," Officer Kransal said releasing her earpiece. "They say there's no one down
+there."
+
+"No, I saw them!" Kaia yelled.
+
+Sata gently took Kaia's arm and spoke to her softly. "Did you really see them,
+Kaia? Or maybe you only thought you saw them?"
+
+Kaia ripped her arm away from Sata and ran up the stairs to the observation
+deck. Once there, Kaia started feverishly looking for Fera on the ground. Sata
+and Aira ran in after her, and started to help her look. Soon, they were so
+high up in the air that the city looked like a tabletop model. Kaia fell to her
+knees and struck at the glass with her fists.
+
+"We left them! We left them behind to die!" Kaia screamed, breaking into tears.
+
+Sata and Aira exchanged glances, unsure of what to say or do. Sata walked up
+and knelt next to Kaia. Sata gently shifted Kaia towards her, rested Kaia's head on her lap, and stroke Kaia's hair as Kaia continued to bawl.
+
+"The fireworks are about to start!" Lan proclaimed as he led everyone onto the
+observation deck.
+
+The city became illuminated by a series of explosions. Kaia lifted her head as
+the observation deck was bathed in red light. Kaia stood up and walked over to
+Officer Kransal.
+
+"Do you think they made it out in time?" Kaia asked Officer Kransal.
+
+"If anyone was still on the ground when we took off they had no chance of
+leaving the city in time."
+
+"Are you sure? They were on a motorcycle."
+
+"There's no way. Getting out of the blast zone by motorcycle would take hours."
+
+Kaia broke down crying. Officer Kransal tried to reason with her.
+
+"We waited as long as we could. The pilots confirmed that there was no one down there."
+
+Kaia's head began to spin. She looked down and saw the red glow coming from the
+city turn to white as they broke through the clouds. The white light bathing
+the observation deck began to dim as the glass surrounding them became covered
+with dust. Kaia looked up and saw the dust trickle through the cracks in the
+glass above. She raised her hands to catch the falling dust. Metallic
+tendrils snaked up her forearms and caressed the dust as it gathered in her hands.
+
+A scream from below caught Kaia's attention. Fera extended her hands upwards
+and she sank into the dust below. Kaia knelt down to grab Fera's hand but dust
+began to pour from in between the tendrils wrapping Kaia's arms and Fera soon
+disappeared in the dust at Kaia's feet. Kaia leapt into the dust after Fera.
+Kaia's body did not make it far, but her spirit flew through the dust in search
+of Fera.
+
+Kaia found Fera in a room filled with light and buzzing with energy. Fera was
+being protected from the dust by metallic tendrils. Kaia recognized the
+tendrils as extensions of her body. She commanded the tendrils to surge towards
+the walls, keeping the dust at bay. Kaia knew what she had to do to save Fera.
+She lashed out against the walls, ripping them open. The dust stopped
+accumulating as it spread out in all directions.
+
+Sata appeared and tried pull Kaia back to the observation deck. Kaia pushed
+Sata away, refusing to go back to her body. She was angry at Sata for not
+believing her. Kaia turned around when she heard Fera scream. Fera started to
+scream again, but her mouth was filled with dust. Kaia held Fera in her
+tendrils, but soon there was nothing left of Fera except a skeleton, and then
+even skeleton turned into dust and was carried away by the wind.
+
+Kaia spun towards Sata. If Sata had believed Kaia, Fera would still be alive.
+Enraged, Kaia wrapped her tendrils around Sata's neck and squeezed. Sata
+pleaded, saying that she would never doubt Kaia again. The pleas for mercy
+weakened and then disappeared as Sata lost consciousness. Kaia released the
+tendrils and Sata fell the floor. Kaia tried to pick Sata up but her hands
+passed right through Sata. Sata began to fade away.
+
+Kaia grabbed Sata with her tendrils and flew back to her body. On the dusty
+observation deck, Ursa and Iona were trying to resuscitate Kaia and Sata. Kaia
+knew that there were efforts would be futile until she put their spirits back
+in their bodies. Kaia gingerly reconnected Sata's body and spirit, then watched
+as Ursa alternated between pressing down on Sata's chest and breathing into
+Sata's mouth.
+
+Sata opened her eyes. Looking at Ursa, Sata said, "You smell really, really
+good. Are you an angel?" Ursa started crying in relief and embraced Sata,
+placing her cheek on Sata's forehead. Kaia was so touched by the scene that she
+forgot about going back to her own body. A jolt of electricity snapped Kaia out
+of her trance. Kaia looked around for the source of the electric shock and saw
+Iona using a defibrillator on Kaia's body.
+
+Flying back into her body, Kaia tried to restart her own heart without any
+luck. Another charge from the defibrillator got Kaia's heart beating, but also
+knocked Kaia's spirit out of sync with her body. Kaia flailed her arms and legs
+as she tried to draw in a breath. Her body and spirit moved independently,
+making it seem like Kaia had four arms and four legs.
+
+The four arms and legs turned into tentacles as Kaia turned into an octopus.
+Kaia reached in all directions in search of water. How could she breathe if she
+did not have water? Iona pinched the top and bottom of Kaia's beak, forcing it
+open and breathing into her mouth. Air? What was an octopus supposed to do with
+air? Kaia needed water!
+
+The air was cool and sweet. Iona's lips were cold, but felt so soft on Kaia's
+hard beak. Iona was methodical and efficient as she worked tirelessly to save
+Kaia. Kaia felt so grateful to be focus of Iona's attention and concern. Iona
+was so kind to go to all this trouble to save a lowly octopus.
+
+As Iona drew in another breath, Kaia wrapped her tentacles around Iona's head
+and pulled her into a deep kiss. Iona let out the breath as her eyes widened in
+surprise. The observation deck was filled with applause. Kaia opened her eyes
+and saw her hand framing the side of Iona's surprised face. Still lip-locked
+with Kaia, Iona was frozen in shock.
+
+"Wow Kaia, you really know how to make the best of every situation," Sata said
+laughing.
+
+Turning to Ursa and gesturing towards Kaia, Sata said "That girl does not waste
+any time. Be careful!"
+
+Kaia broke away from Iona and rested her head back down on the floor. Her
+cheeks were burning with embarrassment. "What a way to make a first
+impression!" Kaia thought.
+
+Sata appeared at Kaia's side. "Was it that good? You look like you are in
+heaven."
+
+Sata pulled Ursa next to her. "I was saved by an angel too, but you're starting
+to make me jealous."
+
+Ursa seemed a little uncomfortable. "Is she always like this?"
+
+Kaia nodded. "She likes to dispel tension with humor."
+
+Sata and Ursa helped Kaia to her feet.
+
+"Sata was right, you do smell really nice," Kaia blurted out to Ursa.
+
+Ursa blushed. Sata looked at Kaia suspiciously. "You heard that? Weren't you
+unconscious? Or were you just faking it so you could kiss Iona."
+
+"I'm still a little lightheaded," Kaia said trying to evade the questions.
+
+"Oh no, you're not getting off the hook that easily. How could you have
+possibly heard what I said?"
+
+Officer Kransal walked up to them with urgency holding a parachute in each
+hand. "Can you jump?"
+
+Kaia was puzzled. Ursa started to explain. "While you were unconscious, the
+airship was badly damaged. We're going to crash."
+
+Kaia held onto Sata and Ursa for support. Her head was spinning. She looked
+back and forth between Sata, Ursa, and Officer Kransal, hoping that they were
+joking. The look on Kaia's face did inspire confidence. Officer Kransal lowered
+the parachutes and looked around the room. "Who has skydived before?"
+
+Iona, Ursa, Zok, and Zek raised their hands.
+
+"Good, each of you should pair up with someone without experience and jump in tandem."
+
+"I can jump with Kaia in tandem," Ursa offered.
+
+"I'll jump with Sata in that case," Iona said.
+
+"Who's going to jump with lil' ol' me?" Lan asked making a dramatic gesture and
+glancing over at Zok. Zok looked around the room obliviously until Zek nudged him.
+Zok stepped forward and struck a heroic pose. "I'll do it."
+
+"My hero!" Lan exclaimed.
+
+"Will you jump with me, Officer?" Aira asked. Officer Kransal nodded.
+
+"I guess nobody wants to jump with me," Zek said loud enough for everyone to
+hear. No one answered. Officer Kransal explained the plan.
+
+"The pilots have set the autopilot to circle the planned crash site to burn up
+as much fuel as possible before the airship crashes. The planned crash site is
+an artificial lake that was once an ancient stone quarry. We'll jump at around
+4000 meters. You'll have about one minute of freefall until you open your
+chutes between 750 and 800 meters. Our landing site will be an ancient military
+facility called Nil Army Base, west of the artificial lake and south of the
+Vistula River. Do not land in Cracovia or you will be killed on sight. Is all
+of that understood?"
+
+Everyone nodded excepted for Kaia, who was still in shock. Ursa took Kaia by
+the arm and led her to the cargo bay. "Don't worry, I've skydived dozens of
+times on missions, hundreds of times recreationally, and thousands of times in
+virtual reality. I'm a real adrenaline junkie."
+
+"On missions?" Kaia asked, not sure if she was hearing things again. Ursa
+looked flustered. "The truth is I'm a spy. Wait, I was a spy, but I'm not
+anymore. I still remember all of my training. I have a really good memory."
+
+Kaia had no idea if Ursa was kidding, but she was reassured by Ursa's
+confidence.
+
 ...
-arrives looking gorgeous. Both
-Kaia and Sata are very impressed. Lan wipes his eyes and continues
-entertaining. Aira is anxious for Officer Kransal to arrive. When he does, she
-runs up to him and throws her arms around him. Officer Kransal removes and
-stows away his armor along with his rifle. Without the armor, he looks much
-smaller, but still very intimidating. After they talk and eat, Kransal tells
-them they can call him Taz as long as his not in uniform or on duty. Aira
-announces that she is going to show Officer Kransal around. When Kaia asks if
-they can come too, Lan says that he will show Kaia and Sata around later,
-separately.
+
+Officer Kransal was not sure if he could believe Ursa, but he did not have much
+of a choice.
+
+Getting out of the blast zone by motorcycle would take hours."
+
+Lan fished out a bottle of champagne from a nearby container and announced,
+"Let's go toast to friendships, new and old!"
+
+While Zok stood next to Ursa while Iona and shook hands with
+Kaia and Sata. 
+
+Kaia asks Iona about medical training and the defibrillator she used. Everyone
+is surprised. Iona says that has had no medical training apart from CPR and
+that she never used a defibrillator. Everyone thinks that Kaia was imagining it.
+
+Aira is anxious for Officer Kransal to arrive. When he does, she runs up to him
+and throws her arms around him. Officer Kransal removes and stows away his
+armor along with his rifle. Without the armor, he looks much smaller, but still
+very intimidating. After they talk and eat, Kransal tells them they can call
+him Taz as long as his not in uniform or on duty. Aira announces that she is
+going to show Officer Kransal around. When Kaia asks if they can come too, Lan
+says that he will show Kaia and Sata around later, separately.
 
 Are you a Lunker too?
 A Lunker?! I was born to shine under the spotlight, not hide in the shadows!

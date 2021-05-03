@@ -1,4 +1,4 @@
-## Chapter 5: Finally fitting in
+## Chapter 4: Finally fitting in
 
 Lan is upset to leave all of the supplies behind,
 especially the food. Officer Kransal arranges for a smaller airship to the

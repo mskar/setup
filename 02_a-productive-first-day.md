@@ -210,8 +210,8 @@ the school year. If you like you can run for President."
 
 "You don't want to be President anymore?"
 
-"Next year, I am going to be a senior and I believe it is time for me to start
-preparing the next generation of MIG members."
+"I am a senior this year, so I need to start preparing the next generation of
+MIG leadership."
 
 "If you run for President next year, I will vote for you," Ryn said.
 
