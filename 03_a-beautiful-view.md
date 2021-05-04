@@ -479,20 +479,25 @@ Zok stepped forward and struck a heroic pose. "I'll do it."
 
 "Will you jump with me, Officer?" Aira asked. Officer Kransal nodded.
 
-"I guess nobody wants to jump with me," Zek said loud enough for everyone to
-hear. No one answered. Officer Kransal explained the plan.
+"Doesn't anybody want to jump with me?" Zek asked. No one said anything.
+Officer Kransal brought up a map of the terrain below and explained the plan.
 
-"The pilots have set the autopilot to circle the planned crash site to burn up
-as much fuel as possible before the airship crashes. The planned crash site is
-an artificial lake that was once an ancient stone quarry. We'll jump at around
-4000 meters. You'll have about one minute of freefall before you open your
-chutes between 750 and 800 meters. Our landing site will be an ancient military
-facility called Nil Army Base, west of the artificial lake and south of the
-Vistula River. Do not land in Cracovia or you will be killed on sight. Is all
-of that understood?"
+"The airship has been programmed to circle above our drop zone, the third
+campus of Jagiellonian University, before crashing into Zakrzówek, an
+artificial lake that was once an ancient stone quarry. We'll jump in pairs,
+except for Zek, and then rendezvous at Zakrzówek. Any questions?"
 
-Everyone nodded excepted for Kaia, who was still in shock. Ursa took Kaia by
-the arm and led her to the cargo bay.
+Zek raised his hand. "Won't there be World Heritage robot patrolling the
+University?"
+
+"The buildings on the third campus were all built in the early 21st century of
+the common era, so they are a low priority for patrols. Even though there
+shouldn't be any patrols, try to land in the northeast part of the campus and
+then immediately take shelter in the trees surrounding the artificial lake.
+Anything else?
+
+Everyone shook their heads excepted for Kaia, who was still in shock. Ursa took
+Kaia by the arm and led her to the cargo bay.
 
 "Do you want anything for your nose?" Ursa asked.
 
@@ -504,7 +509,6 @@ word for it is. I'm really sorry."
 Kaia knew what Ursa meant. She remembered diving into the dust after Fera. She
 was embarrassed to think of how it must have looked to everyone. Ursa could see
 that Kaia was uncomfortable talking about it, so she changed the subject.
-
 
 "Don't worry, you're in really good hands. I've skydived dozens of
 times on missions, hundreds of times recreationally, and thousands of times in
@@ -658,18 +662,190 @@ Kaia looked down. Below her, she saw water, glorious and blue.
 
 "Drown?! How could an octopus drown?" Kaia scoffed.
 
-"Kaia, I'll get you to the water, if that's what you need, but first we need to
-land at the army base. You just have to trust me."
+"Kaia, I'll get you to the water, if that's what you want, but first we need to
+land at the university. You just have to trust me."
 
 Kaia felt she could trust the voice behind her. The person holding the net did
 not mean her any harm and had promised to return Kaia to the water. Kaia felt
-better and relaxed.
+relaxed.
 
 "OK, Kaia, get ready. Lift your legs when I say 'legs up'. Ready? Legs up! Legs
 up! Legs up!"
 
+When they landed, Ursa started to quickly remove the harness. Once they were
+both free, Ursa pulled Kaia and the harness towards the woods, pulling the
+parachute after her. As soon as they were safely hidden in the trees, Ursa
+dropped the harness and turned to Kaia.
 
+"Kaia, you did really great. We're safe now. Do you still think you are an octopus?"
 
+Kaia shook her head. "Do you think you could maybe not tell the others about that?"
+
+"Oh sure, I am great at keeping secrets. I used to be a spy, after all."
+
+"Do you tell everyone that you're a former spy?"
+
+"No. It appears that you know a secret about me, and I know a secret about you.
+Let's promise to keep each other's secrets."
+
+Kaia nodded. Ursa spit noisily into her hand and extended it to Kaia. The look
+of Kaia's face told Ursa that she needed to explain.
+
+"To seal the promise, we each spit in our palms and then shake hands."
+
+"That's disgusting."
+
+"If you prefer, we can seal the promise in blood, instead of spit."
+
+"Can we just not seal the promise?"
+
+"Come on, are you really going to leave me hanging here with spit on my hand?"
+
+"I don't know how to spit."
+
+"Just do your best. It's OK if its all saliva and no phlegm."
+
+Kaia released a small drop of spit onto her palm.
+
+Come on, you can do better than," Ursa cajoled. Kaia spit into her hand until
+her mouth was dry and then extended it to Ursa. Ursa shook Kaia's hand heartily.
+
+"Now we are spit sisters," Ursa proclaimed with the utmost gravity.
+
+After the handshake, Kaia quickly wiped her hand on her jumpsuit.
+
+"Hey, you can't waste perfectly good spit like that!"
+
+"What am I supposed to-"
+
+Ursa rubbed the spit from her hand all over the side of Kaia's face.
+
+"It's really good for your skin!" Ursa said laughing.
+
+Kaia looked horrified.
+
+"Don't look at me like that. We can go wash off in the lake." Ursa grabbed Kaia
+by the hand and began to run. Kaia could barely stay on her feet as Ursa deftly
+moved between the trees. They stopped in front of a cliff overlooking the lake.
+Having grown up in the city, Kaia had never seen anything like it. Kaia walked
+up to the edge and stared at the trichromatic landscape. The blue of the water
+was separated from the green of the trees by the off-white craggy rocks.
+
+"What a beautiful view," Kaia said in wonder.
+
+"Stop it, your making me blush," Ursa answered.
+
+Kaia turn around to see that Ursa had stripped down to her underwear.
+
+"What are you doing?" Kaia said averting her eyes.
+
+"We can't swim in our clothes. They'd get all wet. And you don't have to look
+away. It's like we're going to the swimming pool or the beach."
+
+Ursa reached for the zipper of Kaia's jumpsuit, but Kaia pulled away.
+
+"OK Kaia, we need to get you clean. I can close my eyes if you like, but then
+you have to guide me down to the water."
+
+"How do I know you won't peek?"
+
+"Pinky promise," Ursa said offering her pinky to Kaia. "It's almost as serious
+as the spit shake. It goes blood oath, spit shake, then pinky promise."
+
+When Kaia and Ursa intertwined their pinkies, Ursa said, "I pinky promise that
+I won't open my eyes until you tell me too. If I peek, you can break my pinky
+with a rock." Ursa closed her eyes. "When you're ready, take me by the hand and
+lead me to the water."
+
+Kaia undressed quickly and put her clothes next to Ursa's in the bushes.
+She took Ursa by the hand and started walking down toward the water.
+
+Ursa grabbed Kaia from behind and picked her up in her arms and started walking
+towards the cliff. "Let's take the fast way down. Tell me when I should jump."
+
+"Ursa, no! I don't want to jump."
+
+"Tell me when to jump or we aren't going to clear the rocks."
+
+"You're crazy, put me down. Stop! OK, jump! Jump now!"
+
+Kaia screamed as Ursa leapt off the edge of the cliff. It was nothing like
+jumping out of a plane. For a moment, they were hanging in the air above the
+lake. Then, they started to drop like in a roller coaster. Kaia held onto Ursa
+for dear life, but when they hit the water, they separated. Floating back to
+the surface, Kaia began to breathe very fast. The water was quite cold.
+
+"Kaia, are you alright?" Ursa asked with her eyes still closed.
+
+"No, I'm freezing."
+
+"I was pretty sure you would ask me to open my eyes. I guess you're more
+worried about me checking you out than the rocks shattering our bones."
+
+...
+"Aren't you and Zok together?"
+
+"Officially, I guess, but he always runs off with Lan when nobody's looking. Oh
+no, that was supposed to be a secret!"
+
+"At first, I thought Lan and Aira were together."
+
+"They are really close, but Lan is not interested in girls."
+
+"Is Zok also not interested in girls?"
+
+"Zok has always been really sweet to me. He says that he is going to make all
+of my dreams come true. I'm not jealous of him and Lan. I told Zok that I'd be
+OK with the three of us being polyam, even though Lan is not really my type,
+but I think Zok likes keeping his romance with Lan a secret."
+
+"What's polyam?"
+
+"Polyamorous is when more than two people are together."
+
+"I don't think that can work. My parents cheated on each other and then they got divorced."
+
+"I'm sorry to hear that your parents split up, Kaia, but polyam relationships can absolutely work."
+
+"How do you know?"
+
+"If I tell you, I'm afraid you won't be my friend anymore."
+
+"You're polyamorous? With who? Zok and Zek? Iona too? What?! All four of you?"
+
+Ursa threw her arms around Kaia and implored her not to tell anyone.
+
+"Now that you know about me, Iona, Zok, and Zek, you need to tell me about you
+and Sata. I can tell that you have a special connection. It's like you two are
+soulmates."
+
+"Sata and I have known each other since we were little. I'm not sure if how she
+really feels about me. I'm afraid that if I tell her that I like her more
+than as a friend, it'll ruin our friendship."
+
+"You need to talk to her about how you feel." Ursa stood up. "Right now."
+
+"No, I can't."
+
+"Right now is the perfect time. It's a chilly evening. The sunset is setting.
+The airship is about to crash. We're surrounded by beautiful vistas. Stop
+wasting this prime romantic material on me and go talk to Sata. Just tell her
+that she means a lot to you. You don't have to use the L word."
+
+Kaia grinned. "Lesbian?"
+
+"Shut up, you know what I mean. The four-letter L word!"
+
+Kaia grinned even broader. Sata had taught her well. "Lick?"
+
+"I know plenty of other four-letter words."
+
+...
+I wouldn't be here right now if I hadn't taken those missions.
+...
+"What about Zek and Iona? They don't seem to be that into each other."
+
+"They don't really show how they feel openly. They've known each other for a long time. Iona will do anything for Zek and he  They don't seem to be that into each other."
 ...
 
 Officer Kransal was not sure if he could believe Ursa, but he did not have much
