@@ -74,7 +74,7 @@ work at Ben and Edl's parents' company. After he solves it, he starts
 distributing the inoculation to mimics everywhere. He secretly hatches a plan
 to destroy the government and dextrae companies. He sabotages PeoplePrinters
 around the world and starts replacing people with dopplegangers who say they
-are loyal to the Mummy Queen on Mars to make it seem like she is interfering
+are loyal to the Dust Queen on Mars to make it seem like she is interfering
 with the network in the same way she is with the signals reaching Kaia. Ryn
 goes to the silo to ask Fera, Kaia, and Sata for help with distributing the
 inoculations to mimics hiding underground.

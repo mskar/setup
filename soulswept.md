@@ -950,27 +950,27 @@ This is how she would remain. In a perpetual cycle of death and waiting, Keia
 would protect the memory of her lost civilization from each new crop of fools
 who sought to strike gold on the red planet.
 
-Disturbed by an unfamiliar sensation on her forehead, the mummy queen let out
+Disturbed by an unfamiliar sensation on her forehead, the Dust Queen let out
 her anger in a roar that shook the ground. After probing her face with an
 tendril-covered hand, she inspected her hand and was stunned to see that her
 fingers were moist. Where had the moisture come from? She had not had even a
 drop of blood in her for eons, she was dessicated to the core. What was going
-on? Tiny drops of water were falling down on the mummy queen's face wherever
+on? Tiny drops of water were falling down on the Dust Queen's face wherever
 she went. How could there be rain on Mars? She looked up and saw the
-constellations rearranging into a face that filled the heavens. The mummy queen
+constellations rearranging into a face that filled the heavens. The Dust Queen
 recognized the face in the stars. It was Lita. The raindrops were coming from
 her.
 
 "Come back to me, please.", the sky whispered. It was no use. There was nothing
-left of Keia. The mummy queen was not going to spring back to life from a few
+left of Keia. The Dust Queen was not going to spring back to life from a few
 drops of water! The sky sighed and began to squeeze the horizons until the land
-where the mummy queen stood disappeared completely and the mummy queen was left
+where the Dust Queen stood disappeared completely and the Dust Queen was left
 floating in the void. The constellations warped and stretched until they formed
 a single brilliant ball of light. The ball of light grew arms, legs, and a
-head, taking the form of Lita. Lita reached her hand out to the mummy queen and
+head, taking the form of Lita. Lita reached her hand out to the Dust Queen and
 the tendrils began to break apart, revealing the dried out cadaver underneath.
 
-"Keia.", Lita said. "Yes", the mummy queen thought, "that was once my name. In
+"Keia.", Lita said. "Yes", the Dust Queen thought, "that was once my name. In
 a past life? Or a future one?"
 
 The light began to burn away her parched skin and brittle bones. Beneath it
@@ -2278,7 +2278,7 @@ work at Ben and Ed's parents' company. After he solves it, he starts
 distributing the inoculation to mimics everywhere. He secretly hatches a plan
 to destroy the government and dextrae companies. He sabotages PeoplePrinters
 around the world and starts replacing people with dopplegangers who say they
-are loyal to the Mummy Queen on Mars to make it seem like she is interfering
+are loyal to the Dust Queen on Mars to make it seem like she is interfering
 with the network in the same way she is with the signals reaching Keia. Ryn
 goes to the silo to ask Dela, Keia, and Lita for help with distributing the
 inoculations to mimics hiding underground.
@@ -2345,7 +2345,7 @@ supplies, and spends time with Keia and the baby, even though the baby doesn't
 like not being able to control Dela or read her mind.
 
 Keia believes that Lita's consciousness has been corrupted, perhaps by the
-Mummy Queen.
+Dust Queen.
 
 Dela says that the rebuilt Lita destabilized even further and is being kept in
 the silo so that she cannot hurt anyone else. Dela asks if Keia wants to see

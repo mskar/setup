@@ -840,6 +840,17 @@ Kaia grinned even broader. Sata had taught her well. "Lick?"
 
 "I know plenty of other four-letter words."
 
+Kaia and Ursa join everyone by the fire. Zok and Lan have run off together.
+Ursa sits down in between Iona and Zek. They hug her from both sides. Taz sits
+with Aira. Kaia notices that Taz looks really young despite his neatly
+trimmed beard. Taz and Aira's eyes glow in the dark. They talk in Lunker. Sata
+asks lots of questions about Kaia's time with Ursa and teases Kaia about being
+promiscuous.
+The chapter ends with an
+emotional moment. Kaia and Sata hold hands as they watch the wreckage of the
+airship burn in the water.
+
+
 ...
 I wouldn't be here right now if I hadn't taken those missions.
 ...
@@ -877,25 +888,16 @@ A Lunker?! I was born to shine under the spotlight, not hide in the shadows!
 "Earlier, I thought you and Aira together. I don't think that now, obviously."
 "Me with Aira?! Oh no, a leading man needs a leading lady." Lan said.
 
-"Let me introduce you to subject of my affection, but please you mustn't tell
-anyone anything."
-
-Lan introduces Sata and Kaia to Ursa. They knock on the door to Ursa's cabin,
-Ursa opens. Sata and Kaia are both extremely impressed with how elegant,
-beautiful, and athletic Ursa is.
-
 Zek and Zok barge in on them with Iona in tow. Zek and Zok try their best to
 charm Kaia. Kaia is unsure why he is focusing on her, when she hasn't fixed her
 appearance since before the ceremony. The airship begins to go down when Kaia
-has a dream about the mummy queen destroying the airship fuel cells. Zek and
+has a dream about the Dust Queen destroying the airship fuel cells. Zek and
 Zok demonstrate their leadership skills and relationships with Iona and Ursa to
 save the day. They give commands to Ursa and Iona, both of whom are incredibly
 strong and athletic. Ursa is always cheerful. Iona never smiles.
 
-A beautiful view, the chapter title, refers to the lake Zakrzówek and also the
-girls bathing.
-
-Zek and Zok spy on the girls.
+A beautiful view, the chapter title, refers to the city explosion, lake
+Zakrzówek, the girls bathing, and the airship crash.
 
 The airship crashes in a lake and sinks to the bottom. Zok and Ursa dives into
 the lake and recovers supplies for them. Lan annoys them by asking for more and

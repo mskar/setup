@@ -104,24 +104,28 @@ from behind she imagines she is a bird flying off into the horizon.
 - 03: A beautiful view:
 
 Kaia, Sata, and Aira leave the school, meet Lan and Taz, evacuate in an
-airship, crash by Zakrzówek lake, make camp, the girls bath and bond
+airship, crash by Zakrzówek lake, make camp, Kaia and Ursa bath and bond
 
-End: Kaia and Sata go to sleep together by the camp fire
+End: Kaia and Sata watch the airship wreckage together while holding hands. 
 
 - 04: Finally fitting in
 
-Kaia, Sata, Lan, Aira, Zek, Zok, Ursa, Iona, and Taz settle into the refugee
-camp. Kaia gets confirmation from Ben and Edl that Fera did not make it. Each
-protagonist has a job/activity, e.g. Lan works in the kitchen and Taz guards
-the camp. The theater group puts a show. Kaia convinces Ursa and her understudy
-and dunderstudy to pretend to be sick. To prevent any questions, they tell
-everyone that all three were kissing each other. Aira was not invited to the
-kissing party, because she is with Taz. Aira performs in front of Taz and the
-entire refugee camp and is extremely moved by how well the show goes. She
-thanks Kaia and Ursa. Kaia gets beat up by Pyr and his posse. Everyone visits
-Kaia in the hospital. Zek, Zok, Ursa, Iona, and Sata stay with Kaia all night
-in the hospital. Kaia goes to sleep with Sata stroking her hair and holding her
-hand.
+
+Lan shares his backstory with Kaia when she sees
+him crying after working in the kitchen? How does Kaia meet Ben and Edl? Kaia, Sata, Lan,
+Aira, Zek, Zok, Ursa, Iona, and Taz settle into the refugee camp. Kaia gets
+confirmation from Ben and Edl that Fera did not make it. Each protagonist has a
+job/activity, e.g. Lan works in the kitchen and Taz guards the camp, Aira works
+on stage (she misses Ryn), Ursa and Zok rehearse, Iona directs and goes over
+the script with Zek, Edl plays bugBall, Ben tinkers, The theater group puts a
+show. Kaia convinces Ursa and her understudy and dunderstudy to pretend to be
+sick. To prevent any questions, they tell everyone that all three were kissing
+each other. Aira was not invited to the kissing party, because she is with Taz.
+Aira performs in front of Taz and the entire refugee camp and is extremely
+moved by how well the show goes. She thanks Kaia and Ursa. Kaia gets beat up by
+Pyr and his posse. Everyone visits Kaia in the hospital. Zek, Zok, Ursa, Iona,
+and Sata stay with Kaia all night in the hospital. Kaia goes to sleep with Sata
+stroking her hair and holding her hand.
 
 - 05: Never looked better:
 
@@ -187,51 +191,50 @@ conscientious.
 
 The protagonists infiltrate the government facility. They move in stealthily,
 Sata helps Kaia walk, because Kaia is still hurt. The protagonists are bathed
-in spotlights and surrounded by heavily armed soldiers. They surrender and
-are shocked into submission but when Kaia sees Sata being shocked and is
-shocked herself, she has a vision of the mummy queen and destroys all of the
-soldiers' weapons and powersuits killing them all. Everyone is impressed with
-Kaia's power, but Kaia is horrified by what she did. Ben is scientifically
-interested in Kaia's power. Eiva says that Kaia's power would have changed
-the outcome of the dextrae-sinistrae war. As they search for Lan and Aira,
-they are attacked by GES. Kaia blinds the GES but they find their opponents
-with echolocation and use screams to incapacitate anyone within range. When
-they scream, they cannot use echolocation, because they have to close their
-sensitive ears. Kaia, Sata, and Ryn find a child covered in blood who looks
-exactly like Lan. They find Lan's body and see that Lan recently gave birth
-to the child who is a mimic warrior. Lan had been starved for a long time,
-his skin was black, his membranes was extended to catch the light, and his
-feet had sprouted roots. Lan had been partially eaten by the mimic child. The
-blood covering the child was Lan's. Ryn says that it should be impossible for
-Lan to produce a mimic warrior in such a short time and that the child is
-because of government experiments. The child looks exactly like a childlike
-Lan. They take the child with them, but Ryn tells them not to become attached
-to the child because it only lived to kill. Mimic warriors are genderless and
-cannot reproduce. The child would never learn to speak or develop
-intelligence and therefore they should not give it a name (Does the nameless
-child develop intelligence and learn to speak? Does it become a non-binary
-character? Anything is possible right? Maybe with tech the mimic warrior can
-become intelligent. Does the mimic warrior develop into a hermaphrodite
-parasite thanks to the messages sent by distant mimic civilizations? Does it
-slaughter everyone in refugee camp? No, the mimic child becomes a conduit for
-the nearby nascent mimic civilization. More on this later). Their hidden
-airship is destroyed by an airstrike and the base is surrounded by giant
-robots. A soldier with a gigaphone tells them surrender or they will destroy
-the base with airstrikes. Everyone tries to convince Kaia to use her power,
-but she does not want to kill anyone else. She is still shocked by the fact
-that Aira and Lan are dead. Fera finds an intact stunStaff and shocks Kaia.
-The stunStaff malfunctions from Fera's sinistrae. Sata tries to stop Fera.
-The protagonists fight. The sinistrae are evenly matched against the dextrae,
-because Zek cannot blind them and the sinistrae sap the strength of Zok,
-Ursa, and Iona. Ursa and Zok are not able to wield energy effectively. The
-blows they land are absorbed by the bone armor that Eiva and Fera wear. Zek
-tries to land a blow with his knives and snakes, but Eiva and Fera are
-stronger and faster. While everyone is distracted, Ben uses another stunStaff
-on Kaia and studies her response. Edl holds Sata and Ryn back, because Ben
-told him to do so. Sata cries as Kaia is shocked repeatedly. The stunStaff
-explodes, blowing off Ben's hand. Kaia, as the Mummy Queen, destroys all of
-the giant robots and the protagonists are buried in rubble as the building
-collapses when the giant robot fuel cells detonate.
+in spotlights and surrounded by heavily armed soldiers. They surrender and are
+shocked into submission but when Kaia sees Sata being shocked and is shocked
+herself, she has a vision of the Dust Queen and destroys all of the soldiers'
+weapons and powersuits killing them all. Everyone is impressed with Kaia's
+power, but Kaia is horrified by what she did. Ben is scientifically interested
+in Kaia's power. Eiva says that Kaia's power would have changed the outcome of
+the dextrae-sinistrae war. As they search for Lan and Aira, they are attacked
+by GES. Kaia blinds the GES but they find their opponents with echolocation and
+use screams to incapacitate anyone within range. When they scream, they cannot
+use echolocation, because they have to close their sensitive ears. Kaia, Sata,
+and Ryn find a child covered in blood who looks exactly like Lan. They find
+Lan's body and see that Lan recently gave birth to the child who is a mimic
+warrior. Lan had been starved for a long time, his skin was black, his
+membranes was extended to catch the light, and his feet had sprouted roots. Lan
+had been partially eaten by the mimic child. The blood covering the child was
+Lan's. Ryn says that it should be impossible for Lan to produce a mimic warrior
+in such a short time and that the child is because of government experiments.
+The child looks exactly like a childlike mix of Lan and Zok. They take the
+child with them, but Ryn tells them not to become attached to the child because
+it only lived to kill. Mimic warriors are genderless and cannot reproduce. The
+child would never learn to speak or develop intelligence and therefore they
+should not give it a name (Does the nameless child develop intelligence and
+learn to speak? Does it become a non-binary character? Anything is possible
+right? Maybe with tech the mimic warrior can become intelligent. Does the mimic
+warrior develop into a hermaphrodite parasite thanks to the messages sent by
+distant mimic civilizations? Does it slaughter everyone in refugee camp? No,
+the mimic child becomes a conduit for the nearby nascent mimic civilization.
+More on this later). Their hidden airship is destroyed by an airstrike and the
+base is surrounded by giant robots. A soldier with a gigaphone tells them
+surrender or they will destroy the base with airstrikes. Everyone tries to
+convince Kaia to use her power, but she does not want to kill anyone else. She
+is still shocked by the fact that Aira and Lan are dead. Fera finds an intact
+stunStaff and shocks Kaia. The stunStaff malfunctions from Fera's sinistrae.
+Sata tries to stop Fera. The protagonists fight. The sinistrae are evenly
+matched against the dextrae, because Zek cannot blind them and the sinistrae
+sap the strength of Zok, Ursa, and Iona. Ursa and Zok are not able to wield
+energy effectively. The blows they land are absorbed by the bone armor that
+Eiva and Fera wear. Zek tries to land a blow with his knives and snakes, but
+Eiva and Fera are stronger and faster. While everyone is distracted, Ben uses
+another stunStaff on Kaia and studies her response. Edl holds Sata and Ryn
+back, because Ben told him to do so. Sata cries as Kaia is shocked repeatedly.
+The stunStaff explodes, blowing off Ben's hand. Kaia, as the Dust Queen,
+destroys all of the giant robots and the protagonists are buried in rubble as
+the building collapses when the giant robot fuel cells detonate.
 
 - 08: Honesty is the best policy
 
@@ -286,14 +289,14 @@ accomplished assassin in the scenderverse."
 
 "When we met, where you on a mission?"
 
-Ben laughed. "Yes, she was, but not for scenders. Now, Ursa serves the Mummy Queen."
+Ben laughed. "Yes, she was, but not for scenders. Now, Ursa serves the Dust Queen."
 
 Kaia looked in disbelief at Ursa. "Why, Ursa?"
 
-"The Mummy Queen promised me that I could be a woman forever and even have a
+"The Dust Queen promised me that I could be a woman forever and even have a
 baby."
 
-Ursa helped build facilities to spread the Mummy Queen's cult. Zek, Zok,
+Ursa helped build facilities to spread the Dust Queen's cult. Zek, Zok,
 and Iona were Ursa's accomplices.
 
 "Accomplice?! I was born on Mars and fought in the war. I saw the Thelusian
@@ -302,29 +305,29 @@ spacecraft crash into Mars. Ursa has never even been to Mars."
 "I was there too. Zek and I stayed together the whole time even though our
 people were on opposite sides in the war. Ursa joined us much later."
 
-"Tell Kaia why you joined the Mummy Queen."
+"Tell Kaia why you joined the Dust Queen."
 
-"The Mummy Queen promised to rebuild both Mars and Thelus if we followed her."
+"The Dust Queen promised to rebuild both Mars and Thelus if we followed her."
 
 "Did you think that I was the villain? Ursa killed hundreds while working as a spy
 and an assassin. Zek has soulswept countless people like you, driving them insane or
-turning them into puppets for the Mummy Queen."
+turning them into puppets for the Dust Queen."
 
-"They are trying to overwrite your mind with the memories of the Mummy Queen.
+"They are trying to overwrite your mind with the memories of the Dust Queen.
 We want to preserve your brain the way it is. We want to study you to
 understand your gifts and use them for the good of humanity."
 
 "Can't you study me without killing me?"
 
 "We can bring you back right after you scend. And your mind is continuously
-being corrupted by the Mummy Queen, so there's no time to waste."
+being corrupted by the Dust Queen, so there's no time to waste."
 
 "The scenders want to end physical life on Earth. The eternalEnlighted agree.
 They are going to kill everyone on Earth with a virus. Our research can
 convince them to not release the virus."
 
 Ben begins to lower the circular saws the will remove the top of Kaia's skull.
-Kaia channels the Mummy Queen but she cannot reach any nearby fuel cells. She
+Kaia channels the Dust Queen but she cannot reach any nearby fuel cells. She
 resigns to her fate when she see Sata next to her. Sata controls Ben and has
 him release her. Sata loses control of Ben and Edl attack Kaia. Ben thinks that
 Kaia took control of him. Kaia blinds Ben and Edl, but she cannot open the
@@ -372,14 +375,14 @@ consider surrendering. The scenders are stabbing blindly and moving in. The
 protagonists have there backs against a wall. Kaia wants to surrender. Fera
 asks why Kaia wants to surrender all the time, here and at the base. Fera stabs
 Sata and tells Kaia to do something or they will all die. As Sata bleeds out,
-Kaia channels the Mummy Queen. At first, it seems like nothing has happened,
-but soon the scenders start falling over one by one because the Mummy Queen
-stopped their breathing. From Kaia's view, the Mummy Queen has replicated
-herself and is strangling each of the scenders. The Mummy Queen also tries to
+Kaia channels the Dust Queen. At first, it seems like nothing has happened,
+but soon the scenders start falling over one by one because the Dust Queen
+stopped their breathing. From Kaia's view, the Dust Queen has replicated
+herself and is strangling each of the scenders. The Dust Queen also tries to
 strangle Fera, but cannot harm her. "See," Fera said, " all you needed was the
-right motivation." The Mummy Queen is furious that there is someone who she
-cannot kill. The Mummy Queen lashes out at Fera, but she an invisible shield
-protects Fera. The Mummy Queen slams against the invisible barrier until she
+right motivation." The Dust Queen is furious that there is someone who she
+cannot kill. The Dust Queen lashes out at Fera, but she an invisible shield
+protects Fera. The Dust Queen slams against the invisible barrier until she
 dissipates. Eiva and Fera stabilize Sata by infusing her with sinistrae blood.
 They leave Ben because he has no value as a hostage. Edl comes out of hiding,
 picks up Ben, and informs Kaia that he is no longer her friend after what she
@@ -390,7 +393,7 @@ from the scenders.
 - 09: Home sweet home
 
 Fera and Eiva take Sata into the silo and infuse her with self-replicating
-sinistrae. Kaia is haunted by visions of the Mummy Queen, but the visions
+sinistrae. Kaia is haunted by visions of the Dust Queen, but the visions
 subside when Kaia enters the silo. No one else can enter the silo because they
 are all dextrae based. Ursa and Ryn both start to have terrible abdominal
 cramps and begins to cry uncontrollably. Iona starts to glitch. Zok begins to
@@ -445,7 +448,7 @@ visit and that she can also bring Eiva and her baby when she visits. Life
 becomes very hard for Sata and Kaia without the sinistrae injections, as the
 baby grows stronger, their conditions become worse. When the baby is born Sata
 starts having so many absentee seizures that she is immobilized. Kaia lives in
-two worlds simultaneously: on Earth with the baby and on Mars with the Mummy
+two worlds simultaneously: on Earth with the baby and on Mars with the Dust
 Queen, who is overjoyed with the birth of her offspring. Ryn gives birth to his
 child with Sata and Kaia, a girl who looks like all three of them. They name
 the girl Resa after Ryn's maternal grandmother. The live happily as they settle
@@ -496,8 +499,8 @@ you can the same trick as before. Stop our breathing and then away. But we'll
 be back. We won't remember having died. We won't get discouraged. We will never
 give up. We can attack you on any clear day. We are infinitely patient. We will
 eventually wear you down." The mimic child gets ready to attack but Kaia stops
-it. Kaia channels the Mummy Queen and instills such free into the scenders that
-they all run off a cliff. Whenever Kaia channels the Mummy Queen, their
+it. Kaia channels the Dust Queen and instills such free into the scenders that
+they all run off a cliff. Whenever Kaia channels the Dust Queen, their
 connection becomes stronger and her visions become more intense. Ryn calls
 mimic sharks and Kaia watches the sharks eat the scenders. The prospect of
 repeatedly fighting the scenders and the intensification of the visions force
@@ -519,7 +522,7 @@ to rescue Lita (rescue her from where?). She needed some kind of leverage over
 Fera (but could she do? Fera seems to be in complete control). With Kaia's
 deteriorating mental state, she felt trapped and helpless. What if she never
 sees Sata again? What if the visions consume her? Her son scares her when he
-says the he has three mommies, one on Earth (Kaia), one on Mars (the Mummy
+says the he has three mommies, one on Earth (Kaia), one on Mars (the Dust
 Queen), and one in the scenderverse (Ursa). That he has two daddies, one in the
 scenderverse (Zok) and the other one on Mars (Zek). He feels very lucky to have
 so many parents. Her son explains that the dreams are coming from Mars, and
@@ -566,7 +569,7 @@ space with the Mungs and the space prisoners. Fera plans to retake Earth while
 repelling the Martian invasion. The Thelusians are very good at building and
 fighting in space. Fera has to rely on the space expertise of Mungs and the
 space prisoners. Eiva and her daughter escape to space to be with Fera. Kaia
-and her son turn into villains (the second Mummy Queen and the Shade Prince)
+and her son turn into villains (the second Dust Queen and the Shade Prince)
 and attack Earth while the sinistrae fight against the new mimics. The
 sinistrae must fight a war on two fronts. The dextrae firepower on Earth is
 formidable and the Thelusians are experts in using dextrae for space warfare.
@@ -623,9 +626,9 @@ stars wondering what she should do about the baby and what will happen when her
 husband finds her. He seems like he cares about her a great deal, but he will
 probably want to kill all of the new mimic children she is protecting.
 
-How are Sata and Kaia reunited? The Mummy Queen says she will help Kaia get
-Sata back, but Kaia must stop resisting the Mummy Queen. Desperate to be with
-Sata again, Kaia agrees. She feels the Mummy Queen guiding her. The Mummy Queen
+How are Sata and Kaia reunited? The Dust Queen says she will help Kaia get
+Sata back, but Kaia must stop resisting the Dust Queen. Desperate to be with
+Sata again, Kaia agrees. She feels the Dust Queen guiding her. The Dust Queen
 guides her to the ruins of a library (Biblioteka Jagiellonska?). There she
 meets Granny, an elderly woman who gives her a few books: UNO: the Complete
 Reference, Historia Martis, and a sudoku puzzle book. "How do you know these
@@ -634,45 +637,48 @@ Mars?" "At this point, I live on Mars and sometimes have dreams of Earth." "Do
 I need to read these books?" "You can if you wish, but I believe it will not be
 necessary." When Fera visits, Fera takes interest in Historia Martis, she
 starts reading and cannot put the book down, looking for clues to defeat the
-Mummy Queen. "You can go now Mommy, I will keep her here. Mars Mommy is helping
+Dust Queen. "You can go now Mommy, I will keep her here. Mars Mommy is helping
 me." With Fera distracted Kaia leaves her son with Fera, Iona, and Ryn. She
-enters the silo and finds the AI. The Mummy Queen tells her to give the sudoku
+enters the silo and finds the AI. The Dust Queen tells her to give the sudoku
 book to the AI. I brought you a puzzle book. What kind of puzzles? Sudoku.
-Please provided username and password. The Mummy Queen whispered in Kaia's ear.
-Guess the password? Welcome user guest. Command ku not found. Please try again
-with another command. I want to find Sata. User Satalitastra Azymuta is stored
-in my memory banks. Release Sata into the scenderverse. Should I move or copy?
-Copy. Now Kaia needs to make a deal with Ben and Edl to print Sata out. She
-says that she will allow them to scend her if they print out Sata. They agree
-but only if Kaia is already scended. The Mummy Queen tells her to accept. They
-inject her with dextrae nanotech, shave her head, and remove the top of her
-skull, and cover the dura with a nanotech gel, and prepare to dissect her
-brain. Tendrils extend from the machine and cover every inch of brain. The
-Mummy Queen enters their system through the tendrils and takes control,
-releasing Kaia's restraints, and replacing the top of her skull, stapling it in
-place. Kaia realizes that the Mummy Queen was using her to enter the
-scenderverse and gain control of the dextrae systems. The Mummy Queen begins to
-replicate in the scenderverse and terrorize the people there. Kaia prints out
-Sata. They are reunited. They go back for Kaia's son. When they arrive, the
-Mummy Queen springs from the book Fera is still reading and starts strangling
-her. Kaia's son had been slowly destroying Fera's sinistrae, so she was not
-shielded against the Mummy Queen's attack. Kaia tries to save Fera, but
-realizes that the only way to save her is to escape with her son. Without the
-presence of Kaia and her son, Fera would eventually recover. From Fera's
-perspective, it looks like Kaia and Sata showed up, Kaia used her powers to
-strangle Fera, and left her for dead while escaping with her son, Iona's head,
-and Sata. Fera recovers. She realizes that she no longer has any leverage over
-Kaia. Fera organizes a search party and chases after Kaia et al., because Kaia
-is integral to Fera's plan to invade Mars. Kaia is also the reason why Fera was
-never challenged by dextrae forces. The news spread quickly of Kaia's ability
-to destroy energy sources at will. If anyone learned that Kaia is no longer
-under Fera's control, the dextrae forces may attack starting a new dextrae -
-sinistrae war.
+Please provided username and password. The Dust Queen whispered in Kaia's ear.
+Guess the password? (the UNO AI is brought under control when Kaia tries to use
+a defective sudoku puzzle to cause it to glitch. the AI, "command ku not
+found", "Guess the password," a voice whispered "Guess the password?!" Kaia
+exclaimed, "Password accepted. Welcome guest," the AI responded). Welcome user
+guest. Command ku not found. Please try again with another command. I want to
+find Sata. User Satalitastra Azymuta is stored in my memory banks. Release Sata
+into the scenderverse. Should I move or copy? Copy. Now Kaia needs to make a
+deal with Ben and Edl to print Sata out. She says that she will allow them to
+scend her if they print out Sata. They agree but only if Kaia is already
+scended. The Dust Queen tells her to accept. They inject her with dextrae
+nanotech, shave her head, and remove the top of her skull, and cover the dura
+with a nanotech gel, and prepare to dissect her brain. Tendrils extend from the
+machine and cover every inch of brain. The Dust Queen enters their system
+through the tendrils and takes control, releasing Kaia's restraints, and
+replacing the top of her skull, stapling it in place. Kaia realizes that the
+Dust Queen was using her to enter the scenderverse and gain control of the
+dextrae systems. The Dust Queen begins to replicate in the scenderverse and
+terrorize the people there. Kaia prints out Sata. They are reunited. They go
+back for Kaia's son. When they arrive, the Dust Queen springs from the book
+Fera is still reading and starts strangling her. Kaia's son had been slowly
+destroying Fera's sinistrae, so she was not shielded against the Dust Queen's
+attack. Kaia tries to save Fera, but realizes that the only way to save her is
+to escape with her son. Without the presence of Kaia and her son, Fera would
+eventually recover. From Fera's perspective, it looks like Kaia and Sata showed
+up, Kaia used her powers to strangle Fera, and left her for dead while escaping
+with her son, Iona's head, and Sata. Fera recovers. She realizes that she no
+longer has any leverage over Kaia. Fera organizes a search party and chases
+after Kaia et al., because Kaia is integral to Fera's plan to invade Mars. Kaia
+is also the reason why Fera was never challenged by dextrae forces. The news
+spread quickly of Kaia's ability to destroy energy sources at will. If anyone
+learned that Kaia is no longer under Fera's control, the dextrae forces may
+attack starting a new dextrae - sinistrae war.
 
 What happens after Kaia's escape (above) but before the invasion of Mars?
 ...
 
-The Mummy Queen stays quiet in the scenderverse and waits for the invasion of
+The Dust Queen stays quiet in the scenderverse and waits for the invasion of
 Mars.
 
 How does this affect Ryn's plan?
@@ -680,7 +686,7 @@ How does this affect Ryn's plan?
 Ryn enacts his plan quietly. Printing out mimic invaders masquerading as
 humans.
 
-When the invasion of Mars begins the Mummy Queen starts printing Thelusians
+When the invasion of Mars begins the Dust Queen starts printing Thelusians
 from the scenderverse.
 
 The Thelusians start killing everyone indiscriminately.
@@ -718,7 +724,7 @@ by Earth's orbital defenses.
 Fera gives up Eiva's daughter to Kaia's son in exchange for an armistice with
 the Thelusians. In reality the Thelusians are bluffing and they do not have the
 means to challenge Earth's military in space, that is why the Shade Prince can
-convince the Mummy Queen to accept a truce in exchange for Eiva's daughter. Fera
+convince the Dust Queen to accept a truce in exchange for Eiva's daughter. Fera
 sets up a new base of operations in space. She trains in extreme G. Fera
 contacts Ryn to make a deal with the new mimics. Fera tells the new mimics that
 they have to destroy Earth's orbital defenses so that Fera can bring Earth's
@@ -749,24 +755,24 @@ She cannot bring herself to reject or harm her mimic child.
 
 ...
 
-Zek and Zok worship the Mummy Queen and serve her biding. The birth of Kaia's
-son and the invasion of Mars was part of the Mummy Queen's plan. Was Pyr
+Zek and Zok worship the Dust Queen and serve her biding. The birth of Kaia's
+son and the invasion of Mars was part of the Dust Queen's plan. Was Pyr
 bullying Kaia also part of the plan? Zek and Zok have been building relay
-stations all over the planet with copies of the Mummy Queen inside. This allows
-the Mummy Queen to have instant access to Kaia at all times. Sata decides to
-join the Mummy Queen, just to be with Kaia. Sata becomes the Mummy Queens
-all-seeing eye and allows the Mummy Queen to possess and control dextrae users.
-The all-seeing greatly amplifies the Mummy Queen's power. Kaia and Sata remain
+stations all over the planet with copies of the Dust Queen inside. This allows
+the Dust Queen to have instant access to Kaia at all times. Sata decides to
+join the Dust Queen, just to be with Kaia. Sata becomes the Dust Queens
+all-seeing eye and allows the Dust Queen to possess and control dextrae users.
+The all-seeing greatly amplifies the Dust Queen's power. Kaia and Sata remain
 in love despite being undead and evil.
 
 Sata must be reunited before Kaia goes to Mars, so Sata can see Kaia becoming
-the Mummy Queen. Fera invades Mars, but realizes it is a trap. Kaia uses her
-powers to destroy Thelusians but by channeling the The Mummy Queen she goes
-insane and joins the The Mummy Queen. The Mummy Queen also eventually corrupts
+the Dust Queen. Fera invades Mars, but realizes it is a trap. Kaia uses her
+powers to destroy Thelusians but by channeling the The Dust Queen she goes
+insane and joins the The Dust Queen. The Dust Queen also eventually corrupts
 Kaia's son. He recognizes her as his mother. On Mars, Kaia goes insane and
-becomes the Mummy Princess. The mistake that everyone made was assuming that
+becomes the Dust Princess. The mistake that everyone made was assuming that
 the power that Kaia wielded was coming from Kaia. Whenever Kaia channeled the
-Mummy Queen's power she lost a little bit of herself. The Echo dreams had been
+Dust Queen's power she lost a little bit of herself. The Echo dreams had been
 conditioning Kaia for this moment her whole life. Together with her son and
 older self, Kaia repels the sinistrae invasion, which already have started to
 pull back to save Earth, (home court advantage) and creates an new army of
@@ -774,18 +780,18 @@ sinistrae and dextrae Thelusians. Zek and Zok see this is a realization of
 their plan. Ursa wants to stay with her son. Iona joins them as she sees it as
 a chance for the Thelusian civilization to regain its dominance of space. Mars
 and Earth prepare for interplanetary war. Without Kaia and her son, the
-sinistrae are no match for dextrae firepower and have to retreat. The Mummy
+sinistrae are no match for dextrae firepower and have to retreat. The Dust
 Queens plan to spread their power to Earth and since the sinistrae do not have
 the firepower to stop them, they launch an invasion immediately. Eiva's
 daughter tries to convince Kaia's son to broker peace, but he says that they
 will have peace Earth is conquered. He says that he wants to rule both planets
 with Eiva's daughter at his side as his queen. Sata tries to convince Kaia to
 come back to her, but Kaia is consumed to the point that Sata cannot tell which
-of the two Mummy Queens are her Kaia. The invasion is a success. As part of the
+of the two Dust Queens are her Kaia. The invasion is a success. As part of the
 surrender agreement, Eiva's daughter marries Kaia's son and they will rule both
 planets as the bone princess and the shadow prince. The Thelusian civilization
 is rebuilt with Iona as its Queen. The Thelusians enslave the Mungs and space
-prisoners. Zek and Zok marry the Mummy Queens and become the Mummy Kings.
+prisoners. Zek and Zok marry the Dust Queens and become the Dust Kings.
 Eiva's daughter is pregnant. Kaia's son is happy to have an heir to the throne,
 even though he believes that his reign will be eternal. Sata, Fera, and Eiva
 are confined in the bone palace (a palace built from the bones of Fera's
@@ -881,7 +887,7 @@ polyamorous. Zek fixes Iona when she needs repair and tries to make sure she is
 comfortable. Zok tries to keep Ursa entertained. Zok is more muscular and
 better looking than Zek while Zek is more nerdy and tech savvy. Kaia meets Zek
 and Zok (the twins as Lan introduces them) on the airship. The airship crashes
-because Kaia has a dream about the Mummy Queen destroying the fuel cell, which
+because Kaia has a dream about the Dust Queen destroying the fuel cell, which
 results in the fuel cell actually exploding in real life. Zek and Zok are
 responsible for the Echo dreams that Kaia experiences. They are secretly amazed
 by Kaia's ability to destroy fuel cells and decide to encourage her to develop
@@ -951,7 +957,7 @@ Is Sata a sinistrae at this point? I think she shouldn't be.
       - Kaia freezes Iona with her dextrae powers and begs Fera not to kill Iona after the massive battle in the chapter called "Nothing interesting happens"
       - After fake Sata kills Ursa and Zek, Kaia does not want to see any other friends die.
       - Fera rips off Iona's head, but promises to reattach it after things settle down
-    - Fighting Iona is a sneak preview of fighting the mummy queen and the insane Thelusians on Mars
+    - Fighting Iona is a sneak preview of fighting the Dust Queen and the insane Thelusians on Mars
 - Ursa:
   - Strong
   - Energy wielder
@@ -1322,7 +1328,7 @@ before I died and I didn't even have a body in the scenderverse, much less a lov
 No one can carry a cellphone because during the war cellphone's could be caused
 to detonate spontaneously. Kaia later learns to detonate anything with a fuel
 cell, e.g. powerskates, powergloves, energy weapons, airships, etc. Kaia has a
-dream that she is the mummy queen crawling through the airship. She finds the
+dream that she is the Dust Queen crawling through the airship. She finds the
 airship fuel cells and destroys them. When Kaia wakes up the fuel cells have
 actually been destroyed. The airship crashes into Zakrzówek quarry lake.
 
@@ -1514,8 +1520,8 @@ The main character in modern times has the same powers as Kaia but her world is
 not saturated with dextrae so her powers seem more limited. For example, she
 has to touch a firearm to coat it with dextrae before it can explode.
 
-The Mummy Queen character comes to life and takes over the AI. The AI hid clues in
-the book to try to help the main character defeat the Mummy Queen.
+The Dust Queen character comes to life and takes over the AI. The AI hid clues in
+the book to try to help the main character defeat the Dust Queen.
 
 ## Old outline
 
@@ -1662,7 +1668,7 @@ Lost civilizations:
 With peoplePrinters to print out cult members, relay stations to soulsweep
 anyone sensitive, and gestation pods to produce clones of Zek. The
 peoplePrinters would print out copies of cultists, like Ursa, while the relay
-stations would soulsweep people to bring them under the influence of the Mummy
+stations would soulsweep people to bring them under the influence of the Dust
 Queen.
 
 Scenders consider Ursa and Zok to be abominations. Zok and Ursa are some of
@@ -1677,16 +1683,16 @@ scenderverse every time, hoping she would learn her lesson, but she kept trying
 until she met Zok. Together, the two started to worship the long dead Martian
 civilization and its undead leader. Zek and Iona are also part of the cult. I
 thought you might have been able to catch on since Iona is Thelusian and the
-Mummy Queen controls all Thelusians. The four of them have been doing the Mummy
+Dust Queen controls all Thelusians. The four of them have been doing the Dust
 Queen's bidding on Earth for centuries. They built hidden relay stations and
 soulsweep people who are sensitive to dextrae, like you are, so that they
 eventually join the cult. Zek has overwritten countless minds with his own.
-They are trying to overwrite your mind with the memories of the Mummy Queen. We
+They are trying to overwrite your mind with the memories of the Dust Queen. We
 want to preserve your brain the way it is, before they turn you into a puppet
-for the Mummy Queen. Ryn has been feeding information about you to us in
+for the Dust Queen. Ryn has been feeding information about you to us in
 exchange for access to technology. He thinks he can save mimickind with his
 research. Kaia cries knowing that her friends except Sata have all lied to her.
-Lan and Aira are dead. Ursa was originally a man and is now part of the Mummy
+Lan and Aira are dead. Ursa was originally a man and is now part of the Dust
 Queen cult with Zek, Iona, and Zok.
 
 Ursa created her own peoplePrinters, so she could come back and have a baby.
@@ -1707,5 +1713,14 @@ a patrol and are forced to land, aim for a tree and wait for the patrol to
 pass. Do not touch down on any-man made structure near a patrol or you will be
 killed on sight.
 
+- Kaia meets Ben and Edl. They tell her that Fera died in the explosion. This puts a strain on Kaia's relationship with Sata.
+- Aira and Taz get married in Wieliczka
+- After Kaia sees that Aira and Lan are dead, she has a vision but the octopus saves her again and guides her to hiding scientist. The scientist takes Kaia to see the octopus and explains that it originated from the cosmic message that also brought the mimics to Earth. The octopus saves Sata after Fera stabs her, by taking blood from Kaia and attaching to Sata's wound. Later, Ben has the scientist explain that the octopus commanded that Aira and Lan be captured to lure Kaia to the facility. Kaia feels betrayed by the octopus.
+- The theater group puts on a play. Ursa agrees to let Aira play the lead role. The play is about the origins of the Dust Queen. Aira feels fulfilled and cries when she gets a standing ovation with Taz front and center. Iona cries as she thanks everyone for their hard work. Iona says that there is someone who would like to take the stage for something very important. Taz gets up on stage and proposes to Aira. She accepts with tears in her eyes. "Is it OK to be this happy?"
+- Everyone plays bugBall, Ryn explains that the bugs are also from the cosmic message.
+- Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
+- The octopus becomes symbiotically linked to Kaia. She goes to the ocean and gets into the water. The octopus releases its spawn.
+
+- 
 Book 3:
-The third book starts with a surprise attack by the invading mimic forces. Earth, Mars, and the Thelusians are brought to their knees. The mimics begin to take control. Characters previously oppressed by the rulers of Earth and Mars are now forced to fight the mimics in addition to fighting to survive. New ethnicities have formed since the ending of the 2nd book. Ryn awakes and welcomes the invading forces, but they reject him because he is a weakling. The messages were only partially decoded by Earth's scientists and the invading mimics see Ryn as a flaw. Ryn decides to fight back against the mimic invasion. He hides the fact that he knew about the invasion from the other members of the resistance. The new mimics keep humans and old mimics alive to study how they have adapted to life on Earth. It turns out the old mimics adapted to be symbiotic humans while the new mimics are parasitic. New mimics can impregnate human men and women. Human men typically die after giving birth to a mimic baby, while human women typically survive the birth. Old mimics can only become pregnant themselves after interacting with humans. As the invading mimics adapt, it becomes difficult to say who is human, new mimic, and old mimic. Part of humanity escapes into space away from the mimic invaders. The new mimics rule over and oppress the humans and the old mimics. The humans and old mimics form an alliance against the new mimic oppressors. A new hero arises who gains the ability to fight back after she masters an ancient AI (the UNO AI is brought under control when the hero says tries to use a defective sudoku puzzle to destroy the AI, "command ku not found", "I guessed wrong", "Welcome guest wrong"). She is able to understand the thoughts of new mimics, old mimics, and humans. She teaches humans about the mimic hivemind. She uses her powers to destroy the new mimic power structure, killing off most of the people. The AI informs her that she made a mistake and the setback to technological progress could be disastrous. If the infighting and the setbacks to technological progress continue then humanity and mimicity will be unprepared for when Earth will be consumed by the Sun. The hero tries to organize the survivors, humans, new mimics, and old mimics alike, to work together to prepare for the Sun's expansion. The hero decides that the only way to ensure stability is install herself as the new ruler of Earth and Mars. The AI agrees and helps the hero to take over. The hero starts crushing those who defied her and rules over Mars and Earth with a iron fist calling herself the All Queen. She begins to transmit signals similar to those coming from the distant mimic civilizations, intending to destroy nascent mimic civilizations, and create more of her own civilizations throughout the universe. She makes plans to move first Earth and then Mars to escape the Sun's expansion. The All Queen sends out colony ships in all directions planning to conquer nearby worlds when Andromeda collides with the Milky Way and rule over all of Milkomeda.
+The third book starts with a surprise attack by the invading mimic forces. Earth, Mars, and the Thelusians are brought to their knees. The mimics begin to take control. Characters previously oppressed by the rulers of Earth and Mars are now forced to fight the mimics in addition to fighting to survive. New ethnicities have formed since the ending of the 2nd book. Ryn awakes and welcomes the invading forces, but they reject him because he is a weakling. The messages were only partially decoded by Earth's scientists and the invading mimics see Ryn as a flaw. Ryn decides to fight back against the mimic invasion. He hides the fact that he knew about the invasion from the other members of the resistance. The new mimics keep humans and old mimics alive to study how they have adapted to life on Earth. It turns out the old mimics adapted to be symbiotic humans while the new mimics are parasitic. New mimics can impregnate human men and women. Human men typically die after giving birth to a mimic baby, while human women typically survive the birth. Old mimics can only become pregnant themselves after interacting with humans. As the invading mimics adapt, it becomes difficult to say who is human, new mimic, and old mimic. Part of humanity escapes into space away from the mimic invaders. The new mimics rule over and oppress the humans and the old mimics. The humans and old mimics form an alliance against the new mimic oppressors. A new hero arises who gains the ability to fight back after she masters an ancient AI (the UNO AI is brought under control when the hero says tries to use a defective sudoku puzzle to destroy the AI, "command ku not found", "Guess the password," a voice whispered "Guess the password?!" Kaia exclaimed, "Password accepted. Welcome guest," the AI responded). She is able to understand the thoughts of new mimics, old mimics, and humans. She teaches humans about the mimic hivemind. She uses her powers to destroy the new mimic power structure, killing off most of the people. The AI informs her that she made a mistake and the setback to technological progress could be disastrous. If the infighting and the setbacks to technological progress continue then humanity and mimicity will be unprepared for when Earth will be consumed by the Sun. The hero tries to organize the survivors, humans, new mimics, and old mimics alike, to work together to prepare for the Sun's expansion. The hero decides that the only way to ensure stability is install herself as the new ruler of Earth and Mars. The AI agrees and helps the hero to take over. The hero starts crushing those who defied her and rules over Mars and Earth with a iron fist calling herself the All Queen. She begins to transmit signals similar to those coming from the distant mimic civilizations, intending to destroy nascent mimic civilizations, and create more of her own civilizations throughout the universe. She makes plans to move first Earth and then Mars to escape the Sun's expansion. The All Queen sends out colony ships in all directions planning to conquer nearby worlds when Andromeda collides with the Milky Way and rule over all of Milkomeda.

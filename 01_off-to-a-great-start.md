@@ -925,27 +925,27 @@ This is how she would remain forever. In a perpetual cycle of death and
 waiting, Kaia would protect the memory of her lost civilization from each new
 crop of fools who sought to strike gold on the red planet.
 
-Disturbed by an unfamiliar sensation on her forehead, the mummy queen let out
+Disturbed by an unfamiliar sensation on her forehead, the Dust Queen let out
 her anger in a roar that shook the ground. After probing her face with an
 tendril-covered hand, was stunned to see that her fingers were moist. Without
-even a drop of blood in her for eons, the Mummy Queen was dessicated to the
+even a drop of blood in her for eons, the Dust Queen was dessicated to the
 core. Where had the moisture come from? Tiny drops of water were falling down
-on the Mummy Queen's face wherever she went. How could there be rain on Mars?
+on the Dust Queen's face wherever she went. How could there be rain on Mars?
 She looked up and saw the constellations rearranging into a face that filled
-the heavens. The Mummy Queen recognized the face in the stars. It was Sata. The
+the heavens. The Dust Queen recognized the face in the stars. It was Sata. The
 raindrops were coming from her eyes.
 
 "Come back to me, please.", the sky whispered. It was no use. There was nothing
-left of Kaia. The mummy queen was not going to spring back to life from a few
+left of Kaia. The Dust Queen was not going to spring back to life from a few
 drops of water! The sky sighed and began to squeeze the horizons until the land
-where the mummy queen stood disappeared completely and the mummy queen was left
+where the Dust Queen stood disappeared completely and the Dust Queen was left
 floating in the void. The constellations warped and stretched until they
 gathered into a single brilliant ball of light. The ball of light grew arms,
 legs, and a head, taking the form of Sata. Sata reached her hand out to the
-mummy queen and the tendrils began to break apart, revealing the dried out
+Dust Queen and the tendrils began to break apart, revealing the dried out
 cadaver underneath.
 
-"Kaia," Sata said. "Yes," the Mummy Queen thought, "that was once my name. In
+"Kaia," Sata said. "Yes," the Dust Queen thought, "that was once my name. In
 a past life? Or a future one?"
 
 The light began to burn away her parched skin and brittle bones. Beneath it

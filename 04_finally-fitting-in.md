@@ -1,5 +1,50 @@
 ## Chapter 4: Finally fitting in
 
+A new airship nears.
+
+Ben flies down from the airship carried by robotic birds (carrierCrows?). In
+the darkness, it appears that he is levitating on his own at first.
+
+Edl jumps into the water.
+
+Ben and Edl join everyone by the campfire.
+
+"We received your distress signal and changed course right away, but we
+couldn't arrive until your airship had safely crashed in the lake."
+
+There's a rivalry between the maker interest group (MIG) and the theater
+interest group (TIG). The theater group makes fun of the makers for not having
+any members. Ben says that they had as many as four members, but now they are
+down to three and perhaps even two. Aira is upset to hear that Ryn is still
+unaccounted for. Kaia is devastated to find out that Fera was on the ground and
+that her signal disappeared as she was trying to leave the city. She feels
+angry at Sata and doesn't take any pleasure in being vindicated. Sata looks
+very sorry, but doesn't know what to say to Kaia.
+
+Kaia says she is upset that they have to leave so soon.
+
+Ben explains that airship will not land but it can lift everyone up by a cable.
+Zek and Zok start horsing around and the cables get tangled and everyone is
+packed together in a mess. Ben flies up first and then helps everyone untangle.
+Sata and Kaia are happy to be near each other in the bundle. Sata makes jokes.
+Zek gets pressed up against Taz and Aira?
+
+
+"We can't just leave all of this wonderful food and drink!" Lan lamented.
+"Some it has burned. Some it is flooded. Any glass containers are probably broken," Iona said.
+"We can dive in and check!" Lan implored.
+"A team will arrive to investigate the crash. They will collect the cargo as evidence," Taz explained.
+"Maybe we can wait here for them to arrive?"
+Zek nodded to Zok and Iona touched his shoulder gently. Zok approached Lan.
+"No, I won't go! You can't make me!"
+
+
+Zok picked up and carried him to the newly arrived airship on his shoulder.
+On the military airship, Lan complains about the quality of the food and drink.
+Everyone sits together except Taz, who is on duty.
+C
+C
+
 Lan is upset to leave all of the supplies behind,
 especially the food. Officer Kransal arranges for a smaller airship to the
 refugee camp where all the other students are to meet. A refugee camp school is
