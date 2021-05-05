@@ -850,10 +850,10 @@ hands to keep her from tumbling backwards.
 
 "Spy training?"
 
-"It's something I was born with. Do you feel less cold now?"
+"It's something I was born with, but I had to train to control it. Do you feel less cold now?"
 
-"Yes, that's amazing. You knocked me back and then caught me. How can you move
-so fast?"
+"Yes, that's amazing. You have superpowers! You knocked me back and then caught
+me before I fell. How can you move so fast?"
 
 "Another thing I was born with. Now get up off of our clothes. They're going to
 get all wrinkly."
@@ -943,10 +943,73 @@ longer than I can remember. If you want to say something to me, just say it."
 up, and I can't say anything right."
 
 "You don't need worry about saying it right. You also don't need to say it
-right away. Let's sit down and wait for the crash together."
+right now. Let's sit down and wait for the crash together."
 
-Sata pulled Kaia by the hand to a large rock that could easily accommodate both of them.
+Sata pulled Kaia by the hand to a rock that was large enough for both of them.
 
 "It's a beautiful view," Sata said breaking the silence.
 
-"You got that right," Kaia said looking at Sata.
+"You got that right," Kaia said looking at Sata. Sata cracked a smile. Kaia did
+not saying anything else. The silence felt right. The falling airship became
+visible in the sky. It emitted a low moan as it fell, like an animal dying in
+pain. Kaia reached out and took Sata's hand. Sata looked at Kaia. She was
+surprised but did not withdraw her hand. Kaia leaned in towards Sata.
+
+"You're going to miss it." Sata said, not looking away from Kaia.
+
+When the airship hit the water, Kaia lunged forward, grabbing Sata by the
+collar of her jumpsuit and pulling her into a kiss that shook the world. Sata
+opened her eyes in surprise but then closed them as she melted into the kiss.
+The airship cracked in half and exploded.
+
+A thin spray of water splashed them right before a deluge of hot air knocked
+them flat on their backs onto the rock. With their heads and arms hanging
+upside-down behind the rock, Kaia and Sata gazed into each other's eyes. Sata
+reached out and touched the side of Kaia's face. Kaia closed her eyes and
+rubbed her check into Sata's hand.
+
+"Is that what you wanted to tell me?"
+
+Kaia nodded.
+
+Sata cupped Kaia's face with her hands, touched her forehead to Kaia's, rubbed
+Kaia's nose with her own, and finally kissed her gently on her open, waiting
+lips. Kaia moaned. She felt hot and cold at the same time. The rock was
+merciless against her spine. Her whole body tingled and the blood rushed to her
+head.
+
+Their first kiss had been a explosion of energy that been building up for a
+long. Over in an instant, that first kiss was so powerful that the aftershocks
+still reverberated throughout their bodies. In contrast to the first, their
+second kiss was mix of opposing stimuli like the fiery wreckage of the
+airship in cool waters of the lake. Kaia and Sata were enveloped in burning
+cold and freezing hot, oxymoronic sensations they could not have imagined.
+
+"Did we die? Are we in heaven?"
+
+"I don't so. Otherwise, this rock would be a cloud."
+
+"Yeah, my back is killing me."
+
+"Do you want to try to get up?"
+
+Kaia and Sata helped each other up. Once they were upright, they got dizzy as
+the blood rushed from their heads. They held onto each other, initially to
+protect against the dizziness, but maintained their embrace even after the
+vertigo subsided.
+
+Kaia thought about telling Sata about becoming spit sisters with Ursa and
+falling from the cliff in Ursa's arms, but all of that seemed insignificant and
+irrelevant now. Even Ursa's superpowers, felt unimportant compared to what had
+just happened between Sata and Kaia. Sata was remarkable quiet and peaceful, no
+lewd jokes, no wry remarks, no prying questions.
+
+Released from the pressure to explain how she felt, Kaia curled up in Sata's
+embrace and watched the smoldering fire in the center of the lake. The light
+from the burning remains of the airship became more pronounced as the sun set
+behind the trees. As the yellow and orange of sun disappeared, the red and blue
+of the sky mixed to make purple and pink, complementing the green of trees to
+complete the rainbow. For now, nothing else needed to be said or done. Kaia
+felt complete and at peace. She was happy to spend an eternity looking at the
+breathtaking landscape and watching the myriad colors illuminate Sata's smiling
+face.

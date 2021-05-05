@@ -77,7 +77,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 
 - [x] 01: Off to a great start
 - [x] 02: A productive first day
-- [ ] 03: A beautiful view
+- [x] 03: A beautiful view
 - [ ] 04: Finally fitting in
 - [ ] 05: Never looked better
 - [ ] 06: A great way to make friends
