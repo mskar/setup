@@ -1,5 +1,19 @@
 ## Chapter 4: Finally fitting in
 
+"Is that a person flying?"
+
+"Flying might not be the right word. I'd say 'falling in slow motion'?"
+
+"What about 'levitating'?"
+
+As Kaia and Sata were trying to agree on the correct term to describe the person slowly descending down to the ground, and person fell like a rock out of the sky and into the water.
+
+"Did you see that?"
+
+"Yeah, I'd call that 'falling in fast motion'."
+
+"Come on, let's go see find the others and figure out what's going on."
+
 A new airship nears.
 
 Ben flies down from the airship carried by robotic birds (carrierCrows?). In
