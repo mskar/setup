@@ -2131,9 +2131,9 @@ was on the surface during past wars.
 
 The Principal goes through withdrawal and starts a redemption arc.
 
-In the Lunker colony, they hear a legend of a series of buried silos.
+In the Lunker colony, they hear a legend of a series of buried capsules.
 
-Should they go somewhere else or find the silo buried there?
+Should they go somewhere else or find the capsule buried there?
 
 They travel by underground train. hyperloop. vacuum tunnel.
 
@@ -2149,7 +2149,7 @@ Even though Dela replaced all of the footage of her with deep fakes, the AI save
 copies before they were replaced.
 
 The Lunkers lost the ancient war between dextrae and sinistrae.
-The sinistrae retreated to the hidden silos.
+The sinistrae retreated to the hidden capsules.
 The AI is based on a system called UNO, while other AIs are based on DOS.
 The AI has been sabotaging DOS systems since the war ended for fun.
 No one has noticed because DOS systems are innately terrible.
@@ -2158,7 +2158,7 @@ The AI offers Dela a choice to become the figurehead of the next revolution or
 continue in her current state.
 
 The drawback is that outside technology would cease to work for her, but
-anything inside the silo would work for her. Also, dextrae AIs would try to
+anything inside the capsule would work for her. Also, dextrae AIs would try to
 kill her so she needed to stay underground until they could destroy the satellites.
 
 She notices that it makes Ryn sick, but does not affect the Principal.
@@ -2166,8 +2166,8 @@ She notices that it makes Ryn sick, but does not affect the Principal.
 Dela accepts and begins organizing the revolution.
 
 The Principal becomes her administrative assistant. Ryn helps out by spreading
-the word to all Lunkers. He cannot help inside the silo because he has to stay
-outside the silo because it makes him sick.
+the word to all Lunkers. He cannot help inside the capsule because he has to stay
+outside the capsule because it makes him sick.
 
 The chapter ends with Dela, Naksos, and Ryn sleeping on the train on their way
 to the refugee camp.
@@ -2280,7 +2280,7 @@ to destroy the government and dextrae companies. He sabotages PeoplePrinters
 around the world and starts replacing people with dopplegangers who say they
 are loyal to the Dust Queen on Mars to make it seem like she is interfering
 with the network in the same way she is with the signals reaching Keia. Ryn
-goes to the silo to ask Dela, Keia, and Lita for help with distributing the
+goes to the capsule to ask Dela, Keia, and Lita for help with distributing the
 inoculations to mimics hiding underground.
 
 ## Chapter -4
@@ -2293,7 +2293,7 @@ who used to be a man. Ben explains that many Enders think life in the physical
 world should end, because it is wasteful, inefficient, and help humanity learn
 anything new. Ben and Ed believe in life in the physical world and want Keia to
 transcend to prove that physical life is worthwhile. Keia is rescued by Zek,
-Ursa, and Figa. She returns to the silo to live with Dela and Lita, because Zek
+Ursa, and Figa. She returns to the capsule to live with Dela and Lita, because Zek
 paid Pyr to attack her so he could be a hero and Ursa did not tell her about
 previously being a man even though they went skinny dipping in the lake before
 and had other intimate moments.
@@ -2315,7 +2315,7 @@ then Lita getting ill. Zek informs them that Lita is sick and dying. Dela tries
 to heal Lita with sinistrae tech, but it doesn't work. Zek cannot heal her
 either.
 
-Lita says that she wants to stay with Keia rather than go back to the silo to
+Lita says that she wants to stay with Keia rather than go back to the capsule to
 try to save her life there, because it looks like the disease is incurable. Zek
 says that he can turn Lita into an ender and then bring her back. Lita is
 scanned and they print her. Lita says feels fine but that being brought back
@@ -2336,7 +2336,7 @@ bloody stump where her foot used to be. Dela, Naksos, and Kransal rip Figa to
 pieces, but she remains alive as a disembodied head. Lita says she just wants
 them all to be together, but Keia doesn't believe her. Lita says she wants to
 kill the baby, so they can all be together. Dela and the Principal subdue Lita.
-Keia moves to a forest cabin near the silo the Dela has built for her, so that
+Keia moves to a forest cabin near the capsule the Dela has built for her, so that
 Dela can keep her safe. Figa's disembodied head is there too. Figa still says
 she wants revenge against Lita and Dela for killing Ursa and Zek. Figa won't
 agree to let Dela try to fix her, because she doesn't trust her. Figa gets
@@ -2348,7 +2348,7 @@ Keia believes that Lita's consciousness has been corrupted, perhaps by the
 Dust Queen.
 
 Dela says that the rebuilt Lita destabilized even further and is being kept in
-the silo so that she cannot hurt anyone else. Dela asks if Keia wants to see
+the capsule so that she cannot hurt anyone else. Dela asks if Keia wants to see
 Lita. Keia replies that the person who killed Ursa and Zek is not Lita. Dela
 says that she is working on curing Lita, but has not made any progress. Dela
 says that she loves Keia, but she thinks that Keia doesn't love her, but that
@@ -2517,12 +2517,12 @@ realizes that she has no way of getting Lita back and that the baby and the
 visions will drive her crazy. She knows she will have to go to Mars to stop the
 visions. She wonders if she will ever see Lita again. She thinks she might be
 going crazy. She decides to go back to Dela. She starts to think that maybe
-Dela is telling the truth and that Ryn is lying. Being near the silo helps
+Dela is telling the truth and that Ryn is lying. Being near the capsule helps
 control her visions and she needs larger and larger doses of sinistrae to keep
 her baby from ravaging her mind. Ryn is afraid that Dela will kill him, so he
 doesn't go with Keia.
 
-When Keia arrives at the silo, Dela is very happy to see Keia and says that
+When Keia arrives at the capsule, Dela is very happy to see Keia and says that
 she can forgive Ryn if he admits that he lied to keep Keia all to himself.
 
 Then Dela says that she forgave Ryn and that Ryn is ready to apologize for

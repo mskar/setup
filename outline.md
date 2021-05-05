@@ -106,7 +106,7 @@ from behind she imagines she is a bird flying off into the horizon.
 Kaia, Sata, and Aira leave the school, meet Lan and Taz, evacuate in an
 airship, crash by Zakrzówek lake, make camp, Kaia and Ursa bath and bond
 
-End: Kaia and Sata watch the airship wreckage together while holding hands. 
+End: Kaia and Sata watch the airship wreckage together while holding hands.
 
 - 04: Finally fitting in
 
@@ -132,6 +132,7 @@ stroking her hair and holding her hand.
 
 - 05: Never looked better:
 
+
 Fera and Ryn go to the druidicDryads to ask for help with Mel. They spend the
 night. Fera feels very cold. The druidicDryad do not use fire. She did not eat
 much of the food and now is hungry. Ryn hugs her to keep her warm. Fera
@@ -140,21 +141,164 @@ Lunker city. They meet Nil and Oil. Fera thinks the boat ride is a trap, but
 decides to go anyway. Nil and Oil act as tour guides. Fera enjoys the boat ride
 with Ryn, even though she does not want to admit it. The boat is pulled between
 the two sides of the lake by a rope. The water level drops until the boat is on
-the bottom of a ravine. A door opens. After going through the door, Ryn gets
-sick and his body abandons preparation for pregnancy causing him to bleed. Fera
-drags Ryn outside and then goes back in to look for help. She encounters an AI.
-The AI explains sinistrae and introduces Fera to Eiva, who immediately hit it
-off. Fera forgets about Ryn. Fera and Eiva climb out using the rope connected
-to the boat then use the rope to lift Ryn out. Fera is suprised that she can
-climb so well. She thinks Ryn is extremely light, but the truth is she has
-become extremely strong. The AI closes the lake to visitors and only gives Fera
-and Eiva access. On the train to the refugee camp, Fera is angered when Ryn
-continues to cry over losing the pregnancy and feeling sick in the presence of
-Fera and Eiva. Fera and Eiva move away from Ryn. They snuggle up together. What
-the hell is this romantic subplot bullshit? Fera says she feels weird sleeping
+the bottom of a ravine. A door opens. The air that rushes out seems to make Ryn
+sick. His body abandons preparation for pregnancy causing him to bleed from his
+crotch. His skin turned pitch black, his feet sprouted roots and membranes out
+under his arm and in between his legs and fingers. Fera drags Ryn away, but
+feels powerless to help him. Fera looked up. Climbing out of the pit would take
+a long time. She decided to go through the door. Whatever made Ryn sick came
+from inside there. Maybe there was some clue inside? Fera took a deep breath
+and drew an arrow. Holding her bow up with nocked arrow at ready, Fera passed
+through the door.
+
+...
+
+Once inside, Fera encounters the AI. The AI explains sinistrae and introduces
+Fera to Eiva. Eiva vomits out the stasis liquid and goes through a wash cycle
+like in Austin Powers. Eiva and Fera immediately hit it off. "Why do you talk
+so weird?" "I did not learn your language naturally. The AI remodeled the
+language center of my brain while I was in stasis. I have a terrible headache
+and I hate how stupid your language sounds." The AI asks Eiva if Fera is an
+acceptable candidate. Eiva says that Fera's abilities were demonstrated when
+she blew up the city, but she wants to test Fera herself. Eiva hands a pair of
+bone knives to Fera and tells her to defend herself. Fera is amazed at how fast
+Eiva is able to move. Eiva says that she feels like she is moving through
+molasses after being in stasis for so long. "What's molasses?" "Stop it, you're
+making me feel old." "You look pretty good for your age." Fera realizes that
+Eiva is aiming for her knife. "You're holding back." "Stop talking and fight."
+Fera throws both of her bone knives at Eiva and rushes Eiva with the wooden
+knives she has at her belt. Eiva deflect the thrown knives easily, but her feet
+slid on the dust on the floor. Eiva laughed. "You almost ran into my knives.
+Were you trying to get stabbed?" "I knew you were holding back and not at your
+best. You might have been able to stab me but I have two knives to your throat.
+Did I pass your little test?" "Yeah, you can get off me now." "What's the rush?
+I kinda like being on top of you." "Drop those the knives and we'll see how
+long you stay on top." Eiva said tossing her knives away. Fera did the same and
+looked at Eiva defiantly. "Bring it!" Eiva grabbed Fera's shirt, bridged, and
+rolled Fera off her with ease. Fera landed on her back and looked up at Eiva
+with admiration. "The view from the bottom is not bad either." Eiva laughed.
+"Can you teach me how to do that?" "Only if you dedicate yourself to leading
+the resurgence." "Why can't you lead?" "I know nothing about your time. My
+mission is prepare you to lead and then follow you." "So, you'll have to do
+anything I say." Fera asked putting her hands on Eiva's hips. Eiva laughed. She
+looked annoyed but did not move Fera's hands. "You'll have to earn the right to
+lead. I can train you, but once we start, you can't back out. If you try to go
+back to how your life was before, I'll have to kill you to preserve our
+secrets." Eiva said gripping Fera's shirt menacingly.
+
+"So you want me to overthrow the government? What are you going to put in its place?"
+
+"That's up to you. I know nothing of your time."
+
+"So after you train me, I get to call the shots."
+
+"Yes, you'll be in charge as long as you don't do anything to betray the cause."
+
+"All of this seems too good to be true. How do I know you are not trying to trick me?"
+
+"How do you feel?"
+
+"I feel good, but maybe its just that I like having you on top of me."
+
+Eiva laughed, got up off Fera, and helped her up. "Does it feel like this was
+meant to be? The AI selected you to lead the resurgence. You're the first
+candidate ever, after thousands of years. If you don't want to lead, you can go
+back to your life as it was and I'll go back to stasis. Is that what you want?"
+
+"No," Fera said.
+
+"Are you sure?" Eiva leaned in.
+
+"Yes, I am."
+
+"That's a relief. I'm glad you passed the test. If you hadn't agreed to lead, I
+would've had to kill you and try to figure out your world on my own."
+
+"You said I could back to my life."
+
+"The first lesson in your training is 'Don't believe everything you hear'. From
+the moment you found the capsule, you knew too much to go back to your previous
+life."
+
+"The first lesson is that I shouldn't trust anyone?"
+
+"No, think about what people are saying. Does it makes sense for me to just let
+you go and hop back in the stasis pod? Now that you found the capsule, others
+can too. If I let you go, you could lead them here. If I were in stasis, I
+would be defenseless. We have only one chance to bring about the resurgence and
+this is it."
+
+"One chance is all we'll need," Fera said narrowing her eyes and raising a
+clenched fist.
+
+"Good, the first mission is reconnaissance. Do you have any allies that could
+help us with the resurgence?"
+
+"Allies?" Fera remembered Ryn. "There's Ryn. He's outside. He's sick."
+
+"His body must be dependent on dextrae for survival."
+
+"What?"
+
+"I'll explain once we help your ally. Come on."
+
+
+"I will transfer command to you after you can best me in
+grappling, archery, and knife combat." "I already beat you in knife combat."
+Eiva laughed again. "Your training hasn't even started yet." "When do we
+start?" "First, we need to do some." Fera forgets about Ryn.
+Fera and Eiva climb out using the rope connected to the boat then use the rope
+to lift Ryn out. Fera is suprised that she can climb so well. She thinks Ryn is
+extremely light, but the truth is she has become extremely strong. The AI
+closes the lake to visitors and only gives Fera and Eiva access. On the train
+to the refugee camp, Fera is angered when Ryn continues to cry over losing the
+pregnancy and feeling sick in the presence of Fera and Eiva. Fera and Eiva move
+away from Ryn. They snuggle up together. Fera says she feels weird sleeping
 next to Eiva. Eiva tells her to shut up and enjoy it, which Fera does.
 
+"What the hell is this romantic subplot nonsense?"
+
+"Why do you say subplot? Our romance could be the main plot. The revolution has
+waited for thousands of years. It can wait a few more years while you show me
+around the modern world."
+
+"Can we do both? People are suffering. I want our lives to be a trashy 'Girls'
+Love' novel, but we need to make an impact."
+
+"I knew I picked the right person to lead the resurgence."
+
+"They're calling you the Bone Queen."
+
+"I don't like it. Have them call me something else."
+
+"Skeleton Queen?"
+
+"That's even worse."
+
+"What about Regina Ossa? It's Ancient Latin for Bone Queen."
+
+"That's better, but still not great."
+
+"Reine des os?"
+
+"I like how that sounds! That's Ancient French, right?"
+
+"We just called it French. It would be great if you could too. You're making me feel ancient."
+
+"Well, let's give it more of modern touch. Have everyone call me Ren Dezo on pain of death."
+
 - 06: A great way to make friends
+
+"Kaia! Who did this to you?"
+
+"Fera! You're alive!" Kaia began to cry. Hard.
+
+"What's with the waterworks?" Fera asked and waited for Kaia to calm down.
+
+"I saw you on the ground when we were taking off. I tried to get them to go
+back for you..."
+
+"Ah, that was your airship? No worries, it worked out in the end."
 
 Eiva, Fera, and Ryn arrive and visit Kaia in the hospital. Fera finds Pyr to
 take revenge, she tells him that his father is alive, but then breaks his
@@ -395,9 +539,9 @@ from the scenders.
 
 - 09: Home sweet home
 
-Fera and Eiva take Sata into the silo and infuse her with self-replicating
+Fera and Eiva take Sata into the capsule and infuse her with self-replicating
 sinistrae. Kaia is haunted by visions of the Dust Queen, but the visions
-subside when Kaia enters the silo. No one else can enter the silo because they
+subside when Kaia enters the capsule. No one else can enter the capsule because they
 are all dextrae based. Ursa and Ryn both start to have terrible abdominal
 cramps and begins to cry uncontrollably. Iona starts to glitch. Zok begins to
 wield energy and blows off both of his hands. The mimic warrior goes wild and
@@ -405,7 +549,7 @@ starts to lash and bite everyone randomly. Zek seems to go insane, loses
 control, and blinds everyone except Kaia, Sata, Eiva, and Fera. Zek's snakes
 writhe in pain. Kaia leaves the others because she is mostly concerned with
 Sata. Fera is unsure of why Kaia does not appear to have any negative reactions
-to sinistrae. Kaia stays in the silo with Sata. Sata is unconsious and Kaia has
+to sinistrae. Kaia stays in the capsule with Sata. Sata is unconsious and Kaia has
 the first dreamless sleep in her life. The others are left in the dark at the
 bottom of Lake Wessel. After they recover, they (Zek, Ursa, Ryn, and Iona) rush
 to get Zok to a Lunker hospital. They (Zek, Zok, Ursa, Ryn, and Iona) are
@@ -416,8 +560,8 @@ Eiva alive.
 - 10: Nothing interesting happens - Kaia takes sinistrae
 supplements to survive, while they dig themselves out. They are starving,
 because Fera hides food for Eiva who is revealed to be pregnant. They fill the
-silo with rubble as they dig their way out. The AI still has a connection to
-the internet and hires miners to dig through to the silo. Eiva gives birth and
+capsule with rubble as they dig their way out. The AI still has a connection to
+the internet and hires miners to dig through to the capsule. Eiva gives birth and
 Kaia is near death from starvation when the miners break through. Fera and Eiva
 start to organize an army to defeat the scenders. Kaia and Sata get ready to
 rescue Zek, Zok, Ursa, Ryn, and Iona from the scenders. Mel joins them with
@@ -436,7 +580,7 @@ to leave. Kaia bonds with the child while it is still in the womb. She forgets
 about Fera and Sata (Eiva stayed behind with the baby). Sata decides to stay
 with Kaia. Fera is furious with all of them but she calls her army back. Ryn
 stays. Even though Ryn still is in love with Fera, he knows she does not love
-him back and that he cannot go inside the silo. The baby starts to destroy the
+him back and that he cannot go inside the capsule. The baby starts to destroy the
 sinistrae in Sata and Kaia's systems. Sata starts to experience seizures again
 and Kaia's visions return much stronger than before. Fera visits them and
 starts bringing them sinistrae injections which they have to use more and more
@@ -472,7 +616,7 @@ happy to have a purpose and the conduit promises that Ryn will get the full
 decode interstellar message and explanations on how to apply the knowledge of
 his people. Ryn begins working on a means allow the new mimics to hijack the
 dextrae peoplePrinters (don't tell readers this now, save it for later). Fera
-takes Sata back to the silo for recovery. When Sata returns she seems much
+takes Sata back to the capsule for recovery. When Sata returns she seems much
 better but soon she gets very sick. Fera tries to administer sinistrae medicine
 but it does not help. Zek, Zok, and Ryn cannot cure Sata so they help Sata
 scend before she dies.
@@ -642,7 +786,7 @@ necessary." When Fera visits, Fera takes interest in Historia Martis, she
 starts reading and cannot put the book down, looking for clues to defeat the
 Dust Queen. "You can go now Mommy, I will keep her here. Mars Mommy is helping
 me." With Fera distracted Kaia leaves her son with Fera, Iona, and Ryn. She
-enters the silo and finds the AI. The Dust Queen tells her to give the sudoku
+enters the capsule and finds the AI. The Dust Queen tells her to give the sudoku
 book to the AI. I brought you a puzzle book. What kind of puzzles? Sudoku.
 Please provided username and password. The Dust Queen whispered in Kaia's ear.
 Guess the password? (the UNO AI is brought under control when Kaia tries to use
@@ -1335,7 +1479,7 @@ dream that she is the Dust Queen crawling through the airship. She finds the
 airship fuel cells and destroys them. When Kaia wakes up the fuel cells have
 actually been destroyed. The airship crashes into Zakrzówek quarry lake.
 
-Bring in a Relic character to be a romantic partner for Dela. The silos are
+Bring in a Relic character to be a romantic partner for Dela. The capsules are
 all connected. The AI explains that there is a survivor from the war between
 sinistrae and dekstrae intact in stasis. The AI explains that Eiva is pregnant
 and she was selected to be the first person to be awakened as part of the plan
@@ -1344,7 +1488,7 @@ awaken Eiva and start introducing her to the new world and meanwhile Eiva will
 teach Fera how to use sinistrae powers. When Eiva awakens she admits that Eiva
 was not originally her name, but the AI said that she would pick a new name for
 her that matched the time when she was awakened. Eiva's husband died trying to
-protect the silos and keep them hidden. The AI does not try to create a full
+protect the capsules and keep them hidden. The AI does not try to create a full
 name for Eiva and instead suggests that she add Fera's mother's name and Fera's
 maternal grandmother's name (Eivavikadela Fridzia) and pretend she is Fera's sister.
 
@@ -1379,13 +1523,13 @@ Eiva's baby is a girl. Kaia's baby is a boy.
 "It matters to me."
 "Desirée."
 "What?"
-"It means desired in Ancient French. My friends would call me Desi."
+"It means desired in French. My friends would call me Dezi."
 "Ok, I can understand why the AI gave you a new name. Your old name was complete trash."
 Eiva tackled Fera.
-"Can I call you Desi? When no one else is around? It can be our little secret."
+"Can I call you Dezi? When no one else is around? It can be our little secret."
 Eiva's eyes filled with tears. She enveloped Fera in her arms.
-"Maybe you can name your baby Desi? If it's a girl."
-"That wouldn't work though, right? Don't female names have to end in 'a'? It would have to be Desa."
+"Maybe you can name your baby Dezi? If it's a girl."
+"That wouldn't work though, right? Don't female names have to end in 'a'? It would have to be Deza."
 "After we overthrow the government and abolish the name laws, you can name your baby whatever you want."
 "Stop saying **your** baby."
 "What? Why?"
@@ -1397,7 +1541,7 @@ Sinistrae disrupt dextrae technology. Fera began to tap away at a console. With
 every touch, the screen became increasingly distorted. Eventually, the screen
 froze in a contorted mess before going blank.
 
-"Dextrae tech is not going to work for us. The silo is the last place in the
+"Dextrae tech is not going to work for us. The capsule is the last place in the
 world that has sinistrae tech. Everything else is just going to break when we
 touch it."
 

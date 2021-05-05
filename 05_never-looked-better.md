@@ -806,7 +806,7 @@ Even though Fera replaced all of the footage of her with deep fakes, the AI save
 copies before they were replaced.
 
 The Lunkers lost the ancient war between dextrae and sinistrae.
-The sinistrae retreated to the hidden silos.
+The sinistrae retreated to the hidden capsules.
 The AI is based on a system called UNO, while other AIs are based on DOS.
 The AI has been sabotaging DOS systems since the war ended for fun.
 No one has noticed because DOS systems are innately terrible.
@@ -815,7 +815,7 @@ The AI offers Fera a choice to become the figurehead of the next revolution or
 continue in her current state.
 
 The drawback is that outside technology would cease to work for her, but
-anything inside the silo would work for her. Also, dextrae AIs would try to
+anything inside the capsule would work for her. Also, dextrae AIs would try to
 kill her so she needed to stay underground until they could destroy the satellites.
 
 She notices that it makes Ryn sick, but does not affect the Principal.
@@ -823,8 +823,8 @@ She notices that it makes Ryn sick, but does not affect the Principal.
 Fera accepts and begins organizing the revolution.
 
 The Principal becomes her administrative assistant. Ryn helps out by spreading
-the word to all Lunkers. He cannot help inside the silo because he has to stay
-outside the silo because it makes him sick.
+the word to all Lunkers. He cannot help inside the capsule because he has to stay
+outside the capsule because it makes him sick.
 
 The chapter ends with Fera, Naksos (Mel), and Ryn sleeping on the train on their way
 to the refugee camp.
