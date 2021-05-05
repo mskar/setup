@@ -110,6 +110,9 @@ End: Kaia and Sata watch the airship wreckage together while holding hands.
 
 - 04: Finally fitting in
 
+Kaia asks Iona about medical training and the defibrillator she used. Everyone
+is surprised. Iona says that has had no medical training apart from CPR and
+that she never used a defibrillator. Everyone thinks that Kaia was imagining it.
 
 Lan shares his backstory with Kaia when she sees
 him crying after working in the kitchen? How does Kaia meet Ben and Edl? Kaia, Sata, Lan,

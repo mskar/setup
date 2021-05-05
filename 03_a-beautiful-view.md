@@ -686,7 +686,7 @@ Kaia shook her head. "Do you think you could maybe not tell the others about tha
 "Do you tell everyone that you're a former spy?"
 
 "No. It appears that you know a secret about me, and I know a secret about you.
-Let's promise to keep each other's secrets."
+Let's promise to keep each other's secrets forever."
 
 Kaia nodded. Ursa spit noisily into her hand and extended it to Kaia. The look
 of Kaia's face told Ursa that she needed to explain.
@@ -707,7 +707,7 @@ of Kaia's face told Ursa that she needed to explain.
 
 Kaia released a small drop of spit onto her palm.
 
-Come on, you can do better than," Ursa cajoled. Kaia spit into her hand until
+"Come on, you can do better than," Ursa cajoled. Kaia spit into her hand until
 her mouth was dry and then extended it to Ursa. Ursa shook Kaia's hand heartily.
 
 "Now we are spit sisters," Ursa proclaimed with the utmost gravity.
@@ -729,7 +729,7 @@ by the hand and began to run. Kaia could barely stay on her feet as Ursa deftly
 moved between the trees. They stopped in front of a cliff overlooking the lake.
 Having grown up in the city, Kaia had never seen anything like it. Kaia walked
 up to the edge and stared at the trichromatic landscape. The blue of the water
-was separated from the green of the trees by the off-white craggy rocks.
+was separated from the green of the trees by a band of craggy rocks.
 
 "What a beautiful view," Kaia said in wonder.
 
@@ -744,28 +744,32 @@ away. It's like we're going to the swimming pool or the beach."
 
 Ursa reached for the zipper of Kaia's jumpsuit, but Kaia pulled away.
 
-"OK Kaia, we need to get you clean. I can close my eyes if you like, but then
-you have to guide me down to the water."
+"OK Kaia, we need to get you clean. Your nose is still a bit bloody and someone
+rubbed spit all over the side of your face. I can close my eyes if you like,
+but we have to get you into that water."
 
 "How do I know you won't peek?"
 
 "Pinky promise," Ursa said offering her pinky to Kaia. "It's almost as serious
-as the spit shake. It goes blood oath, spit shake, then pinky promise."
+as the spit shake. It goes blood oath, spit shake, and pinky promise,"
+Ursa said showing the levels in the hierarchy with her hand.
 
 When Kaia and Ursa intertwined their pinkies, Ursa said, "I pinky promise that
 I won't open my eyes until you tell me too. If I peek, you can break my pinky
-with a rock." Ursa closed her eyes. "When you're ready, take me by the hand and
-lead me to the water."
+with a rock." Ursa closed her eyes. "When you're ready, guide me down to the
+water."
 
-Kaia undressed quickly and put her clothes next to Ursa's in the bushes.
-She took Ursa by the hand and started walking down toward the water.
+Kaia undressed quickly, trying not be distracted by Ursa's impressive physique.
+After putting her clothes next to Ursa's in the bushes, Kaia took Ursa by the
+hand and started walking down toward the water.
 
-Ursa grabbed Kaia from behind and picked her up in her arms and started walking
-towards the cliff. "Let's take the fast way down. Tell me when I should jump."
+"On second thought, let's take the fast way down." Ursa grabbed Kaia from
+behind and picked her up in her arms and started walking towards the cliff.
+"Tell me when I should jump."
 
 "Ursa, no! I don't want to jump."
 
-"Tell me when to jump or we aren't going to clear the rocks."
+Ursa started picking up speed. "Tell me when to jump or we aren't going to clear the rocks."
 
 "You're crazy, put me down. Stop! OK, jump! Jump now!"
 
@@ -782,133 +786,167 @@ the surface, Kaia began to breathe very fast. The water was quite cold.
 "I was pretty sure you would ask me to open my eyes. I guess you're more
 worried about me checking you out than the rocks shattering our bones."
 
-...
-"Aren't you and Zok together?"
+"I'm beginning to reassess my priorities."
 
-"Officially, I guess, but he always runs off with Lan when nobody's looking. Oh
-no, that was supposed to be a secret!"
+"Does that mean I can open my eyes now?"
 
-"At first, I thought Lan and Aira were together."
+"Yes, you can open your eyes."
 
-"They are really close, but Lan is not interested in girls."
+"Kaia, you still have a bit of dried blood under your nose. No, the other side.
+Pretend I'm a mirror. There, you got it. Sata will be happy to see you
+sparkling clean."
 
-"Is Zok also not interested in girls?"
+"What do you mean?"
 
-"Zok has always been really sweet to me. He says that he is going to make all
-of my dreams come true. I'm not jealous of him and Lan. I told Zok that I'd be
-OK with the three of us being polyam, even though Lan is not really my type,
-but I think Zok likes keeping his romance with Lan a secret."
+"It's obvious that you have a special connection. The thing that happened on
+the airship. It's like you two are soulmates. Are you two an item?"
 
-"What's polyam?"
+"I don't know."
 
-"Polyamorous is when more than two people are together."
+"Come on, you can tell me. We're spit sisters now!"
 
-"I don't think that can work. My parents cheated on each other and then they got divorced."
+"No, I really don't know. Sata and I have known each other since we were
+little. I'm not sure if how she really feels about me. I'm afraid that if I
+tell her that I like her more than as a friend, it'll ruin our friendship."
 
-"I'm sorry to hear that your parents split up, Kaia, but polyam relationships can absolutely work."
-
-"How do you know?"
-
-"If I tell you, I'm afraid you won't be my friend anymore."
-
-"You're polyamorous? With who? Zok and Zek? Iona too? What?! All four of you?"
-
-Ursa threw her arms around Kaia and implored her not to tell anyone.
-
-"Now that you know about me, Iona, Zok, and Zek, you need to tell me about you
-and Sata. I can tell that you have a special connection. It's like you two are
-soulmates."
-
-"Sata and I have known each other since we were little. I'm not sure if how she
-really feels about me. I'm afraid that if I tell her that I like her more
-than as a friend, it'll ruin our friendship."
-
-"You need to talk to her about how you feel." Ursa stood up. "Right now."
+"You need to talk to her about how you feel. Right now."
 
 "No, I can't."
 
-"Right now is the perfect time. It's a chilly evening. The sunset is setting.
-The airship is about to crash. We're surrounded by beautiful vistas. Stop
-wasting this prime romantic material on me and go talk to Sata. Just tell her
-that she means a lot to you. You don't have to use the L word."
+"It's the perfect opportunity. We're surrounded by beautiful vistas, the sun is
+going to be setting soon, and when the airship crashes, we'll have some fireworks.
+You couldn't ask for a more romantic setting. Just tell her that she means a
+lot to you. You don't have to use the L word."
 
-Kaia grinned. "Lesbian?"
+Thinking of Sata, Kaia grinned. "Lesbian?"
 
 "Shut up, you know what I mean. The four-letter L word!"
 
-Kaia grinned even broader. Sata had taught her well. "Lick?"
+Kaia grinned even broader. Sata had taught her well. "Lick? Lewd?"
 
-"I know plenty of other four-letter words."
+Ursa splashed Kaia. "If only the water could clean your dirty mind. Come on,
+Sata is waiting for you. I'll go get our clothes."
 
-Kaia and Ursa join everyone by the fire. Zok and Lan have run off together.
-Ursa sits down in between Iona and Zek. They hug her from both sides. Taz sits
-with Aira. Kaia notices that Taz looks really young despite his neatly
-trimmed beard. Taz and Aira's eyes glow in the dark. They talk in Lunker. Sata
-asks lots of questions about Kaia's time with Ursa and teases Kaia about being
-promiscuous.
-The chapter ends with an
-emotional moment. Kaia and Sata hold hands as they watch the wreckage of the
-airship burn in the water.
+Kaia was amazed at how fast Ursa could swim. Ursa was already waiting with
+their clothes by the time Kaia reached the shore.
 
+"Here, use my jumpsuit to dry off."
 
-...
-I wouldn't be here right now if I hadn't taken those missions.
-...
-"What about Zek and Iona? They don't seem to be that into each other."
+"How are you not cold?" Kaia asked shivering
 
-"They don't really show how they feel openly. They've known each other for a long time. Iona will do anything for Zek and he  They don't seem to be that into each other."
-...
+"Cold water exercises were part of my spy training."
 
-Officer Kransal was not sure if he could believe Ursa, but he did not have much
-of a choice.
+"Is that a joke? I'm starting to think you really were a spy." Wrapping Ursa's
+jumpsuit around her shoulders.
 
-Getting out of the blast zone by motorcycle would take hours."
+"Lemme show you what else I can do." Ursa dropped their clothes a few steps
+behind Kaia, bent her knees, and thrust out her palms towards Kaia. An explosion
+of hot air knocked Kaia back onto the pile of clothes. Ursa caught Kaia by the
+hands to keep her from tumbling backwards.
 
-Lan fished out a bottle of champagne from a nearby container and announced,
-"Let's go toast to friendships, new and old!"
+"How did you do that?"
 
-While Zok stood next to Ursa while Iona and shook hands with
-Kaia and Sata. 
+"I can channel energy."
 
-Kaia asks Iona about medical training and the defibrillator she used. Everyone
-is surprised. Iona says that has had no medical training apart from CPR and
-that she never used a defibrillator. Everyone thinks that Kaia was imagining it.
+"Spy training?"
 
-Aira is anxious for Officer Kransal to arrive. When he does, she runs up to him
-and throws her arms around him. Officer Kransal removes and stows away his
-armor along with his rifle. Without the armor, he looks much smaller, but still
-very intimidating. After they talk and eat, Kransal tells them they can call
-him Taz as long as his not in uniform or on duty. Aira announces that she is
-going to show Officer Kransal around. When Kaia asks if they can come too, Lan
-says that he will show Kaia and Sata around later, separately.
+"It's something I was born with. Do you feel less cold now?"
 
-Are you a Lunker too?
-A Lunker?! I was born to shine under the spotlight, not hide in the shadows!
+"Yes, that's amazing. You knocked me back and then caught me. How can you move
+so fast?"
 
-"Earlier, I thought you and Aira together. I don't think that now, obviously."
-"Me with Aira?! Oh no, a leading man needs a leading lady." Lan said.
+"Another thing I was born with. Now get up off of our clothes. They're going to
+get all wrinkly."
 
-Zek and Zok barge in on them with Iona in tow. Zek and Zok try their best to
-charm Kaia. Kaia is unsure why he is focusing on her, when she hasn't fixed her
-appearance since before the ceremony. The airship begins to go down when Kaia
-has a dream about the Dust Queen destroying the airship fuel cells. Zek and
-Zok demonstrate their leadership skills and relationships with Iona and Ursa to
-save the day. They give commands to Ursa and Iona, both of whom are incredibly
-strong and athletic. Ursa is always cheerful. Iona never smiles.
+Kaia put on her clothes quickly, but she really did not feel cold anymore. Kaia
+and Ursa started to walk towards the rendezvous point.
 
-A beautiful view, the chapter title, refers to the city explosion, lake
-Zakrzówek, the girls bathing, and the airship crash.
+"I told you about Sata and me. Now, you have to tell me about you and Zok."
 
-The airship crashes in a lake and sinks to the bottom. Zok and Ursa dives into
-the lake and recovers supplies for them. Lan annoys them by asking for more and
-more supplies. Iona refuses to get in the water. Since it was already dark,
-they decided to make camp at the airship crash site. They talk around the camp
-fire. Someone notices that Kransal and Aira's eyes glow in the dark. All of the
-girls walk along the side of lake to find a spot to bathe. Kransal, Zek, and
-Lan stay behind. Iona waits by the side of the lake. "I don't do water." The
-girls have fun in the water. Kaia is amazed at how great Sata, Aira, and
-especially Ursa look. Aira and Ursa are surprised to see how Kaia looks
-underneath all the grime.
+Ursa looked a bit flustered. "It's a bit complicated."
 
-The Chapter ends when everyone falls asleep next to the campfire. Kaia curls up
-next to Sata.
+"Are you two not together?"
+
+"Officially, yes, but really we're polyam."
+
+"What's polyam?"
+
+"Polyamorous is when someone is romantically involved with more than one person."
+
+"Who's the other person?"
+
+"It's more than one person."
+
+"Who? Lan? Zek? Iona?"
+
+No, not Lan. He's only interested in Zok."
+
+You, Zok, Zek, and Iona are together?
+
+"Yes, it's nice because I'm not alone whenever Zok runs off with Lan."
+
+Kaia's head was reeling from this new information.
+
+"Four people is great. We all take care of each other. The only problem is that
+sometimes when we vote there's a tie. If you and Sata ever want to give
+polyamory a try, just let us know. I would vote for both of you to join, even
+though going from four people to six people wouldn't give us a tiebreaker."
+
+"Thanks, but I think a relationship with one person is all I'll be able to
+handle."
+
+"I'm going to be cheering for you and Sata."
+
+On the way to the rendezvous point, Ursa gave Kaia some advice on how to talk
+to Sata.
+
+Kaia and Ursa walked down to the rendezvous point, where Iona, Sata, and Zek
+were sitting on logs by a fire. Iona and Zek slid apart, freeing up a spot in
+between them, and reached out their arms to Ursa. Ursa sat down between them.
+Iona and Zek put their heads on Ursa's shoulders and squeezed her tightly. Ursa
+basked in the pincer strike of affection, rubbing her cheeks against their
+heads. In the meantime, Sata started peppering Kaia with questions.
+
+"Kaia, What took you so long? I was worried. Where were you? Why is your hair
+wet? Did you go swimming? Did Ursa put the moves on you? Did you put the moves
+on her?"
+
+"I'll tell you everything, but first I want to show you a place with a great
+view." Kaia took Sata by the hand and led her to a secluded spot overlooking
+the water. Sata was obviously very happy to see Kaia.
+
+"I missed you. I had fun teasing Iona, but then she started cuddling with Zek.
+Taz went to do reconnaissance and Aira went with him. Lan said he was going for
+a walk. Then, Zok just got up and left without saying anything. It was awkward
+being the third wheel to the Iona-Zek bicycle."
+
+"I think it's less of a bicycle and more of a four-wheeler."
+
+"What? I think you lost me with that analogy."
+
+"When you look out on the water, what do you feel?"
+
+Sata thought about it for a while. "I feel wonder, peace, and hope."
+
+"That's how I feel when I look at you."
+
+"Whoa, where did you get that line from?"
+
+Kaia blushed. "I wanted to talk to you, but I was really nervous and worried,
+so Ursa gave me some advice."
+
+"You don't need to take advice from other people on how to talk to me.
+Especially people we just met today. We grew up together. We've been friends
+longer than I can remember. If you want to say something to me, just say it."
+
+"I know. It's just that when I try to say it, I panic, everything gets mixed
+up, and I can't say anything right."
+
+"You don't need worry about saying it right. You also don't need to say it
+right away. Let's sit down and wait for the crash together."
+
+Sata pulled Kaia by the hand to a large rock that could easily accommodate both of them.
+
+"It's a beautiful view," Sata said breaking the silence.
+
+"You got that right," Kaia said looking at Sata.
