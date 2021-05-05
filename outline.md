@@ -158,7 +158,9 @@ Fera to Eiva. Eiva vomits out the stasis liquid and goes through a wash cycle
 like in Austin Powers. Eiva and Fera immediately hit it off. "Why do you talk
 so weird?" "I did not learn your language naturally. The AI remodeled the
 language center of my brain while I was in stasis. I have a terrible headache
-and I hate how stupid your language sounds." The AI asks Eiva if Fera is an
+and I hate how stupid your language sounds. I don't care if it sounds weird to
+you. The only thing that matters is that you can understand me." "I like the
+way you sound. It's different, but I like it." The AI asks Eiva if Fera is an
 acceptable candidate. Eiva says that Fera's abilities were demonstrated when
 she blew up the city, but she wants to test Fera herself. Eiva hands a pair of
 bone knives to Fera and tells her to defend herself. Fera is amazed at how fast
@@ -234,14 +236,88 @@ clenched fist.
 "Good, the first mission is reconnaissance. Do you have any allies that could
 help us with the resurgence?"
 
-"Allies?" Fera remembered Ryn. "There's Ryn. He's outside. He's sick."
+"Allies?" Fera realized she forgot about Ryn. "There's Ryn. He's outside. He's
+sick."
+
+"He got sick as soon as you opened the door?"
+Fera nodded.
 
 "His body must be dependent on dextrae for survival."
 
 "What?"
 
-"I'll explain once we help your ally. Come on."
+"I'll explain once we help him. Come on."
 
+Eiva grabbed Fera by the hand and lead her to cabinet.
+
+"Before we go, we need equipment. These are skinScabbards. Put they go on your
+forearms and shins."
+
+"Are these made of skin?"
+
+"Yes, they have bone knives inside. There's a flap by the hilt of each knife.
+You'll have 8 knives on each forearm and 12 knives on each leg."
+
+"40 knives?! Do think that will be enough?"
+
+"We can always make more bone knives from fallen comrades and enemies."
+
+Fera laughed but then realized that Eiva was not joking.
+
+When they got outside.
+
+"Don't touch him. Don't even go near him. Tell him to get in the boat."
+
+"What? Why?"
+
+"If you get near him, he will get worse. Unia will refill the lake. Then we can pull him in with the rope."
+
+"So we're not getting in the boat with Ryn?"
+
+"No, being near us could kill him. Tell him to get in the boat. If he doesn't, he's going to die."
+
+"Ryn, can you hear me?"
+
+Ryn moaned. His eyes were half closed.
+
+"Ryn, you need to go back to the boat."
+
+"Maybe we should leave him. He doesn't look like he would be a useful comrade anyway."
+
+"He can be useful. He saved my life."
+
+"Does he float? Maybe he doesn't need to be in the boat?"
+
+"Ryn, listen to me. If you die here, Aira will left all alone."
+
+Ryn's eyes opened wider.
+
+"If you don't make it out of here, your parents will have died for nothing."
+
+Ryn sobbed and rolled over on his stomach, ripping out the roots that connected
+his feet with the ground.
+
+"If you don't get on that boat, I'm going to find Aira and tell her that you
+gave up on her. She'll know that your parents' sacrifice didn't mean anything
+to you."
+
+Ryn started crawling, but stopped and threw up onto the ground in front of him.
+
+"If you don't keep moving, I swear I'll kill her, Ryn! I'll tell her you gave
+up and then she's going to die knowing that you didn't care enough about her to try."
+
+Ryn crawled through his own vomit up to the boat.
+
+"If you don't get in that boat, she's as good as dead, Ryn. You know I'll do
+it. You know me. I won't hesitate. I'll enjoy it."
+
+Ryn brought himself up just barely enough to roll into the boat and hit the
+floor like a bag of potatoes.
+
+Eiva started to clap. "Well done. Looks like we picked the right person to lead
+the resurgence. Now let's start climbing or we're going to get wet."
+
+...
 
 "I will transfer command to you after you can best me in
 grappling, archery, and knife combat." "I already beat you in knife combat."
@@ -273,19 +349,20 @@ Love' novel, but we need to make an impact."
 
 "Skeleton Queen?"
 
-"That's even worse."
+"That's even worse. Any other ideas?"
 
-"What about Regina Ossa? It's Ancient Latin for Bone Queen."
+"Reine des os, but that's Queen of Bones, not Bone Queen."
 
-"That's better, but still not great."
+"Ren Dezo? I like how that sounds! That's Ancient French, right?"
 
-"Reine des os?"
+"Yes, but we just called it French. It would be great if you could too. You're
+making me feel ancient."
 
-"I like how that sounds! That's Ancient French, right?"
+"What would it be in Latin?"
 
-"We just called it French. It would be great if you could too. You're making me feel ancient."
+"Regina Ossa."
 
-"Well, let's give it more of modern touch. Have everyone call me Ren Dezo on pain of death."
+"That's it. Let's go with Queen Ossa."
 
 - 06: A great way to make friends
 
@@ -1524,6 +1601,8 @@ Eiva's baby is a girl. Kaia's baby is a boy.
 "Desirée."
 "What?"
 "It means desired in French. My friends would call me Dezi."
+"Were you French? In the Ancient times?"
+"No, but it was common to give children French names back then."
 "Ok, I can understand why the AI gave you a new name. Your old name was complete trash."
 Eiva tackled Fera.
 "Can I call you Dezi? When no one else is around? It can be our little secret."
