@@ -236,17 +236,12 @@ hair down and changed from her black jumpsuit into a simple dress and heels.
 "How do I look?" Aira asked.
 
 When Aira spun around to show off her costume change, Kata and Sata both
-swooned.
-
-Sata covered Kaia's eyes with her hand. "Don't get too excited or you might
-start hyperventilating, you creep."
-
-Kaia passed Sata a napkin. "Here, wipe the drool off your face, you lecher."
-
-Lan was clearly impressed. "Airuniapyzunia, you are a vision of beauty!"
-
-Aira blushed and curtsied. "Come on everyone we are about to lift off," Aira
-said waving for them to hurry.
+swooned. Sata covered Kaia's eyes with her hand. "Don't get too excited or you
+might start hyperventilating, you creep." Kaia passed Sata a napkin. "Here,
+wipe the drool off your face, you lecher." Lan was clearly impressed.
+"Airuniapyzunia, you are a vision of beauty!" Aira blushed and curtsied. "Come
+on everyone, we are about to lift off," Aira said waving for them to hurry.
+"Let's go see the launch."
 
 The airship had two observation decks, one in the front and one in the rear.
 Each one was a glass protrusion that extended out from the metal hull of the
@@ -266,22 +261,36 @@ They went to the gangway to greet the new passengers. Taz stood guard over the
 gangway as Iona, Ursa, Zek, and Zok boarded. They took their time going up the
 gangway, as if in slow motion. Kaia could not believe how great they all
 looked, but she tried to hide her amazement, because she did not want to make a
-bad first impression. As the new arrivals walked up in pairs, Lan introduced
-them, starting with Iona and Zek.
+bad first impression.
 
-Iona was cool, composed, and elegant. She walked up the gangway like a model.
-Iona and Zek both wore expensive-looking suits, but next to Iona, Zek looked
-looked like a tacky accessory that she wore sarcastically. Iona remained
-expressionless while Zek seemed to be unimpressed with everything he saw.
+"How are they all so tall?" Kaia asked, whispering.
 
-Ursa seemed like the polar opposite of Iona. She was giddy, bouncing up down,
-and swinging from Zok's arm. Ursa and Zok were wearing athletic clothes and
-looked incredibly fit. Kaia had the impression that Ursa and Zok were too
-perfect to be real like a retouched photograph in motion.
+"They're seniors," Lan whispered back. Kaia wondered if she and Sata would be
+that tall in a few years. Maybe Sata, but Kaia doubted she would ever be
+considered tall. As the new arrivals walked up in pairs, Lan introduced them,
+starting with Iona and Zek.
+
+Iona was cool, composed, and elegant. Her bright violet hair was cut short and
+impeccably styled. She walked up the gangway like a model. Her tall and slender
+frame was striking. Iona and Zek both wore expensive-looking suits, but next to
+Iona, Zek looked looked like a tacky accessory that she wore sarcastically.
+Zek's hair was a messy tussle of dark curls. His face was unshaven, two of his
+coat pockets were flipped inside out, and one of his pants legs was inside his
+sock. Iona remained expressionless while Zek seemed to be unimpressed with
+everything he saw.
+
+Ursa seemed like the polar opposite of Iona. While Iona was reserved, Ursa was
+giddy, bouncing up down, and swinging from Zok's arm. She had very long, fiery
+orange hair that seemed to have a life of its own. Zok had the same hair as Zek, but much
+shorter so the curls were less noticeable. Ursa and Zok were wearing
+athletic clothes and looked incredibly fit and muscular, appearing to be twice
+as wide as Iona and Zek, while still being just as tall, if not taller. Kaia had
+the impression that Ursa and Zok were too perfect to be real. They looked like
+a retouched photograph in motion.
 
 When Lan turned and introduced Kaia and Sata, Kaia became self-conscious. She
 realized that she had not looked in a mirror since before the initiation rite.
-Kaia relaxed when everyone greeted her warmly and seemed to mind her
+Kaia relaxed a little when everyone greeted her warmly and seemed to mind her
 appearance. Ursa waved, grinned at them, and ran up to Sata and Kaia.
 
 "So nice to meet you! I hope we're going to be best friends!" Ursa said
@@ -291,26 +300,23 @@ counted. Zek and Zok took up positions on either side of Iona and Ursa. They
 seemed to be striking a dramatic pose. Kaia suddenly became very aware of how
 she was standing.
 
-Officer Kransal walked up gestured for them to move. "Clear the cargo bay and strap in,
-we're taking off."
-
-Kaia was following everyone out of the cargo bay when she felt a strange
-sensation. She turned around and caught a glimpse of Fera and the Principal on
-a motorcycle through the closing cargo bay doors.
+Officer Kransal walked up gestured for them to move. "Clear the cargo bay and
+strap in, we're taking off." Kaia was following everyone out of the cargo bay
+when she felt a strange sensation. She turned around and caught a glimpse of
+Fera and the Principal on a motorcycle through the closing cargo bay doors.
 
 Kaia grabbed Sata and Aira by the arm. "It's Fera! She's still down there!"
-
 When Sata and Aira looked, Fera was no longer visible.
-
 "Clear the cargo bay now! We're airborne!" Officer Kransal yelled.
 
-"Please our friend is down there. The school Principal too."
+Kaia grabbed Officer Kransal's arm and pleaded for help. "Please our friend is
+down there. The school Principal too."
 
-Officer Kransal turned away and touch his earpiece. "Cockpit, this is aft guard. Do you
-have visual of anyone on the ground?"
+Officer Kransal turned away and touch his earpiece. "Cockpit, this is aft
+guard. Do you have visual of anyone on the ground?"
 
-"Understood," Officer Kransal said releasing her earpiece. "They say there's no one down
-there."
+"Understood," Officer Kransal said releasing her earpiece. "They say there's no
+one down there."
 
 "No, I saw them!" Kaia yelled.
 
@@ -326,14 +332,13 @@ knees and struck at the glass with her fists.
 "We left them! We left them behind to die!" Kaia screamed, breaking into tears.
 
 Sata and Aira exchanged glances, unsure of what to say or do. Sata walked up
-and knelt next to Kaia. Sata gently shifted Kaia towards her, rested Kaia's head on her lap, and stroke Kaia's hair as Kaia continued to bawl.
+and knelt next to Kaia. Sata gently shifted Kaia towards her, rested Kaia's
+head on her lap, and stroke Kaia's hair as Kaia continued to bawl.
 
 "The fireworks are about to start!" Lan proclaimed as he led everyone onto the
-observation deck.
-
-The city became illuminated by a series of explosions. Kaia lifted her head as
-the observation deck was bathed in red light. Kaia stood up and walked over to
-Officer Kransal.
+observation deck. The city became illuminated by a series of explosions. Kaia
+lifted her head as the observation deck was bathed in red light. Kaia stood up
+and walked over to Officer Kransal.
 
 "Do you think they made it out in time?" Kaia asked Officer Kransal.
 
@@ -359,8 +364,8 @@ A scream from below caught Kaia's attention. Fera extended her hands upwards
 and she sank into the dust below. Kaia knelt down to grab Fera's hand but dust
 began to pour from in between the tendrils wrapping Kaia's arms and Fera soon
 disappeared in the dust at Kaia's feet. Kaia leapt into the dust after Fera.
-Kaia's body did not make it far, but her spirit flew through the dust in search
-of Fera.
+The dust stopped Kaia's body like a brick wall, but her spirit flew through the
+dust in search of Fera.
 
 Kaia found Fera in a room filled with light and buzzing with energy. Fera was
 being protected from the dust by metallic tendrils. Kaia recognized the
@@ -465,7 +470,8 @@ the parachutes and looked around the room. "Who has skydived before?"
 
 Iona, Ursa, Zok, and Zek raised their hands.
 
-"Good, each of you should pair up with someone without experience and jump in tandem."
+"Good, each of you should pair up with someone without experience and jump in
+tandem."
 
 "I can jump with Kaia in tandem," Ursa offered.
 
@@ -503,8 +509,7 @@ Kaia by the arm and led her to the cargo bay.
 
 "My nose?" Kaia touched her nose and winced in pain.
 
-"You jumped head first into the glass floor when you were... I don't know what the
-word for it is. I'm really sorry."
+"You jumped head first into the observation deck floor. I look when you were trying to jump through the glass."
 
 Kaia knew what Ursa meant. She remembered diving into the dust after Fera. She
 was embarrassed to think of how it must have looked to everyone. Ursa could see
@@ -881,16 +886,17 @@ Ursa looked a bit flustered. "It's a bit complicated."
 
 No, not Lan. He's only interested in Zok."
 
-You, Zok, Zek, and Iona are together?
+"You, Zok, Zek, and Iona are together?"
 
 "Yes, it's nice because I'm not alone whenever Zok runs off with Lan."
 
 Kaia's head was reeling from this new information.
 
-"Four people is great. We all take care of each other. The only problem is that
-sometimes when we vote there's a tie. If you and Sata ever want to give
-polyamory a try, just let us know. I would vote for both of you to join, even
-though going from four people to six people wouldn't give us a tiebreaker."
+"Four people is great. We all take care of each other and we can pass as two
+monogamous couples whenever we want. The only problem is that sometimes when we
+vote there's a tie. If you and Sata ever want to give polyamory a try, just let
+us know. I would vote for both of you to join, even though going from four
+people to six people wouldn't give us a tiebreaker."
 
 "Thanks, but I think a relationship with one person is all I'll be able to
 handle."
