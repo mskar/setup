@@ -191,7 +191,8 @@ exercise your executive powers."
 president. Do you want to run? Even though you'll be running unopposed, we
 still have to vote."
 
-"Ok, sure," Fera said, trying her best to sound indifferent.
+"Ok, sure," Fera said, trying her best to sound indifferent. Ryn walked up to
+console to enter a summary of the vote.
 
 "Excellent, with all current members present, we have quorum. All those in
 favor of Fera becoming Vice President of the MIG?"
@@ -210,8 +211,8 @@ the school year. If you like you can run for President."
 
 "You don't want to be President anymore?"
 
-"I am a senior this year, so I need to start preparing the next generation of
-MIG leadership."
+"I am a senior this year, so I cannot run again. Even if I could, it would be
+wise to start preparing the next generation of MIG leadership."
 
 "If you run for President next year, I will vote for you," Ryn said.
 

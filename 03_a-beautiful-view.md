@@ -993,23 +993,28 @@ cold and freezing hot, oxymoronic sensations they could not have imagined.
 
 "Do you want to try to get up?"
 
-Kaia and Sata helped each other up. Once they were upright, they got dizzy as
-the blood rushed from their heads. They held onto each other, initially to
-protect against the dizziness, but maintained their embrace even after the
-vertigo subsided.
+Kaia and Sata helped each other up. Once they were upright, they both got dizzy
+as the blood rushed from their heads. They held onto each other, initially
+because of the dizziness, but maintained their embrace even after the vertigo
+subsided.
+
+The light from the burning remains of the airship became more
+pronounced as the sun set behind the trees. As the yellow and orange of sun
+disappeared, the red and blue of the sky mixed to make purple and pink,
+complementing the green of trees to complete the rainbow.
 
 Kaia thought about telling Sata about becoming spit sisters with Ursa and
 falling from the cliff in Ursa's arms, but all of that seemed insignificant and
-irrelevant now. Even Ursa's superpowers, felt unimportant compared to what had
-just happened between Sata and Kaia. Sata was remarkable quiet and peaceful, no
-lewd jokes, no wry remarks, no prying questions.
+irrelevant now. Even Ursa's superpowers felt unimportant compared to what had
+just happened between Sata and Kaia. Sata was remarkable quiet, no lewd jokes,
+no wry remarks, no prying questions. Kaia watched the myriad colors of the
+sunset illuminate the look of contentment and happiness on Sata's face.
 
-Released from the pressure to explain how she felt, Kaia curled up in Sata's
-embrace and watched the smoldering fire in the center of the lake. The light
-from the burning remains of the airship became more pronounced as the sun set
-behind the trees. As the yellow and orange of sun disappeared, the red and blue
-of the sky mixed to make purple and pink, complementing the green of trees to
-complete the rainbow. For now, nothing else needed to be said or done. Kaia
-felt complete and at peace. She was happy to spend an eternity looking at the
-breathtaking landscape and watching the myriad colors illuminate Sata's smiling
-face.
+Released from the pressure of having to explain how she felt, Kaia curled up in
+Sata's embrace and watched the airship burn in the center of the lake. For now,
+nothing else needed to be said or done. Kaia felt complete and at peace. She
+would be happy to spend an eternity in this moment. The view was breathtaking,
+but seeing Sata safe and happy was far more precious to Kaia. No matter where
+she looked, Kaia saw Sata's smiling face. Even when Kaia closed her eyes, Sata
+was there, smiling back at her, more radiant than the sunset, more lush than
+the greenery, more peaceful than the water, more gentle than the breeze.

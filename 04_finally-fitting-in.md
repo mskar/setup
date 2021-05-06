@@ -6,25 +6,108 @@
 
 "What about 'levitating'?"
 
-As Kaia and Sata were trying to agree on the correct term to describe the person slowly descending down to the ground, and person fell like a rock out of the sky and into the water.
+As Kaia and Sata were trying to agree on the correct term to describe the
+person slowly descending down to the ground, someone else fell like a rock
+out of the sky and into the water.
 
 "Did you see that?"
 
 "Yeah, I'd call that 'falling in fast motion'."
 
-"Come on, let's go see find the others and figure out what's going on."
+"Come on, let's go see find the others and find out why people are dropping
+from the sky."
 
-A new airship nears.
+When they arrive at the campfire, everyone was standing and looking up at the
+sky. Kaia and Sata could see that the slow-falling person had their arms
+outstretched with a giant black bird on each arm. Up above, an airship was now
+clearly visible. Iona saw Kaia and Sata approach and explained the strange
+sight.
 
-Ben flies down from the airship carried by robotic birds (carrierCrows?). In
-the darkness, it appears that he is levitating on his own at first.
+"That's Ben. He can control animalAutomatons like those carrierCrows that are
+lowering him down to the ground. The one that fell into the water is his
+brother Edl."
 
-Edl jumps into the water.
+"Is Edl dead?"
 
-Ben and Edl join everyone by the campfire.
+"From the fall into the water? It would take a lot more than that to kill Edl.
+One time, a bugBall weighing almost a ton rolled over him. Anyone else would
+have been crushed, but Edl got up and pushed the bugBall back towards the
+opposing team."
+
+When Ben touched down, the birds released his arms and Ben bowed deeply.
+"Greetings! I am Ben and emerging from the water behind me is my brother Edl,
+and we are here to rescue you."
+
+"Took you long enough," Zek complained.
 
 "We received your distress signal and changed course right away, but we
 couldn't arrive until your airship had safely crashed in the lake."
+
+"Maybe you're the one who made us crash? Did you sabotage our airship?" Zek
+conjectured. "You know, even if you killed all of us, the theater group would
+still have more members than the maker group."
+
+"That's not funny. The MIG lost it's Vice President and quite possibly it's
+Secretary earlier today."
+
+"Did something happed to Ryn?" Aira rushed up to Ben.
+
+"I am afraid that Ryn is still unaccounted for. The last time I saw him, he was
+with Fera, the MIG Vice President."
+
+"Fera? The Fera who staged the protest today?" Kaia asked.
+
+"Yes, the very same!"
+
+"Did Fera die in the explosion?" Kaia asked.
+
+"It would appear so. We were tracking Fera's location and the signal
+disappeared inside the city during the explosion," Ben answered.
+
+"I saw her in the city as we were taking off. She was on a motorcycle with the
+Principal." Kaia said.
+
+"Yes, the Principal was with Fera and Ryn, the last time we saw them."
+
+"We left her there and now she's dead." Kaia said flatly.
+
+"Was Ryn on motorcycle with them?" Aira asked.
+
+"I don't know. It only caught a glimpse of them," Kaia said.
+
+"Why did the pilots not see them?" Iona asked.
+
+Taz stepped forward. "The pilots lied about not seeing the motorcycle."
+
+"They saw Fera and still left her?" Kaia did not take any pleasure in being
+vindicated.
+
+"They said that they didn't have a choice. They were under strict orders not to
+touch back down after liftoff, no matter what."
+
+"When were you going to tell us that they lied?" Kaia asked furious.
+
+"I found out myself this evening. I was grilling them about why didn't want to
+rendezvous here with us and they confessed."
+
+"Kaia, I'm sorry I didn't believe you," Sata said softly. Kaia could tell that
+Sata was genuinely sorry, but Kaia still felt angry. Kaia was angry at the
+pilots for lying, at Sata for not believing her, and at herself for not being
+able to discern hallucinations from reality.
+
+"We are going to hold a memorial ceremony for Fera when we reach the refugee
+camp," Ben said solemnly. "A propos the camp, do you think we could be on our
+way there shortly?"
+
+"We're all here and accounted for. The pilots said they were going to wait for
+a military evac."
+
+"Very well. I'll have our airship send down the rescue lines. Once everyone
+puts on their respective harnesses, you'll be lifted up to the airship."
+
+"You're not going with us?"
+
+"I'm going to go up that same way I cam down."
 
 There's a rivalry between the maker interest group (MIG) and the theater
 interest group (TIG). The theater group makes fun of the makers for not having
@@ -32,7 +115,7 @@ any members. Ben says that they had as many as four members, but now they are
 down to three and perhaps even two. Aira is upset to hear that Ryn is still
 unaccounted for. Kaia is devastated to find out that Fera was on the ground and
 that her signal disappeared as she was trying to leave the city. She feels
-angry at Sata and doesn't take any pleasure in being vindicated. Sata looks
+angry at Sata and doesn't . Sata looks
 very sorry, but doesn't know what to say to Kaia.
 
 Kaia says she is upset that they have to leave so soon.
