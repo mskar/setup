@@ -1009,15 +1009,16 @@ looking up at her, tears sprung anew from Sata's eyes and bathed Kaia's face.
 "Let's get her into bed," Aira said.
 
 Kaia was underwater in a sea of tears, looking up at Sata in the stars above.
-An octopus obscured the view of the sky and Kaia tried to shoo it away, but it
-extended four pairs of tentacles towards Kaia and carried her with to onto a
-tuft of seaweed. Kaia suddenly felt very grateful to the octopus. Reaching out
-her hands, she began to caress its tentacles. The tentacles began to
-reciprocate. Kaia was blissfully exchanging caresses with the octopus when she
-had a startling thought. "If I'm underwater, how is it that I'm breathing?"
-Kaia shot up, throwing the tentacles off of her, and gasping for air.
+An eight-eyed octopus obscured the view of the sky and Kaia tried to shoo it
+away, but it extended four pairs of tentacles towards Kaia and carried her with
+to onto a tuft of seaweed. Kaia suddenly felt very grateful to the octopus. She
+gazed deeply into as many of its eyes as could. Reaching out her hands, she
+began to caress its tentacles. The tentacles began to reciprocate. Kaia was
+blissfully exchanging caresses with the octopus when she had a startling
+thought. "If I'm underwater, how is it that I'm breathing?" Kaia shot up,
+throwing the tentacles off of her, and gasping for air.
 
-"It's ok, Kaia," Sata said reassuringly. "You're safe now."
+"It's OK, Kaia," Sata said reassuringly. "You're safe now."
 
 Sata laid down next to Kaia in the bed, cradling Kaia in her arms. Kaia buried
 her face in Sata's shirt just above the bodice. The smell of the starchy shirt
