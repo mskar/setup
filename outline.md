@@ -1946,6 +1946,7 @@ killed on sight.
 - Everyone plays bugBall, Ryn explains that the bugs are also from the cosmic message.
 - Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
 - The octopus becomes symbiotically linked to Kaia. She goes to the ocean and gets into the water. The octopus releases its spawn.
+- Taz thinks its wild that Aira is tall Lunkers tend to be on the shorter end of the spectrum. He has a weird obsession with height. "When I look at her, I think how will she even fit in the tunnels back home? It's so wrong. I can't stop staring at her.'"
 
 - 
 Book 3:
