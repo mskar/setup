@@ -107,8 +107,29 @@ puts on their respective harnesses, you'll be lifted up to the airship."
 
 "You're not going with us?"
 
-"I'm going to go up that same way I cam down."
+"I'm going to go up that same way I came down."
 
+"We can't just leave all of this wonderful food and drink!" Lan lamented.
+"Some it has burned. Some it is flooded. Any glass containers are probably broken," Iona said.
+"We can dive in and check!" Lan implored.
+"A team will arrive to investigate the crash. They will collect the cargo as evidence," Taz explained.
+"Maybe we can wait here for them to arrive?"
+Zek nodded to Zok and Iona touched his shoulder gently. Zok approached Lan.
+"No, I won't go! You can't make me!"
+
+Zok picked up and carried him to the cables dangling from the newly arrived airship on his shoulder.
+On the military airship, Lan complains about the quality of the food and drink.
+
+Cable scene: Kaia sees Zok whispering in Lan's ear. Zek and Zok start to fight
+on the way up. Lan starts swinging to defend Zok. Zok gets tangled up in a sexy
+bundle with Lan and Edl. Ursa gets jealous and starts to fight with Zek too,
+punching him impossibly hard given she has no ground to stand on. Iona attacks
+Ursa to defend Zek. The three of them get tangled along with Kaia and Sata.
+Kaia starts to smile because everyone is acting so silly. Kaia forgets about
+her fear of heights, starts to feel less angry, and stops replaying Fera's
+death over and over in her mind.
+
+...
 There's a rivalry between the maker interest group (MIG) and the theater
 interest group (TIG). The performance group makes fun of the makers for not having
 any members. Ben says that they had as many as four members, but now they are
@@ -127,20 +148,7 @@ Sata and Kaia are happy to be near each other in the bundle. Sata makes jokes.
 Zek gets pressed up against Taz and Aira?
 
 
-"We can't just leave all of this wonderful food and drink!" Lan lamented.
-"Some it has burned. Some it is flooded. Any glass containers are probably broken," Iona said.
-"We can dive in and check!" Lan implored.
-"A team will arrive to investigate the crash. They will collect the cargo as evidence," Taz explained.
-"Maybe we can wait here for them to arrive?"
-Zek nodded to Zok and Iona touched his shoulder gently. Zok approached Lan.
-"No, I won't go! You can't make me!"
-
-
-Zok picked up and carried him to the newly arrived airship on his shoulder.
-On the military airship, Lan complains about the quality of the food and drink.
 Everyone sits together except Taz, who is on duty.
-C
-C
 
 Lan is upset to leave all of the supplies behind,
 especially the food. Officer Kransal arranges for a smaller airship to the
