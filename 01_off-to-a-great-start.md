@@ -339,12 +339,13 @@ that came out was nothing more than a pitiful moan.
 Suspended in the air, Sata braced her legs against the guardGorilla that was
 carrying her and pushed off like a olympic swimmer completing a flip turn.
 Sata's shirt ripped and she landed flat on the ground. Sata's brassiere was
-pink, like her shirt. The brassiere's cups were decorated with decapitated
-heads of pin-up girls which were dripping blood onto the brassiere's glittering
-red underband and vomiting rainbows to create the brassiere's straps and wings.
-Crawling on her hands and knees, Sata made it to Kaia and grabbed her
-outstretched hand. Seemingly perplexed by the situation, the guardGorilla
-paused for a moment, looking at the torn pink shirt in its hand.
+pink, like her shirt, but a thin band of red underneath. The brassiere's cups
+were decorated with decapitated heads of pin-up girls which were dripping blood
+onto the brassiere's glittering red underband and vomiting rainbows to create
+the brassiere's straps and wings. Crawling on her hands and knees, Sata made it
+to Kaia and grabbed her outstretched hand. Seemingly perplexed by the
+situation, the guardGorilla paused for a moment, looking at the torn pink shirt
+in its hand.
 
 Still holding the ripped remains of Sata's shirt with one hand, the
 guardGorilla grabbed Sata's foot with the other other hand and tried to pull
