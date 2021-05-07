@@ -350,12 +350,14 @@ in its hand.
 Still holding the ripped remains of Sata's shirt with one hand, the
 guardGorilla grabbed Sata's foot with the other other hand and tried to pull
 the two friends apart. As the guardGorillas yanked from both ends, Sata held on
-to Kaia's hands with all her strength. When Sata's shoe came off, they hit the
-ground, Kaia on her back, Sata on her chest, but they remained linked. The
-guardGorilla holding Sata's shirt and shoe, looked back and forth between the
-two items. Its programming had not prepared it for this kind of situation. The
-guardGorilla holding Kaia's ankle seemed to grow impatient and began to drag
-the daisy chain of girls out of the gymnasium.
+to Kaia's hands with all her strength. When Sata's shoe came off, Kaia and Sata
+hit the ground, Kaia on her back, Sata on her chest, but they remained linked.
+The guardGorilla holding Sata's shirt and shoe, looked back and forth between
+the two items. Its programming had not prepared it for this kind of situation.
+The shoe in the guardGorilla's hand was a ballerina flat decorated with pin-up
+girls drowning in a rainbow vomit sea of their own creation. The guardGorilla
+holding Kaia's ankle seemed to grow impatient and began to drag the daisy chain
+of girls out of the gymnasium.
 
 "At least now, I won't have to go through the initiation rite," Sata joked.
 
