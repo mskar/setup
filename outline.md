@@ -1950,12 +1950,12 @@ killed on sight.
 - Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
 - The octopus becomes symbiotically linked to Kaia. She goes to the ocean and gets into the water. The octopus releases its spawn.
 - Taz thinks its wild that Aira is tall. Lunkers tend to be on the shorter end of the spectrum. He has a weird obsession with height. "When I look at her, I think how will she even fit in the tunnels back home? It's so wrong. I can't stop staring at her.'"
-- Visit Lem's grave in Salvatore Cemetery to read the the inscription: feci quod potui, faciant meliora potentes
+- Visit Lem's grave in Salvatore Cemetery to read the inscription: feci quod potui, faciant meliora potentes
 Meaning: I have done what I could; let those who can do better. The scenders have their base in the church because they like the inscription, vita non tollitur: Life does not end
 - The refugee camp on the Błonia Park
 - The students organize Iuwenalia
 - Eiva sees the initials of Jagiellonian Library (BJ) and laughs. No one else understands.
-
+- "Do you ever think that we might be the baddies?" "What do you mean?" "Well, we wear armor made from the bones of our enemies, we call ourselves sinistrae, and we're trying to take over the world. Does that sound like what the good guys would do?"
 
 
 
