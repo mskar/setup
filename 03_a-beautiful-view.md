@@ -254,7 +254,7 @@ passengers boarding and any remaining supplies being loaded.
 
 "Who are they?" Sata asked.
 
-"They're all part of our theater group. Iona directs. Ursa and Zok act.
+"They're all part of our performance group. Iona directs. Ursa and Zok act.
 Zek writes." Lan answered. "Come on, I'll introduce you."
 
 They went to the gangway to greet the new passengers. Taz stood guard over the

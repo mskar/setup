@@ -198,7 +198,7 @@ withdrawal, if he hasn't already."
 "Who are we getting help from? More of your animals?"
 
 "This time we need help from the people of this forest. They call
-themselves the druidicDryads."
+themselves the Driads."
 
 "People live in this forest?"
 
@@ -226,7 +226,7 @@ help!"
 
 "You mustn't tell anyone anything!" Ryn said forcefully.
 
-A small elderly woman rappelled down from a tree. "We are druidicDryads. We
+A small elderly woman rappelled down from a tree. "We are Driads. We
 speak for the trees. You are trespassing in our forest."
 
 "Greetings, I am Ryn, and this is Fera. Our companion is sick from exposure to
@@ -274,7 +274,7 @@ era of freedom and equality."
 "Your words do not sound hollow. If you promise to respect and protect the
 forest. We will aid you."
 
-After Ryn and Fera promised, other druidicDryads rappelled down from trees.
+After Ryn and Fera promised, other Driads rappelled down from trees.
 Still more, came out of hiding from behind other trees, bringing various items
 and placing them down on the ground in front of Fera and Ryn. Fera looked over
 the items. There were leaves covered berries, nut, and insects, gourds filled
@@ -283,7 +283,7 @@ with water, clothes made of animal skins, knives, bows, and quivers of arrows.
 "While we tend to your companion, you may eat and rest. We would be honored if
 the city destroyer and her mimic companion could wear our clothing and use our
 weapons on their quest to overthrow the government," Arba said as several
-druidicDryads carried the Principal away on a wooden sled.
+Driads carried the Principal away on a wooden sled.
 
 Fera eyed the food with suspension. Ryn seemed to have no problem with the food
 and ate bugs, nuts, and berries heartily. Fera picked a knife and unsheathed
@@ -294,7 +294,7 @@ sharp.
 "The knives and arrows are lignum vitae wood. They cannot break steel, but they
 can cut flesh," Arba explained.
 
-Fera put the shoes that the druidicDryads brought her. The shoes, moccasins
+Fera put the shoes that the Driads brought her. The shoes, moccasins
 made out of animal skin, were very comfortable. She went behind a tree to
 change into the rest of the clothes. When she came back Ryn had already
 changed.
@@ -354,7 +354,7 @@ Ryn nodded again. Fera was eager to learn more. "What about mimic women?"
 Fera looked at Ryn in amazement. "You weren't kidding when you said you could
 photosynthesize!"
 
-"Yes, but you mustn't tell anyone anything! I believe the druidicDryad mean us
+"Yes, but you mustn't tell anyone anything! I believe the Driad mean us
 no harm, but other topsiders might want to capture and study mimics."
 
 "Where do mimics come from?" Fera asked.
@@ -441,7 +441,7 @@ perhaps we can leave our sick companion with you until he gets better."
 one night. You may leave at first light."
 
 Fera nodded. Riding a stag through a dark forest did not seem like a great
-idea. The druidicDryads laid down pieces of moss-covered bark onto the ground.
+idea. The Driads laid down pieces of moss-covered bark onto the ground.
 Arba got up and gestured towards the bark. "You may sleep here. We will return
 at sunrise to bid you farewell on your quest. Good night."
 
@@ -549,7 +549,7 @@ amount of heat. "How are you doing that?" Fera asked.
 
 "Producing heat? The same way you do, by contracting my muscles and releasing
 energy stored in glycogen. I have a lot of energy saved from being out in the
-sun and from the food the druidicDryads gave us. You should have eaten
+sun and from the food the Driads gave us. You should have eaten
 more. Would you like me to bring you some of the food now?"
 
 "Just shut up and be warm," Fera turning around and pressing her back against
@@ -587,7 +587,7 @@ Ryn grabbed two water gourds and a quiver of arrows, then mounted his stag in
 hurry. Fera threw a bow towards Ryn. "You forgot this. The arrows won't be much good
 without it."
 
-The druidicDryads had begun to gather around. Fera saw Arba and waved to her.
+The Driads had begun to gather around. Fera saw Arba and waved to her.
 
 "Farewell city destroyer. We will tend to your companion. If you ever need
 assistance, come to this forest. We will teach our children to sing songs of
@@ -595,7 +595,7 @@ your bravery, glory, and honor."
 
 Fera bowed to Arba, ran up to her stag, swung up by its antlers onto its back. This
 time the motion was much more fluid and Fera noted the impression it made on
-the druidicDryads.
+the Driads.
 
 Once they were out of earshot, Fera looked at Ryn, "Is the Principal going to
 be ok with them?".

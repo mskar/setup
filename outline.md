@@ -120,7 +120,7 @@ Aira, Zek, Zok, Ursa, Iona, and Taz settle into the refugee camp. Kaia gets
 confirmation from Ben and Edl that Fera did not make it. Each protagonist has a
 job/activity, e.g. Lan works in the kitchen and Taz guards the camp, Aira works
 on stage (she misses Ryn), Ursa and Zok rehearse, Iona directs and goes over
-the script with Zek, Edl plays bugBall, Ben tinkers, The theater group puts a
+the script with Zek, Edl plays bugBall, Ben tinkers, the performance group puts a
 show. Kaia convinces Ursa and her understudy and dunderstudy to pretend to be
 sick. To prevent any questions, they tell everyone that all three were kissing
 each other. Aira was not invited to the kissing party, because she is with Taz.
@@ -133,8 +133,8 @@ stroking her hair and holding her hand.
 - 05: Never looked better:
 
 
-Fera and Ryn go to the druidicDryads to ask for help with Mel. They spend the
-night. Fera feels very cold. The druidicDryad do not use fire. She did not eat
+Fera and Ryn go to the Driads to ask for help with Mel. They spend the
+night. Fera feels very cold. The Driad do not use fire. She did not eat
 much of the food and now is hungry. Ryn hugs her to keep her warm. Fera
 complains but secretly enjoys physical contact with Ryn. They arrive at the
 Lunker city. They meet Nil and Oil. Fera thinks the boat ride is a trap, but
@@ -642,7 +642,7 @@ the internet and hires miners to dig through to the capsule. Eiva gives birth an
 Kaia is near death from starvation when the miners break through. Fera and Eiva
 start to organize an army to defeat the scenders. Kaia and Sata get ready to
 rescue Zek, Zok, Ursa, Ryn, and Iona from the scenders. Mel joins them with
-druidicDryad warriors. Taz joins Fera's army with some army buddies who are
+Driad warriors. Taz joins Fera's army with some army buddies who are
 also addicted to sinistrae. Kaia is angry at Taz, but Fera accepts him with
 open arms. Representatives of various oppressed people start to visit Fera,
 e.g. Daka and Dzaa from the Mungs. They hatch a plan to rescue Zek, Zok, Ursa,
@@ -1085,7 +1085,7 @@ weapons. If the blasts don't kill them, our arrows and knives will."
 - Martians
 - Thelusians
 - Scenders
-- druidicDryads
+- Driads
 - Atlantans
 - Zeppelinomads
 - Mimics
@@ -1329,7 +1329,7 @@ even Mungs.
 
 "The fish people? Ok, sure they can have freedom and equality too."
 
-"What about druidicDryads?"
+"What about Driads?"
 
 "Yes, the tree people can also have freedom."
 
@@ -1344,7 +1344,7 @@ were a nuisance. They would hunt birds for food, hijack airships, and dump
 their trash on the people below. Luckily, the government wiped them all out by
 igniting all of their hydrogen and taking away all of their precious helium.
 
-druidicDryads show up to ask Fera to promise that she will protect the trees,
+Driads show up to ask Fera to promise that she will protect the trees,
 Atlantans ask Fera to promise to respect the oceans. Fera agrees in exchange
 for their promise to support the revolution.
 
@@ -1433,14 +1433,14 @@ boy. Fera's followers speculate that Kaia, Eiva, and Fera are in a polyam
 when she talks to Lita via her son. Lita is jealous. She thinks that Kaia got
 rid of her so that she could live with Eiva and Fera.
 
-"We are the druidicDryads, we speak for the trees!"
+"We are the Driads, we speak for the trees!"
 
 Fera stations guards around the secret locations of the eternalEnlighted. If
 the eternalEnlighted ever disobey her, the guards are instructed to destroy all
-of the brain tanks. She grants sovereignty to the Atlantans, druidicDryads,
+of the brain tanks. She grants sovereignty to the Atlantans, Driads,
 Mungs, and Lunkers, as she promised, and she forms two new branches of
 government: a monarchy with her as the queen and a council with a
-representative from the Atlantans, the druidicDryads, the Lunkers, and the Mungs.
+representative from the Atlantans, the Driads, the Lunkers, and the Mungs.
 
 Fera gives herself a permanent seat on the new council with veto power and puts
 her fanboy on the Council as the Zeppeliner representative and uses him as her
@@ -1939,14 +1939,17 @@ a patrol and are forced to land, aim for a tree and wait for the patrol to
 pass. Do not touch down on any-man made structure near a patrol or you will be
 killed on sight.
 
+
+
 - Kaia meets Ben and Edl. They tell her that Fera died in the explosion. This puts a strain on Kaia's relationship with Sata.
 - Aira and Taz get married in Wieliczka
-- After Kaia sees that Aira and Lan are dead, she has a vision but the octoculus saves her again and guides her to hiding scientist. The scientist takes Kaia to see the octoculus and explains that it originated from the cosmic message that also brought the mimics to Earth. Ryn holds the scientist captive and demands to know the reason why mimics were brought to Earth and the purpose of mimickind. Ryn threatens the scientist with a scalpel and then when the scientist is not intimidated, Ryn brings in the mimic warrior. Ryn backs down when the scientist mentions the octoculus. Ryn says that he heard about the octoculus in the fragments of the message that his people had. The scientist said that they were not able to decode enough of the message to understand much about the octoculus. The octopus saves Sata after Fera stabs her, by taking blood from Kaia and attaching to Sata's wound. Later, Ben has the scientist explain that the octopus commanded that Aira and Lan be captured to lure Kaia to the facility. Kaia feels betrayed by the octopus.
-- The theater group puts on a play. Ursa agrees to let Aira play the lead role. The play is about the origins of the Dust Queen. Aira feels fulfilled and cries when she gets a standing ovation with Taz front and center. Iona cries as she thanks everyone for their hard work. Iona says that there is someone who would like to take the stage for something very important. Taz gets up on stage and proposes to Aira. She accepts with tears in her eyes. "Is it OK to be this happy?"
+- After Kaia sees that Aira and Lan are dead, she has a vision but the octoculus saves her again and guides her to hiding scientist. The scientist takes Kaia to see the octoculus and explains that it originated from the cosmic message that also brought the mimics to Earth. Ryn holds the scientist captive and demands to know the reason why mimics were brought to Earth and the purpose of mimickind. Ryn threatens the scientist with a scalpel and then when the scientist is not intimidated, Ryn brings in the mimic warrior. Ryn backs down when the scientist mentions the octoculus. Ryn says that he heard about the octoculus in the fragments of the message that his people had. The scientist said that they were not able to decode enough of the message to understand much about the octoculus. The octopus saves Sata after Fera stabs her, by taking blood from Kaia and attaching to Sata's wound. Later, Ben has the scientist explain that the octopus commanded that Aira and Lan be captured to lure Kaia to the facility. Kaia feels betrayed by the octopus. Ben asks if Kaia knew that Ursa was initially a man who betrayed his sister to steal her identity and become a woman. Kaia says that she did know. Ben asks if she knew that Zek and Zok were originally the same person. She says that she didn't know, but it didn't matter to her. Ben asks if Kaia knewthat Iona, Ursa, Zek, and Zok were working for the Dust Queen (Regina Pulvis... "Vagina Pelvis?"). Kaia said that she doesn't believe him. Ben brings out Ursa. Ursa admits to working for the Dust Queen. She explains that the Dust Queen promised her motherhood and she agreed to follow the Dust Queen forever. Previously, she tried to have a baby on her own but the scenders always found her, killed the baby, and scended her so her suffering would be preserved. Ursa would never remember previous attempts to have a baby, so she would try again. Ben shows Ursa and Kaia recordings of different children that Ursa tried to have either on her own or with different men. The children were always killed, if the men were present, they would be killed too. Ursa cried intensely, because she never had access to those previous memories. Whenever she died a dead-man's switch would activate and create another illegal copy of Ursa in another secret location that would try again. Ursa tried to live off the grid, among the Lunkers, Driads, the Niveus, and even the Subaqs, but each time the scenders caught her eventually. "What's the point of motherhood if you can't remember it and your child does not survive?"
+- The performance group puts on a play. Ursa agrees to let Aira play the lead role. The play is about the origins of the Dust Queen. Aira feels fulfilled and cries when she gets a standing ovation with Taz front and center. Iona cries as she thanks everyone for their hard work. Kaia doubts that the tears are real. Iona says that there is someone who would like to take the stage for something very important. Taz gets up on stage and proposes to Aira. She accepts with tears in her eyes. "Is it OK to be this happy?" This time Iona seems to cry for real.
+- The performance group (Iona, Ursa, Aira, Lan, Zek, and Zok) show a demo of casino de rueda with Iona serving as the líder. The dancers break from the circle and start to dance in pairs but remaining unison. Zek dances with Iona, Zok dances with Ursa, and Lan dances with Aira. After the dance show concludes, Zok gets up on stage and presents flowers to Iona, the choreographer. Iona cries again, but maybe is genuinely moved. The Zok says that there is a surprise that even Iona does not know about. "I'd like to dedicate this surprise performance to my brother Zek, the love of his life Iona, and the love of my life Ursa. I love you Ursa." Ursa cries intensely. Zok starts to solo dance an urban bachata. Lan, now wearing a skirt and heels, joins Zok on stage. Lan and Zok dance a sensual bachata, rolling their bodies as they grind on each other. The bachata shifts to an intensely passionate salsa. Zok leads Lan through many challenging spins. Lan rips Zok's shirt open and slides his nose up Zok's torso. Zok lifts Lan above his head and the lights go out. The audience is stunned. Aira and Ryn let out a gasp, but won't tell Kaia what they see to not ruin the surprise. When the lights go back up. A spotlight illuminates a pair of feet in glamorous heels. As the spotlight widens, a skirt drops over the legs and a hand shakes its finger at the audience. When the whole stage is illuminated Zok is now wearing heels and what appears to be the same skirt that Lan was wearing before. Zok begins to dance bachata seductively lifting up his skirt on every fourth and eighth beat to reveal his perfectly smooth legs. Lan dances on to the stage confidently and takes control of Zok. Lan turns Zok around grabs him by the hair and kisses his neck while grinding on him from behind. The music switches to salsa as before and Lan start leading Zok through the same routine as before, but the roles are now reversed. The audience applauds reluctantly and then quickly leaves. Zok and Lan look into each other's eyes passionately and bow holding hands. They appear ecstatic even though the applause is scattered. Zok and Lan disappear together. Ursa runs off in tears, thinking that the performance really wasn't for her and that Zok was just lying to make the surprise performance more palatable to the audience. Kaia, Sata, Aira, Iona, and Zek go after Ursa and try to comfort her. Note: Zok could come back as a woman, but wants to be a man and love Lan as a man. Iona is furious that funding for the performance group will likely to cut because the surprise performance will alienate rich donors, but Zek is happy for his brother. "They really put the man in performance." Zek tells Iona that they can always get more money. Iona says that having rich supporters is more important than just having enough money. She says that she was influence and prestige, and not just enough money to cover production costs. Ursa asks them all to leave but then calls Kaia back. She tells Kaia that she has another secret to tell, the biggest one of all. Ursa says that she once was a man and that her dream was to come back as a woman. She hated being a man. She hated her male body. She mentions to Kaia that one of her testicles hung much lower than the other. She said that being a woman even if her body would not be perfect was always her dream. As a man, she considered gender reassignment surgery, but she was always to afraid to try and it would not guarantee a safe pregnancy. She was recruited into scenderism and became a spy for them. Ursa kidnapped her own sister, scended her, put her in arctic storage, came back in a replica of her body, and stole her identity. Ursa wonders if anyone could love her if they knew the truth and if she even deserved to be loved after what she did to her sister. Ursa says that she does not want to be a man, but the thought that Zok couldn't love her as a woman was killing her and making her think of living an unhappy life as a man just to please Zok. Kaia was so shocked by the confession that she left Ursa without saying a word. Ursa continued crying in the dark feeling completely alone. Kaia heads to kitchen and finds Zok and Lan cooking together wearing only aprons. They are blasting music (salsa, bachata, and zouk), laughing, dancing, feeding each other, and kissing. Kaia storms up to them and tells then that they hurt Ursa badly. Zok says that Ursa still has Zek and Iona, and that he knows that Ursa loves Kaia, but he's not sure if it is as a sister or in a romantic way. Kaia leaves flustered and confused, Lan and Zok continue on as they were before. She doesn't know where to go next. Should she take refuge in Sata?
 - Everyone plays bugBall, Ryn explains that the bugs are also from the cosmic message.
 - Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
 - The octopus becomes symbiotically linked to Kaia. She goes to the ocean and gets into the water. The octopus releases its spawn.
-- Taz thinks its wild that Aira is tall Lunkers tend to be on the shorter end of the spectrum. He has a weird obsession with height. "When I look at her, I think how will she even fit in the tunnels back home? It's so wrong. I can't stop staring at her.'"
+- Taz thinks its wild that Aira is tall. Lunkers tend to be on the shorter end of the spectrum. He has a weird obsession with height. "When I look at her, I think how will she even fit in the tunnels back home? It's so wrong. I can't stop staring at her.'"
 
 - 
 

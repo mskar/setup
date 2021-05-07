@@ -44,7 +44,7 @@ and we are here to rescue you."
 couldn't arrive until your airship had safely crashed in the lake."
 
 "Maybe you're the one who made us crash? Did you sabotage our airship?" Zek
-conjectured. "You know, even if you killed all of us, the theater group would
+conjectured. "You know, even if you killed all of us, the performance group would
 still have more members than the maker group."
 
 "That's not funny. The MIG lost it's Vice President and quite possibly it's
@@ -110,7 +110,7 @@ puts on their respective harnesses, you'll be lifted up to the airship."
 "I'm going to go up that same way I cam down."
 
 There's a rivalry between the maker interest group (MIG) and the theater
-interest group (TIG). The theater group makes fun of the makers for not having
+interest group (TIG). The performance group makes fun of the makers for not having
 any members. Ben says that they had as many as four members, but now they are
 down to three and perhaps even two. Aira is upset to hear that Ryn is still
 unaccounted for. Kaia is devastated to find out that Fera was on the ground and
