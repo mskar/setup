@@ -1957,6 +1957,12 @@ Meaning: I have done what I could; let those who can do better. The scenders hav
 - Eiva sees the initials of Jagiellonian Library (BJ) and laughs. No one else understands.
 - "Do you ever think that we might be the baddies?" "What do you mean?" "Well, we wear armor made from the bones of our enemies, we call ourselves sinistrae, and we're trying to take over the world. Does that sound like what the good guys would do?"
 
+Locations:
+- Scender hideout in Salvatore church
+  - Lem's grave Date of death	27. 3. 2006 Cemetery	Salwator Cemetery, Krakow, Poland GPS coordinates of the cemetery	50.053249, 19.904173 Details: Approximate GPS coordinates of the grave are 50.053249, 19.904173. Stand in front of the church, then turn left.
+- Kosciuszko Mound and entrance to the Lunker city
+- Wieliczka: Wessel lake, sinistrae time capsule, and chapel ("We're going to the chapel and going to get married.")
+- Blonia Park: Refugee camp and Iuvenia Stadium. Refugees cannot leave on foot because the World Heritage Site robots would kill them.
 
 
 Book 3:
