@@ -36,12 +36,14 @@ opposing team."
 
 When Ben touched down, the birds released his arms and Ben bowed deeply.
 "Greetings! I am Ben and emerging from the water behind me is my brother Edl,
-and we are here to rescue you."
+and we are here to rescue you." Edl stood be behind Ben, dripping wet. He
+looked ready to defend Ben if needed, but he had a friendly expression on his
+chiseled face.
 
 "Took you long enough," Zek complained.
 
 "We received your distress signal and changed course right away, but we
-couldn't arrive until your airship had safely crashed in the lake."
+couldn't arrive until your airship had safely crashed in the lake," Ben said quickly.
 
 "Maybe you're the one who made us crash? Did you sabotage our airship?" Zek
 conjectured. "You know, even if you killed all of us, the performance group would
@@ -50,7 +52,7 @@ still have more members than the maker group."
 "That's not funny. The MIG lost it's Vice President and quite possibly it's
 Secretary earlier today."
 
-"Did something happed to Ryn?" Aira rushed up to Ben.
+"Did something happen to Ryn?" Aira rushed up to Ben.
 
 "I am afraid that Ryn is still unaccounted for. The last time I saw him, he was
 with Fera, the MIG Vice President."
@@ -69,7 +71,7 @@ Principal." Kaia said.
 
 "Yes, the Principal was with Fera and Ryn, the last time we saw them."
 
-"We left her there and now she's dead." Kaia said flatly.
+"We left her there and now she's dead," Kaia said flatly.
 
 "Was Ryn on motorcycle with them?" Aira asked.
 
@@ -96,29 +98,38 @@ pilots for lying, at Sata for not believing her, and at herself for not being
 able to discern hallucinations from reality.
 
 "We are going to hold a memorial ceremony for Fera when we reach the refugee
-camp," Ben said solemnly. "A propos the camp, do you think we could be on our
-way there shortly?"
+camp," Ben said solemnly. "Speaking of the camp, do you think we could be on our
+way there shortly? It's getting quite late."
 
 "We're all here and accounted for. The pilots said they were going to wait for
 a military evac."
 
-"Very well. I'll have our airship send down the rescue lines. Once everyone
-puts on their respective harnesses, you'll be lifted up to the airship."
+"Cowards," Kaia said quietly.
 
-"You're not going with us?"
+No one said anything.
 
-"I'm going to go up that same way I came down."
+"The airship cannot land here, so you'll have to be lifted up to airship down the rescue lines," Ben explained.
+
+"You're not going with us?" Zek asked suspiciously.
+
+"I'm going to go up that same way I came down," Ben said gesturing to the birds
+flanking him.
 
 "We can't just leave all of this wonderful food and drink!" Lan lamented.
+
 "Some it has burned. Some it is flooded. Any glass containers are probably broken," Iona said.
+
 "We can dive in and check!" Lan implored.
+
 "A team will arrive to investigate the crash. They will collect the cargo as evidence," Taz explained.
+
 "Maybe we can wait here for them to arrive?"
-Zek nodded to Zok and Iona touched his shoulder gently. Zok approached Lan.
+
+Zek nodded to Zok and Iona touched Zok a gentle push. Zok approached Lan.
 "No, I won't go! You can't make me!"
 
 Zok picked up and carried him to the cables dangling from the newly arrived airship on his shoulder.
-On the military airship, Lan complains about the quality of the food and drink.
+
 
 Cable scene: Kaia sees Zok whispering in Lan's ear. Zek and Zok start to fight
 on the way up. Lan starts swinging to defend Zok. Zok gets tangled up in a sexy
@@ -128,6 +139,15 @@ Ursa to defend Zek. The three of them get tangled along with Kaia and Sata.
 Kaia starts to smile because everyone is acting so silly. Kaia forgets about
 her fear of heights, starts to feel less angry, and stops replaying Fera's
 death over and over in her mind.
+
+On the military airship, Lan complains about the quality of the food and drink.
+
+...
+
+Kaia sees the refugee camp from the observation deck soon after takeoff. "If we
+were so close, why didn't we just parachute into the camp?" Ben explains that
+the lake was the only place to crash land and the forest in between the lake
+and camp was filled Driads and the city was patrolled by World Heritage robots.
 
 ...
 There's a rivalry between the maker interest group (MIG) and the theater

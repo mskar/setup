@@ -457,6 +457,41 @@ unconscious? Or were you just faking it so you could kiss Iona."
 "Oh no, you're not getting off the hook that easily. How could you have
 possibly heard what I said?"
 
+"The airship was sabotaged, and saboteur may still be onboard. I did the
+pre-flight checks myself before we took off and no one has disembarked since
+then."
+
+"Maybe you sabotaged the airship?
+
+"Everyone is a suspect until we rule them out," Taz said.
+
+"Do we have time for an investigation? Isn't the airship going down?"
+
+"The autopilot can keep the airship in the air for a few hours. I'll make sure
+we all get off safely AFTER we identify the saboteur. There are nine
+passengers. The two pilots were locked in the cockpit since take off."
+
+"We were all together, so it couldn't have been any of us."
+
+"Lan, Aira, Kaia, and Sata were the first to board."
+
+"Zek and I were together the whole time."
+"We were the last to board and we've been together ever since."
+
+"Not everyone is here. There were nine of us. Only seven are here now."
+
+"Lan and Zok are not here," Ursa said dejectedly.
+
+"Why would they sabotage the ship?"
+
+"We have to find them and interrogate them."
+
+"Wait," Kaia said wrestling with her conscience. "I think it was me."
+
+"Kaia was me, the whole time."
+
+
+
 Officer Kransal walked up to them with urgency holding a parachute in each
 hand. "Can you jump?"
 
