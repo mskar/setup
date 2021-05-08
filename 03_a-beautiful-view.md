@@ -457,9 +457,9 @@ unconscious? Or were you just faking it so you could kiss Iona."
 "Oh no, you're not getting off the hook that easily. How could you have
 possibly heard what I said?"
 
-"The airship was sabotaged, and saboteur may still be onboard. I did the
-pre-flight checks myself before we took off and no one has disembarked since
-then."
+Officer Kransal saved Kaia from having to answer the question. "The airship was
+sabotaged, and the saboteur may still be onboard. I did the pre-flight checks
+myself before we took off and no one has disembarked since then."
 
 "Maybe you sabotaged the airship?
 
@@ -467,48 +467,118 @@ then."
 
 "Do we have time for an investigation? Isn't the airship going down?"
 
-"The autopilot can keep the airship in the air for a few hours. I'll make sure
-we all get off safely AFTER we identify the saboteur. There are nine
-passengers. The two pilots were locked in the cockpit since take off."
+"The autopilot can keep us in the air for a few hours. I'll make sure we all
+get off safely AFTER we identify the saboteur. The two pilots were locked in
+the cockpit since take off, so it has to be one of the nine passengers. The
+main suspects are Lan and Zek, since they left the group sometime while we were
+watching the explosion. Before we go look for them I want to hear alibis,
+starting with the people who boarded first."
 
-"We were all together, so it couldn't have been any of us."
+"Lan, Aira, Kaia, and I boarded first."
+
+"Did you all stay together until you came to the observation deck?"
+
+"Yes, we were all together the whole time," Sata lied. Kaia tried to hide her
+surprise. She had no idea if Officer Kransal noticed it, there was no way to
+read his expression behind his balaclava and sunglasses. Aira looked touched
+that Sata would lie to protect her, but Kaia was not sure if lying was such a
+good idea.
+
+"Sata, Aira, and Kaia have a strong alibi, though we cannot rule out that all
+three of them are saboteurs."
 
 "Lan, Aira, Kaia, and Sata were the first to board."
 
-"Zek and I were together the whole time."
-"We were the last to board and we've been together ever since."
+"Ursa, Zek, and I were together the whole time too," Iona said.
 
-"Not everyone is here. There were nine of us. Only seven are here now."
-
-"Lan and Zok are not here," Ursa said dejectedly.
-
-"Why would they sabotage the ship?"
-
-"We have to find them and interrogate them."
+"Yes, I was with you since boarding as well," Taz said. "Everyone stay here.
+I'm going to look for Lan and Zok. If they come back before I do, call me
+immediately." Officer Kransal gave Iona a hand-held communicator.
 
 "Wait," Kaia said wrestling with her conscience. "I think it was me."
 
-"Kaia was me, the whole time."
+"Kaia, you were with me the whole time. There's no way you could have sabotaged
+the ship."
 
+"I did it with my mind while I was unconscious," Kaia blurted out. "I didn't
+mean to, it was an accident."
 
+Everyone paused and looked at Kaia with a mix of shock and concern.
 
-Officer Kransal walked up to them with urgency holding a parachute in each
-hand. "Can you jump?"
+"If anyone leaves the observation deck, they become a suspect," Officer Kransal
+said and then walked away to look for Zok and Lan.
 
-Kaia was puzzled. Ursa started to explain. "While you were unconscious, the
-airship was badly damaged. We're going to crash."
+"Didn't he hear me?"
 
-Kaia held onto Sata and Ursa for support. Her head was spinning. She looked
-back and forth between Sata, Ursa, and Officer Kransal, hoping that they were
-joking. The look on Kaia's face did inspire confidence. Officer Kransal lowered
-the parachutes and looked around the room. "Who has skydived before?"
+Ursa approached Kaia and began leveraging her interpersonal skills. "We all
+heard you, Kaia. We all believe that you believe that you're responsible, but
+you're not. You just sustained a head wound, well it was actually just your
+face, but that still counts."
+
+"My face?" Kaia asked.
+
+"You jumped head first into the observation deck floor. It look when you were
+trying to jump through the glass." Kaia knew what Ursa meant. She remembered
+diving into the dust after Fera. She was embarrassed to think of how it must
+have looked to everyone. Ursa could see that Kaia was uncomfortable talking
+about it, so she changed the subject.
+
+"Stay here and keep them safe," Iona commanded.
+
+"I want to look for Zok and Lan, too. I'm really good at stealth. I used to be
+a-"
+
+"Protect Aira, Kaia, and Sata, we'll find Zok and Lan," Iona said interrupting Ursa.
+
+"If you leave, you'll be suspects too," Kaia said.
+
+"We have to make sure Officer Kransal doesn't hurt Lan and Zok," Iona said and
+turned to leave.
+
+After Iona and Zek left, Ursa, Kaia, and Sata stood in silence a bit before
+Sata let loose the question that had been on her mind since she first saw Ursa.
+
+"If someone exercises a lot, does it make their boobs look bigger?" Sata asked.
+
+"Yeah, I guess, but every body is diff-" Ursa looked uncomfortable.
+
+"Because it looks like you exercise... a lot!" Sata asked making a slightly
+lewd gesture in front of her chest.
+
+"Sata, now is not the time."
+
+"If we're going to crash, I want to die as I have lived, a free spirit," Sata
+said, paraphrasing Voltairine de Cleyre.
+
+"We're not going to die. I will make sure you stay safe," Ursa said.
+
+Iona and Zek returned with Zok and Lan.
+
+Ursa leapt towards Zok. "Where were you?"
+
+"The lavatory."
+
+"Both of you?"
+
+"Yes, I guess we both need to go at around the same time."
+
+"Lan and Zok are back," Iona said into the communicator.
+
+When Officer Kransal returned he immediately started to question Zok and Lan.
+He was not satisfied with their bathroom alibi, but did not have any evidence
+against them. After a brief interrogation, Officer Kransal explained the plan.
+
+"We're not going to the refugee camp until the investigation is concluded.
+We'll parachute down and make our way to the planned crash site."
+
+Officer Kransal looked around the room. "Who has skydived before?"
 
 Iona, Ursa, Zok, and Zek raised their hands.
 
 "Good, each of you should pair up with someone without experience and jump in
 tandem."
 
-"I can jump with Kaia in tandem," Ursa offered.
+"I can jump with Kaia," Ursa offered.
 
 "I'll jump with Sata in that case," Iona said.
 
@@ -521,34 +591,42 @@ Zok stepped forward and struck a heroic pose. "I'll do it."
 "Will you jump with me, Officer?" Aira asked. Officer Kransal nodded.
 
 "Doesn't anybody want to jump with me?" Zek asked. No one said anything.
-Officer Kransal brought up a map of the terrain below and explained the plan.
+Officer Kransal brought up a map of the terrain below on the wall of
+observation deck and explained the plan.
 
-"The airship has been programmed to circle above our drop zone, the third
-campus of Jagiellonian University, before crashing into Zakrzówek, an
+"Our drop zone is an ancient university. The planned crash site is an
 artificial lake that was once an ancient stone quarry. We'll jump in pairs,
-except for Zek, and then rendezvous at Zakrzówek. Any questions?"
+except for Zek, and then rendezvous by the road that led down into quarry. Any
+questions?"
 
-Zek raised his hand. "Won't there be World Heritage robot patrolling the
-University?"
+Zek raised his hand. "Won't there be World Heritage robots patrolling the
+university?"
 
-"The buildings on the third campus were all built in the early 21st century of
-the common era, so they are a low priority for patrols. Even though there
-shouldn't be any patrols, try to land in the northeast part of the campus and
-then immediately take shelter in the trees surrounding the artificial lake.
-Anything else?
+"The buildings in the drop zone were all built in the early 21st century of the
+common era. The patrols are focus on the older parts of the city. Even though
+there shouldn't be any patrols, try to land in the northeast part of the campus
+and then immediately take shelter in the forest surrounding the artificial
+lake. Remember, the robots only kill people who are standing on man-made
+structures. If you see a patrol, run and hide in the forest or a field with
+tall grass, and if you can't run, try to climb a tree. Anything else?
 
-Everyone shook their heads excepted for Kaia, who was still in shock. Ursa took
-Kaia by the arm and led her to the cargo bay.
+"What about Driads?"
 
-"Do you want anything for your nose?" Ursa asked.
+"The forest around artificial lake is sparse, so it is unlikely, but if you
+encounter Driads, do not try to run. They may shoot arrows at the ground in
+front of you as a warning. Back away slowly and try to continue to rendezvous
+point along the edge of the forest."
 
-"My nose?" Kaia touched her nose and winced in pain.
+Sata summarized the situation. "If we're in the city, robots could kill us, and
+if we're in forest, Driads could kill us."
 
-"You jumped head first into the observation deck floor. I look when you were trying to jump through the glass."
+"It would be safer to parachute into the refugee camp," Iona said.
 
-Kaia knew what Ursa meant. She remembered diving into the dust after Fera. She
-was embarrassed to think of how it must have looked to everyone. Ursa could see
-that Kaia was uncomfortable talking about it, so she changed the subject.
+"Safer for us maybe, but we could be putting everyone in the refugee camp in
+danger. Until we know who sabotaged the ship and why we need to isolate
+ourselves from the other evacuees."
+
+Ursa took Kaia by the arm and led her to the cargo bay.
 
 "Don't worry, you're in really good hands. I've skydived dozens of
 times on missions, hundreds of times recreationally, and thousands of times in
