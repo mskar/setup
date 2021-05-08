@@ -1955,7 +1955,7 @@ Meaning: I have done what I could; let those who can do better. The scenders hav
 - The refugee camp on the Błonia Park
 - The students organize Iuwenalia
 - Eiva sees the initials of Jagiellonian Library (BJ) and laughs. No one else understands.
-- "Do you ever think that we might be the baddies?" "What do you mean?" "Well, we wear armor made from the bones of our enemies, we call ourselves sinistrae, and we're trying to take over the world. Does that sound like what the good guys would do?"
+- "Do you ever think that we might be the baddies?" "What do you mean?" "Well, we wear armor made from the bones of our enemies, we call ourselves sinistrae, and we're trying to take over the world. Does that sound like what the good guys would do?" "All we are trying to do is make the world a better place by removing those who would oppose our relentless pursuit of power." "Do you think relentlessly pursing power at all costs makes us evil?" "Yes." "No, it makes us human."
 
 Locations:
 - Scender hideout in Salvatore church

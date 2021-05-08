@@ -538,11 +538,11 @@ turned to leave.
 After Iona and Zek left, Ursa, Kaia, and Sata stood in silence a bit before
 Sata let loose the question that had been on her mind since she first saw Ursa.
 
-"If someone exercises a lot, does it make their boobs look bigger?" Sata asked.
+"If someone works out, does it make their boobs look bigger?" Sata asked.
 
 "Yeah, I guess, but every body is diff-" Ursa looked uncomfortable.
 
-"Because it looks like you exercise... a lot!" Sata asked making a slightly
+"Because it looks like you work out... a lot!" Sata asked making a slightly
 lewd gesture in front of her chest.
 
 "Sata, now is not the time."
@@ -588,10 +588,17 @@ Zok stepped forward and struck a heroic pose. "I'll do it."
 
 "My hero!" Lan exclaimed.
 
-"Will you jump with me, Officer?" Aira asked. Officer Kransal nodded.
+"No way, You two are still the primary suspects," Officer Kransal said.
 
-"Doesn't anybody want to jump with me?" Zek asked. No one said anything.
-Officer Kransal brought up a map of the terrain below on the wall of
+"Just let them jump together. They're going to run off into the wilderness
+together. Maybe Zok could survive out there, but Lan wouldn't. He is like a
+delicate flower."
+
+"Will you jump with me, Officer?" Aira asked. Officer Kransal nodded and seemed
+to forget about his previous objections to the pairing.
+
+"I guess I'll just jump on my own." Zek said, pretending to be very sad.
+Officer Kransal brought up a map of the terrain on the wall of
 observation deck and explained the plan.
 
 "Our drop zone is an ancient university. The planned crash site is an
@@ -659,11 +666,12 @@ don't worry, I'll explain everything to you!"
 
 Lan and Sata moved to closer to listen as Ursa gave Kaia instructions.
 
-"When we're exiting, hold onto your harness and keep your chin up. Do not try to grab
-onto anything. When we're in freefall, arch your back and try to enjoy it.
-After I open the chute, we'll slow down fast. It should be pretty smooth but
-it's OK to get a little scared. When we're landing, you need to keep your legs
-up. Think of an airplane landing. The back wheels have to touch down first."
+"When we're exiting, hold onto your harness and keep your chin up. Do not try
+to grab onto anything. When we're in freefall, arch your back and try to enjoy
+it. After I open the chute, we'll slow down fast. It should be pretty smooth
+but it's OK to get a little scared. When we're landing, you need to keep your
+legs up. Think of an airplane landing. The back wheels have to touch down
+first."
 
 "Did you get all of that?" Iona asked Sata.
 
@@ -680,7 +688,7 @@ Iona started to repeat everything again, but Kaia interrupted her. "Sata is
 joking. We all heard the instructions."
 
 "The instructions are no laughing matter. If you bring your legs down during
-landing you could twist an ankle or break a leg." Iona said to Sata.
+landing you could twist an ankle or break a leg," Iona said to Sata.
 
 "I love it when you reprimand me," Sata said with a sigh. "If I step out of
 line again, make sure to really give it to me good."
@@ -1035,43 +1043,46 @@ view." Kaia took Sata by the hand and led her to a secluded spot overlooking
 the water. Sata was obviously very happy to see Kaia.
 
 "I missed you. I had fun teasing Iona, but then she started cuddling with Zek.
-Taz went to do reconnaissance and Aira went with him. Lan said he was going for
-a walk. Then, Zok just got up and left without saying anything. It was awkward
-being the third wheel to the Iona-Zek bicycle."
+Officer Kransal went to look for Zok and Lan, because they never showed up, and
+Aira went with him. It was awkward being the third wheel to the Iona-Zek
+bicycle."
 
 "I think it's less of a bicycle and more of a four-wheeler."
 
 "What? I think you lost me with that analogy."
 
-"When you look out on the water, what do you feel?"
+Kaia put one hand on Sata's shoulder and gestured out at the lake with the
+other. "When you look out on the water, what do you feel?"
 
 Sata thought about it for a while. "I feel wonder, peace, and hope."
 
-"That's how I feel when I look at you."
+Kaia leaned in. "That's how I feel when I look at you."
 
-"Whoa, where did you get that line from?"
+Sata was taken aback. "Whoa, where did you get that line from?"
 
 Kaia blushed. "I wanted to talk to you, but I was really nervous and worried,
 so Ursa gave me some advice."
 
-"You don't need to take advice from other people on how to talk to me.
-Especially people we just met today. We grew up together. We've been friends
-longer than I can remember. If you want to say something to me, just say it."
+Sata began to chastise Kaia. "You don't need to take advice from other people
+on how to talk to me. Especially people we just met today. We grew up together.
+We've been friends longer than I can remember. If you want to say something to
+me, just say it."
 
-"I know. It's just that when I try to say it, I panic, everything gets mixed
-up, and I can't say anything right."
+Kaia looked pleadingly at Sata. "I know. It's just that when I try to say it, I
+panic, everything gets mixed up, and I can't say anything right."
 
-"You don't need worry about saying it right. You also don't need to say it
+"You don't need to worry about saying it right. You also don't need to say it
 right now. Let's sit down and wait for the crash together."
 
 Sata pulled Kaia by the hand to a rock that was large enough for both of them.
+They sat down side-by-side facing the lake.
 
 "It's a beautiful view," Sata said breaking the silence.
 
 "You got that right," Kaia said looking at Sata. Sata cracked a smile. Kaia did
 not saying anything else. The silence felt right. The falling airship became
 visible in the sky. It emitted a low moan as it fell, like an animal dying in
-pain. Kaia reached out and took Sata's hand. Sata looked at Kaia. She was
+pain. Kaia reached out and took Sata's hand. Sata looked at Kaia. She looked
 surprised but did not withdraw her hand. Kaia leaned in towards Sata.
 
 "You're going to miss it." Sata said, not looking away from Kaia.

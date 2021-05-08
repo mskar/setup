@@ -6,6 +6,14 @@
 
 "What about 'levitating'?"
 
+Kaia and Sata had been watching people in scuba gear rappel down into the water
+around the crashed airship for a while, but the latest person to come down was
+moving diagonally inside of straight down.
+
+"OK, but how is possible? A jetpack?"
+
+"Wouldn't a jetpack make noise?"
+
 As Kaia and Sata were trying to agree on the correct term to describe the
 person slowly descending down to the ground, someone else fell like a rock
 out of the sky and into the water.
@@ -14,20 +22,28 @@ out of the sky and into the water.
 
 "Yeah, I'd call that 'falling in fast motion'."
 
+"Maybe someone accidentally unclipped from their rappelling device?"
+
 "Come on, let's go see find the others and find out why people are dropping
 from the sky."
 
-When they arrive at the campfire, everyone was standing and looking up at the
-sky. Kaia and Sata could see that the slow-falling person had their arms
-outstretched with a giant black bird on each arm. Up above, an airship was now
-clearly visible. Iona saw Kaia and Sata approach and explained the strange
+When Kaia and Sata arrived at the campfire, everyone was standing and looking
+up at the sky. Kaia and Sata could see that the slow-falling person had their
+arms outstretched with a giant black bird on each arm. Up above, an airship was
+now clearly visible. Iona came up to Kaia and Sata and gave them an update.
+
+"The soldiers in diving gear being lowered down to crash had found no evidence
+of sabotage. We've been cleared for transport to the refugee camp."
+
+Iona could see that Sata and Kaia were not interested in the results of the
+forensic investigation. Iona pointed up in the air and explained the strange
 sight.
 
 "That's Ben. He can control animalAutomatons like those carrierCrows that are
 lowering him down to the ground. The one that fell into the water is his
 brother Edl."
 
-"Is Edl dead?"
+"Die Edl die?"
 
 "From the fall into the water? It would take a lot more than that to kill Edl.
 One time, a bugBall weighing almost a ton rolled over him. Anyone else would
@@ -42,12 +58,13 @@ chiseled face.
 
 "Took you long enough," Zek complained.
 
-"We received your distress signal and changed course right away, but we
-couldn't arrive until your airship had safely crashed in the lake," Ben said quickly.
+"We received your distress signal and changed course right away, but we had to
+wait until the investigation of your airship had been completed," Ben
+explained.
 
-"Maybe you're the one who made us crash? Did you sabotage our airship?" Zek
-conjectured. "You know, even if you killed all of us, the performance group would
-still have more members than the maker group."
+"Maybe you're the one who sabotaged our airship?" Zek conjectured. "You know,
+even if you killed all of us, the performance group would still have more
+members than the maker group."
 
 "That's not funny. The MIG lost it's Vice President and quite possibly it's
 Secretary earlier today."
@@ -59,7 +76,7 @@ with Fera, the MIG Vice President."
 
 "Fera? The Fera who staged the protest today?" Kaia asked.
 
-"Yes, the very same!"
+"Yes, the very same!" Ben looked happy to see someone who knew Fera.
 
 "Did Fera die in the explosion?" Kaia asked.
 
@@ -67,13 +84,13 @@ with Fera, the MIG Vice President."
 disappeared inside the city during the explosion," Ben answered.
 
 "I saw her in the city as we were taking off. She was on a motorcycle with the
-Principal." Kaia said.
+Principal," Kaia said dourly.
 
 "Yes, the Principal was with Fera and Ryn, the last time we saw them."
 
 "We left her there and now she's dead," Kaia said flatly.
 
-"Was Ryn on motorcycle with them?" Aira asked.
+"Was Ryn on the motorcycle with them?" Aira asked.
 
 "I don't know. It only caught a glimpse of them," Kaia said.
 
@@ -101,14 +118,12 @@ able to discern hallucinations from reality.
 camp," Ben said solemnly. "Speaking of the camp, do you think we could be on our
 way there shortly? It's getting quite late."
 
-"We're all here and accounted for. The pilots said they were going to wait for
-a military evac."
+"We're all here and accounted for. The pilots have already been evacuated."
 
-"Cowards," Kaia said quietly.
+"Cowards," Kaia said quietly. No one said anything.
 
-No one said anything.
-
-"The airship cannot land here, so you'll have to be lifted up to airship down the rescue lines," Ben explained.
+"The airship cannot land here, so you'll have to be lifted up to airship by the
+rescue lines," Ben explained.
 
 "You're not going with us?" Zek asked suspiciously.
 
@@ -117,21 +132,26 @@ flanking him.
 
 "We can't just leave all of this wonderful food and drink!" Lan lamented.
 
-"Some it has burned. Some it is flooded. Any glass containers are probably broken," Iona said.
+"Some it has burned. Some it is flooded. Any glass containers are probably
+broken," Iona said.
 
-"We can dive in and check!" Lan implored.
+"We can ask the divers to go in again and check!" Lan implored.
 
-"A team will arrive to investigate the crash. They will collect the cargo as evidence," Taz explained.
+"Recovering cargo is a waste of the divers' time and an unnecessary risk," Taz explained.
 
-"Maybe we can wait here for them to arrive?"
+"I'll go get some diving gear and go get the supplies myself," Lan said walking
+defiantly towards a group of soldiers.
 
-Zek nodded to Zok and Iona touched Zok a gentle push. Zok approached Lan.
-"No, I won't go! You can't make me!"
+Zek nodded to Zok and Iona touched Zok a gentle push. Zok approached Lan, who
+immediately started to resist. "No, I won't go! You can't make me!"
 
-Zok picked up and carried him to the cables dangling from the newly arrived airship on his shoulder.
+Zok picked up and carried him to the cables dangling from a newly arrived
+airship on his shoulder. "Let go of me, you brute! Just because you're
+good-looking and strong doesn't-" Zok began whispering into Lan's ear.
+Lan stopped struggling and his eyes lit up.
 
 
-Cable scene: Kaia sees Zok whispering in Lan's ear. Zek and Zok start to fight
+Zek and Zok start to fight
 on the way up. Lan starts swinging to defend Zok. Zok gets tangled up in a sexy
 bundle with Lan and Edl. Ursa gets jealous and starts to fight with Zek too,
 punching him impossibly hard given she has no ground to stand on. Iona attacks
