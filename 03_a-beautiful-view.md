@@ -512,20 +512,20 @@ said and then walked away to look for Zok and Lan.
 
 Ursa approached Kaia and began leveraging her interpersonal skills. "We all
 heard you, Kaia. We all believe that you believe that you're responsible, but
-you're not. You just sustained a head wound, well it was actually just your
-face, but that still counts."
+you're not. It's just not possible. You just sustained a head wound, well
+actually it was your face, but that still counts."
 
 "My face?" Kaia asked.
 
-"You jumped head first into the observation deck floor. It look when you were
+"You jumped head first into the observation deck floor. It looked like you were
 trying to jump through the glass." Kaia knew what Ursa meant. She remembered
 diving into the dust after Fera. She was embarrassed to think of how it must
 have looked to everyone. Ursa could see that Kaia was uncomfortable talking
 about it, so she changed the subject.
 
-"Stay here and keep them safe," Iona commanded.
+"Stay here and keep them safe," Iona said.
 
-"I want to look for Zok and Lan, too. I'm really good at stealth. I used to be
+"I want to look for Zok and Lan too. I'm really good at stealth. I used to be
 a-"
 
 "Protect Aira, Kaia, and Sata, we'll find Zok and Lan," Iona said interrupting Ursa.
