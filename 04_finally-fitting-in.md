@@ -578,8 +578,8 @@ and be prepared to sacrifice everything. If she did, her people would be reborn
 free of the evils that plagued them in the long forgotten past. Then, Iona
 would lead her people to retake their rightful place among the stars. She would
 teach her people to believe as she did, to keep the faith as she did, so that
-that nothing would corrupt them ever again, so that they would deserve to live
-among the stars for eternity.
+that nothing would corrupt them ever again, so that they would be worthy of
+living among the stars for eternity.
 
 Iona could see Kaia perfectly in the darkness. She could hear her heartbeat.
 Iona knew she would do anything to preserve that heartbeat. Iona did not have
@@ -596,6 +596,30 @@ pure. Iona knew that she would follow Kaia even if Kaia was not the key to
 everything Iona believed in. When she was sure that Kaia was asleep and would
 not need her until morning, Iona shutdown her processing units and went into
 idle mode for the night.
+
+...
+
+"Ursa, I felt it. It's all true. All of it. Your dreams will come true too.
+Kaia is the one we've been waiting for all this time."
+
+"I haven't been waiting as long as you. My faith is not as strong as yours, Iona."
+
+"It doesn't matter. She favors you. I can see it."
+
+"Can I still be saved? After what I did?"
+
+"Your sins are nothing compared to mine, but it does not matter whether we did
+evil or we did good, because it was all necessary to bring us here. It all
+happened as it was meant to happen."
+
+"I want to believe that but I can't. I know that what I did was selfish. I hurt
+the people closest to me to get what I wanted."
+
+"You have suffered greatly to become part of her plan. We all have. We'll
+suffer more before the rejoining can occur and the time of grace can arrive.
+Our suffering is needed so we can become worthy of the salvation that she
+offers. You were chosen because you were ready to sacrifice anything. You can
+achieve everything you always wanted just by playing your role in the plan."
 
 
 ...
