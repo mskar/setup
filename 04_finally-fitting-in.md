@@ -367,15 +367,15 @@ but rotated 90 degrees?"
 Ben overheard and without looking up from the console he said, "Edl, could you
 show the ladies the sleeping arrangements we have onboard our airship?"
 
-The girls followed Edl down a corridor and looked left and right as he showed
-them room after room.
+The girls followed Edl upstairs to the top deck and down a corridor of doors.
+They looked left and right as Edl showed them room after room.
 
 "This is my room," Edl said proudly.
 
 "Wow, your bed is so big," Sata said.
 
-"For me, it is normal size," Edl said thinking deeply about the relativity of
-perspectives.
+Edl thought deeply about the relativity of perspectives. "For me, it is normal
+size."
 
 "Can I try out your weights?" Ursa asked.
 
@@ -384,8 +384,8 @@ the bench and started to bench press the bar. Kaia and Sata's jaws dropped when
 they saw how much Ursa lift. They also could not help but notice that Ursa's
 jumpsuit was still unzipped.
 
-"Your eyes are about to bulge out your head, you voyeur," Sata trying to turn
-Kaia's head away.
+"Your eyes are about to bulge out your head, you sicko voyeur," Sata trying to
+turn Kaia's head away.
 
 "Well, everyone can hear you breathing hard, you pervert," Kaia fired back.
 
@@ -398,8 +398,8 @@ Sata wriggled around on the bed. "Are these new sheets? They smell so nice!"
 Edl nodded "Yes, all the bedding was replaced when the airship was restocked
 this morning."
 
-"Your turn to show us what you got." Ursa said to Edl while gesturing towards
-the bench. "You think you can lift more than me?"
+"It's your turn to show us what you got." Ursa said to Edl while gesturing
+towards the bench. "You think you can lift more than me?"
 
 Edl started to prepare the weights. Ursa was surprised to see Edl fill the bar
 with plates.
@@ -411,12 +411,13 @@ with plates.
 "Well, now that you set everything up, you have to give it a try. Come one,
 Iona and I will spot you."
 
-When Iona, Ursa, and Edl were all in position, Edl started to press the bar,
-seemingly without much effort.
+Iona and Ursa positioned themselves on either end of Edl, who started to press
+the bar, seemingly without much effort.
 
 "OK, big guy, that's enough. I'm already impressed," Ursa cooed.
 
-When Edl got up off the bench, Ursa put one hand on Edl's chest and another on his arm.
+When Edl got up off the bench, Ursa put one hand on Edl's chest and another on
+his arm.
 
 "What else can do you with those big muscles?"
 
@@ -425,8 +426,9 @@ Edl thought deeply about the myriad uses for muscles. "I can play bugBall."
 "Maybe you'd like to play with me sometime?" Ursa asked, winking provocatively
 at Edl.
 
-Edl's face lit up. "Yes! Yes, I would! Meet me at Iuvenia field tomorrow
-morning. I'll be practicing and training from dawn, but you can come anytime."
+Edl's face lit up. "Yes! Yes, I would! You can meet me at Iuvenia field
+tomorrow morning. I'll be practicing and training from dawn, but you can come
+anytime."
 
 "Is there anything you want to do now?" Ursa asked swirling her finger in a
 circle on Edl's chest.
@@ -443,13 +445,14 @@ parents had bribed the Principal to fake Edl's initiation rite records. Edl
 always felt confused and lost when Ben was not around. Knowing what people
 meant was not something that Edl did particularly well on his own. Edl started
 to look around the room for clues to what Ursa meant. Edl did not like
-guessing. He could never guess anything right and everyone seemed to get
+guessing. He could never guess anything correctly and everyone seemed to get
 frustrated with him. He looked pleadingly at Iona for a hint.
 
-"I think we should let Edl get some rest," Iona said and started to pull Ursa away.
+"I think we should let Edl get some rest," Iona said and started to pull Ursa
+away.
 
 Ursa flew into a rage and lashed out Edl with her fists and feet. The fact that
-her attacks seem to have no affect only added to her frustration. "You know
+her attacks seem to have no effect only added to her frustration. "You know
 what I mean! No one could be that dense! If you're not up for it, just say so
 you, coward!"
 
@@ -497,14 +500,13 @@ Iona was glad that Edl had surrender his bed so readily. She walked up to the
 bed and looked at the other girls. Ursa was still in fetal position, but she
 had stopped crying and shivering. Sata and Kaia appeared to have gone to sleep
 while comforting Ursa. Iona knew that Sata and Kaia had been through so much
-that day that it was hard to imagine that it all happened in just one day. Ursa
-was normally a fountain of positivity, but she clearly had a lot of emotions
-that she kept hidden beneath the surface. A good night's sleep would do them
-all a lot of good.
+that day that it was hard to imagine that it all happened in just one day.
 
-Iona put a comforter over the other girls, turned off the lights, and was
-getting ready to close the door behind her when Kaia raised her head and asked
-Iona to wait.
+Ursa was normally a fountain of positivity, but she clearly had a lot of
+emotions that she kept hidden beneath the surface. A good night's sleep would
+do them all a lot of good. Iona put a comforter over the other girls, turned
+off the lights, and was getting ready to close the door behind her when Kaia
+raised her head and asked Iona to wait.
 
 "Kaia, I thought you were asleep."
 
@@ -521,9 +523,10 @@ earlier."
 Iona hoped that the room was dark enough so that Kaia would not see her tears.
 Closing the door, Iona walked towards the bed in the darkness.
 
-"Can you see in the dark?" Kaia asked concerned that Iona might trip.
+"Can you see in the dark?" Kaia asked concerned that Iona might trip over the
+weight lifting equipment bolted to the floor.
 
-"I can." Iona answered, smiling.
+"Yes, I can," Iona answered, smiling.
 
 "But how? Your eyes don't glow in the dark, so I don't think you're a Lunker."
 
@@ -536,7 +539,8 @@ When Iona laid down along the edge of the bed, Kaia spoke up again.
 
 Iona moved next to Kaia.
 
-"It's OK if don't want to but could hug my back, like Sata is hugging Ursa?"
+"It's OK if don't want to, but could you hug my back, like Sata was hugging
+Ursa?"
 
 Iona smiled and was glad that she had no problem crying without making any
 noise at all. Iona slid one arm underneath the pillow under Kaia's head and
@@ -546,7 +550,7 @@ pressed her torso into Kaia's back while hugging Kaia with her other arm.
 my legs? Sata always does that without me asking and I really like it. It won't
 be too heavy for me. I'm used to it."
 
-Iona slid her right leg into between Kaia's legs.
+Iona slid her on of her legs in between Kaia's legs.
 
 "Oh, that's perfect. That's just how Sata does it. Thank you Iona."
 
@@ -562,8 +566,8 @@ had never grown that close to Ursa, because they had never really needed each
 other before today. Thanks to Kaia and Sata, Iona now felt that she learned a
 lot about Ursa and also relearned something about herself. Iona understood that
 Ursa was not impregnable and that she herself was not immune to emotion.
-Despite everything that had happened and despite what she had become, she still
-needed and craved emotional connections with her peers.
+Despite everything that had happened and despite what she had become, Iona
+still needed and craved emotional connections with friends.
 
 Iona felt a part of her reawaken that night. A long since extinguished fire
 became rekindled in her soul. Iona rejoiced as her faith became renewed. She
@@ -590,12 +594,245 @@ proof that it was all possible, proof that it would all occur as foretold.
 
 Iona would have followed Kaia even if Kaia were cruel and cold-hearted, because
 that is what her faith dictated, because that is what was required to bring up
-the shining future that Iona saw so clearly before her. But Kaia was not just a
-means to the ends that Iona so greatly desired for so long. Kaia was good and
-pure. Iona knew that she would follow Kaia even if Kaia was not the key to
-everything Iona believed in. When she was sure that Kaia was asleep and would
-not need her until morning, Iona shutdown her processing units and went into
-idle mode for the night.
+the shining future that Iona saw so clearly before her now. But Kaia was not
+just a means to the ends that Iona so greatly desired for so long. Kaia was
+good and pure. Iona knew that she would follow Kaia even if Kaia was not the
+key to everything Iona believed in. When she was sure that Kaia was asleep and
+would not need her until morning, Iona shutdown her processing units and went
+into idle mode for the night.
+
+The sun shining though the skylight above, woke Kaia the next morning.
+
+"Did you sleep well, Kaia?"
+
+"Oh, Iona. You're already awake?"
+
+"I'm kind of a light sleeper as well."
+
+Kaia got up and saw that Sata and Ursa were still sleeping.
+
+"Iona, let's go to somewhere else, so we don't wake them."
+
+Iona nodded and walked with Kaia to an adjacent room.
+
+"Iona, thank you for staying with me last night. I also never thanked you for
+saving me on the airship."
+
+"There's no need to thank me."
+
+"You knew exactly what to do with that defibrillator. Did you have medical
+training?"
+
+"I should be the one thanking you, Kaia. Yesterday, you saved me and gave me
+hope that I was worth saving." Tears rolled down Iona's face.
+
+"Iona, I don't understand. The only noteworthy things I did yesterday were to
+fail the initiation rite and nosedive into the observation deck floor."
+
+"Kaia, there's something I need to tell you, but you should sit down first."
+
+Kaia sat down on the bed, but felt like she was sitting on pins and needles
+while she waited for Iona to speak again.
+
+Iona sat next to Kaia and spoke slowly. "Kaia, I am Thelusian."
+
+Kaia took some time to process the news. In Kaia's visions, the Thelusians were
+her enemies during the war and her allies after the war was over.
+
+"But Thelusians are machines and you're a human."
+
+"I look human, and I was human once, but I chose to become a machine, so that I
+could help you achieve your destiny."
+
+"My destiny?!"
+
+"Yes, I believe that you are destined to bring about the rebirth of Mars and
+Thelus."
+
+Kaia was stunned. "In my visions, I see the war, Thelus crashing into Mars, and
+afterwards..." The dust began shift on the floor of the room. Iona took Kaia's
+hand and touched her face, trying to maintain Kaia's foothold on reality.
+
+"Kaia, take it easy. Just focus on me and my voice. I will explain everything."
+The dust faded away and Kaia returned to the present moment. Iona began to explain.
+
+"Since the collapse of the Martian and Thelusian civilizations, I have been
+searching for people who can experience both the past and the
+present, sometimes shifting between the two and at other times essentially
+living in two realities simultaneously."
+
+"That sounds like me."
+
+"Yes, we call people like you Echos. Your connection to the past manifests
+itself as visions and dreams."
+
+"How do I make them stop?"
+
+"The only way to stop the visions is to fulfill your destiny."
+
+"How do I do that?"
+
+"For now, you can live your life as normal, but in secret you should begin
+training."
+
+"Are you going to train me?"
+
+"Only another Echo can train you."
+
+"Where are we going to find another nutcase like me?"
+
+"We won't have to look far. Zek will train you."
+
+"Zek? He has visions like mine? He seems normal."
+
+"Zek's visions are not nearly as strong as the ones you experience. Training
+with Zek will only be able to take you to a certain point, but it will help you
+to get started. Do you think you might be able to begin training today?"
+
+"Do I really need to train? Maybe Zek can handle the whole destiny thing? If
+not Zek, then maybe another Echo?"
+
+"If Zek could restore Mars and Thelus, he would have done so. You are the only
+one who can."
+
+"What if I cannot do it?"
+
+"Your visions will continue to intensify throughout your life and you will
+progressively lose your ability to experience the present."
+
+"That sounds really bad."
+
+"Yes, but don't worry. The training that Zek can provide will help."
+
+"OK, I guess I'll do the training."
+
+"That's great. Right now, only Ursa, Zek, Zok, and I know that you're an Echo.
+You should keep all of this a secret for now, even from Sata."
+
+"I don't think Sata would believe any of this. I am not sure I do either.
+Speaking of Sata, maybe we should check on them?"
+
+Ursa is sitting on the bench doing bicep curls while Sata braids her hair. When
+they see Iona and Kaia, Ursa drops the weights and runs over to them with Sata
+following close behind.
+
+Ursa says there's a message notification on the console, but they were waiting
+so they could all watch it together.
+
+A video of Ben began to play on the walls of the room.
+
+"Good morning, I trust that you slept well and are ready for your first day in
+your new home. My brother came to me in tears last night and told me about what
+had happened. From what I could piece together, Edl said something to greatly
+offend Ursa. I can assure you that Edl had no intention to offend anyone. I am
+deeply sorry for whatever it was that my brother said. It take full
+responsibility. I should have accompanied you last night to make sure there
+were no misunderstandings. You see, my brother has difficulties understanding
+social cues. Interactions that seem ordinary to us can leave Edl absolutely
+befuddled. While this cannot excuse our error or repair the damage it caused, I
+hope that this explanation will be the first step towards making amends. My
+brother and I would like to apologize to you all, and to Ursa in particular, at
+your nearest convenience. You may find us Iuvenia field in the morning, in the
+maker workshop tent in the afternoon, or at Fera's remembrance ceremony this
+evening."
+
+Sata and Kaia go to see bugBall practice. Zek, Ben, and them observe the
+practice, while Ursa, Iona, and Edl play. Zek asks if Kaia can help him with
+something. Sata asks if she can go too. Zek is unsure, but Kaia says that she
+does not want to leave Sata. They leave Ben on the bleachers and head to Wolski
+Forest.
+
+Kaia explains that Zek is going to teach Kaia self-defense. Sata asks if she
+can learn too. Zek says that she can try but not to be disappointed if the
+techniques do not work for her.
+
+Zek shows them a wicker basket hid in the woods. Inside are sleepSnakes (aka
+slumberSerpents). Zek takes out two snakes and does a demonstration. The snakes
+are coiled around his forearms and strike whenever Zek punches.
+
+"Is that like how Ben controls animalAutomatons?"
+
+"Ben uses gloves to control animalAutomatons, you will be able to control these
+snakes with mind."
+
+Sata says that she doesn't want to hold the snakes and Kaia doesn't want to
+either.
+
+Zek says that they can try something else. Zek says that another power that
+Kaia has is to blind and disorient opponents. Zek says that he is afraid to do
+a demonstration, but that there is no other way to learn. Sata agrees to be a
+volunteer. Zek tells Kaia to stand next Sata and to be ready to catch her, then
+Zek twists his hand and it appears as if a second Sata twists out of the first,
+but Sata's flail their arms in panic before the standing Sata falls into sync
+with the twisted Sata. Sata flies flailing into Kaia's arms. Sata says that her
+world went sideways. Zek says that Kaia should try to disorient him. Kaia tries
+but cannot.
+
+Zek says not to worry and that they can try something else. Zek appears to
+conjure a dark veil from nowhere and throw it onto Sata's face. Sata goes blind
+and becomes very afraid. Kaia pulls off the veil to restore Sata's sight. Zek
+says Kaia should try to blind him now. Kaia tries but cannot.
+
+Kaia is frustrated that she cannot conjure the veil. Zek says that it will come
+with time, but that the two girls should rest for now and that they'll try
+again tomorrow.
+
+The three head to the bugBall field, but everyone is gone. Zek says that they
+should head to the mess tent for lunch and that he will go find Ursa and Iona
+and join them as soon as he can.
+
+Outside the mess tent, Pyr and his Posse ambush Kaia and Sata. They use plastic
+lunch trays to block the view of overhead drones and knock the girls to the
+ground. The girls hold on to each other as the boys kick them, Kaia sees the
+pain on Sata's face and begins to experience a vision of the war. Sata is a
+fallen comrade, dying in Kaia's arms. Lashes out in anger all around her
+blinding all of the boys simultaneously. Kaia then sees copies of all of the
+boys float up and flip upside down, before crashing down into themselves. The
+boys outside the circle come to take away the ones that were blind and
+disoriented. Kaia and Sata are left on the ground, bruised and bleeding.
+
+Zek, Ursa, and Iona arrive and take Kaia and Sata to the infirmary.
+
+"Just when I though we were finally fitting in."
+
+In the
+infirmary Ursa and Iona ask if Kaia wants them to beat up Pyr, but Kaia says
+no. Sata says that they could at least give him a black eye, but Kaia says that
+it wouldn't help them and that Pyr must be emotionally hurt because he believes
+that his father died in the explosion.
+
+That evening Kaia and Sata watch the remembrance ceremony on the walls of the
+infirmary tent. That night Kaia cannot sleep and she sees Fera. Not believing
+her eyes, Kaia thinks she is dreaming or hallucinating.
+
+Fera says that she broke both of Pyr's arms after finding out what he did to
+Kaia and Sata. Kaia thinks that means that she broke both of Pyr's arms and
+feel very sorry. She tells Sata that she broke Pyr's arms with her mind. Sata
+says that she normally wouldn't believe it, but she is ready to believe
+anything after seeing Zek's demo.
+
+"I told you losers that I'm not dead."
+
+"You could be a vengeful spirit that doesn't know its dead."
+
+"I'm not dead!"
+
+Fera says that she went to the remembrance ceremony in disguise and couldn't
+help but laugh during Ben's heartfelt speech. "News of my demise have been
+greatly exaggerated."
+
+Kaia and Sata realize that Fera may actually be alive, because they remember a
+person laughing during the speech. Fera says that she wants to keep the fact
+that she's alive a secret until she can be sure that she is not wanted to
+blowing up the city. Kaia tells Fera that they will be staying in the refugee
+camp permanently, because the city is being rebuilt for new residents. Fera
+gets angry, but says she is learning to control her anger. For example, she
+says that barely enjoyed breaking Pyr's arms and that she almost felt sorry for
+him afterwards. He seem relieved when I told him that his father is alive.
+
+The Principal is alive? How did you survive the explosion?
+
+The chapter ends with Fera beginning to tell them her story.
 
 ...
 

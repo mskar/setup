@@ -110,6 +110,14 @@ End: Kaia and Sata watch the airship wreckage together while holding hands.
 
 - 04: Finally fitting in
 
+  - Ben and Edl arrive. Kaia, Ursa, Sata, and Iona go to sleep together on Ben and Edl's airship.
+  - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message send by Ben.
+  - They go to bugBall practice. Ben apologizes. Edl runs over and apologizes too.
+  - Ursa and Iona join in on the game. Zek invites Kaia to train with him. Sata tags along.
+  - Sata and Kaia are beaten up by Pyr and his Posse. Zek, Iona, and Ursa show up and take them to the infirmary.
+  - Kaia is upset to not attend the remembrance ceremony in person, but she watches it with Sata in the infirmary.
+  - Fera shows up and begins to tell her story
+
 Kaia asks Iona about medical training and the defibrillator she used. Everyone
 is surprised. Iona says that has had no medical training apart from CPR and
 that she never used a defibrillator. Everyone thinks that Kaia was imagining it.
