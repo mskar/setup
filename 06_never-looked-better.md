@@ -625,7 +625,7 @@ outline illuminated by the algae in his hand.
 Fera breathed a sigh of relief when they entered a tunnel with electric lights.
 As they approached the entrance to the city, a young Lunker run up to them.
 "Congratulations, you've won a free, all-expenses-paid trip to Vielichka salt
-mine, including a free boat ride on Lake Wessel, for two people!
+mine, including a free boat ride on Lake Vessel, for two people!
 
 "Excuse us, we need to discuss." Fera said, drawing Ryn into a huddle.
 
@@ -668,7 +668,7 @@ Ryn quickly followed Fera, afraid that if he did not, then he might be next.
 Before long, another Lunker approached them, as before.
 
 "Congratulations, you've won a free, all-expenses-paid trip to the Vielichka
-salt mine and a free boat ride on Lake Wessel for any number of people!"
+salt mine and a free boat ride on Lake Vessel for any number of people!"
 
 Fera laughed, thinking it was a joke, then realized that the Lunker was
 absolutely serious, and picked up a fresh pair of rocks.

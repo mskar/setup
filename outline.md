@@ -246,7 +246,7 @@ The chapter ends with Fera beginning to tell them her story.
   - Ben says that they are walking into a trap
   - Ben shows a map with with Aira and Lan's location
   - "I found it like that. Highlighted, circled, and surrounded by arrows."
-  - Fera and Eiva say that they still want to help even if it is a trap
+  - Fera and Eiva say that they still want to help even if it is a trap, but Kaia is still not convinced
   - Kaia talks with Taz and he is indifferent about Aira saying she lied to him
   - Taz refuses to help rescue Aira
   - Taz snitches on the protagonists
@@ -322,264 +322,221 @@ though he says he can grow himself another hand later.
 
 "I'll never become a scender. No one should live forever."
 
-"If I can't convince you maybe some of you friends can."
+Ben laughed. "I'm afraid becoming a scender is your only hope."
 
-The door opens and Ursa, Zek, Zok, Ursa, and Iona are brought in, all of them
-bound by large metal shackles and surrounded by scenders as large as Edl and
-holding spears and large shields.
+"The Dust cultists are trying to overwrite your mind with the memories of the
+Pulverulent Goddess. We want to preserve your brain the way it is. We want to
+study you to understand your gifts and use them for the good of humanity."
 
-"Where's Sata?"
+Kaia: "Why?"
 
-Not paying attention to Kaia.
-
-"Ursa, tell Kaia your story."
-
-"Kaia, I wanted to tell you..."
-
-"Ursa, get on with it."
-
-"I was a man in my first life, but I hated it. When I heard about scenderism, I
-saw it as a way to come back as who I was really meant to be."
-
-Kaia tried to process what Ursa was saying.
-
-"After I scended, I volunteered for any mission that would let me come back as
-a woman. I really liked it. On each mission I would play a different
-role. I always liked acting and no matter what role I was playing I always felt
-like I was closer to the real me than I ever had in my first life."
-
-"Tell her what you did on the missions."
-
-"Sometimes I would get information or destroy something."
-
-"Espionage and sabotage. What else, Ursa?"
-
-"Sometimes I had to kill people."
-
-"You completed hundreds of successful assassinations. You were the most
-accomplished assassin in the scenderverse."
-
-"When we met, where you on a mission?"
-
-Ben laughed. "Yes, she was, but not for scenders. Now, Ursa serves the Pulverulent Goddess."
-
-Kaia looked in disbelief at Ursa. "Why, Ursa?"
-
-"The Pulverulent Goddess promised me that I could be a woman forever and even have a
+"The Pulverulent Goddess promised Ursa that she could be a woman forever and even have a
 baby."
 
-Ursa helped build facilities to spread the Pulverulent Goddess's cult. Zek, Zok,
-and Iona were Ursa's accomplices.
-
-"Accomplice?! I was born on Mars and fought in the war. I saw the Thelusian
-spacecraft crash into Mars. Ursa has never even been to Mars."
-
-"I was there too. Zek and I stayed together the whole time even though our
-people were on opposite sides in the war. Ursa joined us much later."
-
-"Tell Kaia why you joined the Pulverulent Goddess."
-
-"The Pulverulent Goddess promised to rebuild both Mars and Thelus if we followed her."
-
-"Did you think that I was the villain? Ursa killed hundreds while working as a spy
-and an assassin. Zek has soulswept countless people like you, driving them insane or
-turning them into puppets for the Pulverulent Goddess."
-
-"They are trying to overwrite your mind with the memories of the Pulverulent Goddess.
-We want to preserve your brain the way it is. We want to study you to
-understand your gifts and use them for the good of humanity."
+"Did you think that I was the villain? Ursa killed hundreds while working as a
+spy and an assassin. Every time she tried to start a family, Ursa killed them
+indirectly. Zek has soulswept countless people like you, driving them insane or
+turning them into puppets for the Pulverulent Goddess. Zok is just a copy of
+previous version of Zek. Iona is an ancient robot."
 
 "Can't you study me without killing me?"
 
 "We can bring you back right after you scend. And your mind is continuously
 being corrupted by the Pulverulent Goddess, so there's no time to waste."
 
-"The scenders want to end physical life on Earth. The eternalEnlighted agree.
+"The scenders want to end physical life on Earth. The eternalEnlightened agree.
 They are going to kill everyone on Earth with a virus. Our research can
 convince them to not release the virus."
 
 Ben begins to lower the circular saws the will remove the top of Kaia's skull.
-Kaia channels the Pulverulent Goddess but she cannot reach any nearby fuel cells. She
-resigns to her fate when she see Sata next to her. Sata controls Ben and has
-him release her. Sata loses control of Ben and Edl attack Kaia. Ben thinks that
-Kaia took control of him. Kaia blinds Ben and Edl, but she cannot open the
-doors. Ben refuses to let her out and laughs at her feeble attempt to escape.
-In a panic, Kaia slaps Ben in the face. He laughs at how weak her slap was, but
-then starts to scream as his skin burns in the place where Kaia slapped him.
-She tells him that the burning will continue until he lets her and everyone
-else go. Ben says that he can handle the pain but the burn is disintegrating
-his skin. He continues to resist until he loses half of his face and his jaw
-becomes unhinged. Kaia is horrified by when she has done. Ben then opens the
-door and shows her footage of her friends being released. She takes Ben as a
-hostage and leaves Edl blind and screaming for her blood, because she hurt his
-brother. The protagonists go to steal an airship to escape but the airships are
-gone and Ben and Edl's parents are there waiting for them with an army of
-scenders. They explain that they do not plan to let Kaia go. They say they can
-always print another Ben. They say that he was right that Kaia was valuable.
-They do not blame him for betraying them just to get the burning pain to stop.
-Ben cries, but he cannot talk because the bottom right side of his face is
-melted. Ben's parents try to convince Kaia that being a scender is a gift. They
-say that Ben was the first algorithmically created consciousness to be placed
-in a body. Everyone thought he would be disdainful of physical life, because he
-was born in the scenderverse, but it was quite the opposite. Ben was the
-greatest advocate for physical life among the scenders. Each one of the
-scenders in our army is dedicated to the cause. They believe that scenderism is
-the only true path for humanity. We can still learn things from chemical
-intelligence, but physical life in general is wasteful. Keeping so many people
-alive is holding back human progress. The only reason why scenders have not
-enacted our plan of ending physical life is because Ben convinced us otherwise.
-When Ben was a child he designed a companion for himself. He drew up the
-schematics himself, not fully even understanding what he was doing. A
-algorithmically created mind created another conscious being from nothing. We
-still do not understand how he did it and have not been able to repeat this
-feat ever since. You are another example of something we cannot explain. We
-need you to join us so we can study your abilities for the good of humanity.
-Kaia and Zek blind the scenders but the protagonists are overwhelmed by the
-sheer volume of scenders. The scenders have shields and long spears. The
-scenders arrange themselves in a Ancient Roman testudo formation. The scenders
-know that they are immortal and that their painful deaths will not be recorded,
-so they throw themselves into battle without holding anything back. The mimic
-warrior cuts through the scenders with ease because it can move silently, evade
-their spears, fit under their shields, and then slash and bite their tendons.
-The scenders pile up on the protagonists and are about to take them captive.
-Faced with a wall of spears and exhausted from fighting, the protagonists
-consider surrendering. The scenders are stabbing blindly and moving in. The
-protagonists have there backs against a wall. Kaia wants to surrender. Fera
-asks why Kaia wants to surrender all the time, here and at the base. Fera stabs
-Sata and tells Kaia to do something or they will all die. As Sata bleeds out,
-Kaia channels the Pulverulent Goddess. At first, it seems like nothing has happened,
-but soon the scenders start falling over one by one because the Pulverulent Goddess
-stopped their breathing. From Kaia's view, the Pulverulent Goddess has replicated
-herself and is strangling each of the scenders. The Pulverulent Goddess also tries to
+Kaia channels the Pulverulent Goddess but she cannot reach any nearby fuel
+cells. She resigns to her fate when she see Sata next to her. Sata controls Ben
+and has him release her. Sata loses control of Ben and Edl attack Kaia. Ben
+thinks that Kaia took control of him. Kaia blinds Ben and Edl, but she cannot
+open the doors. Ben refuses to let her out and laughs at her feeble attempt to
+escape. In a panic, Kaia slaps Ben in the face. He laughs at how weak her slap
+was, but then starts to scream as his skin burns in the place where Kaia
+slapped him. She tells him that the burning will continue until he lets her and
+everyone else go. Ben says that he can handle the pain but the burn is
+disintegrating his skin. He continues to resist until he loses half of his face
+and his jaw becomes unhinged. Kaia is horrified by when she has done. Ben then
+opens the door and shows her footage of her friends being released. She takes
+Ben as a hostage and leaves Edl blind and screaming for her blood, because she
+hurt his brother. Kaia has Ben take her to the octoculus and takes it with her,
+even though she knows it got Aira and Lan killed. The protagonists go to steal
+an airship to escape but the airships are gone and Ben and Edl's parents are
+there waiting for them with an army of scenders. They explain that they do not
+plan to let Kaia go. They say they can always print another Ben. They say that
+he was right that Kaia was valuable. They do not blame him for betraying them
+just to get the burning pain to stop. Ben cries, but he cannot talk because the
+bottom right side of his face is melted. Ben's parents try to convince Kaia
+that being a scender is a gift. They say that Ben was the first algorithmically
+created consciousness to be placed in a body. Everyone thought he would be
+disdainful of physical life, because he was born in the scenderverse, but it
+was quite the opposite. Ben was the greatest advocate for physical life among
+the scenders. Each one of the scenders in our army is dedicated to the cause.
+They believe that scenderism is the only true path for humanity. We can still
+learn things from chemical intelligence, but physical life in general is
+wasteful. Keeping so many people alive is holding back human progress. The only
+reason why scenders have not enacted our plan of ending physical life is
+because Ben convinced us otherwise. When Ben was a child he designed a
+companion for himself. He drew up the schematics himself, not fully even
+understanding what he was doing. A algorithmically created mind created another
+conscious being from nothing. We still do not understand how he did it and have
+not been able to repeat this feat ever since. You are another example of
+something we cannot explain. We need you to join us so we can study your
+abilities for the good of humanity. Kaia and Zek blind the scenders but the
+protagonists are overwhelmed by the sheer volume of scenders. The scenders have
+shields and long spears. The scenders arrange themselves in a Ancient Roman
+testudo formation. The scenders know that they are immortal and that their
+painful deaths will not be recorded, so they throw themselves into battle
+without holding anything back. The mimic warrior cuts through the scenders with
+ease because it can move silently, evade their spears, fit under their shields,
+and then slash and bite their tendons. The scenders pile up on the protagonists
+and are about to take them captive. Faced with a wall of spears and exhausted
+from fighting, the protagonists consider surrendering. The scenders are
+stabbing blindly and moving in. The protagonists have their backs against a
+wall. Kaia wants to surrender. Fera asks why Kaia wants to surrender all the
+time, here and at the base. Fera stabs Sata and tells Kaia to do something or
+Sata will all die. As Sata bleeds out, Kaia channels the Pulverulent Goddess.
+At first, it seems like nothing has happened, but soon the scenders start
+falling over one by one because the Pulverulent Goddess stopped their
+breathing. From Kaia's view, the Pulverulent Goddess has replicated herself and
+is strangling each of the scenders. The Pulverulent Goddess also tries to
 strangle Fera, but cannot harm her. "See," Fera said, " all you needed was the
-right motivation." The Pulverulent Goddess is furious that there is someone who she
-cannot kill. The Pulverulent Goddess lashes out at Fera, but she an invisible shield
-protects Fera. The Pulverulent Goddess slams against the invisible barrier until she
-dissipates. Eiva and Fera stabilize Sata by infusing her with sinistrae blood.
-They leave Ben because he has no value as a hostage. Edl comes out of hiding,
-picks up Ben, and informs Kaia that he is no longer her friend after what she
-did to Ben. Ryn guides them underground and the protagonists (Sata, Kaia, Eiva,
-Fera, Zek, Zok, Ursa, Iona, and Ryn) head to Wessel lake in Vielichka to hide
-from the scenders.
+right motivation." The Pulverulent Goddess is furious that there is someone who
+she cannot kill. The Pulverulent Goddess lashes out at Fera, but she an
+invisible shield protects Fera. The Pulverulent Goddess slams against the
+invisible barrier until she dissipates. The octoculus saves Sata by
+transferring her some of Kaia's blood and covering her wound. They leave Ben
+because he has no value as a hostage. Edl comes out of hiding, picks up Ben,
+and informs Kaia that he is no longer her friend after what she did to Ben. Ryn
+guides them underground and the protagonists (Sata, Kaia, Eiva, Fera, Zek, Zok,
+Ursa, Iona, and Ryn) head to Vessel lake in Vielichka to hide from the
+scenders.
 
 - 11: Home sweet home
 
 Fera and Eiva take Sata into the capsule and infuse her with self-replicating
-sinistrae. Kaia is haunted by visions of the Pulverulent Goddess, but the visions
-subside when Kaia enters the capsule. No one else can enter the capsule because they
-are all dextrae based. Ursa and Ryn both start to have terrible abdominal
-cramps and begins to cry uncontrollably. Iona starts to glitch. Zok begins to
-wield energy and blows off both of his hands. The mimic warrior goes wild and
-starts to lash and bite everyone randomly. Zek seems to go insane, loses
-control, and blinds everyone except Kaia, Sata, Eiva, and Fera. Zek's snakes
-writhe in pain. Kaia leaves the others because she is mostly concerned with
-Sata. Fera is unsure of why Kaia does not appear to have any negative reactions
-to sinistrae. Kaia stays in the capsule with Sata. Sata is unconsious and Kaia has
-the first dreamless sleep in her life. The others are left in the dark at the
-bottom of Lake Wessel. After they recover, they (Zek, Ursa, Ryn, and Iona) rush
-to get Zok to a Lunker hospital. They (Zek, Zok, Ursa, Ryn, and Iona) are
-captured by scenders who followed them into the tunnels. The scenders detonate
-explosives to collapse the tunnels in Vielichka burying Kaia, Sata, Fera, and
-Eiva alive.
+sinistrae to help her heal. Kaia is haunted by visions of the Pulverulent
+Goddess, but the visions subside when Kaia enters the capsule. No one else can
+enter the capsule because they are all dextrae based. Ryn stays away because he
+remembers what happened last time. Ursa both start to have terrible abdominal
+cramps and begin to cry uncontrollably. Iona starts to glitch. Zok begins to
+wield energy wildly and blows off both of his hands. The mimic warrior goes
+wild and starts to slash and bite everyone randomly. Zek seems to go insane,
+loses control, and disorients/blinds everyone except Kaia, Sata, Eiva, and
+Fera. Luckily, the effects quickly disappear as Zek's powers fade away, but
+Zek's snakes continue to writhe in pain. Kaia leaves the others because she is
+mostly concerned with Sata. Fera is unsure of why Kaia, an Echo like Zek, does
+not appear to have any negative reactions to sinistrae. Kaia stays in the
+capsule with Sata. Sata is unconsious and Kaia has the first dreamless sleep in
+her life. The others are left in the dark at the bottom of Lake Vessel. After
+they recover, they (Zek, Ursa, Ryn, and Iona) rush to get Zok to a Lunker
+hospital before he bleeds out from his exploded hand stumps. They (Zek, Zok,
+Ursa, Ryn, and Iona) are captured by scenders who followed them into the
+tunnels. The scenders detonate explosives to collapse the tunnels in Vielichka,
+burying Kaia, Sata, Fera, and Eiva alive.
 
-- 12: Nothing interesting happens - Kaia takes sinistrae
-supplements to survive, while they dig themselves out. They are starving,
-because Fera hides food for Eiva who is revealed to be pregnant. They fill the
-capsule with rubble as they dig their way out. The AI still has a connection to
-the internet and hires miners to dig through to the capsule. Eiva gives birth and
-Kaia is near death from starvation when the miners break through. Fera and Eiva
-start to organize an army to defeat the scenders. Kaia and Sata get ready to
-rescue Zek, Zok, Ursa, Ryn, and Iona from the scenders. Mel joins them with
-Driad warriors. Taz joins Fera's army with some army buddies who are
-also addicted to sinistrae. Kaia is angry at Taz, but Fera accepts him with
-open arms. Representatives of various oppressed people start to visit Fera,
-e.g. Daka and Dzaa from the Mungs. They hatch a plan to rescue Zek, Zok, Ursa,
-Iona, and Ryn. When Kaia arrives to save her friends, she is surprised that
-there is no resistance. When she finds her friends, sees that Zek, Zok, Ursa,
-Iona, and Ryn have made a deal with the scenders (to create a child with Kaia's
-powers. Zek and Zok agree because they see an opportunity to realize their
-dream of bringing back their ancient offspring and reclaiming Mars) and are
-living comfortable. They say that the scenders mean her no harm and that Ursa
-is pregnant and that scenders are taking care of them and that they do not want
-to leave. Kaia bonds with the child while it is still in the womb. She forgets
-about Fera and Sata (Eiva stayed behind with the baby). Sata decides to stay
-with Kaia. Fera is furious with all of them but she calls her army back. Ryn
-stays. Even though Ryn still is in love with Fera, he knows she does not love
-him back and that he cannot go inside the capsule. The baby starts to destroy the
-sinistrae in Sata and Kaia's systems. Sata starts to experience seizures again
-and Kaia's visions return much stronger than before. Fera visits them and
-starts bringing them sinistrae injections which they have to use more and more
-frequently, as the baby becomes stronger. Ryn professes his love for Kaia and
-Sata. He says he can concieve a child for them that will be carry a mix of
-their DNA with his. Kaia and Sata accept Ryn as their surrogate mother and stop
-the sinistrae injections so Ryn can get pregnant. Fera is a bit jealous that
-Ryn has shifted his affection to Sata and Kaia, but hides it and says that if
-they do not want the sinistrae injections that she will stop bringing them, but
-she hopes that she can still visit. Sata and Kaia says that of course Fera can
-visit and that she can also bring Eiva and her baby when she visits. Life
-becomes very hard for Sata and Kaia without the sinistrae injections, as the
-baby grows stronger, their conditions become worse. When the baby is born Sata
-starts having so many absentee seizures that she is immobilized. Kaia lives in
-two worlds simultaneously: on Earth with the baby and on Mars with the Dust
-Queen, who is overjoyed with the birth of her offspring. Ryn gives birth to his
-child with Sata and Kaia, a girl who looks like all three of them. They name
-the girl Resa after Ryn's maternal grandmother. The live happily as they settle
-into the new normal with two babies to take care. The baby girl is an angel and
-does not need to be fed milk because she can photosynthesize. The boy
-constantly demands attention and can keep Kaia awake even when he is asleep
-because of the dreams he has. The baby girl grows up along side the baby boy
-until he kills her with his nascent power. The baby boy got jealous of Kaia's
-motherly love being split between the two babies. Sata is distraught and her
-condition worsens. Kaia grieves by focusing on her baby son. Ryn is devastated
-after first losing his sister and now his child. He isolates himself and throws
-himself into his work. The mimic child begins to speak to him. Ryn thinks he is
-going insane but the warrior explains that it is a conduit for a newly-formed,
-nearby mimic civilization that self-constructed using instructions from a
-distant mimic civilization. The conduit explains that mimics are conquerors and
-tells Ryn to sow seeds of destruction to prepare Earth for invasion. Ryn is
-happy to have a purpose and the conduit promises that Ryn will get the full
-decode interstellar message and explanations on how to apply the knowledge of
-his people. Ryn begins working on a means allow the new mimics to hijack the
-dextrae peoplePrinters (don't tell readers this now, save it for later). Fera
-takes Sata back to the capsule for recovery. When Sata returns she seems much
-better but soon she gets very sick. Fera tries to administer sinistrae medicine
-but it does not help. Zek, Zok, and Ryn cannot cure Sata so they help Sata
-scend before she dies.
+- 12: Nothing interesting happens -
+
+Kaia takes sinistrae supplements to survive, while they dig themselves out.
+They are starving, because Fera hides food for Eiva who is revealed to be
+pregnant. They fill the capsule with rubble as they dig their way out. The AI
+still has a connection to the internet and hires miners to dig through to the
+capsule. Eiva gives birth and Kaia is near death from starvation when the
+miners break through. Fera and Eiva start to organize an army to defeat the
+scenders. Kaia and Sata get ready to rescue Zek, Zok, Ursa, Ryn, and Iona from
+the scenders. Mel joins them with Driad warriors. Taz joins Fera's army with
+some army buddies who are also addicted to sinistrae. Kaia is angry at Taz, but
+Fera accepts him with open arms. Representatives of various oppressed people
+start to visit Fera, e.g. Daka and Dzaa from the Mungs. They hatch a plan to
+rescue Zek, Zok, Ursa, Iona, and Ryn. When Kaia arrives to save her friends,
+she is surprised that there is no resistance. When she finds her friends, sees
+that Zek, Zok, Ursa, Iona, and Ryn have made a deal with the scenders (to
+create a child with Kaia's powers. Zek and Zok agree because they see an
+opportunity to realize their dream of bringing back their ancient offspring and
+reclaiming Mars) and are living comfortable. They say that the scenders mean
+her no harm and that Ursa is pregnant and that scenders are taking care of them
+and that they do not want to leave. Kaia bonds with the child while it is still
+in the womb. She forgets about Fera and Sata (Eiva stayed behind with the
+baby). Sata decides to stay with Kaia. Fera is furious with all of them but she
+calls her army back. Ryn stays. Even though Ryn still is in love with Fera, he
+knows she does not love him back and that he cannot go inside the capsule. The
+baby starts to destroy the sinistrae in Sata and Kaia's systems. Sata starts to
+experience seizures again and Kaia's visions return much stronger than before.
+Fera visits them and starts bringing them sinistrae injections which they have
+to use more and more frequently, as the baby becomes stronger. Ryn professes
+his love for Kaia and Sata. He says he can concieve a child for them that will
+be carry a mix of their DNA with his. Kaia and Sata accept Ryn as their
+surrogate mother and stop the sinistrae injections so Ryn can get pregnant.
+Fera is a bit jealous that Ryn has shifted his affection to Sata and Kaia, but
+hides it and says that if they do not want the sinistrae injections that she
+will stop bringing them, but she hopes that she can still visit. Sata and Kaia
+says that of course Fera can visit and that she can also bring Eiva and her
+baby when she visits. Life becomes very hard for Sata and Kaia without the
+sinistrae injections, as the baby grows stronger, their conditions become
+worse. When the baby is born Sata starts having so many absentee seizures that
+she is immobilized. Kaia lives in two worlds simultaneously: on Earth with the
+baby and on Mars with the Dust Queen, who is overjoyed with the birth of her
+offspring. Ryn gives birth to his child with Sata and Kaia, a girl who looks
+like all three of them. They name the girl Resa after Ryn's maternal
+grandmother. The live happily as they settle into the new normal with two
+babies to take care. The baby girl is an angel and does not need to be fed milk
+because she can photosynthesize. The boy constantly demands attention and can
+keep Kaia awake even when he is asleep because of the dreams he has. The baby
+girl grows up along side the baby boy until he kills her with his nascent
+power. The baby boy got jealous of Kaia's motherly love being split between the
+two babies. Sata is distraught and her condition worsens. Kaia grieves by
+focusing on her baby son. Ryn is devastated after first losing his sister and
+now his child. He isolates himself and throws himself into his work. The mimic
+child begins to speak to him. Ryn thinks he is going insane but the warrior
+explains that it is a conduit for a newly-formed, nearby mimic civilization
+that self-constructed using instructions from a distant mimic civilization. The
+conduit explains that mimics are conquerors and tells Ryn to sow seeds of
+destruction to prepare Earth for invasion. Ryn is happy to have a purpose and
+the conduit promises that Ryn will get the full decode interstellar message and
+explanations on how to apply the knowledge of his people. Ryn begins working on
+a means allow the new mimics to hijack the dextrae peoplePrinters (don't tell
+readers this now, save it for later). Fera takes Sata back to the capsule for
+recovery. When Sata returns she seems much better but soon she gets very sick.
+Fera tries to administer sinistrae medicine but it does not help. Zek, Zok, and
+Ryn cannot cure Sata so they help Sata scend before she dies.
 
 - 13 Welcome back
 
-When Sata returns in a newly printed
-body everything again seems fine, but during a training session with Zok and
-Ursa, Sata kills both of the simultaneously, blowing off both of their heads
-along with her hands. Zek and Iona attack, but Kaia causes Iona to freeze as
-she begs them all to stop fighting. The sinistrae warriors (Fera, Mel, Taz,
-etc.) kill Zek and tear off Iona's head. Kaia is left with her baby, the insane
-Lita, Fera and her sinistrae warriors, and Iona's disembodied head. Kaia moves
-into a cottage near Vielichka. Ryn and the mimic child stay with her. Iona's
-head keeps Kaia company. Fera, Eiva, and their daughter come to visit. Ryn
-tells Kaia about Fera's deception. Fera replaced the consciousnesses of Zok,
-Ursa, and Sata with warped versions of her own consciousness (How did Fera do
-this? The AI helped her to obtain scender consciousnesses and conditioned them
-to attack non-sinistrae.). She is keeping the original versions of their
-consciousness hidden, so she can use them as leverage on Kaia in the future if
-necessary. Kaia escapes with Ryn, the mimic child, her baby, and Iona's head.
-They settle into a new normal, but then they are attacked by Ben and Edl. Ben
-and Edl explains that they are receiving images from orbital satellites and
-planes flying overhead to see themselves in third person, so Kaia will not be
-able to blind them. Scenders surround Kaia and start closing in. "I am sure,
-you can the same trick as before. Stop our breathing and then away. But we'll
-be back. We won't remember having died. We won't get discouraged. We will never
-give up. We can attack you on any clear day. We are infinitely patient. We will
+When Sata returns in a newly printed body everything again seems fine, but
+during a training session with Zok and Ursa, Sata kills both of the
+simultaneously, blowing off both of their heads along with her hands. Zek and
+Iona attack, but Kaia causes Iona to freeze as she begs them all to stop
+fighting. The sinistrae warriors (Fera, Mel, Taz, etc.) kill Zek and tear off
+Iona's head. Kaia is left with her baby, the insane Lita, Fera and her
+sinistrae warriors, and Iona's disembodied head. Kaia moves into a cottage near
+Vielichka. Ryn and the mimic child stay with her. Iona's head keeps Kaia
+company. Fera, Eiva, and their daughter come to visit. Ryn tells Kaia about
+Fera's deception. Fera replaced the consciousnesses of Zok, Ursa, and Sata with
+warped versions of her own consciousness (How did Fera do this? The AI helped
+her to obtain scender consciousnesses and conditioned them to attack
+non-sinistrae.). She is keeping the original versions of their consciousness
+hidden, so she can use them as leverage on Kaia in the future if necessary.
+Kaia escapes with Ryn, the mimic child, her baby, and Iona's head. They settle
+into a new normal, but then they are attacked by Ben and Edl. Ben and Edl
+explains that they are receiving images from orbital satellites and planes
+flying overhead to see themselves in third person, so Kaia will not be able to
+blind them. Scenders surround Kaia and start closing in. "I am sure, you can
+the same trick as before. Stop our breathing and then away. But we'll be back.
+We won't remember having died. We won't get discouraged. We will never give up.
+We can attack you on any clear day. We are infinitely patient. We will
 eventually wear you down." The mimic child gets ready to attack but Kaia stops
-it. Kaia channels the Pulverulent Goddess and instills such free into the scenders that
-they all run off a cliff. Whenever Kaia channels the Pulverulent Goddess, their
-connection becomes stronger and her visions become more intense. Ryn calls
-mimic sharks and Kaia watches the sharks eat the scenders. The prospect of
-repeatedly fighting the scenders and the intensification of the visions force
-Kaia back to the cottage. Fera has constructed a Palace of bone (supposedly
-made of the bones of her vanquished foes) on top of the ruins of Wawel castle
-next to the cottage. Fera maintains that she did not do anything treacherous.
-Ryn admits that he was lying. Kaia doesn't know who to believe.
+it. Kaia channels the Pulverulent Goddess and instills such free into the
+scenders that they all run off a cliff. Whenever Kaia channels the Pulverulent
+Goddess, their connection becomes stronger and her visions become more intense.
+Ryn calls mimic sharks and Kaia watches the sharks eat the scenders. The
+prospect of repeatedly fighting the scenders and the intensification of the
+visions force Kaia back to the cottage. Fera has constructed a Palace of bone
+(supposedly made of the bones of her vanquished foes) on top of the ruins of
+Wawel castle next to the cottage. Fera maintains that she did not do anything
+treacherous. Ryn admits that he was lying. Kaia doesn't know who to believe.
 
 - 14: Take your time
 
@@ -1819,7 +1776,7 @@ Locations:
 - Scender hideout in Salvatore church
   - Lem's grave Date of death	27. 3. 2006 Cemetery	Salwator Cemetery, Krakow, Poland GPS coordinates of the cemetery	50.053249, 19.904173 Details: Approximate GPS coordinates of the grave are 50.053249, 19.904173. Stand in front of the church, then turn left.
 - Kosciuszko Mound and entrance to the Lunker city
-- Vielichka: Wessel lake, sinistrae time capsule, and chapel ("We're going to the chapel and going to get married.")
+- Vielichka: Vessel lake, sinistrae time capsule, and chapel ("We're going to the chapel and going to get married.")
 - Blonia Park: Refugee camp and Iuvenia Stadium. Refugees cannot leave on foot because the World Heritage Site robots would kill them.
 - They need to go to space and hire a spacecraft captain who hates Mungs. They paid for a round trip to the ISS, but they the captain's life story for free. "I hate Mungs. Both of my ex-wives are Mungs." "People rarely go into a marriage with bad intentions. I certainly didn't. The heart wants what it wants. And some of those Mung women, let me tell you! They can work in high g-force environments without batting an eyelash. If there's sudden depressurization due to a crack in the hull, they just walk up to the crack, stick a body part into it, and yell at you to bring them the tools to patch it. I once saw a Mung woman hop between two open airlocks without a spacesuit. When I got there, she was already gone. She just walked off as it were nothing. I never got to ask if she was in a bind or just impatient. I reckon it's for the best that I never found her, because if I had, I reckon I would've proposed. Next stage in human evolution, I tell ya. You see on Earth everyone sits around worrying about every detail and they never take any real risks. Up here, every second of every minute is a risk. Evolution can only work by culling the weak and selecting for advantageous traits over multiple generations. If every generation is going to last for hundreds of years and there's no natural selection, then evolution grinds to a halt. My son exercises in 10G, and he's smart as a whip too. He takes spacecraft apart and puts them back together while flying them. And my daughters, they're..." The space captain broke down crying. "Little angels." "I miss them so much." The space captain's daughters are named Nara and Tuia they deserve their own novel that focuses on sisterly love (after Kaia and Sata join the Pulverulent Goddess?). The space captain gets recruited as a captain into Fera's army, thanks to nepotism (his son is an admiral).
 - The mimics have colonized planets in Andromeda, even though they originated from somewhere else. The mimics plan to invade Earth after the Andromeda-Milky Way collision.
