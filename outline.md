@@ -256,54 +256,57 @@ The chapter ends with Fera beginning to tell them her story.
 - 09: A touching reunion
 
 Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Ryn live in the
-Lunker city while planning to rescue Aira and Lan. The protagonists infiltrate
-the government facility. They move in stealthily, Sata helps Kaia walk, because
+Lunker city while planning to rescue Aira and Lan. They see Fera is preparing
+an army to fight against the government and believe her when she says that she
+had nothing to do with Aira and Lan's kidnapping. They agree to let Fera and
+Eiva join them on the rescue mission. The protagonists infiltrate the
+government facility. They move in stealthily, Sata helps Kaia walk, because
 Kaia is still hurt. The protagonists are bathed in spotlights and surrounded by
 heavily armed soldiers. They surrender and are shocked into submission but when
 Kaia sees Sata being shocked and is shocked herself, she has a vision of the
-Pulverulent Goddess and destroys all of the soldiers' weapons and powersuits killing
-them all. Everyone is impressed with Kaia's power, but Kaia is horrified by
-what she did. Ben is scientifically interested in Kaia's power. Eiva says that
-Kaia's power would have changed the outcome of the dextrae-sinistrae war. As
-they search for Lan and Aira, they are attacked by GES. Kaia blinds the GES but
-they find their opponents with echolocation and use screams to incapacitate
-anyone within range. When they scream, they cannot use echolocation, because
-they have to close their sensitive ears. Kaia, Sata, and Ryn find a child
-covered in blood who looks exactly like Lan. They find Lan's body and see that
-Lan recently gave birth to the child who is a mimic warrior. Lan had been
-starved for a long time, his skin was black, his membranes was extended to
-catch the light, and his feet had sprouted roots. Lan had been partially eaten
-by the mimic child. The blood covering the child was Lan's. Ryn says that it
-should be impossible for Lan to produce a mimic warrior in such a short time
-and that the child is because of government experiments. The child looks
-exactly like a childlike mix of Lan and Zok. They take the child with them, but
-Ryn tells them not to become attached to the child because it only lived to
-kill. Mimic warriors are genderless and cannot reproduce. The child would never
-learn to speak or develop intelligence and therefore they should not give it a
-name (Does the nameless child develop intelligence and learn to speak? Does it
-become a non-binary character? Anything is possible right? Maybe with tech the
-mimic warrior can become intelligent. Does the mimic warrior develop into a
-hermaphrodite parasite thanks to the messages sent by distant mimic
-civilizations? Does it slaughter everyone in refugee camp? No, the mimic child
-becomes a conduit for the nearby nascent mimic civilization. More on this
-later). Their hidden airship is destroyed by an airstrike and the base is
-surrounded by giant robots. A soldier with a gigaphone tells them surrender or
-they will destroy the base with airstrikes. Everyone tries to convince Kaia to
-use her power, but she does not want to kill anyone else. She is still shocked
-by the fact that Aira and Lan are dead. Fera finds an intact stunStaff and
-shocks Kaia. The stunStaff malfunctions from Fera's sinistrae. Sata tries to
-stop Fera. The protagonists fight (Fera and Eiva vs. Ursa, Iona, Zek, and Zok).
-The sinistrae are evenly matched against the dextrae, because Zek cannot blind
-them and the sinistrae sap the strength of Zok, Ursa, and Iona. Ursa and Zok
-are not able to wield energy effectively. The blows they land are absorbed by
-the bone armor that Eiva and Fera wear. Zek tries to land a blow with his
-knives and snakes, but Eiva and Fera are stronger and faster. While everyone is
-distracted, Ben uses another stunStaff on Kaia and studies her response. Edl
-holds Sata and Ryn back, because Ben told him to do so. Sata cries as Kaia is
-shocked repeatedly. The stunStaff explodes, blowing off Ben's hand. Kaia, as
-the Pulverulent Goddess, destroys all of the giant robots and the protagonists are
-buried in rubble as the building collapses when the giant robot fuel cells
-detonate.
+Pulverulent Goddess and destroys all of the soldiers' weapons and powersuits
+killing them all. Everyone is impressed with Kaia's power, but Kaia is
+horrified by what she did. Ben is scientifically interested in Kaia's power.
+Eiva says that Kaia's power would have changed the outcome of the
+dextrae-sinistrae war. As they search for Lan and Aira, they are attacked by
+GES. Kaia blinds the GES but they find their opponents with echolocation and
+use screams to incapacitate anyone within range. When they scream, they cannot
+use echolocation, because they have to close their sensitive ears. Kaia, Sata,
+and Ryn find a child covered in blood who looks exactly like Lan. They find
+Lan's body and see that Lan recently gave birth to the child who is a mimic
+warrior. Lan had been starved for a long time, his skin was black, his
+membranes was extended to catch the light, and his feet had sprouted roots. Lan
+had been partially eaten by the mimic child. The blood covering the child was
+Lan's. Ryn says that it should be impossible for Lan to produce a mimic warrior
+in such a short time and that the child is because of government experiments.
+The child looks exactly like a childlike mix of Lan and Zok. They take the
+child with them, but Ryn tells them not to become attached to the child because
+it only lived to kill. Mimic warriors are genderless and cannot reproduce. The
+child would never learn to speak or develop intelligence and therefore they
+should not give it a name (Does the nameless child develop intelligence and
+learn to speak? Does it become a non-binary character? Anything is possible
+right? Maybe with tech the mimic warrior can become intelligent. Does the mimic
+warrior develop into a hermaphrodite parasite thanks to the messages sent by
+distant mimic civilizations? Does it slaughter everyone in refugee camp? No,
+the mimic child becomes a conduit for the nearby nascent mimic civilization.
+More on this later). Their hidden airship is destroyed by an airstrike and the
+base is surrounded by giant robots. A soldier with a gigaphone tells them
+surrender or they will destroy the base with airstrikes. Everyone tries to
+convince Kaia to use her power, but she does not want to kill anyone else. She
+is still shocked by the fact that Aira and Lan are dead. Fera finds an intact
+stunStaff and shocks Kaia. The stunStaff malfunctions from Fera's sinistrae.
+Sata tries to stop Fera. The protagonists fight (Fera and Eiva vs. Ursa, Iona,
+Zek, and Zok). The sinistrae are evenly matched against the dextrae, because
+Zek cannot blind them and the sinistrae sap the strength of Zok, Ursa, and
+Iona. Ursa and Zok are not able to wield energy effectively. The blows they
+land are absorbed by the bone armor that Eiva and Fera wear. Zek tries to land
+a blow with his knives and snakes, but Eiva and Fera are stronger and faster.
+While everyone is distracted, Ben uses another stunStaff on Kaia and studies
+her response. Edl holds Sata and Ryn back, because Ben told him to do so. Sata
+cries as Kaia is shocked repeatedly. The stunStaff explodes, blowing off Ben's
+hand. Kaia, as the Pulverulent Goddess, destroys all of the giant robots and
+the protagonists are buried in rubble as the building collapses when the giant
+robot fuel cells detonate.
 
 - 10: Honesty is the best policy
 
@@ -1800,7 +1803,7 @@ killed on sight.
 - Aira and Taz get married in Vielichka
 - After Kaia sees that Aira and Lan are dead, she has a vision but the octoculus saves her again and guides her to hiding scientist. The scientist takes Kaia to see the octoculus and explains that it originated from the cosmic message that also brought the mimics to Earth. Ryn holds the scientist captive and demands to know the reason why mimics were brought to Earth and the purpose of mimickind. Ryn threatens the scientist with a scalpel and then when the scientist is not intimidated, Ryn brings in the mimic warrior. Ryn backs down when the scientist mentions the octoculus. Ryn says that he heard about the octoculus in the fragments of the message that his people had. The scientist said that they were not able to decode enough of the message to understand much about the octoculus. The octopus saves Sata after Fera stabs her, by taking blood from Kaia and attaching to Sata's wound. Later, Ben has the scientist explain that the octopus commanded that Aira and Lan be captured to lure Kaia to the facility. Kaia feels betrayed by the octopus. Ben asks if Kaia knew that Ursa was initially a man who betrayed his sister to steal her identity and become a woman. Kaia says that she did know. Ben asks if she knew that Zek and Zok were originally the same person. She says that she didn't know, but it didn't matter to her. Ben asks if Kaia knewthat Iona, Ursa, Zek, and Zok were working for the Dust Queen (Regina Pulvis... "Vagina Pelvis?" it should be Dea Pulverulenta). Kaia said that she doesn't believe him. Ben brings out Ursa. Ursa admits to working for the Pulverulent Goddess. She explains that the Pulverulent Goddess promised her motherhood and she agreed to follow the Pulverulent Goddess forever. Previously, she tried to have a baby on her own but the scenders always found her, killed the baby, and scended her so her suffering would be preserved. Ursa would never remember previous attempts to have a baby, so she would try again. Ben shows Ursa and Kaia recordings of different children that Ursa tried to have either on her own or with different men. The children were always killed, if the men were present, they would be killed too. Ursa cried intensely, because she never had access to those previous memories. Whenever she died a dead-man's switch would activate and create another illegal copy of Ursa in another secret location that would try again. Ursa tried to live off the grid, among the Lunkers, Driads, the Niveus, and even the Subaqs, but each time the scenders caught her eventually. "What's the point of motherhood if you can't remember it and your child does not survive?"
 - The performance group puts on a play. Ursa heartbroken after the dance performance agrees to let Aira play the lead role. The play is about the origins of the Pulverulent Goddess. Aira feels fulfilled and cries when she gets a standing ovation with Taz front and center. Iona cries as she thanks everyone for their hard work, just as she did after the dance performance. Kaia doubts that the tears are real. Iona says that there is someone who would like to take the stage for something very important. Taz gets up on stage and proposes to Aira. She accepts with tears in her eyes. "Is it OK to be this happy?" This time Iona seems to cry for real.
-- The performance group (Iona, Ursa, Aira, Lan, Zek, and Zok) show a demo of casino de rueda with Iona serving as the líder. The dancers break from the circle and start to dance in pairs but remaining unison. Zek dances with Iona, Zok dances with Ursa, and Lan dances with Aira. After the dance show concludes, Zok gets up on stage and presents flowers to Iona, the choreographer. Iona cries, but Kaia doubts that she is genuinely moved. The Zok says that there is a surprise that even Iona does not know about. "I'd like to dedicate this surprise performance to my brother Zek, the love of his life Iona, and the love of my life Ursa. I love you Ursa." Ursa cries intensely. Zok starts to solo dance an urban bachata. Lan, now wearing a skirt and heels, joins Zok on stage. Lan and Zok dance a sensual bachata, rolling their bodies as they grind on each other. The bachata shifts to an intensely passionate salsa. Zok leads Lan through many challenging spins. Lan rips Zok's shirt open and slides his nose up Zok's torso. Zok lifts Lan above his head and the lights go out. The audience is stunned. Aira and Ryn let out a gasp, but won't tell Kaia what they see to not ruin the surprise. When the lights go back up. A spotlight illuminates a pair of feet in glamorous heels. As the spotlight widens, a skirt drops over the legs and a hand shakes its finger at the audience. When the whole stage is illuminated Zok is now wearing heels and what appears to be the same skirt that Lan was wearing before. Zok begins to dance bachata seductively lifting up his skirt on every fourth and eighth beat to reveal his perfectly smooth legs. Lan dances on to the stage confidently and takes control of Zok. Lan turns Zok around grabs him by the hair and kisses his neck while grinding on him from behind. The music switches to salsa as before and Lan start leading Zok through the same routine as before, but the roles are now reversed. The audience applauds reluctantly and then quickly leaves. Zok and Lan look into each other's eyes passionately and bow holding hands. They appear ecstatic even though the applause is scattered. Zok and Lan disappear together. Ursa runs off in tears, thinking that the performance really wasn't for her and that Zok was just lying to make the surprise performance more palatable to the audience. Kaia, Sata, Aira, Iona, and Zek go after Ursa and try to comfort her. Note: Zok could come back as a woman, but wants to be a man and love Lan as a man. Iona is furious that funding for the performance group will likely to cut because the surprise performance will alienate rich donors, but Zek is happy for his brother. "They really put the man in performance." Zek tells Iona that they can always get more money. Iona says that having rich supporters is more important than just having enough money. She says that she was influence and prestige, and not just enough money to cover production costs. Ursa asks them all to leave but then calls Kaia back. She tells Kaia that she has another secret to tell, the biggest one of all. Ursa says that she once was a man and that her dream was to come back as a woman. She hated being a man. She hated her male body. She mentions to Kaia that one of her testicles hung much lower than the other. She said that being a woman even if her body would not be perfect was always her dream. As a man, she considered gender reassignment surgery, but she was always to afraid to try and it would not guarantee a safe pregnancy. She was recruited into scenderism and became a spy for them. Ursa kidnapped her own sister, scended her, put her in arctic storage, came back in a replica of her body, and stole her identity. Ursa wonders if anyone could love her if they knew the truth and if she even deserved to be loved after what she did to her sister. Ursa says that she does not want to be a man, but the thought that Zok couldn't love her as a woman was killing her and making her think of living an unhappy life as a man just to please Zok. Kaia was so shocked by the confession that she left Ursa without saying a word. Ursa continued crying in the dark feeling completely alone. Kaia heads to kitchen and finds Zok and Lan cooking together wearing only aprons. They are blasting music (salsa, bachata, and zouk), laughing, dancing, feeding each other, and kissing. Kaia storms up to them and tells then that they hurt Ursa badly. Zok says that Ursa still has Zek and Iona, and that he knows that Ursa loves Kaia, but he's not sure if it is as a sister or in a romantic way. Kaia leaves flustered and confused, Lan and Zok continue on as they were before. She doesn't know where to go next. Should she take refuge in Sata?
+- The performance group (Iona, Ursa, Aira, Lan, Zek, and Zok) show a demo of casino de rueda with Iona serving as the líder. The dancers break from the circle and start to dance in pairs but remaining unison. Zek dances with Iona, Zok dances with Ursa, and Lan dances with Aira. After the dance show concludes, Zok gets up on stage and presents flowers to Iona, the choreographer. Iona cries, but Kaia doubts that she is genuinely moved. The Zok says that there is a surprise that even Iona does not know about. "I'd like to dedicate this surprise performance to my brother Zek, the love of his life Iona, and the love of my life Ursa. I love you Ursa." Ursa cries intensely. Zok starts to solo dance an urban bachata-salsa song (bachasalsaton). Lan, now wearing a skirt and heels, joins Zok on stage. Lan and Zok dance a sensual bachata, rolling their bodies as they grind on each other. The bachata shifts to an intensely passionate salsa. Zok leads Lan through many challenging spins. Lan rips Zok's shirt open and slides his nose up Zok's torso. Zok lifts Lan above his head and the lights go out. The audience is stunned. Aira and Ryn let out a gasp, but won't tell Kaia what they see to not ruin the surprise. When the lights go back up. A spotlight illuminates a pair of feet in glamorous heels. As the spotlight widens, a skirt drops over the legs and a hand shakes its finger at the audience. When the whole stage is illuminated Zok is now wearing heels and what appears to be the same skirt that Lan was wearing before. Zok begins to dance bachata seductively lifting up his skirt on every fourth and eighth beat to reveal his perfectly smooth legs. Lan dances on to the stage confidently and takes control of Zok. Lan turns Zok around grabs him by the hair and kisses his neck while grinding on him from behind. The music switches to salsa as before and Lan start leading Zok through the same routine as before, but the roles are now reversed. The audience applauds reluctantly and then quickly leaves. Zok and Lan look into each other's eyes passionately and bow holding hands. They appear ecstatic even though the applause is scattered. Zok and Lan disappear together. Ursa runs off in tears, thinking that the performance really wasn't for her and that Zok was just lying to make the surprise performance more palatable to the audience. Kaia, Sata, Aira, Iona, and Zek go after Ursa and try to comfort her. Note: Zok could come back as a woman, but wants to be a man and love Lan as a man. Iona is furious that funding for the performance group will likely to cut because the surprise performance will alienate rich donors, but Zek is happy for his brother. "They really put the man in performance." Zek tells Iona that they can always get more money. Iona says that having rich supporters is more important than just having enough money. She says that she was influence and prestige, and not just enough money to cover production costs. Ursa asks them all to leave but then calls Kaia back. She tells Kaia that she has another secret to tell, the biggest one of all. Ursa says that she once was a man and that her dream was to come back as a woman. She hated being a man. She hated her male body. She mentions to Kaia that one of her testicles hung much lower than the other. She said that being a woman even if her body would not be perfect was always her dream. As a man, she considered gender reassignment surgery, but she was always to afraid to try and it would not guarantee a safe pregnancy. She was recruited into scenderism and became a spy for them. Ursa kidnapped her own sister, scended her, put her in arctic storage, came back in a replica of her body, and stole her identity. Ursa wonders if anyone could love her if they knew the truth and if she even deserved to be loved after what she did to her sister. Ursa says that she does not want to be a man, but the thought that Zok couldn't love her as a woman was killing her and making her think of living an unhappy life as a man just to please Zok. Kaia was so shocked by the confession that she left Ursa without saying a word. Ursa continued crying in the dark feeling completely alone. Kaia heads to kitchen and finds Zok and Lan cooking together wearing only aprons. They are blasting music (salsa, bachata, and zouk), laughing, dancing, feeding each other, and kissing. Kaia storms up to them and tells then that they hurt Ursa badly. Zok says that Ursa still has Zek and Iona, and that he knows that Ursa loves Kaia, but he's not sure if it is as a sister or in a romantic way. Kaia leaves flustered and confused, Lan and Zok continue on as they were before. She doesn't know where to go next. Should she take refuge in Sata?
 - Everyone plays bugBall in Juvenia Stadium, Ryn explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
 - Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
 - The octopus becomes symbiotically linked to Kaia. She goes to the ocean and gets into the water. The octopus releases its spawn.
