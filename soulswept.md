@@ -2464,7 +2464,7 @@ try to find me. This is the first time you've even ever visited me..."
 
 "No, I didn't even know...", Keia said, crying.
 
-Lita slowly disolved away.
+Lita slowly dissolved away.
 
 "No, no, No!", cried Keia, "What happened? Where did Lita go?"
 

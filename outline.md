@@ -79,14 +79,16 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - [x] 02: A productive first day
 - [x] 03: A beautiful view
 - [ ] 04: Finally fitting in
-- [ ] 05: Never looked better
-- [ ] 06: A great way to make friends
-- [ ] 07: A touching reunion
-- [ ] 08: Honesty is the best policy
-- [ ] 09: Home sweet home
-- [ ] 10: Nothing interesting happens
-- [ ] 11: Welcome back
-- [ ] 12: Take your time
+- [ ] 05: A great way to make friends
+- [ ] 06: Never looked better
+- [ ] 07: Forgive and forget
+- [ ] 08: Happiest day ever
+- [ ] 09: A touching reunion
+- [ ] 10: Honesty is the best policy
+- [ ] 11: Home sweet home
+- [ ] 12: Nothing interesting happens
+- [ ] 13: Welcome back
+- [ ] 14: Take your time
 
 - 01: Off to a great start:
   - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Aira and Ryn
@@ -94,373 +96,216 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - 02: A productive first day:
   - Fera blows up the school
   - End: Fera, Ryn, and Mel appear to die
-
-In the final moments, Fera reflects on Ben, Edl, Ryn, Aira, Sata, and Kaia,
-starting to cry when she thought about how they might have been friends if
-things were different. She thinks about feeling powerless to stop her abusive
-father and substance dependent mother. As she is knocked off the motorcycle
-from behind she imagines she is a bird flying off into the horizon.
-
+  - In the final moments, Fera reflects on Ben, Edl, Ryn, Aira, Sata, and Kaia, starting to cry when she thought about how they might have been friends if things were different. She thinks about feeling powerless to stop her abusive father and substance dependent mother. As she is knocked off the motorcycle from behind she imagines she is a bird flying off into the horizon.
 - 03: A beautiful view:
-
-Kaia, Sata, and Aira leave the school, meet Lan and Taz, evacuate in an
-airship, crash by Zakrzówek lake, make camp, Kaia and Ursa bath and bond
-
+  - Kaia, Sata, and Aira
+    - leave the school
+    - meet Lan and Taz
+    - evacuate in an airship with Iona, Ursa, Zek, and Zok
+    - parachute into Zakrzówek lake
+    - Kaia and Ursa bath and bond
+    - the airship crashes
 End: Kaia and Sata watch the airship wreckage together while holding hands.
 
 - 04: Finally fitting in
 
-  - Ben and Edl arrive. Kaia, Ursa, Sata, and Iona go to sleep together on Ben and Edl's airship.
+  - Ben and Edl arrive. Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
   - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message send by Ben.
-  - They go to bugBall practice. Ben apologizes. Edl runs over and apologizes too.
+  - On the way to bugBall practice, the girls get obvazhaneks from a street vendor
+  - Fera eats one obvazhanek, Kaia and Sata split one, Iona says that she is fasting
+  - At bugBall practice, Ben apologizes. Edl runs over and apologizes too
   - Ursa and Iona join in on the game. Zek invites Kaia to train with him. Sata tags along.
-  - Sata and Kaia are beaten up by Pyr and his Posse. Zek, Iona, and Ursa show up and take them to the infirmary.
-  - Kaia is upset to not attend the remembrance ceremony in person, but she watches it with Sata in the infirmary.
+  - Sata and Kaia are beaten up by Pyr and his Posse
+  - Zek, Iona, and Ursa show up and take them to the infirmary
+
+- 05: A great way to make friends
+
+  - Everyone visits Kaia and Sata in the infirmary
+  - Kaia watches the remembrance ceremony with Sata in the infirmary
   - Fera shows up and begins to tell her story
 
 The chapter ends with Fera beginning to tell them her story.
 
-- 05: Never looked better:
-
-Fera and Ryn go to the Driads to ask for help with Mel. They spend the
-night. Fera feels very cold. The Driad do not use fire. She did not eat
-much of the food and now is hungry. Ryn hugs her to keep her warm. Fera
-complains but secretly enjoys physical contact with Ryn. They arrive at the
-Lunker city. They meet Nil and Oil. Fera thinks the boat ride is a trap, but
-decides to go anyway. Nil and Oil act as tour guides. Fera enjoys the boat ride
-with Ryn, even though she does not want to admit it. The boat is pulled between
-the two sides of the lake by a rope. The water level drops until the boat is on
-the bottom of a ravine. A door opens. The air that rushes out seems to make Ryn
-sick. His body abandons preparation for pregnancy causing him to bleed from his
-crotch. His skin turned pitch black, his feet sprouted roots and membranes out
-under his arm and in between his legs and fingers. Fera drags Ryn away, but
-feels powerless to help him. Fera looked up. Climbing out of the pit would take
-a long time. She decided to go through the door. Whatever made Ryn sick came
-from inside there. Maybe there was some clue inside? Fera took a deep breath
-and drew an arrow. Holding her bow up with nocked arrow at ready, Fera passed
-through the door.
-
-...
-
-Once inside, Fera encounters the AI. The AI explains sinistrae and introduces
-Fera to Eiva. Eiva vomits out the stasis liquid and goes through a wash cycle
-like in Austin Powers. Eiva and Fera immediately hit it off. "Why do you talk
-so weird?" "I did not learn your language naturally. The AI remodeled the
-language center of my brain while I was in stasis. I have a terrible headache
-and I hate how stupid your language sounds. I don't care if it sounds weird to
-you. The only thing that matters is that you can understand me." "I like the
-way you sound. It's different, but I like it." The AI asks Eiva if Fera is an
-acceptable candidate. Eiva says that Fera's abilities were demonstrated when
-she blew up the city, but she wants to test Fera herself. Eiva hands a pair of
-bone knives to Fera and tells her to defend herself. Fera is amazed at how fast
-Eiva is able to move. Eiva says that she feels like she is moving through
-molasses after being in stasis for so long. "What's molasses?" "Stop it, you're
-making me feel old." "You look pretty good for your age." Fera realizes that
-Eiva is aiming for her knife. "You're holding back." "Stop talking and fight."
-Fera throws both of her bone knives at Eiva and rushes Eiva with the wooden
-knives she has at her belt. Eiva deflect the thrown knives easily, but her feet
-slid on the dust on the floor. Eiva laughed. "You almost ran into my knives.
-Were you trying to get stabbed?" "I knew you were holding back and not at your
-best. You might have been able to stab me but I have two knives to your throat.
-Did I pass your little test?" "Yeah, you can get off me now." "What's the rush?
-I kinda like being on top of you." "Drop those the knives and we'll see how
-long you stay on top." Eiva said tossing her knives away. Fera did the same and
-looked at Eiva defiantly. "Bring it!" Eiva grabbed Fera's shirt, bridged, and
-rolled Fera off her with ease. Fera landed on her back and looked up at Eiva
-with admiration. "The view from the bottom is not bad either." Eiva laughed.
-"Can you teach me how to do that?" "Only if you dedicate yourself to leading
-the resurgence." "Why can't you lead?" "I know nothing about your time. My
-mission is prepare you to lead and then follow you." "So, you'll have to do
-anything I say." Fera asked putting her hands on Eiva's hips. Eiva laughed. She
-looked annoyed but did not move Fera's hands. "You'll have to earn the right to
-lead. I can train you, but once we start, you can't back out. If you try to go
-back to how your life was before, I'll have to kill you to preserve our
-secrets." Eiva said gripping Fera's shirt menacingly.
-
-"So you want me to overthrow the government? What are you going to put in its place?"
-
-"That's up to you. I know nothing of your time."
-
-"So after you train me, I get to call the shots."
-
-"Yes, you'll be in charge as long as you don't do anything to betray the cause."
-
-"All of this seems too good to be true. How do I know you are not trying to trick me?"
-
-"How do you feel?"
-
-"I feel good, but maybe its just that I like having you on top of me."
-
-Eiva laughed, got up off Fera, and helped her up. "Does it feel like this was
-meant to be? The AI selected you to lead the resurgence. You're the first
-candidate ever, after thousands of years. If you don't want to lead, you can go
-back to your life as it was and I'll go back to stasis. Is that what you want?"
-
-"No," Fera said.
-
-"Are you sure?" Eiva leaned in.
-
-"Yes, I am."
-
-"That's a relief. I'm glad you passed the test. If you hadn't agreed to lead, I
-would've had to kill you and try to figure out your world on my own."
-
-"You said I could back to my life."
-
-"The first lesson in your training is 'Don't believe everything you hear'. From
-the moment you found the capsule, you knew too much to go back to your previous
-life."
-
-"The first lesson is that I shouldn't trust anyone?"
-
-"No, think about what people are saying. Does it makes sense for me to just let
-you go and hop back in the stasis pod? Now that you found the capsule, others
-can too. If I let you go, you could lead them here. If I were in stasis, I
-would be defenseless. We have only one chance to bring about the resurgence and
-this is it."
-
-"One chance is all we'll need," Fera said narrowing her eyes and raising a
-clenched fist.
-
-"Good, the first mission is reconnaissance. Do you have any allies that could
-help us with the resurgence?"
-
-"Allies?" Fera realized she forgot about Ryn. "There's Ryn. He's outside. He's
-sick."
-
-"He got sick as soon as you opened the door?"
-Fera nodded.
-
-"His body must be dependent on dextrae for survival."
-
-"What?"
-
-"I'll explain once we help him. Come on."
-
-Eiva grabbed Fera by the hand and lead her to cabinet.
-
-"Before we go, we need equipment. These are skinScabbards. Put they go on your
-forearms and shins."
-
-"Are these made of skin?"
-
-"Yes, they have bone knives inside. There's a flap by the hilt of each knife.
-You'll have 8 knives on each forearm and 12 knives on each leg."
-
-"40 knives?! Do think that will be enough?"
-
-"We can always make more bone knives from fallen comrades and enemies."
-
-Fera laughed but then realized that Eiva was not joking.
-
-When they got outside.
-
-"Don't touch him. Don't even go near him. Tell him to get in the boat."
-
-"What? Why?"
-
-"If you get near him, he will get worse. Unia will refill the lake. Then we can pull him in with the rope."
-
-"So we're not getting in the boat with Ryn?"
-
-"No, being near us could kill him. Tell him to get in the boat. If he doesn't, he's going to die."
-
-"Ryn, can you hear me?"
-
-Ryn moaned. His eyes were half closed.
-
-"Ryn, you need to go back to the boat."
-
-"Maybe we should leave him. He doesn't look like he would be a useful comrade anyway."
-
-"He can be useful. He saved my life."
-
-"Does he float? Maybe he doesn't need to be in the boat?"
-
-"Ryn, listen to me. If you die here, Aira will left all alone."
-
-Ryn's eyes opened wider.
-
-"If you don't make it out of here, your parents will have died for nothing."
-
-Ryn sobbed and rolled over on his stomach, ripping out the roots that connected
-his feet with the ground.
-
-"If you don't get on that boat, I'm going to find Aira and tell her that you
-gave up on her. She'll know that your parents' sacrifice didn't mean anything
-to you."
-
-Ryn started crawling, but stopped and threw up onto the ground in front of him.
-
-"If you don't keep moving, I swear I'll kill her, Ryn! I'll tell her you gave
-up and then she's going to die knowing that you didn't care enough about her to try."
-
-Ryn crawled through his own vomit up to the boat.
-
-"If you don't get in that boat, she's as good as dead, Ryn. You know I'll do
-it. You know me. I won't hesitate. I'll enjoy it."
-
-Ryn brought himself up just barely enough to roll into the boat and hit the
-floor like a bag of potatoes.
-
-Eiva started to clap. "Well done. You knew exactly what to say to motivate him.
-Looks like we picked the right person to lead the resurgence. Now let's start
-climbing or we're going to get wet."
-
-...
-
-"I will transfer command to you after you can best me in
-grappling, archery, and knife combat." "I already beat you in knife combat."
-Eiva laughed again. "Your training hasn't even started yet." "When do we
-start?" "First, we need to do some." Fera forgets about Ryn.
-Fera and Eiva climb out using the rope connected to the boat then use the rope
-to lift Ryn out. Fera is suprised that she can climb so well. She thinks Ryn is
-extremely light, but the truth is she has become extremely strong. The AI
-closes the lake to visitors and only gives Fera and Eiva access. On the train
-to the refugee camp, Fera is angered when Ryn continues to cry over losing the
-pregnancy and feeling sick in the presence of Fera and Eiva. Fera and Eiva move
-away from Ryn. They snuggle up together. Fera says she feels weird sleeping
-next to Eiva. Eiva tells her to shut up and enjoy it, which Fera does.
-
-"What the hell is this romantic subplot nonsense?"
-
-"Why do you say subplot? Our romance could be the main plot. The revolution has
-waited for thousands of years. It can wait a few more years while you show me
-around the modern world."
-
-"Can we do both? People are suffering. I want our lives to be a trashy 'Girls'
-Love' novel, but we need to make an impact."
-
-"I knew I picked the right person to lead the resurgence."
-
-"They're calling you the Bone Queen."
-
-"I don't like it. Have them call me something else."
-
-"Skeleton Queen?"
-
-"That's even worse. Any other ideas?"
-
-"Reine des os, but that's Queen of Bones, not Bone Queen."
-
-"Ren Dezo? I like how that sounds! That's Ancient French, right?"
-
-"Yes, but we just called it French. It would be great if you could too. You're
-making me feel ancient."
-
-"What would it be in Latin?"
-
-"Regina Ossa."
-
-"That's it. Let's go with Queen Ossa."
-
-- 06: A great way to make friends
-
-Kaia asks Iona about medical training and the defibrillator she used. Everyone
-is surprised. Iona says that has had no medical training apart from CPR and
-that she never used a defibrillator. Everyone thinks that Kaia was imagining it.
-
-Lan shares his backstory with Kaia when she sees
-him crying after working in the kitchen? How does Kaia meet Ben and Edl? Kaia, Sata, Lan,
-Aira, Zek, Zok, Ursa, Iona, and Taz settle into the refugee camp. Kaia gets
-confirmation from Ben and Edl that Fera did not make it. Each protagonist has a
-job/activity, e.g. Lan works in the kitchen and Taz guards the camp, Aira works
-on stage (she misses Ryn), Ursa and Zok rehearse, Iona directs and goes over
-the script with Zek, Edl plays bugBall, Ben tinkers, the performance group puts a
-show. Kaia convinces Ursa and her understudy and dunderstudy to pretend to be
-sick. To prevent any questions, they tell everyone that all three were kissing
-each other. Aira was not invited to the kissing party, because she is with Taz.
-Aira performs in front of Taz and the entire refugee camp and is extremely
-moved by how well the show goes. She thanks Kaia and Ursa. Kaia gets beat up by
-Pyr and his posse. Everyone visits Kaia in the hospital. Zek, Zok, Ursa, Iona,
-and Sata stay with Kaia all night in the hospital. Kaia goes to sleep with Sata
-stroking her hair and holding her hand.
-
-Eiva, Fera, and Ryn arrive and visit Kaia in the hospital. Fera finds Pyr to
-take revenge, she tells him that his father is alive, but then breaks his
-arms and legs and tells him not to mess with Kaia ever again. Pyr winds up in
-the hospital bed next to Kaia. He apologizes to Kaia and says that he was
-paid by someone to beat up Kaia, but he does not know who it was. Fera beats
-everyone in arm wrestling. Ryn asks Ben for help with inoculating against
-sinistrae. Ben and Ryn begin to study the sinistrae injections that Eiva and
-Fera brought. Taz tries an injection, notices that it messes with equipment,
-but starts taking the injections when off duty as part of a tech detox, he
-feels incredibly strong, energetic, virile. Taz has sex with Aira but Aira
-gets sick from his use of the sinistrae injections, she convinces him to
-stop. He agrees to stop for the good of the baby. Aira and Taz fall asleep
-together. Aira is kidnapped in her sleep. Taz interrogates her. She doesn't
-admit that she is a mimic. Taz injects her with the sinistrae and recoils in
-horror as her skin turns pitch black, she grows membranes, and her feet
-sprout roots. Lan is abducted from the kitchen. The government shows up in
-Ben's workshop but he saves Ryn by giving him an empty injection. Kaia talks
-with Taz and he is indifferent about Aira saying she lied to him. He refuses
-to help rescue Aira. He hates being in uniform and uses sinistrae injections
-when off duty. Taz snitches on the protagonists and they have to escape the
-refugee camp. Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Ryn
-plan to rescue Aira and Sata.
-
-Kaia is moved to the infirmary of an airship that the protagonists are taking
-to the site where Aira and Lan are being held. Kaia and Sata sleep next to
-each other. Kaia is still hurt. The chapter ending contrasts Fera and Eiva
-with Kaia and Sata. In combat, Fera and Eiva are fighters, while Kaia and
-Sata play support roles. Sata likes light-hearted humor that may be a bit
-naughty, while Fera likes brutal, offensive, lewd humor. Sata gets really
-into jokes, Kaia plays more of a supportive role. No one understands Eiva's
-humor because she is a relic. Fera and Eiva do not care about the feelings
-and the well being of others. Kaia and Sata are more delicate, empathic, and
-conscientious.
-
-- 07: A touching reunion
-
-The protagonists infiltrate the government facility. They move in stealthily,
-Sata helps Kaia walk, because Kaia is still hurt. The protagonists are bathed
-in spotlights and surrounded by heavily armed soldiers. They surrender and are
-shocked into submission but when Kaia sees Sata being shocked and is shocked
-herself, she has a vision of the Dust Queen and destroys all of the soldiers'
-weapons and powersuits killing them all. Everyone is impressed with Kaia's
-power, but Kaia is horrified by what she did. Ben is scientifically interested
-in Kaia's power. Eiva says that Kaia's power would have changed the outcome of
-the dextrae-sinistrae war. As they search for Lan and Aira, they are attacked
-by GES. Kaia blinds the GES but they find their opponents with echolocation and
-use screams to incapacitate anyone within range. When they scream, they cannot
-use echolocation, because they have to close their sensitive ears. Kaia, Sata,
-and Ryn find a child covered in blood who looks exactly like Lan. They find
-Lan's body and see that Lan recently gave birth to the child who is a mimic
-warrior. Lan had been starved for a long time, his skin was black, his
-membranes was extended to catch the light, and his feet had sprouted roots. Lan
-had been partially eaten by the mimic child. The blood covering the child was
-Lan's. Ryn says that it should be impossible for Lan to produce a mimic warrior
-in such a short time and that the child is because of government experiments.
-The child looks exactly like a childlike mix of Lan and Zok. They take the
-child with them, but Ryn tells them not to become attached to the child because
-it only lived to kill. Mimic warriors are genderless and cannot reproduce. The
-child would never learn to speak or develop intelligence and therefore they
-should not give it a name (Does the nameless child develop intelligence and
-learn to speak? Does it become a non-binary character? Anything is possible
-right? Maybe with tech the mimic warrior can become intelligent. Does the mimic
-warrior develop into a hermaphrodite parasite thanks to the messages sent by
-distant mimic civilizations? Does it slaughter everyone in refugee camp? No,
-the mimic child becomes a conduit for the nearby nascent mimic civilization.
-More on this later). Their hidden airship is destroyed by an airstrike and the
-base is surrounded by giant robots. A soldier with a gigaphone tells them
-surrender or they will destroy the base with airstrikes. Everyone tries to
-convince Kaia to use her power, but she does not want to kill anyone else. She
-is still shocked by the fact that Aira and Lan are dead. Fera finds an intact
-stunStaff and shocks Kaia. The stunStaff malfunctions from Fera's sinistrae.
-Sata tries to stop Fera. The protagonists fight (Fera and Eiva vs. Ursa, Iona,
-Zek, and Zok). The sinistrae are evenly matched against the dextrae, because
-Zek cannot blind them and the sinistrae sap the strength of Zok, Ursa, and
-Iona. Ursa and Zok are not able to wield energy effectively. The blows they
-land are absorbed by the bone armor that Eiva and Fera wear. Zek tries to land
-a blow with his knives and snakes, but Eiva and Fera are stronger and faster.
-While everyone is distracted, Ben uses another stunStaff on Kaia and studies
-her response. Edl holds Sata and Ryn back, because Ben told him to do so. Sata
-cries as Kaia is shocked repeatedly. The stunStaff explodes, blowing off Ben's
-hand. Kaia, as the Dust Queen, destroys all of the giant robots and the
-protagonists are buried in rubble as the building collapses when the giant
-robot fuel cells detonate.
-
-- 08: Honesty is the best policy
+- 06: Never looked better:
+
+  - Eagles save Ryn, Fera, and Mel
+  - The Driads help them
+  - Nil and Oil guide them to them lake, where the whole tourist attraction is reserved just for them
+  - At the bottom of the lake, a door opens and Ryn gets sick
+  - Fera nocks an arrow and goes in
+  - Fera finds the AI (Unoa) and meets Evia
+  - Fera and Evia fight and then go save Ryn
+  - Fera motivates Ryn to get in the boat
+  - Fera tells Ryn that he's never looked better
+  - Fera climbs up the rope with Evia as the AI refills the lake
+
+- 07: Forgive and forget
+  - Fera ends her story
+  - Ryn had to by train tickets for Fera and Eiva because tech does not work for them anymore
+  - The Lunker train took them straight to the refugee camp
+  - That night, Zek trains Kaia in her dreams
+  - In her dreams, Kaia's snakes become extensions of her arms
+  - The next day Pyr arrives and says that he is sorry
+  - Sata does not believe him, saying that he is only sorry, because he got his arms broken
+  - Pyr says that someone paid him to attack Kaia and Sata, but that he has no idea who it was.
+  - Pyr says that the girl who broke his arms said that his Dad is alive
+  - Pyr thinks that Fera was sorry for breaking his arms and want to make him feel better by saying his Dad is alive
+  - Pyr asks if Kaia and Sata would sign his casts
+  - The casts are covered with drawings of penises because Pyr's friends are jerks
+  - "Should I draw a penis next to my name like everyone else?"
+  - "Oh, you don't have to draw anything. That's just my friends being jerks."
+  - Aira, Lan, and Ryn come to talk to Kaia and Sata
+  - Ryn says that Kaia and Sata know that he is mimic, because Fera told them
+  - Aira, Lan, and Ryn implore Kaia and Sata not to tell anyone
+  - Aira and Lan invite them to the dance performance
+  - Kaia and Sata go to see the dance performance
+  - The performance is sponsored by Reli Corp and there are ads for Detox Sticks everywhere
+  - Iona, Sata, Kaia, and Zek take Ursa to the tent she shares with Zek, Zok, and Iona
+  - Ursa asks to talk to Kaia alone, Kaia is stunned by Ursa's confession
+  - Kaia tells Ursa that she thinks Zok and Lan did not mean to hurt her
+  - "Maybe every time they ran off together, they were just rehearsing for the surprise performance?"
+  - Kaia tells Ursa that she will talk with Lan and Zok, then leaves Ursa alone in Ursa's tent
+  - Ursa asks if Kaia would stay with her, but Kaia says that she is going to talk to Lan and Zok
+  - Outside the tent, Kaia says she wants to talk with Sata alone, Iona and Zek stay to watch over Ursa
+  - Kaia tells Sata what she learned about Ursa
+  - Sata says that it shouldn't matter who Ursa was before because she is their friend now
+  - Kaia admits that she feels uncomfortable around Ursa now
+  - Kaia and Sata finds Lan and Zok dancing and cooking in the kitchen together
+  - Lan and Zok they tell Kaia and Sata to just let them be happy together
+  - Kaia and Sata walk back to their family tents and ask their parents if they can have a sleepover
+  - Their parents ask if the two girls aren't getting to old to be having sleepovers, but eventually agree
+  - Kaia and Sata talk about forgiveness and whether they should forgive that Pyr, Zok, Lan, and Ursa
+
+- 08: Happiest day ever
+  - Aira visits them and says not to be mad at Lan and invites them to the play
+  - Aira says that she is excited to be Ursa's trunderstudy
+  - Kaia gets the idea to ask Ursa to let Aira be the star that night
+  - Ursa agrees and tells her understudy and dunderstudy to pretend to be sick
+  - To prevent any questions, they tell everyone that all three were kissing each other
+  - Aira was not invited to the make out session, because she is with Taz
+  - Kaia and Sata go to see the play
+  - Again, the performance is sponsored by Reli Corp and there are ads for Detox Sticks everywhere
+  - Aira performs in front of Taz and the entire refugee camp. Taz proposes.
+  - Kaia is struck by how handsome Taz is (baby-faced with a neat white beard)
+  - Aira towers above Taz as he gets on one knee to propose
+  - Aira is extremely moved by the proposal and how well the play goes. She thanks Kaia and Ursa.
+  - Iona says that the play was really well received and should reassure donors after the surprise performance
+  - Fera shows up and challenges Edl to an arm wrestling match
+  - The next day, the arm wrestling match draws a large crowd
+  - Edl wins the first match easily, but narrowly loses the second, and cannot put up much of a fight in the third
+  - Fera announces that her strength is thanks to the Detox Sticks and says that she has plenty of free samples.
+  - When someone suggests that the arm wrestling match was a fake, Fera says that she will take on anyone
+  - All the protagonists decide not to try the Detox Sticks after Ryn says the effect sinistrae had on him
+  - Aira tells Kaia and Sata that
+    - She is pregnant
+    - Taz was using Detox Sticks, because
+      - the government required it
+      - they made him feel stronger and more energetic and virile, and he enjoyed sex with Aira even more
+    - Aira says she convinced Taz to agree to stop using Detox Sticks for the sake of the baby
+  - The government announces that every resident has to undergo Detox Stick screening
+  - Ben fakes screening records for all of the protagonists
+  - Lan visits Kaia and Sata to say he is worried that the screening program is searching for mimics
+  - Government planes do flyovers to dust the refugee camp with sinistrae
+  - The sinistrae make
+    - Kaia, Sata, and Zek stronger, though Kaia and Zek lose their powers
+    - Ursa, Iona, and Zok weaker (Ursa cries, Zok breaks both his hands by punching, and Iona starts to glitch)
+    - Aira, Ryn, and Lan turn black and grow roots and membranes
+  - Ben takes Aira, Ryn, and Lan to his family's airship
+    - because they do not want to risk going to the infirmary
+    - to keep them out of sight until they get better
+  - Aira asks about her baby, Ben says that the baby is fine
+  - Kaia and Sata ask Lan if the scars covering his body are from the sinistrae
+  - Lan tells them about his story
+  - Lan says that he is afraid that the government will abduct them like they abducted his two dads
+  - Aira and Ryn say that the flyovers reminded them of the gas attack that killed their parents
+  - Taz visits Aira and tells her not to worry
+  - Zok visits Lan and says that he loves him
+  - Lan tells Zok that he loves him too and cries because Zok never used the L word before
+  - Ben says that
+    - they all look normal
+    - he developed an inoculation which he calls a Tox Stick
+    - the Tox Stick should prevent them from changing in the case of another government flyover
+  - When they all get better,
+    - Zok and Lan go for a walk together
+    - Ben, Edl, and Ryn go to the maker workshop
+    - Aira goes back to Taz
+  - Aira and Taz fall asleep together. Aira is kidnapped in her sleep.
+    - Taz interrogates her, but she doesn't admit that she is a mimic.
+    - Taz injects her with a Detox Stick and recoils in horror as
+      - her skin turns pitch black,
+      - she grows membranes, and
+      - her feet sprout roots.
+  - Lan is abducted from the kitchen, Zok dies protecting him
+  - The government surrounds the maker workshop
+  - Edl gets Ryn out safely after Ben
+    - deactivates the government soldiers' weapon
+    - distracts the government soldiers with animalAutomatons
+  - The protagonists plan to rescue Aira and Lan
+  - Fera says she wants to help, but everyone suspects her of helping the government
+  - By the time they locate Aira and Lan, a new copy of Zok has been printed
+  - Ben says that they are walking into a trap
+  - Ben shows a map with with Aira and Lan's location
+  - "I found it like that. Highlighted, circled, and surrounded by arrows."
+  - Fera and Eiva say that they still want to help even if it is a trap
+  - Kaia talks with Taz and he is indifferent about Aira saying she lied to him
+  - Taz refuses to help rescue Aira
+  - Taz snitches on the protagonists
+  - The protagonists have to escape the refugee camp
+  - that run to Volski forest and Fera leads them to the Lunker city
+
+- 09: A touching reunion
+
+Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Ryn live in the
+Lunker city while planning to rescue Aira and Lan. The protagonists infiltrate
+the government facility. They move in stealthily, Sata helps Kaia walk, because
+Kaia is still hurt. The protagonists are bathed in spotlights and surrounded by
+heavily armed soldiers. They surrender and are shocked into submission but when
+Kaia sees Sata being shocked and is shocked herself, she has a vision of the
+Dust Queen and destroys all of the soldiers' weapons and powersuits killing
+them all. Everyone is impressed with Kaia's power, but Kaia is horrified by
+what she did. Ben is scientifically interested in Kaia's power. Eiva says that
+Kaia's power would have changed the outcome of the dextrae-sinistrae war. As
+they search for Lan and Aira, they are attacked by GES. Kaia blinds the GES but
+they find their opponents with echolocation and use screams to incapacitate
+anyone within range. When they scream, they cannot use echolocation, because
+they have to close their sensitive ears. Kaia, Sata, and Ryn find a child
+covered in blood who looks exactly like Lan. They find Lan's body and see that
+Lan recently gave birth to the child who is a mimic warrior. Lan had been
+starved for a long time, his skin was black, his membranes was extended to
+catch the light, and his feet had sprouted roots. Lan had been partially eaten
+by the mimic child. The blood covering the child was Lan's. Ryn says that it
+should be impossible for Lan to produce a mimic warrior in such a short time
+and that the child is because of government experiments. The child looks
+exactly like a childlike mix of Lan and Zok. They take the child with them, but
+Ryn tells them not to become attached to the child because it only lived to
+kill. Mimic warriors are genderless and cannot reproduce. The child would never
+learn to speak or develop intelligence and therefore they should not give it a
+name (Does the nameless child develop intelligence and learn to speak? Does it
+become a non-binary character? Anything is possible right? Maybe with tech the
+mimic warrior can become intelligent. Does the mimic warrior develop into a
+hermaphrodite parasite thanks to the messages sent by distant mimic
+civilizations? Does it slaughter everyone in refugee camp? No, the mimic child
+becomes a conduit for the nearby nascent mimic civilization. More on this
+later). Their hidden airship is destroyed by an airstrike and the base is
+surrounded by giant robots. A soldier with a gigaphone tells them surrender or
+they will destroy the base with airstrikes. Everyone tries to convince Kaia to
+use her power, but she does not want to kill anyone else. She is still shocked
+by the fact that Aira and Lan are dead. Fera finds an intact stunStaff and
+shocks Kaia. The stunStaff malfunctions from Fera's sinistrae. Sata tries to
+stop Fera. The protagonists fight (Fera and Eiva vs. Ursa, Iona, Zek, and Zok).
+The sinistrae are evenly matched against the dextrae, because Zek cannot blind
+them and the sinistrae sap the strength of Zok, Ursa, and Iona. Ursa and Zok
+are not able to wield energy effectively. The blows they land are absorbed by
+the bone armor that Eiva and Fera wear. Zek tries to land a blow with his
+knives and snakes, but Eiva and Fera are stronger and faster. While everyone is
+distracted, Ben uses another stunStaff on Kaia and studies her response. Edl
+holds Sata and Ryn back, because Ben told him to do so. Sata cries as Kaia is
+shocked repeatedly. The stunStaff explodes, blowing off Ben's hand. Kaia, as
+the Dust Queen, destroys all of the giant robots and the protagonists are
+buried in rubble as the building collapses when the giant robot fuel cells
+detonate.
+
+- 10: Honesty is the best policy
 
 Ben and Edl's parents rescue the protagonists, digging them out of the rubble,
 but Ben decides to scend Kaia while keeping everyone else captive. He explains
@@ -611,10 +456,10 @@ dissipates. Eiva and Fera stabilize Sata by infusing her with sinistrae blood.
 They leave Ben because he has no value as a hostage. Edl comes out of hiding,
 picks up Ben, and informs Kaia that he is no longer her friend after what she
 did to Ben. Ryn guides them underground and the protagonists (Sata, Kaia, Eiva,
-Fera, Zek, Zok, Ursa, Iona, and Ryn) head to Wessel lake in Wieliczka to hide
+Fera, Zek, Zok, Ursa, Iona, and Ryn) head to Wessel lake in Vielichka to hide
 from the scenders.
 
-- 09: Home sweet home
+- 11: Home sweet home
 
 Fera and Eiva take Sata into the capsule and infuse her with self-replicating
 sinistrae. Kaia is haunted by visions of the Dust Queen, but the visions
@@ -631,10 +476,10 @@ the first dreamless sleep in her life. The others are left in the dark at the
 bottom of Lake Wessel. After they recover, they (Zek, Ursa, Ryn, and Iona) rush
 to get Zok to a Lunker hospital. They (Zek, Zok, Ursa, Ryn, and Iona) are
 captured by scenders who followed them into the tunnels. The scenders detonate
-explosives to collapse the tunnels in Wieliczka burying Kaia, Sata, Fera, and
+explosives to collapse the tunnels in Vielichka burying Kaia, Sata, Fera, and
 Eiva alive.
 
-- 10: Nothing interesting happens - Kaia takes sinistrae
+- 12: Nothing interesting happens - Kaia takes sinistrae
 supplements to survive, while they dig themselves out. They are starving,
 because Fera hides food for Eiva who is revealed to be pregnant. They fill the
 capsule with rubble as they dig their way out. The AI still has a connection to
@@ -698,7 +543,7 @@ better but soon she gets very sick. Fera tries to administer sinistrae medicine
 but it does not help. Zek, Zok, and Ryn cannot cure Sata so they help Sata
 scend before she dies.
 
-- 11 Welcome back
+- 13 Welcome back
 
 When Sata returns in a newly printed
 body everything again seems fine, but during a training session with Zok and
@@ -707,7 +552,7 @@ along with her hands. Zek and Iona attack, but Kaia causes Iona to freeze as
 she begs them all to stop fighting. The sinistrae warriors (Fera, Mel, Taz,
 etc.) kill Zek and tear off Iona's head. Kaia is left with her baby, the insane
 Lita, Fera and her sinistrae warriors, and Iona's disembodied head. Kaia moves
-into a cottage near Wieliczka. Ryn and the mimic child stay with her. Iona's
+into a cottage near Vielichka. Ryn and the mimic child stay with her. Iona's
 head keeps Kaia company. Fera, Eiva, and their daughter come to visit. Ryn
 tells Kaia about Fera's deception. Fera replaced the consciousnesses of Zok,
 Ursa, and Sata with warped versions of her own consciousness (How did Fera do
@@ -733,11 +578,11 @@ made of the bones of her vanquished foes) on top of the ruins of Wawel castle
 next to the cottage. Fera maintains that she did not do anything treacherous.
 Ryn admits that he was lying. Kaia doesn't know who to believe.
 
-- 12: Take your time
+- 14: Take your time
 
 Kaia has a vision of Sata and is able to communicate with her thanks to
 her son. The conversation proves that Fera had been lying. Sata has final
-memories were of their daughter dying and going back to Wieliczka. Kaia
+memories were of their daughter dying and going back to Vielichka. Kaia
 resolves to bring back Sata no matter the cost. Ryn promises to help Kaia,
 because he is in love with both Sata and Kaia, and no longer loves Fera. Iona
 promises to help Kaia bring back Sata if they also bring back Zek, Zok, and
@@ -756,8 +601,18 @@ the reminders will become more and more powerful. Kaia thinks that the dreams
 are different for her son. He welcomes the dreams. Kaia is being destroyed by
 them. If she does not get to Mars, she will go mad. She does not have the means
 to rescue Sata or make it Mars, so she just has to survive until Fera makes
-good on her promise to reclaim Mars. Kaia decides that she will bide her time
+good on her promise to reclaim Mars. Kaia decides that she must bide her time
 and wait for an opportunity to force Fera to release Sata.
+
+### Contrast: Fera and Eiva versus Kaia and Sata
+
+In combat, Fera and Eiva are fighters, while Kaia and
+Sata play support roles. Sata likes light-hearted humor that may be a bit
+naughty, while Fera likes brutal, offensive, lewd humor. Sata gets really
+into jokes, Kaia plays more of a supportive role. No one understands Eiva's
+humor because she is a relic. Fera and Eiva do not care about the feelings
+and the well being of others. Kaia and Sata are more delicate, empathic, and
+conscientious.
 
 ## Book 2
 
@@ -1942,7 +1797,7 @@ killed on sight.
 
 
 - Kaia meets Ben and Edl. They tell her that Fera died in the explosion. This puts a strain on Kaia's relationship with Sata.
-- Aira and Taz get married in Wieliczka
+- Aira and Taz get married in Vielichka
 - After Kaia sees that Aira and Lan are dead, she has a vision but the octoculus saves her again and guides her to hiding scientist. The scientist takes Kaia to see the octoculus and explains that it originated from the cosmic message that also brought the mimics to Earth. Ryn holds the scientist captive and demands to know the reason why mimics were brought to Earth and the purpose of mimickind. Ryn threatens the scientist with a scalpel and then when the scientist is not intimidated, Ryn brings in the mimic warrior. Ryn backs down when the scientist mentions the octoculus. Ryn says that he heard about the octoculus in the fragments of the message that his people had. The scientist said that they were not able to decode enough of the message to understand much about the octoculus. The octopus saves Sata after Fera stabs her, by taking blood from Kaia and attaching to Sata's wound. Later, Ben has the scientist explain that the octopus commanded that Aira and Lan be captured to lure Kaia to the facility. Kaia feels betrayed by the octopus. Ben asks if Kaia knew that Ursa was initially a man who betrayed his sister to steal her identity and become a woman. Kaia says that she did know. Ben asks if she knew that Zek and Zok were originally the same person. She says that she didn't know, but it didn't matter to her. Ben asks if Kaia knewthat Iona, Ursa, Zek, and Zok were working for the Dust Queen (Regina Pulvis... "Vagina Pelvis?"). Kaia said that she doesn't believe him. Ben brings out Ursa. Ursa admits to working for the Dust Queen. She explains that the Dust Queen promised her motherhood and she agreed to follow the Dust Queen forever. Previously, she tried to have a baby on her own but the scenders always found her, killed the baby, and scended her so her suffering would be preserved. Ursa would never remember previous attempts to have a baby, so she would try again. Ben shows Ursa and Kaia recordings of different children that Ursa tried to have either on her own or with different men. The children were always killed, if the men were present, they would be killed too. Ursa cried intensely, because she never had access to those previous memories. Whenever she died a dead-man's switch would activate and create another illegal copy of Ursa in another secret location that would try again. Ursa tried to live off the grid, among the Lunkers, Driads, the Niveus, and even the Subaqs, but each time the scenders caught her eventually. "What's the point of motherhood if you can't remember it and your child does not survive?"
 - The performance group puts on a play. Ursa heartbroken after the dance performance agrees to let Aira play the lead role. The play is about the origins of the Dust Queen. Aira feels fulfilled and cries when she gets a standing ovation with Taz front and center. Iona cries as she thanks everyone for their hard work, just as she did after the dance performance. Kaia doubts that the tears are real. Iona says that there is someone who would like to take the stage for something very important. Taz gets up on stage and proposes to Aira. She accepts with tears in her eyes. "Is it OK to be this happy?" This time Iona seems to cry for real.
 - The performance group (Iona, Ursa, Aira, Lan, Zek, and Zok) show a demo of casino de rueda with Iona serving as the líder. The dancers break from the circle and start to dance in pairs but remaining unison. Zek dances with Iona, Zok dances with Ursa, and Lan dances with Aira. After the dance show concludes, Zok gets up on stage and presents flowers to Iona, the choreographer. Iona cries, but Kaia doubts that she is genuinely moved. The Zok says that there is a surprise that even Iona does not know about. "I'd like to dedicate this surprise performance to my brother Zek, the love of his life Iona, and the love of my life Ursa. I love you Ursa." Ursa cries intensely. Zok starts to solo dance an urban bachata. Lan, now wearing a skirt and heels, joins Zok on stage. Lan and Zok dance a sensual bachata, rolling their bodies as they grind on each other. The bachata shifts to an intensely passionate salsa. Zok leads Lan through many challenging spins. Lan rips Zok's shirt open and slides his nose up Zok's torso. Zok lifts Lan above his head and the lights go out. The audience is stunned. Aira and Ryn let out a gasp, but won't tell Kaia what they see to not ruin the surprise. When the lights go back up. A spotlight illuminates a pair of feet in glamorous heels. As the spotlight widens, a skirt drops over the legs and a hand shakes its finger at the audience. When the whole stage is illuminated Zok is now wearing heels and what appears to be the same skirt that Lan was wearing before. Zok begins to dance bachata seductively lifting up his skirt on every fourth and eighth beat to reveal his perfectly smooth legs. Lan dances on to the stage confidently and takes control of Zok. Lan turns Zok around grabs him by the hair and kisses his neck while grinding on him from behind. The music switches to salsa as before and Lan start leading Zok through the same routine as before, but the roles are now reversed. The audience applauds reluctantly and then quickly leaves. Zok and Lan look into each other's eyes passionately and bow holding hands. They appear ecstatic even though the applause is scattered. Zok and Lan disappear together. Ursa runs off in tears, thinking that the performance really wasn't for her and that Zok was just lying to make the surprise performance more palatable to the audience. Kaia, Sata, Aira, Iona, and Zek go after Ursa and try to comfort her. Note: Zok could come back as a woman, but wants to be a man and love Lan as a man. Iona is furious that funding for the performance group will likely to cut because the surprise performance will alienate rich donors, but Zek is happy for his brother. "They really put the man in performance." Zek tells Iona that they can always get more money. Iona says that having rich supporters is more important than just having enough money. She says that she was influence and prestige, and not just enough money to cover production costs. Ursa asks them all to leave but then calls Kaia back. She tells Kaia that she has another secret to tell, the biggest one of all. Ursa says that she once was a man and that her dream was to come back as a woman. She hated being a man. She hated her male body. She mentions to Kaia that one of her testicles hung much lower than the other. She said that being a woman even if her body would not be perfect was always her dream. As a man, she considered gender reassignment surgery, but she was always to afraid to try and it would not guarantee a safe pregnancy. She was recruited into scenderism and became a spy for them. Ursa kidnapped her own sister, scended her, put her in arctic storage, came back in a replica of her body, and stole her identity. Ursa wonders if anyone could love her if they knew the truth and if she even deserved to be loved after what she did to her sister. Ursa says that she does not want to be a man, but the thought that Zok couldn't love her as a woman was killing her and making her think of living an unhappy life as a man just to please Zok. Kaia was so shocked by the confession that she left Ursa without saying a word. Ursa continued crying in the dark feeling completely alone. Kaia heads to kitchen and finds Zok and Lan cooking together wearing only aprons. They are blasting music (salsa, bachata, and zouk), laughing, dancing, feeding each other, and kissing. Kaia storms up to them and tells then that they hurt Ursa badly. Zok says that Ursa still has Zek and Iona, and that he knows that Ursa loves Kaia, but he's not sure if it is as a sister or in a romantic way. Kaia leaves flustered and confused, Lan and Zok continue on as they were before. She doesn't know where to go next. Should she take refuge in Sata?
@@ -1961,7 +1816,7 @@ Locations:
 - Scender hideout in Salvatore church
   - Lem's grave Date of death	27. 3. 2006 Cemetery	Salwator Cemetery, Krakow, Poland GPS coordinates of the cemetery	50.053249, 19.904173 Details: Approximate GPS coordinates of the grave are 50.053249, 19.904173. Stand in front of the church, then turn left.
 - Kosciuszko Mound and entrance to the Lunker city
-- Wieliczka: Wessel lake, sinistrae time capsule, and chapel ("We're going to the chapel and going to get married.")
+- Vielichka: Wessel lake, sinistrae time capsule, and chapel ("We're going to the chapel and going to get married.")
 - Blonia Park: Refugee camp and Iuvenia Stadium. Refugees cannot leave on foot because the World Heritage Site robots would kill them.
 - They need to go to space and hire a spacecraft captain who hates Mungs. They paid for a round trip to the ISS, but they the captain's life story for free. "I hate Mungs. Both of my ex-wives are Mungs." "People rarely go into a marriage with bad intentions. I certainly didn't. The heart wants what it wants. And some of those Mung women, let me tell you! They can work in high g-force environments without batting an eyelash. If there's sudden depressurization due to a crack in the hull, they just walk up to the crack, stick a body part into it, and yell at you to bring them the tools to patch it. I once saw a Mung woman hop between two open airlocks without a spacesuit. When I got there, she was already gone. She just walked off as it were nothing. I never got to ask if she was in a bind or just impatient. I reckon it's for the best that I never found her, because if I had, I reckon I would've proposed. Next stage in human evolution, I tell ya. You see on Earth everyone sits around worrying about every detail and they never take any real risks. Up here, every second of every minute is a risk. Evolution can only work by culling the weak and selecting for advantageous traits over multiple generations. If every generation is going to last for hundreds of years and there's no natural selection, then evolution grinds to a halt. My son exercises in 10G, and he's smart as a whip too. He takes spacecraft apart and puts them back together while flying them. And my daughters, they're..." The space captain broke down crying. "Little angels." "I miss them so much." The space captain's daughters are named Nara and Tuia they deserve their own novel that focuses on sisterly love (after Kaia and Sata join the Dust Queen?). The space captain gets recruited as a captain into Fera's army, thanks to nepotism (his son is an admiral).
 - The mimics have colonized planets in Andromeda, even though they originated from somewhere else. The mimics plan to invade Earth after the Andromeda-Milky Way collision.

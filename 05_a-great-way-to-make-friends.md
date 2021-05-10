@@ -1,13 +1,22 @@
-## Chapter 6: A great way to make friends
+## Chapter 5: A great way to make friends
 
 In the infirmary Ursa and Iona ask if Kaia wants them to beat up Pyr, but Kaia
 says no. Sata says that they could at least give him a black eye, but Kaia says
 that it wouldn't help them and that Pyr must be emotionally hurt because he
 believes that his father died in the explosion.
 
+Lan and Aira visit Kaia and Sata. They say that they are rehearsing for a dance
+performance and a theater play. In their spare time, Lan works in the kitchen
+and Aira spends time with Kransal.
+
+Ben and Edl visit them to say that they will be able to watch the remembrance
+ceremony on the infirmary tent walls and that he set up the projector and sound
+system himself and the infirmary staff have been given special instructions and
+compensation.
+
 Kaia and Sata's parents visit them in the infirmary. Kaia's dad is a gruff man
-with a big moustache. Kaia knows that her dad straighens his moustache and then
-ruffles it to make it bushy. Sata's parents are good friends with Kaia's
+with a big moustache. Kaia knows that her dad straightens his moustache and
+then ruffles it to make it bushy. Sata's parents are good friends with Kaia's
 parents.
 
 Her parents ask if they are making new friends. They make a joke about getting
@@ -142,8 +151,6 @@ Zek takes Kaia to the hospital. Zek and Sata decide to stay with Kaia all
 night.
 
 "Just when I thought I was finally fitting in."
-
-The chapter ends when Kaia drifts off to sleep with Sata stroking her hair.
 
 Fera, Ryn, and Naksos arrive at the refugee camp. Pyr is reunited with his
 father. Ryn is reunited with Aira and Lan. Fera tells Kaia and Sata that she

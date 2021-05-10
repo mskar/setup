@@ -1,4 +1,4 @@
-## Chapter 5
+## Chapter 6: Never looked better
 
 "What is this Lord-Of-The-Rings, deus-ex-machina nonsense?", Fera screamed.
 
@@ -77,7 +77,7 @@ entrance is hidden in the forest. We have to walk the rest of the way."
 
 "Wait, what is this place?" Fera asked.
 
-"This is Kościuszko Mound in the Wolski Forest. The ancient city there was
+"This is Kościuszko Mound in the Volski Forest. The ancient city there was
 called Cracovia in Ancient Latin, Ancient Spanish, and Ancient Italian."
 
 "What should we do with him?" Fera asked gesturing towards the Principal, who
@@ -624,7 +624,7 @@ outline illuminated by the algae in his hand.
 
 Fera breathed a sigh of relief when they entered a tunnel with electric lights.
 As they approached the entrance to the city, a young Lunker run up to them.
-"Congratulations, you've won a free, all-expenses-paid trip to Wieliczka salt
+"Congratulations, you've won a free, all-expenses-paid trip to Vielichka salt
 mine, including a free boat ride on Lake Wessel, for two people!
 
 "Excuse us, we need to discuss." Fera said, drawing Ryn into a huddle.
@@ -667,7 +667,7 @@ very unconscious and unable to answer her question.
 Ryn quickly followed Fera, afraid that if he did not, then he might be next.
 Before long, another Lunker approached them, as before.
 
-"Congratulations, you've won a free, all-expenses-paid trip to the Wieliczka
+"Congratulations, you've won a free, all-expenses-paid trip to the Vielichka
 salt mine and a free boat ride on Lake Wessel for any number of people!"
 
 Fera laughed, thinking it was a joke, then realized that the Lunker was
@@ -740,13 +740,13 @@ paid."
 
 ...
 
-"Why is this place called Wieliczka?"
+"Why is this place called Vielichka?"
 
 "This mine has been called many things over the years. Magnus Sal, from ancient Latin, and Gross Salce, from ancient German.
 
 "Magnus Sal? Meaning great salt?"
 
-"Yes, the translation of Magnus Sal into Ancient Polish, Wielka Sól, is the supposed origin of the name Wieliczka.
+"Yes, the translation of Magnus Sal into Ancient Polish, Wielka Sól, is the supposed origin of the name Vielichka.
 
 "These tunnels were carved by ancient miners."
 
@@ -828,3 +828,238 @@ outside the capsule because it makes him sick.
 
 The chapter ends with Fera, Naksos (Mel), and Ryn sleeping on the train on their way
 to the refugee camp.
+
+...
+
+Fera and Ryn go to the Driads to ask for help with Mel. They spend the
+night. Fera feels very cold. The Driad do not use fire. She did not eat
+much of the food and now is hungry. Ryn hugs her to keep her warm. Fera
+complains but secretly enjoys physical contact with Ryn. They arrive at the
+Lunker city. They meet Nil and Oil. Fera thinks the boat ride is a trap, but
+decides to go anyway. Nil and Oil act as tour guides. Fera enjoys the boat ride
+with Ryn, even though she does not want to admit it. The boat is pulled between
+the two sides of the lake by a rope. The water level drops until the boat is on
+the bottom of a ravine. A door opens. The air that rushes out seems to make Ryn
+sick. His body abandons preparation for pregnancy causing him to bleed from his
+crotch. His skin turned pitch black, his feet sprouted roots and membranes out
+under his arm and in between his legs and fingers. Fera drags Ryn away, but
+feels powerless to help him. Fera looked up. Climbing out of the pit would take
+a long time. She decided to go through the door. Whatever made Ryn sick came
+from inside there. Maybe there was some clue inside? Fera took a deep breath
+and drew an arrow. Holding her bow up with nocked arrow at ready, Fera passed
+through the door.
+
+...
+
+Once inside, Fera encounters the AI. The AI explains sinistrae and introduces
+Fera to Eiva. Eiva vomits out the stasis liquid and goes through a wash cycle
+like in Austin Powers. Eiva and Fera immediately hit it off. "Why do you talk
+so weird?" "I did not learn your language naturally. The AI remodeled the
+language center of my brain while I was in stasis. I have a terrible headache
+and I hate how stupid your language sounds. I don't care if it sounds weird to
+you. The only thing that matters is that you can understand me." "I like the
+way you sound. It's different, but I like it." The AI asks Eiva if Fera is an
+acceptable candidate. Eiva says that Fera's abilities were demonstrated when
+she blew up the city, but she wants to test Fera herself. Eiva hands a pair of
+bone knives to Fera and tells her to defend herself. Fera is amazed at how fast
+Eiva is able to move. Eiva says that she feels like she is moving through
+molasses after being in stasis for so long. "What's molasses?" "Stop it, you're
+making me feel old." "You look pretty good for your age." Fera realizes that
+Eiva is aiming for her knife. "You're holding back." "Stop talking and fight."
+Fera throws both of her bone knives at Eiva and rushes Eiva with the wooden
+knives she has at her belt. Eiva deflect the thrown knives easily, but her feet
+slid on the dust on the floor. Eiva laughed. "You almost ran into my knives.
+Were you trying to get stabbed?" "I knew you were holding back and not at your
+best. You might have been able to stab me but I have two knives to your throat.
+Did I pass your little test?" "Yeah, you can get off me now." "What's the rush?
+I kinda like being on top of you." "Drop those the knives and we'll see how
+long you stay on top." Eiva said tossing her knives away. Fera did the same and
+looked at Eiva defiantly. "Bring it!" Eiva grabbed Fera's shirt, bridged, and
+rolled Fera off her with ease. Fera landed on her back and looked up at Eiva
+with admiration. "The view from the bottom is not bad either." Eiva laughed.
+"Can you teach me how to do that?" "Only if you dedicate yourself to leading
+the resurgence." "Why can't you lead?" "I know nothing about your time. My
+mission is prepare you to lead and then follow you." "So, you'll have to do
+anything I say." Fera asked putting her hands on Eiva's hips. Eiva laughed. She
+looked annoyed but did not move Fera's hands. "You'll have to earn the right to
+lead. I can train you, but once we start, you can't back out. If you try to go
+back to how your life was before, I'll have to kill you to preserve our
+secrets." Eiva said gripping Fera's shirt menacingly.
+
+"So you want me to overthrow the government? What are you going to put in its place?"
+
+"That's up to you. I know nothing of your time."
+
+"So after you train me, I get to call the shots."
+
+"Yes, you'll be in charge as long as you don't do anything to betray the cause."
+
+"All of this seems too good to be true. How do I know you are not trying to trick me?"
+
+"How do you feel?"
+
+"I feel good, but maybe its just that I like having you on top of me."
+
+Eiva laughed, got up off Fera, and helped her up. "Does it feel like this was
+meant to be? The AI selected you to lead the resurgence. You're the first
+candidate ever, after thousands of years. If you don't want to lead, you can go
+back to your life as it was and I'll go back to stasis. Is that what you want?"
+
+"No," Fera said.
+
+"Are you sure?" Eiva leaned in.
+
+"Yes, I am."
+
+"That's a relief. I'm glad you passed the test. If you hadn't agreed to lead, I
+would've had to kill you and try to figure out your world on my own."
+
+"You said I could back to my life."
+
+"The first lesson in your training is 'Don't believe everything you hear'. From
+the moment you found the capsule, you knew too much to go back to your previous
+life."
+
+"The first lesson is that I shouldn't trust anyone?"
+
+"No, think about what people are saying. Does it makes sense for me to just let
+you go and hop back in the stasis pod? Now that you found the capsule, others
+can too. If I let you go, you could lead them here. If I were in stasis, I
+would be defenseless. We have only one chance to bring about the resurgence and
+this is it."
+
+"One chance is all we'll need," Fera said narrowing her eyes and raising a
+clenched fist.
+
+"Good, the first mission is reconnaissance. Do you have any allies that could
+help us with the resurgence?"
+
+"Allies?" Fera realized she forgot about Ryn. "There's Ryn. He's outside. He's
+sick."
+
+"He got sick as soon as you opened the door?"
+Fera nodded.
+
+"His body must be dependent on dextrae for survival."
+
+"What?"
+
+"I'll explain once we help him. Come on."
+
+Eiva grabbed Fera by the hand and lead her to cabinet.
+
+"Before we go, we need equipment. These are skinScabbards. Put they go on your
+forearms and shins."
+
+"Are these made of skin?"
+
+"Yes, they have bone knives inside. There's a flap by the hilt of each knife.
+You'll have 8 knives on each forearm and 12 knives on each leg."
+
+"40 knives?! Do think that will be enough?"
+
+"We can always make more bone knives from fallen comrades and enemies."
+
+Fera laughed but then realized that Eiva was not joking.
+
+When they got outside.
+
+"Don't touch him. Don't even go near him. Tell him to get in the boat."
+
+"What? Why?"
+
+"If you get near him, he will get worse. Unia will refill the lake. Then we can pull him in with the rope."
+
+"So we're not getting in the boat with Ryn?"
+
+"No, being near us could kill him. Tell him to get in the boat. If he doesn't, he's going to die."
+
+"Ryn, can you hear me?"
+
+Ryn moaned. His eyes were half closed.
+
+"Ryn, you need to go back to the boat."
+
+"Maybe we should leave him. He doesn't look like he would be a useful comrade anyway."
+
+"He can be useful. He saved my life."
+
+"Does he float? Maybe he doesn't need to be in the boat?"
+
+"Ryn, listen to me. If you die here, Aira will left all alone."
+
+Ryn's eyes opened wider.
+
+"If you don't make it out of here, your parents will have died for nothing."
+
+Ryn sobbed and rolled over on his stomach, ripping out the roots that connected
+his feet with the ground.
+
+"If you don't get on that boat, I'm going to find Aira and tell her that you
+gave up on her. She'll know that your parents' sacrifice didn't mean anything
+to you."
+
+Ryn started crawling, but stopped and threw up onto the ground in front of him.
+
+"If you don't keep moving, I swear I'll kill her, Ryn! I'll tell her you gave
+up and then she's going to die knowing that you didn't care enough about her to try."
+
+Ryn crawled through his own vomit up to the boat.
+
+"If you don't get in that boat, she's as good as dead, Ryn. You know I'll do
+it. You know me. I won't hesitate. I'll enjoy it."
+
+Ryn brought himself up just barely enough to roll into the boat and hit the
+floor like a bag of potatoes.
+
+Eiva started to clap. "Well done. You knew exactly what to say to motivate him.
+Looks like we picked the right person to lead the resurgence. Now let's start
+climbing or we're going to get wet."
+
+...
+
+"I will transfer command to you after you can best me in
+grappling, archery, and knife combat." "I already beat you in knife combat."
+Eiva laughed again. "Your training hasn't even started yet." "When do we
+start?" "First, we need to do some." Fera forgets about Ryn.
+Fera and Eiva climb out using the rope connected to the boat then use the rope
+to lift Ryn out. Fera is suprised that she can climb so well. She thinks Ryn is
+extremely light, but the truth is she has become extremely strong. The AI
+closes the lake to visitors and only gives Fera and Eiva access. On the train
+to the refugee camp, Fera is angered when Ryn continues to cry over losing the
+pregnancy and feeling sick in the presence of Fera and Eiva. Fera and Eiva move
+away from Ryn. They snuggle up together. Fera says she feels weird sleeping
+next to Eiva. Eiva tells her to shut up and enjoy it, which Fera does.
+
+"What the hell is this romantic subplot nonsense?"
+
+"Why do you say subplot? Our romance could be the main plot. The revolution has
+waited for thousands of years. It can wait a few more years while you show me
+around the modern world."
+
+"Can we do both? People are suffering. I want our lives to be a trashy 'Girls'
+Love' novel, but we need to make an impact."
+
+"I knew I picked the right person to lead the resurgence."
+
+"They're calling you the Bone Queen."
+
+"I don't like it. Have them call me something else."
+
+"Skeleton Queen?"
+
+"That's even worse. Any other ideas?"
+
+"Reine des os, but that's Queen of Bones, not Bone Queen."
+
+"Ren Dezo? I like how that sounds! That's Ancient French, right?"
+
+"Yes, but we just called it French. It would be great if you could too. You're
+making me feel ancient."
+
+"What would it be in Latin?"
+
+"Regina Ossa."
+
+"That's it. Let's go with Queen Ossa."
+

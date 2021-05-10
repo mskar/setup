@@ -276,7 +276,7 @@ already visible.
 "The airship must have crashed really close to the refugee camp," Kaia said.
 
 "Yes, that's right. The artificial lake into which the airship crashed is
-separated from the refugee camp only by the Wisła River and Wolski Forest. You
+separated from the refugee camp only by the Visua River and Volski Forest. You
 could have walked there in a little less than an hour."
 
 "I'm glad we took a little detour," Kaia said, "but I'm happy that we're going
@@ -739,7 +739,7 @@ evening."
 Sata and Kaia go to see bugBall practice. Zek, Ben, and them observe the
 practice, while Ursa, Iona, and Edl play. Zek asks if Kaia can help him with
 something. Sata asks if she can go too. Zek is unsure, but Kaia says that she
-does not want to leave Sata. They leave Ben on the bleachers and head to Wolski
+does not want to leave Sata. They leave Ben on the bleachers and head to Volski
 Forest.
 
 Kaia explains that Zek is going to teach Kaia self-defense. Sata asks if she
