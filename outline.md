@@ -118,28 +118,9 @@ End: Kaia and Sata watch the airship wreckage together while holding hands.
   - Kaia is upset to not attend the remembrance ceremony in person, but she watches it with Sata in the infirmary.
   - Fera shows up and begins to tell her story
 
-Kaia asks Iona about medical training and the defibrillator she used. Everyone
-is surprised. Iona says that has had no medical training apart from CPR and
-that she never used a defibrillator. Everyone thinks that Kaia was imagining it.
-
-Lan shares his backstory with Kaia when she sees
-him crying after working in the kitchen? How does Kaia meet Ben and Edl? Kaia, Sata, Lan,
-Aira, Zek, Zok, Ursa, Iona, and Taz settle into the refugee camp. Kaia gets
-confirmation from Ben and Edl that Fera did not make it. Each protagonist has a
-job/activity, e.g. Lan works in the kitchen and Taz guards the camp, Aira works
-on stage (she misses Ryn), Ursa and Zok rehearse, Iona directs and goes over
-the script with Zek, Edl plays bugBall, Ben tinkers, the performance group puts a
-show. Kaia convinces Ursa and her understudy and dunderstudy to pretend to be
-sick. To prevent any questions, they tell everyone that all three were kissing
-each other. Aira was not invited to the kissing party, because she is with Taz.
-Aira performs in front of Taz and the entire refugee camp and is extremely
-moved by how well the show goes. She thanks Kaia and Ursa. Kaia gets beat up by
-Pyr and his posse. Everyone visits Kaia in the hospital. Zek, Zok, Ursa, Iona,
-and Sata stay with Kaia all night in the hospital. Kaia goes to sleep with Sata
-stroking her hair and holding her hand.
+The chapter ends with Fera beginning to tell them her story.
 
 - 05: Never looked better:
-
 
 Fera and Ryn go to the Driads to ask for help with Mel. They spend the
 night. Fera feels very cold. The Driad do not use fire. She did not eat
@@ -322,8 +303,9 @@ it. You know me. I won't hesitate. I'll enjoy it."
 Ryn brought himself up just barely enough to roll into the boat and hit the
 floor like a bag of potatoes.
 
-Eiva started to clap. "Well done. Looks like we picked the right person to lead
-the resurgence. Now let's start climbing or we're going to get wet."
+Eiva started to clap. "Well done. You knew exactly what to say to motivate him.
+Looks like we picked the right person to lead the resurgence. Now let's start
+climbing or we're going to get wet."
 
 ...
 
@@ -374,16 +356,25 @@ making me feel ancient."
 
 - 06: A great way to make friends
 
-"Kaia! Who did this to you?"
+Kaia asks Iona about medical training and the defibrillator she used. Everyone
+is surprised. Iona says that has had no medical training apart from CPR and
+that she never used a defibrillator. Everyone thinks that Kaia was imagining it.
 
-"Fera! You're alive!" Kaia began to cry. Hard.
-
-"What's with the waterworks?" Fera asked and waited for Kaia to calm down.
-
-"I saw you on the ground when we were taking off. I tried to get them to go
-back for you..."
-
-"Ah, that was your airship? No worries, it worked out in the end."
+Lan shares his backstory with Kaia when she sees
+him crying after working in the kitchen? How does Kaia meet Ben and Edl? Kaia, Sata, Lan,
+Aira, Zek, Zok, Ursa, Iona, and Taz settle into the refugee camp. Kaia gets
+confirmation from Ben and Edl that Fera did not make it. Each protagonist has a
+job/activity, e.g. Lan works in the kitchen and Taz guards the camp, Aira works
+on stage (she misses Ryn), Ursa and Zok rehearse, Iona directs and goes over
+the script with Zek, Edl plays bugBall, Ben tinkers, the performance group puts a
+show. Kaia convinces Ursa and her understudy and dunderstudy to pretend to be
+sick. To prevent any questions, they tell everyone that all three were kissing
+each other. Aira was not invited to the kissing party, because she is with Taz.
+Aira performs in front of Taz and the entire refugee camp and is extremely
+moved by how well the show goes. She thanks Kaia and Ursa. Kaia gets beat up by
+Pyr and his posse. Everyone visits Kaia in the hospital. Zek, Zok, Ursa, Iona,
+and Sata stay with Kaia all night in the hospital. Kaia goes to sleep with Sata
+stroking her hair and holding her hand.
 
 Eiva, Fera, and Ryn arrive and visit Kaia in the hospital. Fera finds Pyr to
 take revenge, she tells him that his father is alive, but then breaks his
@@ -456,17 +447,18 @@ surrender or they will destroy the base with airstrikes. Everyone tries to
 convince Kaia to use her power, but she does not want to kill anyone else. She
 is still shocked by the fact that Aira and Lan are dead. Fera finds an intact
 stunStaff and shocks Kaia. The stunStaff malfunctions from Fera's sinistrae.
-Sata tries to stop Fera. The protagonists fight. The sinistrae are evenly
-matched against the dextrae, because Zek cannot blind them and the sinistrae
-sap the strength of Zok, Ursa, and Iona. Ursa and Zok are not able to wield
-energy effectively. The blows they land are absorbed by the bone armor that
-Eiva and Fera wear. Zek tries to land a blow with his knives and snakes, but
-Eiva and Fera are stronger and faster. While everyone is distracted, Ben uses
-another stunStaff on Kaia and studies her response. Edl holds Sata and Ryn
-back, because Ben told him to do so. Sata cries as Kaia is shocked repeatedly.
-The stunStaff explodes, blowing off Ben's hand. Kaia, as the Dust Queen,
-destroys all of the giant robots and the protagonists are buried in rubble as
-the building collapses when the giant robot fuel cells detonate.
+Sata tries to stop Fera. The protagonists fight (Fera and Eiva vs. Ursa, Iona,
+Zek, and Zok). The sinistrae are evenly matched against the dextrae, because
+Zek cannot blind them and the sinistrae sap the strength of Zok, Ursa, and
+Iona. Ursa and Zok are not able to wield energy effectively. The blows they
+land are absorbed by the bone armor that Eiva and Fera wear. Zek tries to land
+a blow with his knives and snakes, but Eiva and Fera are stronger and faster.
+While everyone is distracted, Ben uses another stunStaff on Kaia and studies
+her response. Edl holds Sata and Ryn back, because Ben told him to do so. Sata
+cries as Kaia is shocked repeatedly. The stunStaff explodes, blowing off Ben's
+hand. Kaia, as the Dust Queen, destroys all of the giant robots and the
+protagonists are buried in rubble as the building collapses when the giant
+robot fuel cells detonate.
 
 - 08: Honesty is the best policy
 

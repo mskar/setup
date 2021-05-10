@@ -222,7 +222,7 @@ wise to start preparing the next generation of MIG leadership."
 likely future President of the MIG, you should learn about our executive
 powers. If something were to happen to me, you have to be ready to step in and
 take over. Without the guardianship of the MIG, the school would quickly
-descend into chaos.", Ben said, walking over to a synthesizer and entering a
+descend into chaos.", Ben said, walking over to a printer and entering a
 complex series of key presses and then laying his hands down on the screen.
 
 "Take off your shoes, take a seat, and put your hands and feet into the scanner
@@ -234,7 +234,7 @@ I am going to make you a pair of presidentialPowergloves and a pair of
 presidentialPowerskates, like the ones I have, but I need have the exact scans
 of your hands and feet."
 
-Fera sat down in front of the synthesizer and slid her hands and into the
+Fera sat down in front of the printer and slid her hands and into the
 scanner.
 
 "You do know how to skate, right?", Ben said suddenly, realizing he should have
@@ -252,7 +252,7 @@ and just started hitting her while she was still sleeping in bed. If anyone
 asked about the bruises that covered her body, Fera would say that fell down
 while skating. The truth was that skating was much safer than being at home.
 
-"While the synthesizer is making your gloves and skates, I can show you how
+"While the printer is printing your gloves and skates, I can show you how
 they work.", Ben said, then he noticed that Fera had not moved since she sat
 down. "Fera, the scanner is done. You can pull your hands and feet out now."
 
@@ -324,12 +324,12 @@ was supposed to grab the hidden bag, run out the door, and never come back.
 Ben could tell that Fera's thoughts were elsewhere. "Fera, maybe you want to
 sit down and take a break?"
 
-"No, I don't need a break." Fera saw that the synthesizer had finished.
+"No, I don't need a break." Fera saw that the printer had finished.
 "I'm ready to try out the gloves and skates."
 
 "Ok, but let me know if need to rest for a bit."
 
-"I'm fine.", Fera said sharply. She opened the lid of the synthesizer and put
+"I'm fine.", Fera said sharply. She opened the lid of the printer and put
 on the skates and the gloves.
 
 "Now, you'll want to take it slow for a-", Ben started.
