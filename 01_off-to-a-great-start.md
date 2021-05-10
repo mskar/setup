@@ -513,9 +513,10 @@ resisting arrest, assault with a deadly weapon-"
 
 "What weapon?!" Sata exclaimed incredulously.
 
-"The gigaphone is classified as a lethal weapon. And rightly so, it can produce
-sounds 1000 times louder than a regular megaphone. If it had been a teraphone,
-I could have called in a strike team and had you executed on the spot!"
+"Gigaphones are classified as lethal weapons. And rightly so, they can produce
+sounds 1000 times louder than regular megaphones. If it had been a weapon of
+mass destruction like a teraphone, I could have called in a strike team and had
+you executed on the spot!"
 
 The Principal's eyes returned to the screen on his desk.
 
