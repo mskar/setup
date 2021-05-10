@@ -1061,5 +1061,11 @@ making me feel ancient."
 
 "Regina Ossa."
 
+"Regina Ossifraga."
+
+"Regina Ossuaria."
+
+"Regina Ossuosa."
+
 "That's it. Let's go with Queen Ossa."
 

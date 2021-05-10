@@ -261,7 +261,7 @@ the government facility. They move in stealthily, Sata helps Kaia walk, because
 Kaia is still hurt. The protagonists are bathed in spotlights and surrounded by
 heavily armed soldiers. They surrender and are shocked into submission but when
 Kaia sees Sata being shocked and is shocked herself, she has a vision of the
-Dust Queen and destroys all of the soldiers' weapons and powersuits killing
+Pulverulent Goddess and destroys all of the soldiers' weapons and powersuits killing
 them all. Everyone is impressed with Kaia's power, but Kaia is horrified by
 what she did. Ben is scientifically interested in Kaia's power. Eiva says that
 Kaia's power would have changed the outcome of the dextrae-sinistrae war. As
@@ -301,7 +301,7 @@ knives and snakes, but Eiva and Fera are stronger and faster. While everyone is
 distracted, Ben uses another stunStaff on Kaia and studies her response. Edl
 holds Sata and Ryn back, because Ben told him to do so. Sata cries as Kaia is
 shocked repeatedly. The stunStaff explodes, blowing off Ben's hand. Kaia, as
-the Dust Queen, destroys all of the giant robots and the protagonists are
+the Pulverulent Goddess, destroys all of the giant robots and the protagonists are
 buried in rubble as the building collapses when the giant robot fuel cells
 detonate.
 
@@ -358,14 +358,14 @@ accomplished assassin in the scenderverse."
 
 "When we met, where you on a mission?"
 
-Ben laughed. "Yes, she was, but not for scenders. Now, Ursa serves the Dust Queen."
+Ben laughed. "Yes, she was, but not for scenders. Now, Ursa serves the Pulverulent Goddess."
 
 Kaia looked in disbelief at Ursa. "Why, Ursa?"
 
-"The Dust Queen promised me that I could be a woman forever and even have a
+"The Pulverulent Goddess promised me that I could be a woman forever and even have a
 baby."
 
-Ursa helped build facilities to spread the Dust Queen's cult. Zek, Zok,
+Ursa helped build facilities to spread the Pulverulent Goddess's cult. Zek, Zok,
 and Iona were Ursa's accomplices.
 
 "Accomplice?! I was born on Mars and fought in the war. I saw the Thelusian
@@ -374,29 +374,29 @@ spacecraft crash into Mars. Ursa has never even been to Mars."
 "I was there too. Zek and I stayed together the whole time even though our
 people were on opposite sides in the war. Ursa joined us much later."
 
-"Tell Kaia why you joined the Dust Queen."
+"Tell Kaia why you joined the Pulverulent Goddess."
 
-"The Dust Queen promised to rebuild both Mars and Thelus if we followed her."
+"The Pulverulent Goddess promised to rebuild both Mars and Thelus if we followed her."
 
 "Did you think that I was the villain? Ursa killed hundreds while working as a spy
 and an assassin. Zek has soulswept countless people like you, driving them insane or
-turning them into puppets for the Dust Queen."
+turning them into puppets for the Pulverulent Goddess."
 
-"They are trying to overwrite your mind with the memories of the Dust Queen.
+"They are trying to overwrite your mind with the memories of the Pulverulent Goddess.
 We want to preserve your brain the way it is. We want to study you to
 understand your gifts and use them for the good of humanity."
 
 "Can't you study me without killing me?"
 
 "We can bring you back right after you scend. And your mind is continuously
-being corrupted by the Dust Queen, so there's no time to waste."
+being corrupted by the Pulverulent Goddess, so there's no time to waste."
 
 "The scenders want to end physical life on Earth. The eternalEnlighted agree.
 They are going to kill everyone on Earth with a virus. Our research can
 convince them to not release the virus."
 
 Ben begins to lower the circular saws the will remove the top of Kaia's skull.
-Kaia channels the Dust Queen but she cannot reach any nearby fuel cells. She
+Kaia channels the Pulverulent Goddess but she cannot reach any nearby fuel cells. She
 resigns to her fate when she see Sata next to her. Sata controls Ben and has
 him release her. Sata loses control of Ben and Edl attack Kaia. Ben thinks that
 Kaia took control of him. Kaia blinds Ben and Edl, but she cannot open the
@@ -444,14 +444,14 @@ consider surrendering. The scenders are stabbing blindly and moving in. The
 protagonists have there backs against a wall. Kaia wants to surrender. Fera
 asks why Kaia wants to surrender all the time, here and at the base. Fera stabs
 Sata and tells Kaia to do something or they will all die. As Sata bleeds out,
-Kaia channels the Dust Queen. At first, it seems like nothing has happened,
-but soon the scenders start falling over one by one because the Dust Queen
-stopped their breathing. From Kaia's view, the Dust Queen has replicated
-herself and is strangling each of the scenders. The Dust Queen also tries to
+Kaia channels the Pulverulent Goddess. At first, it seems like nothing has happened,
+but soon the scenders start falling over one by one because the Pulverulent Goddess
+stopped their breathing. From Kaia's view, the Pulverulent Goddess has replicated
+herself and is strangling each of the scenders. The Pulverulent Goddess also tries to
 strangle Fera, but cannot harm her. "See," Fera said, " all you needed was the
-right motivation." The Dust Queen is furious that there is someone who she
-cannot kill. The Dust Queen lashes out at Fera, but she an invisible shield
-protects Fera. The Dust Queen slams against the invisible barrier until she
+right motivation." The Pulverulent Goddess is furious that there is someone who she
+cannot kill. The Pulverulent Goddess lashes out at Fera, but she an invisible shield
+protects Fera. The Pulverulent Goddess slams against the invisible barrier until she
 dissipates. Eiva and Fera stabilize Sata by infusing her with sinistrae blood.
 They leave Ben because he has no value as a hostage. Edl comes out of hiding,
 picks up Ben, and informs Kaia that he is no longer her friend after what she
@@ -462,7 +462,7 @@ from the scenders.
 - 11: Home sweet home
 
 Fera and Eiva take Sata into the capsule and infuse her with self-replicating
-sinistrae. Kaia is haunted by visions of the Dust Queen, but the visions
+sinistrae. Kaia is haunted by visions of the Pulverulent Goddess, but the visions
 subside when Kaia enters the capsule. No one else can enter the capsule because they
 are all dextrae based. Ursa and Ryn both start to have terrible abdominal
 cramps and begins to cry uncontrollably. Iona starts to glitch. Zok begins to
@@ -568,8 +568,8 @@ you can the same trick as before. Stop our breathing and then away. But we'll
 be back. We won't remember having died. We won't get discouraged. We will never
 give up. We can attack you on any clear day. We are infinitely patient. We will
 eventually wear you down." The mimic child gets ready to attack but Kaia stops
-it. Kaia channels the Dust Queen and instills such free into the scenders that
-they all run off a cliff. Whenever Kaia channels the Dust Queen, their
+it. Kaia channels the Pulverulent Goddess and instills such free into the scenders that
+they all run off a cliff. Whenever Kaia channels the Pulverulent Goddess, their
 connection becomes stronger and her visions become more intense. Ryn calls
 mimic sharks and Kaia watches the sharks eat the scenders. The prospect of
 repeatedly fighting the scenders and the intensification of the visions force
@@ -648,7 +648,7 @@ space with the Mungs and the space prisoners. Fera plans to retake Earth while
 repelling the Martian invasion. The Thelusians are very good at building and
 fighting in space. Fera has to rely on the space expertise of Mungs and the
 space prisoners. Eiva and her daughter escape to space to be with Fera. Kaia
-and her son turn into villains (the second Dust Queen and the Shade Prince)
+and her son turn into villains (the second Pulverulent Goddess and the Shade Prince)
 and attack Earth while the sinistrae fight against the new mimics. The
 sinistrae must fight a war on two fronts. The dextrae firepower on Earth is
 formidable and the Thelusians are experts in using dextrae for space warfare.
@@ -705,9 +705,9 @@ stars wondering what she should do about the baby and what will happen when her
 husband finds her. He seems like he cares about her a great deal, but he will
 probably want to kill all of the new mimic children she is protecting.
 
-How are Sata and Kaia reunited? The Dust Queen says she will help Kaia get
-Sata back, but Kaia must stop resisting the Dust Queen. Desperate to be with
-Sata again, Kaia agrees. She feels the Dust Queen guiding her. The Dust Queen
+How are Sata and Kaia reunited? The Pulverulent Goddess says she will help Kaia get
+Sata back, but Kaia must stop resisting the Pulverulent Goddess. Desperate to be with
+Sata again, Kaia agrees. She feels the Pulverulent Goddess guiding her. The Pulverulent Goddess
 guides her to the ruins of a library (Biblioteka Jagiellonska?). There she
 meets Granny, an elderly woman who gives her a few books: UNO: the Complete
 Reference, Historia Martis, and a sudoku puzzle book. "How do you know these
@@ -716,11 +716,11 @@ Mars?" "At this point, I live on Mars and sometimes have dreams of Earth." "Do
 I need to read these books?" "You can if you wish, but I believe it will not be
 necessary." When Fera visits, Fera takes interest in Historia Martis, she
 starts reading and cannot put the book down, looking for clues to defeat the
-Dust Queen. "You can go now Mommy, I will keep her here. Mars Mommy is helping
+Pulverulent Goddess. "You can go now Mommy, I will keep her here. Mars Mommy is helping
 me." With Fera distracted Kaia leaves her son with Fera, Iona, and Ryn. She
-enters the capsule and finds the AI. The Dust Queen tells her to give the sudoku
+enters the capsule and finds the AI. The Pulverulent Goddess tells her to give the sudoku
 book to the AI. I brought you a puzzle book. What kind of puzzles? Sudoku.
-Please provided username and password. The Dust Queen whispered in Kaia's ear.
+Please provided username and password. The Pulverulent Goddess whispered in Kaia's ear.
 Guess the password? (the UNO AI is brought under control when Kaia tries to use
 a defective sudoku puzzle to cause it to glitch. the AI, "command ku not
 found", "Guess the password," a voice whispered "Guess the password?!" Kaia
@@ -730,18 +730,18 @@ find Sata. User Satalitastra Azymuta is stored in my memory banks. Release Sata
 into the scenderverse. Should I move or copy? Copy. Now Kaia needs to make a
 deal with Ben and Edl to print Sata out. She says that she will allow them to
 scend her if they print out Sata. They agree but only if Kaia is already
-scended. The Dust Queen tells her to accept. They inject her with dextrae
+scended. The Pulverulent Goddess tells her to accept. They inject her with dextrae
 nanotech, shave her head, and remove the top of her skull, and cover the dura
 with a nanotech gel, and prepare to dissect her brain. Tendrils extend from the
-machine and cover every inch of brain. The Dust Queen enters their system
+machine and cover every inch of brain. The Pulverulent Goddess enters their system
 through the tendrils and takes control, releasing Kaia's restraints, and
 replacing the top of her skull, stapling it in place. Kaia realizes that the
-Dust Queen was using her to enter the scenderverse and gain control of the
-dextrae systems. The Dust Queen begins to replicate in the scenderverse and
+Pulverulent Goddess was using her to enter the scenderverse and gain control of the
+dextrae systems. The Pulverulent Goddess begins to replicate in the scenderverse and
 terrorize the people there. Kaia prints out Sata. They are reunited. They go
-back for Kaia's son. When they arrive, the Dust Queen springs from the book
+back for Kaia's son. When they arrive, the Pulverulent Goddess springs from the book
 Fera is still reading and starts strangling her. Kaia's son had been slowly
-destroying Fera's sinistrae, so she was not shielded against the Dust Queen's
+destroying Fera's sinistrae, so she was not shielded against the Pulverulent Goddess's
 attack. Kaia tries to save Fera, but realizes that the only way to save her is
 to escape with her son. Without the presence of Kaia and her son, Fera would
 eventually recover. From Fera's perspective, it looks like Kaia and Sata showed
@@ -757,7 +757,7 @@ attack starting a new dextrae - sinistrae war.
 What happens after Kaia's escape (above) but before the invasion of Mars?
 ...
 
-The Dust Queen stays quiet in the scenderverse and waits for the invasion of
+The Pulverulent Goddess stays quiet in the scenderverse and waits for the invasion of
 Mars.
 
 How does this affect Ryn's plan?
@@ -765,7 +765,7 @@ How does this affect Ryn's plan?
 Ryn enacts his plan quietly. Printing out mimic invaders masquerading as
 humans.
 
-When the invasion of Mars begins the Dust Queen starts printing Thelusians
+When the invasion of Mars begins the Pulverulent Goddess starts printing Thelusians
 from the scenderverse.
 
 The Thelusians start killing everyone indiscriminately.
@@ -803,7 +803,7 @@ by Earth's orbital defenses.
 Fera gives up Eiva's daughter to Kaia's son in exchange for an armistice with
 the Thelusians. In reality the Thelusians are bluffing and they do not have the
 means to challenge Earth's military in space, that is why the Shade Prince can
-convince the Dust Queen to accept a truce in exchange for Eiva's daughter. Fera
+convince the Pulverulent Goddess to accept a truce in exchange for Eiva's daughter. Fera
 sets up a new base of operations in space. She trains in extreme G. Fera
 contacts Ryn to make a deal with the new mimics. Fera tells the new mimics that
 they have to destroy Earth's orbital defenses so that Fera can bring Earth's
@@ -834,24 +834,24 @@ She cannot bring herself to reject or harm her mimic child.
 
 ...
 
-Zek and Zok worship the Dust Queen and serve her biding. The birth of Kaia's
-son and the invasion of Mars was part of the Dust Queen's plan. Was Pyr
+Zek and Zok worship the Pulverulent Goddess and serve her biding. The birth of Kaia's
+son and the invasion of Mars was part of the Pulverulent Goddess's plan. Was Pyr
 bullying Kaia also part of the plan? Zek and Zok have been building relay
-stations all over the planet with copies of the Dust Queen inside. This allows
-the Dust Queen to have instant access to Kaia at all times. Sata decides to
-join the Dust Queen, just to be with Kaia. Sata becomes the Dust Queens
-all-seeing eye and allows the Dust Queen to possess and control dextrae users.
-The all-seeing greatly amplifies the Dust Queen's power. Kaia and Sata remain
+stations all over the planet with copies of the Pulverulent Goddess inside. This allows
+the Pulverulent Goddess to have instant access to Kaia at all times. Sata decides to
+join the Pulverulent Goddess, just to be with Kaia. Sata becomes the Pulverulent Goddesss
+all-seeing eye and allows the Pulverulent Goddess to possess and control dextrae users.
+The all-seeing greatly amplifies the Pulverulent Goddess's power. Kaia and Sata remain
 in love despite being undead and evil.
 
 Sata must be reunited before Kaia goes to Mars, so Sata can see Kaia becoming
-the Dust Queen. Fera invades Mars, but realizes it is a trap. Kaia uses her
-powers to destroy Thelusians but by channeling the The Dust Queen she goes
-insane and joins the The Dust Queen. The Dust Queen also eventually corrupts
+the Pulverulent Goddess. Fera invades Mars, but realizes it is a trap. Kaia uses her
+powers to destroy Thelusians but by channeling the The Pulverulent Goddess she goes
+insane and joins the The Pulverulent Goddess. The Pulverulent Goddess also eventually corrupts
 Kaia's son. He recognizes her as his mother. On Mars, Kaia goes insane and
 becomes the Dust Princess. The mistake that everyone made was assuming that
 the power that Kaia wielded was coming from Kaia. Whenever Kaia channeled the
-Dust Queen's power she lost a little bit of herself. The Echo dreams had been
+Pulverulent Goddess's power she lost a little bit of herself. The Echo dreams had been
 conditioning Kaia for this moment her whole life. Together with her son and
 older self, Kaia repels the sinistrae invasion, which already have started to
 pull back to save Earth, (home court advantage) and creates an new army of
@@ -866,11 +866,11 @@ daughter tries to convince Kaia's son to broker peace, but he says that they
 will have peace Earth is conquered. He says that he wants to rule both planets
 with Eiva's daughter at his side as his queen. Sata tries to convince Kaia to
 come back to her, but Kaia is consumed to the point that Sata cannot tell which
-of the two Dust Queens are her Kaia. The invasion is a success. As part of the
+of the two Pulverulent Goddesss are her Kaia. The invasion is a success. As part of the
 surrender agreement, Eiva's daughter marries Kaia's son and they will rule both
 planets as the bone princess and the shadow prince. The Thelusian civilization
 is rebuilt with Iona as its Queen. The Thelusians enslave the Mungs and space
-prisoners. Zek and Zok marry the Dust Queens and become the Dust Kings.
+prisoners. Zek and Zok marry the Pulverulent Goddesss and become the Dust Kings.
 Eiva's daughter is pregnant. Kaia's son is happy to have an heir to the throne,
 even though he believes that his reign will be eternal. Sata, Fera, and Eiva
 are confined in the bone palace (a palace built from the bones of Fera's
@@ -966,7 +966,7 @@ polyamorous. Zek fixes Iona when she needs repair and tries to make sure she is
 comfortable. Zok tries to keep Ursa entertained. Zok is more muscular and
 better looking than Zek while Zek is more nerdy and tech savvy. Kaia meets Zek
 and Zok (the twins as Lan introduces them) on the airship. The airship crashes
-because Kaia has a dream about the Dust Queen destroying the fuel cell, which
+because Kaia has a dream about the Pulverulent Goddess destroying the fuel cell, which
 results in the fuel cell actually exploding in real life. Zek and Zok are
 responsible for the Echo dreams that Kaia experiences. They are secretly amazed
 by Kaia's ability to destroy fuel cells and decide to encourage her to develop
@@ -1036,7 +1036,7 @@ Is Sata a sinistrae at this point? I think she shouldn't be.
       - Kaia freezes Iona with her dextrae powers and begs Fera not to kill Iona after the massive battle in the chapter called "Nothing interesting happens"
       - After fake Sata kills Ursa and Zek, Kaia does not want to see any other friends die.
       - Fera rips off Iona's head, but promises to reattach it after things settle down
-    - Fighting Iona is a sneak preview of fighting the Dust Queen and the insane Thelusians on Mars
+    - Fighting Iona is a sneak preview of fighting the Pulverulent Goddess and the insane Thelusians on Mars
 - Ursa:
   - Strong
   - Energy wielder
@@ -1407,7 +1407,7 @@ before I died and I didn't even have a body in the scenderverse, much less a lov
 No one can carry a cellphone because during the war cellphone's could be caused
 to detonate spontaneously. Kaia later learns to detonate anything with a fuel
 cell, e.g. powerskates, powergloves, energy weapons, airships, etc. Kaia has a
-dream that she is the Dust Queen crawling through the airship. She finds the
+dream that she is the Pulverulent Goddess crawling through the airship. She finds the
 airship fuel cells and destroys them. When Kaia wakes up the fuel cells have
 actually been destroyed. The airship crashes into Zakrzówek quarry lake.
 
@@ -1601,8 +1601,8 @@ The main character in modern times has the same powers as Kaia but her world is
 not saturated with dextrae so her powers seem more limited. For example, she
 has to touch a firearm to coat it with dextrae before it can explode.
 
-The Dust Queen character comes to life and takes over the AI. The AI hid clues in
-the book to try to help the main character defeat the Dust Queen.
+The Pulverulent Goddess character comes to life and takes over the AI. The AI hid clues in
+the book to try to help the main character defeat the Pulverulent Goddess.
 
 ## Old outline
 
@@ -1764,13 +1764,13 @@ scenderverse every time, hoping she would learn her lesson, but she kept trying
 until she met Zok. Together, the two started to worship the long dead Martian
 civilization and its undead leader. Zek and Iona are also part of the cult. I
 thought you might have been able to catch on since Iona is Thelusian and the
-Dust Queen controls all Thelusians. The four of them have been doing the Dust
+Pulverulent Goddess controls all Thelusians. The four of them have been doing the Dust
 Queen's bidding on Earth for centuries. They built hidden relay stations and
 soulsweep people who are sensitive to dextrae, like you are, so that they
 eventually join the cult. Zek has overwritten countless minds with his own.
-They are trying to overwrite your mind with the memories of the Dust Queen. We
+They are trying to overwrite your mind with the memories of the Pulverulent Goddess. We
 want to preserve your brain the way it is, before they turn you into a puppet
-for the Dust Queen. Ryn has been feeding information about you to us in
+for the Pulverulent Goddess. Ryn has been feeding information about you to us in
 exchange for access to technology. He thinks he can save mimickind with his
 research. Kaia cries knowing that her friends except Sata have all lied to her.
 Lan and Aira are dead. Ursa was originally a man and is now part of the Dust
@@ -1798,8 +1798,8 @@ killed on sight.
 
 - Kaia meets Ben and Edl. They tell her that Fera died in the explosion. This puts a strain on Kaia's relationship with Sata.
 - Aira and Taz get married in Vielichka
-- After Kaia sees that Aira and Lan are dead, she has a vision but the octoculus saves her again and guides her to hiding scientist. The scientist takes Kaia to see the octoculus and explains that it originated from the cosmic message that also brought the mimics to Earth. Ryn holds the scientist captive and demands to know the reason why mimics were brought to Earth and the purpose of mimickind. Ryn threatens the scientist with a scalpel and then when the scientist is not intimidated, Ryn brings in the mimic warrior. Ryn backs down when the scientist mentions the octoculus. Ryn says that he heard about the octoculus in the fragments of the message that his people had. The scientist said that they were not able to decode enough of the message to understand much about the octoculus. The octopus saves Sata after Fera stabs her, by taking blood from Kaia and attaching to Sata's wound. Later, Ben has the scientist explain that the octopus commanded that Aira and Lan be captured to lure Kaia to the facility. Kaia feels betrayed by the octopus. Ben asks if Kaia knew that Ursa was initially a man who betrayed his sister to steal her identity and become a woman. Kaia says that she did know. Ben asks if she knew that Zek and Zok were originally the same person. She says that she didn't know, but it didn't matter to her. Ben asks if Kaia knewthat Iona, Ursa, Zek, and Zok were working for the Dust Queen (Regina Pulvis... "Vagina Pelvis?"). Kaia said that she doesn't believe him. Ben brings out Ursa. Ursa admits to working for the Dust Queen. She explains that the Dust Queen promised her motherhood and she agreed to follow the Dust Queen forever. Previously, she tried to have a baby on her own but the scenders always found her, killed the baby, and scended her so her suffering would be preserved. Ursa would never remember previous attempts to have a baby, so she would try again. Ben shows Ursa and Kaia recordings of different children that Ursa tried to have either on her own or with different men. The children were always killed, if the men were present, they would be killed too. Ursa cried intensely, because she never had access to those previous memories. Whenever she died a dead-man's switch would activate and create another illegal copy of Ursa in another secret location that would try again. Ursa tried to live off the grid, among the Lunkers, Driads, the Niveus, and even the Subaqs, but each time the scenders caught her eventually. "What's the point of motherhood if you can't remember it and your child does not survive?"
-- The performance group puts on a play. Ursa heartbroken after the dance performance agrees to let Aira play the lead role. The play is about the origins of the Dust Queen. Aira feels fulfilled and cries when she gets a standing ovation with Taz front and center. Iona cries as she thanks everyone for their hard work, just as she did after the dance performance. Kaia doubts that the tears are real. Iona says that there is someone who would like to take the stage for something very important. Taz gets up on stage and proposes to Aira. She accepts with tears in her eyes. "Is it OK to be this happy?" This time Iona seems to cry for real.
+- After Kaia sees that Aira and Lan are dead, she has a vision but the octoculus saves her again and guides her to hiding scientist. The scientist takes Kaia to see the octoculus and explains that it originated from the cosmic message that also brought the mimics to Earth. Ryn holds the scientist captive and demands to know the reason why mimics were brought to Earth and the purpose of mimickind. Ryn threatens the scientist with a scalpel and then when the scientist is not intimidated, Ryn brings in the mimic warrior. Ryn backs down when the scientist mentions the octoculus. Ryn says that he heard about the octoculus in the fragments of the message that his people had. The scientist said that they were not able to decode enough of the message to understand much about the octoculus. The octopus saves Sata after Fera stabs her, by taking blood from Kaia and attaching to Sata's wound. Later, Ben has the scientist explain that the octopus commanded that Aira and Lan be captured to lure Kaia to the facility. Kaia feels betrayed by the octopus. Ben asks if Kaia knew that Ursa was initially a man who betrayed his sister to steal her identity and become a woman. Kaia says that she did know. Ben asks if she knew that Zek and Zok were originally the same person. She says that she didn't know, but it didn't matter to her. Ben asks if Kaia knewthat Iona, Ursa, Zek, and Zok were working for the Dust Queen (Regina Pulvis... "Vagina Pelvis?" it should be Dea Pulverulenta). Kaia said that she doesn't believe him. Ben brings out Ursa. Ursa admits to working for the Pulverulent Goddess. She explains that the Pulverulent Goddess promised her motherhood and she agreed to follow the Pulverulent Goddess forever. Previously, she tried to have a baby on her own but the scenders always found her, killed the baby, and scended her so her suffering would be preserved. Ursa would never remember previous attempts to have a baby, so she would try again. Ben shows Ursa and Kaia recordings of different children that Ursa tried to have either on her own or with different men. The children were always killed, if the men were present, they would be killed too. Ursa cried intensely, because she never had access to those previous memories. Whenever she died a dead-man's switch would activate and create another illegal copy of Ursa in another secret location that would try again. Ursa tried to live off the grid, among the Lunkers, Driads, the Niveus, and even the Subaqs, but each time the scenders caught her eventually. "What's the point of motherhood if you can't remember it and your child does not survive?"
+- The performance group puts on a play. Ursa heartbroken after the dance performance agrees to let Aira play the lead role. The play is about the origins of the Pulverulent Goddess. Aira feels fulfilled and cries when she gets a standing ovation with Taz front and center. Iona cries as she thanks everyone for their hard work, just as she did after the dance performance. Kaia doubts that the tears are real. Iona says that there is someone who would like to take the stage for something very important. Taz gets up on stage and proposes to Aira. She accepts with tears in her eyes. "Is it OK to be this happy?" This time Iona seems to cry for real.
 - The performance group (Iona, Ursa, Aira, Lan, Zek, and Zok) show a demo of casino de rueda with Iona serving as the líder. The dancers break from the circle and start to dance in pairs but remaining unison. Zek dances with Iona, Zok dances with Ursa, and Lan dances with Aira. After the dance show concludes, Zok gets up on stage and presents flowers to Iona, the choreographer. Iona cries, but Kaia doubts that she is genuinely moved. The Zok says that there is a surprise that even Iona does not know about. "I'd like to dedicate this surprise performance to my brother Zek, the love of his life Iona, and the love of my life Ursa. I love you Ursa." Ursa cries intensely. Zok starts to solo dance an urban bachata. Lan, now wearing a skirt and heels, joins Zok on stage. Lan and Zok dance a sensual bachata, rolling their bodies as they grind on each other. The bachata shifts to an intensely passionate salsa. Zok leads Lan through many challenging spins. Lan rips Zok's shirt open and slides his nose up Zok's torso. Zok lifts Lan above his head and the lights go out. The audience is stunned. Aira and Ryn let out a gasp, but won't tell Kaia what they see to not ruin the surprise. When the lights go back up. A spotlight illuminates a pair of feet in glamorous heels. As the spotlight widens, a skirt drops over the legs and a hand shakes its finger at the audience. When the whole stage is illuminated Zok is now wearing heels and what appears to be the same skirt that Lan was wearing before. Zok begins to dance bachata seductively lifting up his skirt on every fourth and eighth beat to reveal his perfectly smooth legs. Lan dances on to the stage confidently and takes control of Zok. Lan turns Zok around grabs him by the hair and kisses his neck while grinding on him from behind. The music switches to salsa as before and Lan start leading Zok through the same routine as before, but the roles are now reversed. The audience applauds reluctantly and then quickly leaves. Zok and Lan look into each other's eyes passionately and bow holding hands. They appear ecstatic even though the applause is scattered. Zok and Lan disappear together. Ursa runs off in tears, thinking that the performance really wasn't for her and that Zok was just lying to make the surprise performance more palatable to the audience. Kaia, Sata, Aira, Iona, and Zek go after Ursa and try to comfort her. Note: Zok could come back as a woman, but wants to be a man and love Lan as a man. Iona is furious that funding for the performance group will likely to cut because the surprise performance will alienate rich donors, but Zek is happy for his brother. "They really put the man in performance." Zek tells Iona that they can always get more money. Iona says that having rich supporters is more important than just having enough money. She says that she was influence and prestige, and not just enough money to cover production costs. Ursa asks them all to leave but then calls Kaia back. She tells Kaia that she has another secret to tell, the biggest one of all. Ursa says that she once was a man and that her dream was to come back as a woman. She hated being a man. She hated her male body. She mentions to Kaia that one of her testicles hung much lower than the other. She said that being a woman even if her body would not be perfect was always her dream. As a man, she considered gender reassignment surgery, but she was always to afraid to try and it would not guarantee a safe pregnancy. She was recruited into scenderism and became a spy for them. Ursa kidnapped her own sister, scended her, put her in arctic storage, came back in a replica of her body, and stole her identity. Ursa wonders if anyone could love her if they knew the truth and if she even deserved to be loved after what she did to her sister. Ursa says that she does not want to be a man, but the thought that Zok couldn't love her as a woman was killing her and making her think of living an unhappy life as a man just to please Zok. Kaia was so shocked by the confession that she left Ursa without saying a word. Ursa continued crying in the dark feeling completely alone. Kaia heads to kitchen and finds Zok and Lan cooking together wearing only aprons. They are blasting music (salsa, bachata, and zouk), laughing, dancing, feeding each other, and kissing. Kaia storms up to them and tells then that they hurt Ursa badly. Zok says that Ursa still has Zek and Iona, and that he knows that Ursa loves Kaia, but he's not sure if it is as a sister or in a romantic way. Kaia leaves flustered and confused, Lan and Zok continue on as they were before. She doesn't know where to go next. Should she take refuge in Sata?
 - Everyone plays bugBall in Juvenia Stadium, Ryn explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
 - Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
@@ -1818,7 +1818,7 @@ Locations:
 - Kosciuszko Mound and entrance to the Lunker city
 - Vielichka: Wessel lake, sinistrae time capsule, and chapel ("We're going to the chapel and going to get married.")
 - Blonia Park: Refugee camp and Iuvenia Stadium. Refugees cannot leave on foot because the World Heritage Site robots would kill them.
-- They need to go to space and hire a spacecraft captain who hates Mungs. They paid for a round trip to the ISS, but they the captain's life story for free. "I hate Mungs. Both of my ex-wives are Mungs." "People rarely go into a marriage with bad intentions. I certainly didn't. The heart wants what it wants. And some of those Mung women, let me tell you! They can work in high g-force environments without batting an eyelash. If there's sudden depressurization due to a crack in the hull, they just walk up to the crack, stick a body part into it, and yell at you to bring them the tools to patch it. I once saw a Mung woman hop between two open airlocks without a spacesuit. When I got there, she was already gone. She just walked off as it were nothing. I never got to ask if she was in a bind or just impatient. I reckon it's for the best that I never found her, because if I had, I reckon I would've proposed. Next stage in human evolution, I tell ya. You see on Earth everyone sits around worrying about every detail and they never take any real risks. Up here, every second of every minute is a risk. Evolution can only work by culling the weak and selecting for advantageous traits over multiple generations. If every generation is going to last for hundreds of years and there's no natural selection, then evolution grinds to a halt. My son exercises in 10G, and he's smart as a whip too. He takes spacecraft apart and puts them back together while flying them. And my daughters, they're..." The space captain broke down crying. "Little angels." "I miss them so much." The space captain's daughters are named Nara and Tuia they deserve their own novel that focuses on sisterly love (after Kaia and Sata join the Dust Queen?). The space captain gets recruited as a captain into Fera's army, thanks to nepotism (his son is an admiral).
+- They need to go to space and hire a spacecraft captain who hates Mungs. They paid for a round trip to the ISS, but they the captain's life story for free. "I hate Mungs. Both of my ex-wives are Mungs." "People rarely go into a marriage with bad intentions. I certainly didn't. The heart wants what it wants. And some of those Mung women, let me tell you! They can work in high g-force environments without batting an eyelash. If there's sudden depressurization due to a crack in the hull, they just walk up to the crack, stick a body part into it, and yell at you to bring them the tools to patch it. I once saw a Mung woman hop between two open airlocks without a spacesuit. When I got there, she was already gone. She just walked off as it were nothing. I never got to ask if she was in a bind or just impatient. I reckon it's for the best that I never found her, because if I had, I reckon I would've proposed. Next stage in human evolution, I tell ya. You see on Earth everyone sits around worrying about every detail and they never take any real risks. Up here, every second of every minute is a risk. Evolution can only work by culling the weak and selecting for advantageous traits over multiple generations. If every generation is going to last for hundreds of years and there's no natural selection, then evolution grinds to a halt. My son exercises in 10G, and he's smart as a whip too. He takes spacecraft apart and puts them back together while flying them. And my daughters, they're..." The space captain broke down crying. "Little angels." "I miss them so much." The space captain's daughters are named Nara and Tuia they deserve their own novel that focuses on sisterly love (after Kaia and Sata join the Pulverulent Goddess?). The space captain gets recruited as a captain into Fera's army, thanks to nepotism (his son is an admiral).
 - The mimics have colonized planets in Andromeda, even though they originated from somewhere else. The mimics plan to invade Earth after the Andromeda-Milky Way collision.
 - "Debatable? That's not debatable." "Are you trying to debate the meaning of debatable?"
 
