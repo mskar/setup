@@ -589,12 +589,19 @@ worse. When the baby is born, Sata starts having so many absentee seizures that
 she is immobilized. Kaia lives in two worlds simultaneously: on Earth with the
 baby and on Mars with the Dust Goddess, who is overjoyed with the birth of her
 offspring. Ryn gives birth to his child with Sata and Kaia, a girl who looks
-like all three of them. They name the girl Resa after Ryn's maternal
-grandmother. They live happily as they settle into the new normal with two
-babies to take care. The baby girl is an angel and does not need to be fed milk
-because she can photosynthesize. The boy constantly demands attention and can
-keep Kaia awake even when he is asleep because of the dreams he has. The baby
-girl grows up along side the baby boy until he kills her with his nascent
+like all three of them. Kaia asks, "Would our child be normal or will..." Her
+voice trailed off and an uncomfortable silence hung in the air. "I cannot say
+for certain, but there is almost no chance of any specific malady being pasted
+down. The child would have a even mix of all our DNA, but we cannot possibly
+know a priori which regions are chosen, the arrangement of those regions, and
+which regions will be silenced versus expressed. The only thing I can say for
+certain is the child would be absolutely unique, like all children are." Sata
+and Kaia seem reassured by this and agree. They name the girl Resa after Ryn's
+maternal grandmother. They live happily as they settle into the new normal with
+two babies to take care. The baby girl is an angel and does not need to be fed
+milk because she can photosynthesize. The boy constantly demands attention and
+can keep Kaia awake even when he is asleep because of the dreams he has. The
+baby girl grows up along side the baby boy until he kills her with his nascent
 powers. The baby boy got jealous of Kaia's motherly love being split between
 the two babies. Sata is distraught and her condition worsens. Kaia grieves by
 focusing on her baby son. Ryn is devastated after first losing his sister and
