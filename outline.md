@@ -134,6 +134,10 @@ The chapter ends with Fera beginning to tell them her story.
   - At the bottom of the lake, a door opens and Ryn gets sick
   - Fera nocks an arrow and goes in
   - Fera finds the AI (Unoa) and meets Evia
+    - Unoa spends her time
+      - accumulating wealth under false identities
+      - messing with DOS users and recording their reactions
+      - writing smutty girls' love science fiction novels
   - Fera and Evia fight and then go save Ryn
   - Fera motivates Ryn to get in the boat
   - Fera tells Ryn that he's never looked better
@@ -357,21 +361,21 @@ the recordings of various versions of herself. She cries intensely seeing the
 recordings, because she never had access to those previous memories. Whenever
 she died a dead-man's switch would activate and create another illegal copy of
 Ursa in another secret location that would try again. Ursa tried to live off
-the grid, among the Lunkers, Driads, the Niveus, and even the Subaqs, but each
+the grid, among the Lunkers, Driads, the Niveus, and even the Subaks, but each
 time the scenders caught her eventually.
 
 "Did you think that I was the villain? Ursa killed hundreds while working for
 the us as a spy and an assassin. Then Ursa quit and tried over and over to to
-start a family, knowing that it would be an affront to scenderism and that we
+start a family, knowing that it would be an affront to Scenderism and that we
 would be forced to hunt her down. Her selfishness caused so much suffering. Now
-she is trapped in a cage of her own sins."
+she is ensnared by her own wrongdoing, locked inside a cage of her own sins."
 
 "Ursa will be shown the recordings of her past versions and families being
 killed in a constant loop until you agree to scend."
 
 "Can't you study me without killing me?"
 
-Ben laughed. "I'm afraid becoming a scender is your only hope."
+Ben laughed. "I'm afraid becoming a scender is your only hope for survival."
 
 "Your mind is continuously deteriorating, so there's no time to waste. We can
 bring you back right after you scend. From your perspective, it will be like
@@ -482,18 +486,22 @@ still has a connection to the internet and hires miners to dig through to the
 capsule. Eiva gives birth and Kaia is near death from starvation when the
 miners break through. Fera and Eiva start to organize an army to defeat the
 scenders. Kaia and Sata get ready to rescue Zek, Zok, Ursa, Ryn, and Iona from
-the scenders. Mel joins them with Driad warriors. Taz joins Fera's army with
-some army buddies who are also addicted to sinistrae. Kaia is angry at Taz, but
-Fera accepts him with open arms. Representatives of various oppressed people
-start to visit Fera, e.g. Daka and Dzaa from the Mungs. They hatch a plan to
-rescue Zek, Zok, Ursa, Iona, and Ryn. When Kaia arrives at All Saints Chapel to
-save her friends, she is surprised that there is no resistance. When she finds
-her friends, sees that Zek, Zok, Ursa, Iona, and Ryn have made a deal with the
-scenders (to create a child with Kaia's powers. Zek and Zok agree because they
-see an opportunity to realize their dream of bringing back their ancient
-offspring and reclaiming Mars) and are living comfortable. They say that the
-scenders mean her no harm and that Ursa is pregnant and that scenders are
-taking care of them and that they do not want to leave. Kaia bonds with the
+the scenders. Mel joins them with Driad warriors who have found that sinistrae
+fit perfectly into their culture and lifestyle. The Driad switch from wooden to
+bone knives and use bone arrowheads and bone tips for their spears. Pyr joins
+Fera because he is grateful that she told him where to find his father and
+because he wants to be a Driad warrior like his father. Taz joins Fera's army
+with some army buddies who are also addicted to sinistrae. Kaia is angry at
+Taz, but Fera accepts him with open arms. Representatives of various oppressed
+people start to visit Fera, e.g. Daka and Dzaa from the Mungs. They hatch a
+plan to rescue Zek, Zok, Ursa, Iona, and Ryn. When Kaia arrives at All Saints
+Chapel to save her friends, she is surprised that there is no resistance. When
+she finds her friends, sees that Zek, Zok, Ursa, Iona, and Ryn have made a deal
+with the scenders (to create a child with Kaia's powers. Zek and Zok agree
+because they see an opportunity to realize their dream of bringing back their
+ancient offspring and reclaiming Mars) and are living comfortable. They say
+that the scenders mean her no harm and that Ursa is pregnant and that scenders
+are taking care of them and that they do not want to leave. Kaia bonds with the
 child while it is still in the womb. She forgets about Fera and Sata (Eiva
 stayed behind with the baby). Sata decides to stay with Kaia. Fera is furious
 with all of them but she calls her army back. Ryn stays. Even though Ryn still
@@ -633,8 +641,8 @@ When Sata returns in a newly printed body everything again seems fine, but
 during a training session with Zok and Ursa, Sata kills both of the
 simultaneously, blowing off both of their heads along with her hands. Zek and
 Iona attack Sata, but Kaia causes Iona to freeze as she begs them all to stop
-fighting. The sinistrae warriors (Fera, Mel, Taz, etc.) kill Zek and tear off
-Iona's head. Kaia is left with her baby, the insane Sata, Fera and her
+fighting. The sinistrae warriors (Fera, Mel, Taz, and Pyr) kill Zek and tear
+off Iona's head. Kaia is left with her baby, the insane Sata, Fera and her
 sinistrae warriors, and Iona's disembodied head. Fera takes control of the All
 Saints Chapel after Kaia decides not to stay there after Zek, Ursa, and Zok are
 killed. Kaia moves into a cottage near Vielichka. Ryn and the mimic child stay
@@ -670,11 +678,16 @@ lying just to get Kaia all to himself. Kaia doesn't know who to believe, but
 moves into Vavel Castle for the sake of her baby. Kaia, Ryn, Iona's head, and
 the baby acclimatize to life in Vavel Castle. The reason Fera is able to live
 in the castle is because she has assumed control of the government as the
-world's top social media and most affluent corporate executive. The World
-Heritage robots were recalled by Fera's orders. The people in the refugee camp,
-Driads, and Lunkers are allowed to settle in Cracovia as long as they swear
-fealty to Fera. Fera begins to amass an army in Cracovia and plans an invasion
-of Mars, hoping that Kaia's powers will allow her to secure victory.
+world's top social media and most affluent corporate executive. Fera has Kaia
+pose for videos with her baby. Fera's fans love that she has two wives each
+with a baby and no need for a husband. Fera uses her new found wealth to buy
+condos (and other types of housing) and provides interest free loans to her
+followers so they can rent the condos from her. This gains Fera even more
+followers. The World Heritage robots were recalled by Fera's orders. The people
+in the refugee camp, Driads, and Lunkers are allowed to settle in Cracovia for
+free as long as they swear fealty to Fera. Fera begins to amass an army in
+Cracovia and plans an invasion of Mars, hoping that Kaia's powers will allow
+her to secure victory.
 
 - 14: Take your time
 
@@ -803,54 +816,56 @@ stars wondering what she should do about the baby and what will happen when her
 husband finds her. He seems like he cares about her a great deal, but he will
 probably want to kill all of the new mimic children she is protecting.
 
-How are Sata and Kaia reunited? The Pulverulent Goddess says she will help Kaia get
-Sata back, but Kaia must stop resisting the Pulverulent Goddess. Desperate to be with
-Sata again, Kaia agrees. She feels the Pulverulent Goddess guiding her. The Pulverulent Goddess
-guides her to the ruins of a library (Biblioteka Jagiellonska?). There she
-meets Granny, an elderly woman who gives her a few books: UNO: the Complete
-Reference, Historia Martis, and a sudoku puzzle book. "How do you know these
-are the books I need?" "These books came to me in a dream." "Do you dreams of
-Mars?" "At this point, I live on Mars and sometimes have dreams of Earth." "Do
-I need to read these books?" "You can if you wish, but I believe it will not be
-necessary." When Fera visits, Fera takes interest in Historia Martis, she
-starts reading and cannot put the book down, looking for clues to defeat the
-Pulverulent Goddess. "You can go now Mommy, I will keep her here. Mars Mommy is helping
-me." With Fera distracted Kaia leaves her son with Fera, Iona, and Ryn. She
-enters the capsule and finds the AI. The Pulverulent Goddess tells her to give the sudoku
-book to the AI. I brought you a puzzle book. What kind of puzzles? Sudoku.
-Please provided username and password. The Pulverulent Goddess whispered in Kaia's ear.
-Guess the password? (the UNO AI is brought under control when Kaia tries to use
-a defective sudoku puzzle to cause it to glitch. the AI, "command ku not
-found", "Guess the password," a voice whispered "Guess the password?!" Kaia
-exclaimed, "Password accepted. Welcome guest," the AI responded). Welcome user
-guest. Command ku not found. Please try again with another command. I want to
-find Sata. User Satalitastra Azymuta is stored in my memory banks. Release Sata
-into the scenderverse. Should I move or copy? Copy. Now Kaia needs to make a
-deal with Ben and Edl to print Sata out. She says that she will allow them to
-scend her if they print out Sata. They agree but only if Kaia is already
-scended. The Pulverulent Goddess tells her to accept. They inject her with dextrae
-nanotech, shave her head, and remove the top of her skull, and cover the dura
-with a nanotech gel, and prepare to dissect her brain. Tendrils extend from the
-machine and cover every inch of brain. The Pulverulent Goddess enters their system
-through the tendrils and takes control, releasing Kaia's restraints, and
+How are Sata and Kaia reunited? The Pulverulent Goddess says she will help Kaia
+get Sata back, but Kaia must stop resisting the Pulverulent Goddess. Desperate
+to be with Sata again, Kaia agrees. She feels the Pulverulent Goddess guiding
+her. The Pulverulent Goddess guides her to the ruins of a library (Biblioteka
+Jagiellonska?). There she meets Granny, an elderly woman who gives her a few
+books: UNO: the Complete Reference, Historia Martis, and a sudoku puzzle book.
+"How do you know these are the books I need?" "These books came to me in a
+dream." "Do you dreams of Mars?" "At this point, I live on Mars and sometimes
+have dreams of Earth." "Do I need to read these books?" "You can if you wish,
+but I believe it will not be necessary." When Fera visits, Fera takes interest
+in Historia Martis, she starts reading and cannot put the book down, looking
+for clues to defeat the Pulverulent Goddess. "You can go now Mommy, I will keep
+her here. Mars Mommy is helping me." With Fera distracted Kaia leaves her son
+with Fera, Iona, and Ryn. She enters the capsule and finds the AI. The
+Pulverulent Goddess tells her to give the sudoku book to the AI. I brought you
+a puzzle book. What kind of puzzles? Sudoku. Please provided username and
+password. The Pulverulent Goddess whispered in Kaia's ear. Guess the password?
+(the UNO AI is brought under control when Kaia tries to use a defective sudoku
+puzzle to cause it to glitch. the AI, "command ku not found", "Guess the
+password," a voice whispered "Guess the password?!" Kaia exclaimed, "Password
+accepted. Welcome guest," the AI responded). Welcome user guest. Command ku not
+found. Please try again with another command. I want to find Sata. User
+Satalitastra Azymuta is stored in my memory banks. Release Sata into the
+scenderverse. Should I move or copy? Copy. Now Kaia needs to make a deal with
+Ben and Edl to print Sata out. She says that she will allow them to scend her
+if they print out Sata. They agree but only if Kaia is already scended. The
+Pulverulent Goddess tells her to accept. They inject her with dextrae nanotech,
+shave her head, and remove the top of her skull, and cover the dura with a
+nanotech gel, and prepare to dissect her brain. Tendrils extend from the
+machine and cover every inch of brain. The Pulverulent Goddess enters their
+system through the tendrils and takes control, releasing Kaia's restraints, and
 replacing the top of her skull, stapling it in place. Kaia realizes that the
-Pulverulent Goddess was using her to enter the scenderverse and gain control of the
-dextrae systems. The Pulverulent Goddess begins to replicate in the scenderverse and
-terrorize the people there. Kaia prints out Sata. They are reunited. They go
-back for Kaia's son. When they arrive, the Pulverulent Goddess springs from the book
-Fera is still reading and starts strangling her. Kaia's son had been slowly
-destroying Fera's sinistrae, so she was not shielded against the Pulverulent Goddess's
-attack. Kaia tries to save Fera, but realizes that the only way to save her is
-to escape with her son. Without the presence of Kaia and her son, Fera would
-eventually recover. From Fera's perspective, it looks like Kaia and Sata showed
-up, Kaia used her powers to strangle Fera, and left her for dead while escaping
-with her son, Iona's head, and Sata. Fera recovers. She realizes that she no
-longer has any leverage over Kaia. Fera organizes a search party and chases
-after Kaia et al., because Kaia is integral to Fera's plan to invade Mars. Kaia
-is also the reason why Fera was never challenged by dextrae forces. The news
-spread quickly of Kaia's ability to destroy energy sources at will. If anyone
-learned that Kaia is no longer under Fera's control, the dextrae forces may
-attack starting a new dextrae - sinistrae war.
+Pulverulent Goddess was using her to enter the scenderverse and gain control of
+the dextrae systems. The Pulverulent Goddess begins to replicate in the
+scenderverse and terrorize the people there. Kaia prints out Sata. They are
+reunited. They go back for Kaia's son. When they arrive, the Pulverulent
+Goddess springs from the book Fera is still reading and starts strangling her.
+Kaia's son had been slowly destroying Fera's sinistrae, so she was not shielded
+against the Pulverulent Goddess's attack. Kaia tries to save Fera, but realizes
+that the only way to save her is to escape with her son. Without the presence
+of Kaia and her son, Fera would eventually recover. From Fera's perspective, it
+looks like Kaia and Sata showed up, Kaia used her powers to strangle Fera, and
+left her for dead while escaping with her son, Iona's head, and Sata. Fera
+recovers. She realizes that she no longer has any leverage over Kaia. Fera
+organizes a search party and chases after Kaia et al., because Kaia is integral
+to Fera's plan to invade Mars. Kaia is also the reason why Fera was never
+challenged by dextrae forces. The news spread quickly of Kaia's ability to
+destroy energy sources at will. If anyone learned that Kaia is no longer under
+Fera's control, the dextrae forces may attack starting a new dextrae -
+sinistrae war.
 
 What happens after Kaia's escape (above) but before the invasion of Mars?
 ...
@@ -1039,7 +1054,7 @@ weapons. If the blasts don't kill them, our arrows and knives will."
 - Thelusians
 - Scenders
 - Driads
-- Atlantans
+- Subaks
 - Zeppelinomads
 - Mimics
 - Mungs
@@ -1278,7 +1293,7 @@ even Mungs.
 
 "Yes, Lunkers and Mungs."
 
-"What about Atlantans?"
+"What about Subaks?
 
 "The fish people? Ok, sure they can have freedom and equality too."
 
@@ -1298,7 +1313,7 @@ their trash on the people below. Luckily, the government wiped them all out by
 igniting all of their hydrogen and taking away all of their precious helium.
 
 Driads show up to ask Fera to promise that she will protect the trees,
-Atlantans ask Fera to promise to respect the oceans. Fera agrees in exchange
+Subaks ask Fera to promise to respect the oceans. Fera agrees in exchange
 for their promise to support the revolution.
 
 A descendant of the Zeppelinomads approaches Fera asking for her help to rebuild
@@ -1390,10 +1405,10 @@ rid of her so that she could live with Eiva and Fera.
 
 Fera stations guards around the secret locations of the eternalEnlighted. If
 the eternalEnlighted ever disobey her, the guards are instructed to destroy all
-of the brain tanks. She grants sovereignty to the Atlantans, Driads,
+of the brain tanks. She grants sovereignty to the Subaks, Driads,
 Mungs, and Lunkers, as she promised, and she forms two new branches of
 government: a monarchy with her as the queen and a council with a
-representative from the Atlantans, the Driads, the Lunkers, and the Mungs.
+representative from the Subaks, the Driads, the Lunkers, and the Mungs.
 
 Fera gives herself a permanent seat on the new council with veto power and puts
 her fanboy on the Council as the Zeppeliner representative and uses him as her
@@ -1900,7 +1915,7 @@ killed on sight.
 - The performance group (Iona, Ursa, Aira, Lan, Zek, and Zok) show a demo of casino de rueda with Iona serving as the líder. The dancers break from the circle and start to dance in pairs but remaining unison. Zek dances with Iona, Zok dances with Ursa, and Lan dances with Aira. After the dance show concludes, Zok gets up on stage and presents flowers to Iona, the choreographer. Iona cries, but Kaia doubts that she is genuinely moved. The Zok says that there is a surprise that even Iona does not know about. "I'd like to dedicate this surprise performance to my brother Zek, the love of his life Iona, and the love of my life Ursa. I love you Ursa." Ursa cries intensely. Zok starts to solo dance an urban bachata-salsa song (bachasalsaton). Lan, now wearing a skirt and heels, joins Zok on stage. Lan and Zok dance a sensual bachata, rolling their bodies as they grind on each other. The bachata shifts to an intensely passionate salsa. Zok leads Lan through many challenging spins. Lan rips Zok's shirt open and slides his nose up Zok's torso. Zok lifts Lan above his head and the lights go out. The audience is stunned. Aira and Ryn let out a gasp, but won't tell Kaia what they see to not ruin the surprise. When the lights go back up. A spotlight illuminates a pair of feet in glamorous heels. As the spotlight widens, a skirt drops over the legs and a hand shakes its finger at the audience. When the whole stage is illuminated Zok is now wearing heels and what appears to be the same skirt that Lan was wearing before. Zok begins to dance bachata seductively lifting up his skirt on every fourth and eighth beat to reveal his perfectly smooth legs. Lan dances on to the stage confidently and takes control of Zok. Lan turns Zok around grabs him by the hair and kisses his neck while grinding on him from behind. The music switches to salsa as before and Lan start leading Zok through the same routine as before, but the roles are now reversed. The audience applauds reluctantly and then quickly leaves. Zok and Lan look into each other's eyes passionately and bow holding hands. They appear ecstatic even though the applause is scattered. Zok and Lan disappear together. Ursa runs off in tears, thinking that the performance really wasn't for her and that Zok was just lying to make the surprise performance more palatable to the audience. Kaia, Sata, Aira, Iona, and Zek go after Ursa and try to comfort her. Note: Zok could come back as a woman, but wants to be a man and love Lan as a man. Iona is furious that funding for the performance group will likely to cut because the surprise performance will alienate rich donors, but Zek is happy for his brother. "They really put the man in performance." Zek tells Iona that they can always get more money. Iona says that having rich supporters is more important than just having enough money. She says that she was influence and prestige, and not just enough money to cover production costs. Ursa asks them all to leave but then calls Kaia back. She tells Kaia that she has another secret to tell, the biggest one of all. Ursa says that she once was a man and that her dream was to come back as a woman. She hated being a man. She hated her male body. She mentions to Kaia that one of her testicles hung much lower than the other. She said that being a woman even if her body would not be perfect was always her dream. As a man, she considered gender reassignment surgery, but she was always to afraid to try and it would not guarantee a safe pregnancy. She was recruited into scenderism and became a spy for them. Ursa kidnapped her own sister, scended her, put her in arctic storage, came back in a replica of her body, and stole her identity. Ursa wonders if anyone could love her if they knew the truth and if she even deserved to be loved after what she did to her sister. Ursa says that she does not want to be a man, but the thought that Zok couldn't love her as a woman was killing her and making her think of living an unhappy life as a man just to please Zok. Kaia was so shocked by the confession that she left Ursa without saying a word. Ursa continued crying in the dark feeling completely alone. Kaia heads to kitchen and finds Zok and Lan cooking together wearing only aprons. They are blasting music (salsa, bachata, and zouk), laughing, dancing, feeding each other, and kissing. Kaia storms up to them and tells then that they hurt Ursa badly. Zok says that Ursa still has Zek and Iona, and that he knows that Ursa loves Kaia, but he's not sure if it is as a sister or in a romantic way. Kaia leaves flustered and confused, Lan and Zok continue on as they were before. She doesn't know where to go next. Should she take refuge in Sata?
 - Everyone plays bugBall in Juvenia Stadium, Ryn explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
 - Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
-- The octopus becomes symbiotically linked to Kaia. She goes to the ocean and gets into the water. The octopus releases its spawn.
+- The octopus becomes symbiotically linked to Kaia. She goes to the Visua River and gets into the water. The octopus releases its spawn and thanks Kaia helping it and that it will repay the debt.
 - Taz thinks its wild that Aira is tall. Lunkers tend to be on the shorter end of the spectrum. He has a weird obsession with height. "When I look at her, I think how will she even fit in the tunnels back home? It's so wrong. I can't stop staring at her.'"
 - Visit Lem's grave in Salvator Cemetery to read the inscription: feci quod potui, faciant meliora potentes
 Meaning: I have done what I could; let those who can do better. The scenders have their base in the church because they like the inscription, vita non tollitur: Life does not end
@@ -1909,12 +1924,29 @@ Meaning: I have done what I could; let those who can do better. The scenders hav
 - Eiva sees the initials of Jagiellonian Library (BJ) and laughs. No one else understands.
 - "Do you ever think that we might be the baddies?" "What do you mean?" "Well, we wear armor made from the bones of our enemies, we call ourselves sinistrae, and we're trying to take over the world. Does that sound like what the good guys would do?" "All we are trying to do is make the world a better place by removing those who would oppose our relentless pursuit of power." "Do you think relentlessly pursing power at all costs makes us evil?" "Yes." "No, it makes us human."
 
+Religions:
+- Pulvism: Iona, Ursa, Zek, Zok, Noia, Onia
+- Scenderism: Ben, Edl
+- Tengrism: Dzaa, Daka, Nara, Tuia
+  - The Mungs believe Tengri welcomed them into space, while the government sees them as parasites
+  - The Mungs believe Fera to be
+    - the embodiment of Tengri's will
+    - the spiritual descendent of Chingis Han
+    - the incarnation of Umai, because she has two wives (Eiva and Kaia) and two children, but no husband
+      - Tengri's daughter
+      - the goddess of fertility, motherhood, women, and children
+- Animism and Shamanism: Driads, Subaks
+- Mimics don't have a religion, but they believe their true religion may exist in the cosmic message.
+- Subaks worship Neptune/Poseidon
+
 Locations:
 - Scender hideout in All Saints Chapel in Salvator Cemetery
   - Lem's grave Date of death	27. 3. 2006 Cemetery	Salwator Cemetery, Krakow, Poland GPS coordinates of the cemetery	50.053249, 19.904173 Details: Approximate GPS coordinates of the grave are 50.053249, 19.904173. Stand in front of the church, then turn left.
 - Kosciuszko Mound and entrance to the Lunker city
 - Vielichka: Vessel lake, sinistrae time capsule, and chapel ("We're going to the chapel and going to get married.")
 - Blonia Park: Refugee camp and Iuvenia Stadium. Refugees cannot leave on foot because the World Heritage Site robots would kill them.
+- Vavel Castle
+- Space: prisons, and farms, and Mung settlements
 - They need to go to space and hire a spacecraft captain who hates Mungs. They paid for a round trip to the ISS, but they the captain's life story for free. "I hate Mungs. Both of my ex-wives are Mungs." "People rarely go into a marriage with bad intentions. I certainly didn't. The heart wants what it wants. And some of those Mung women, let me tell you! They can work in high g-force environments without batting an eyelash. If there's sudden depressurization due to a crack in the hull, they just walk up to the crack, stick a body part into it, and yell at you to bring them the tools to patch it. I once saw a Mung woman hop between two open airlocks without a spacesuit. When I got there, she was already gone. She just walked off as it were nothing. I never got to ask if she was in a bind or just impatient. I reckon it's for the best that I never found her, because if I had, I reckon I would've proposed. Next stage in human evolution, I tell ya. You see on Earth everyone sits around worrying about every detail and they never take any real risks. Up here, every second of every minute is a risk. Evolution can only work by culling the weak and selecting for advantageous traits over multiple generations. If every generation is going to last for hundreds of years and there's no natural selection, then evolution grinds to a halt. My son exercises in 10G, and he's smart as a whip too. He takes spacecraft apart and puts them back together while flying them. And my daughters, they're..." The space captain broke down crying. "Little angels." "I miss them so much." The space captain's daughters are named Nara and Tuia they deserve their own novel that focuses on sisterly love (after Kaia and Sata join the Pulverulent Goddess?). The space captain gets recruited as a captain into Fera's army, thanks to nepotism (his son is an admiral).
 - The mimics have colonized planets in Andromeda, even though they originated from somewhere else. The mimics plan to invade Earth after the Andromeda-Milky Way collision.
 - "Debatable? That's not debatable." "Are you trying to debate the meaning of debatable?"

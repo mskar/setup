@@ -373,7 +373,7 @@ Since then we have been learning to peacefully co-exist with humans."
 
 "Why do your people live in the forest?"
 
-"It is the same reason why Lunkers hid below the ground and Subaqs hid beneath
+"It is the same reason why Lunkers hid below the ground and Subaks hid beneath
 the waves. A long time, there was a great war fought with terrible weapons.
 Light beams would come down from the sky to burn those who walked in the open.
 Our Ancestors survived by hiding in the forest."
