@@ -346,49 +346,36 @@ though he says he can grow himself another hand later.
 Ben has the scientist explain that the octopus commanded that Aira and Lan be
 captured to lure Kaia to the facility. Kaia feels betrayed by the octopus. Ben
 asks if Kaia knew that Ursa was initially a man who betrayed his sister to
-steal her identity and become a woman. Kaia says that she did know. Ben asks if
-she knew that Zek and Zok were originally the same person. She says that she
-didn't know, but it didn't matter to her. Ben asks if Kaia knew that Iona,
-Ursa, Zek, and Zok were working for the Dust Goddess aka Dea Pulverulenta (Dust
-Queen is Regina Pulvis... "Vagina Pelvis?"). Kaia said that she doesn't believe
-him. He explains that the Dust Goddess promised her motherhood and she
-agreed to follow the Dust Goddess forever. Previously, she tried to have
-a baby on her own but the scenders always found her, killed the baby, and
-scended her so her suffering would be preserved. Ursa would never remember
-previous attempts to have a baby, so she would try again. Ben shows Kaia
-recordings of different children that Ursa tried to have either on her own or
-with different men. The children were always killed, if the men were present,
-they would be killed too. Ben shows Kaia a recording of Ursa watching the
-recordings of various versions of herself. She cries intensely seeing the
+steal her identity and become a woman. Kaia says that she did know. Previously,
+she tried to have a baby on her own but the scenders always found her, killed
+the baby, and scended her so her suffering would be preserved. Ursa would never
+remember previous attempts to have a baby, so she would try again. Ben shows
+Kaia recordings of different children that Ursa tried to have either on her own
+or with different men. The children were always killed, if the men were
+present, they would be killed too. Ben shows Kaia a recording of Ursa watching
+the recordings of various versions of herself. She cries intensely seeing the
 recordings, because she never had access to those previous memories. Whenever
 she died a dead-man's switch would activate and create another illegal copy of
 Ursa in another secret location that would try again. Ursa tried to live off
 the grid, among the Lunkers, Driads, the Niveus, and even the Subaqs, but each
 time the scenders caught her eventually.
 
-"I'll never become a scender. No one should live forever."
+"Did you think that I was the villain? Ursa killed hundreds while working for
+the us as a spy and an assassin. Then Ursa quit and tried over and over to to
+start a family, knowing that it would be an affront to scenderism and that we
+would be forced to hunt her down. Her selfishness caused so much suffering. Now
+she is trapped in a cage of her own sins."
 
-Ben laughed. "I'm afraid becoming a scender is your only hope."
-
-"The Dust cultists are trying to overwrite your mind with the memories of the
-Pulverulent Goddess. We want to preserve your brain the way it is. We want to
-study you to understand your gifts and use them for the good of humanity."
-
-Kaia: "Why?"
-
-"The Pulverulent Goddess promised Ursa that she could be a woman forever and
-even have a baby."
-
-"Did you think that I was the villain? Ursa killed hundreds while working as a
-spy and an assassin. Every time she tried to start a family, Ursa killed them
-indirectly. Zek has soulswept countless people like you, driving them insane or
-turning them into puppets for the Pulverulent Goddess. Zok is just a copy of
-previous version of Zek. Iona is an ancient robot."
+"Ursa will be shown the recordings of her past versions and families being
+killed in a constant loop until you agree to scend."
 
 "Can't you study me without killing me?"
 
-"We can bring you back right after you scend. And your mind is continuously
-being corrupted by the Pulverulent Goddess, so there's no time to waste."
+Ben laughed. "I'm afraid becoming a scender is your only hope."
+
+"Your mind is continuously deteriorating, so there's no time to waste. We can
+bring you back right after you scend. From your perspective, it will be like
+waking up after falling asleep."
 
 "The scenders want to end physical life on Earth. The eternalEnlightened agree.
 They are going to kill everyone on Earth with a virus. Our research can
@@ -449,7 +436,7 @@ At first, it seems like nothing has happened, but soon the scenders start
 falling over one by one because the Pulverulent Goddess stopped their
 breathing. From Kaia's view, the Pulverulent Goddess has replicated herself and
 is strangling each of the scenders. The Pulverulent Goddess also tries to
-strangle Fera, but cannot harm her. "See," Fera said, " all you needed was the
+strangle Fera, but cannot harm her. "See," Fera said, "all you needed was the
 right motivation." The Pulverulent Goddess is furious that there is someone who
 she cannot kill. The Pulverulent Goddess lashes out at Fera, but she an
 invisible shield protects Fera. The Pulverulent Goddess slams against the
@@ -486,7 +473,7 @@ Ursa, Ryn, and Iona) are captured by scenders who followed them into the
 tunnels. The scenders detonate explosives to collapse the tunnels in Vielichka,
 burying Kaia, Sata, Fera, and Eiva alive.
 
-- 12: Nothing interesting happens
+- 12: Nothing interesting ever happens
 
 Kaia takes sinistrae supplements to survive, while they dig themselves out.
 They are starving, because Fera hides food for Eiva who is revealed to be
@@ -511,62 +498,134 @@ child while it is still in the womb. She forgets about Fera and Sata (Eiva
 stayed behind with the baby). Sata decides to stay with Kaia. Fera is furious
 with all of them but she calls her army back. Ryn stays. Even though Ryn still
 is in love with Fera, he knows she does not love him back and that he cannot go
-inside the capsule. The baby starts to destroy the sinistrae in Sata and Kaia's
-systems. Sata starts to experience seizures again and Kaia's visions return
-much stronger than before. Zek helps physically and psychically, but the baby
-is most psychically interested in Ursa and most psychically interested in Kaia.
-Even when the baby is sleeping, it interacts with Kaia's mind. Between her
-visions, strange dreams, and the baby's psychic powers, Kaia becomes severely
-sleep deprived. The octoculus is able to calm the baby indirectly via the
-psychic link between Kaia and the baby. Kaia is careful never to let the baby
-touch the octoculus, but she does not know what will happen. Fera visits them
-and starts bringing them sinistrae injections which they have to use more and
-more frequently, as the baby becomes stronger. The baby gets angry when Kaia
-uses the injections, because the psychic link becomes temporarily severed. Zek
-tries to distract the baby and occupy it psychically when Kaia uses the
+inside the capsule.
+
+After the baby is born. Iona, Ursa, Zek, and Zok rejoice and begin to show
+their religious zeal. Iona says that the Goddess is pleased with the birth of
+the baby and has decided to reward Iona with a new body. Iona is printed out as
+a scender and given the name Noia. Iona explains that her new body's first
+mission is to help take care of the baby, and then after the baby grows up,
+Noia will act as a missionary to bring pulvism to the scenders and convert them
+from scenderism to pulvism. Kaia begins to understand that Iona and the others
+worship the Dust Goddess (it's very important that she doesn't figure this out
+earlier).
+
+Zek look at Iona with incredibly admiration. "Iona's faith was always the
+strongest, even stronger than my own. I have every reason to believe. The
+Goddess speaks to me directly. I saw the Goddess enter the body of my wife with
+my own eyes. Iona does not need any of that. Iona remained dedicated since the
+beginning. She chose to remain a machine to serve the Goddess. Her faith has
+been the bedrock upon which we have built everything since the war. Now her
+dedication has been rewarded."
+
+Iona asks Noia what it is like to have a real body. Noia says that it
+is exquisite. Noia and Iona embrace and cry as they realize that one of their
+dreams has been realized, that their faith and struggle have been worthwhile,
+and the rebirth of their people is nigh. Noia asks to hold the baby and cries
+when she does, saying it is so soft and smells so wonderful. Iona cries seeing
+her other self experience things she could never fulls experience. She decides
+that the new Thelusian society will celebrate natural life and only convert
+people to machines to save them from death and disease.
+
+The Goddess speaks to Zek and Kaia. She says that Iona is indeed the most
+faithful and the Goddess's favorite among her followers. The Goddess says that
+Iona's faith will be rewarded again. Iona and Noia will receive another body,
+this time a baby girl named Oina, that will be soulSwept with all of Iona's
+memories. They should raise the girl together to teach her the faith, so that
+together they can embody Pulvism in three different forms: Scender, Thelusian,
+and Echo. The Goddess also says that Iona will rule over Thelus are her people
+are reborn. Iona and Noia rejoice when they hear that the Goddess has favored
+them and that
+
+It is really hard to take care of the baby, even with Ursa breastfeeding, Iona
+providing support 24 hours a day, Noia helping to care of the divine infant
+with all her religious zeal, Sata helping as much as she can, and Kaia giving
+her all.
+
+The baby starts to destroy the sinistrae in Sata and Kaia's systems. Sata
+starts to experience seizures again and Kaia's visions return much stronger
+than before. Zok helps physically. Zek helps physically and psychically, but
+the baby is most psychically interested in Ursa and most psychically interested
+in Kaia. Even when the baby is sleeping, it interacts with Kaia's mind. Between
+her visions, strange dreams, and the baby's psychic powers, Kaia becomes
+severely sleep deprived. The octoculus is able to calm the baby indirectly via
+the psychic link between Kaia and the baby. Kaia is careful never to let the
+baby touch the octoculus, but she does not know what will happen. Fera visits
+them and starts bringing them sinistrae injections which they have to use more
+and more frequently, as the baby becomes stronger. The baby gets angry when
+Kaia uses the injections, because the psychic link becomes temporarily severed.
+Zek tries to distract the baby and occupy it psychically when Kaia uses the
 injections, so she can sleep, but he is not nearly as strong psychically as
-Kaia and the baby gets bored of him quickly. Ryn professes his love for Kaia
-and Sata. He says he can conceive a child for them that will be carry a mix of
-their DNA with his. Kaia and Sata accept Ryn as their surrogate mother and stop
-the sinistrae injections so Ryn can get pregnant. Fera is a bit jealous that
-Ryn has shifted his affection to Sata and Kaia, but hides it and says that if
-they do not want the sinistrae injections that she will stop bringing them, but
-she hopes that she can still visit. Sata and Kaia says that of course Fera can
-visit and that she can also bring Eiva and her baby when she visits. Life
-becomes very hard for Sata and Kaia without the sinistrae injections, as the
-baby grows stronger, their conditions become worse. When the baby is born, Sata
-starts having so many absentee seizures that she is immobilized. Kaia lives in
-two worlds simultaneously: on Earth with the baby and on Mars with the Dust
-Goddess, who is overjoyed with the birth of her offspring. Ryn gives birth to
-his child with Sata and Kaia, a girl who looks like all three of them. They
-name the girl Resa after Ryn's maternal grandmother. They live happily as they
-settle into the new normal with two babies to take care. The baby girl is an
-angel and does not need to be fed milk because she can photosynthesize. The boy
-constantly demands attention and can keep Kaia awake even when he is asleep
-because of the dreams he has. The baby girl grows up along side the baby boy
-until he kills her with his nascent powers. The baby boy got jealous of Kaia's
-motherly love being split between the two babies. Sata is distraught and her
-condition worsens. Kaia grieves by focusing on her baby son. Ryn is devastated
-after first losing his sister and now his child. He isolates himself and throws
-himself into his work. The mimic child begins to speak to him. Ryn thinks he is
-going insane but the warrior explains that it is a conduit for a newly-formed,
-nearby mimic civilization that self-constructed using instructions from a
-distant mimic civilization. The conduit explains that mimics are conquerors and
-tells Ryn to sow seeds of destruction to prepare Earth for invasion. Ryn is
-happy to have a purpose and the conduit promises that Ryn will get the full
-decode interstellar message and explanations on how to apply the knowledge of
-his people. Ryn begins working on a means allow the new mimics to hijack the
-dextrae peoplePrinters (don't tell readers this now, save it for later). Fera
-takes Sata back to the capsule for recovery, because the baby can destroy
-sinistrae very quickly and Sata needs a constant supply of fresh intravenous
-sinistrae to function normally. When Sata returns she seems much better but
-soon she gets very sick. Fera tries to administer sinistrae medicine but it
-does not help. The octoculus tries to heal Sata but cannot. Zek, Zok, and Ryn
-say that they cannot cure Sata but they can help Sata scend before she dies.
-Having exhausted all other options, Sata and Kaia talk about death and
-scending. Sata says that maybe she should die naturally rather than becoming a
-scender. Kaia says that she cannot live without her and begs her to scend. Sata
-agrees and tells Kaia not to worry.
+Kaia and the baby gets bored of him quickly.
+
+Zek goes on a walk through Salvator Cemetery with Kaia, the baby, and Sata. He
+shows them a grave with the inscription. "Feci quod potui, faciant meliora
+potentes" "It means 'I have done what I could; let those who can, do better' in
+Ancient Latin." "Whose grave is this?" "From what I can gather, this is the
+grave of a brilliant futurologist. Someone who studied the future before it
+happened. An explorer of the realm of the possible. The inscription is both
+humble and hopeful. I think it goes well with 'Vita non Tollitur'. I like to
+come here and think sometimes, about life, about the future, about various
+possibilities."
+
+Ryn professes his love for Kaia and Sata. He says he can conceive a child for
+them that will be carry a mix of their DNA with his. Kaia and Sata accept Ryn
+as their surrogate mother and stop the sinistrae injections so Ryn can get
+pregnant. Fera is a bit jealous that Ryn has shifted his affection to Sata and
+Kaia, but hides it and says that if they do not want the sinistrae injections
+that she will stop bringing them, but she hopes that she can still visit. Sata
+and Kaia says that of course Fera can visit and that she can also bring Eiva
+and her baby when she visits. Life becomes very hard for Sata and Kaia without
+the sinistrae injections, as the baby grows stronger, their conditions become
+worse. When the baby is born, Sata starts having so many absentee seizures that
+she is immobilized. Kaia lives in two worlds simultaneously: on Earth with the
+baby and on Mars with the Dust Goddess, who is overjoyed with the birth of her
+offspring. Ryn gives birth to his child with Sata and Kaia, a girl who looks
+like all three of them. They name the girl Resa after Ryn's maternal
+grandmother. They live happily as they settle into the new normal with two
+babies to take care. The baby girl is an angel and does not need to be fed milk
+because she can photosynthesize. The boy constantly demands attention and can
+keep Kaia awake even when he is asleep because of the dreams he has. The baby
+girl grows up along side the baby boy until he kills her with his nascent
+powers. The baby boy got jealous of Kaia's motherly love being split between
+the two babies. Sata is distraught and her condition worsens. Kaia grieves by
+focusing on her baby son. Ryn is devastated after first losing his sister and
+now his child. He isolates himself and throws himself into his work. The mimic
+child begins to speak to him. Ryn thinks he is going insane but the warrior
+explains that it is a conduit for a newly-formed, nearby mimic civilization
+that self-constructed using instructions from a distant mimic civilization. The
+conduit explains that mimics are conquerors and tells Ryn to sow seeds of
+destruction to prepare Earth for invasion. Ryn is happy to have a purpose and
+the conduit promises that Ryn will get the full decode interstellar message and
+explanations on how to apply the knowledge of his people. Ryn begins working on
+a means allow the new mimics to hijack the dextrae peoplePrinters (don't tell
+readers this now, save it for later). Fera takes Sata back to the capsule for
+recovery, because the baby can destroy sinistrae very quickly and Sata needs a
+constant supply of fresh intravenous sinistrae to function normally. When Sata
+returns she seems much better but soon she gets very sick. Sata has the very
+first Gran Mal seizure that is shown in the book. Fera tries to administer
+sinistrae medicine but it does not help. The octoculus tries to heal Sata but
+cannot. Zek, Zok, and Ryn say that they cannot cure Sata but they can help Sata
+scend before she dies. Having exhausted all other options, Sata and Kaia talk
+about death and scending. Sata says that maybe she should die naturally rather
+than becoming a scender. Kaia says that she cannot live without her and begs
+her to scend. Sata agrees and tells Kaia not to worry. Kaia watches as Sata's
+beautiful, bushy, unkept hair falls to ground as her head is shaved and then
+inserted into a container up to the eyebrows. The container vacuum seals and
+fills with liquid. Circular saws emerge and cut around Sata's skull. An arm
+with a suction cup lifts up the top of Sata's head exposing her brain. Sata
+says that she doesn't feel any pain and that the liquid feels nice. Lights
+flash from all directions. Several appendages with needle-like protrusions
+emerge and enter Sata's brain. Sata appears to go into REM sleep. Zek (or
+someone else?) tells Kaia that everything is normal. Zek (or someone else?)
+tells Kaia that Sata has scended successfully. Kaia lets go of Sata's hand and
+covers her mouth to muffle her cries. After the process is done, a hole opens
+in the floor and the reclining chair tilts so that Sata's body fall into the
+hole. Kaia cries and tries to catch the body misses and tries to dive into the
+hole, but it closes before she can dive in. Zek (or someone else?) tries to
+explain that the body is useless and that they will print a new one right away.
+Kaia is upset and angry, but Zek (or someone else?) says that if they kept the
+body of everyone who scended, they would be buried in dead bodies.
 
 - 13 Welcome back
 
@@ -1860,7 +1919,23 @@ Locations:
 - The mimics have colonized planets in Andromeda, even though they originated from somewhere else. The mimics plan to invade Earth after the Andromeda-Milky Way collision.
 - "Debatable? That's not debatable." "Are you trying to debate the meaning of debatable?"
 
-= The watermarks on the fakes and the original were the same so even if the originals were to be found, the originals would appear to be the fakes because the fakes are being hosted by the school's system."
+- The watermarks on the fakes and the original were the same so even if the originals were to be found, the originals would appear to be the fakes because the fakes are being hosted by the school's system."
+
+"I'll never become a scender. No one should live forever."
+
+
+"The Dust cultists are trying to overwrite your mind with the memories of the
+Pulverulent Goddess. We want to preserve your brain the way it is. We want to
+study you to understand your gifts and use them for the good of humanity."
+
+Kaia: "Why?"
+
+"The Pulverulent Goddess promised Ursa that she could be a woman forever and
+even have a baby."
+
+Dust Goddess aka Dea Pulverulenta (Dust Queen is Regina Pulvis... "Vagina Pelvis?")
+
+He explains that the Dust Goddess promised her motherhood and she agreed to follow the Dust Goddess forever.
 
 Book 3:
 The third book starts with a surprise attack by the invading mimic forces. Earth, Mars, and the Thelusians are brought to their knees. The mimics begin to take control. Characters previously oppressed by the rulers of Earth and Mars are now forced to fight the mimics in addition to fighting to survive. New ethnicities have formed since the ending of the 2nd book. Ryn awakes and welcomes the invading forces, but they reject him because he is a weakling. The messages were only partially decoded by Earth's scientists and the invading mimics see Ryn as a flaw. Ryn decides to fight back against the mimic invasion. He hides the fact that he knew about the invasion from the other members of the resistance. The new mimics keep humans and old mimics alive to study how they have adapted to life on Earth. It turns out the old mimics adapted to be symbiotic humans while the new mimics are parasitic. New mimics can impregnate human men and women. Human men typically die after giving birth to a mimic baby, while human women typically survive the birth. Old mimics can only become pregnant themselves after interacting with humans. As the invading mimics adapt, it becomes difficult to say who is human, new mimic, and old mimic. Part of humanity escapes into space away from the mimic invaders. The new mimics rule over and oppress the humans and the old mimics. The humans and old mimics form an alliance against the new mimic oppressors. A new hero arises who gains the ability to fight back after she masters an ancient AI (the UNO AI is brought under control when the hero says tries to use a defective sudoku puzzle to destroy the AI, "command ku not found", "Guess the password," a voice whispered "Guess the password?!" Kaia exclaimed, "Password accepted. Welcome guest," the AI responded). She is able to understand the thoughts of new mimics, old mimics, and humans. She teaches humans about the mimic hivemind. She uses her powers to destroy the new mimic power structure, killing off most of the people. The AI informs her that she made a mistake and the setback to technological progress could be disastrous. If the infighting and the setbacks to technological progress continue then humanity and mimicity will be unprepared for when Earth will be consumed by the Sun. The hero tries to organize the survivors, humans, new mimics, and old mimics alike, to work together to prepare for the Sun's expansion. The hero decides that the only way to ensure stability is install herself as the new ruler of Earth and Mars. The AI agrees and helps the hero to take over. The hero starts crushing those who defied her and rules over Mars and Earth with a iron fist calling herself the All Queen. She begins to transmit signals similar to those coming from the distant mimic civilizations, intending to destroy nascent mimic civilizations, and create more of her own civilizations throughout the universe. She makes plans to move first Earth and then Mars to escape the Sun's expansion. The All Queen sends out colony ships in all directions planning to conquer nearby worlds when Andromeda collides with the Milky Way and rule over all of Milkomeda.

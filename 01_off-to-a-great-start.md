@@ -31,9 +31,11 @@ ceremony."
 
 "Acting crazy should be easy for you, because you've always been insane." Sata
 ruffled Kaia's hair, knowing full well that it made Kaia mad. Unlike Sata, Kaia
-meticulously straightened her hair and brushed it obsessively. Sata could see
-that the joke did not land well, so she tried to reassure her friend. "Maybe it
-won't be so bad. Maybe I won't have a seizure and you won't freak out."
+meticulously straightened her hair and brushed it obsessively. Kaia smoothed
+her hair and adjusted her hair clips with dead mouse designs that matched shirt.
+Sata could see that the joke did not land well, so she tried to reassure her
+friend. "Maybe it won't be so bad. Maybe I won't have a seizure and you won't
+freak out."
 
 Kaia tilted her head and struck a kawaii pose. Kaia's facial features were
 narrow, but her eyes and forehead were large. Kaia knew that her small face and
