@@ -69,9 +69,9 @@ members than the maker group."
 "That's not funny. The MIG lost it's Vice President and quite possibly it's
 Secretary earlier today."
 
-"Did something happen to Ryn?" Aira rushed up to Ben.
+"Did something happen to Ron?" Aira rushed up to Ben.
 
-"I am afraid that Ryn is still unaccounted for. The last time I saw him, he was
+"I am afraid that Ron is still unaccounted for. The last time I saw him, he was
 with Fera, the MIG Vice President."
 
 "Fera? The Fera who staged the protest today?" Kaia asked.
@@ -86,11 +86,11 @@ disappeared inside the city during the explosion," Ben answered.
 "I saw her in the city as we were taking off. She was on a motorcycle with the
 Principal," Kaia said dourly.
 
-"Yes, the Principal was with Fera and Ryn, the last time we saw them."
+"Yes, the Principal was with Fera and Ron, the last time we saw them."
 
 "We left her there and now she's dead," Kaia said flatly.
 
-"Was Ryn on the motorcycle with them?" Aira asked.
+"Was Ron on the motorcycle with them?" Aira asked.
 
 "I don't know. It only caught a glimpse of them," Kaia said.
 
@@ -276,7 +276,7 @@ already visible.
 "The airship must have crashed really close to the refugee camp," Kaia said.
 
 "Yes, that's right. The artificial lake into which the airship crashed is
-separated from the refugee camp only by the Visua River and Volski Forest. You
+separated from the refugee camp only by the Viswa River and Volski Forest. You
 could have walked there in a little less than an hour."
 
 "I'm glad we took a little detour," Kaia said, "but I'm happy that we're going

@@ -184,7 +184,7 @@ deliver commands.
 
 "State your full name."
 
-"Kaiakelaaila Erkadia."
+"Kaiakelaaila Arkadia."
 
 "State your age in years."
 
@@ -837,7 +837,7 @@ Fera did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
 
 "My name is Aira," said the girl.
 
-"I am Ryn," said the boy.
+"I am Ron," said the boy.
 
 "I'm Sata, this is Kaia, and next to her is Fera. Nice to meet you both. I'd
 shake your hands, but my hands are full," Sata said and opened her mouth to
@@ -860,7 +860,7 @@ rest?"
 
 "We get the idea," Fera said flatly, "We're not going to tell anyone anything."
 
-Aira seemed relieved. "Ok, Ryn and I built a secret bed so we could sleep in
+Aira seemed relieved. "Ok, Ron and I built a secret bed so we could sleep in
 the theater during breaks from work."
 
 During the awkward silence that ensued, Kaia saw Sata was tempted to make a
@@ -869,7 +869,7 @@ joke but held back. Unlike Sata, Fera could not resist.
 "You have a secret bed? That you built yourselves? So you could sleep together?
 Is that a normal thing for Lunkers?" Fera asked smiling mischievously.
 
-Ryn was so embarrassed, he started to stammer. Fera did not relent. "How long
+Ron was so embarrassed, he started to stammer. Fera did not relent. "How long
 have you been sleeping together? Is the sleep still good? Are you doing
 anything to spice it up? Trying out a new pillow, maybe?"
 
@@ -879,10 +879,10 @@ Aira tried to diffuse the situation. "We saw the recording of the ceremony
 today. We think you are all very brave. We went through the rite two years
 ago. It was horrible."
 
-Ryn approached Fera shyly. "I thought the gigaphone you built was great. I like
+Ron approached Fera shyly. "I thought the gigaphone you built was great. I like
 making things too,"
 
-Aira came up with a plan. "Ryn, you can tell Fera and Kaia about your tinkering
+Aira came up with a plan. "Ron, you can tell Fera and Kaia about your tinkering
 on the way to the secret bed, and I'll take Sata to the dressing room."
 
 Fera waited until Sata and Aira were out of earshot. "Have you built anything
@@ -891,7 +891,7 @@ her out so you can knock her up!"
 
 "Stop it!" Kaia yelled.
 
-Fera continued to mock Ryn brutally. "When you sleep together, does she snore
+Fera continued to mock Ron brutally. "When you sleep together, does she snore
 really loud? Do you have to cover her mouth to keep the whole school from
 hearing?"
 
@@ -906,13 +906,13 @@ Kaia began to cry, feeling powerless to stop Fera.
 sheets? I bet we can find it just by the smell!" Fera said, pinching her nose
 with a look of disgust on her face.
 
-Ryn helped Kaia to her feet and started walking with her in the direction of
+Ron helped Kaia to her feet and started walking with her in the direction of
 the secret bed.
 
 Fera continued after them, not letting up even a bit. "Have you ever been this
-close to a girl that wasn't your sister? Be careful, Ryn, your sister might get
+close to a girl that wasn't your sister? Be careful, Ron, your sister might get
 jealous! She's used to having you all to herself, she might not like sharing
-you with Kaia." Fera continued to taunt Ryn all the way to secret bed. Sata and
+you with Kaia." Fera continued to taunt Ron all the way to secret bed. Sata and
 Aira were already there waiting for them.
 
 "What took you so long? I was worried," Sata said. Kaia didn't respond, she
@@ -926,9 +926,9 @@ took Kaia's breath away.
 "What is it with you?" Kaia screamed lunging at Fera. Fera stepped away
 effortlessly. Kaia stumbled and fell, landing on her hands and knees.
 
-"Looks like I hit a nerve! I've been making fun of Ryn for ages without much of
+"Looks like I hit a nerve! I've been making fun of Ron for ages without much of
 a response. Then, I say one harmless thing about Sata and Kaia flips out. Sorry
-Ryn, looks like Kaia only cares about Sata, I guess you are stuck with your
+Ron, looks like Kaia only cares about Sata, I guess you are stuck with your
 sister for now."
 
 Kaia could not hear Fera anymore over the howling wind tearing through the
@@ -938,7 +938,7 @@ the dust swirling around Kaia, she saw the metallic glint of the taserTutor.
 The metallic tendrils extending from taserTutor were coiled around her arms up
 to the shoulder. The ceremony was still ongoing. The taserTutor began to pulse
 red. Kaia's heart sunk. Had she imagined everything? Fera, the Principal, Pyr,
-Ryn, Aira? Lightning shot out of the surrounding storm and coursed through
+Ron, Aira? Lightning shot out of the surrounding storm and coursed through
 Kaia's body. Kaia screamed and writhed on the ground, but then got up with a
 renewed sense of purpose.
 
