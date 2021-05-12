@@ -614,6 +614,19 @@ humble and hopeful. I think it goes well with 'Vita non Tollitur'. I like to
 come here and think sometimes, about life, about the future, about various
 possibilities."
 
+"Zek, did you ever consider that maybe we are the bad guys?" "No, why do you
+ask?" "Well, you wield poisonous snakes and poisoned daggers. We can blind
+people, make them really afraid, and disorient them. I can choke people without
+touching them. One time, I slapped Ben and his face corroded away. These don't
+really sound like powers that good guys would have." "Well, the Sinistrae make
+armor and weapons out the bones of their enemies and fallen comrades. Also,
+they are trying to take over the world." "Aren't the Pulvists also trying to
+take over the world?" "To be honest, I don't know. The instructions we get from
+the Goddess are infrequent and sometimes difficult to interpret or understand.
+I think most of the decisions are left up to us. If world domination were the
+goal, I think we would be doing things differently. From what I can tell, Fera
+is making all the right moves towards global domination."
+
 On another walk they go to the Viswa River and Zek says that Zakʂuvek is on the
 other side of the river. The Cemetery is in the middle of the refugee camp and
 Zakʂuvek.
@@ -723,13 +736,31 @@ reason Fera is able to live in the castle is because she has assumed control of
 the government as the world's top social media and most affluent corporate
 executive. Fera has Kaia pose for videos with her baby. Fera's fans love that
 she appears to have two wives, each with a baby, and no need for a husband.
-Fera uses her new found wealth to buy condos (and other types of housing) and
-provides interest free loans to her followers so they can rent the condos from
-her. This gains Fera even more followers. The World Heritage robots were
-recalled on Fera's orders. The people in the refugee camp, Driads, and Lunkers
-are allowed to settle in Krakovia for free as long as they swear fealty to
-Fera. Fera begins to amass an army in Krakovia and plans an invasion of Mars,
-hoping that Kaia's powers will allow her to secure victory.
+Fera asks Kaia to sit with her baby while Fera accepts ambassadors and
+dignitaries. Eiva sits on the other side of Fera. The Mungs refer to Fera as
+Omai, The Goddess of Fertility, Women, Mothers, and Children. The Dextrae are
+afraid of Kaia's powers. Fera grants sovereignty to the Driads, the Lunkers,
+the Mungs, the Subaks, and the Free Citizens of Space (formerly Space
+Prisoners), even though her advisors tell her that freeing the prisoners is a
+bad idea and giving them sovereignty is even worse because they are at the top
+of a large gravity well and might develop the capacity to attack Earth. Fera
+not only gives them sovereignty, but also seats in a new branch of government.
+In this new branch of government, Arba represents the Driads, Daka represents
+the Mungs, The Space Captain represents the Free Citizens of Space, Ben
+represents Scenders, Kaia represents Echos, the Subaks are represented by
+Akwafinanora, Iona represents Thelusians, Ron (who is followed everywhere by
+the mimic child) represents mimics, and Fera represents Sinistrae (no one
+represents Dextrae). Fera names herself the Bonebreaker Empress (Imperatix
+Ossifraga) and has her own fifth branch of government as well as veto power
+over the other four branches of government. She installs a puppet on the fourth
+branch of government, a Zeppelinomad, who is the last of his kind. Fera uses
+her new found wealth to buy condos (and other types of housing) and provides
+interest free loans to her followers so they can rent the condos from her. This
+gains Fera even more followers. The World Heritage robots were recalled on
+Fera's orders. The people in the refugee camp, Driads, and Lunkers are allowed
+to settle in Krakovia for free as long as they swear fealty to Fera. Fera
+begins to amass an army in Krakovia and plans an invasion of Mars, hoping that
+Kaia's powers will allow her to secure victory.
 
 ## Fera's deception.
 
