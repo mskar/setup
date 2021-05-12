@@ -835,9 +835,9 @@ Fera did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
 
 "What are your names?" Sata asked, trying to smooth things over.
 
-"My name is Aira," said the girl.
+"My name is Arla," said the girl.
 
-"I am Ern," said the boy.
+"I am Ren," said the boy.
 
 "I'm Sata, this is Kaia, and next to her is Fera. Nice to meet you both. I'd
 shake your hands, but my hands are full," Sata said and opened her mouth to
@@ -845,10 +845,10 @@ deliver the punchline.
 
 "Don't say it," Fera warned.
 
-"Do you want me to lend you a shirt from the theater?" Aira said to Sata. Sata
+"Do you want me to lend you a shirt from the theater?" Arla said to Sata. Sata
 nodded emphatically.
 
-Aira smiled at Sata warmly. "Come with me to dressing room so you can try a few
+Arla smiled at Sata warmly. "Come with me to dressing room so you can try a few
 things on."
 
 Sata looked at Kaia with concern. "Kaia is hurt, do you have a place she can
@@ -856,11 +856,11 @@ rest?"
 
 "Yeah, I would love to not have to lug this loser around anymore," Fera added.
 
-"Yes, there is, but you mustn't tell anyone anything," Aira said.
+"Yes, there is, but you mustn't tell anyone anything," Arla said.
 
 "We get the idea," Fera said flatly, "We're not going to tell anyone anything."
 
-Aira seemed relieved. "Ok, Ern and I built a secret bed so we could sleep in
+Arla seemed relieved. "Ok, Ren and I built a secret bed so we could sleep in
 the theater during breaks from work."
 
 During the awkward silence that ensued, Kaia saw Sata was tempted to make a
@@ -869,29 +869,29 @@ joke but held back. Unlike Sata, Fera could not resist.
 "You have a secret bed? That you built yourselves? So you could sleep together?
 Is that a normal thing for Lunkers?" Fera asked smiling mischievously.
 
-Ern was so embarrassed, he started to stammer. Fera did not relent. "How long
+Ren was so embarrassed, he started to stammer. Fera did not relent. "How long
 have you been sleeping together? Is the sleep still good? Are you doing
 anything to spice it up? Trying out a new pillow, maybe?"
 
 Kaia was furious. "They're trying to help us and you keep bullying them!"
 
-Aira tried to diffuse the situation. "We saw the recording of the ceremony
+Arla tried to diffuse the situation. "We saw the recording of the ceremony
 today. We think you are all very brave. We went through the rite two years
 ago. It was horrible."
 
-Ern approached Fera shyly. "I thought the gigaphone you built was great. I like
+Ren approached Fera shyly. "I thought the gigaphone you built was great. I like
 making things too,"
 
-Aira came up with a plan. "Ern, you can tell Fera and Kaia about your tinkering
+Arla came up with a plan. "Ren, you can tell Fera and Kaia about your tinkering
 on the way to the secret bed, and I'll take Sata to the dressing room."
 
-Fera waited until Sata and Aira were out of earshot. "Have you built anything
+Fera waited until Sata and Arla were out of earshot. "Have you built anything
 special recently? Maybe a device to help your sister sleep? Something to knock
 her out so you can knock her up!"
 
 "Stop it!" Kaia yelled.
 
-Fera continued to mock Ern brutally. "When you sleep together, does she snore
+Fera continued to mock Ren brutally. "When you sleep together, does she snore
 really loud? Do you have to cover her mouth to keep the whole school from
 hearing?"
 
@@ -906,14 +906,14 @@ Kaia began to cry, feeling powerless to stop Fera.
 sheets? I bet we can find it just by the smell!" Fera said, pinching her nose
 with a look of disgust on her face.
 
-Ern helped Kaia to her feet and started walking with her in the direction of
+Ren helped Kaia to her feet and started walking with her in the direction of
 the secret bed.
 
 Fera continued after them, not letting up even a bit. "Have you ever been this
-close to a girl that wasn't your sister? Be careful, Ern, your sister might get
+close to a girl that wasn't your sister? Be careful, Ren, your sister might get
 jealous! She's used to having you all to herself, she might not like sharing
-you with Kaia." Fera continued to taunt Ern all the way to secret bed. Sata and
-Aira were already there waiting for them.
+you with Kaia." Fera continued to taunt Ren all the way to secret bed. Sata and
+Arla were already there waiting for them.
 
 "What took you so long? I was worried," Sata said. Kaia didn't respond, she
 just looked angrily at Fera. Sensing the tension, Sata tried to change the
@@ -926,9 +926,9 @@ took Kaia's breath away.
 "What is it with you?" Kaia screamed lunging at Fera. Fera stepped away
 effortlessly. Kaia stumbled and fell, landing on her hands and knees.
 
-"Looks like I hit a nerve! I've been making fun of Ern for ages without much of
+"Looks like I hit a nerve! I've been making fun of Ren for ages without much of
 a response. Then, I say one harmless thing about Sata and Kaia flips out. Sorry
-Ern, looks like Kaia only cares about Sata, I guess you are stuck with your
+Ren, looks like Kaia only cares about Sata, I guess you are stuck with your
 sister for now."
 
 Kaia could not hear Fera anymore over the howling wind tearing through the
@@ -938,7 +938,7 @@ the dust swirling around Kaia, she saw the metallic glint of the taserTutor.
 The metallic tendrils extending from taserTutor were coiled around her arms up
 to the shoulder. The ceremony was still ongoing. The taserTutor began to pulse
 red. Kaia's heart sunk. Had she imagined everything? Fera, the Principal, Pyr,
-Ern, Aira? Lightning shot out of the surrounding storm and coursed through
+Ren, Arla? Lightning shot out of the surrounding storm and coursed through
 Kaia's body. Kaia screamed and writhed on the ground, but then got up with a
 renewed sense of purpose.
 
@@ -1013,7 +1013,7 @@ looking up at her, tears sprung anew from Sata's eyes and bathed Kaia's face.
 
 "Yes, no thanks to you," Sata replied sharply.
 
-"Let's get her into bed," Aira said.
+"Let's get her into bed," Arla said.
 
 Kaia was underwater in a sea of tears, looking up at Sata in the stars above.
 An eight-eyed octopus obscured the view of the sky and Kaia tried to shoo it
@@ -1040,16 +1040,16 @@ together. They were safe, at least for now. The world melted away. Sata did not
 realize how exhausted she was until now. With one arm still around Kaia, Sata
 tugged futilely at the bindings of her bodice.
 
-"Let me help you," Aira said as she deftly undid the bindings of the bodice
+"Let me help you," Arla said as she deftly undid the bindings of the bodice
 and pulled it out from under Sata. This kind gesture surprised Sata so much
-that she began to cry. Through the tears, Sata looked at Aira with gratitude.
+that she began to cry. Through the tears, Sata looked at Arla with gratitude.
 
-"Don't cry," Aira said, unfastening and removing Sata's heels and then pulling
+"Don't cry," Arla said, unfastening and removing Sata's heels and then pulling
 up the blankets to cover Kaia and Sata, "You're safe here and I'll stay and
 watch over you."
 
 Unable to recall anyone other than Kaia being kind to her, Sata let out a sob.
-Afraid she had said something wrong, Aira stepped backwards. "I'm going to turn
+Afraid she had said something wrong, Arla stepped backwards. "I'm going to turn
 off the lights."
 
 As the theater descended into darkness, Sata snuggled up to Kaia, greedily

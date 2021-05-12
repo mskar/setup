@@ -69,9 +69,9 @@ members than the maker group."
 "That's not funny. The MIG lost it's Vice President and quite possibly it's
 Secretary earlier today."
 
-"Did something happen to Ern?" Aira rushed up to Ben.
+"Did something happen to Ren?" Arla rushed up to Ben.
 
-"I am afraid that Ern is still unaccounted for. The last time I saw him, he was
+"I am afraid that Ren is still unaccounted for. The last time I saw him, he was
 with Fera, the MIG Vice President."
 
 "Fera? The Fera who staged the protest today?" Kaia asked.
@@ -86,11 +86,11 @@ disappeared inside the city during the explosion," Ben answered.
 "I saw her in the city as we were taking off. She was on a motorcycle with the
 Principal," Kaia said dourly.
 
-"Yes, the Principal was with Fera and Ern, the last time we saw them."
+"Yes, the Principal was with Fera and Ren, the last time we saw them."
 
 "We left her there and now she's dead," Kaia said flatly.
 
-"Was Ern on the motorcycle with them?" Aira asked.
+"Was Ren on the motorcycle with them?" Arla asked.
 
 "I don't know. It only caught a glimpse of them," Kaia said.
 
@@ -152,7 +152,7 @@ his eyes lit up. Kaia watched as they acted normal in a very conspicuous
 manner.
 
 After everyone (footnote: Edl, Iona, Kaia, Sata, Ursa, Zek, Zok, Lan, Taz,
-Aira) was strapped into their respective harnesses, the cables began pulling
+Arla) was strapped into their respective harnesses, the cables began pulling
 them upward. The broad, pale light illuminated them from above made it look
 they were being abducted by aliens in low-budget movie about UFOs. Zok swung
 closer to Zek and grabbed on to his harness. From the look on Zek's face, it
@@ -248,7 +248,7 @@ guttural grunt.
 
 All four girls were surprised when they felt their legs touching the ground.
 They looked around and saw the confused, shocked faces of everyone around them.
-All of them were frozen in place. Aira was holding on to Officer Kransal. Zek,
+All of them were frozen in place. Arla was holding on to Officer Kransal. Zek,
 still doubled over after being punched by Ursa, was kneeling in front of them.
 Zok and Lan were still holding on Edl. Ben walked in and started in inquire
 about the trip up from the ground, but stopped as his brain struggled to

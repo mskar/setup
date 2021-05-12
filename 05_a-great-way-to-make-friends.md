@@ -5,9 +5,9 @@ says no. Sata says that they could at least give him a black eye, but Kaia says
 that it wouldn't help them and that Pyr must be emotionally hurt because he
 believes that his father died in the explosion.
 
-Lan and Aira visit Kaia and Sata. They say that they are rehearsing for a dance
+Lan and Arla visit Kaia and Sata. They say that they are rehearsing for a dance
 performance and a theater play. In their spare time, Lan works in the kitchen
-and Aira spends time with Kransal.
+and Arla spends time with Kransal.
 
 Ben and Edl visit them to say that they will be able to watch the remembrance
 ceremony on the infirmary tent walls and that he set up the projector and sound
@@ -118,7 +118,7 @@ and camp was filled Driads and the city was patrolled by World Heritage robots.
 There's a rivalry between the maker interest group (MIG) and the theater
 interest group (TIG). The performance group makes fun of the makers for not having
 any members. Ben says that they had as many as four members, but now they are
-down to three and perhaps even two. Aira is upset to hear that Ern is still
+down to three and perhaps even two. Arla is upset to hear that Ren is still
 unaccounted for. Kaia is devastated to find out that Fera was on the ground and
 that her signal disappeared as she was trying to leave the city. She feels
 angry at Sata and doesn't . Sata looks
@@ -130,7 +130,7 @@ Ben explains that airship will not land but it can lift everyone up by a cable.
 Zek and Zok start horsing around and the cables get tangled and everyone is
 packed together in a mess. Ben flies up first and then helps everyone untangle.
 Sata and Kaia are happy to be near each other in the bundle. Sata makes jokes.
-Zek gets pressed up against Taz and Aira?
+Zek gets pressed up against Taz and Arla?
 
 
 Everyone sits together except Taz, who is on duty.
@@ -145,15 +145,15 @@ supplies for the camp.
 
 Kaia is ambushed by Pyr and his posse (who were secretly hired by Zek) in the
 cafeteria. Edl goes to help Ben instead of Kaia. Ursa and Iona are not around.
-Aira is with Kransal. Only Zek is around to save Kaia.
+Arla is with Kransal. Only Zek is around to save Kaia.
 
 Zek takes Kaia to the hospital. Zek and Sata decide to stay with Kaia all
 night.
 
 "Just when I thought I was finally fitting in."
 
-Fera, Ern, and Naksos arrive at the refugee camp. Pyr is reunited with his
-father. Ern is reunited with Aira and Lan. Fera tells Kaia and Sata that she
+Fera, Ren, and Naksos arrive at the refugee camp. Pyr is reunited with his
+father. Ren is reunited with Arla and Lan. Fera tells Kaia and Sata that she
 has changed and is deeply sorry for how she behaved earlier.
 
 Fera arm wrestles Iona, Ursa, and Edl, beating all of them.
@@ -161,5 +161,5 @@ Fera arm wrestles Iona, Ursa, and Edl, beating all of them.
 "Laughing in people's faces after you win is a great way to make friends."
 
 The chapter ends with a celebration in the refugee camp honoring the return of
-Fera, Ern, and Naksos.
+Fera, Ren, and Naksos.
 
