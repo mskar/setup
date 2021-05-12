@@ -130,18 +130,42 @@ The chapter ends with Fera beginning to tell them her story.
 
   - Eagles save Ron, Fera, and Mel
   - The Driads help them
-  - Nil and Oil guide them to them lake, where the whole tourist attraction is reserved just for them
-  - At the bottom of the lake, a door opens and Ron gets sick
-  - Fera nocks an arrow and goes in
-  - Fera finds the AI (Unoa) and meets Evia
+  - Arba asks Fera if she will grant sovereignty to the Driads after Fera overthrows the government
+  - Fera agrees to grant sovereignty to the Driads in exchange for their help in the revolution
+  - Fera and Ryn go into Koɕt͡ɕiuʂko Cavern and meet Nil and Oil
+  - Nil and Oil want to guide them to them to Vessel lake
+  - They go out through Tvardovski Cave near Zakʂuvek
+  - They walk by the crashed airship and head to Muʂa cave and then get on a train to Vielit͡ʂka
+  - The whole Vessel lake tourist attraction is reserved just for them
+  - When Fera and Ryn are in the middle of the lake, the water begins to disappear
+  - At the bottom of the lake, they see a door. When they approach, the door opens and Ron gets sick
+  - Fera nocks an arrow and goes in to look for clues to what made Ron sick
+  - Fera finds the AI (Unoa) and meets Eiva
     - Unoa spends her time
       - accumulating wealth under false identities
       - messing with DOS users and recording their reactions
       - writing smutty girls' love science fiction novels
-  - Fera and Evia fight and then go save Ron
+  - Fera and Eiva fight and then go save Ron
   - Fera motivates Ron to get in the boat
   - Fera tells Ron that he's never looked better
-  - Fera climbs up the rope with Evia as the AI refills the lake
+  - Fera and Eiva climb up the rope as the AI refills the lake
+  - Fera is approached by the Mayor of Lunkertown, who
+  - Fera agrees to grant sovereignty to the Lunkers in exchange for their help in the revolution
+    - asks Fera if she will grant sovereignty to the Lunkers after Fera overthrows the government
+    - says the AI told him where to find her (she asks him about this suspiciously)
+  - This time, when they pass by Zakʂuvek, they are approached by Nora, who
+    - is a Subak Princess
+    - asks if Fera will grant sovereignty to the Subaks after Fera overthrows the government
+    - Fera is attracted to, despite the fact Fera does not like fish people
+    - says the AI told her where to find her (she asks her about this suspiciously)
+  - Fera agrees to grant sovereignty to the Subaks in exchange for their help in the revolution
+  - Eiva asks if it is wise to agree to grant sovereignty to everyone
+  - Fera answers that she can always change her mind and brutally oppress everyone later
+  - Fera goes to the refugee camp in disguise, where she
+    - hears about what Pyr did and breaks his arms, but also
+    - tells Pyr that his father is alive and well living with Driads
+    - attends her own funeral and laughs really loudly when Ben idolizes her
+    - visits Kaia and Sata in the hospital
 
 - 07: Forgive and forget
   - Fera ends her story
@@ -1801,7 +1825,7 @@ Are all Sinistrae users left handed?
 
 No, we had more left handed people because we didn't suppress left-handedness.
 The Dextrae were always trying to force everyone that right-handedness was the
-only option and that preferring your left hand was a sign of deviancy. The
+only option and that preferring your left hand was a sign of dEivancy. The
 Ancient Latin word for left was 'sinister' which in Ancient English also meant
 malevolent or evil. The most common religious text of the ancient world said
 that on judgement day, God would separate the people to two sides. Those on the
