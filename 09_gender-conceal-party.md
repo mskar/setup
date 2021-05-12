@@ -11,5 +11,5 @@ gScender both exist on a spectrum. How many nanometers long is the correct wavel
 of light to represent something that cannot be quantitatively measured?", he
 asked rhetorically. Kaia's proximity to the baby causes Ursa to go into labor.
 The baby communicates with Kaia from the womb. After the baby is born, Kaia
-bonds with him and decides to stay. Ren comes to bring Kaia back, but he stays
+bonds with him and decides to stay. Ral comes to bring Kaia back, but he stays
 when he realizes that she will not leave the baby.

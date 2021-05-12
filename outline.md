@@ -42,18 +42,18 @@ consciousness and his wife's consciousness on future generations of Earthlings
 will divulge that she was a man who transcended and returned as woman to try to
 realize her dream of becoming a mother
 
-- Renzomirz (Mimic):
+- Ralzomirz (Mimic):
 
 will divulge that he is pregnant with Fera's child and that he needs regular
 contact with her or else he will miscarry
 
 - Lanselots (Mimic):
 
-Ren's best friend, actor, orphan
+Ral's best friend, actor, orphan
 
 - Arlanilaresa (Mimic):
 
-Ren's sister, then Taz's lover then wife, Arla is Ursa's trunderstudy (triple
+Ral's sister, then Taz's lover then wife, Arla is Ursa's trunderstudy (triple
 understudy), Kaia convinces Ursa to pretend she is sick, and kidnaps Ursa's
 dunderstudy and understudy so that can perform in front of Taz.
 
@@ -91,18 +91,18 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - [ ] 14: Take your time
 
 - 01: Off to a great start:
-  - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Arla and Ren
+  - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Arla and Ral
   - End: Kaia and Sata go to sleep together in the secret bed
 - 02: A productive first day:
   - Fera blows up the school
-  - End: Fera, Ren, and Mel appear to die
-  - In the final moments, Fera reflects on Ben, Edl, Ren, Arla, Sata, and Kaia, starting to cry when she thought about how they might have been friends if things were different. She thinks about feeling powerless to stop her abusive father and substance dependent mother. As she is knocked off the motorcycle from behind she imagines she is a bird flying off into the horizon.
+  - End: Fera, Ral, and Mel appear to die
+  - In the final moments, Fera reflects on Ben, Edl, Ral, Arla, Sata, and Kaia, starting to cry when she thought about how they might have been friends if things were different. She thinks about feeling powerless to stop her abusive father and substance dependent mother. As she is knocked off the motorcycle from behind she imagines she is a bird flying off into the horizon.
 - 03: A beautiful view:
   - Kaia, Sata, and Arla
     - leave the school
     - meet Lan and Taz
     - evacuate in an airship with Iona, Ursa, Zek, and Zok
-    - parachute into Zakʂuvek lake
+    - parachute into Zakrzówek lake
     - Kaia and Ursa bath and bond
     - the airship crashes
 End: Kaia and Sata watch the airship wreckage together while holding hands.
@@ -128,32 +128,32 @@ The chapter ends with Fera beginning to tell them her story.
 
 - 06: Never looked better:
 
-  - Eagles save Ren, Fera, and Mel
+  - Eagles save Ral, Fera, and Mel
   - The Driads help them
   - Arba asks Fera if she will grant sovereignty to the Driads after Fera overthrows the government
   - Fera agrees to grant sovereignty to the Driads in exchange for their help in the revolution
-  - Fera and Ren go into Kosciuszko Cavern and meet Nil and Oil
+  - Fera and Ral go into Kosciuszko Cavern and meet Nil and Oil
   - Nil and Oil want to guide them to them to Wessel lake
-  - They go out through Tvardovski Cave near Zakʂuvek
+  - They go out through Tvardovski Cave near Zakrzówek
   - They walk by the crashed airship and head to Muʂa cave and then get on a train to Wieliczka
   - The whole Wessel lake tourist attraction is reserved just for them
-  - When Fera and Ren are in the middle of the lake, the water begins to disappear
-  - At the bottom of the lake, they see a door. When they approach, the door opens and Ren gets sick
-  - Fera nocks an arrow and goes in to look for clues to what made Ren sick
+  - When Fera and Ral are in the middle of the lake, the water begins to disappear
+  - At the bottom of the lake, they see a door. When they approach, the door opens and Ral gets sick
+  - Fera nocks an arrow and goes in to look for clues to what made Ral sick
   - Fera finds the AI (Unoa) and meets Eiva
     - Unoa spends her time
       - accumulating wealth under false identities
       - messing with DOS users and recording their reactions
       - writing smutty girls' love science fiction novels
-  - Fera and Eiva fight and then go save Ren
-  - Fera motivates Ren to get in the boat
-  - Fera tells Ren that he's never looked better
+  - Fera and Eiva fight and then go save Ral
+  - Fera motivates Ral to get in the boat
+  - Fera tells Ral that he's never looked better
   - Fera and Eiva climb up the rope as the AI refills the lake
   - Fera is approached by the Mayor of Lunkertown, who
   - Fera agrees to grant sovereignty to the Lunkers in exchange for their help in the revolution
     - asks Fera if she will grant sovereignty to the Lunkers after Fera overthrows the government
     - says the AI told him where to find her (she asks him about this suspiciously)
-  - This time, when they pass by Zakʂuvek, they are approached by Nora, who
+  - This time, when they pass by Zakrzówek, they are approached by Nora, who
     - is a Subak Princess
     - asks if Fera will grant sovereignty to the Subaks after Fera overthrows the government
     - Fera is attracted to, despite the fact Fera does not like fish people
@@ -169,7 +169,7 @@ The chapter ends with Fera beginning to tell them her story.
 
 - 07: Forgive and forget
   - Fera ends her story
-  - Ren had to by train tickets for Fera and Eiva because tech does not work for them anymore
+  - Ral had to by train tickets for Fera and Eiva because tech does not work for them anymore
   - The Lunker train took them straight to the refugee camp
   - That night, Zek trains Kaia in her dreams
   - In her dreams, Kaia's snakes become extensions of her arms
@@ -182,9 +182,9 @@ The chapter ends with Fera beginning to tell them her story.
   - The casts are covered with drawings of penises because Pyr's friends are jerks
   - "Should I draw a penis next to my name like everyone else?"
   - "Oh, you don't have to draw anything. That's just my friends being jerks."
-  - Arla, Lan, and Ren come to talk to Kaia and Sata
-  - Ren says that Kaia and Sata know that he is mimic, because Fera told them
-  - Arla, Lan, and Ren implore Kaia and Sata not to tell anyone
+  - Arla, Lan, and Ral come to talk to Kaia and Sata
+  - Ral says that Kaia and Sata know that he is mimic, because Fera told them
+  - Arla, Lan, and Ral implore Kaia and Sata not to tell anyone
   - Arla and Lan invite them to the dance performance
   - Kaia and Sata go to see the dance performance
   - The performance is sponsored by Reli Corp and there are ads for Detox Sticks everywhere
@@ -212,7 +212,7 @@ The chapter ends with Fera beginning to tell them her story.
   - To prevent any questions, they tell everyone that all three were kissing each other
   - Arla was not invited to the make out session, because she is with Taz
   - Kaia and Sata go to see the play
-  - The play recounts the story of Dust Goddess (played by Arla):
+  - The play recounts the story of Vira, the Dust Goddess (played by Arla):
     - she is betrayed by her husband (Zek), who takes control of Thelus and starts the war
     - her younger son (Lan) joins the Martian side, but her older son (Zok) joins the Thelusian side
     - the Martians lose the war when the mad husband (Zek) crashes Thelus into Mars
@@ -252,7 +252,7 @@ The chapter ends with Fera beginning to tell them her story.
   - Edl wins the first match easily, but narrowly loses the second, and cannot put up much of a fight in the third
   - Fera announces that her strength is thanks to the Detox Sticks and says that she has plenty of free samples.
   - When someone suggests that the arm wrestling match was a fake, Fera says that she will take on anyone
-  - All the protagonists decide not to try the Detox Sticks after Ren says the effect Sinistrae had on him
+  - All the protagonists decide not to try the Detox Sticks after Ral says the effect Sinistrae had on him
   - Arla tells Kaia and Sata that
     - She is pregnant
     - Taz was using Detox Sticks, because
@@ -266,15 +266,15 @@ The chapter ends with Fera beginning to tell them her story.
   - The Sinistrae make
     - Kaia, Sata, and Zek stronger, though Kaia and Zek lose their powers
     - Ursa, Iona, and Zok weaker (Ursa cries, Zok breaks both his hands by punching, and Iona starts to glitch)
-    - Arla, Ren, and Lan turn black and grow roots and membranes
-  - Ben takes Arla, Ren, and Lan to his family's airship
+    - Arla, Ral, and Lan turn black and grow roots and membranes
+  - Ben takes Arla, Ral, and Lan to his family's airship
     - because they do not want to risk going to the infirmary
     - to keep them out of sight until they get better
   - Arla asks about her baby, Ben says that the baby is fine
   - Kaia and Sata ask Lan if the scars covering his body are from the Sinistrae
   - Lan tells them about his story
   - Lan says that he is afraid that the government will abduct them like they abducted his two dads
-  - Arla and Ren say that the flyovers reminded them of the gas attack that killed their parents
+  - Arla and Ral say that the flyovers reminded them of the gas attack that killed their parents
   - Taz visits Arla and tells her not to worry
   - Zok visits Lan and says that he loves him
   - Lan tells Zok that he loves him too and cries because Zok never used the L word before
@@ -284,7 +284,7 @@ The chapter ends with Fera beginning to tell them her story.
     - the Tox Stick should prevent them from changing in the case of another government flyover
   - When they all get better,
     - Zok and Lan go for a walk together
-    - Ben, Edl, and Ren go to the maker workshop
+    - Ben, Edl, and Ral go to the maker workshop
     - Arla goes back to Taz
   - Arla and Taz fall asleep together. Arla is kidnapped in her sleep.
     - Taz interrogates her, but she doesn't admit that she is a mimic.
@@ -294,7 +294,7 @@ The chapter ends with Fera beginning to tell them her story.
       - her feet sprout roots.
   - Lan is abducted from the kitchen, Zok dies protecting him
   - The government surrounds the maker workshop
-  - Edl gets Ren out safely after Ben
+  - Edl gets Ral out safely after Ben
     - deactivates the government soldiers' weapon
     - distracts the government soldiers with animalAutomatons
   - The protagonists plan to rescue Arla and Lan
@@ -312,13 +312,13 @@ The chapter ends with Fera beginning to tell them her story.
 
 - 09: A touching reunion
 
-Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Ren live in the
+Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Ral live in the
 Lunker city while planning to rescue Arla and Lan. They see Fera is preparing
 an army to fight against the government and believe her when she says that she
 had nothing to do with Arla and Lan's kidnapping. They agree to let Fera and
 Eiva join them on the rescue mission. Fera recruits Nora, a Subak princess, to
 help them gain access to the castle via the Vistula river, the protagonists use
-scuba diving equipment to infiltrate Krakow via the Vistula river to avoid the
+scuba diving equipment to infiltrate Kraków via the Vistula river to avoid the
 World Heritage robots. The Subaks escort them in the water but refuse to
 continue on to dry land. The protagonists pass the Wawel Dragon and enter the
 castle through its cave. Inside the government facility, they move stealthily.
@@ -332,17 +332,17 @@ power would have changed the outcome of the Dextrae-Sinistrae war. As they
 search for Lan and Arla, they are attacked by GES. Kaia blinds the GES but they
 find their opponents with echolocation and use screams to incapacitate anyone
 within range. When they scream, they cannot use echolocation, because they have
-to close their sensitive ears. Kaia, Sata, and Ren find a child covered in
+to close their sensitive ears. Kaia, Sata, and Ral find a child covered in
 blood who looks exactly like Lan. They find Lan's body and see that Lan
 recently gave birth to the child who is a mimic warrior. Zok breaks down crying
 when he sees Lan. Lan had been starved for a long time, his skin was black, his
 membranes was extended to catch the light, and his feet had sprouted roots. Lan
 had been partially eaten by the mimic child. The blood covering the child was
-Lan's. Ren says that it should be impossible for Lan to produce a mimic warrior
+Lan's. Ral says that it should be impossible for Lan to produce a mimic warrior
 in such a short time and that the child is because of government experiments.
 The child looks exactly like a childlike mix of Lan and Zok. They take the
-child with them, but Ren tells them not to become attached to the child because
-it only lives to kill (despite this Ren has trouble following his own advice
+child with them, but Ral tells them not to become attached to the child because
+it only lives to kill (despite this Ral has trouble following his own advice
 and eventually becomes very attached to the child). Mimic warriors are
 genderless and cannot reproduce. The child would never learn to speak or
 develop intelligence and therefore they should not give it a name (Does the
@@ -357,16 +357,16 @@ later).
 After Kaia sees that Arla and Lan are dead, she has a vision but the octoculus
 saves her again and guides her to a hiding scientist. The scientist takes Kaia
 to see the octoculus and explains that it originated from the cosmic message
-that also brought the mimics to Earth. Ren holds the scientist captive and
+that also brought the mimics to Earth. Ral holds the scientist captive and
 demands to know the reason why mimics were brought to Earth and the purpose of
-mimickind. Ren threatens the scientist with a scalpel and then when the
-scientist is not intimidated, Ren brings in the mimic warrior. Ren backs down
-when the scientist mentions the octoculus. Ren says that he heard about the
+mimickind. Ral threatens the scientist with a scalpel and then when the
+scientist is not intimidated, Ral brings in the mimic warrior. Ral backs down
+when the scientist mentions the octoculus. Ral says that he heard about the
 octoculus in the fragments of the message that his people had. The scientist
 said that they were not able to decode enough of the message to understand much
 about the octoculus. Kaia lets the octoculus connect with her and receives
 cosmic visions. The octoculus latches onto Kaia's shoulder and wraps its
-tentacles around her body. When Kaia and Ren regroup with the other
+tentacles around her body. When Kaia and Ral regroup with the other
 protagonists, Kaia tells them not to ask questions about the octoculus on her
 shoulder.
 
@@ -386,7 +386,7 @@ wield energy effectively. The blows they land are absorbed by the bone armor
 that Eiva and Fera wear. Zek tries to land a blow with his knives and snakes,
 but Eiva and Fera are stronger and faster. While everyone is distracted, Ben
 uses one of his stunStaffs on Kaia and studies her response. Edl holds Sata and
-Ren back, because Ben told him to do so. Sata cries as Kaia is shocked
+Ral back, because Ben told him to do so. Sata cries as Kaia is shocked
 repeatedly. The stunStaff explodes, blowing off Ben's hand. Kaia, as the
 Pulverulent Goddess, destroys all of the giant robots and the protagonists are
 buried inside the cave when the entrance collapses from the explosions caused
@@ -514,8 +514,8 @@ They leave Ben because he has no value as a hostage. Edl comes out of hiding,
 picks up Ben, and informs Kaia that he is no longer her friend after what she
 did to Ben. They leave the location where they were being held and see that it
 was All Saints Chapel in Salwator Cemetery in Wolski Forest. They read the
-inscription "Vita non Tollitur". Ren and Fera guide them underground and the
-protagonists (Sata, Kaia, Eiva, Fera, Zek, Zok, Ursa, Iona, and Ren) head to
+inscription "Vita non Tollitur". Ral and Fera guide them underground and the
+protagonists (Sata, Kaia, Eiva, Fera, Zek, Zok, Ursa, Iona, and Ral) head to
 Wessel lake in Wieliczka to hide from the Scenders.
 
 - 11: Home sweet home
@@ -523,7 +523,7 @@ Wessel lake in Wieliczka to hide from the Scenders.
 Fera and Eiva take Sata into the capsule and infuse her with self-replicating
 Sinistrae to help her heal. Kaia is haunted by visions of the Pulverulent
 Goddess, but the visions subside when Kaia enters the capsule. No one else can
-enter the capsule because they are all Dextrae based. Ren stays away because he
+enter the capsule because they are all Dextrae based. Ral stays away because he
 remembers what happened last time. Ursa both start to have terrible abdominal
 cramps and begin to cry uncontrollably. Iona starts to glitch. Zok begins to
 wield energy wildly and blows off both of his hands. The mimic warrior goes
@@ -535,9 +535,9 @@ mostly concerned with Sata. Fera is unsure of why Kaia, an Echo like Zek, does
 not appear to have any negative reactions to Sinistrae. Kaia stays in the
 capsule with Sata. Sata is unconscious and Kaia has the first dreamless sleep in
 her life. The others are left in the dark at the bottom of Lake Wessel. After
-they recover, they (Zek, Ursa, Ren, and Iona) rush to get Zok to a Lunker
+they recover, they (Zek, Ursa, Ral, and Iona) rush to get Zok to a Lunker
 hospital before he bleeds out from his exploded hand stumps. They (Zek, Zok,
-Ursa, Ren, and Iona) are captured by Scenders who followed them into the
+Ursa, Ral, and Iona) are captured by Scenders who followed them into the
 tunnels. The Scenders detonate explosives to collapse the tunnels in Wieliczka,
 burying Kaia, Sata, Fera, and Eiva alive.
 
@@ -549,7 +549,7 @@ pregnant. They fill the capsule with rubble as they dig their way out. The AI
 still has a connection to the internet and hires miners to dig through to the
 capsule. Eiva gives birth and Kaia is near death from starvation when the
 miners break through. Fera and Eiva start to organize an army to defeat the
-Scenders. Kaia and Sata get ready to rescue Zek, Zok, Ursa, Ren, and Iona from
+Scenders. Kaia and Sata get ready to rescue Zek, Zok, Ursa, Ral, and Iona from
 the Scenders. Mel joins them with Driad warriors who have found that Sinistrae
 fit perfectly into their culture and lifestyle. The Driad switch from wooden to
 bone knives and use bone arrowheads and bone tips for their spears. Pyr joins
@@ -558,9 +558,9 @@ because he wants to be a Driad warrior like his father. Taz joins Fera's army
 with some army buddies who are also addicted to Sinistrae. Kaia is angry at
 Taz, but Fera accepts him with open arms. Representatives of various oppressed
 people start to visit Fera, e.g. Daka and Dzaa from the Mungs. They hatch a
-plan to rescue Zek, Zok, Ursa, Iona, and Ren. When Kaia arrives at All Saints
+plan to rescue Zek, Zok, Ursa, Iona, and Ral. When Kaia arrives at All Saints
 Chapel to save her friends, she is surprised that there is no resistance. When
-she finds her friends, sees that Zek, Zok, Ursa, Iona, and Ren have made a deal
+she finds her friends, sees that Zek, Zok, Ursa, Iona, and Ral have made a deal
 with the Scenders (to create a child with Kaia's powers. Zek and Zok agree
 because they see an opportunity to realize their dream of bringing back their
 ancient offspring and reclaiming Mars) and are living comfortable. They say
@@ -568,7 +568,7 @@ that the Scenders mean her no harm and that Ursa is pregnant and that Scenders
 are taking care of them and that they do not want to leave. Kaia bonds with the
 child while it is still in the womb. She forgets about Fera and Sata (Eiva
 stayed behind with the baby). Sata decides to stay with Kaia. Fera is furious
-with all of them but she calls her army back. Ren stays. Even though Ren still
+with all of them but she calls her army back. Ral stays. Even though Ral still
 is in love with Fera, he knows she does not love him back and that he cannot go
 inside the capsule.
 
@@ -654,14 +654,14 @@ I think most of the decisions are left up to us. If world domination were the
 goal, I think we would be doing things differently. From what I can tell, Fera
 is making all the right moves towards global domination."
 
-On another walk they go to the Vistula River and Zek says that Zakʂuvek is on the
+On another walk they go to the Vistula River and Zek says that Zakrzówek is on the
 other side of the river. The Cemetery is in the middle of the refugee camp and
-Zakʂuvek.
+Zakrzówek.
 
-Ren professes his love for Kaia and Sata. He says he can conceive a child for
-them that will be carry a mix of their DNA with his. Kaia and Sata accept Ren
-as their surrogate mother and stop the Sinistrae injections so Ren can get
-pregnant. Fera is a bit jealous that Ren has shifted his affection to Sata and
+Ral professes his love for Kaia and Sata. He says he can conceive a child for
+them that will be carry a mix of their DNA with his. Kaia and Sata accept Ral
+as their surrogate mother and stop the Sinistrae injections so Ral can get
+pregnant. Fera is a bit jealous that Ral has shifted his affection to Sata and
 Kaia, but hides it and says that if they do not want the Sinistrae injections
 that she will stop bringing them, but she hopes that she can still visit. Sata
 and Kaia says that of course Fera can visit and that she can also bring Eiva
@@ -670,7 +670,7 @@ the Sinistrae injections, as the baby grows stronger, their conditions become
 worse. When the baby is born, Sata starts having so many absentee seizures that
 she is immobilized. Kaia lives in two worlds simultaneously: on Earth with the
 baby and on Mars with the Dust Goddess, who is overjoyed with the birth of her
-offspring. Ren gives birth to his child with Sata and Kaia, a girl who looks
+offspring. Ral gives birth to his child with Sata and Kaia, a girl who looks
 like all three of them. Kaia asks, "Would our child be normal or will..." Her
 voice trailed off and an uncomfortable silence hung in the air. "I cannot say
 for certain, but there is almost no chance of any specific malady being pasted
@@ -678,7 +678,7 @@ down. The child would have a even mix of all our DNA, but we cannot possibly
 know a priori which regions are chosen, the arrangement of those regions, and
 which regions will be silenced versus expressed. The only thing I can say for
 certain is the child would be absolutely unique, like all children are." Sata
-and Kaia seem reassured by this and agree. They name the girl Resa after Ren's
+and Kaia seem reassured by this and agree. They name the girl Resa after Ral's
 maternal grandmother. They live happily as they settle into the new normal with
 two babies to take care. The baby girl is an angel and does not need to be fed
 milk because she can photosynthesize. The boy constantly demands attention and
@@ -686,15 +686,15 @@ can keep Kaia awake even when he is asleep because of the dreams he has. The
 baby girl grows up along side the baby boy until he kills her with his nascent
 powers. The baby boy got jealous of Kaia's motherly love being split between
 the two babies. Sata is distraught and her condition worsens. Kaia grieves by
-focusing on her baby son. Ren is devastated after first losing his sister and
+focusing on her baby son. Ral is devastated after first losing his sister and
 now his child. He isolates himself and throws himself into his work. The mimic
-child begins to speak to him. Ren thinks he is going insane but the warrior
+child begins to speak to him. Ral thinks he is going insane but the warrior
 explains that it is a conduit for a newly-formed, nearby mimic civilization
 that self-constructed using instructions from a distant mimic civilization. The
-conduit explains that mimics are conquerors and tells Ren to sow seeds of
-destruction to prepare Earth for invasion. Ren is happy to have a purpose and
-the conduit promises that Ren will get the full decode interstellar message and
-explanations on how to apply the knowledge of his people. Ren begins working on
+conduit explains that mimics are conquerors and tells Ral to sow seeds of
+destruction to prepare Earth for invasion. Ral is happy to have a purpose and
+the conduit promises that Ral will get the full decode interstellar message and
+explanations on how to apply the knowledge of his people. Ral begins working on
 a means allow the new mimics to hijack the Dextrae peoplePrinters (don't tell
 readers this now, save it for later). Fera takes Sata back to the capsule for
 recovery, because the baby can destroy Sinistrae very quickly and Sata needs a
@@ -702,7 +702,7 @@ constant supply of fresh intravenous Sinistrae to function normally. When Sata
 returns she seems much better but soon she gets very sick. Sata has the very
 first Gran Mal seizure that is shown in the book. Fera tries to administer
 Sinistrae medicine but it does not help. The octoculus tries to heal Sata but
-cannot. Zek, Zok, and Ren say that they cannot cure Sata but they can help Sata
+cannot. Zek, Zok, and Ral say that they cannot cure Sata but they can help Sata
 scend before she dies. Having exhausted all other options, Sata and Kaia talk
 about death and scending. Sata says that maybe she should die naturally rather
 than become a Scender. Kaia says that she cannot live without her and begs
@@ -735,7 +735,7 @@ Zek. I got a foot with your name on it." Zek rushes to keep Sata from bleeding
 out, using his snakes and his bare hands as tourniquets. Iona cradles Noia as
 she whispers her final words into Iona's ear. Zek takes Sata to the Medical
 Facility and starts an blood transfusion. They move Sata into the surgery
-theater for questioning. Kaia watches from above with Iona, Ren, and the
+theater for questioning. Kaia watches from above with Iona, Ral, and the
 Sinistrae. Before they can get any answers, armed people burst in and shoot Zek
 and Sata. Kaia recognizes them as Sata, Ursa, Noia, and Zok. The Scenders look
 up at Kaia and start moving up to where she is standing. Everyone begins to
@@ -746,18 +746,18 @@ saves them now, Fera will help Kaia find Sata, the real Sata. The door explodes
 and the Sinistrae start to throw bone knives into the opening. Kaia channels
 the Dust Goddess and the weapons explode killing the attackers. They rush to
 the peoplePrinters and see that they are printing new copies of Sata, Ursa,
-Noia, and Zok. Fera deactivates the peoplePrinters and Ren starts trying to
+Noia, and Zok. Fera deactivates the peoplePrinters and Ral starts trying to
 figure out what happened. Fera says that Kaia is not safe here and that she
 needs to move to Wieliczka. Iona agrees reluctantly, because her priority is to
-protect Kaia. They leave Ren to work on the computers at Echo Corp, because he
+protect Kaia. They leave Ral to work on the computers at Echo Corp, because he
 is expendable. The Sinistrae warriors (Fera, Mel, Taz, and Pyr) help Iona pack
 everything up and they move towards Kosciuszko Mound and the entrance to the
-Lunker city. Kaia, Iona, Ren, and the mimic child live in a cottage near
+Lunker city. Kaia, Iona, Ral, and the mimic child live in a cottage near
 Wieliczka. Fera takes control of the All Saints Chapel after Kaia decides not
 to stay there after Zek, Ursa, Noia, and Zok are killed. Fera, Eiva, and their
 daughter come to visit. Fera commanded the construction of a palace made of
 bone (supposedly made of the bones of her vanquished foes) as an extension of
-Wawel castle and a train that connects Wawel Castle to Wieliczka. Kaia, Ren,
+Wawel castle and a train that connects Wawel Castle to Wieliczka. Kaia, Ral,
 Iona, the mimic child, and the baby acclimatize to life in Wawel Castle. The
 reason Fera is able to live in the castle is because she has assumed control of
 the government as the world's top social media and most affluent corporate
@@ -780,7 +780,7 @@ sovereignty, but also seats in a new branch of government. In this new branch
 of government, Arba represents the Driads, Daka represents the Mungs, The Space
 Captain represents the Free Citizens of Space, Ben represents Scenders, Kaia
 represents Echos, the Subaks are represented by Norafinaakwa, Iona represents
-Thelusians, Ren (who is followed everywhere by the mimic child) represents
+Thelusians, Ral (who is followed everywhere by the mimic child) represents
 mimics, and Fera represents Sinistrae (no one represents Dextrae, but Fera has
 Dextrae army generals report to her and advise her. She fears that they are
 planning a coup and might start another Dextrae-Sinistrae War). Fera names
@@ -795,9 +795,9 @@ Fera), Iona, Arba, and perhaps others. Fera uses her new found wealth to buy
 condos (and other types of housing) and provides interest free loans to her
 followers so they can rent the condos from her. This gains Fera even more
 followers. The World Heritage robots were recalled on Fera's orders. The people
-in the refugee camp, Driads, and Lunkers are allowed to settle in Krakow for
+in the refugee camp, Driads, and Lunkers are allowed to settle in Kraków for
 free as long as they swear fealty to Fera. Fera begins to amass an army in
-Krakow and plans an invasion of Mars, hoping that Kaia's powers will allow
+Kraków and plans an invasion of Mars, hoping that Kaia's powers will allow
 her to secure victory. What if she never sees Sata again? Kaia filled with
 doubts about being to rescue Sata: rescue her from where? What if the visions
 consume her?
@@ -817,7 +817,7 @@ Fera makes good on her promise to reclaim Mars.
 Kaia has a vision of Sata and is able to communicate with her thanks to her
 son. Sata's final memories were of their daughter dying and going back to
 Wieliczka. She does not remember being sick and dying. Kaia resolves to bring
-back Sata no matter the cost. Ren promises to help Kaia, because he is in love
+back Sata no matter the cost. Ral promises to help Kaia, because he is in love
 with both Sata and Kaia, and no longer loves Fera. Iona promises to help Kaia
 bring back Sata if they also bring back Zek, Zok, Iona, and Ursa. Kaia agrees.
 The Dust Goddess appears to Kaia and says that she will help Kaia bring back
@@ -848,8 +848,8 @@ Secretly, the Dust Goddess aka Dea Pulverulenta helping Fera because the new
 Scenders are her disciples.). She is keeping the original versions of their
 consciousnesses hidden, so she can use them as leverage on Kaia in the future
 if necessary. Whenever Kaia channels the Pulverulent Goddess, their connection
-becomes stronger and her visions become more intense. Ren calls mimic sharks
-and Kaia watches the sharks eat the Scenders. "There were sharks in Zakʂuvek? I
+becomes stronger and her visions become more intense. Ral calls mimic sharks
+and Kaia watches the sharks eat the Scenders. "There were sharks in Zakrzówek? I
 went swimming there!" "The sharks are new. I had them brought in as a defensive
 measure. I thought that if we were in trouble again we could jump in the water
 and the sharks would protect us." The prospect of repeatedly fighting the
@@ -883,7 +883,7 @@ She has her own scientists and engineers (with the help of Ben, who is still in
 love with Fera) develop Sinistrae energy weapons and spaceships. With the
 prospect finally conquering Mars, the Dextrae do not want risk civil war on
 Earth. Fera knows that fear of Kaia's powers and the promise of taking control
-of Mars are essential to preventing another Dextrae-Sinistrae War. Ren follows
+of Mars are essential to preventing another Dextrae-Sinistrae War. Ral follows
 through with his plan of allowing the new mimics infiltrating Earth through the
 peoplePrinters. When Fera goes to reclaim Mars, she does it with a coalition of
 Sinistrae and Dextrae forces. She has the blessing of the Earth government and
@@ -923,7 +923,7 @@ in order to save her people. After they are married, the Thelusians allow the
 Sinistrae to recover and focus their full power on attacking Earth. The
 Thelusians kill humans, old mimics, and new mimics indiscriminately in their
 attempt to conquer the planet. The new mimics were not expecting to fight the
-Thelusians and say that Ren should have warned them about the possibility.
+Thelusians and say that Ral should have warned them about the possibility.
 Eiva's daughter thinks Kaia's son broke his promise, but he says that he
 promised to fight the new mimics, not protect everyone else. He adds that it is
 impossible to tell who is who, so killing everyone is the only viable solution.
@@ -979,7 +979,7 @@ but I believe it will not be necessary." When Fera visits, Fera takes interest
 in Historia Martis, she starts reading and cannot put the book down, looking
 for clues to defeat the Pulverulent Goddess. "You can go now Mommy, I will keep
 her here. Mars Mommy is helping me." With Fera distracted Kaia leaves her son
-with Fera, Iona, and Ren. She enters the capsule and finds the AI. The
+with Fera, Iona, and Ral. She enters the capsule and finds the AI. The
 Pulverulent Goddess tells her to give the sudoku book to the AI. I brought you
 a puzzle book. What kind of puzzles? Sudoku. Please provided username and
 password. The Pulverulent Goddess whispered in Kaia's ear. Guess the password?
@@ -1023,9 +1023,9 @@ What happens after Kaia's escape (above) but before the invasion of Mars?
 The Pulverulent Goddess stays quiet in the Scenderverse and waits for the invasion of
 Mars.
 
-How does this affect Ren's plan?
+How does this affect Ral's plan?
 
-Ren enacts his plan quietly. Printing out mimic invaders masquerading as
+Ral enacts his plan quietly. Printing out mimic invaders masquerading as
 humans.
 
 When the invasion of Mars begins the Pulverulent Goddess starts printing Thelusians
@@ -1054,7 +1054,7 @@ Thelusians, but the government kills any found to be a new mimic.
 
 The Thelusians can self-replicate and spread quickly.
 
-As the balance of the war begins to favor the Thelusians, Ren negotiates with
+As the balance of the war begins to favor the Thelusians, Ral negotiates with
 the Earth government to get a truce between humans and new mimics.
 
 The Thelusians gain control of Earth's orbital defenses which prevents Fera
@@ -1068,7 +1068,7 @@ the Thelusians. In reality the Thelusians are bluffing and they do not have the
 means to challenge Earth's military in space, that is why the Shade Prince can
 convince the Pulverulent Goddess to accept a truce in exchange for Eiva's daughter. Fera
 sets up a new base of operations in space. She trains in extreme G. Fera
-contacts Ren to make a deal with the new mimics. Fera tells the new mimics that
+contacts Ral to make a deal with the new mimics. Fera tells the new mimics that
 they have to destroy Earth's orbital defenses so that Fera can bring Earth's
 military to the surface. The new mimics are happy to oblige because they know
 that a mimic armada is on its way and that destroying the orbital defenses will
@@ -1138,20 +1138,20 @@ Eiva's daughter is pregnant. Kaia's son is happy to have an heir to the throne,
 even though he believes that his reign will be eternal. Sata, Fera, and Eiva
 are confined in the bone palace (a palace built from the bones of Fera's
 enemies on top of the ruins of Wawel castle) and help take care of the baby.
-Ren plans to destroy both Sinistrae and Dextrae, though he is unsure if it will
+Ral plans to destroy both Sinistrae and Dextrae, though he is unsure if it will
 be possible to change anything now that the villains have complete control of
-both Mars and Earth. The book ends with Ren contacting a nearby mimic
+both Mars and Earth. The book ends with Ral contacting a nearby mimic
 civilization that was built from s from Sinistrae and Dextrae particles that
 started to react to signals sent by distant mimic civilizations. The particles
 self-construct into a non-organic mimic civilization. The mimics reveal that
 they are intergalactic conquerors and that purpose of the messages were to have
 mimics infiltrate planets and conquer planets them from within or to soften
 their defense before the eventual invasion. The mimic civilization asks if the
-people of Earth and Mars were kind to him and other mimics. Ren replies that
-they were not. The mimic civilization instructs Ren to wait for the invasion.
-As mimics do not age, Ren will still be alive when the invasion arrives. Ren
-decides not to warn anyone about the invasion. Ren doesn't want to wait for the
-invasion, so he enters a stasis pod like the one Eiva used. As Ren enters the
+people of Earth and Mars were kind to him and other mimics. Ral replies that
+they were not. The mimic civilization instructs Ral to wait for the invasion.
+As mimics do not age, Ral will still be alive when the invasion arrives. Ral
+decides not to warn anyone about the invasion. Ral doesn't want to wait for the
+invasion, so he enters a stasis pod like the one Eiva used. As Ral enters the
 pod, he thinks about everyone and wonders if they will still be alive when he
 wakes up.
 
@@ -1250,7 +1250,7 @@ Kaia, Ben, and Sata are ranged
 Zek and the Sinistrae (Fera, Eiva, and Mel) are mixed
 Taz refuses to come, because he says that Arla lied to him
 
-Sata is mostly useful as a scout. Ren in useless at all times. Ben is fairly
+Sata is mostly useful as a scout. Ral in useless at all times. Ben is fairly
 useless with his robotic birds, because Kaia can blow up any animalAutomatons
 before Ben can hack them. Ben is mostly good for scouting with his birds,
 opening doors, and accessing schematics. The major advantage is provided by
@@ -1335,7 +1335,7 @@ Is Sata a Sinistrae at this point? I think she shouldn't be.
   - Can summon and control mimic animals for transportation or combat
   - Under extreme circumstances, can give birth to mimic warriors, who always look like children, because they never grow or age, but have retractable claws and teeth, and kill via stealth and surprise.
     - Lan has a mimic warrior child because of the torture he suffers after he is captured by the government
-- Ren:
+- Ral:
   - Can summon and control mimic animals for transportation or combat
   - Under extreme circumstances, can give birth to mimic warriors, who always look like children, because they never grow or age, but have retractable claws and teeth, and kill via stealth and surprise.
 - Taz (Dextrae):
@@ -1409,13 +1409,13 @@ Is Sata a Sinistrae at this point? I think she shouldn't be.
 ## Parents
 Kaia and Sata miss their parents (who are they?).
 Fera misses her mom, not her abusive father.
-Zek, Zok, Ursa, Ren, Arla, Lan, and Iona do not have living parents.
+Zek, Zok, Ursa, Ral, Arla, Lan, and Iona do not have living parents.
 Ben and Edl have great relationships with their parents who try to hide the fact that Edl was synthesized by Ben when he was a child.
 Dzaa and Daka's parents are in space.
 Taz and Mel are adults.
 
-## Ren
-Ren gets pregnant from Fera. When she discovers Sinistrae, Ren miscarries. He
+## Ral
+Ral gets pregnant from Fera. When she discovers Sinistrae, Ral miscarries. He
 is heartbroken and cannot be near her again, so he tries to invent a way to
 inoculate mimics against Sinistrae and eventually adapt their reproductive
 systems to Sinistrae. He fails to create the inoculation and later falls in
@@ -1452,7 +1452,7 @@ The girls plead with Fera to help the Mungs gain sovereignty from the government
 Fera tells that them after the revolution, there will be freedom for everyone,
 even Mungs.
 
-"and Lunkers." Ren added cautiously.
+"and Lunkers." Ral added cautiously.
 
 "Yes, Lunkers and Mungs."
 
@@ -1577,7 +1577,7 @@ Fera gives herself a permanent seat on the new council with veto power and puts
 her fanboy on the Council as the Zeppeliner representative and uses him as her
 puppet.
 
-Ren asks for a seat on the council for mimics. Ben virtually represents Scenders,
+Ral asks for a seat on the council for mimics. Ben virtually represents Scenders,
 because he still cannot obtain a body. Kaia is asked to represent Martians.
 Iona represents Thelusians.
 
@@ -1685,7 +1685,7 @@ to detonate spontaneously. Kaia later learns to detonate anything with a fuel
 cell, e.g. powerskates, powergloves, energy weapons, airships, etc. Kaia has a
 dream that she is the Pulverulent Goddess crawling through the airship. She finds the
 airship fuel cells and destroys them. When Kaia wakes up the fuel cells have
-actually been destroyed. The airship crashes into Zakʂuvek quarry lake.
+actually been destroyed. The airship crashes into Zakrzówek quarry lake.
 
 Bring in a Relic character to be a romantic partner for Dela. The capsules are
 all connected. The AI explains that there is a survivor from the war between
@@ -1708,8 +1708,8 @@ Eiva tackled Fera and started to throttle her.
 
 "Oh, how did you know that's what I'm into?", Dela said, laughing.
 
-Ren discovers them. "You are together with Eiva?!" Then, a mischievous look
-overtook Ren's face. "Remember when you accused me of sleeping with my sister?
+Ral discovers them. "You are together with Eiva?!" Then, a mischievous look
+overtook Ral's face. "Remember when you accused me of sleeping with my sister?
 Turns out that you're an incestuous hypocrite."
 
 Eiva looked puzzled.
@@ -1769,13 +1769,13 @@ tried to help us. Maybe we can find some people who know tech, who can help us."
 Fera shot up. "Eiva, you're brilliant." "Of course, I am, but where are you
 going?" Fera was already gone.
 
-"Ren, how are you feeling?"
+"Ral, how are you feeling?"
 
 Lunkers don't use Dextrae tech. Lunkers don't trust Dextrae tech, since they
 know Dextrae tech can be manipulated by Dextrae wielders. They use remnants of
-the technology left after the war. The Lunkers were on the losing side. Ren
+the technology left after the war. The Lunkers were on the losing side. Ral
 opened his eyes very wide. He never thought Fera would ask him about his
-feelings. Seeing that Ren was frozen in place, Fera tried to smooth things
+feelings. Seeing that Ral was frozen in place, Fera tried to smooth things
 over. "Look, I feel bad. I know you wanted us to be together and it looks like
 that will not possible right now."
 
@@ -1815,11 +1815,11 @@ gloves."
 
 "Let's use nitrile gloves. The latex ones are smelly."
 
-Ren nodded. "After we figure that out. Maybe we can ask Ben for help with
+Ral nodded. "After we figure that out. Maybe we can ask Ben for help with
 figuring out mimics can adapt to Sinistrae?"
 
-Ren looked away, blushing. Fera knew she had hit the bullseye. Having secured
-Ren, Fera went back to sit with Eiva.
+Ral looked away, blushing. Fera knew she had hit the bullseye. Having secured
+Ral, Fera went back to sit with Eiva.
 
 Are all Sinistrae users left handed?
 
@@ -1948,8 +1948,8 @@ the book to try to help the main character defeat the Pulverulent Goddess.
     because she got hit in the head
 4. Keia is attacked in the cafeteria again
 - the bullies distract Edl by attacking Ben, who fights off the bullies using robotic animals.
-- Keia, Ursa, Ren, Nila, Lita hop on the table and keep the bullies at bay with their lunch trays
-5. Keia, Ben, Edl, Ursa, Ren, Nila, Lita meet with the principal who plans to expel them, but Edl gets the BuzzBees and BuzzBats to give the principal an extra dose of drugs and then convinces the principal to punish them with community service instead of expulsion
+- Keia, Ursa, Ral, Nila, Lita hop on the table and keep the bullies at bay with their lunch trays
+5. Keia, Ben, Edl, Ursa, Ral, Nila, Lita meet with the principal who plans to expel them, but Edl gets the BuzzBees and BuzzBats to give the principal an extra dose of drugs and then convinces the principal to punish them with community service instead of expulsion
 6. Keia, Ben, Edl, Ursa, Lita discover the grotto and meet Lyndsi and agree to show her the outside world
 
 x. Keia meets Granny
@@ -1961,37 +1961,37 @@ x. Keia learns Granny is an Echo too
   - According to Granny, all Echos eventually go insane from insomnia and conflicts between Martian and Earth memories.
   - Keia worries about how she will be effected by being an Echo given that Keia already hears voices and was diagnosed with schizophrenia.
 
--1. Keia and Ren head out into the world with Eustace.
-  - Ren and his Mimic warrior child save Keia and Eustace from malfunctioning
+-1. Keia and Ral head out into the world with Eustace.
+  - Ral and his Mimic warrior child save Keia and Eustace from malfunctioning
     robots that pour out of an abandoned factory.
-  - Ren finds Keia and tells her that the PersonPrinters have been compromised
-  - Keia responds that she knows and tells Ren how someone had used Ursa's body
+  - Ral finds Keia and tells her that the PersonPrinters have been compromised
+  - Keia responds that she knows and tells Ral how someone had used Ursa's body
     to kill Granny and Dan
-  - Keia asks Ren why he came back and he answers that he wants to keep Keia
+  - Keia asks Ral why he came back and he answers that he wants to keep Keia
     and Eustace safe.
-  - Keia remarks that Ren is too weak to keep anyone safe
-  - Ren answers that it's not only physical strength that counts and that
+  - Keia remarks that Ral is too weak to keep anyone safe
+  - Ral answers that it's not only physical strength that counts and that
     anyone that can bury their child and then come back to help others is
     certainly not weak
   - Keia admits that she is glad to see him but isn't sure if she can trust him
-  - Ren says that he isn't angry and doesn't blame Eustace for not being able
+  - Ral says that he isn't angry and doesn't blame Eustace for not being able
     to control its powers and killing Dea.
-  - Keia tries to cheer him up by saying that Ren might be able to have another
-    baby one day but Ren just smiles weakly and says that it might be possible
+  - Keia tries to cheer him up by saying that Ral might be able to have another
+    baby one day but Ral just smiles weakly and says that it might be possible
     one day
-  - Ren asks if they can go to Lyndsi for help and Keia tells him that Lyndsi
+  - Ral asks if they can go to Lyndsi for help and Keia tells him that Lyndsi
     is dead
-  - When Ren asks what happened, Keia says that Lyndsi came for her baby and
+  - When Ral asks what happened, Keia says that Lyndsi came for her baby and
     killed Ursa before Keia killed her
-  - Ren is shocked that Lyndsi and Keia would fight after being such good
+  - Ral is shocked that Lyndsi and Keia would fight after being such good
     friends but says that he understands that Keia would do whatever it takes
     to protect Eustace
   - They decide to stay away from the Infini Corp and any place with
     PersonPrinters
-  - Ren reads in the news that Reli Corp bought Echo Corp and merged with
+  - Ral reads in the news that Reli Corp bought Echo Corp and merged with
     Infini Corp in a deal that involved replacing PersonPrinters with a new
     technology that was impossible to hijack
-  - Ren says that they should be safe soon given that the PersonPrinters were
+  - Ral says that they should be safe soon given that the PersonPrinters were
     being replaced
   - Keia reflects on the effect that the Reli Corp technology used by Dela
     and Sata had on Eustace and that others would come after Eustace
@@ -2010,7 +2010,7 @@ x. Keia learns Granny is an Echo too
 
 Book 2
 - Eustace finds an abandoned PersonPrinter and brings back Dan and Ursa, who he
-  considers to be his real father and mother, rejecting Keia and Ren
+  considers to be his real father and mother, rejecting Keia and Ral
 
 Lost civilizations:
 - Mimics: Government/Corporate scientists did not decode all of the information they received via intergalactic broadcasts. The information on Mimic culture and philosophy were not deemed important enough to spend time decoding. The fragments that the Mimics were able to piece together became the basis of Mimic culture on Earth. The Mimics want to find the remaining information to learn the purpose of their existence and the story behind the intergalactic broadcasts that carried the recipe for their creation.
@@ -2046,7 +2046,7 @@ soulsweep people who are sensitive to Dextrae, like you are, so that they
 eventually join the cult. Zek has overwritten countless minds with his own.
 They are trying to overwrite your mind with the memories of the Pulverulent Goddess. We
 want to preserve your brain the way it is, before they turn you into a puppet
-for the Pulverulent Goddess. Ren has been feeding information about you to us in
+for the Pulverulent Goddess. Ral has been feeding information about you to us in
 exchange for access to technology. He thinks he can save mimickind with his
 research. Kaia cries knowing that her friends except Sata have all lied to her.
 Lan and Arla are dead. Ursa was originally a man and is now part of the Dust
@@ -2075,8 +2075,8 @@ killed on sight.
 - Kaia meets Ben and Edl. They tell her that Fera died in the explosion. This puts a strain on Kaia's relationship with Sata.
 - Arla and Taz get married in Wieliczka
 - The performance group puts on a play. Ursa heartbroken after the dance performance agrees to let Arla play the lead role. The play is about the origins of the Pulverulent Goddess. Arla feels fulfilled and cries when she gets a standing ovation with Taz front and center. Iona cries as she thanks everyone for their hard work, just as she did after the dance performance. Kaia doubts that the tears are real. Iona says that there is someone who would like to take the stage for something very important. Taz gets up on stage and proposes to Arla. She accepts with tears in her eyes. "Is it OK to be this happy?" This time Iona seems to cry for real.
-- The performance group (Iona, Ursa, Arla, Lan, Zek, and Zok) show a demo of casino de rueda with Iona serving as the líder. The dancers break from the circle and start to dance in pairs but remaining unison. Zek dances with Iona, Zok dances with Ursa, and Lan dances with Arla. After the dance show concludes, Zok gets up on stage and presents flowers to Iona, the choreographer. Iona cries, but Kaia doubts that she is genuinely moved. The Zok says that there is a surprise that even Iona does not know about. "I'd like to dedicate this surprise performance to my brother Zek, the love of his life Iona, and the love of my life Ursa. I love you Ursa." Ursa cries intensely. Zok starts to solo dance an urban bachata-salsa song (bachasalsaton). Lan, now wearing a skirt and heels, joins Zok on stage. Lan and Zok dance a sensual bachata, rolling their bodies as they grind on each other. The bachata shifts to an intensely passionate salsa. Zok leads Lan through many challenging spins. Lan rips Zok's shirt open and slides his nose up Zok's torso. Zok lifts Lan above his head and the lights go out. The audience is stunned. Arla and Ren let out a gasp, but won't tell Kaia what they see to not ruin the surprise. When the lights go back up. A spotlight illuminates a pair of feet in glamorous heels. As the spotlight widens, a skirt drops over the legs and a hand shakes its finger at the audience. When the whole stage is illuminated Zok is now wearing heels and what appears to be the same skirt that Lan was wearing before. Zok begins to dance bachata seductively lifting up his skirt on every fourth and eighth beat to reveal his perfectly smooth legs. Lan dances on to the stage confidently and takes control of Zok. Lan turns Zok around grabs him by the hair and kisses his neck while grinding on him from behind. The music switches to salsa as before and Lan start leading Zok through the same routine as before, but the roles are now reversed. The audience applauds reluctantly and then quickly leaves. Zok and Lan look into each other's eyes passionately and bow holding hands. They appear ecstatic even though the applause is scattered. Zok and Lan disappear together. Ursa runs off in tears, thinking that the performance really wasn't for her and that Zok was just lying to make the surprise performance more palatable to the audience. Kaia, Sata, Arla, Iona, and Zek go after Ursa and try to comfort her. Note: Zok could come back as a woman, but wants to be a man and love Lan as a man. Iona is furious that funding for the performance group will likely to cut because the surprise performance will alienate rich donors, but Zek is happy for his brother. "They really put the man in performance." Zek tells Iona that they can always get more money. Iona says that having rich supporters is more important than just having enough money. She says that she was influence and prestige, and not just enough money to cover production costs. Ursa asks them all to leave but then calls Kaia back. She tells Kaia that she has another secret to tell, the biggest one of all. Ursa says that she once was a man and that her dream was to come back as a woman. She hated being a man. She hated her male body. She mentions to Kaia that one of her testicles hung much lower than the other. She said that being a woman even if her body would not be perfect was always her dream. As a man, she considered gender reassignment surgery, but she was always to afraid to try and it would not guarantee a safe pregnancy. She was recruited into Scenderism and became a spy for them. Ursa kidnapped her own sister, scended her, put her in arctic storage, came back in a replica of her body, and stole her identity. Ursa wonders if anyone could love her if they knew the truth and if she even deserved to be loved after what she did to her sister. Ursa says that she does not want to be a man, but the thought that Zok couldn't love her as a woman was killing her and making her think of living an unhappy life as a man just to please Zok. Kaia was so shocked by the confession that she left Ursa without saying a word. Ursa continued crying in the dark feeling completely alone. Kaia heads to kitchen and finds Zok and Lan cooking together wearing only aprons. They are blasting music (salsa, bachata, and zouk), laughing, dancing, feeding each other, and kissing. Kaia storms up to them and tells then that they hurt Ursa badly. Zok says that Ursa still has Zek and Iona, and that he knows that Ursa loves Kaia, but he's not sure if it is as a sister or in a romantic way. Kaia leaves flustered and confused, Lan and Zok continue on as they were before. She doesn't know where to go next. Should she take refuge in Sata?
-- Everyone plays bugBall in Juvenia Stadium, Ren explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
+- The performance group (Iona, Ursa, Arla, Lan, Zek, and Zok) show a demo of casino de rueda with Iona serving as the líder. The dancers break from the circle and start to dance in pairs but remaining unison. Zek dances with Iona, Zok dances with Ursa, and Lan dances with Arla. After the dance show concludes, Zok gets up on stage and presents flowers to Iona, the choreographer. Iona cries, but Kaia doubts that she is genuinely moved. The Zok says that there is a surprise that even Iona does not know about. "I'd like to dedicate this surprise performance to my brother Zek, the love of his life Iona, and the love of my life Ursa. I love you Ursa." Ursa cries intensely. Zok starts to solo dance an urban bachata-salsa song (bachasalsaton). Lan, now wearing a skirt and heels, joins Zok on stage. Lan and Zok dance a sensual bachata, rolling their bodies as they grind on each other. The bachata shifts to an intensely passionate salsa. Zok leads Lan through many challenging spins. Lan rips Zok's shirt open and slides his nose up Zok's torso. Zok lifts Lan above his head and the lights go out. The audience is stunned. Arla and Ral let out a gasp, but won't tell Kaia what they see to not ruin the surprise. When the lights go back up. A spotlight illuminates a pair of feet in glamorous heels. As the spotlight widens, a skirt drops over the legs and a hand shakes its finger at the audience. When the whole stage is illuminated Zok is now wearing heels and what appears to be the same skirt that Lan was wearing before. Zok begins to dance bachata seductively lifting up his skirt on every fourth and eighth beat to reveal his perfectly smooth legs. Lan dances on to the stage confidently and takes control of Zok. Lan turns Zok around grabs him by the hair and kisses his neck while grinding on him from behind. The music switches to salsa as before and Lan start leading Zok through the same routine as before, but the roles are now reversed. The audience applauds reluctantly and then quickly leaves. Zok and Lan look into each other's eyes passionately and bow holding hands. They appear ecstatic even though the applause is scattered. Zok and Lan disappear together. Ursa runs off in tears, thinking that the performance really wasn't for her and that Zok was just lying to make the surprise performance more palatable to the audience. Kaia, Sata, Arla, Iona, and Zek go after Ursa and try to comfort her. Note: Zok could come back as a woman, but wants to be a man and love Lan as a man. Iona is furious that funding for the performance group will likely to cut because the surprise performance will alienate rich donors, but Zek is happy for his brother. "They really put the man in performance." Zek tells Iona that they can always get more money. Iona says that having rich supporters is more important than just having enough money. She says that she was influence and prestige, and not just enough money to cover production costs. Ursa asks them all to leave but then calls Kaia back. She tells Kaia that she has another secret to tell, the biggest one of all. Ursa says that she once was a man and that her dream was to come back as a woman. She hated being a man. She hated her male body. She mentions to Kaia that one of her testicles hung much lower than the other. She said that being a woman even if her body would not be perfect was always her dream. As a man, she considered gender reassignment surgery, but she was always to afraid to try and it would not guarantee a safe pregnancy. She was recruited into Scenderism and became a spy for them. Ursa kidnapped her own sister, scended her, put her in arctic storage, came back in a replica of her body, and stole her identity. Ursa wonders if anyone could love her if they knew the truth and if she even deserved to be loved after what she did to her sister. Ursa says that she does not want to be a man, but the thought that Zok couldn't love her as a woman was killing her and making her think of living an unhappy life as a man just to please Zok. Kaia was so shocked by the confession that she left Ursa without saying a word. Ursa continued crying in the dark feeling completely alone. Kaia heads to kitchen and finds Zok and Lan cooking together wearing only aprons. They are blasting music (salsa, bachata, and zouk), laughing, dancing, feeding each other, and kissing. Kaia storms up to them and tells then that they hurt Ursa badly. Zok says that Ursa still has Zek and Iona, and that he knows that Ursa loves Kaia, but he's not sure if it is as a sister or in a romantic way. Kaia leaves flustered and confused, Lan and Zok continue on as they were before. She doesn't know where to go next. Should she take refuge in Sata?
+- Everyone plays bugBall in Juvenia Stadium, Ral explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
   - "They're not really bunny. We just call them bunnies because they are furry. I looks like a puss caterpillar (Megalopyge opercularis) except its much larger and rolls up in a ball when it feels threatened, which is most of the time when humans are around."
 - Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
 - The octopus becomes symbiotically linked to Kaia. She goes to the Vistula River and gets into the water. The octopus releases its spawn and thanks Kaia helping it and that it will repay the debt.
@@ -2105,11 +2105,11 @@ Religions:
 
 Locations:
 - Katowice: The city where the story begins. It explodes fairly early on in the story.
-- Krakow: The majority of the story takes place around Krakow.
+- Kraków: The majority of the story takes place around Kraków.
   - Entering the city itself is impossible because it is protected by World Heritage robots.
 - Zakʐuvek: Artificial lake in an ancient stone quarry
 - All Saints Chapel in Salwator Cemetery: Scender secret base
-  - Lem's grave Date of death	27. 3. 2006 Cemetery	Salwator Cemetery, Krakow, Poland GPS coordinates of the cemetery	50.053249, 19.904173 Details: Approximate GPS coordinates of the grave are 50.053249, 19.904173. Stand in front of the church, then turn left.
+  - Lem's grave Date of death	27. 3. 2006 Cemetery	Salwator Cemetery, Kraków, Poland GPS coordinates of the cemetery	50.053249, 19.904173 Details: Approximate GPS coordinates of the grave are 50.053249, 19.904173. Stand in front of the church, then turn left.
 - Kosciuszko Mound and entrance to the Lunker city
 - Wieliczka: Wessel lake, Sinistrae time capsule, and chapel ("We're going to the chapel and going to get married.")
 - Błonia Park: Refugee camp and Juvenia Field. Refugees cannot leave on foot because the World Heritage Site robots would kill them.
@@ -2138,4 +2138,4 @@ Dust Goddess aka Dea Pulverulenta (Dust Queen is Regina Pulvis... "Vagina Pelvis
 He explains that the Dust Goddess promised her motherhood and she agreed to follow the Dust Goddess forever.
 
 Book 3:
-The third book starts with a surprise attack by the invading mimic forces. Earth, Mars, and the Thelusians are brought to their knees. The mimics begin to take control. Characters previously oppressed by the rulers of Earth and Mars are now forced to fight the mimics in addition to fighting to survive. New ethnicities have formed since the ending of the 2nd book. Ren awakes and welcomes the invading forces, but they reject him because he is a weakling. The messages were only partially decoded by Earth's scientists and the invading mimics see Ren as a flaw. Ren decides to fight back against the mimic invasion. He hides the fact that he knew about the invasion from the other members of the resistance. The new mimics keep humans and old mimics alive to study how they have adapted to life on Earth. It turns out the old mimics adapted to be symbiotic humans while the new mimics are parasitic. New mimics can impregnate human men and women. Human men typically die after giving birth to a mimic baby, while human women typically survive the birth. Old mimics can only become pregnant themselves after interacting with humans. As the invading mimics adapt, it becomes difficult to say who is human, new mimic, and old mimic. Part of humanity escapes into space away from the mimic invaders. The new mimics rule over and oppress the humans and the old mimics. The humans and old mimics form an alliance against the new mimic oppressors. A new hero arises who gains the ability to fight back after she masters an ancient AI (the UNO AI is brought under control when the hero says tries to use a defective sudoku puzzle to destroy the AI, "command ku not found", "Guess the password," a voice whispered "Guess the password?!" Kaia exclaimed, "Password accepted. Welcome guest," the AI responded). She is able to understand the thoughts of new mimics, old mimics, and humans. She teaches humans about the mimic hivemind. She uses her powers to destroy the new mimic power structure, killing off most of the people. The AI informs her that she made a mistake and the setback to technological progress could be disastrous. If the infighting and the setbacks to technological progress continue then humanity and mimicity will be unprepared for when Earth will be consumed by the Sun. The hero tries to organize the survivors, humans, new mimics, and old mimics alike, to work together to prepare for the Sun's expansion. The hero decides that the only way to ensure stability is install herself as the new ruler of Earth and Mars. The AI agrees and helps the hero to take over. The hero starts crushing those who defied her and rules over Mars and Earth with a iron fist calling herself the All Queen. She begins to transmit signals similar to those coming from the distant mimic civilizations, intending to destroy nascent mimic civilizations, and create more of her own civilizations throughout the universe. She makes plans to move first Earth and then Mars to escape the Sun's expansion. The All Queen sends out colony ships in all directions planning to conquer nearby worlds when Andromeda collides with the Milky Way and rule over all of Milkomeda.
+The third book starts with a surprise attack by the invading mimic forces. Earth, Mars, and the Thelusians are brought to their knees. The mimics begin to take control. Characters previously oppressed by the rulers of Earth and Mars are now forced to fight the mimics in addition to fighting to survive. New ethnicities have formed since the ending of the 2nd book. Ral awakes and welcomes the invading forces, but they reject him because he is a weakling. The messages were only partially decoded by Earth's scientists and the invading mimics see Ral as a flaw. Ral decides to fight back against the mimic invasion. He hides the fact that he knew about the invasion from the other members of the resistance. The new mimics keep humans and old mimics alive to study how they have adapted to life on Earth. It turns out the old mimics adapted to be symbiotic humans while the new mimics are parasitic. New mimics can impregnate human men and women. Human men typically die after giving birth to a mimic baby, while human women typically survive the birth. Old mimics can only become pregnant themselves after interacting with humans. As the invading mimics adapt, it becomes difficult to say who is human, new mimic, and old mimic. Part of humanity escapes into space away from the mimic invaders. The new mimics rule over and oppress the humans and the old mimics. The humans and old mimics form an alliance against the new mimic oppressors. A new hero arises who gains the ability to fight back after she masters an ancient AI (the UNO AI is brought under control when the hero says tries to use a defective sudoku puzzle to destroy the AI, "command ku not found", "Guess the password," a voice whispered "Guess the password?!" Kaia exclaimed, "Password accepted. Welcome guest," the AI responded). She is able to understand the thoughts of new mimics, old mimics, and humans. She teaches humans about the mimic hivemind. She uses her powers to destroy the new mimic power structure, killing off most of the people. The AI informs her that she made a mistake and the setback to technological progress could be disastrous. If the infighting and the setbacks to technological progress continue then humanity and mimicity will be unprepared for when Earth will be consumed by the Sun. The hero tries to organize the survivors, humans, new mimics, and old mimics alike, to work together to prepare for the Sun's expansion. The hero decides that the only way to ensure stability is install herself as the new ruler of Earth and Mars. The AI agrees and helps the hero to take over. The hero starts crushing those who defied her and rules over Mars and Earth with a iron fist calling herself the All Queen. She begins to transmit signals similar to those coming from the distant mimic civilizations, intending to destroy nascent mimic civilizations, and create more of her own civilizations throughout the universe. She makes plans to move first Earth and then Mars to escape the Sun's expansion. The All Queen sends out colony ships in all directions planning to conquer nearby worlds when Andromeda collides with the Milky Way and rule over all of Milkomeda.

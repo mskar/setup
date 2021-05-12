@@ -819,7 +819,7 @@ Dela did not relent. "Oh, you two are naughty! Is incest normal for Lunkers?"
 
 "My name is Arla.", said the girl.
 
-"I am Ren.", said the boy.
+"I am Ral.", said the boy.
 
 "I'm Lita, this is Keia, and next to her is Dela. Nice to meet you both. I'd
 shake your hands, but my hands are full.", Lita said.
@@ -840,7 +840,7 @@ Lita looked at Keia. "Keia is hurt, do you have a place she can rest?"
 
 "We get the idea.", Dela said flatly, "We're not going to tell anyone anything."
 
-"Ok, Ren and I built a secret bed so we could sleep in the theater during
+"Ok, Ral and I built a secret bed so we could sleep in the theater during
 breaks from work."
 
 During the awkward silence that ensued, Keia saw Lita was tempted to make a
@@ -849,19 +849,19 @@ joke but held back. Unlike Lita, Dela couldn't resist.
 "You have a secret bed? That you built yourselves, so you could sleep together?
 Is that a normal thing for Lunkers?", Dela asked smiling mischievously.
 
-Ren was so embarrassed, he started to stammer. Dela didn't relent.
+Ral was so embarrassed, he started to stammer. Dela didn't relent.
 
 "How long have you been sleeping together? Is the sleep still good? Are you
 doing anything to spice it up? Trying out a new pillow, maybe?"
 
 Keia was furious. "They're trying to help us and you keep bullying them!"
 
-"Ren, show Dela and Keia were the bed is hidden. I'll take Lita to the dressing
+"Ral, show Dela and Keia were the bed is hidden. I'll take Lita to the dressing
 room."
 
 "We saw the recording of the ceremony today. We think you are all very brave.",
-Ren said trying to diffuse the situation. "I thought the gigaphone you built
-was great. I like making things too.", Ren said to Dela shyly.
+Ral said trying to diffuse the situation. "I thought the gigaphone you built
+was great. I like making things too.", Ral said to Dela shyly.
 
 Dela waited until Lita and Arla were out of earshot. "Have you built any
 special recently? Maybe a device to help your sister sleep?" Dela continued,
@@ -883,13 +883,13 @@ Keia began to cry, feeling powerless to stop Dela.
 "When's the last time you cleaned the sheets? Wait, have you ever cleaned the
 sheets? I bet we can find it just by the smell!"
 
-Ren helped Keia to her feet and started walking with her in the direction of the secret bed.
+Ral helped Keia to her feet and started walking with her in the direction of the secret bed.
 
 "Have you ever been this close to a girl that wasn't your sister? Be careful,
-Ren, your sister might get jealous! She's used to having you all to herself,
+Ral, your sister might get jealous! She's used to having you all to herself,
 she might not like sharing you with Keia."
 
-Dela continued to taunt Ren all the way to secret bed. Lita and Arla were
+Dela continued to taunt Ral all the way to secret bed. Lita and Arla were
 already there waiting for them.
 
 "What took you so long? I was worried", Lita said.
@@ -907,10 +907,10 @@ covered by an elegant bodice. The sight of Lita took Keia's breath away.
 "What is it with you?", Keia screamed lunging at Dela. Dela stepped away
 effortlessly. Keia stumbled and fell, landing on her hands and knees.
 
-"Looks like I hit a nerve! I've been making fun of Ren for ages without much of a
+"Looks like I hit a nerve! I've been making fun of Ral for ages without much of a
 response. Then, I say one harmless thing about Lita and Keia flips out."
 
-"Sorry Ren, looks like Keia only cares about Lita, I guess you are stuck with
+"Sorry Ral, looks like Keia only cares about Lita, I guess you are stuck with
 your sister for now."
 
 Keia couldn't hear Dela anymore over the howling wind tearing through the
@@ -920,7 +920,7 @@ the dust swirling around Keia, she saw the metallic glint of the taserTutor.
 The metallic tendrils extending from taserTutor were coiled around her arms up
 to the shoulder. The ceremony was still ongoing. The taserTutor began to pulse
 red. Keia's heart sunk. Had she imagined everything? Dela, the Principal, Pyr,
-Ren, Arla? Lightning shot out of the surrounding storm and coursed through
+Ral, Arla? Lightning shot out of the surrounding storm and coursed through
 Keia's body. Keia screamed and writhed on the ground, but then got up with a
 renewed sense of purpose.
 
@@ -1071,7 +1071,7 @@ observing her in the darkness.
 "You know you're creepy as hell.", Dela said.
 
 "Yes, I am aware of that. I am still learning how to interact with topsiders. My
-sister is much better. She is a people person.", Ren answered.
+sister is much better. She is a people person.", Ral answered.
 
 "Well, then bring her here. I'd rather talk to her."
 
@@ -1079,7 +1079,7 @@ sister is much better. She is a people person.", Ren answered.
 
 "Shut up, turn on a flashlight, and show me the way out of here."
 
-Ren complied immediately. "Would you like to see the machine workshop?"
+Ral complied immediately. "Would you like to see the machine workshop?"
 
 "Was he still trying to be friends with her?", Dela thought, "What a loser!".
 
@@ -1105,12 +1105,12 @@ Dela laughed. "And they have money to burn on all of this?"
 
 "If they're so rich, why do they go to a run-down public school?"
 
-"I do not know.", Ren said walking up to a console, "I ask them to come here so
+"I do not know.", Ral said walking up to a console, "I ask them to come here so
 you can ask."
 
 It was no long before a thin boy wearing powerskates zipped into the machine
 shop with another boy nearly as large as a guardGorilla running in after him.
-him. The boy in power skates did a sliding stop right in front of Dela and Ren
+him. The boy in power skates did a sliding stop right in front of Dela and Ral
 and the other boy ran up and stopped a few steps behind him. Reaching out one
 hand to Dela and gesturing around the machine workshop with the other, "Welcome
 to the machine shop!", the boy in power skates said. He was wearing metallic
@@ -1120,7 +1120,7 @@ Turning one begloved hand towards himself, "I'm Ben." and the other begloved
 hand to boy behind him "and this is my little brother Ed.", bowing deeply "and
 we are both deeply honored to be at your service."
 
-"This is Dela.", Ren said, "She likes making things too!"
+"This is Dela.", Ral said, "She likes making things too!"
 
 "The gigaphone you built was impressive, considering the limited resources you
 had at your disposal.", Ed said. "Just think of what you could build in the
@@ -1136,7 +1136,7 @@ the workshop, then turning towards a console, "You can also reserve any
 workstation for any period of time,", holding up one finger on one hand, "but
 you can only reserve one workstation at a time.".
 
-"The reservation schedule looks mostly empty. Actually, you and Ren are the
+"The reservation schedule looks mostly empty. Actually, you and Ral are the
 only ones making reservations. Do people mostly use whatever workstation is
 available?
 
@@ -1201,7 +1201,7 @@ are any failsafes.
 Ben shows her how the gloves can be deactivated. Dela deactivates Ben's gloves
 and asks if she did it right. Ben is impressed that Dela did it correctly on
 her first try. He asks her to reactivate his gloves, but she deactivates all of
-his security access and sends buzzBees to knock out Ben, Ed, and Ren. Ed is
+his security access and sends buzzBees to knock out Ben, Ed, and Ral. Ed is
 immune to the sedatives and chases her. She is amazed that he can keep up with
 her and commands guardGorillas to slow him down. Dela heads to the Principal's
 office to strongarm him into requesting a pardon. She stands on his desk and
@@ -1255,49 +1255,49 @@ one will be able to say which version is the real one."
 
 "No, not the shelf-deshtruct!"
 
-The self-destruct alarm alerts Ben, Ed, and Ren, who find Dela outside the Principal's
+The self-destruct alarm alerts Ben, Ed, and Ral, who find Dela outside the Principal's
 office, having guardGorillas carry the Principal.
 
 Ben and Ed try to force her to deactivate the school self-destruct system. Ed
 wrestles guardGorillas, Ben uses powerskates and taser batons, but Ed leaves
-when Ben is knocked unconscious. Dela faces off against Ben and Ed, Ren
-deactivates the lights trying to gain an advantage over Dela. Ren stays to stop
+when Ben is knocked unconscious. Dela faces off against Ben and Ed, Ral
+deactivates the lights trying to gain an advantage over Dela. Ral stays to stop
 Dela, she laughs at him for being a weakling, and when Kaia had guardGorillas
-break a hole in the wall to get some light, Ren summons birds to fight the
+break a hole in the wall to get some light, Ral summons birds to fight the
 robotic animals. Dela is terrified but she finds
-Ren in the darkness by his glowing eyes and kicks him repeatedly in the face
+Ral in the darkness by his glowing eyes and kicks him repeatedly in the face
 with the vomit covered powerskate.
 
 
 
-### Ren and Dela
+### Ral and Dela
 
 "The things you said earlier really hurt-"
 
 "Shut up. I don't care. Just show me the way out."
 
-Ren drew in a big breathe. "I'm not going to help you until you apologize and
+Ral drew in a big breathe. "I'm not going to help you until you apologize and
 agree to be nicer to me."
 
 "I'm not going to apologize!"
 
-"Then fumble around in the darkness by yourself." Ren said, turning around to
+"Then fumble around in the darkness by yourself." Ral said, turning around to
 leave.
 
 "Wait!" Dela said, "If you don't help me, I'm going to tell everyone about your
 secret bed."
 
-Ren turned around, his eyes wide with shock.
+Ral turned around, his eyes wide with shock.
 
 "I'll also make sure everyone knows you sleep with your sister."
 
-Ren whimpered and started crying. The glow from his eyes
+Ral whimpered and started crying. The glow from his eyes
 illuminated the tears rolling down his cheeks until they disappeared in the
 darkness.
 
 "Stop crying and get me out of here!"
 
-Wiping his eyes, Ren walked closer to Dela.
+Wiping his eyes, Ral walked closer to Dela.
 
 "What the hell are you doing?"
 
@@ -1325,7 +1325,7 @@ Wiping his eyes, Ren walked closer to Dela.
 
 "Fine, just get me out of here!"
 
-Ren's hand was suprisingly calloused and strong, his grip on Dela's hand was
+Ral's hand was suprisingly calloused and strong, his grip on Dela's hand was
 gentle but firm. He walked slowly because Dela still felt uncertain about
 walking in the dark.
 
@@ -1336,16 +1336,16 @@ walking in the dark.
 "Have you ever even held hands with a girl before? Other than your sister, of
 course."
 
-Ren stopped for a second, "What is the significance of holding a girl's hand?",
+Ral stopped for a second, "What is the significance of holding a girl's hand?",
 he asked.
 
 Dela laughed in his face or at least where she assumed his face was based on
-the position of his eyes. She stopped laughing when she realized that Ren was
+the position of his eyes. She stopped laughing when she realized that Ral was
 being serious.
 
 "You really don't know?!"
 
-Ren looked down in embarrassment.
+Ral looked down in embarrassment.
 
 "People hold hands when they're going out together."
 
@@ -1388,12 +1388,12 @@ helps us to build compassion."
 you don't know how to insult someone, you won't know know how to defend
 yourself."
 
-Ren was quiet for a while. Dela realized that they had been talking in the dark
+Ral was quiet for a while. Dela realized that they had been talking in the dark
 for a long time.
 
-"Keep walking.", Dela said shaking Ren's hand to indicate urgency. Ren complied.
+"Keep walking.", Dela said shaking Ral's hand to indicate urgency. Ral complied.
 
-"Can you teach me to lie to others and insult them?", Ren asked shyly.
+"Can you teach me to lie to others and insult them?", Ral asked shyly.
 
 Dela laughed again, but this time with less malice.
 
@@ -1431,7 +1431,7 @@ in circles."
 "I have been practicing deception to try to understand your motivations, elicit
 sympathy in you, and to learn more about topsiders in general."
 
-"You dirty moleman!", Dela screamed at Ren, throwing his hand off to the side.
+"You dirty moleman!", Dela screamed at Ral, throwing his hand off to the side.
 
 "Did you know that Lunkers do not consider the word 'moleman' to be an insult?
 It sounds like molmin, a Lunker word meaning well-crafted or done with
@@ -1450,7 +1450,7 @@ they die. The gas poisons our food and water. Even with filter masks, we-"
 
 "You all deserve to be gassed, you filthy Lunker molemen!"
 
-Ren covered his face with his hands as he started sobbing violently. With Ren's
+Ral covered his face with his hands as he started sobbing violently. With Ral's
 eyes closed, the darkness in front of Dela was complete.
 
 "They all died." he whimpered, falling to the ground and shaking
@@ -1460,54 +1460,54 @@ filters and helped us get out even though they could not breathe. We left them
 behind to save ourselves. I still see their melted faces whenever I close my
 eyes."
 
-Dela stood over Ren with tears in her eyes. She was angry at Ren for being so
+Dela stood over Ral with tears in her eyes. She was angry at Ral for being so
 weak and angry at herself for crying and wasting time on such a weakling. "If
 Lunkers are so easy to kill, maybe they deserve it.", Dela thought. She wiped
-her face and used the sound of crying to locate Ren's head. She kicked out her
+her face and used the sound of crying to locate Ral's head. She kicked out her
 foot and was surprised at how solidly her shoe connect with the source of the
 crying.
 
 "Stop crying and get up!"
 
-When Ren kept crying, Dela was furious. She kicked him repeatedly until she was
-gasping for breath from the exertion. Ren was not making any sound whatsoever.
+When Ral kept crying, Dela was furious. She kicked him repeatedly until she was
+gasping for breath from the exertion. Ral was not making any sound whatsoever.
 Dela dropped to her hands and knees, listening for breathing or any signs of
 life.
 
-"Are you concerned for my wellbeing?", Ren asked, scaring Dela.
+"Are you concerned for my wellbeing?", Ral asked, scaring Dela.
 
-"No!", Dela replied, punching Ren in one of the eyes he had just opened.
+"No!", Dela replied, punching Ral in one of the eyes he had just opened.
 
-It was silent and dark for a while before Ren spoke again.
+It was silent and dark for a while before Ral spoke again.
 
 "I am sorry for crying. I can still help you, but could you stop hurting me
 please? If my eyes swell up more, I will not be able to see in the dark."
 
-Dela stood up and gave Ren another kick. "I will stop hurting you when stop
+Dela stood up and gave Ral another kick. "I will stop hurting you when stop
 being such a weakling. Now get up!"
 
-Ren got up and shrunk away from Dela. The shape of his eyes were different.
+Ral got up and shrunk away from Dela. The shape of his eyes were different.
 "His eyes really are swollen.", Dela thought realizing that she had been
-kicking Ren in the face.
+kicking Ral in the face.
 
 "Help me out of here or I will smash up your face so much we'll both be stuck
 here."
 
-This time Ren did not delay in taking Dela to the exit. When they moved past
-the last curtain. Dela looked Ren who was shielding his eyes from the light.
+This time Ral did not delay in taking Dela to the exit. When they moved past
+the last curtain. Dela looked Ral who was shielding his eyes from the light.
 His face was swollen and covered with bruises. Was he not defending himself at
-all from her kicks? Ren turned around to leave.
+all from her kicks? Ral turned around to leave.
 
 "Oh no, you're not off the hook yet.", Dela said.
 
-Ren froze, then turned around with a pitiful look on his face.
+Ral froze, then turned around with a pitiful look on his face.
 
 "Please, no more.", he mumbled.
 
 "I need to destroy a taserTutor, actually burning down the entire gym down
 will be better, and you're going to help me."
 
-"No, I can't." Ren pleaded.
+"No, I can't." Ral pleaded.
 
 "If you don't, I will tell everyone about your filthy, incestuous relationship
 with your sister."
@@ -1516,19 +1516,19 @@ with your sister."
 
 "I'll help the bullies beat you and your sister into a pulp."
 
-"Please no. Please don't hurt Arla." Ren said crying.
+"Please no. Please don't hurt Arla." Ral said crying.
 
-"No crying!", Dela yelled slapping Ren in the face, "Or I'll rip her apart and
+"No crying!", Dela yelled slapping Ral in the face, "Or I'll rip her apart and
 make you watch."
 
-Ren bit his knuckle to bring himself under control.
+Ral bit his knuckle to bring himself under control.
 
 "Ok, I'll do anything, but please don't hurt Arla.", his voice quivering.
 
-"Get moving. We can't waste anymore time" Dela said shoving Ren out the door of
+"Get moving. We can't waste anymore time" Dela said shoving Ral out the door of
 the theater.
 
-Outside the theater, Ren took a long time to get used to bright lights. Dela
+Outside the theater, Ral took a long time to get used to bright lights. Dela
 realized that both of their faces were covered with bruises and that they were
 attracting the attention of nearby students.
 
@@ -1556,11 +1556,11 @@ explosion?"
 
 "Sure, that's fine as long as the taserTutor is destroyed."
 
-"Ok, but you mustn't tell anyone anything.", Ren said.
+"Ok, but you mustn't tell anyone anything.", Ral said.
 
-When Dela nodded, Ren led her down several hallways and up to a set of windows.
+When Dela nodded, Ral led her down several hallways and up to a set of windows.
 
-"Help me open all the windows.", Ren said.
+"Help me open all the windows.", Ral said.
 
 "You can kill yourself after we blow up the gym, not before."
 
@@ -1574,7 +1574,7 @@ After opening all the windows, Dela grew impatient when nothing happened.
 
 "What are we waiting for? Why are we wasting time just standing her?"
 
-"Please wait.", Ren said with eyes closed.
+"Please wait.", Ral said with eyes closed.
 
 "What the hell are you doing? Snap out of it.", Dela said grabbing his
 shoulders and shaking him.
@@ -1585,11 +1585,11 @@ shoulders and shaking him.
 needs sit in the sun to stay warm? Are you making food from the sunlight like a
 plant?"
 
-"How did you know I can photosynthesize?", Ren asked opening his eyes wide in
-shock. When Ren realized that Dela did not know that he could photosynthesize
+"How did you know I can photosynthesize?", Ral asked opening his eyes wide in
+shock. When Ral realized that Dela did not know that he could photosynthesize
 until he gave it away, he got flustered.
 
-"You mustn't tell anyone anything!", Ren exclaimed.
+"You mustn't tell anyone anything!", Ral exclaimed.
 
 "Fine! Just hurry it up with your diversion."
 
@@ -1598,12 +1598,12 @@ until he gave it away, he got flustered.
 "First, we need to stand next to window and now we need to move away? What the
 hell are you-"
 
-Ren grabbed Dela's hand, pulled her into a corner, and used his body to shield
+Ral grabbed Dela's hand, pulled her into a corner, and used his body to shield
 her from the flood of birds that were flying in through the open windows.
 
-When the birds passed, Ren pulled Dela out of the corner and ran with her down
+When the birds passed, Ral pulled Dela out of the corner and ran with her down
 the hallway after the mass of birds. All through the hallways, robotic animals
-fought with the birds. Ren ran up to a door and placed his palms on the door
+fought with the birds. Ral ran up to a door and placed his palms on the door
 and brought his closer for a retina scan. They went through the open door and saw an empty room with a large table in the center. As the door closed behind them, the sounds of the chaotic battle in the hallway faded away and an automated voice greeted them.
 
 "Welcome Principal Naksos.", the voice said.
@@ -1615,16 +1615,16 @@ any system in the school. You mustn't tell anyone anything."
 
 "That's actually kinda awesome.", Dela admitted.
 
-"I will do anything to protect Arla.", Ren said getting emotional again.
+"I will do anything to protect Arla.", Ral said getting emotional again.
 
 "Ok, I get it. Let's get this over with."
 
 "I am going to unlock the control center. You start the fire alarm and I will
 detonate the robotic animals after everyone is clear."
 
-Ren used his palms and eyes to activate the table. When Dela walked up to it, a
+Ral used his palms and eyes to activate the table. When Dela walked up to it, a
 console appeared. She had administrative access to the entire school system.
-Dela did not waste any time setting off the first alarm. Ren was busy working
+Dela did not waste any time setting off the first alarm. Ral was busy working
 on the console. First, he had the taserTutor release the student currently
 going through the ceremony. Then, he had the automated voice tell everyone to
 evacuate. Finally, he had all of the robotic animals surround the taserTutor
@@ -1639,21 +1639,21 @@ doing?"
 
 "Shut up. You had all of this power and you didn't use it. You're an idiot!"
 
-Ren ran over to Dela and looked at what she was entering into the console.
+Ral ran over to Dela and looked at what she was entering into the console.
 
 "If you detonate all of the robotic animals, people could get hurt!"
-Ren tried to pull Dela away from the console, but he was swarmed with buzzBees.
+Ral tried to pull Dela away from the console, but he was swarmed with buzzBees.
 
-"Don't hurt Arla." Ren said as he succumbed to the buzzBee stings.
+"Don't hurt Arla." Ral said as he succumbed to the buzzBee stings.
 
 Turning back to the console, Dela finished detonating all of the remaining
-robotic animals except a handful of wakeupWasps which she sent to revive Ren.
-As Ren was waking up, Dela initiated the self-destruct sequence of the school
+robotic animals except a handful of wakeupWasps which she sent to revive Ral.
+As Ral was waking up, Dela initiated the self-destruct sequence of the school
 reactor, opened the door to the control room, and locked the control console.
 An automated voice announced that they should evacuate the building. Dela
-grabbed Ren by the hand and yanked him outside. They ran through a charred
+grabbed Ral by the hand and yanked him outside. They ran through a charred
 hallway filled with rubble, the remains of exploded robotic animals, and bodies
-of dead birds. Ren suddenly stopped and fell to his knees crying.
+of dead birds. Ral suddenly stopped and fell to his knees crying.
 
 "Why are you stopping?"
 
@@ -1662,12 +1662,12 @@ of dead birds. Ren suddenly stopped and fell to his knees crying.
 "I didn't kill anyone. I made sure only to detonate the robots if there were no
 people around."
 
-Ren gingerly picked up the burnt carcass of a dead bird and hugged it to his
+Ral gingerly picked up the burnt carcass of a dead bird and hugged it to his
 chest as he cried.
 
 "You mean the birds?!", Dela screamed. She suddenly felt filled with rage. She
-started kicking Ren as hard as she could. When Ren fell over, Dela stopped
-kicking and tried to pick him up, but he refused to stand up. Leaving Ren
+started kicking Ral as hard as she could. When Ral fell over, Dela stopped
+kicking and tried to pick him up, but he refused to stand up. Leaving Ral
 behind, Dela raced to the Principal's office and kicked down the door.
 
 
@@ -1676,12 +1676,12 @@ behind, Dela raced to the Principal's office and kicked down the door.
 
 
 She thinks that no one would charge in now to try to deactivate the
-self-destruct sequence, so Dela grabs the unconscious Ren and the groggy
+self-destruct sequence, so Dela grabs the unconscious Ral and the groggy
 Principal and pulls them out of the school while balancing on only one
 powerskate. Once outside the Principal purchases a motorcycle with a sidecar at
 the microtransit vending machine and then after Dela brings the motorcycle
-around the Principal lifts Ren onto Dela's lap and they try to escape. In the
-final moments, Dela reflects on Ben, Ed, Ren, Arla, Lita, and Keia, starting to
+around the Principal lifts Ral onto Dela's lap and they try to escape. In the
+final moments, Dela reflects on Ben, Ed, Ral, Arla, Lita, and Keia, starting to
 cry when she thought about how they might have been friends if things were
 different. She thinks about feeling powerless to stop her abusive father and
 substance dependent mother. As she is knocked off the motorcycle from behind
@@ -1689,7 +1689,7 @@ she imagines she is a bird flying off into the horizon.
 
 ...
 
-When Dela made it outside with Ren and the Principal in tow, they saw that the
+When Dela made it outside with Ral and the Principal in tow, they saw that the
 evacuation team had already cleared the blast zone. Dela guided the Principal
 to a microtransit vending machine.
 
@@ -1736,9 +1736,9 @@ could have had a chance to apologize Keia and Lita. Maybe if things were
 different, they could've been friends? Dela's eyes filled with tears.
 
 Dela thinks about Ben and Ed too, and the life she could have had working in
-the machine workshop, maybe helping Arla and Ren in the theater.
+the machine workshop, maybe helping Arla and Ral in the theater.
 
-Dela strokes Ren's hair and caresses his mangled face.
+Dela strokes Ral's hair and caresses his mangled face.
 
 "It's the wind in my eyes." Dela thought, "No way I'm crying over those
 losers."
@@ -1764,7 +1764,7 @@ who I might consider my intellectual equal.", Ben asked. "No offense, Ed."
 
 "As far as I can tell, she did not do anything against the Machine workshop
 rules. The city was safely evacuated and reconstruction has already begun. To
-be frank, the MIG always felt incomplete when it was just you, me, and Ren."
+be frank, the MIG always felt incomplete when it was just you, me, and Ral."
 
 "I am glad that Dela is still in our group."
 
@@ -1789,7 +1789,7 @@ shining a flashlight on the floor until their eyes adjusted to the light.
 
 "Lita, Keia, put on these shoes.", Arla said, handing each of the girls a pair
 of ballet flats from a satchel she wore across her shoulder, "Just slip them on
-and let's go. Dela and Ren left while you were sleeping."
+and let's go. Dela and Ral left while you were sleeping."
 
 "It could be just a drill.", Lita said.
 
@@ -1895,7 +1895,7 @@ reserved for only the best of the friends."
 "Haven't you heard?! The entire city is going to explode! We have to be ready
 to evacuate as soon as we get the signal."
 
-"We have to go back for Ren and Dela.", Keia said.
+"We have to go back for Ral and Dela.", Keia said.
 
 "Oh no, I'm afraid that will be absolutely impossible! Anyone trying to leave
 this area will be executed immediately to ensure a safe and organized
@@ -2054,7 +2054,7 @@ next to Lita.
 
 "What is this Lord-Of-The-Rings, deus-ex-machina bullshit?", Dela screamed.
 
-"Are you upset that you did not die?", Ren asked confused.
+"Are you upset that you did not die?", Ral asked confused.
 
 "No, but being saved by a giant bird is weird, and I don't like dangling in air
 from razor sharp talons. How do I know that this dumb bird won't drop me?" Dela
@@ -2093,7 +2093,7 @@ any harm and perhaps may even by fond of me."
 
 "When we land, I will show you some affection with my foot on your face. I'm
 going to tender, love, and care your face until there's nothing left." Dela
-screamed swinging at arms and legs at Ren.
+screamed swinging at arms and legs at Ral.
 
 "Please Dela, you're upsetting the birds. I do not believe you anyway. You are
 using deception to hide your feelings, because you are afraid of getting hurt.
@@ -2117,15 +2117,15 @@ land."
 
 "You do not have much of a choice in the matter."
 
-The eagles brings Dela, Ren, and the Principal down on top of a hill.
+The eagles brings Dela, Ral, and the Principal down on top of a hill.
 
 "How come the eagle didn't rip your shirt as much as mine?"
 
 "Unlike you, I am friendly towards birds."
 
-Ren takes them to the Lunker colony.
+Ral takes them to the Lunker colony.
 
-Ren explains the history of the Lunkers. People went underground to escape
+Ral explains the history of the Lunkers. People went underground to escape
 laser-equipped orbital satellites that would indiscriminately kill anyone who
 was on the surface during past wars.
 
@@ -2137,7 +2137,7 @@ Should they go somewhere else or find the capsule buried there?
 
 They travel by underground train. hyperloop. vacuum tunnel.
 
-Ren wants to impress her with Lunker technology and culture.
+Ral wants to impress her with Lunker technology and culture.
 He offers to take her to an archaeology dig.
 
 The door to the ancient structure opens when Dela approaches.
@@ -2161,15 +2161,15 @@ The drawback is that outside technology would cease to work for her, but
 anything inside the capsule would work for her. Also, Dextrae AIs would try to
 kill her so she needed to stay underground until they could destroy the satellites.
 
-She notices that it makes Ren sick, but does not affect the Principal.
+She notices that it makes Ral sick, but does not affect the Principal.
 
 Dela accepts and begins organizing the revolution.
 
-The Principal becomes her administrative assistant. Ren helps out by spreading
+The Principal becomes her administrative assistant. Ral helps out by spreading
 the word to all Lunkers. He cannot help inside the capsule because he has to stay
 outside the capsule because it makes him sick.
 
-The chapter ends with Dela, Naksos, and Ren sleeping on the train on their way
+The chapter ends with Dela, Naksos, and Ral sleeping on the train on their way
 to the refugee camp.
 
 ## Chapter 5
@@ -2193,14 +2193,14 @@ The chapter ends when Keia drifts off to sleep with Lita stroking her hair.
 
 ## Chapter 6
 
-Dela, Ren, and Naksos arrive at the refugee camp. Pyr is reunited with his
-father. Ren is reunited with Arla and Lans. Dela tells Keia and Lita that she
+Dela, Ral, and Naksos arrive at the refugee camp. Pyr is reunited with his
+father. Ral is reunited with Arla and Lans. Dela tells Keia and Lita that she
 has changed and is deeply sorry for how she behaved earlier.
 
 Dela arm wrestles Figa, Ursa, and Ed, beating all of them.
 
 The chapter ends with a celebration in the refugee camp honoring the return of
-Dela, Ren, and Naksos.
+Dela, Ral, and Naksos.
 
 ## Chapter 7
 
@@ -2250,14 +2250,14 @@ Arla and Lans are taken by the government.
 Kransal is indifferent to Arla being taken. He says that she lied to him about
 being a Lunker.
 
-Dela, Ren, and Naksos arrive at the refugee camp. Dela promises everyone that she
+Dela, Ral, and Naksos arrive at the refugee camp. Dela promises everyone that she
 has no idea how the government got Sinistrae nanotech or figured out how to use
 it to detect mimics. As proof that she has nothing against mimics, she offers
 to help rescue Arla and Lans. She tells Kaia and Sata that the only way
 to rescue them is to accept Sinistrae nanotech. Zek also agrees to help. They
 go in teams.
 
-- Ben, Edl, and Ren
+- Ben, Edl, and Ral
 - Zek, Ursa, and Iona
 - Kaia, Sata, and Fera
 
@@ -2268,18 +2268,18 @@ nanotech?
 Arla and Lans are already dead when they find them at the government detention
 center.
 
-Ren is heartbroken when he finds out that Arla was pregnant with Kransal's
+Ral is heartbroken when he finds out that Arla was pregnant with Kransal's
 child.
 
-Keia comforts Ren and he imprints on her.
+Keia comforts Ral and he imprints on her.
 
-Ren begins working on a way to adapt mimics to Sinistrae nanotech. He goes to
+Ral begins working on a way to adapt mimics to Sinistrae nanotech. He goes to
 work at Ben and Ed's parents' company. After he solves it, he starts
 distributing the inoculation to mimics everywhere. He secretly hatches a plan
 to destroy the government and Dextrae companies. He sabotages PeoplePrinters
 around the world and starts replacing people with dopplegangers who say they
 are loyal to the Dust Queen on Mars to make it seem like she is interfering
-with the network in the same way she is with the signals reaching Keia. Ren
+with the network in the same way she is with the signals reaching Keia. Ral
 goes to the capsule to ask Dela, Keia, and Lita for help with distributing the
 inoculations to mimics hiding underground.
 
@@ -2301,7 +2301,7 @@ and had other intimate moments.
 ## Chapter -3
 
 Keia arrives to destroy Echo Corp (or for another reason?), but decides to stay
-when she meets the baby. Ren comes to bring Keia back, but he stays when he
+when she meets the baby. Ral comes to bring Keia back, but he stays when he
 realizes that she will not leave the baby.
 
 ## Chapter -2
@@ -2358,21 +2358,21 @@ can all live together as a family. Dela leaves.
 
 ## Chapter -1
 
-Ren shows up and ask Keia to leave with him. He explains how Dela planned
+Ral shows up and ask Keia to leave with him. He explains how Dela planned
 everything and is keeping Lita's consciousness prisoner after rebuilding her in
 a diseased body and that the consciousness in Lita's latest body is Dela's.
 Keia doesn't know if she can believe him, but he says that Dela will kill him
 and hunt down all mimics if she finds out. Keia decides to confront Dela. Dela
 denies everything, but then Keia asks to see Lita. Dela takes Keia to see Lita,
 but when Lita cannot recall any of the details of their childhood, Keia becomes
-convinced that Ren was telling the truth. Keia says that she doesn't want to
+convinced that Ral was telling the truth. Keia says that she doesn't want to
 stay with Dela anymore. Dela says Keia is welcome to leave, but that she is
 heart broken that Keia doesn't want to stay and that Dela cannot protect her if
 she leaves. Keia says that she will stay, but only if Dela admits what she did.
-Dela maintains that she did not do the things that Ren said.
+Dela maintains that she did not do the things that Ral said.
 
-Should Keia believe Dela or Ren? Both could be lying. Ren's explanation seems
-crazy enough to be true. Dela says that Sinistrae don't have the tech that Ren
+Should Keia believe Dela or Ral? Both could be lying. Ral's explanation seems
+crazy enough to be true. Dela says that Sinistrae don't have the tech that Ral
 says they do and that only enders do, but that the ender tech is compromised.
 She says that she is trying to recreate that functionality using Sinistrae
 technology. Dela says that she has nothing to hide and that she would bring
@@ -2470,11 +2470,11 @@ Lita slowly dissolved away.
 
 "She was making Mommy cry..."
 
-Keia broke down. Everything Ren said was true. Lita was trapped in the digital
+Keia broke down. Everything Ral said was true. Lita was trapped in the digital
 world of the Enders. Like the other Enders, she couldn't come back to the
-physical because of the virus that Dela and Ren created. Keia knew that she
+physical because of the virus that Dela and Ral created. Keia knew that she
 needed Ben's help, but he was probably not going to want to help her since she
-killed him. She asks Ren to help her get Lita back. Ren agrees but he says that
+killed him. She asks Ral to help her get Lita back. Ral agrees but he says that
 he has no idea how to do it. Keia asks her son to let her talk to Zek. Keia
 asks Zek how to free them. Zek says that he is working on it from the surface
 of Mars, but it might take him many years and it might be up to Keia to rescue
@@ -2490,46 +2490,46 @@ When he grows up, Keia's son tries to sleep with Lita, Figa, and Ursa.
 
 ## Prologue
 
-Keia leaves and Ren joins her in secret. Keia asks Ren if he lied. Ren says
+Keia leaves and Ral joins her in secret. Keia asks Ral if he lied. Ral says
 that he did not lie and he can explain everything that happened. Keia believes
 him because he knows details that he wouldn't have otherwise been able to know.
 
-Ren and Keia are living in a cave by the sea (like in Caotica
+Ral and Keia are living in a cave by the sea (like in Caotica
 Ana).
 
-Ben and Ed arrive accusing Ren of sabotaging the PeoplePrinters. Ren admits to
+Ben and Ed arrive accusing Ral of sabotaging the PeoplePrinters. Ral admits to
 it immediately and he says that he already told Keia. Ben says that most Enders
 are now convinced that physical life needs to end, but that might still be able
 to convince them to not eradicate physical life if Keia transcends. Ben says
 that they will not hurt Keia's baby but they will study him. Ben says that they
-want revenge on Ren, because their companies tanked during the shift from
+want revenge on Ral, because their companies tanked during the shift from
 Dextrae to Sinistrae and that they still want to study Keia's brain and also
-want to study the baby. Keia doesn't want to hand Ren over. Ren starts to
+want to study the baby. Keia doesn't want to hand Ral over. Ral starts to
 explain that Dela planned everything and convinced him to help in exchange for
 favorable conditions for mimics. He says that she threatened to slaughter
 mimics like the government if he didn't help her. Ben and Ed say that all of
 that doesn't matter they still want revenge against him.
 
 Keia faces off against Ben and Ed, and kills them both using her Dextrae and
-Sinistrae powers with the help of Ren. Keia's visions get stronger as the baby
+Sinistrae powers with the help of Ral. Keia's visions get stronger as the baby
 gets stronger and learns to break through Sinistrae defenses. Keia weeps as she
 realizes that she has no way of getting Lita back and that the baby and the
 visions will drive her crazy. She knows she will have to go to Mars to stop the
 visions. She wonders if she will ever see Lita again. She thinks she might be
 going crazy. She decides to go back to Dela. She starts to think that maybe
-Dela is telling the truth and that Ren is lying. Being near the capsule helps
+Dela is telling the truth and that Ral is lying. Being near the capsule helps
 control her visions and she needs larger and larger doses of Sinistrae to keep
-her baby from ravaging her mind. Ren is afraid that Dela will kill him, so he
+her baby from ravaging her mind. Ral is afraid that Dela will kill him, so he
 doesn't go with Keia.
 
 When Keia arrives at the capsule, Dela is very happy to see Keia and says that
-she can forgive Ren if he admits that he lied to keep Keia all to himself.
+she can forgive Ral if he admits that he lied to keep Keia all to himself.
 
-Then Dela says that she forgave Ren and that Ren is ready to apologize for
-lying. Ren says that he is sorry that he lied and asks if he can still live
+Then Dela says that she forgave Ral and that Ral is ready to apologize for
+lying. Ral says that he is sorry that he lied and asks if he can still live
 with Keia. Keia doesn't know who to believe, but she says it doesn't matter.
-Ren lets his membranes grow out and his skin turn dark. Does Keia eventually
-fall for Dela? Does she let Ren live with her? What happens to the Lita
+Ral lets his membranes grow out and his skin turn dark. Does Keia eventually
+fall for Dela? Does she let Ral live with her? What happens to the Lita
 imposter? Eventually the Sinistrae injections are not enough to stop the
 visions. Keia needs to go to Mars and asks Dela for help. Dela immediately
 agrees and says that they will conquer Mars together.

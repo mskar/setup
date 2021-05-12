@@ -69,9 +69,9 @@ members than the maker group."
 "That's not funny. The MIG lost it's Vice President and quite possibly it's
 Secretary earlier today."
 
-"Did something happen to Ren?" Arla rushed up to Ben.
+"Did something happen to Ral?" Arla rushed up to Ben.
 
-"I am afraid that Ren is still unaccounted for. The last time I saw him, he was
+"I am afraid that Ral is still unaccounted for. The last time I saw him, he was
 with Fera, the MIG Vice President."
 
 "Fera? The Fera who staged the protest today?" Kaia asked.
@@ -86,11 +86,11 @@ disappeared inside the city during the explosion," Ben answered.
 "I saw her in the city as we were taking off. She was on a motorcycle with the
 Principal," Kaia said dourly.
 
-"Yes, the Principal was with Fera and Ren, the last time we saw them."
+"Yes, the Principal was with Fera and Ral, the last time we saw them."
 
 "We left her there and now she's dead," Kaia said flatly.
 
-"Was Ren on the motorcycle with them?" Arla asked.
+"Was Ral on the motorcycle with them?" Arla asked.
 
 "I don't know. It only caught a glimpse of them," Kaia said.
 

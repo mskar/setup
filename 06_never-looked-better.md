@@ -2,7 +2,7 @@
 
 "What is this Lord-Of-The-Rings, deus-ex-machina nonsense?", Fera screamed.
 
-"Are you upset that you did not die?", Ren asked confused.
+"Are you upset that you did not die?", Ral asked confused.
 
 "No, but being saved by a giant bird is weird, and I don't like dangling in air
 from razor sharp talons. How do I know that this dumb bird won't drop me?" Fera
@@ -13,7 +13,7 @@ had trackers. Fera hastily removed her gloves and skates, dropping them into
 the city below, and watching as they disappeared into the growing sea of fire
 below. The heat from the explosion lifted them up higher.
 
-"Why did you save me?" Fera asked Ren.
+"Why did you save me?" Fera asked Ral.
 
 "I didn't save you. The birds did."
 
@@ -44,7 +44,7 @@ any harm and perhaps may even by fond of me."
 
 "When we land, I will show you some affection with my foot. I'm going to
 tender, love, and care your face until there's nothing left," Fera screamed
-swinging at arms and legs at Ren in a futile gesture of aggression.
+swinging at arms and legs at Ral in a futile gesture of aggression.
 
 "Please Fera, you're upsetting the birds. I do not believe you anyway. You are
 using deception to hide your feelings, because you are afraid of getting hurt.
@@ -68,38 +68,38 @@ land."
 anywhere else, especially a place filled with Lunkers, did not seem very
 appealing.
 
-"You do not have much of a choice in the matter," Ren said gesturing towards
+"You do not have much of a choice in the matter," Ral said gesturing towards
 the eagles. "After destroying the city, you may want to lay low for a while."
 
-The eagles set Fera, Ren, and the Principal down on top of a hill surrounded by
-red brick ruins near the edge of the forest. Ren pointed into the forest. "The
+The eagles set Fera, Ral, and the Principal down on top of a hill surrounded by
+red brick ruins near the edge of the forest. Ral pointed into the forest. "The
 entrance is hidden in the forest. We have to walk the rest of the way."
 
 "Wait, what is this place?" Fera asked.
 
 "This is Kosciuszko Mound in the Wolski Forest. The ancient city there was
-called Krakow in Ancient Latin, Ancient Spanish, and Ancient Italian."
+called Kraków in Ancient Latin, Ancient Spanish, and Ancient Italian."
 
 "What should we do with him?" Fera asked gesturing towards the Principal, who
 was lying on the ground next to them. His shirt and blazer were covered in
 vomit. "He doesn't look like he can walk and I wouldn't carry him even if I
 could."
 
-"I will call for help," Ren said closing his eyes.
+"I will call for help," Ral said closing his eyes.
 
 "No more birds!" Fera yelled.
 
-"Ok, no more birds," Ren agreed.
+"Ok, no more birds," Ral agreed.
 
 "What should I do?"
 
 "Enjoy the view."
 
 Fera spotted an airship in the distance. Fera was unsure about whether she
-should tell Ren. She watched as it moved lazily across the sky. Why was it
+should tell Ral. She watched as it moved lazily across the sky. Why was it
 going so slow? Was it going in circles?
 
-"That airship will not be able to help us," Ren said calmly, his eyes
+"That airship will not be able to help us," Ral said calmly, his eyes
 still closed.
 
 "How do you know?"
@@ -117,10 +117,10 @@ they might blame Fera for the crash. If Fera had not destroyed the city, they
 would not have been on the airship. Fera made up her mind quickly. "I don't
 want to wait."
 
-Ren opened his eyes. "Look there," he said pointing to the bottom of the hill,
+Ral opened his eyes. "Look there," he said pointing to the bottom of the hill,
 where three stags stood waiting.
 
-"Is that our ride?" Fera asked. Ren nodded.
+"Is that our ride?" Fera asked. Ral nodded.
 
 "Why don't you have them come here?"
 
@@ -128,24 +128,24 @@ where three stags stood waiting.
 
 "Are we supposed to carry the Principal down?"
 
-"We can roll him down," Ren suggested. Fera liked that idea, perhaps a little
+"We can roll him down," Ral suggested. Fera liked that idea, perhaps a little
 too much. She gave the Principal a heave followed by a few kicks to keep him
-going. Ren and Fera chased the Principal as he picked up speed going down the
+going. Ral and Fera chased the Principal as he picked up speed going down the
 hill. Fera laughed as she watched the Principal tumbled down the hill.
-Ren stared at Fera as she ran barefoot down the hill. She was a Valkyrie taking
+Ral stared at Fera as she ran barefoot down the hill. She was a Valkyrie taking
 delight in serving justice.
 
 When they got to the bottom of the hill, Fera wished she could roll the
-Principal down again. The stags knelt down and Fera helped Ren put the
+Principal down again. The stags knelt down and Fera helped Ral put the
 Principal on the back of the nearest stag. Fera had never ridden an animal, not
 even a robotic one. The prospect of riding a real live stag was terrifying.
 
 "Can the other stags kneel down for us too?"
 
-"Watch." Ren ran up to one of the stags, grabbed onto its antlers, and swung
+"Watch." Ral ran up to one of the stags, grabbed onto its antlers, and swung
 himself up onto its back.
 
-Fera copied Ren, but did not pick up enough speed and slid down the side of her
+Fera copied Ral, but did not pick up enough speed and slid down the side of her
 stag. The stag looked away from Fera as if embarrassed by her failure. Fera
 kept holding on the stag's antlers, terrified that the stag could impale her
 with just a flick of its head. The stag brought its head back around and Fera
@@ -156,7 +156,7 @@ antlers before turning its head back around.
 
 The three stags walked through the ruins and then entered the forest, as if
 they knew exactly where to go. Fera held onto the antlers of her stag for dear
-life. Ren was looking at her intently.
+life. Ral was looking at her intently.
 
 "Why are you looking at me like that?"
 
@@ -177,7 +177,7 @@ violence, I feel strangely content when you kick me."
 
 "Why do you like me?" Fera asked after a long pause.
 
-Ren looked at her intensely. "You are the most amazing person I have ever met."
+Ral looked at her intensely. "You are the most amazing person I have ever met."
 
 Fera was shocked. "All I do is make fun of you and kick you."
 
@@ -185,8 +185,8 @@ Fera was shocked. "All I do is make fun of you and kick you."
 me. Actually, it's quite the opposite. I want you to kick me, as long as it
 helps you. Whenever you need a face to kick, I will be happy to offer mine."
 
-Fera could tell that Ren was being absolutely serious. He looked sad and
-compassionate, but hopeful. Ren smiled at Fera. "Talking with you feels really
+Fera could tell that Ral was being absolutely serious. He looked sad and
+compassionate, but hopeful. Ral smiled at Fera. "Talking with you feels really
 nice. This moment is worth all of the kicks you gave me."
 
 Fera looked away. She riding a stag through the woods next to a crazy person.
@@ -214,25 +214,25 @@ I think I can convince them to help us."
 
 "They have been following us and studying us since we entered the forest."
 
-Fera looked around, but could not see anyone. She was about to ask Ren if he
+Fera looked around, but could not see anyone. She was about to ask Ral if he
 was joking, when arrows shot down from the trees above and landed in front of
 them. The stags reared up on their hindlegs. Fera was able to hold on, but the
 Principal tumbled down off of his stag.
 
-Ren hopped of his stag and raised his arms, showing his palms. "We need your
+Ral hopped of his stag and raised his arms, showing his palms. "We need your
 help!"
 
-"Ren, maybe you can show them how you can grow roots and photosynthesize?"
+"Ral, maybe you can show them how you can grow roots and photosynthesize?"
 
-"You mustn't tell anyone anything!" Ren said forcefully.
+"You mustn't tell anyone anything!" Ral said forcefully.
 
 A small elderly woman rappelled down from a tree. "We are Driads. We
 speak for the trees. You are trespassing in our forest."
 
-"Greetings, I am Ren, and this is Fera. Our companion is sick from exposure to
+"Greetings, I am Ral, and this is Fera. Our companion is sick from exposure to
 narcotics. He may die without your help."
 
-"Greetings, Ren and Fera. I am Arba. How is it that you know this forest?"
+"Greetings, Ral and Fera. I am Arba. How is it that you know this forest?"
 
 "I do not know this forest, but these stags do."
 
@@ -274,9 +274,9 @@ era of freedom and equality."
 "Your words do not sound hollow. If you promise to respect and protect the
 forest. We will aid you."
 
-After Ren and Fera promised, other Driads rappelled down from trees.
+After Ral and Fera promised, other Driads rappelled down from trees.
 Still more, came out of hiding from behind other trees, bringing various items
-and placing them down on the ground in front of Fera and Ren. Fera looked over
+and placing them down on the ground in front of Fera and Ral. Fera looked over
 the items. There were leaves covered berries, nut, and insects, gourds filled
 with water, clothes made of animal skins, knives, bows, and quivers of arrows.
 
@@ -285,7 +285,7 @@ the city destroyer and her mimic companion could wear our clothing and use our
 weapons on their quest to overthrow the government," Arba said as several
 Driads carried the Principal away on a wooden sled.
 
-Fera eyed the food with suspension. Ren seemed to have no problem with the food
+Fera eyed the food with suspension. Ral seemed to have no problem with the food
 and ate bugs, nuts, and berries heartily. Fera picked a knife and unsheathed
 it. She was disappointed to see that knives it was entirely made out of wood.
 When she tried the edge of the knife, she was surprised that it was quite
@@ -296,21 +296,21 @@ can cut flesh," Arba explained.
 
 Fera put the shoes that the Driads brought her. The shoes, moccasins
 made out of animal skin, were very comfortable. She went behind a tree to
-change into the rest of the clothes. When she came back Ren had already
+change into the rest of the clothes. When she came back Ral had already
 changed.
 
 "Not the modest type I see. You might even be an exhibitionist. Do you get off
 on showing everyone your dangling parts?"
 
-Ren was silent.
+Ral was silent.
 
 "You're probably excited that you can finally undress in front of someone other
 than your sister."
 
 "Why do mimic men like to undress in front of others?" Arba asked,
-sitting down in front of Fera and Ren.
+sitting down in front of Fera and Ral.
 
-Ren blushed and Fera laughed. "It may not be all mimic men, but this one
+Ral blushed and Fera laughed. "It may not be all mimic men, but this one
 certainly does."
 
 Arba furrowed her brow in thought. "We only know of mimics from our
@@ -322,10 +322,10 @@ legends."
 like animals, and that mimics can communicate with each other without
 speaking."
 
-Fera raised her eyebrows at Ren. "That's how you controlled the birds and
+Fera raised her eyebrows at Ral. "That's how you controlled the birds and
 stags, with telepathy?"
 
-Ren nodded.
+Ral nodded.
 
 Fera turned back to Arba. "Other than the animal mind control,
 what else makes mimics different?"
@@ -335,11 +335,11 @@ forever, but mimics reproduce differently from us. For example, we know that a
 mimic man cannot get a human woman pregnant, but can himself become pregnant,
 even without intercourse."
 
-Fera's eyes lit up at the prospect of new ways to tease Ren. "So the downside
+Fera's eyes lit up at the prospect of new ways to tease Ral. "So the downside
 is that you are shooting blanks, but the upside is that you are capable of
 immaculate conception?"
 
-Ren nodded again. Fera was eager to learn more. "What about mimic women?"
+Ral nodded again. Fera was eager to learn more. "What about mimic women?"
 
 "Mimic women can be pregnant without intercourse as well," Arba explained.
 
@@ -351,7 +351,7 @@ Ren nodded again. Fera was eager to learn more. "What about mimic women?"
 
 "If a mimic is starved, they can survive by becoming like plants," Arba said.
 
-Fera looked at Ren in amazement. "You weren't kidding when you said you could
+Fera looked at Ral in amazement. "You weren't kidding when you said you could
 photosynthesize!"
 
 "Yes, but you mustn't tell anyone anything! I believe the Driad mean us
@@ -363,7 +363,7 @@ no harm, but other topsiders might want to capture and study mimics."
 
 "You're an alien?" Fera asked.
 
-Ren nodded.
+Ral nodded.
 
 "Are you here to invade Earth?" Fera asked.
 
@@ -391,19 +391,19 @@ going through the rite, our young can learn about city life and why living
 among the trees is better. I went through the rite many years ago. I am glad
 that you destroyed the city."
 
-"But what about the rite of passage? Can your young go to Krakow instead of
+"But what about the rite of passage? Can your young go to Kraków instead of
 Katovicen?"
 
-Arba shook her head. "Anyone who enters Krakow does not return."
+Arba shook her head. "Anyone who enters Kraków does not return."
 
-"The World Heritage Site robots kill anyone inside the city," Ren explained.
+"The World Heritage Site robots kill anyone inside the city," Ral explained.
 
 "Is there another city nearby?
 
-"None like Katovicen. On the other side of Krakow, there is a city of tents.
+"None like Katovicen. On the other side of Kraków, there is a city of tents.
 The airships from Katovicen are heading there."
 
-"Do you want to go there instead of the Lunker city?" Ren asked. Fera shrugged.
+"Do you want to go there instead of the Lunker city?" Ral asked. Fera shrugged.
 She was not sure if she was a fugitive. It might be smarter to go to the
 Lunker city until she found out for sure.
 
@@ -445,12 +445,12 @@ idea. The Driads laid down pieces of moss-covered bark onto the ground.
 Arba got up and gestured towards the bark. "You may sleep here. We will return
 at sunrise to bid you farewell on your quest. Good night."
 
-Fera walked up to the spot Arba had indicated. "What do you think, Ren? Will it
+Fera walked up to the spot Arba had indicated. "What do you think, Ral? Will it
 be as comfortable as your secret bed?"
 
-Ren sat down on the bark bed opposite Fera. Fera pulled out a wooden knife.
+Ral sat down on the bark bed opposite Fera. Fera pulled out a wooden knife.
 "Just don't try anything, I'm not your sister."
-Ren curled up into ball facing away from Fera. Fera tried to smooth things over.
+Ral curled up into ball facing away from Fera. Fera tried to smooth things over.
 "At least I don't have to worry about you getting me pregnant, right?"
 
 "Yes, mimics cannot get humans pregnant."
@@ -463,7 +463,7 @@ someone for a long period of time."
 "You get pregnant from emotions?! Am I getting you pregnant right now just by
 talking with you?" Fera said excitedly.
 
-Ren looked back at Fera, his eyes filled with tears. "I would be the luckiest
+Ral looked back at Fera, his eyes filled with tears. "I would be the luckiest
 mimic on Earth if I could bear children for you. I feel like I could be with
 you forever and it wouldn't be enough."
 
@@ -507,7 +507,7 @@ Fera thought for a while. "Will you let me know before you get pregnant?"
 
 "Of course, I would never do it without your consent."
 
-Satisfied with Ren's answers, Fera laid down on the bark bed next to him.
+Satisfied with Ral's answers, Fera laid down on the bark bed next to him.
 Looking up at the stars through the trees, Fera thought for a long time about
 her next question. "When you lived with the Lunkers, did they know you were a
 mimic?"
@@ -522,20 +522,20 @@ and me to keep it a secret. My father never knew."
 "I miss my mom. I hope she got out of the city in time, but I wouldn't be upset
 if my dad died in the explosion."
 
-"I am sorry that he hurt you," Ren said quietly. Fera was angry that Ren
+"I am sorry that he hurt you," Ral said quietly. Fera was angry that Ral
 brought it up, but she felt a lot less anger than she expected. She considered
-stabbing Ren with her wooden knife, but decided against it. Instead, Fera kept
-her mind busy by counting all the ways she could torture and brutally kill Ren
+stabbing Ral with her wooden knife, but decided against it. Instead, Fera kept
+her mind busy by counting all the ways she could torture and brutally kill Ral
 the next day. Fera fell asleep with violence on her mind. She dreamed of
 stringing up those who had wronged her, slicing them open with her wooden
 knives, and dancing beneath the shower of their blood.
 
 Fera awoke shivering. It was still dark and the moisture from the moss beneath
 her had permeated through her animal skin clothes. She had never felt so cold
-in her life. She noticed that Ren was sleeping soundly without shivering at
-all. Fera shifted towards Ren hoping to warm up a little.
+in her life. She noticed that Ral was sleeping soundly without shivering at
+all. Fera shifted towards Ral hoping to warm up a little.
 
-"Are you cold?" Ren asked.
+"Are you cold?" Ral asked.
 
 "Yes, aren't you?"
 
@@ -544,7 +544,7 @@ all. Fera shifted towards Ren hoping to warm up a little.
 "Fine, but don't get any funny ideas or I'll carve you open and sleep inside
 your entrails for warmth."
 
-Ren put his arms around Fera. He started to vibrate and emanate a surprising
+Ral put his arms around Fera. He started to vibrate and emanate a surprising
 amount of heat. "How are you doing that?" Fera asked.
 
 "Producing heat? The same way you do, by contracting my muscles and releasing
@@ -553,38 +553,38 @@ sun and from the food the Driads gave us. You should have eaten
 more. Would you like me to bring you some of the food now?"
 
 "Just shut up and be warm," Fera turning around and pressing her back against
-Ren. His body conformed around her and Fera soon stopped shivering. She felt
-safe. She was glad to be alive. Ren had saved her. Fera would never admit it,
+Ral. His body conformed around her and Fera soon stopped shivering. She felt
+safe. She was glad to be alive. Ral had saved her. Fera would never admit it,
 but she felt grateful.
 
 This time when Fera went to sleep she was thinking happy thoughts. She dreamed
 she was holding a child in her arms. The child looked up at her. Fera
-recognized herself in the child's face. Ren had given Fera the gift of life a
+recognized herself in the child's face. Ral had given Fera the gift of life a
 second time. Surrounded by warmth and love, Fera began to cry tears of joy.
 
 When Fera woke up in morning, her child was gone. Fera looked around in a
 panic, but then she remembered that she did not have a child. Her stirring woke
-up Ren. "Fera are you alright?"
+up Ral. "Fera are you alright?"
 
 "Yes, I'm fine. Even though I couldn't sleep much with you poking at me all
 night."
 
-Ren blushed and moved away. "That's a normal reaction that human males have. To
+Ral blushed and moved away. "That's a normal reaction that human males have. To
 become better adapted to living among humans, mimic males have evolved to
 exhibit the same response."
 
-Fera laughed. She enjoyed tormenting Ren and he made it so easy for her. Fera
+Fera laughed. She enjoyed tormenting Ral and he made it so easy for her. Fera
 stood up fastened a belt with two sheathed knives to her waist and slung a
 quiver of wooden arrows, a bow, and a water gourd over her shoulder.
 
 "Come on, lover boy, you promised you would show me around the Lunker capital."
 
-Ren stood up, but then turned away from Fera. Fera laughed again. "You're such
+Ral stood up, but then turned away from Fera. Fera laughed again. "You're such
 a prude! You said it was normal. As natural as rainbows! There's no need to
 hide it!"
 
-Ren grabbed two water gourds and a quiver of arrows, then mounted his stag in
-hurry. Fera threw a bow towards Ren. "You forgot this. The arrows won't be much good
+Ral grabbed two water gourds and a quiver of arrows, then mounted his stag in
+hurry. Fera threw a bow towards Ral. "You forgot this. The arrows won't be much good
 without it."
 
 The Driads had begun to gather around. Fera saw Arba and waved to her.
@@ -597,7 +597,7 @@ Fera bowed to Arba, ran up to her stag, swung up by its antlers onto its back. T
 time the motion was much more fluid and Fera noted the impression it made on
 the Driads.
 
-Once they were out of earshot, Fera looked at Ren, "Is the Principal going to
+Once they were out of earshot, Fera looked at Ral, "Is the Principal going to
 be ok with them?".
 
 "Yes, he will have the best care possible. Fresh air, clean water, natural
@@ -606,7 +606,7 @@ food, and most importantly no buzzBees."
 I was not long before they arrived at a cave. Fera was upset to see that the
 cave was not from the Kosciuszko mound. "We were right next to it when we landed!"
 
-"Yes, but we have to help the Principal first," Ren said as he dismounted and
+"Yes, but we have to help the Principal first," Ral said as he dismounted and
 walked towards the cave.
 
 "I'm not going to be able to see in there, am I?"
@@ -615,11 +615,11 @@ walked towards the cave.
 city, there will be electric lights. We can ask around. Maybe we can find out
 where the airships were headed."
 
-Fera follow Ren into the cave and watched him scrap algae off the walls. He
+Fera follow Ral into the cave and watched him scrap algae off the walls. He
 triumphantly showed her the handful of algae he had collected. Fera could see
-Ren's hand and his glowing eyes, but not much else. Ren held out the algae with
+Ral's hand and his glowing eyes, but not much else. Ral held out the algae with
 one hand and pulled Fera forward with the other. Fera had no idea where they
-were going. Even after her eyes adjusted to darkness, she could only see Ren's
+were going. Even after her eyes adjusted to darkness, she could only see Ral's
 outline illuminated by the algae in his hand.
 
 Fera breathed a sigh of relief when they entered a tunnel with electric lights.
@@ -627,15 +627,15 @@ As they approached the entrance to the city, a young Lunker run up to them.
 "Congratulations, you've won a free, all-expenses-paid trip to Wieliczka salt
 mine, including a free boat ride on Lake Wessel, for two people!
 
-"Excuse us, we need to discuss." Fera said, drawing Ren into a huddle.
+"Excuse us, we need to discuss." Fera said, drawing Ral into a huddle.
 
 "Don't you think it is suspicious that it's a free tip and boat ride
 specifically for two people? There are exactly two of us. It seems a little on
 the nose."
 
-"We shouldn't look a gift horse in the mouth," Ren said. "That lake is an
+"We shouldn't look a gift horse in the mouth," Ral said. "That lake is an
 important part of the cultural heritage of Lunkers. I have always wanted to see
-it," Ren said.
+it," Ral said.
 
 "It's a trap and I am going to say no and if you try to stop me I'll stab you."
 
@@ -644,19 +644,19 @@ find out."
 
 "Ok, go ahead, you have one minute."
 
-Ren walked up to his fellow Lunker with a smile and started to talk with him in
+Ral walked up to his fellow Lunker with a smile and started to talk with him in
 a quiet, friendly voice.
 
 "What's your name?"
 
 "Nil."
 
-"Greetings Nil! I am Ren and this is Fera." The conversation seemed to be going
+"Greetings Nil! I am Ral and this is Fera." The conversation seemed to be going
 well until a rock hit the Lunker in the side of the head with such force that
 he crumpled to the floor. Fera pounced on Lunker's chest with a rock in each
 hand and started to make a few improvements to his face.
 
-Ren looked on in horror. He wanted to stop Fera, but both felt that it was
+Ral looked on in horror. He wanted to stop Fera, but both felt that it was
 better that Fera stayed focused on Nil rather than on him. Once Fera was
 satisfied with the facial remodeling, leaned in close to the Nil's face and
 said "Who sent you?", in the lowest voice she could. Unfortunately, Nil was
@@ -664,7 +664,7 @@ very unconscious and unable to answer her question.
 
 "Lunkers are useless. Let's get out of here."
 
-Ren quickly followed Fera, afraid that if he did not, then he might be next.
+Ral quickly followed Fera, afraid that if he did not, then he might be next.
 Before long, another Lunker approached them, as before.
 
 "Congratulations, you've won a free, all-expenses-paid trip to the Wieliczka
@@ -677,7 +677,7 @@ absolutely serious, and picked up a fresh pair of rocks.
 
 "Please don't hurt me. I'll tell you everything."
 
-"Why don't you start with your name," Ren said trying to diffuse the situation.
+"Why don't you start with your name," Ral said trying to diffuse the situation.
 
 "Oil."
 
@@ -696,7 +696,7 @@ Fera thought for a little while.
 temporal order might be. All I know is that I am their 15th son and my sister
 Nila is their 15th daughter."
 
-"Nila was my mother's name!" Ren shouted.
+"Nila was my mother's name!" Ral shouted.
 
 Fera remembered that Kaia's waipo's name (mother's mother's name) was Aila.
 Perhaps Lunkers were not that different from topsiders?
@@ -770,9 +770,9 @@ keep food from spoiling."
 You can taste the salt by licking any of the walls, but this part of the tunnel
 is extra salty."
 
-Ren leaned in towards the wall, sticking out his tongue.
+Ral leaned in towards the wall, sticking out his tongue.
 
-"Ren, what are you doing?!"
+"Ral, what are you doing?!"
 
 "Tasting the salt." he said sheepishly.
 
@@ -794,7 +794,7 @@ Nil describes the carvings in the walls and
 difficult to remember " They travel by underground train.
 hyperloop. vacuum tunnel.
 
-Ren wants to impress her with Lunker technology and culture.
+Ral wants to impress her with Lunker technology and culture.
 He offers to take her to an archaeology dig.
 
 The door to the ancient structure opens when Fera approaches.
@@ -818,33 +818,33 @@ The drawback is that outside technology would cease to work for her, but
 anything inside the capsule would work for her. Also, Dextrae AIs would try to
 kill her so she needed to stay underground until they could destroy the satellites.
 
-She notices that it makes Ren sick, but does not affect the Principal.
+She notices that it makes Ral sick, but does not affect the Principal.
 
 Fera accepts and begins organizing the revolution.
 
-The Principal becomes her administrative assistant. Ren helps out by spreading
+The Principal becomes her administrative assistant. Ral helps out by spreading
 the word to all Lunkers. He cannot help inside the capsule because he has to stay
 outside the capsule because it makes him sick.
 
-The chapter ends with Fera, Naksos (Mel), and Ren sleeping on the train on their way
+The chapter ends with Fera, Naksos (Mel), and Ral sleeping on the train on their way
 to the refugee camp.
 
 ...
 
-Fera and Ren go to the Driads to ask for help with Mel. They spend the
+Fera and Ral go to the Driads to ask for help with Mel. They spend the
 night. Fera feels very cold. The Driad do not use fire. She did not eat
-much of the food and now is hungry. Ren hugs her to keep her warm. Fera
-complains but secretly enjoys physical contact with Ren. They arrive at the
+much of the food and now is hungry. Ral hugs her to keep her warm. Fera
+complains but secretly enjoys physical contact with Ral. They arrive at the
 Lunker city. They meet Nil and Oil. Fera thinks the boat ride is a trap, but
 decides to go anyway. Nil and Oil act as tour guides. Fera enjoys the boat ride
-with Ren, even though she does not want to admit it. The boat is pulled between
+with Ral, even though she does not want to admit it. The boat is pulled between
 the two sides of the lake by a rope. The water level drops until the boat is on
-the bottom of a ravine. A door opens. The air that rushes out seems to make Ren
+the bottom of a ravine. A door opens. The air that rushes out seems to make Ral
 sick. His body abandons preparation for pregnancy causing him to bleed from his
 crotch. His skin turned pitch black, his feet sprouted roots and membranes out
-under his arm and in between his legs and fingers. Fera drags Ren away, but
+under his arm and in between his legs and fingers. Fera drags Ral away, but
 feels powerless to help him. Fera looked up. Climbing out of the pit would take
-a long time. She decided to go through the door. Whatever made Ren sick came
+a long time. She decided to go through the door. Whatever made Ral sick came
 from inside there. Maybe there was some clue inside? Fera took a deep breath
 and drew an arrow. Holding her bow up with nocked arrow at ready, Fera passed
 through the door.
@@ -934,7 +934,7 @@ clenched fist.
 "Good, the first mission is reconnaissance. Do you have any allies that could
 help us with the resurgence?"
 
-"Allies?" Fera realized she forgot about Ren. "There's Ren. He's outside. He's
+"Allies?" Fera realized she forgot about Ral. "There's Ral. He's outside. He's
 sick."
 
 "He got sick as soon as you opened the door?"
@@ -970,15 +970,15 @@ When they got outside.
 
 "If you get near him, he will get worse. Unia will refill the lake. Then we can pull him in with the rope."
 
-"So we're not getting in the boat with Ren?"
+"So we're not getting in the boat with Ral?"
 
 "No, being near us could kill him. Tell him to get in the boat. If he doesn't, he's going to die."
 
-"Ren, can you hear me?"
+"Ral, can you hear me?"
 
-Ren moaned. His eyes were half closed.
+Ral moaned. His eyes were half closed.
 
-"Ren, you need to go back to the boat."
+"Ral, you need to go back to the boat."
 
 "Maybe we should leave him. He doesn't look like he would be a useful comrade anyway."
 
@@ -986,30 +986,30 @@ Ren moaned. His eyes were half closed.
 
 "Does he float? Maybe he doesn't need to be in the boat?"
 
-"Ren, listen to me. If you die here, Arla will left all alone."
+"Ral, listen to me. If you die here, Arla will left all alone."
 
-Ren's eyes opened wider.
+Ral's eyes opened wider.
 
 "If you don't make it out of here, your parents will have died for nothing."
 
-Ren sobbed and rolled over on his stomach, ripping out the roots that connected
+Ral sobbed and rolled over on his stomach, ripping out the roots that connected
 his feet with the ground.
 
 "If you don't get on that boat, I'm going to find Arla and tell her that you
 gave up on her. She'll know that your parents' sacrifice didn't mean anything
 to you."
 
-Ren started crawling, but stopped and threw up onto the ground in front of him.
+Ral started crawling, but stopped and threw up onto the ground in front of him.
 
-"If you don't keep moving, I swear I'll kill her, Ren! I'll tell her you gave
+"If you don't keep moving, I swear I'll kill her, Ral! I'll tell her you gave
 up and then she's going to die knowing that you didn't care enough about her to try."
 
-Ren crawled through his own vomit up to the boat.
+Ral crawled through his own vomit up to the boat.
 
-"If you don't get in that boat, she's as good as dead, Ren. You know I'll do
+"If you don't get in that boat, she's as good as dead, Ral. You know I'll do
 it. You know me. I won't hesitate. I'll enjoy it."
 
-Ren brought himself up just barely enough to roll into the boat and hit the
+Ral brought himself up just barely enough to roll into the boat and hit the
 floor like a bag of potatoes.
 
 Eiva started to clap. "Well done. You knew exactly what to say to motivate him.
@@ -1021,14 +1021,14 @@ climbing or we're going to get wet."
 "I will transfer command to you after you can best me in
 grappling, archery, and knife combat." "I already beat you in knife combat."
 Eiva laughed again. "Your training hasn't even started yet." "When do we
-start?" "First, we need to do some." Fera forgets about Ren.
+start?" "First, we need to do some." Fera forgets about Ral.
 Fera and Eiva climb out using the rope connected to the boat then use the rope
-to lift Ren out. Fera is suprised that she can climb so well. She thinks Ren is
+to lift Ral out. Fera is suprised that she can climb so well. She thinks Ral is
 extremely light, but the truth is she has become extremely strong. The AI
 closes the lake to visitors and only gives Fera and Eiva access. On the train
-to the refugee camp, Fera is angered when Ren continues to cry over losing the
+to the refugee camp, Fera is angered when Ral continues to cry over losing the
 pregnancy and feeling sick in the presence of Fera and Eiva. Fera and Eiva move
-away from Ren. They snuggle up together. Fera says she feels weird sleeping
+away from Ral. They snuggle up together. Fera says she feels weird sleeping
 next to Eiva. Eiva tells her to shut up and enjoy it, which Fera does.
 
 "What the hell is this romantic subplot nonsense?"
@@ -1052,7 +1052,7 @@ Love' novel, but we need to make an impact."
 
 "Reine des os, but that's Queen of Bones, not Bone Queen."
 
-"Ren Dezo? I like how that sounds! That's Ancient French, right?"
+"Ral Dezo? I like how that sounds! That's Ancient French, right?"
 
 "Yes, but we just called it French. It would be great if you could too. You're
 making me feel ancient."
