@@ -46,14 +46,14 @@ Aira and Lan are taken by the government.
 Kransal is indifferent to Aira being taken. He says that she lied to him about
 being a Lunker.
 
-Fera, Ron, and Naksos arrive at the refugee camp. Fera promises everyone that she
+Fera, Ern, and Naksos arrive at the refugee camp. Fera promises everyone that she
 has no idea how the government got Sinistrae nanotech or figured out how to use
 it to detect mimics. As proof that she has nothing against mimics, she offers
 to help rescue Aira and Lan. She tells Kaia and Sata that the only way
 to rescue them is to accept Sinistrae nanotech. Zek also agrees to help. They
 go in teams.
 
-- Ben, Edl, and Ron
+- Ben, Edl, and Ern
 - Zek, Ursa, and Iona
 - Kaia, Sata, and Fera
 
@@ -64,18 +64,18 @@ nanotech?
 Aira and Lan are already dead when they find them at the government detention
 center.
 
-Ron is heartbroken when he finds out that Aira was pregnant with Kransal's
+Ern is heartbroken when he finds out that Aira was pregnant with Kransal's
 child.
 
-Kaia comforts Ron and he imprints on her.
+Kaia comforts Ern and he imprints on her.
 
-Ron begins working on a way to adapt mimics to Sinistrae nanotech. He goes to
+Ern begins working on a way to adapt mimics to Sinistrae nanotech. He goes to
 work at Ben and Edl's parents' company. After he solves it, he starts
 distributing the inoculation to mimics everywhere. He secretly hatches a plan
 to destroy the government and Dextrae companies. He sabotages PeoplePrinters
 around the world and starts replacing people with dopplegangers who say they
 are loyal to the Dust Queen on Mars to make it seem like she is interfering
-with the network in the same way she is with the signals reaching Kaia. Ron
+with the network in the same way she is with the signals reaching Kaia. Ern
 goes to the capsule to ask Fera, Kaia, and Sata for help with distributing the
 inoculations to mimics hiding underground.
 
