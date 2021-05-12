@@ -292,40 +292,43 @@ Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Ron live in the
 Lunker city while planning to rescue Aira and Lan. They see Fera is preparing
 an army to fight against the government and believe her when she says that she
 had nothing to do with Aira and Lan's kidnapping. They agree to let Fera and
-Eiva join them on the rescue mission. The protagonists use a submarine to
-infiltrate Krakovia via the Viswa river to avoid the World Heritage robots.
-They pass the Vavel Dragon and enter the castle through its cave. Inside the
-government facility, they move stealthily. The protagonists are bathed in
-spotlights and surrounded by heavily armed soldiers. They surrender and are
-shocked into submission but when Kaia sees Sata being shocked and is shocked
-herself, she has a vision of the Pulverulent Goddess and destroys all of the
-soldiers' weapons and powersuits killing them all. Everyone is impressed with
-Kaia's power, but Kaia is horrified by what she did. Ben is scientifically
-interested in Kaia's power. Eiva says that Kaia's power would have changed the
-outcome of the Dextrae-Sinistrae war. As they search for Lan and Aira, they are
-attacked by GES. Kaia blinds the GES but they find their opponents with
-echolocation and use screams to incapacitate anyone within range. When they
-scream, they cannot use echolocation, because they have to close their
-sensitive ears. Kaia, Sata, and Ron find a child covered in blood who looks
-exactly like Lan. They find Lan's body and see that Lan recently gave birth to
-the child who is a mimic warrior. Zok breaks down crying when he sees Lan. Lan
-had been starved for a long time, his skin was black, his membranes was
-extended to catch the light, and his feet had sprouted roots. Lan had been
-partially eaten by the mimic child. The blood covering the child was Lan's. Ron
-says that it should be impossible for Lan to produce a mimic warrior in such a
-short time and that the child is because of government experiments. The child
-looks exactly like a childlike mix of Lan and Zok. They take the child with
-them, but Ron tells them not to become attached to the child because it only
-lives to kill (despite this Ron has trouble following his own advice and
-eventually becomes very attached to the child). Mimic warriors are genderless
-and cannot reproduce. The child would never learn to speak or develop
-intelligence and therefore they should not give it a name (Does the nameless
-child develop intelligence and learn to speak? Does it become a non-binary
-character? Anything is possible right? Maybe with tech the mimic warrior can
-become intelligent. Does the mimic warrior develop into a hermaphrodite
-parasite thanks to the messages sent by distant mimic civilizations? Does it
-slaughter everyone in refugee camp? No, the mimic child becomes a conduit for
-the nearby nascent mimic civilization. More on this later).
+Eiva join them on the rescue mission. Fera recruits Nora, a Subak princess, to
+help them gain access to the castle via the Viswa river, the protagonists use
+scuba diving equipment to infiltrate Krakovia via the Viswa river to avoid the
+World Heritage robots. The Subaks escort them in the water but refuse to
+continue on to dry land. The protagonists pass the Vavel Dragon and enter the
+castle through its cave. Inside the government facility, they move stealthily.
+The protagonists are bathed in spotlights and surrounded by heavily armed
+soldiers. They surrender and are shocked into submission but when Kaia sees
+Sata being shocked and is shocked herself, she has a vision of the Pulverulent
+Goddess and destroys all of the soldiers' weapons and powersuits killing them
+all. Everyone is impressed with Kaia's power, but Kaia is horrified by what she
+did. Ben is scientifically interested in Kaia's power. Eiva says that Kaia's
+power would have changed the outcome of the Dextrae-Sinistrae war. As they
+search for Lan and Aira, they are attacked by GES. Kaia blinds the GES but they
+find their opponents with echolocation and use screams to incapacitate anyone
+within range. When they scream, they cannot use echolocation, because they have
+to close their sensitive ears. Kaia, Sata, and Ron find a child covered in
+blood who looks exactly like Lan. They find Lan's body and see that Lan
+recently gave birth to the child who is a mimic warrior. Zok breaks down crying
+when he sees Lan. Lan had been starved for a long time, his skin was black, his
+membranes was extended to catch the light, and his feet had sprouted roots. Lan
+had been partially eaten by the mimic child. The blood covering the child was
+Lan's. Ron says that it should be impossible for Lan to produce a mimic warrior
+in such a short time and that the child is because of government experiments.
+The child looks exactly like a childlike mix of Lan and Zok. They take the
+child with them, but Ron tells them not to become attached to the child because
+it only lives to kill (despite this Ron has trouble following his own advice
+and eventually becomes very attached to the child). Mimic warriors are
+genderless and cannot reproduce. The child would never learn to speak or
+develop intelligence and therefore they should not give it a name (Does the
+nameless child develop intelligence and learn to speak? Does it become a
+non-binary character? Anything is possible right? Maybe with tech the mimic
+warrior can become intelligent. Does the mimic warrior develop into a
+hermaphrodite parasite thanks to the messages sent by distant mimic
+civilizations? Does it slaughter everyone in refugee camp? No, the mimic child
+becomes a conduit for the nearby nascent mimic civilization. More on this
+later).
 
 After Kaia sees that Aira and Lan are dead, she has a vision but the octoculus
 saves her again and guides her to hiding scientist. The scientist takes Kaia to
@@ -343,27 +346,27 @@ tentacles around her body. When Kaia and Ron regroup with the other
 protagonists, Kaia tells them not to ask questions about the octoculus on her
 shoulder.
 
-When they go out through the cave, they see their submarine destroyed by an
-airstrike and the cave entrance is surrounded by giant robots. A soldier with a
-gigaphone tells them surrender or they will destroy the base with airstrikes.
-The protagonists retreat back into the cave and try to come up with a plan.
-Everyone tries to convince Kaia to use her power, but she does not want to kill
-anyone else. She is still shocked by the fact that Aira and Lan are dead. The
-octoculus gives her calming visions and chemical support. Ben tries to shock
-Kaia with his stunStaffs, but the Iona, Ursa, Zek, and Zok stop him. The
-protagonists fight (Ben, Edl, Fera and Eiva vs. Ursa, Iona, Zek, and Zok). Zek
-blinds Edl, but the Sinistrae are still able to overpower the Dextrae, because
-Zek cannot blind them and the Sinistrae sap the strength of Zok, Ursa, and
-Iona. Ursa and Zok are not able to wield energy effectively. The blows they
-land are absorbed by the bone armor that Eiva and Fera wear. Zek tries to land
-a blow with his knives and snakes, but Eiva and Fera are stronger and faster.
-While everyone is distracted, Ben uses one of his stunStaffs on Kaia and
-studies her response. Edl holds Sata and Ron back, because Ben told him to do
-so. Sata cries as Kaia is shocked repeatedly. The stunStaff explodes, blowing
-off Ben's hand. Kaia, as the Pulverulent Goddess, destroys all of the giant
-robots and the protagonists are buried inside the cave when the entrance
-collapses from the explosions caused by detonating fuel cells of the giant
-robots.
+When they go out through the cave, they see that the Subaks left them a
+submarine as planned, but then the submarine is destroyed by an airstrike and
+the cave entrance is surrounded by giant robots. A soldier with a gigaphone
+tells them surrender or they will be destroyed. The protagonists retreat back
+into the cave and try to come up with a plan. Everyone tries to convince Kaia
+to use her power, but she does not want to kill anyone else. She is still
+shocked by the fact that Aira and Lan are dead. The octoculus gives her calming
+visions and chemical support. Ben tries to shock Kaia with his stunStaffs, but
+the Iona, Ursa, Zek, and Zok stop him. The protagonists fight (Ben, Edl, Fera
+and Eiva vs. Ursa, Iona, Zek, and Zok). Zek blinds Edl, but the Sinistrae are
+still able to overpower the Dextrae, because Zek cannot blind them and the
+Sinistrae sap the strength of Zok, Ursa, and Iona. Ursa and Zok are not able to
+wield energy effectively. The blows they land are absorbed by the bone armor
+that Eiva and Fera wear. Zek tries to land a blow with his knives and snakes,
+but Eiva and Fera are stronger and faster. While everyone is distracted, Ben
+uses one of his stunStaffs on Kaia and studies her response. Edl holds Sata and
+Ron back, because Ben told him to do so. Sata cries as Kaia is shocked
+repeatedly. The stunStaff explodes, blowing off Ben's hand. Kaia, as the
+Pulverulent Goddess, destroys all of the giant robots and the protagonists are
+buried inside the cave when the entrance collapses from the explosions caused
+by detonating fuel cells of the giant robots.
 
 - 10: Honesty is the best policy
 
@@ -736,44 +739,56 @@ reason Fera is able to live in the castle is because she has assumed control of
 the government as the world's top social media and most affluent corporate
 executive. Fera has Kaia pose for videos with her baby. Fera's fans love that
 she appears to have two wives, each with a baby, and no need for a husband.
-Fera asks Kaia to sit with her baby while Fera accepts ambassadors and
-dignitaries. Eiva sits on the other side of Fera. The Mungs refer to Fera as
-Omai, The Goddess of Fertility, Women, Mothers, and Children. The Dextrae are
-afraid of Kaia's powers. Fera grants sovereignty to the Driads, the Lunkers,
-the Mungs, the Subaks, and the Free Citizens of Space (formerly Space
-Prisoners), even though her advisors tell her that freeing the prisoners is a
-bad idea and giving them sovereignty is even worse because they are at the top
-of a large gravity well and might develop the capacity to attack Earth. Fera
-not only gives them sovereignty, but also seats in a new branch of government.
-In this new branch of government, Arba represents the Driads, Daka represents
-the Mungs, The Space Captain represents the Free Citizens of Space, Ben
-represents Scenders, Kaia represents Echos, the Subaks are represented by
-Akwafinanora, Iona represents Thelusians, Ron (who is followed everywhere by
-the mimic child) represents mimics, and Fera represents Sinistrae (no one
-represents Dextrae). Fera names herself the Bonebreaker Empress (Imperatix
-Ossifraga) and has her own fifth branch of government as well as veto power
-over the other four branches of government. She installs a puppet on the fourth
-branch of government, a Zeppelinomad, who is the last of his kind. Fera uses
-her new found wealth to buy condos (and other types of housing) and provides
-interest free loans to her followers so they can rent the condos from her. This
-gains Fera even more followers. The World Heritage robots were recalled on
-Fera's orders. The people in the refugee camp, Driads, and Lunkers are allowed
-to settle in Krakovia for free as long as they swear fealty to Fera. Fera
-begins to amass an army in Krakovia and plans an invasion of Mars, hoping that
-Kaia's powers will allow her to secure victory.
+Fera asks Kaia to sit next Fera while Fera accepts ambassadors and dignitaries.
+Eiva sits on the other side of Fera. Both Eiva and Kaia are holding their
+babies. The Mungs refer to Fera as Omai, The Goddess of Fertility, Women,
+Mothers, and Children, because she has two wives, two children, and no husband.
+The Dextrae are afraid of Kaia's powers. The Space Captain arrives to ask Fera
+to free the prisoners. D͡zaa and Daka ask for sovereignty for the Mungs. Nora
+asks for sovereignty for the Subaks and a treaty that promises to protect the
+oceans. Arba comes to ask for sovereignty for the Driads and protection for the
+forests. Fera grants sovereignty to the Driads, the Lunkers, the Mungs, the
+Subaks, and the Free Citizens of Space (formerly Space Prisoners), even though
+her advisors tell her that freeing the prisoners is a bad idea and giving them
+sovereignty is even worse because they are at the top of a large gravity well
+and might develop the capacity to attack Earth. Fera not only gives them
+sovereignty, but also seats in a new branch of government. In this new branch
+of government, Arba represents the Driads, Daka represents the Mungs, The Space
+Captain represents the Free Citizens of Space, Ben represents Scenders, Kaia
+represents Echos, the Subaks are represented by Norafinaakwa, Iona represents
+Thelusians, Ron (who is followed everywhere by the mimic child) represents
+mimics, and Fera represents Sinistrae (no one represents Dextrae, but Fera has
+Dextrae army generals report to her and advise her. She fears that they are
+planning a coup and might start another Dextrae-Sinistrae War). Fera names
+herself the Bonebreaker Empress (Imperatix Ossifraga), creates a fifth branch
+of government called the imperialInstitute (Fera doesn't care what it's
+called), as well as veto power over the other four branches of government. She
+installs a puppet on the fourth branch of government (autochthonAssembly), a
+Zeppelinomad, who is the last of his kind. This way, in addition to her own
+vote and veto power, Fera has sway over most of the other voting members of the
+autochthonAssembly: Kaia, the Zeppelinomad, Ben (who is still in love with
+Fera), Iona, Arba, and perhaps others. Fera uses her new found wealth to buy
+condos (and other types of housing) and provides interest free loans to her
+followers so they can rent the condos from her. This gains Fera even more
+followers. The World Heritage robots were recalled on Fera's orders. The people
+in the refugee camp, Driads, and Lunkers are allowed to settle in Krakovia for
+free as long as they swear fealty to Fera. Fera begins to amass an army in
+Krakovia and plans an invasion of Mars, hoping that Kaia's powers will allow
+her to secure victory. What if she never sees Sata again? Kaia filled with
+doubts about being to rescue Sata: rescue her from where? What if the visions
+consume her?
 
-Her son scares her when he says the he has three
-mommies, one on Earth (Kaia), one on Mars (the Dust Goddess), and one in the
-Scenderverse (Ursa). That he has two daddies, one in the Scenderverse (Zok) and
-the other one on Mars (Zek). He feels very lucky to have so many parents. Her
-son explains that the dreams are coming from Mars, and that they are not bad
-dreams, but rather reminders that they need to go to Mars. If they do not go to
-Mars, then the mommy on Mars will be very mad and the reminders will become
-more and more powerful. Kaia thinks that the dreams are different for her son.
-He welcomes the dreams. Kaia is being destroyed by them. If she does not get to
-Mars, she will go mad. She had no idea how to get Sata back or make it
-Mars, so she just has to survive until Fera makes good on her promise to
-reclaim Mars.
+Her son scares her when he says the he has three mommies, one on Earth (Kaia),
+one on Mars (the Dust Goddess), and one in the Scenderverse (Ursa). That he has
+two daddies, one in the Scenderverse (Zok) and the other one on Mars (Zek). He
+feels very lucky to have so many parents. Her son explains that the dreams are
+coming from Mars, and that they are not bad dreams, but rather reminders that
+they need to go to Mars. If they do not go to Mars, then the mommy on Mars will
+be very mad and the reminders will become more and more powerful. Kaia thinks
+that the dreams are different for her son. He welcomes the dreams. Kaia is
+being destroyed by them. If she does not get to Mars, she will go mad. She had
+no idea how to get Sata back or make it Mars, so she just has to survive until
+Fera makes good on her promise to reclaim Mars.
 
 Kaia has a vision of Sata and is able to communicate with her thanks to her
 son. Sata's final memories were of their daughter dying and going back to
@@ -799,16 +814,6 @@ happiness. "Earth Mommy will feel better once she stops fighting with Mars
 Mommy. Mars Mommy just wants to help. Mars Mommy will show Earth Mommy how to
 find her friend. Earth Mommy will be so happy." Kaia took a deep breath, closed
 her eyes, and let the dust consume her.
-
-
-
-but that the Goddess will share
-her immediate plans with Kaia as a way to earn her trust. First, they will
-bring back Sata, Ursa, Zek, and Noia. Then, Ursa will be impregnated with Zek.
-The first book ends with Kaia filled with doubts about being to rescue Sata
-(rescue her from where?). She needed some kind of leverage over Fera (but could
-she do? Fera seems to be in complete control). What if she never sees Sata again? What
-if the visions consume her? 
 
 ## Fera's deception.
 
@@ -839,14 +844,23 @@ conscientious.
 
 ## Book 2
 
-The first book ends before Fera consolidates control over Earth, so there is a
-question of whether there will be a war between Sinistrae and Dextrae again and
-what role Kaia and her baby will play in that war. In the second book, Fera
-makes plans to consolidate power over Earth and invade Mars. Fera explains that
-Kaia is integral to her plans of conquering Mars. Fera presents her plan to
-CorporateCouncil, DemocraticDelegation, and the eternalEnlighted. Fera is made
-a general and given command of the joint armies of Earth. Ron follow through
-with his plan of allowing the new mimics infiltrating Earth through the
+The Goddess plans to bring back Sata, Ursa, Zok, and Noia. Then, Ursa will be
+impregnated with Zek and later Oina. When Zek and Oina grow up, all of the
+Pulvists we know from the first book will be reunited.
+
+The first book ends after Fera consolidates control over Earth, but there are
+still questions about whether there will be a war between Sinistrae and Dextrae
+again and what role Kaia and her baby will play in that war. In the second
+book, Fera deals with politics on Earth and plans to invade Mars. Fera explains
+that Kaia is integral to her plans of conquering Mars. Fera presents her plan
+to corporateCouncil, democraticDelegation, autochthonAssembly, and the
+eternalEnlighted. Fera is given command of the joint Dextrae armies of Earth.
+She has her own scientists and engineers (with the help of Ben, who is still in
+love with Fera) develop Sinistrae energy weapons and spaceships. With the
+prospect finally conquering Mars, the Dextrae do not want risk civil war on
+Earth. Fera knows that fear of Kaia's powers and the promise of taking control
+of Mars are essential to preventing another Dextrae-Sinistrae War. Ron follows
+through with his plan of allowing the new mimics infiltrating Earth through the
 peoplePrinters. When Fera goes to reclaim Mars, she does it with a coalition of
 Sinistrae and Dextrae forces. She has the blessing of the Earth government and
 the forces refer to her as General Fridzia. As soon as the combat begins on
@@ -871,8 +885,8 @@ space with the Mungs and the space prisoners. Fera plans to retake Earth while
 repelling the Martian invasion. The Thelusians are very good at building and
 fighting in space. Fera has to rely on the space expertise of Mungs and the
 space prisoners. Eiva and her daughter escape to space to be with Fera. Kaia
-and her son turn into villains (the second Pulverulent Goddess and the Shade Prince)
-and attack Earth while the Sinistrae fight against the new mimics. The
+and her son turn into villains (the second Pulverulent Goddess and the Shade
+Prince) and attack Earth while the Sinistrae fight against the new mimics. The
 Sinistrae must fight a war on two fronts. The Dextrae firepower on Earth is
 formidable and the Thelusians are experts in using Dextrae for space warfare.
 Everyone starts thinking that the Sinistrae will be crushed. What saves them?
