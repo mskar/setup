@@ -762,6 +762,54 @@ to settle in Krakovia for free as long as they swear fealty to Fera. Fera
 begins to amass an army in Krakovia and plans an invasion of Mars, hoping that
 Kaia's powers will allow her to secure victory.
 
+Her son scares her when he says the he has three
+mommies, one on Earth (Kaia), one on Mars (the Dust Goddess), and one in the
+Scenderverse (Ursa). That he has two daddies, one in the Scenderverse (Zok) and
+the other one on Mars (Zek). He feels very lucky to have so many parents. Her
+son explains that the dreams are coming from Mars, and that they are not bad
+dreams, but rather reminders that they need to go to Mars. If they do not go to
+Mars, then the mommy on Mars will be very mad and the reminders will become
+more and more powerful. Kaia thinks that the dreams are different for her son.
+He welcomes the dreams. Kaia is being destroyed by them. If she does not get to
+Mars, she will go mad. She had no idea how to get Sata back or make it
+Mars, so she just has to survive until Fera makes good on her promise to
+reclaim Mars.
+
+Kaia has a vision of Sata and is able to communicate with her thanks to her
+son. Sata's final memories were of their daughter dying and going back to
+Vielit͡ʂka. She does not remember being sick and dying. Kaia resolves to bring
+back Sata no matter the cost. Ron promises to help Kaia, because he is in love
+with both Sata and Kaia, and no longer loves Fera. Iona promises to help Kaia
+bring back Sata if they also bring back Zek, Zok, Iona, and Ursa. Kaia agrees.
+The Dust Goddess appears to Kaia and says that she will help Kaia bring back
+Sata, but Kaia must be prepared to pay the price. Kaia asks what the price is,
+but she realizes that she will pay any price. The Dust Goddess says that Kaia
+must stop resisting, embrace the Dust Goddess, and do her bidding forever. Kaia
+asks if the Dust Goddess will hurt Sata. The Dust Goddess says that Kaia and
+Sata are beloved by the Goddess and that the Goddess wants to see Kaia and Sata
+together for eternity. Kaia says that she is not sure how everything could have
+gone so terribly wrong. The Dust Goddess says that she is not sure what Kaia
+means because from the Goddess's perspective everything is going exactly as
+planned. Kaia asks how she be certain that Goddess is not trying to trick her.
+The Goddess says that Kaia does not have a choice. With Kaia's deteriorating
+mental state, she felt trapped and helpless. When Kaia cried, so did the souls
+off her Martian brethren. Kaia wept and the souls wept. When Kaia was done
+crying, she looked at her son, who was overjoyed. He could not contain his
+happiness. "Earth Mommy will feel better once she stops fighting with Mars
+Mommy. Mars Mommy just wants to help. Mars Mommy will show Earth Mommy how to
+find her friend. Earth Mommy will be so happy." Kaia took a deep breath, closed
+her eyes, and let the dust consume her.
+
+
+
+but that the Goddess will share
+her immediate plans with Kaia as a way to earn her trust. First, they will
+bring back Sata, Ursa, Zek, and Noia. Then, Ursa will be impregnated with Zek.
+The first book ends with Kaia filled with doubts about being to rescue Sata
+(rescue her from where?). She needed some kind of leverage over Fera (but could
+she do? Fera seems to be in complete control). What if she never sees Sata again? What
+if the visions consume her? 
+
 ## Fera's deception.
 
 Fera replaced the consciousnesses of Zok, Noia, Ursa, and Sata with warped
@@ -778,30 +826,6 @@ measure. I thought that if we were in trouble again we could jump in the water
 and the sharks would protect us." The prospect of repeatedly fighting the
 Scenders and the intensification of the visions force Kaia back to Fera. - 14:
 Take your time
-
-Kaia has a vision of Sata and is able to communicate with her thanks to
-her son. The conversation proves that Fera had been lying. Sata has final
-memories were of their daughter dying and going back to Vielit͡ʂka. Kaia
-resolves to bring back Sata no matter the cost. Ron promises to help Kaia,
-because he is in love with both Sata and Kaia, and no longer loves Fera. Iona
-promises to help Kaia bring back Sata if they also bring back Zek, Zok, and
-Ursa. Kaia agrees. The first book ends with Kaia filled with doubts about being
-to rescue Sata (rescue her from where?). She needed some kind of leverage over
-Fera (but could she do? Fera seems to be in complete control). With Kaia's
-deteriorating mental state, she felt trapped and helpless. What if she never
-sees Sata again? What if the visions consume her? Her son scares her when he
-says the he has three mommies, one on Earth (Kaia), one on Mars (the Dust
-Goddess), and one in the Scenderverse (Ursa). That he has two daddies, one in the
-Scenderverse (Zok) and the other one on Mars (Zek). He feels very lucky to have
-so many parents. Her son explains that the dreams are coming from Mars, and
-that they are not bad dreams, but rather reminders that they need to go to
-Mars. If they do not go to Mars, then the mommy on Mars will be very mad and
-the reminders will become more and more powerful. Kaia thinks that the dreams
-are different for her son. He welcomes the dreams. Kaia is being destroyed by
-them. If she does not get to Mars, she will go mad. She does not have the means
-to rescue Sata or make it Mars, so she just has to survive until Fera makes
-good on her promise to reclaim Mars. Kaia decides that she must bide her time
-and wait for an opportunity to force Fera to release Sata.
 
 ### Contrast: Fera and Eiva versus Kaia and Sata
 
