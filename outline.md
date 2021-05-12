@@ -204,12 +204,19 @@ The chapter ends with Fera beginning to tell them her story.
     - he says that everything he did was out of love for his wife and that he will make her
       - immortal
       - incredibly powerful
+      - a deity
     - After the procedure is complete, the Dust Goddess's body is completely destroyed
     - The Dust Goddess is reborn in a new heavenly form and says that she will kill the husband
     - The husband says that he does not mind, because he
       - is immortal and
-      - he will return in another form to do her bidding
+      - he will return in another form to worship her and do her bidding
     - The Dust Goddess then kills the remaining Martians out of mercy and rules over the remaining Thelusians
+    - Every two decades the husband returns
+      - he asks the Dust Goddess for forgiveness and then she kills him
+    - The curtain draws in front of the Dust Goddess
+      - on her throne made of metallic tendrils
+      - surrounded by Thelusian warriors
+  - The play triggers Kaia's connection to the past and she relives the events recounted in the play
   - Again, the performance is sponsored by Reli Corp and there are ads for Detox Sticks everywhere
   - Aira performs in front of Taz and the entire refugee camp. Taz proposes.
   - Kaia is struck by how handsome Taz is (baby-faced with a neat white beard)
