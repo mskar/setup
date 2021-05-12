@@ -117,16 +117,30 @@ End: Kaia and Sata watch the airship wreckage together while holding hands.
   - Ursa and Iona join in on the game. Zek invites Kaia to train with him. Sata tags along.
   - Sata and Kaia are beaten up by Pyr and his Posse
   - Zek, Iona, and Ursa show up and take them to the infirmary
-
-- 05: A great way to make friends
-
   - Everyone visits Kaia and Sata in the infirmary
   - Kaia watches the remembrance ceremony with Sata in the infirmary
-  - Fera shows up and begins to tell her story
+  - A woman in a black veil and ornate dress starts laughing during Ben's speech
+  - Fera shows up wearing
+    - a black mourning veil
+    - an blue and green ornate lolita dress
+    - La Calavera Catrina-style face makeup
+    - a black lace gloves with bones sown into the top
+  - Fera raises a begloved hand, points at Kaia says
+    - that Kaia and Sata are responsible for her death and
+    - that she is going to haunt them until they die, which won't be very long from now
+  - Kaia and Sata recognize that its Fera and think that she is a ghost
+  - Fera lets out a blood-curdling laugh as she
+    - pulls out knives made of bone from her sleeves
+    - advances slowly towards Kaia and Sata
+    - says she can't decide which one she will dissect first
+  - Kaia and Sata
+    - throw pillows at Fera, which she slashes in midair
+    - look for a weapon or something that can slash the fabric of the tent
+    - run into a corner
+  - A bone knife slides through the fabric behind them and another Fera walks through the opening
+  - Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the Fera
 
-The chapter ends with Fera beginning to tell them her story.
-
-- 06: Never looked better:
+- 05: Never looked better
 
   - Eagles save Ral, Fera, and Mel
   - The Driads help them
@@ -134,8 +148,8 @@ The chapter ends with Fera beginning to tell them her story.
   - Fera agrees to grant sovereignty to the Driads in exchange for their help in the revolution
   - Fera and Ral go into Kosciuszko Cavern and meet Nil and Oil
   - Nil and Oil want to guide them to them to Wessel lake
-  - They go out through Tvardovski Cave near Zakrzówek
-  - They walk by the crashed airship and head to Muʂa cave and then get on a train to Wieliczka
+  - They go out through Twardowski Cave near Zakrzówek
+  - They walk by the crashed airship and head to Musza cave and then get on a train to Wieliczka
   - The whole Wessel lake tourist attraction is reserved just for them
   - When Fera and Ral are in the middle of the lake, the water begins to disappear
   - At the bottom of the lake, they see a door. When they approach, the door opens and Ral gets sick
@@ -146,6 +160,14 @@ The chapter ends with Fera beginning to tell them her story.
       - messing with DOS users and recording their reactions
       - writing smutty girls' love science fiction novels
   - Fera and Eiva fight and then go save Ral
+  - Before saving Ral they put on
+    - skinScabbards with a total of 40 bone knives
+    - black lace gloves with bones sown into the tops
+      - five metacarpals on the backs of their hands
+      - fourteen phalanges on top of their fingers
+      - the gloves
+        - protect their hands
+        - store energy, like the gloves Ursa uses, that is released when they punch someone or something
   - Fera motivates Ral to get in the boat
   - Fera tells Ral that he's never looked better
   - Fera and Eiva climb up the rope as the AI refills the lake
@@ -153,6 +175,8 @@ The chapter ends with Fera beginning to tell them her story.
   - Fera agrees to grant sovereignty to the Lunkers in exchange for their help in the revolution
     - asks Fera if she will grant sovereignty to the Lunkers after Fera overthrows the government
     - says the AI told him where to find her (she asks him about this suspiciously)
+  - Ral had to by train tickets for Fera and Eiva because tech does not work for them anymore
+  - The Lunker train took them to Musza cave in Zakrzówek and they walk to Twardowski Cave
   - This time, when they pass by Zakrzówek, they are approached by Nora, who
     - is a Subak Princess
     - asks if Fera will grant sovereignty to the Subaks after Fera overthrows the government
@@ -161,16 +185,34 @@ The chapter ends with Fera beginning to tell them her story.
   - Fera agrees to grant sovereignty to the Subaks in exchange for their help in the revolution
   - Eiva asks if it is wise to agree to grant sovereignty to everyone
   - Fera answers that she can always change her mind and brutally oppress everyone later
-  - Fera goes to the refugee camp in disguise, where she
+  - They go under the Vistula River via an underground cave system (Twardowski Cave to Kościuszko Cave)
+  - They walk from Kościuszko Cave to the refugee camp
+  - Fera finds out that everyone thinks she is dead
+  - Fera walks around the refugee camp in disguise
+  - She uses money she given to her by the AI to buy
+    - fancy food and drink
+    - matching outfits for her and Eiva so they can look like Catrina's at the remembrance ceremony
     - hears about what Pyr did and breaks his arms, but also
-    - tells Pyr that his father is alive and well living with Driads
+      - Fera barely enjoys breaking Pyr's arms and almost feels sorry for him
+      - Is this what growing up feels like?
+    - tells Pyr that his father is alive and well, living with Driads
     - attends her own funeral and laughs really loudly when Ben idolizes her
     - visits Kaia and Sata in the hospital
 
 - 07: Forgive and forget
-  - Fera ends her story
-  - Ral had to by train tickets for Fera and Eiva because tech does not work for them anymore
-  - The Lunker train took them straight to the refugee camp
+  - "Look at them. Ready to fight for their lives. They're so cute," Eiva said.
+  - "You couldn't say one thing without breaking out of character?" Fera asked.
+  - "I couldn't help it; they're just too cute. Can we keep them?" Eiva asked.
+  - "You mean like pets?" Fera asked.
+  - "Yes, we can take them for walks, give them belly rubs and kisses..."
+  - "This isn't funny, Fera."
+  - "You'd appreciate it more if you could see the looks on your faces."
+  - "If only you had seen the look on Pyr's face when I broke his arms!" Fera said laughing.
+  - "It was quite humorous when I broke his humerus!" Fera said laughing even harder.
+  - "I love it when Fera laughs at her own jokes, especially if she's the only one laughing." Eiva said.
+  - "Get back into bed, you losers, before Eiva puts collars on you and takes you home with us."
+  - Kaia looked at Sata expecting some kind of lewd joke, but clearly Sata was too tired and achy to joke around
+  - "If you know what's good for you, don't tell anyone I'm alive."
   - That night, Zek trains Kaia in her dreams
   - In her dreams, Kaia's snakes become extensions of her arms
   - The next day Pyr arrives and says that he is sorry
