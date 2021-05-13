@@ -426,7 +426,7 @@ Edl thought deeply about the myriad uses for muscles. "I can play bugBall."
 "Maybe you'd like to play with me sometime?" Ursa asked, winking provocatively
 at Edl.
 
-Edl's face lit up. "Yes! Yes, I would! You can meet me at Iuvenia field
+Edl's face lit up. "Yes! Yes, I would! You can meet me at Juvenia Stadium
 tomorrow morning. I'll be practicing and training from dawn, but you can come
 anytime."
 
@@ -712,29 +712,138 @@ You should keep all of this a secret for now, even from Sata."
 "I don't think Sata would believe any of this. I am not sure I do either.
 Speaking of Sata, maybe we should check on them?"
 
-Ursa is sitting on the bench doing bicep curls while Sata braids her hair. When
-they see Iona and Kaia, Ursa drops the weights and runs over to them with Sata
-following close behind.
+Kaia and Iona walked into Edl's room and saw that Ursa and Sata were already
+awake. Ursa was sitting on the gym bench doing bicep curls while Sata braided
+her hair. When she saw Iona and Kaia, Ursa dropped the weights and ran over to
+them with Sata following close behind. After Sata quizzed them about their
+whereabouts, Ursa pointed to the console and said, "There's a message
+notification for us. We were waiting so we could all watch it together."
 
-Ursa says there's a message notification on the console, but they were waiting
-so they could all watch it together.
+A video of Ben began to play on the walls of the room. "Good morning, I trust
+that you slept well and are ready for your first day in your new home. My
+brother came to me in tears last night and told me about what had happened.
+From what I could piece together, Edl said something to greatly offend Ursa. I
+can assure you that Edl had no intention to offend anyone. I am deeply sorry
+for whatever it was that my brother said. I take full responsibility. I should
+have accompanied you last night to make sure there were no misunderstandings.
+You see, my brother has difficulties understanding social cues. Interactions
+that seem ordinary to us can leave Edl absolutely befuddled. While this cannot
+excuse our error or repair the damage it caused, I hope that this explanation
+will be the first step towards making amends. My brother and I would like to
+apologize to you all, and to Ursa in particular, at your nearest convenience.
+You may find us Juvenia Stadium each morning, in the maker workshop tent each
+afternoon, or at Fera's remembrance ceremony this evening. Please feel free to
+stay in the airship for as long as you like. If you are hungry, please help
+yourselves to anything you like in the kitchen at the end of the hallway.
+I will be looking forward to our next meeting. Sincerely, Benairviz Divites"
 
-A video of Ben began to play on the walls of the room.
+After the video finished playing, Ursa turned to others with her eyes ablaze
+and said, "When we get to Juvenia Stadium, I'm going to kick a bugBall straight
+at Edl's head."
 
-"Good morning, I trust that you slept well and are ready for your first day in
-your new home. My brother came to me in tears last night and told me about what
-had happened. From what I could piece together, Edl said something to greatly
-offend Ursa. I can assure you that Edl had no intention to offend anyone. I am
-deeply sorry for whatever it was that my brother said. It take full
-responsibility. I should have accompanied you last night to make sure there
-were no misunderstandings. You see, my brother has difficulties understanding
-social cues. Interactions that seem ordinary to us can leave Edl absolutely
-befuddled. While this cannot excuse our error or repair the damage it caused, I
-hope that this explanation will be the first step towards making amends. My
-brother and I would like to apologize to you all, and to Ursa in particular, at
-your nearest convenience. You may find us Iuvenia field in the morning, in the
-maker workshop tent in the afternoon, or at Fera's remembrance ceremony this
-evening."
+"Ursa, he didn't mean to offend you," Iona said sharply.
+
+"I know, but it will still make me feel better."
+
+"Let's get breakfast first," Sata said.
+
+The first thing Kaia noticed about the kitchen was a crystal bowl filled with
+fruit in the center of the table. The bowl was attached to the table but there
+was nothing stopping the fruit from flying everywhere in the event of extreme
+turbulence. Kaia walked up to the bowel and picked up a large spiky fruit.
+
+"Is this real?" Kaia asked. She had never encountered fruit with plastic
+packaging before.
+
+"Yes, all of the fruit is real."
+
+Perplexed, Kaia asked, "Do rich people just leave real fruit lying around?"
+
+Sata jumped in before any could answer. "Do they also have bowls of assorted
+precious stones and metals?"
+
+"How do eat this? Cut it? Bite it?"
+
+"That one is a durian, so you would cut it, but you might want to pick a
+different fruit, because durians produce a very strong odor." Ursa said, taking
+the spiky fruit from Kaia and putting it back into the bowl.
+
+Kaia picked a long, curved yellow fruit and looked at Ursa.
+
+"That one you peel."
+
+Kaia looked back and forth between Ursa and the fruit. "How do I peel it?"
+
+Iona stepped up and provided a scientific explanation. "You can either pinch it
+open from the bottom or open it from the top. The majority of emojis show the
+banana open from the top. Here, allow me."
+
+Kaia tried the banana. She had eaten banana chips, which were hard and crunchy,
+and banana puree, which was soft and mushy, but never a whole banana. Sata
+asked for a bite, then proceeded to eat the rest of the banana. Kaia reached
+for another banana.
+
+"Kaia, let's have eggs before we more fruit," Iona said cracking eggs into a
+bowl.
+
+Kaia and Sata watched as Iona prepared breakfast and Ursa put plates, spoons,
+and silverware on the table. Kaia had never seen eggs that did not come in a
+carton. Kaia's first impression of real food was positive, but her heading was
+spinning from all the steps required to prepare it.
+
+Iona sprinkled salt and ground pepper into the eggs and mixed gently, before
+pouring the eggs onto a hot buttered pan. Then, she put bread into the toaster,
+cut open avocados lengthwise, sinking the knife into each avocado pit to remove
+it, diced tomatoes, onions, peppers, and cilantro with amazing speed, throwing
+the diced vegetables into a bowl before adding salt and lime juice and mixing
+vigorously. Finally, Iona sliced the avocado mesocarp lengthwise by running the
+edge of a knife in parallel lines along the inside of the exocarp.
+
+As soon as Iona put the avocados, eggs, and toast on separate plates in the
+middle of the table next to the bowl of diced vegetables, Ursa started
+arranging ingredients on her plate. Ursa put an egg sunny-side down on top of
+toast, ruptured the yolk to let it soak into the toast, and topped the egg with
+three avocado slices and a spoonful of diced vegetables. Kaia and Sata tried
+their best to follow Ursa's lead. The result was divinely delicious.
+
+"Thank you for preparing all this wonderful food, Iona," Kaia said.
+
+"Thank you, Iona," Sata said in between mouthfuls. "Iona, you're not eating?"
+
+"No, I'm fasting," Iona replied while cleaning up and tidying the kitchen.
+
+"Iona, only eats when no one is looking," Ursa said with a smile.
+
+"Should we save you some for later?" Sata asked.
+
+"No need. I can always make more." Iona replied.
+
+Kaia began to wonder if Iona ate at all. Do Thelusians eat?
+
+When they finished eating Kaia and Sata could barely move. "Is it OK if we walk
+arm-in-arm to Juvenia Stadium?" Kaia asked shyly. "I don't think I can walk on
+my own after eating so much delicious food." Everyone agreed that linking arms
+was an excellent idea. The girls walked in a concave shape as Ursa and Iona
+gently pulled Sata and Kaia forward.
+
+Before leaving the airship, Iona pulled out four pairs of sunglasses from a
+compartment and handed them out. The sun outside the airship was shining
+brightly and Kaia was glad the Iona had thought of everything.
+
+"There are lots of people."
+
+"The camp was filled with refugees before our city was destroyed. There is
+simply not enough room for everyone. Most of the new residents still live on
+airships at an ancient airport to the west of the camp."
+
+"So our parents are probably not here yet."
+
+"Yes, they would need special permission to be transferred to the camp. We can
+ask Ben to pull some strings. His family is very influential," Iona answered.
+
+Kaia was a bit disappointed to see that Juvenia Stadium was a field with a few
+rows seats on one side. Zek and Ben were waving at them. Zok and Edl were
+running drills on the field.
 
 Sata and Kaia go to see bugBall practice. Zek, Ben, and them observe the
 practice, while Ursa, Iona, and Edl play. Zek asks if Kaia can help him with

@@ -886,8 +886,8 @@ with a rock." Ursa closed her eyes. "When you're ready, guide me down to the
 water."
 
 Kaia undressed quickly, trying not be distracted by Ursa's impressive physique.
-After putting her clothes next to Ursa's in the bushes, Kaia took Ursa by the
-hand and started walking down toward the water.
+After putting her clothes and goggles next to Ursa's in the bushes, Kaia took
+Ursa by the hand and started walking down toward the water.
 
 "On second thought, let's take the fast way down." Ursa grabbed Kaia from
 behind and picked her up in her arms and started walking towards the cliff.
@@ -966,9 +966,9 @@ their clothes by the time Kaia reached the shore.
 jumpsuit around her shoulders.
 
 "Lemme show you what else I can do." Ursa dropped their clothes a few steps
-behind Kaia, bent her knees, and thrust out her palms towards Kaia. An explosion
-of hot air knocked Kaia back onto the pile of clothes. Ursa caught Kaia by the
-hands to keep her from tumbling backwards.
+behind Kaia, put on her gloves, bent her knees, and thrust out her palms half a
+meter away from Kaia. An explosion of hot air knocked Kaia back onto the pile
+of clothes. Ursa caught Kaia by the hands to keep her from tumbling backwards.
 
 "How did you do that?"
 
@@ -976,7 +976,8 @@ hands to keep her from tumbling backwards.
 
 "Spy training?"
 
-"It's something I was born with, but I had to train to control it. Do you feel less cold now?"
+"It's something I was born with, but I had to train to control it. Do you feel
+less cold now?"
 
 "Yes, that's amazing. You have superpowers! You knocked me back and then caught
 me before I fell. How can you move so fast?"
