@@ -852,8 +852,8 @@ Ben in mid-air and carried him over to the girls. Edl ran up behind Ben and
 they both started to apologize.
 
 Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way I'll
-forgive you is if you win in a four-on-four, girls versus boys bugBall match,
-but if we win, you'll get transfer papers and tents set up for Kaia and Sata's
+forgive you is if you defeat us in bugBall match, four-on-four, girls versus boys.
+If we win, you'll get transfer papers and tents set up for Kaia and Sata's
 families."
 
 Sata immediately objected. "Wait, we've never played bugBall before."
@@ -861,14 +861,22 @@ Sata immediately objected. "Wait, we've never played bugBall before."
 "Well, it's about time you learned," Ursa said.
 
 "The team with the most bunnyBugs at the end wins," Iona explained. "Each team
-starts with one birthBug egg, one brutalizeBug egg, 2 batterBug eggs, 3
-breakBugs, 5 blockBug eggs, 8 baitBugs, 13 buildBugs, and 21
-bunnyBugs."
+starts with 1 birthBug egg, 1 brutalBug egg, 2 bounceBug eggs, 3
+boostBug eggs, 5 baitBugs eggs, 8 breachBug eggs, 13 blockBug eggs, and 21
+bunnyBug eggs."
 
+"I hope those aren't like the eggs we had for breakfast."
+
+- bounceBugs help hatch eggs by bouncing them
+- boostBugs help eggs grow bigger by bouncing them
+- blockBugs are very fast moving sideways but very slow moving forward and back
 "To get started, you need to hit, kick, or bounce the eggs until they hatch."
 
-"The eggs grow by absorbing kinetic energy and pulling carbon from the air."
+"The eggs grow by absorbing kinetic energy, pulling carbon from the air, and consuming grass."
 
+"Ursa, you might want to zip up your flight suit if you don't Kaia's eyes to pop out of her head."
+
+"I don't mind if she looks. You can look too. Take a good look at the bite marks you left."
 
 - All of the bugs have the same genetic code. The only difference between them is which genes are expressed and which genes are silenced.
 - Everyone plays bugBall in Juvenia Stadium, Ral explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
