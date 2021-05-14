@@ -841,9 +841,38 @@ airships at an ancient airport to the west of the camp."
 "Yes, they would need special permission to be transferred to the camp. We can
 ask Ben to pull some strings. His family is very influential," Iona answered.
 
-Kaia was a bit disappointed to see that Juvenia Stadium was a field with a few
-rows seats on one side. Zek and Ben were waving at them. Zok and Edl were
-running drills on the field.
+Kaia was a bit disappointed to see that Juvenia Stadium was just a field with a
+few rows of seats on one side. In the row closest to the field, Ben and Zek
+were both tapping away at consoles located behind the thin barrier separating
+the seats from the field. Zok and Edl were running drills on the field, but
+when Edl noticed the girls, he dropped his bugBall, ran towards them, stopped
+and yelled for his brother. Ben looked up, hopped onto his seat, then jumped
+onto the barrier, and leapt out over the field. Two giants carrierCrows caught
+Ben in mid-air and carried him over to the girls. Edl ran up behind Ben and
+they both started to apologize.
+
+Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way I'll
+forgive you is if you win in a four-on-four, girls versus boys bugBall match,
+but if we win, you'll get transfer papers and tents set up for Kaia and Sata's
+families."
+
+Sata immediately objected. "Wait, we've never played bugBall before."
+
+"Well, it's about time you learned," Ursa said.
+
+"The team with the most bunnyBugs at the end wins," Iona explained. "Each team
+starts with one birthBug egg, one brutalizeBug egg, 2 batterBug eggs, 3
+breakBugs, 5 blockBug eggs, 8 baitBugs, 13 buildBugs, and 21
+bunnyBugs."
+
+"To get started, you need to hit, kick, or bounce the eggs until they hatch."
+
+"The eggs grow by absorbing kinetic energy and pulling carbon from the air."
+
+
+- All of the bugs have the same genetic code. The only difference between them is which genes are expressed and which genes are silenced.
+- Everyone plays bugBall in Juvenia Stadium, Ral explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
+  - "They're not really bunny. We just call them bunnies because they are furry. I looks like a puss caterpillar (Megalopyge opercularis) except its much larger and rolls up in a ball when it feels threatened, which is most of the time when humans are around."
 
 Sata and Kaia go to see bugBall practice. Zek, Ben, and them observe the
 practice, while Ursa, Iona, and Edl play. Zek asks if Kaia can help him with
