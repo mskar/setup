@@ -820,10 +820,10 @@ other and tilted their heads together.
 "We walk together like this because it enhances our night vision," the girl
 explained.
 
-"You two look really cute together," Sata said smiling at them warmly.
+"You two look really cute together," Sata said, smiling at them warmly.
 
 "Ha, I think the night vision enhancement isn't the only reason they can't keep
-their hands off of each other," Fera said laughing.
+their hands off of each other." Fera said laughing.
 
 The boy and the girl separated, looking very embarrassed.
 

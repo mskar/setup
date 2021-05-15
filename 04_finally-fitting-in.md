@@ -856,19 +856,32 @@ forgive you is if you defeat us in bugBall match, four-on-four, girls versus boy
 If we win, you'll get transfer papers and tents set up for Kaia and Sata's
 families."
 
-Sata immediately objected. "Wait, we've never played bugBall before."
+Sata immediately objected. "Wait, we've never played bugBall before. We don't
+even know the rules."
 
 "Well, it's about time you learned," Ursa said.
 
-"The team with the most bunnyBugs at the end wins," Iona explained. "Each team
-starts with 1 birthBug egg, 1 brutalBug egg, 2 bounceBug eggs, 3
-boostBug eggs, 5 baitBugs eggs, 8 breachBug eggs, 13 blockBug eggs, and 21
-bunnyBug eggs."
+Iona began to explain the game. "Each team starts with a certain number of bug
+eggs, depending on the number of players on each team."
 
-"I hope those aren't like the eggs we had for breakfast."
+"Wait, we didn't eat bug eggs for breakfast, right?"
 
-- bounceBugs help hatch eggs by bouncing them
-- boostBugs help eggs grow bigger by bouncing them
+"No, those were bioreactor-grown unfertilized chicken eggs. Unlike chickens,
+bugBall bugs are polymorphic and therefore can vary greatly in size and other
+characteristics."
+
+Ursa noticed Kaia and Sata's confused looks. "There are many different kinds of
+bugs. In small matches like this one, there are only three types: BroodBugs,
+BeastBugs, and BunnyBugs"
+
+"We start with 1 BroodBug egg. BroodBugs produce other bugs."
+
+"Each set of eggs is worth 1 point. The goal is to have the
+highest number of points at the end of the time limit."
+
+- burgleBugs steal eggs to feed them to the queen (only players should be able to steal eggs not bugs)
+- bounceBugs help hatch eggs by bouncing them (only players should be able to bounce eggs not bugs)
+- boostBugs help eggs grow bigger by bouncing them (only players should be able to roll eggs, not bugs)
 - blockBugs are very fast moving sideways but very slow moving forward and back
 "To get started, you need to hit, kick, or bounce the eggs until they hatch."
 
