@@ -685,24 +685,26 @@ training."
 
 "Zek? He has visions like mine? He seems normal."
 
-"Zek's visions are not nearly as strong as the ones you experience. Training
-with Zek will only be able to take you to a certain point, but it will help you
-to get started. Do you think you might be able to begin training today?"
+"Zek's visions are not nearly as strong as the ones you experience. Zek will
+only be able to take you to a certain point, but you should be able figure
+things out on your own after you get started. Do you think you might be able to
+begin training today?"
 
 "Do I really need to train? Maybe Zek can handle the whole destiny thing? If
 not Zek, then maybe another Echo?"
 
-"If Zek could restore Mars and Thelus, he would have done so. You are the only
-one who can."
+"If Zek could restore Mars and Thelus, he would have already done so. You are
+the only one who can."
 
-"What if I cannot do it?"
+"What if I can't do it?"
 
 "Your visions will continue to intensify throughout your life and you will
 progressively lose your ability to experience the present."
 
 "That sounds really bad."
 
-"Yes, but don't worry. The training that Zek can provide will help."
+"Yes, but don't worry. If you train with Zek, you can learn to control your
+visions to a degree."
 
 "OK, I guess I'll do the training."
 
@@ -848,16 +850,23 @@ the seats from the field. Zok and Edl were running drills on the field, but
 when Edl noticed the girls, he dropped his bugBall, ran towards them, stopped
 and yelled for his brother. Ben looked up, hopped onto his seat, then jumped
 onto the barrier, and leapt out over the field. Two giants carrierCrows caught
-Ben in mid-air and carried him over to the girls. Edl ran up behind Ben and
-they both started to apologize.
+Ben in mid-air and then drop him in front of the girls. Edl ran up behind Ben
+and they both started to apologize.
 
 Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way
 I'll forgive you is if you defeat us in bugBall match, four-on-four, girls
-versus boys. If we win, you'll arrange for each of us to have our private tents
-and get transfer papers for Kaia and Sata's families."
+versus boys. But if we win, you'll arrange for each of us to have VIP tents and
+have Kaia and Sata's families transferred to the refugee camp."
 
-Sata immediately objected. "Wait, we've never played bugBall before. We don't
-even know the rules."
+Kaia whispered in Ursa's ear.
+
+Ursa added another demand. "And a VIP tent and transfers for Fera's family
+too!"
+
+Ben agreed. He and Ursa shook hands.
+
+Sata seemed worried. "Wait, we've never played bugBall before. We don't even
+know the rules."
 
 "Well, it's about time you learned," Ursa said.
 
@@ -868,8 +877,8 @@ BunnyBug eggs."
 "Wait, we didn't eat bug eggs for breakfast, did we?"
 
 "No, those were bioreactor-grown unfertilized chicken eggs. Unlike chickens,
-bugBall bugs are polymorphic and therefore can vary greatly. Once it hatches,
-our BroodBug will produce new bug eggs for our team. When BeastBugs hatch, they
+bugBall bugs are polymorphic and therefore can vary greatly. Once a BroodBug hatches,
+it will produce new bug eggs for our team. When BeastBugs hatch, they
 eat whatever bugs and eggs are closest, regardless of what team the-"
 
 "Let's just play and explain along the way." Ursa interrupted Iona's
@@ -883,18 +892,18 @@ first. The blue team is going to try to rush us." On the opposite side of the
 field, Edl was dribbling two blue BeastBug eggs at the same time, while Ben,
 Zek, and Zok were sitting on blue BunnyBug eggs and chatting.
 
-"Edl thinks he win by himself!" Ursa yelled enraged and disgusted.
+"Edl thinks he win by himself!" Ursa yelled, enraged and disgusted.
 
 Iona took command. "Kaia, help me bounce this BeastBug egg. Sata, help Ursa
 with the other BeastBug egg."
 
 "Why are we bouncing the eggs?" Sata asked.
 
-Iona was happy to explain. "Dribbling the egg heats it up. It can't hatch
-unless it gets hot enough."
+Iona was happy to explain. "Dribbling heats up the eggs. With enough time and
+heat, the eggs will hatch."
 
-Sata quickly lost interest in the explanation. "Speaking of getting hot, Ursa,
-you might want to zip up your jumpsuit before Kaia overheats."
+Sata quickly lost interest in the explanation. "Ursa, you might want to zip up
+your jumpsuit. The sight of you dribbling is making Kaia overheat."
 
 Iona tried to keep Sata on task. "Sata, stay focused on dribbling."
 
@@ -906,219 +915,116 @@ can look too. You should be proud of the bite marks you left." Sata blushed and
 fell silent. Kaia laughed, surprised that Sata got embarrassed by her favorite
 kind of joke.
 
-Soon, both egg had grown large enough that they were almost as tall as Kaia.
+Soon, both eggs had grown large enough that they were almost as tall as Kaia.
 Ursa pointed to the opposite side of the field. "The eggs are about to hatch.
 We need to start moving the eggs to the other side of the field. If they hatch
-here, they will start eating our BunnyBug eggs."
+here, they will start eating our eggs."
 
 "Edl is charging us with two BeastBug eggs!" Iona yelled.
 
 Ursa knew exactly what to do. "Sata, help Kaia roll the egg. Iona, you'll have
 to manage on your own. I'm going to slow him down."
 
-Ursa grabbed two orange BunnyBug eggs and started dribbling them towards Edl.
-Edl tried to move around Ursa, but she kicked one of the blue BeastBug eggs
-away. Edl kept the other blue BeastBug egg away from Ursa and continued to
-move it down the field until it hatched. Ursa was ready and started leading
-the blue BeastBug away, using the two orange BunnyBug eggs as bait. Edl chased
-after Ursa and tried to take the orange BunnyBug eggs away from her.
+Ursa ran off with a orange BunnyBug egg under each arm and kicked one of the
+blue BeastBug eggs away from Edl. When the other blue BeastBug hatched, Ursa
+started leading it away, using the two orange BunnyBug eggs as bait. Ursa then
+punted the BunnyBug eggs towards the spot where Ben, Zek, and Zok were sitting.
+Noticing that a blue BeastBug was heading straight for them, Ben and Zok tried
+to lead it away with blue BunnyBug eggs, while Zok began rolling the blue
+BroodBug egg away.
 
-When Edl was getting close, Ursa punted the BunnyBug eggs towards the spot
-where Ben, Zek, and Zok were sitting. While Edl ran towards his teammates
-trying to warn them, Ursa pivoted and went after the unhatched blue BeastBug
-egg that she had kicked away and started rolling it toward the blue team. Ben
-and Zek picked up two blue BunnyBug eggs each and ran in opposite directions,
-and Zok began rolling the blue BroodBug egg away.
-
-In the meantime, the BeastBug that Ursa had been pushing hatched and the two
-blue BeastBugs began chasing after Zok. Ben and Zok threw their BunnyBug eggs
-at the BeastBugs to slow them down. While the BeastBugs devoured the four blue
+Ursa started dribbling the other blue BeastBug egg. Soon, there wre two blue
+BeastBugs began chasing after Zok. Ben and Zok threw their BunnyBug eggs at the
+BeastBugs to slow them down. While the BeastBugs devoured the four blue
 BunnyBugs that Ben and Zok had thrown and the two orange BunnyBug eggs that
-Ursa had kicked, Edl took over for Zok and rolled the blue BroodBug past the
-blue BeastBugs towards the opposing team.
+Ursa had kicked, Edl took over for Zok and rolled the blue BroodBug egg past
+the blue BeastBugs towards the opposing team.
 
-Iona stopped pushing her egg and turned around towards Kaia and Sata. "Run back
-to our BroodBug Egg and keep it safe!" Extremely confused, Kaia and Sata
-started running toward the orange BroodBug egg. Ursa caught up with Edl, jumped
-onto his back, and put him into a choke hold. Not being able to breathe did not
-seem to bother Edl and he kept pushing the blue BroodBug egg down the field
-with the two blue BeastBugs in pursuit. Iona intercepted Edl in the middle of
-the field started to push blue BroodBug egg in the opposite direction.
+Iona turned around towards Kaia and Sata. "Run back to our BroodBug Egg and
+keep it safe!" Extremely confused, Kaia and Sata left their egg and started
+running toward the orange BroodBug egg. Ursa caught up with Edl, jumped onto
+his back, and put him into a choke hold. Not being able to breathe did not seem
+to bother Edl and he kept pushing the blue BroodBug egg down the field with the
+two blue BeastBugs in pursuit.
 
 Edl almost made it the end of the field before the two blue BeastBugs caught up
 with him and ripped into the blue BroodBug egg from both sides. Edl abandoned
-the blue BroodBug egg and started running toward the orange BroodBug. Ursa
-covered Edl's eyes and Iona yelled at Kaia and Sata. "Push our BroodBug egg to
-the opposite side." Kaia and Sata really had no idea what was going on, but did
-as Iona said. Then, the orange BeastBugs hatched and Iona yelled, "Go back! Push
-it into a corner!"
+the blue BroodBug egg and started running toward the orange BroodBug. Iona
+dribbled the two orange BeastBugs eggs and then just as the eggs were hatching,
+she kicked them towards the two blue BeastBugs. The newly hatched orange
+BeastBugs were no match for the older and larger blue BeastBugs and were
+quickly torn apart and consumed.
 
-Kaia and Sata switched direction, trying not to think too hard about the logic
-of what they were doing. "Run out the clock!" Iona yelled before picking up the
-last two orange BunnyBug eggs and dribbling them to the corner opposite Kaia
-and Sata. When the blue BeastBugs finished consuming the blue BroodBug egg,
-they turned their attention to the newly hatched orange BeastBugs. At this
-point, the blue BeastBugs were much larger and had no trouble tearing apart the
-orange BeastBugs.
+Crossing the field in a flash, Edl took the orange BroodBug egg from Kaia and
+Sata, and started rolling it towards the blue BeastBugs. Ursa jumped off of
+Edl's back and started pushing against the BroodBug egg to slow Edl down. When
+Iona joined Ursa, they rolled onto their backs, braced her legs against the egg
+and kicked up as the egg was rolling over them. The egg bounced the field and
+Edl flew forward tripping over Ursa and Iona. Ursa started dribbling the orange
+BroodBug egg away, while Iona tried to keep Edl pinned to the ground. Edl got
+free and caught up to Ursa quickly, but Ursa gave the egg a powerful kick way
+over Edl's head and towards Iona.
 
-Edl threw Ursa off of his back and started running toward Kaia, Sata, and the
-orange BroodBug egg. Crossing the field in a flash, Edl took the orange
-BroodBug egg from Kaia and Sata, and started rolling it towards the blue
-BeastBugs. Ben, Zek and Zok ran up to Kaia and Sata.
-
-Zek asked, "What do you think of BugBall?"
-
-"None of this makes sense to me." Sata said, still trying to catch her breath.
-
-Zok pointed downfield. "Edl is trying to force a tie by feeding all of the eggs
-to the BeastBugs."
-
-"Edl gets very competitive when playing BugBall," Ben explained.
-
-Ursa started pushing against the BroodBug egg to slow Edl down. Then Ursa
-rolled onto her back, braced her legs against the egg and kicked up as the egg
-was rolling over her. The egg bounced the field and Edl flew forward tripping
-over Ursa. Ursa got up and started dribbling the orange BroodBug egg away from
-Edl. Edl caught up to her quickly, but Ursa gave the egg a powerful kick
-towards Iona. Iona punted her BunnyBug eggs to opposite sides of the field, so
-she could focus on the BroodBug egg.
-
-Kaia, Sata, Ben, Zek, and Zok watched as Iona and Ursa kicked the orange
-BroodBug egg to each other while Edl and the blue BeastBugs ran back and forth
-between them. The blue BeastBugs appeared to get tired and rolled up into
-balls. Edl showed no signs of tiring and kept running until the BroodBug egg
-hatched. The newly hatched BroodBug dug into the ground and started producing
-orange BunnyBugs. Ursa punted a newborn BunnyBug egg to Kaia and Sata and
-another to Iona. Edl started pushing one of the rolled-up BeastBugs towards the
-orange BroodBug, but then stopped when an alarm blared to inform everyone that
-the time limit had been surpassed.
+Iona and Ursa began kicking the orange BroodBug egg to each other while Edl and
+the blue BeastBugs ran back and forth between them. The blue BeastBugs appeared
+to get tired and rolled up into balls. Edl showed no signs of tiring and kept
+running until the orange BroodBug hatched. Edl started pushing one of
+the rolled-up BeastBugs towards the orange BroodBug, but then stopped when an
+alarm blared to inform everyone that the time limit had been surpassed.
 
 "Congratulations on a resounding victory!" Ben said reaching out to shake Kaia
 and Sata's hands.
 
-"We just ran around aimlessly. I think Ursa and Iona did everything," Sata
-admitted.
+"We just ran around aimlessly." Sata admitted. "And the three of you just sat
+around the whole time, so it really was just Iona and Ursa versus Edl."
 
-Ben seemed unsure of how to respond at first. "Well, it's clear that Iona and
-Ursa are very experienced and talented players. With more practice, I'm sure
-you will improve your skills."
+Ben seemed unsure of how to respond at first. "Well, it is normal for teams to
+rely on their strongest players, but that does not diminish the importance of
+teamwork."
 
-"Are you going to bring our parents here?" Kaia asked.
-
-"Yes, of course, I will start making the arrangements as soon as I congratulate
-Iona and Ursa."
-
-Edl slumped against the rolled-up BeastBug and started crying. Everyone gather
+Edl slumped against the rolled-up BeastBug and started crying. Everyone gathered
 around Edl.
 
 "What a sore loser," Ursa remarked with disgust.
 
 "Edl, what's wrong?" Ben asked.
 
-Edl started blubbering in between sobs. "They're not going to forgive us,
-because we lost, Ben. I tried really hard. I don't know what I did wrong."
+Edl started blubbering in between sobs. "We lost, Ben, and now they're not
+going to forgive us. I don't know what I did wrong, but I just don't want
+anyone to be mad at me. Ben, I tried really hard. I really, really tried."
 
 "Ursa, is there any way you might forgive us even though we lost?" Ben asked.
 
-"It would be great if you could ask your parents to become patrons of the
-performance group," Iona offered.
+Ursa crossed her arms. "Edl thought he could beat us without any help from
+anyone else! And now when he's crying just because he lost."
 
-...
+Ben "Please Ursa, if there is anything we can do, please tell us."
 
-Ursa should forgive Edl. What should Ursa ask for in exchange for accepting
-Edl's apology? Just the thing that Iona suggested? What would Kaia and Sata
-suggest? A tent for Fera's parents?
+Ursa was not sure of what else to ask for and looked to Iona for help. Iona
+whispered in Ursa's ear. Ursa laid out her demands. "On top of the VIP tents
+and transfers, every member of your family has to become a PlatinumPatron
+of the performance group and attend both of our upcoming performances!"
 
-Kaia, Sata, Ben, Zek, and Zok walked towards Ursa, Iona, and Edl. Edl was sitting 
+Everyone looked at Ben, who was shocked that the requests were so minor. "Yes,
+of course, I will start making the arrangements immediately. Kaia, Sata, and
+Fera's families should arrive this afternoon. You can all move into your
+respective tents this evening."
 
-"BroodBugs produce BunnyBugs eggs. BroodBugs that grow large enough can produce
-BeastBug and BroodBug eggs too. To grow bigger, BroodBugs need to eat BunnyBugs
-that have eaten enough grass. Like BroodBugs, BeastBugs eat BunnyBugs to grow
-bigger. Bugs grow bigger by eating. BroodBugs and BeastBugs eat BunnyBugs.
-BunnyBugs eat grass. If a BeastBug eats enough BunnyBugs it can grow large
-enough to eat other BeastBugs and even BroodBugs."
+Edl looked up at Ursa with hope in his eyes. "You're not mad at me anymore?"
 
-"We start with 1 BroodBug egg, 2 beastBug eggs, and 4 BunnyBug eggs. 
+Ursa turned red. "You got off easy this time, but you'd better be on your best
+behavior, because next time I will not be so merciful!"
 
-"Each set of eggs is worth 1 point. The goal is to have the
-highest number of points at the end of the time limit."
+Edl nodded, stood up, could not decide what to say, and ran off the field. Ursa
+turned to the other girls and said, "Come on, ladies, let's hit the showers."
+Sata's face lit up as she began thinking of lewd jokes to make in the showers.
+Kaia was happy to see Sata having a good time. In a surprisingly good mood,
+Kaia tried not to think about the weird conversation that she had with Iona
+earlier that morning.
 
-- burgleBugs steal eggs to feed them to the queen (only players should be able to steal eggs not bugs)
-- bounceBugs help hatch eggs by bouncing them (only players should be able to bounce eggs not bugs)
-- boostBugs help eggs grow bigger by bouncing them (only players should be able to roll eggs, not bugs)
-- blockBugs are very fast moving sideways but very slow moving forward and back
-"To get started, you need to hit, kick, or bounce the eggs until they hatch."
-
-"The eggs grow by absorbing kinetic energy, pulling carbon from the air, and consuming grass."
-
-"Ursa, you might want to zip up your flight suit if you don't Kaia's eyes to pop out of her head."
-
-"I don't mind if she looks. You can look too. Take a good look at the bite marks you left."
-
-- All of the bugs have the same genetic code. The only difference between them is which genes are expressed and which genes are silenced.
-- Everyone plays bugBall in Juvenia Stadium, Ral explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
-  - "They're not really bunny. We just call them bunnies because they are furry. I looks like a puss caterpillar (Megalopyge opercularis) except its much larger and rolls up in a ball when it feels threatened, which is most of the time when humans are around."
-
-Sata and Kaia go to see bugBall practice. Zek, Ben, and them observe the
-practice, while Ursa, Iona, and Edl play. Zek asks if Kaia can help him with
-something. Sata asks if she can go too. Zek is unsure, but Kaia says that she
-does not want to leave Sata. They leave Ben on the bleachers and head to Wolski
-Forest.
-
-Kaia explains that Zek is going to teach Kaia self-defense. Sata asks if she
-can learn too. Zek says that she can try but not to be disappointed if the
-techniques do not work for her.
-
-Zek shows them a wicker basket hid in the woods. Inside are sleepSnakes (aka
-slumberSerpents). Zek takes out two snakes and does a demonstration. The snakes
-are coiled around his forearms and strike whenever Zek punches.
-
-"Is that like how Ben controls animalAutomatons?"
-
-"Ben uses gloves to control animalAutomatons, you will be able to control these
-snakes with mind."
-
-Sata says that she doesn't want to hold the snakes and Kaia doesn't want to
-either.
-
-Zek says that they can try something else. Zek says that another power that
-Kaia has is to blind and disorient opponents. Zek says that he is afraid to do
-a demonstration, but that there is no other way to learn. Sata agrees to be a
-volunteer. Zek tells Kaia to stand next Sata and to be ready to catch her, then
-Zek twists his hand and it appears as if a second Sata twists out of the first,
-but Sata's flail their arms in panic before the standing Sata falls into sync
-with the twisted Sata. Sata flies flailing into Kaia's arms. Sata says that her
-world went sideways. Zek says that Kaia should try to disorient him. Kaia tries
-but cannot.
-
-Zek says not to worry and that they can try something else. Zek appears to
-conjure a dark veil from nowhere and throw it onto Sata's face. Sata goes blind
-and becomes very afraid. Kaia pulls off the veil to restore Sata's sight. Zek
-says Kaia should try to blind him now. Kaia tries but cannot.
-
-Kaia is frustrated that she cannot conjure the veil. Zek says that it will come
-with time, but that the two girls should rest for now and that they'll try
-again tomorrow.
-
-The three head to the bugBall field, but everyone is gone. Zek says that they
-should head to the mess tent for lunch and that he will go find Ursa and Iona
-and join them as soon as he can.
-
-Outside the mess tent, Pyr and his Posse ambush Kaia and Sata. This time Pyr is
-wearing a helmet and looking very suspiciously at any birds in his vicinity.
-They use plastic lunch trays to block the view of overhead drones and knock the
-girls to the ground. The girls hold on to each other as the boys kick them,
-Kaia sees the pain on Sata's face and begins to experience a vision of the war.
-Sata is a fallen comrade, dying in Kaia's arms. Lashes out in anger all around
-her blinding all of the boys simultaneously. Kaia then sees copies of all of
-the boys float up and flip upside down, before crashing down into themselves.
-The boys outside the circle come to take away the ones that were blind and
-disoriented. Kaia and Sata are left on the ground, bruised and bleeding.
-
-Zek, Ursa, and Iona arrive and take Kaia and Sata to the infirmary.
-
-The chapter ends with Kaia delivering the line referencing the chapter title:
-"Just when I thought we were finally fitting in."
-
-"Just when I though we were finally fitting in."
-
+As she walked toward the locker room with the other girls, Kaia felt like
+things were turning out alright. The prospect of living in the refugee camp
+permanently did not seem so bad anymore. Kaia was glad that she and Sata would
+see their parents, but also sad that Fera's parents would never be reunited
+with their daughter. Kaia decided that she would try to talk to Fera's parents
+at the remembrance ceremony later that evening.

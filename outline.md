@@ -78,17 +78,18 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - [x] 01: Off to a great start
 - [x] 02: A productive first day
 - [x] 03: A beautiful view
-- [ ] 04: Finally fitting in
-- [ ] 05: A great way to make friends
-- [ ] 06: Never looked better
-- [ ] 07: Forgive and forget
-- [ ] 08: Happiest day ever
-- [ ] 09: A touching reunion
-- [ ] 10: Honesty is the best policy
-- [ ] 11: Home sweet home
-- [ ] 12: Nothing interesting happens
-- [ ] 13: Welcome back
-- [ ] 14: Take your time
+- [x] 04: To err is human
+- [ ] 05: Finally fitting in
+- [ ] 06: A great way to make friends
+- [ ] 07: Never looked better
+- [ ] 08: Forgive and forget
+- [ ] 09: Happiest day ever
+- [ ] 10: A touching reunion
+- [ ] 11: Honesty is the best policy
+- [ ] 12: Home sweet home
+- [ ] 13: Nothing interesting happens
+- [ ] 14: Welcome back
+- [ ] 15: Take your time
 
 - 01: Off to a great start:
   - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Arla and Ral
@@ -105,18 +106,26 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - parachute into Zakrzówek lake
     - Kaia and Ursa bath and bond
     - the airship crashes
-End: Kaia and Sata watch the airship wreckage together while holding hands.
-
-- 04: Finally fitting in
-
+  End: Kaia and Sata watch the airship wreckage together while holding hands.
+- 04: To err is human
   - Ben and Edl arrive. Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
   - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message send by Ben.
   - On the way to bugBall practice, the girls get obwarzanki from a street vendor
   - Ursa eats one obwarzanek, Kaia and Sata split one, Iona says that she is fasting
-  - At bugBall practice, Ben apologizes. Edl runs over and apologizes too
-  - Ursa and Iona join in on the game. Zek invites Kaia to train with him. Sata tags along.
-  - Sata and Kaia are beaten up by Pyr and his Posse
-  - Zek, Iona, and Ursa show up and take them to the infirmary
+  - At bugBall practice, Ben apologizes. Edl runs over and apologizes too.
+  - Ursa challenges the boys to a BugBall match. The girls win and Ben agrees to their demands.
+  End: Kaia thinks about Fera's family as she goes to the showers with Sata, Iona, and Ursa.
+- 05: Finally fitting in
+  - "Isn't it weird to wear the uniforms when we're not playing?"
+  - Sata, Kaia, Ursa, and Iona change into BugBall uniforms while their clothes are being washed
+    - the uniforms
+      - have long blue socks, blue shorts, and white shirts with blue on the shoulders and sides
+      - are blue and white
+      - say Juvenia Kraków
+      - have a logo with a black dragon with a golden crown
+  - Zek invites Kaia to train with him. Sata tags along.
+  - Sata and Kaia are beaten up by Pyr and his Posse. Kaia uses her powers to save herself and Sata.
+  - Zek, Iona, and Ursa take Kaia and Sata to the infirmary
   - Everyone visits Kaia and Sata in the infirmary
   - Kaia watches the remembrance ceremony with Sata in the infirmary
   - A woman in a black veil and ornate dress starts laughing during Ben's speech
@@ -138,10 +147,70 @@ End: Kaia and Sata watch the airship wreckage together while holding hands.
     - look for a weapon or something that can slash the fabric of the tent
     - run into a corner
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
-  - Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the Fera
+  - Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the two Feras
 
-- 05: Never looked better
+Zek asks if Kaia can help him with something. Sata asks if she can go too. Zek
+is unsure, but Kaia says that she does not want to leave Sata. They leave Ben
+on the bleachers and head to Wolski Forest.
 
+Kaia explains that Zek is going to teach Kaia self-defense. Sata asks if she
+can learn too. Zek says that she can try but not to be disappointed if the
+techniques do not work for her.
+
+Zek shows them a wicker basket hid in the woods. Inside are sleepSnakes (aka
+slumberSerpents). Zek takes out two snakes and does a demonstration. The snakes
+are coiled around his forearms and strike whenever Zek punches.
+
+"Is that like how Ben controls animalAutomatons?"
+
+"Ben uses gloves to control animalAutomatons, you will be able to control these
+snakes with mind."
+
+Sata says that she doesn't want to hold the snakes and Kaia doesn't want to
+either.
+
+Zek says that they can try something else. Zek says that another power that
+Kaia has is to blind and disorient opponents. Zek says that he is afraid to do
+a demonstration, but that there is no other way to learn. Sata agrees to be a
+volunteer. Zek tells Kaia to stand next Sata and to be ready to catch her, then
+Zek twists his hand and it appears as if a second Sata twists out of the first,
+but Sata's flail their arms in panic before the standing Sata falls into sync
+with the twisted Sata. Sata flies flailing into Kaia's arms. Sata says that her
+world went sideways. Zek says that Kaia should try to disorient him. Kaia tries
+but cannot.
+
+Zek says not to worry and that they can try something else. Zek appears to
+conjure a dark veil from nowhere and throw it onto Sata's face. Sata goes blind
+and becomes very afraid. Kaia pulls off the veil to restore Sata's sight. Zek
+says Kaia should try to blind him now. Kaia tries but cannot.
+
+Kaia is frustrated that she cannot conjure the veil. Zek says that it will come
+with time, but that the two girls should rest for now and that they'll try
+again tomorrow.
+
+The three head to the bugBall field, but everyone is gone. Zek says that they
+should head to the mess tent for lunch and that he will go find Ursa and Iona
+and join them as soon as he can.
+
+Outside the mess tent, Pyr and his Posse ambush Kaia and Sata. This time Pyr is
+wearing a helmet and looking very suspiciously at any birds in his vicinity.
+They use plastic lunch trays to block the view of overhead drones and knock the
+girls to the ground. The girls hold on to each other as the boys kick them,
+Kaia sees the pain on Sata's face and begins to experience a vision of the war.
+Sata is a fallen comrade, dying in Kaia's arms. Lashes out in anger all around
+her blinding all of the boys simultaneously. Kaia then sees copies of all of
+the boys float up and flip upside down, before crashing down into themselves.
+The boys outside the circle come to take away the ones that were blind and
+disoriented. Kaia and Sata are left on the ground, bruised and bleeding.
+
+Zek, Ursa, and Iona arrive and take Kaia and Sata to the infirmary.
+
+The chapter ends with Kaia delivering the line referencing the chapter title:
+"Just when I thought we were finally fitting in."
+
+"Just when I though we were finally fitting in."
+
+- 06: Never looked better
   - Eagles save Ral, Fera, and Mel
   - The Driads help them
   - Arba asks Fera if she will grant sovereignty to the Driads after Fera overthrows the government
@@ -1196,6 +1265,39 @@ decides not to warn anyone about the invasion. Ral doesn't want to wait for the
 invasion, so he enters a stasis pod like the one Eiva used. As Ral enters the
 pod, he thinks about everyone and wonders if they will still be alive when he
 wakes up.
+
+## BugBall
+
+"BroodBugs produce BunnyBugs eggs. BroodBugs that grow large enough can produce
+BeastBug and BroodBug eggs too. To grow bigger, BroodBugs need to eat BunnyBugs
+that have eaten enough grass. Like BroodBugs, BeastBugs eat BunnyBugs to grow
+bigger. Bugs grow bigger by eating. BroodBugs and BeastBugs eat BunnyBugs.
+BunnyBugs eat grass. If a BeastBug eats enough BunnyBugs it can grow large
+enough to eat other BeastBugs and even BroodBugs."
+
+"We start with 1 BroodBug egg, 2 beastBug eggs, and 4 BunnyBug eggs. 
+
+"Each set of eggs is worth 1 point. The goal is to have the
+highest number of points at the end of the time limit."
+
+- burgleBugs steal eggs to feed them to the queen (only players should be able to steal eggs not bugs)
+- bounceBugs help hatch eggs by bouncing them (only players should be able to bounce eggs not bugs)
+- boostBugs help eggs grow bigger by bouncing them (only players should be able to roll eggs, not bugs)
+- blockBugs are very fast moving sideways but very slow moving forward and back
+"To get started, you need to hit, kick, or bounce the eggs until they hatch."
+
+"The eggs grow by absorbing kinetic energy, pulling carbon from the air, and consuming grass."
+
+"Ursa, you might want to zip up your flight suit if you don't Kaia's eyes to pop out of her head."
+
+"I don't mind if she looks. You can look too. Take a good look at the bite marks you left."
+
+- All of the bugs have the same genetic code. The only difference between them is which genes are expressed and which genes are silenced.
+- Everyone plays bugBall in Juvenia Stadium, Ral explains that the bugs and bunnies are also from the cosmic message. In bugBall, you can do whatever you can to advance the bug. Sheep are kept in pens on either end. After absorbing enough kinetic energy and mowing enough grass in its herbivore phase, the bug unfurls. An unfurled devourer enters its carnivore phase, starts to attack anyone nearby, and then searches for bunnyBalls to eat. Unfurled bunnyBalls can run away. Unfurled queens can fly and start creating new bugBalls. Unfurled batteringBugs charge and break down barriers. Unfurled blockerBugs create block bugs and players with their bodies. Unfurled worker bugs build barriers. The team with the most bunnyBalls in their pen at the end of game wins. Players can steal bunnyBalls from the pen of the opposing team. Each team starts with several baby bugBalls, one devourer bugBall, two flying queen bugBalls, four batteringBugs, eight blockerBugs, sixteen worker bugs, and 32 bunnyBalls.
+  - "They're not really bunny. We just call them bunnies because they are furry. I looks like a puss caterpillar (Megalopyge opercularis) except its much larger and rolls up in a ball when it feels threatened, which is most of the time when humans are around."
+
+Sata and Kaia go to see bugBall practice. Zek, Ben, and them observe the
+practice, while Ursa, Iona, and Edl play. 
 
 ## Trunderstudy
 
