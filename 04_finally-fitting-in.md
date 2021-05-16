@@ -851,30 +851,194 @@ onto the barrier, and leapt out over the field. Two giants carrierCrows caught
 Ben in mid-air and carried him over to the girls. Edl ran up behind Ben and
 they both started to apologize.
 
-Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way I'll
-forgive you is if you defeat us in bugBall match, four-on-four, girls versus boys.
-If we win, you'll get transfer papers and tents set up for Kaia and Sata's
-families."
+Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way
+I'll forgive you is if you defeat us in bugBall match, four-on-four, girls
+versus boys. If we win, you'll arrange for each of us to have our private tents
+and get transfer papers for Kaia and Sata's families."
 
 Sata immediately objected. "Wait, we've never played bugBall before. We don't
 even know the rules."
 
 "Well, it's about time you learned," Ursa said.
 
-Iona began to explain the game. "Each team starts with a certain number of bug
-eggs, depending on the number of players on each team."
+Iona began to explain the game. "The field is set up for two teams, orange and
+blue. Each team will start with one BroodBug egg, two BeastBug eggs, and four
+BunnyBug eggs."
 
-"Wait, we didn't eat bug eggs for breakfast, right?"
+"Wait, we didn't eat bug eggs for breakfast, did we?"
 
 "No, those were bioreactor-grown unfertilized chicken eggs. Unlike chickens,
-bugBall bugs are polymorphic and therefore can vary greatly in size and other
-characteristics."
+bugBall bugs are polymorphic and therefore can vary greatly. Once it hatches,
+our BroodBug will produce new bug eggs for our team. When BeastBugs hatch, they
+eat whatever bugs and eggs are closest, regardless of what team the-"
 
-Ursa noticed Kaia and Sata's confused looks. "There are many different kinds of
-bugs. In small matches like this one, there are only three types: BroodBugs,
-BeastBugs, and BunnyBugs"
+"Let's just play and explain along the way." Ursa interrupted Iona's
+explanation by yanking Sata and Kaia onto the field. "Come on, we'll be the
+orange team!" Ursa stopped in front of the three largest orange bug eggs, each
+about a meter in diameter. "Let's start by hatching a BroodBug egg and a
+BeastBug egg."
 
-"We start with 1 BroodBug egg. BroodBugs produce other bugs."
+Iona ran up behind the other girls. "We should hatch the two BeastBug eggs
+first. The blue team is going to try to rush us." On the opposite side of the
+field, Edl was dribbling two blue BeastBug eggs at the same time, while Ben,
+Zek, and Zok were sitting on blue BunnyBug eggs and chatting.
+
+"Edl thinks he win by himself!" Ursa yelled enraged and disgusted.
+
+Iona took command. "Kaia, help me bounce this BeastBug egg. Sata, help Ursa
+with the other BeastBug egg."
+
+"Why are we bouncing the eggs?" Sata asked.
+
+Iona was happy to explain. "Dribbling the egg heats it up. It can't hatch
+unless it gets hot enough."
+
+Sata quickly lost interest in the explanation. "Speaking of getting hot, Ursa,
+you might want to zip up your jumpsuit before Kaia overheats."
+
+Iona tried to keep Sata on task. "Sata, stay focused on dribbling."
+
+Sata was indignant. "Me?! Look at Kaia! How can she focus on dribbling when
+she's staring down Ursa's shirt?"
+
+Ursa smiled warmly while continuing to dribble. "I don't mind if she looks. You
+can look too. You should be proud of the bite marks you left." Sata blushed and
+fell silent. Kaia laughed, surprised that Sata got embarrassed by her favorite
+kind of joke.
+
+Soon, both egg had grown large enough that they were almost as tall as Kaia.
+Ursa pointed to the opposite side of the field. "The eggs are about to hatch.
+We need to start moving the eggs to the other side of the field. If they hatch
+here, they will start eating our BunnyBug eggs."
+
+"Edl is charging us with two BeastBug eggs!" Iona yelled.
+
+Ursa knew exactly what to do. "Sata, help Kaia roll the egg. Iona, you'll have
+to manage on your own. I'm going to slow him down."
+
+Ursa grabbed two orange BunnyBug eggs and started dribbling them towards Edl.
+Edl tried to move around Ursa, but she kicked one of the blue BeastBug eggs
+away. Edl kept the other blue BeastBug egg away from Ursa and continued to
+move it down the field until it hatched. Ursa was ready and started leading
+the blue BeastBug away, using the two orange BunnyBug eggs as bait. Edl chased
+after Ursa and tried to take the orange BunnyBug eggs away from her.
+
+When Edl was getting close, Ursa punted the BunnyBug eggs towards the spot
+where Ben, Zek, and Zok were sitting. While Edl ran towards his teammates
+trying to warn them, Ursa pivoted and went after the unhatched blue BeastBug
+egg that she had kicked away and started rolling it toward the blue team. Ben
+and Zek picked up two blue BunnyBug eggs each and ran in opposite directions,
+and Zok began rolling the blue BroodBug egg away.
+
+In the meantime, the BeastBug that Ursa had been pushing hatched and the two
+blue BeastBugs began chasing after Zok. Ben and Zok threw their BunnyBug eggs
+at the BeastBugs to slow them down. While the BeastBugs devoured the four blue
+BunnyBugs that Ben and Zok had thrown and the two orange BunnyBug eggs that
+Ursa had kicked, Edl took over for Zok and rolled the blue BroodBug past the
+blue BeastBugs towards the opposing team.
+
+Iona stopped pushing her egg and turned around towards Kaia and Sata. "Run back
+to our BroodBug Egg and keep it safe!" Extremely confused, Kaia and Sata
+started running toward the orange BroodBug egg. Ursa caught up with Edl, jumped
+onto his back, and put him into a choke hold. Not being able to breathe did not
+seem to bother Edl and he kept pushing the blue BroodBug egg down the field
+with the two blue BeastBugs in pursuit. Iona intercepted Edl in the middle of
+the field started to push blue BroodBug egg in the opposite direction.
+
+Edl almost made it the end of the field before the two blue BeastBugs caught up
+with him and ripped into the blue BroodBug egg from both sides. Edl abandoned
+the blue BroodBug egg and started running toward the orange BroodBug. Ursa
+covered Edl's eyes and Iona yelled at Kaia and Sata. "Push our BroodBug egg to
+the opposite side." Kaia and Sata really had no idea what was going on, but did
+as Iona said. Then, the orange BeastBugs hatched and Iona yelled, "Go back! Push
+it into a corner!"
+
+Kaia and Sata switched direction, trying not to think too hard about the logic
+of what they were doing. "Run out the clock!" Iona yelled before picking up the
+last two orange BunnyBug eggs and dribbling them to the corner opposite Kaia
+and Sata. When the blue BeastBugs finished consuming the blue BroodBug egg,
+they turned their attention to the newly hatched orange BeastBugs. At this
+point, the blue BeastBugs were much larger and had no trouble tearing apart the
+orange BeastBugs.
+
+Edl threw Ursa off of his back and started running toward Kaia, Sata, and the
+orange BroodBug egg. Crossing the field in a flash, Edl took the orange
+BroodBug egg from Kaia and Sata, and started rolling it towards the blue
+BeastBugs. Ben, Zek and Zok ran up to Kaia and Sata.
+
+Zek asked, "What do you think of BugBall?"
+
+"None of this makes sense to me." Sata said, still trying to catch her breath.
+
+Zok pointed downfield. "Edl is trying to force a tie by feeding all of the eggs
+to the BeastBugs."
+
+"Edl gets very competitive when playing BugBall," Ben explained.
+
+Ursa started pushing against the BroodBug egg to slow Edl down. Then Ursa
+rolled onto her back, braced her legs against the egg and kicked up as the egg
+was rolling over her. The egg bounced the field and Edl flew forward tripping
+over Ursa. Ursa got up and started dribbling the orange BroodBug egg away from
+Edl. Edl caught up to her quickly, but Ursa gave the egg a powerful kick
+towards Iona. Iona punted her BunnyBug eggs to opposite sides of the field, so
+she could focus on the BroodBug egg.
+
+Kaia, Sata, Ben, Zek, and Zok watched as Iona and Ursa kicked the orange
+BroodBug egg to each other while Edl and the blue BeastBugs ran back and forth
+between them. The blue BeastBugs appeared to get tired and rolled up into
+balls. Edl showed no signs of tiring and kept running until the BroodBug egg
+hatched. The newly hatched BroodBug dug into the ground and started producing
+orange BunnyBugs. Ursa punted a newborn BunnyBug egg to Kaia and Sata and
+another to Iona. Edl started pushing one of the rolled-up BeastBugs towards the
+orange BroodBug, but then stopped when an alarm blared to inform everyone that
+the time limit had been surpassed.
+
+"Congratulations on a resounding victory!" Ben said reaching out to shake Kaia
+and Sata's hands.
+
+"We just ran around aimlessly. I think Ursa and Iona did everything," Sata
+admitted.
+
+Ben seemed unsure of how to respond at first. "Well, it's clear that Iona and
+Ursa are very experienced and talented players. With more practice, I'm sure
+you will improve your skills."
+
+"Are you going to bring our parents here?" Kaia asked.
+
+"Yes, of course, I will start making the arrangements as soon as I congratulate
+Iona and Ursa."
+
+Edl slumped against the rolled-up BeastBug and started crying. Everyone gather
+around Edl.
+
+"What a sore loser," Ursa remarked with disgust.
+
+"Edl, what's wrong?" Ben asked.
+
+Edl started blubbering in between sobs. "They're not going to forgive us,
+because we lost, Ben. I tried really hard. I don't know what I did wrong."
+
+"Ursa, is there any way you might forgive us even though we lost?" Ben asked.
+
+"It would be great if you could ask your parents to become patrons of the
+performance group," Iona offered.
+
+...
+
+Ursa should forgive Edl. What should Ursa ask for in exchange for accepting
+Edl's apology? Just the thing that Iona suggested? What would Kaia and Sata
+suggest? A tent for Fera's parents?
+
+Kaia, Sata, Ben, Zek, and Zok walked towards Ursa, Iona, and Edl. Edl was sitting 
+
+"BroodBugs produce BunnyBugs eggs. BroodBugs that grow large enough can produce
+BeastBug and BroodBug eggs too. To grow bigger, BroodBugs need to eat BunnyBugs
+that have eaten enough grass. Like BroodBugs, BeastBugs eat BunnyBugs to grow
+bigger. Bugs grow bigger by eating. BroodBugs and BeastBugs eat BunnyBugs.
+BunnyBugs eat grass. If a BeastBug eats enough BunnyBugs it can grow large
+enough to eat other BeastBugs and even BroodBugs."
+
+"We start with 1 BroodBug egg, 2 beastBug eggs, and 4 BunnyBug eggs. 
 
 "Each set of eggs is worth 1 point. The goal is to have the
 highest number of points at the end of the time limit."
