@@ -18,13 +18,13 @@ Young rebel that interrupts the commencement ceremony to protest corporeal
 punishment and the oppressive political system. She is beat up by
 SecuritySimians and converted from a student to a prisoner.
 
-- Benairviz (Scender):
+- Benairviz Pembrok (Scender):
 
 will learn that his consciousness was created in the digital world and that his
 body was synthesized by his "parents" to test the ability of people to move
 back and forth between the physical and digital worlds
 
-- Edlvardos (Scender):
+- Edlvardos Pembrok (Scender):
 
 will learn that his older brother Ben created him as a child by subconsciously
 controlling a synthesizer and then imprinting Edl's consciousness during their
@@ -116,12 +116,6 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Ursa challenges the boys to a BugBall match. The girls win and Ben agrees to their demands.
   End: Kaia thinks about Fera's family as she goes to the showers with Sata, Iona, and Ursa.
 - 05: Finally fitting in
-  - "Isn't it weird to wear the uniforms when we're not playing?"
-  - Sata, Kaia, Ursa, and Iona change into BugBall uniforms while their clothes are being washed
-    - the uniforms
-      - have long blue socks, blue shorts, and white shirts with blue on the shoulders and sides
-      - are blue and white
-      - say Juvenia Kraków
       - have a logo with a black dragon with a golden crown
   - Zek invites Kaia to train with him. Sata tags along.
   - Sata and Kaia are beaten up by Pyr and his Posse. Kaia uses her powers to save herself and Sata.
@@ -147,7 +141,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - look for a weapon or something that can slash the fabric of the tent
     - run into a corner
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
-  - Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the two Feras
+  End: Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the two Feras
 
 Zek asks if Kaia can help him with something. Sata asks if she can go too. Zek
 is unsure, but Kaia says that she does not want to leave Sata. They leave Ben
