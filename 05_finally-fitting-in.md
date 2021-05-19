@@ -39,8 +39,8 @@ empty display case.
 
 Ard swept his hand in a half circle in front of him. "This fine establishment
 has been the best place to eat in the refugee camp for ages. I heard that it
-was first constructed to feed workers renovating Juvenia Stadium back when
-manual labor by humans was still legal."
+was first constructed to feed workers renovating Juvenia Stadium before manual
+labor by humans became illegal."
 
 
 They sat down at a table near the window. Ard continued to play the host.
@@ -63,11 +63,16 @@ girls did not want to wear the rainbow uniforms to the remembrance ceremony,
 but eventually agreed that the rainbow colors might not be the best choice for
 grieving.
 
+Ard warns them to watch out for fans of the opposing BugBall team, the All
+Grays.
+"You'll recognize them immediately because they only wear gray."
+
 ...
 
 Ard visits Kaia and Sata in the infirmary and says how great the video of them
 being attacked was for the Rainbow Sports Club brand, because they were wearing
-the Rainbow uniforms.
+the Rainbow uniforms. "We can adjust the recordings so your attackers look like
+All Grays fans. We just set a greyscale filter over there clothing and voila!"
 
 ...
 

@@ -116,8 +116,9 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Ursa challenges the boys to a BugBall match. The girls win and Ben agrees to their demands.
   End: Kaia thinks about Fera's family as she goes to the showers with Sata, Iona, and Ursa.
 - 05: Finally fitting in
-      - have a logo with a black dragon with a golden crown
-  - Zek invites Kaia to train with him. Sata tags along.
+  - The girls meet Ard, the Rainbow Sports Club Manager
+  - Zek invites Kaia to train with him. Sata, Iona, and Ursa tags along.
+  - Ursa volunteers to be used for target practice by Zek and Kaia (blinding, disorientation, etc.)
   - Sata and Kaia are beaten up by Pyr and his Posse. Kaia uses her powers to save herself and Sata.
   - Zek, Iona, and Ursa take Kaia and Sata to the infirmary
   - Everyone visits Kaia and Sata in the infirmary
