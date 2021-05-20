@@ -231,6 +231,16 @@ him.
 "Do you think we could head to the refugee camp now?"
 
 Zek looked to Iona for the answer. "Yes, let's go."
+
+...
+
+"If Fera had been a Scender, do you think she might have been able to live
+forever?"
+
+"Fera was exceptional, uniquely talented. So much promise. Such a productive
+first day-" Ben started weeping and Edl soon joined him. Everyone sat quietly
+for quite some time.
+
 ...
 
 "I write because I'm depressed and
