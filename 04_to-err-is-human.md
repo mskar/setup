@@ -118,9 +118,9 @@ able to discern hallucinations from reality.
 camp," Ben said solemnly. "Speaking of the camp, do you think we could be on our
 way there shortly? It's getting quite late."
 
-"What's the rush," Zek said, "I have a little surprise for everyone."
-Zek ran off and came back holding a net filled with fancy glass bottles.
-"I grabbed a few bottles of champagne before we jumped."
+"What's the rush," Zek said, "I have a little surprise for everyone." Zek ran
+off and came back holding a net filled with fancy glass bottles. "I grabbed a
+few bottles of champagne before we jumped. I kept them cool in the water."
 
 "You had that many glass bottles in your jumpsuit while skydiving? Do you know
 how dangerous that is?"
@@ -179,19 +179,50 @@ you should?"
 "The digital afterlife is a community and new members must be unanimously
 approved by all current community members. As the number of community members
 increases, it becomes harder to secure a unanimous vote. Is it ethical to allow
-someone to scend if they have no chance of being allowed the digital afterlife?
-Their minds would occupy storage space while remaining inert, inactive for
-eternity."
+someone to scend if they have no chance of being voted into the digital
+afterlife? Their minds would occupy storage space while remaining inert,
+inactive for eternity."
 
-"Could you have more than one community?"
+"Could you have more than one afterlife?"
 
-"That idea was considered and rejected. Each community would need to be kept
-separate and have its own dedicated computational resources. As the communities
-grow over time, there would almost certainly be competition for resources that
-could erupt in war between the communities."
+"That idea was considered and rejected. Each afterlife would need to be kept
+separate and have its own dedicated computational resources. As the afterlives
+gained members over time, there would almost certainly be competition for
+resources that could erupt in war between the communities."
 
 Kaia and Sata looked at each other, trying to imagine what what a war between
-rival afterlives would look like.
+rival afterlives would look like. As the conversation continued, Kaia and Sata
+began to sway with the rhythm of the pulsing air around them. Zek reached to
+pull out another bottle but found that the net was empty. Zek began solving a
+math problem out loud. "There were 5 bottles. 750ml per bottle. 6 people
+drinking. 625ml per person. 12.5% alcohol. 50 grams of alcohol per person."
+Having arrived at the solution, Zek announced to everyone. "According to my
+calculations, we are all quite drunk."
+
+Ursa laughed condescendingly. "Zok and I drank most of it. You're a lightweight
+who takes dainty little sips. Look at me, I'm Zek. I like to drink tea from my
+little teacup with my pinky raised." Kaia and Sata thought Ursa's impression of
+Zek was hilarious.
+
+Zok joined in on the fun and started mocking his brother. "My name is Zok. I
+have to write down my dumb thoughts, because I am afraid of dying without a
+legacy."
+
+"The struggle against the void is real," Zek answered.
+
+"If you embrace Scenderism, your life's work could continue in the afterlife,"
+Ben said.
+
+"If I had all the time in the universe, I doubt I could motivate myself to do
+anything," Zek responded honestly.
+
+...
+
+"I write because I'm depressed and
+I'm depressed because I write. I'm in a perpetual existential crisis and
+struggle with the concept of mortality."
+
+
 
 ...
 
