@@ -402,7 +402,7 @@ unruly hair and almost fell over.
 As they entered the office, they saw the blue-green haired protester sitting in
 a chair with a guardGorilla standing behind her. The protester was wearing a
 shirt with "Smash the system!" written on it and a design of a hammer smashing
-a machine while broken cogs flew in all directions.
+a machine and sending broken cogs flying in all directions.
 
 In the opposite side of the room was a large, well-polished mahogany desk, and
 behind it sat the school Principal, snoring loudly with his head tilted back,

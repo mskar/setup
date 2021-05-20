@@ -67,6 +67,12 @@ Ard warns them to watch out for fans of the opposing BugBall team, the All
 Grays.
 "You'll recognize them immediately because they only wear gray."
 
+In Apis, Kaia and Sata spit out the food when they hear that it is made using
+protein from BugBall bugs. Ursa keeps eating, but tells them that the
+vegetables are not made from BugBall bug protein. The vegetables are grown in
+space. Kaia and Sata are relieved until Ursa tells them they have BugBall in
+space too and that the vegetables are fertilized with BugBall bug excrement.
+
 ...
 
 Ard visits Kaia and Sata in the infirmary and says how great the video of them

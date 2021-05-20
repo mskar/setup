@@ -43,11 +43,11 @@ sight.
 lowering him down to the ground. The one that fell into the water is his
 brother Edl."
 
-"Die Edl die?"
+"Did Edl die?"
 
 "From the fall into the water? It would take a lot more than that to kill Edl.
-One time, a bugBall weighing almost a ton rolled over him. Anyone else would
-have been crushed, but Edl got up and pushed the bugBall back towards the
+One time, a BugBall weighing almost a ton rolled over him. Anyone else would
+have been crushed, but Edl got up and pushed the BugBall back towards the
 opposing team."
 
 When Ben touched down, the birds released his arms and Ben bowed deeply.
@@ -88,7 +88,7 @@ Principal," Kaia said dourly.
 
 "Yes, the Principal was with Fera and Ral, the last time we saw them."
 
-"We left her there and now she's dead," Kaia said flatly.
+"We left her there and now she's dead," Kaia said despondently.
 
 "Was Ral on the motorcycle with them?" Arla asked.
 
@@ -98,16 +98,16 @@ Principal," Kaia said dourly.
 
 Taz stepped forward. "The pilots lied about not seeing the motorcycle."
 
-"They saw Fera and still left her?" Kaia did not take any pleasure in being
-vindicated.
+Kaia did not take any pleasure in being vindicated. "They saw Fera and still
+left her?"
 
 "They said that they didn't have a choice. They were under strict orders not to
 touch back down after liftoff, no matter what."
 
-"When were you going to tell us that they lied?" Kaia asked furious.
+Kaia was furious. "When were you going to tell us that they lied?"
 
-"I found out myself this evening. I was grilling them about why didn't want to
-rendezvous here with us and they confessed."
+"I found out myself this evening. I was grilling them about why they didn't
+want to rendezvous here with us and they confessed."
 
 "Kaia, I'm sorry I didn't believe you," Sata said softly. Kaia could tell that
 Sata was genuinely sorry, but Kaia still felt angry. Kaia was angry at the
@@ -117,6 +117,83 @@ able to discern hallucinations from reality.
 "We are going to hold a memorial ceremony for Fera when we reach the refugee
 camp," Ben said solemnly. "Speaking of the camp, do you think we could be on our
 way there shortly? It's getting quite late."
+
+"What's the rush," Zek said, "I have a little surprise for everyone."
+Zek ran off and came back holding a net filled with fancy glass bottles.
+"I grabbed a few bottles of champagne before we jumped."
+
+"You had that many glass bottles in your jumpsuit while skydiving? Do you know
+how dangerous that is?"
+
+"I jumped solo, so I wasn't putting anyone else in danger. I took the risk
+myself, but now we can all share the reward. Think of it like a workout for
+your immune system and your liver. Sit down everyone. Let's finish off a few
+bottles before we head to the refugee camp."
+
+"We could drink on our airship," Ben offered.
+
+"If your airship is anything like you, it will be stuffy and boring. Don't be
+so uptight, Ben. Sit down and relax. Let's take advantage of the lakeside
+ambiance. The refugee camp is going to crowded and noisy." Zek said. "Who knows
+when we'll get another chance to talk in the peace and quiet like this again?
+
+"We don't have any glasses," Ursa observed.
+
+"We don't need glasses. We'll just pass the bottle around. If you're worried
+about germs, the alcohol should take care of them."
+
+Zek opened one of the bottles and passed it around.
+
+Officer Kransal, Arla, Iona, Ben and Edl passed the bottle without drinking,
+but Kaia, Sata, Ursa, Zek, Zok, and Lan each took big swigs. It was the first
+time Kaia and Sata drank alcohol. They tried it out of curiosity and with the
+hope that it might dull the horrible reality that they left Fera behind to die.
+
+"Drinking alcohol is against our religion," Ben remarked, clearly wanting to
+start a new conversation topic.
+
+"What's your religion?" Kaia asked politely.
+
+"Scenderism. We believe that the purpose of life is to prepare for the digital
+afterlife. Drinking alcohol is counterproductive to that goal." Ben answered.
+
+"Do you put your brains in vats like the EternalEnlightened?" Sata asked.
+
+"No, Scenders do not need any physical form at all. When we scend, our bodies
+and minds become completely decoupled. Until then, we must do our best to
+preserve-"
+
+Zek gleefully interrupted Ben. "Only the super rich can afford to scend. The
+rest of us are going nowhere when we die, so can have fun without worrying
+about the digital afterlife." Then, citing a proverb from a long-dead language,
+Zek exclaimed, "Hulaj dusza, piekła nie ma!"
+
+Ben was clearly trying to remain calm and composed, despite being quite upset.
+"It is not a question of money. We have the required equipment here on Earth
+and sufficient computational resources in orbital satellites. The main
+obstacles to making scending universally available are related to ethics."
+
+"So you could let everyone into the digital afterlife, but you don't know if
+you should?"
+
+"The digital afterlife is a community and new members must be unanimously
+approved by all current community members. As the number of community members
+increases, it becomes harder to secure a unanimous vote. Is it ethical to allow
+someone to scend if they have no chance of being allowed the digital afterlife?
+Their minds would occupy storage space while remaining inert, inactive for
+eternity."
+
+"Could you have more than one community?"
+
+"That idea was considered and rejected. Each community would need to be kept
+separate and have its own dedicated computational resources. As the communities
+grow over time, there would almost certainly be competition for resources that
+could erupt in war between the communities."
+
+Kaia and Sata looked at each other, trying to imagine what what a war between
+rival afterlives would look like.
+
+...
 
 "We're all here and accounted for. The pilots have already been evacuated."
 
@@ -421,7 +498,7 @@ his arm.
 
 "What else can do you with those big muscles?"
 
-Edl thought deeply about the myriad uses for muscles. "I can play bugBall."
+Edl thought deeply about the myriad uses for muscles. "I can play BugBall."
 
 "Maybe you'd like to play with me sometime?" Ursa asked, winking provocatively
 at Edl.
@@ -433,9 +510,9 @@ anytime."
 "Is there anything you want to do now?" Ursa asked swirling her finger in a
 circle on Edl's chest.
 
-Edl thought deeply on his favorite activities. "I's too dark to play bugBall
+Edl thought deeply on his favorite activities. "I's too dark to play BugBall
 right now..." Edl began. "I think now I'd like to sleep so I don't have to
-wait until there's enough light to play bugBall."
+wait until there's enough light to play BugBall."
 
 Ursa was getting frustrated. "Isn't there... Don't you want to... Don't you
 know what I mean?"
@@ -465,7 +542,7 @@ that it? If that's it, why don't you just tell me?" Ursa fell down on the ground
 in front of Edl. She looked up at Edl, her eyes filled with tears and rage. "My
 hair, my nails, my skin, everything is perfect. You look at me and think it
 must've been so easy, but it wasn't! All you do is lift weights and play
-bugBall, and you think you're too good for me? Just because were born rich and
+BugBall, and you think you're too good for me? Just because were born rich and
 strong and handsome? Unlike you, I had to work and suffer to get where I am
 today! Unlike you, I had to sacrifice everything to become who I am today!"
 
@@ -740,7 +817,7 @@ yourselves to anything you like in the kitchen at the end of the hallway.
 I will be looking forward to our next meeting. Sincerely, Benairviz Divites"
 
 After the video finished playing, Ursa turned to others with her eyes ablaze
-and said, "When we get to Juvenia Stadium, I'm going to kick a bugBall straight
+and said, "When we get to Juvenia Stadium, I'm going to kick a BugBall straight
 at Edl's head."
 
 "Ursa, he didn't mean to offend you," Iona said sharply.
@@ -847,14 +924,14 @@ Kaia was a bit disappointed to see that Juvenia Stadium was just a field with a
 few rows of seats on one side. In the row closest to the field, Ben and Zek
 were both tapping away at consoles located behind the thin barrier separating
 the seats from the field. Zok and Edl were running drills on the field, but
-when Edl noticed the girls, he dropped his bugBall, ran towards them, stopped
+when Edl noticed the girls, he dropped his BugBall, ran towards them, stopped
 and yelled for his brother. Ben looked up, hopped onto his seat, then jumped
 onto the barrier, and leapt out over the field. Two giants carrierCrows caught
 Ben in mid-air and then drop him in front of the girls. Edl ran up behind Ben
 and they both started to apologize.
 
 Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way
-I'll forgive you is if you defeat us in bugBall match, four-on-four, girls
+I'll forgive you is if you defeat us in BugBall match, four-on-four, girls
 versus boys. But if we win, you'll arrange for each of us to have VIP tents and
 have Kaia and Sata's families transferred to the refugee camp."
 
@@ -865,7 +942,7 @@ too!"
 
 Ben agreed. He and Ursa shook hands.
 
-Sata seemed worried. "Wait, we've never played bugBall before. We don't even
+Sata seemed worried. "Wait, we've never played BugBall before. We don't even
 know the rules."
 
 "Well, it's about time you learned," Ursa said.
@@ -877,7 +954,7 @@ BunnyBug eggs."
 "Wait, we didn't eat bug eggs for breakfast, did we?"
 
 "No, those were bioreactor-grown unfertilized chicken eggs. Unlike chickens,
-bugBall bugs are polymorphic and therefore can vary greatly. Once a BroodBug hatches,
+BugBall bugs are polymorphic and therefore can vary greatly. Once a BroodBug hatches,
 it will produce new bug eggs for our team. When BeastBugs hatch, they
 eat whatever bugs and eggs are closest, regardless of what team the-"
 
