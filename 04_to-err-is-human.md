@@ -204,18 +204,30 @@ who takes dainty little sips. Look at me, I'm Zek. I like to drink tea from my
 little teacup with my pinky raised." Kaia and Sata thought Ursa's impression of
 Zek was hilarious.
 
-Zok joined in on the fun and started mocking his brother. "My name is Zok. I
+Zok joined in on the fun and started mocking his brother. "My name is Zek. I
 have to write down my dumb thoughts, because I am afraid of dying without a
 legacy."
 
-"The struggle against the void is real," Zek answered.
+"The struggle against the void is real," Zek answered. "You feel it too, don’t
+you? Every day I wrestle with the futility of existence and ask 'Why are we
+still here? Just to suffer?'"
 
-"If you embrace Scenderism, your life's work could continue in the afterlife,"
-Ben said.
+"Scenders do not experience existential crises. If I am chosen to scend, I will
+be able to continue my life's work for eternity." Ben said.
 
 "If I had all the time in the universe, I doubt I could motivate myself to do
 anything," Zek responded honestly.
 
+"Are you in need of motivation? As a director, providing motivation is my
+specialty. Your motivation is that you are blissfully happy to simply be in my
+presence. Is that understood?" Iona grabbed Zek's hair and nodded his head for
+him.
+
+"Yes, ma'am. Crystal clear," Zek said meekly and snuggled up to Iona.
+
+"Do you think we could head to the refugee camp now?"
+
+Zek looked to Iona for the answer. "Yes, let's go."
 ...
 
 "I write because I'm depressed and
