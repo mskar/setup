@@ -18,7 +18,7 @@ Young rebel that interrupts the commencement ceremony to protest corporeal
 punishment and the oppressive political system. She is beat up by
 SecuritySimians and converted from a student to a prisoner.
 
-- Benairviz Pembrok (Scender):
+- Benderrod Pembrok (Scender):
 
 will learn that his consciousness was created in the digital world and that his
 body was synthesized by his "parents" to test the ability of people to move
@@ -78,18 +78,20 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - [x] 01: Off to a great start
 - [x] 02: A productive first day
 - [x] 03: A beautiful view
-- [x] 04: To err is human
-- [ ] 05: Finally fitting in
-- [ ] 06: A great way to make friends
-- [ ] 07: Never looked better
-- [ ] 08: Forgive and forget
-- [ ] 09: Happiest day ever
-- [ ] 10: A touching reunion
-- [ ] 11: Honesty is the best policy
-- [ ] 12: Home sweet home
-- [ ] 13: Nothing interesting happens
-- [ ] 14: Welcome back
-- [ ] 15: Take your time
+- [x] 04: Hello darkness
+- [x] 05: To err is human
+- [ ] 06: Finally fitting in
+- [ ] 07: A great way to make friends
+- [ ] 08: Never looked better
+- [ ] 09: Never looked better
+- [ ] 10: Forgive and forget
+- [ ] 11: Happiest day ever
+- [ ] 12: A touching reunion
+- [ ] 13: Honesty is the best policy
+- [ ] 14: Home sweet home
+- [ ] 15: Nothing interesting happens
+- [ ] 16: Welcome back
+- [ ] 17: Take your time
 
 - 01: Off to a great start:
   - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Arla and Ral
@@ -103,12 +105,23 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - leave the school
     - meet Lan and Taz
     - evacuate in an airship with Iona, Ursa, Zek, and Zok
-    - parachute into Zakrzówek lake
-    - Kaia and Ursa bath and bond
-    - the airship crashes
-  End: Kaia and Sata watch the airship wreckage together while holding hands.
+  - The airship crashes
+  - Everyone parachutes down to the university next to Zakrzówek lake
+  - Kaia and Ursa dive off a cliff into Zakrzówek and bond
+  - Ursa reveals that she has super powers
+  End: Kaia and Sata kiss twice and watch the airship wreckage together
+- 04: Hello Darkness
+  - Ben and Edl arrive
+  - Everyone sits around the camp fire and drinks champagne
+  - Kaia is surprised to see Officer Kransal without his balaclava and sunglasses
+  - Officer Kransal says to call him Taz
+  - The discussion focuses on death and Scenderism
+  - Kaia asks about whether Fera could have become a Scender and Ben starts to answer but breaks down crying
+  - The airship raises everyone via cable
+  - Zek and Lan 
+  - In an effort to make Zek
+  End: Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
 - 04: To err is human
-  - Ben and Edl arrive. Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
   - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message send by Ben.
   - On the way to BugBall practice, the girls get obwarzanki from a street vendor
   - Ursa eats one obwarzanek, Kaia and Sata split one, Iona says that she is fasting

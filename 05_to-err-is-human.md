@@ -136,7 +136,7 @@ You may find us Juvenia Stadium each morning, in the maker workshop tent each
 afternoon, or at Fera's remembrance ceremony this evening. Please feel free to
 stay in the airship for as long as you like. If you are hungry, please help
 yourselves to anything you like in the kitchen at the end of the hallway.
-I will be looking forward to our next meeting. Sincerely, Benairviz Divites"
+I will be looking forward to our next meeting. Sincerely, Benderrod Divites"
 
 After the video finished playing, Ursa turned to others with her eyes ablaze
 and said, "When we get to Juvenia Stadium, I'm going to kick a BugBall straight

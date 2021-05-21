@@ -6,17 +6,12 @@
 
 "What about 'levitating'?"
 
-Kaia and Sata had been watching people in scuba gear rappel down into the water
-around the crashed airship for a while, but the latest person to come down was
-moving diagonally inside of straight down.
-
-"OK, but how is possible? A jetpack?"
-
-"Wouldn't a jetpack make noise?"
-
-As Kaia and Sata were trying to agree on the correct term to describe the
-person slowly descending down to the ground, someone else fell like a rock
-out of the sky and into the water.
+Kaia and Sata had been watching people in scuba gear rappel down from hovering
+airships into the water around the crashed airship for a while, but the latest
+person to come down was moving diagonally instead of straight down. As Kaia and
+Sata were trying to agree on the correct term to describe the person slowly
+descending down to the ground, someone else fell like a rock out of the sky and
+into the water.
 
 "Did you see that?"
 
@@ -28,129 +23,138 @@ out of the sky and into the water.
 from the sky."
 
 When Kaia and Sata arrived at the campfire, everyone was standing and looking
-up at the sky. Kaia and Sata could see that the slow-falling person had their
-arms outstretched with a giant black bird on each arm. Up above, an airship was
-now clearly visible. Iona came up to Kaia and Sata and gave them an update.
+up at the sky. Lan and Zok had rejoined the group and Arla was standing next to
+broad-shouldered, bearded man wearing slacks and a dress shirt. Once they were
+closer, Kaia and Sata could see that the slow-falling person was a sharply
+dressed young man being carried to the ground by two giant black birds. After
+depositing the young man on the ground, the birds landed on either side of him
+as he bowed deeply and said, "Greetings! I am Ben and behind me is my brother
+Edl." Ben turned around to gesture at his brother, who was emerging from the
+water behind him. Edl was enormous and looked ready to defend Ben if needed,
+but he had a friendly expression on his chiseled face.
 
-"The soldiers in diving gear being lowered down to crash had found no evidence
-of sabotage. We've been cleared for transport to the refugee camp."
+Ben gestured upwards heroically. "We are here to rescue you!"
 
-Iona could see that Sata and Kaia were not interested in the results of the
-forensic investigation. Iona pointed up in the air and explained the strange
-sight.
+"Look everyone, bird boy and the Loch Ness monster have come to save the day!"
+Zek said mockingly.
 
-"That's Ben. He can control animalAutomatons like those carrierCrows that are
-lowering him down to the ground. The one that fell into the water is his
-brother Edl."
+"Are your birds going to fly us to refugee camp?"
 
-"Did Edl die?"
-
-"From the fall into the water? It would take a lot more than that to kill Edl.
-One time, a BugBall weighing almost a ton rolled over him. Anyone else would
-have been crushed, but Edl got up and pushed the BugBall back towards the
-opposing team."
-
-When Ben touched down, the birds released his arms and Ben bowed deeply.
-"Greetings! I am Ben and emerging from the water behind me is my brother Edl,
-and we are here to rescue you." Edl stood be behind Ben, dripping wet. He
-looked ready to defend Ben if needed, but he had a friendly expression on his
-chiseled face.
-
-"Took you long enough," Zek complained.
-
-"We received your distress signal and changed course right away, but we had to
-wait until the investigation of your airship had been completed," Ben
-explained.
+"No, we'll be much more comfortable in our airship. We'll be on our way as soon
+as the investigation of the crash has been completed," Ben explained.
 
 "Maybe you're the one who sabotaged our airship?" Zek conjectured. "You know,
 even if you killed all of us, the performance group would still have more
 members than the maker group."
 
-"That's not funny. The MIG lost it's Vice President and quite possibly it's
-Secretary earlier today."
+"That's not funny. The Maker Interest Group lost its Vice President and
+quite possibly its Secretary today."
 
-"Did something happen to Ral?" Arla rushed up to Ben.
+Arla rushed up to Ben. "Did something happen to Ral?"
 
-"I am afraid that Ral is still unaccounted for. The last time I saw him, he was
-with Fera, the MIG Vice President."
+"We do not know definitively, but he may have fallen victim to the explosion
+along with our Vice President. There are no records of them evacuating the
+city."
 
-"Fera? The Fera who staged the protest today?" Kaia asked.
+Arla started crying and took shelter in Officer Kransal's arms.
+Lan began to cry too and leaned on Zok for support.
 
-"Yes, the very same!" Ben looked happy to see someone who knew Fera.
+Kaia waited a moment before asking, "Do you if our friend Fera got out in time?"
 
-"Did Fera die in the explosion?" Kaia asked.
+Seeing the look of surprise on Ben's face, Sata elaborated on Kaia's question.
+"Fera's the girl with blue and green hair who staged the protest at the
+initiation ceremony. Arla saw Fera leave with Ral before we left the school."
 
-"It would appear so. We were tracking Fera's location and the signal
-disappeared inside the city during the explosion," Ben answered.
+Ben cleared his throat nervously. "The last time we saw Fera, she was still in
+the school with Ral and the Principal. We were tracking Fera's location and the
+signal disappeared inside the city during the explosion."
 
-"I saw her in the city as we were taking off. She was on a motorcycle with the
-Principal," Kaia said dourly.
-
-"Yes, the Principal was with Fera and Ral, the last time we saw them."
-
-"We left her there and now she's dead," Kaia said despondently.
+Kaia tried to keep her voice from trembling. "I saw Fera in the city as we were
+taking off. She was on a motorcycle with the Principal."
 
 "Was Ral on the motorcycle with them?" Arla asked.
 
-"I don't know. It only caught a glimpse of them," Kaia said.
+"I don't know. It only caught a glimpse of them," Kaia said, but she remembered
+that there was someone lying unconscious across the motorcycle.
 
-"Why did the pilots not see them?" Iona asked.
+"Why did the pilots not see them?" Iona asked suspiciously.
 
-Taz stepped forward. "The pilots lied about not seeing the motorcycle."
+The man standing next to Arla stepped forward. This was the first time that
+Kaia and Sata had seen Officer Kransal in civilian clothing and without his
+balaclava and sunglasses. He was about as tall as Kaia, but easily thrice as
+wide. His well-groomed white beard seemed almost out-of-place on his incredibly
+youthful face. Officer Kransal's tone was grave. "The pilots lied about not
+seeing the motorcycle."
 
 Kaia did not take any pleasure in being vindicated. "They saw Fera and still
 left her?"
 
-"They said that they didn't have a choice. They were under strict orders not to
-touch back down after liftoff, no matter what."
+Officer Kransal nodded. "They said that they didn't have a choice. They were
+under strict orders not to touch back down after liftoff, no matter what."
 
 Kaia was furious. "When were you going to tell us that they lied?"
 
-"I found out myself this evening. I was grilling them about why they didn't
-want to rendezvous here with us and they confessed."
+"I just found out myself. I was grilling the pilots about why they didn't
+rendezvous here with us and they confessed."
 
 "Kaia, I'm sorry I didn't believe you," Sata said softly. Kaia could tell that
 Sata was genuinely sorry, but Kaia still felt angry. Kaia was angry at the
 pilots for lying, at Sata for not believing her, and at herself for not being
 able to discern hallucinations from reality.
 
-"We are going to hold a memorial ceremony for Fera when we reach the refugee
-camp," Ben said solemnly. "Speaking of the camp, do you think we could be on our
-way there shortly? It's getting quite late."
+"We left her there and now she's dead," Kaia said despondently.
 
-"What's the rush," Zek said, "I have a little surprise for everyone." Zek ran
-off and came back holding a net filled with fancy glass bottles. "I grabbed a
-few bottles of champagne before we jumped. I kept them cool in the water."
+Everyone sat around the campfire in silence. Zek pulled a net filled with glass
+bottles out of the lake. "It sounds like more than a few of us could use a
+drink," he said as he opened one of the bottles with a corkscrew he got from
+his jumpsuit.
 
-"You had that many glass bottles in your jumpsuit while skydiving? Do you know
-how dangerous that is?"
+"I'm not sure now is a good time," Iona said.
 
-"I jumped solo, so I wasn't putting anyone else in danger. I took the risk
-myself, but now we can all share the reward. Think of it like a workout for
-your immune system and your liver. Sit down everyone. Let's finish off a few
-bottles before we head to the refugee camp."
-
-"We could drink on our airship," Ben offered.
-
-"If your airship is anything like you, it will be stuffy and boring. Don't be
-so uptight, Ben. Sit down and relax. Let's take advantage of the lakeside
-ambiance. The refugee camp is going to crowded and noisy." Zek said. "Who knows
-when we'll get another chance to talk in the peace and quiet like this again?
+"I'm not going to force anyone to drink, but we might as well have some wine
+while we're waiting to be cleared to go to the refugee camp," Zek said, passing
+the bottle to Ursa.
 
 "We don't have any glasses," Ursa observed.
 
-"We don't need glasses. We'll just pass the bottle around. If you're worried
-about germs, the alcohol should take care of them."
+"We don't need glasses. We'll just take turns drinking straight from the
+bottle. If you're worried about germs, the alcohol should take care of them."
 
-Zek opened one of the bottles and passed it around.
+Ursa shrugged, took a big swig, and passed the bottle on. Kaia and Sata had
+never drank the wine before, but they were eager to try to see if it might dull
+the horrible reality that they left Fera behind to die. Arla and Lan seemed to
+be feeling the same way about Ral and appeared to try to drown their sorrow in
+wine.
 
-Officer Kransal, Arla, Iona, Ben and Edl passed the bottle without drinking,
-but Kaia, Sata, Ursa, Zek, Zok, and Lan each took big swigs. It was the first
-time Kaia and Sata drank alcohol. They tried it out of curiosity and with the
-hope that it might dull the horrible reality that they left Fera behind to die.
+"Officer Kransal?" Lan asked, offering the bottle.
 
-"Drinking alcohol is against our religion," Ben remarked, clearly wanting to
-start a new conversation topic.
+Officer Kransal took the bottle and smiled. "Please call me Taz when I'm not in
+uniform." After taking a drink and passing the bottle on, Taz continued. "I've
+been reassigned to the refugee camp. I will be working there undercover, posing
+as an airship mechanic, so I would appreciate if you all did not mention to
+anyone that I am strike force officer."
+
+Everyone nodded in agreement. Ursa tried to reassure Taz that his secret was
+safe. "I'm really great at working undercover and keeping secrets. I was a-"
+
+Iona was quick to interrupt Ursa. "Zek, where did you get this wine?"
+
+"I grabbed them before we jumped and kept them cool in the water when we got
+here."
+
+Iona furrowed her brow at Zek. "You had that many glass bottles in your
+jumpsuit while skydiving? Do you know how dangerous that is?"
+
+Zek shrugged. "I jumped solo, so I wasn't putting anyone else in danger. I took
+the risk myself, but now we can all share the reward."
+
+"Well, not everyone is sharing the reward," Ursa said looking at Iona, Ben, and
+Edl.
+
+Iona clenched her jaw. "I like to keep my senses sharp at all times."
+
+"Edl and I don't drink alcohol, because it is against our religion," Ben
+remarked, clearly happy to start a new conversation topic.
 
 "What's your religion?" Kaia asked politely.
 
@@ -173,8 +177,8 @@ Ben was clearly trying to remain calm and composed, despite being quite upset.
 and sufficient computational resources in orbital satellites. The main
 obstacles to making scending universally available are related to ethics."
 
-"So you could let everyone into the digital afterlife, but you don't know if
-you should?"
+Kaia felt a bit confused. "So you could let everyone into the digital
+afterlife, but you don't know if you should?"
 
 "The digital afterlife is a community and new members must be unanimously
 approved by all current community members. As the number of community members
@@ -183,7 +187,7 @@ someone to scend if they have no chance of being voted into the digital
 afterlife? Their minds would occupy storage space while remaining inert,
 inactive for eternity."
 
-"Could you have more than one afterlife?"
+Sata offered a solution. "Could you have more than one afterlife?"
 
 "That idea was considered and rejected. Each afterlife would need to be kept
 separate and have its own dedicated computational resources. As the afterlives
@@ -191,102 +195,162 @@ gained members over time, there would almost certainly be competition for
 resources that could erupt in war between the communities."
 
 Kaia and Sata looked at each other, trying to imagine what what a war between
-rival afterlives would look like. As the conversation continued, Kaia and Sata
-began to sway with the rhythm of the pulsing air around them. Zek reached to
-pull out another bottle but found that the net was empty. Zek began solving a
-math problem out loud. "There were 5 bottles. 750ml per bottle. 6 people
-drinking. 625ml per person. 12.5% alcohol. 50 grams of alcohol per person."
-Having arrived at the solution, Zek announced to everyone. "According to my
-calculations, we are all quite drunk."
+rival afterlives would look like. Kaia decided to ask a question she been
+wrestling with for a long time. "If Scenders can live without their physical
+bodies, could you bring back someone who died?"
 
-Ursa laughed condescendingly. "Zok and I drank most of it. You're a lightweight
-who takes dainty little sips. Look at me, I'm Zek. I like to drink tea from my
-little teacup with my pinky raised." Kaia and Sata thought Ursa's impression of
-Zek was hilarious.
+Ben knew what Kaia was considering. "In theory, we could provide a new physical
+body to someone who scended, but that would be a step in the wrong direction
+according to Scenderism. The digital afterlife is free of suffering and allows
+people to reach their full potential. Returning to the physical world would be
+very counterproductive."
+
+Kaia decided to ask her question directly. "Is there a chance that Fera might
+have scended before the city exploded?"
+
+Ben thought about his answer before responding. "If Fera had scended, we would
+have known about it. Fera was exceptional, uniquely talented, but there was no
+way she could have scended in time even if the required equipment was
+available."
+
+Kaia was downcast. "I wish I could have said goodbye. The last thing I said to
+Fera was not very positive."
+
+Ben nodded. "I know how you feel. We didn't exactly part on the best terms with
+Fera."
+
+Edl whimpered and started crying. "Why did she do it, Ben? Everything was going
+so well!"
+
+While doing his best to console his brother, Ben tried to explain to the
+others. "Fera started the school's self-destruct sequence. The explosion
+initiated a chain reaction that destroyed the whole city."
+
+"Why did Fera want to blow up the school?" Sata asked.
+
+Ben provided his analysis. "I believe there were two major motivating factors.
+First, destroying the school could have been a way for Fera to exert control
+and lash out against authority. Second, it is my understanding that Fera was
+trying to evidence of the changes she had made using the school's computer
+systems."
+
+"What changes did she make?" Kaia asked.
+
+"Fera obtained full pardons for you, Sata, and herself. She also altered the
+initiation ceremony recordings to show all three of you flawlessly completing
+the initiation rite."
+
+"Fera died after making sure we wouldn't have to go to prison or go through the
+rite again?" Kaia broke down crying before Ben could answer her question. Sata,
+Ursa, and Iona surrounded Kaia, hugging her from all sides and supporting her
+physically and emotionally.
+
+At the center of a circle of love, Kaia was feeling better. No howling winds.
+No metallic tendrils. No skeletons crumbling into dust. She felt warm and safe,
+surrounded by friends. Kaia felt so lucky to have amazing friends like Iona,
+Ursa, and Sata. Even though Kaia only knew Fera for a very short time, Kaia
+knew that Fera would have also been a great friend. Kaia thought about how life
+might have turned out if Fera had survived and become friends with her, Sata,
+Iona, and Ursa.
+
+Ben wiped tears from his eyes and began talking about Fera to no one in
+particular. "She really was quite remarkable. The best Vice President, perhaps
+even the best member, the MIG has ever had. At times, I forget that so was a
+freshman. So much potential! Such great promise! I must admit that I was quite
+fond of her. Even though a personal relationship between MIG Executives would
+have been very unprofessional and a potential conflict of interest, I was
+considering the possibility of Fera and I attending the same university and
+perhaps even working in the same laboratory! When I would be finishing up my
+postdoctoral training, Fera could be beginning her own. Instead of immediately
+securing a faculty position, I could work in industry for a few years, so that
+Fera and I could start on the track to tenure together. Tenure would guarantee
+us both a lifetime of intellectually-stimulating scholarship and academic
+productivity! Our worthiness of digital afterlife would be undeniable. We could
+have continued to work together for the benefit mankind for eternity!" Ben was
+breathing quickly by the end of his monologue. No one listening to him, but Ben
+did not notice. He was lost in glorious visions of a future that could have
+been.
+
+Taz broke the silence. "The investigation of the crash site found no evidence
+of sabotage. We are cleared for transport to the refugee camp."
+
+"We might as well go," Zek said, "we've finished all of the wine."
+
+"All of it?!" Iona exclaimed
+
+"Yes. There were 4 bottles. 750ml per bottle. 8 people drinking. 375ml per
+person. 12% alcohol. 45 grams of alcohol per person." Having arrived at the
+solution, Zek announced the result to everyone. "According to my calculations,
+the 8 of us all quite drunk."
+
+Ursa laughed condescendingly. "Some of us drank more than others. You're a
+lightweight who takes dainty little sips." Ursa began doing an impression of
+Zek. "Look at me, I'm Zek. I like to drink tea from my little teacup with my
+pinky raised."
 
 Zok joined in on the fun and started mocking his brother. "My name is Zek. I
 have to write down my dumb thoughts, because I am afraid of dying without a
 legacy."
 
-"The struggle against the void is real," Zek answered. "You feel it too, don’t
+Zek looked hurt. "The struggle against the void is real. You feel it too, don’t
 you? Every day I wrestle with the futility of existence and ask 'Why are we
 still here? Just to suffer?'"
 
 Ursa and Zok began to sing the "Sound of Silence" by Simon and Garfunkel, a
 capella.
 
-"Scenders do not experience existential crises. If I am chosen to scend, I will
-be able to continue my life's work for eternity." Ben said.
+Ben saw opportunity to evangelize. "Scenders do not experience existential
+crises. Those who are chosen to scend can work toward the betterment of
+humanity forever." Ben said.
 
 "If I had all the time in the universe, I doubt I could motivate myself to do
 anything," Zek responded honestly.
 
 "Are you in need of motivation? As a director, providing motivation is my
-specialty. Your motivation is that you are blissfully happy to simply be in my
-presence. Is that understood?" Iona grabbed Zek's hair and nodded his head for
-him.
+specialty." Iona grabbed the back of Zek's neck. "Your motivation is that you
+are blissfully happy to simply be in my presence. Is that understood?" Holding
+Zek's hair, Iona nodded his head for him.
 
-"Yes, ma'am. Crystal clear," Zek said meekly and snuggled up to Iona.
+"Yes, ma'am. Crystal clear," Zek said meekly.
 
-"Do you think we could head to the refugee camp now?"
-
-Zek looked to Iona for the answer. "Yes, let's go."
-
-...
-
-"If Fera had been a Scender, do you think she might have been able to live
-forever?"
-
-"Fera was exceptional, uniquely talented. So much promise. Such a productive
-first day-" Ben started weeping and Edl soon joined him. Everyone sat quietly
-for quite some time.
-
-...
-
-"I write because I'm depressed and
-I'm depressed because I write. I'm in a perpetual existential crisis and
-struggle with the concept of mortality."
-
-
-
-...
-
-"We're all here and accounted for. The pilots have already been evacuated."
-
-"Cowards," Kaia said quietly. No one said anything.
+"My motivation is to get everyone to the refugee camp," Ben said.
 
 "The airship cannot land here, so you'll have to be lifted up to airship by the
-rescue lines," Ben explained.
+rescue cables," Ben explained.
 
 "You're not going with us?" Zek asked suspiciously.
 
-"I'm going to go up that same way I came down," Ben said gesturing to the birds
-flanking him.
+"I'm going to go up that same way I came down," Ben said gesturing towards his
+birds.
 
-"We can't just leave all of this wonderful food and drink!" Lan lamented.
+Everyone got up and started moving towards the spot indicated by Ben, but Lan
+told them to stop.
 
-"Some it has burned. Some it is flooded. Any glass containers are probably
-broken," Iona said.
+"We can't just leave all of that wonderful food and drink!" Lan lamented
+gesturing towards the crashed airship.
+
+"Everything on board was probably destroyed." Iona said.
 
 "We can ask the divers to go in again and check!" Lan implored.
 
-"Recovering cargo is a waste of the divers' time and an unnecessary risk," Taz explained.
+"Recovering the cargo is a waste of the divers' time and an unnecessary risk,"
+Taz explained.
 
 "I'll go get some diving gear and go get the supplies myself," Lan said walking
 defiantly towards a group of soldiers.
 
-Zek nodded to Zok and Iona touched Zok a gentle push. Zok approached Lan, who
-immediately started to resist. "No, I won't go! You can't make me!"
+Iona gave Zok a gentle push. Zok approached Lan, who immediately started to
+resist. "No, I won't go! You can't make me!"
 
 Zok picked up and carried him to the cables dangling from a newly arrived
 airship on his shoulder. "Let go of me, you brute! Just because you're strong
 doesn't mean-" Zok began whispering into Lan's ear. Lan stopped struggling and
-his eyes lit up. Kaia watched as they acted normal in a very conspicuous
+his eyes lit up. Kaia watched as Zok and Lan acted normal in a very conspicuous
 manner.
 
 After everyone (footnote: Edl, Iona, Kaia, Sata, Ursa, Zek, Zok, Lan, Taz,
 Arla) was strapped into their respective harnesses, the cables began pulling
-them upward. The broad, pale light illuminated them from above made it look
+them upward. The broad, pale light illuminating them from above made it look
 they were being abducted by aliens in low-budget movie about UFOs. Zok swung
 closer to Zek and grabbed on to his harness. From the look on Zek's face, it
 clear that Zok told him something that he did not like. Zek punched Zok right
@@ -315,10 +379,11 @@ from Iona's shoes and propelled her towards Ursa. As Iona and Ursa wrestled in
 mid-air, the rockets in Iona's shoes swung them up and around until they were
 wrapped up with Sata and Kaia.
 
-Ursa put her arms around Kaia and Sata, bringing them in for a huddle. "I'm
-trying to make Zok jealous. Pretend like you're having fun sexy fighting," Ursa
-whispered before starting to giggle as Iona began to tickle her. Sata looked at
-Kaia, shrugged, grabbed Ursa's head, and blew a raspberry on her cheek. Ursa
+Ursa put her arms around Kaia and Sata, bringing them in for a huddle and
+whispering, "Zok thinks he can make me jealous by humping Edl's leg. I want to
+show him what he's missing. Pretend you're have crazy, sexy fun." Iona
+did not need any convincing and starting to tickle Ursa. Sata looked
+at Kaia, shrugged, grabbed Ursa's hair, and blew a raspberry on her cheek. Ursa
 laughed so hard that she snorted. Kaia felt pangs of jealousy, but mostly felt
 like was missing out on the fun. She maneuvered herself into position next to
 Iona, and placed her her mouth of Iona's neck intending to blow a raspberry on
@@ -328,7 +393,7 @@ world's most hesitant vampire.
 Ursa unzipped her jumpsuit with one hand, grabbed Sata's hair with the other,
 and pretended to try to drown Sata in her cleavage. When Sata came up for air,
 she had the biggest smile on her wide face. Sata dove back into Ursa's cleavage
-and pretended she was a pig eating out of a trough, causing Ursa to laugh like
+and pretended she was a pig eating from a trough, causing Ursa to laugh like
 a maniac. Kaia saw this and was not sure what came over her. She gripped Iona
 tighter and began to gently nibble on Iona's ear. When she heard Iona moan,
 Kaia got excited and grabbed Iona's hair, pulling her head backward. When Kaia
@@ -336,24 +401,22 @@ saw a lone tear roll down Iona's cheek, she began to apologize to Iona for
 hurting her, but she stopped apologizing when she saw the look on Iona's face.
 
 Iona grabbed on to Kaia's harness and began to rub the tears on her cheeks onto
-Kaia's face. Kaia felt oddly touched by this gesture. She had never seen Iona
-express any kind of emotion before. In Iona, Kaia saw her own emotions being
-reflected back at her. Kaia had felt like crying since Ben confirmed that Fera
-was dead. Iona was so cool, composed, and in control at all times, that seeing
-her cry stirred something deep inside Kaia. Rubbing her face into Iona's face
-like a kitten begging to be stroked, Kaia let loose the emotions she had been
-holding in.
+Kaia's face. Kaia felt oddly touched by this gesture. In Iona, Kaia saw her own
+emotions being reflected back at her. Iona was so cool, composed, and in
+control at all times, that seeing her cry stirred something deep inside Kaia.
+Rubbing her face into Iona's face like a kitten begging to be stroked, Kaia let
+loose the emotions she had been keeping inside.
 
 As their tears mixed together, Kaia and Iona held each other's faces in their
-hands. Kaia knew her own feelings mirrored the way Iona felt. Kaia and Iona
-were on the same wavelength. They both felt sorrow and also the rapture of
-cathartic release of emotions with someone who understood and shared those
-emotions. Kaia felt grateful to Iona. Somehow, Kaia had stumbled upon exactly
-what she needed. Kaia had no idea how to express her gratitude. She began to
-gently kiss Iona's cheeks, absorbing Iona's tears with her lips.
+hands. Kaia and Iona were on the same wavelength. They both felt sorrow and
+also the rapture of cathartic release of emotions with someone who understood
+and shared those emotions. Kaia felt grateful to Iona. Somehow, Kaia had
+stumbled upon exactly what she needed. Kaia had no idea how to express her
+gratitude. She began to gently kiss Iona's cheeks, absorbing Iona's tears with
+her lips.
 
-"I think those two misunderstood what I meant by sexy fighting," Ursa whispered
-to Sata.
+"I think those two misunderstood what I meant by crazy, sexy fun," Ursa
+whispered to Sata.
 
 "I dunno. I guess crying can be sexy. If you're into that kinda thing. And it
 looks like they are really into it," Sata replied. "Do you want to try it?"
@@ -367,9 +430,9 @@ her face in the opening of Ursa's jumpsuit and chomping down. Ursa squealed and
 lost control of her arms and legs. Sata started to laugh, but Ursa grabbed her
 and looked into her eyes with a very serious expression. "Sata, do that again,
 but this time pretend you're a shark tearing apart your prey. I want you to
-really rip into me. Don't come back up until you taste blood." Sata
-looked shocked, but then smiled mischievously. If this was a dream, Sata wanted
-to get to the best part before she woke up.
+really rip into me. Don't come back up until you taste blood." Sata looked
+shocked, but then smiled mischievously. If this was a dream, Sata wanted to get
+to the best part before she woke up.
 
 As Sata channeled her inner shark, Ursa whispered violent words of
 encouragement. "That's right, really sink your teeth into me. I want you to
@@ -381,7 +444,7 @@ guttural grunt.
 
 All four girls were surprised when they felt their legs touching the ground.
 They looked around and saw the confused, shocked faces of everyone around them.
-All of them were frozen in place. Arla was holding on to Officer Kransal. Zek,
+Everyone was frozen in place. Arla was holding on to Officer Kransal. Zek,
 still doubled over after being punched by Ursa, was kneeling in front of them.
 Zok and Lan were still holding on Edl. Ben walked in and started in inquire
 about the trip up from the ground, but stopped as his brain struggled to
@@ -389,9 +452,9 @@ process what he was observing.
 
 "Is everyone alright? Why are the rescue cables so tangled?" Ben asked.
 
-Everyone exchanged looks. Not everyone understood what had happened and those
-who did were not up to the task of explaining it. Ben picked up on this and
-tried to change the subject.
+No one answered. Not everyone understood what had happened and those who did
+were not up to the task of explaining it. Ben picked up on this and tried to
+change the subject.
 
 "We'll be landing at the refugee camp shortly. You will not need your harnesses
 anymore, so can take them off whenever you're ready."
@@ -401,16 +464,17 @@ harness. Kaia was sad to separate from Iona, but felt better after having a
 good cry. Ursa leaned into Sata and whispered. "Next time, you'll know where to
 bite. I got shot in that spot during on a spy mission." Sata laughed, assuming
 it was a joke since Ursa's skin was perfectly smooth and devoid of anything
-that might resemble a battle wound.
+that might resemble a battle scar.
 
 Ben led them to the fore observation deck. The lights from the refugee camp was
 already visible.
 
 "The airship must have crashed really close to the refugee camp," Kaia said.
 
-"Yes, that's right. The artificial lake into which the airship crashed is
-separated from the refugee camp only by the Vistula River and Wolski Forest. You
-could have walked there in a little less than an hour."
+"Yes, that's right. You could have walked there in a little less than an hour,
+if there were a way to safely cross the Vistula River and Wolski Forest."
+
+...
 
 "I'm glad we took a little detour," Kaia said, "but I'm happy that we're going
 to be in one place for a little while."
@@ -435,64 +499,12 @@ were a cynic, I would say the government knew that Katowice was built on an
 interconnected grid of self-destruct systems and did nothing to remedy the
 situation."
 
-"What set off the self-destruct systems?"
-
-"Why it was our dear mutual friend Fera! Oh, but it might be best if you not
-share that detail with anyone until after the remembrance ceremony we are
-planning."
-
-"Why did Fera blow up the city?"
-
-"I believe there were several motivating factors. First, destroying the city
-could have been a way for Fera to exert control and lash out against authority.
-Fera had a difficult situation at home and a history of violence related to
-abuse she suffered at the hands of her father. Second, I believe Fera was
-trying to evidence of the changes she had made using the school's computer
-systems."
-
-"What changes did she make?"
-
-"Fera obtained full pardons for you, Sata, and herself. She also replaced all
-of the initiation rite recordings with deep fakes. There are recordings there
-of all three of you flawlessly completing the initiation rite.
-
-"Fera died after saving us and making sure we wouldn't have to go through the
-rite again?" Kaia asked but burst into tears before Ben could confirm.
-
-Sata, Ursa, and Iona swooped in just as Kaia was about to fall to her knees.
-Surrounding Kaia, they hugged her from all sides and supported her physically
-and emotionally.
-
-Ben wiped tears from his eyes and began talking about Fera to no one in
-particular. "She really was quite remarkable. The best Vice President, perhaps
-even the best member, the MIG has ever had. At times, I forget that so was a
-freshman. So much potential! I must admit that I was quite fond of her. Even
-though a personal relationship between MIG Executives would have been very
-unprofessional and a potential conflict of interest, I was considering the
-possibilities of Fera and I attending the same university and perhaps even
-working in the same laboratory! When I would be finishing up my postdoctoral
-training, Fera could be beginning her own. Instead of immediately securing a
-faculty position, I could work in industry for a few years, so that Fera and I
-could start on the track to tenure together. Tenure would guarantee us both a
-lifetime of intellectually-stimulating scholarship and academic productivity!"
-Ben was breathing quickly by the end of his monologue. No one listening, but
-Ben did not notice. He was lost in glorious visions of a future that could have
-been.
-
-At the center of a circle of love, Kaia felt much better. No howling winds. No
-metallic tendrils. No skeletons. No dust mixed with bone fragments. She felt
-warm and safe, surround by friends. Kaia felt that she was finally fitting in,
-and not by pretending to be someone else, but rather by being her quirky,
-imperfect self. Kaia was so lucky to have such amazing friends like Iona, Ursa,
-and Sata. Even though Kaia had only known Fera for a very short time, Kaia knew
-that Fera was also a great friend, despite her callous, indifferent demeanor.
-
-The four girls continued their group hug long after the airship landed. When
-Kaia looked up, she saw that apart from the group hug participants, the only
-people left on the airship were Ben and Edl.
+...
 
 Ben was writing a speech for Fera's remembrance ceremony, while Edl watched Ben
 tap away at the console.
+
+...
 
 I'm a little tired," Sata admitted. "Is there any way we could continue this
 but rotated 90 degrees?"
