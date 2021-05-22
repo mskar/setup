@@ -48,6 +48,8 @@ brew "pandoc"
 brew "pass"
 # PDF rendering library (based on the xpdf-3.0 code base)
 brew "poppler"
+# File browser
+brew "ranger"
 # Perl-powered file rename script with many helpful built-ins
 brew "rename"
 # Search tool like grep and The Silver Searcher
@@ -62,6 +64,8 @@ brew "the_silver_searcher"
 brew "tldr"
 # Terminal multiplexer
 brew "tmux"
+# Ncurses based file manager with vi like keybindings
+brew "vifm"
 # Vi 'workalike' with many additional features
 brew "vim"
 # Fish-like fast/unobtrusive autosuggestions for zsh
@@ -78,17 +82,26 @@ brew "romkatv/powerlevel10k/powerlevel10k"
 cask "alfred"
 # Utility to set up alt-tab to switch between windows
 cask "alt-tab"
+# Web browser focusing on privacy
+cask "brave-browser"
 # Clipboard manager with advanced features
 cask "copyq"
+# Text editor
 cask "emacs"
 # Web browser
 cask "firefox"
 cask "font-fira-code-nerd-font"
+# Icon set and toolkit
+cask "font-fontawesome"
 cask "font-source-code-pro"
+# Free and open-source image editor
+cask "gimp"
 # Web browser
 cask "google-chrome"
 # Desktop automation application
 cask "hammerspoon"
+# Vector graphics editor
+cask "inkscape"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
 # JetBrains tools manager
@@ -103,6 +116,8 @@ cask "miniforge"
 cask "r"
 # Window management application (replacement for Divvy/SizeUp/ShiftIt)
 cask "slate"
+# Customizable email client
+cask "thunderbird"
 cask "ukelele"
 # GUI for the Neovim text editor
 cask "vimr"

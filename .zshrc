@@ -122,6 +122,7 @@ alias bD="git branch -D" # delete branch (even if not merged)
 alias ba="git branch --all"
 alias bb="func() { local branch=$(echo '$(git branch --color=always --verbose | fzf --ansi --bind="alt-y:execute-silent(echo {} | cut -c3- | cut -d \  -f1 | pbcopy),alt-x:execute-silent(git branch -D {1})+reload(git branch --color=always --verbose)" --preview="git diff --color=always \$(echo \$(git rev-parse --abbrev-ref HEAD)..{1}) | delta | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always" | cut -c3- | cut -d " " -f1)') && [ $(echo '$branch') ] && git checkout $(echo '$branch'); }; func"
 alias bbd="brew bundle dump --describe"
+alias bbdf="brew bundle dump --describe --force"
 alias bbi="brew bundle install --global"
 alias bd="git branch --delete" # delete fully merged branch
 alias bi="brew install"
