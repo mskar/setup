@@ -431,3 +431,138 @@ see their parents, but also sad that Fera's parents would never be reunited
 with their daughter. Kaia decided that she would try to talk to Fera's parents
 at the remembrance ceremony later that evening.
 
+...
+
+"Isn't it weird to wear BugBall uniforms when we're not playing?"
+
+"We don't really have any other option after they took our clothes to be washed."
+
+Sata, Kaia, Ursa, and Iona emerged from the locker rooms in BugBall uniforms
+consisting of violet sneakers, blue socks, green shorts, and shirts with
+yellow, orange, and red stripes. Outside the locker room, an impeccably dressed
+man was waiting along with two ButlerBaboons in tuxedos.
+
+"Greetings, I'm Ardryśmiś Ohudzki, the manager of Rainbow Sports Club, but
+please call me Ard. I was very impressed by the match you played this morning.
+Up until today, Edlvardos Pembrok has been undefeated-"
+
+"Give us back our clothes, you pervert!" Ursa yelled.
+
+Ard barely skipped a beat. "Your clothes will be ready in about 15 minutes, but
+you can stay here as my guests for as long as you like. For starters, I'd like
+to treat you to lunch."
+
+Ursa was not impressed. "There's no such thing as free lunch. What do you
+want?"
+
+"I would like to discuss a potential business arrangement that I believe would
+be mutually-"
+
+"Tell us what it is now," Ursa demanded.
+
+"I would like you to represent the Rainbow Sports Club."
+
+"OK, you can talk business with Iona while the rest of us eat."
+
+"Excellent, please follow me. There's an excellent lunch place nearby."
+
+Ard led them to a small metal shack covered BuzzBee designs with a large sign
+that read "Apis". Inside the shack, there were a few tables, a counter, and an
+empty display case.
+
+Ard swept his hand in a half circle in front of him. "This fine establishment
+has been the best place to eat in the refugee camp for ages. I heard that it
+was first constructed to feed workers renovating Juvenia Stadium before manual
+labor by humans became illegal."
+
+
+They sat down at a table near the window. Ard continued to play the host.
+"Please feel free to order anything you like. Remember it's my treat. I usually
+order borscht and compote to drink, tripe soup or sour rye soup for the first
+course, and poultry gizzards in mushroom sauce or the beef tongue in horseradish sauce
+for the second course."
+
+What does everyone order?
+
+Iona explains that it would be better for Ard to make donations to the
+performance group instead of paying them directly, because this minimizes tax
+obligations for both parties and Iona can use the performance group money for
+anything she likes. Ard agrees to become a PlatinumPatron and have the Rainbow
+Sports Club sponsor the performance group in exchange for advertising and VIP
+seating for himself during their next two performances. The girls agree to pose
+for a picture (the PictureParrot flies into Apis) and wear the uniforms for the
+whole day until Fera's remembrance ceremony. Ard was disappointed that the
+girls did not want to wear the rainbow uniforms to the remembrance ceremony,
+but eventually agreed that the rainbow colors might not be the best choice for
+grieving.
+
+Ard warns them to watch out for fans of the opposing BugBall team, the All
+Grays.
+"You'll recognize them immediately because they only wear gray."
+
+In Apis, Kaia and Sata spit out the food when they hear that it is made using
+protein from BugBall bugs. Ursa keeps eating, but tells them that the
+vegetables are not made from BugBall bug protein. The vegetables are grown in
+space. Kaia and Sata are relieved until Ursa tells them they have BugBall in
+space too and that the vegetables are fertilized with BugBall bug excrement.
+
+...
+
+Zek asks if Kaia can help him with something. Sata asks if she can go too. Zek
+is unsure, but Kaia says that she does not want to leave Sata. They leave Ben
+on the bleachers and head to Wolski Forest.
+
+Kaia explains that Zek is going to teach Kaia self-defense. Sata asks if she
+can learn too. Zek says that she can try but not to be disappointed if the
+techniques do not work for her.
+
+Zek shows them a wicker basket hid in the woods. Inside are sleepSnakes (aka
+slumberSerpents). Zek takes out two snakes and does a demonstration. The snakes
+are coiled around his forearms and strike whenever Zek punches.
+
+"Is that like how Ben controls animalAutomatons?"
+
+"Ben uses gloves to control animalAutomatons, you will be able to control these
+snakes with mind."
+
+Sata says that she doesn't want to hold the snakes and Kaia doesn't want to
+either.
+
+Zek says that they can try something else. Zek says that another power that
+Kaia has is to blind and disorient opponents. Zek says that he is afraid to do
+a demonstration, but that there is no other way to learn. Sata agrees to be a
+volunteer. Zek tells Kaia to stand next Sata and to be ready to catch her, then
+Zek twists his hand and it appears as if a second Sata twists out of the first,
+but Sata's flail their arms in panic before the standing Sata falls into sync
+with the twisted Sata. Sata flies flailing into Kaia's arms. Sata says that her
+world went sideways. Zek says that Kaia should try to disorient him. Kaia tries
+but cannot.
+
+Zek says not to worry and that they can try something else. Zek appears to
+conjure a dark veil from nowhere and throw it onto Sata's face. Sata goes blind
+and becomes very afraid. Kaia pulls off the veil to restore Sata's sight. Zek
+says Kaia should try to blind him now. Kaia tries but cannot.
+
+Kaia is frustrated that she cannot conjure the veil. Zek says that it will come
+with time, but that the two girls should rest for now and that they'll try
+again tomorrow.
+
+The three head to the BugBall field, but everyone is gone. Zek says that they
+should head to the mess tent for lunch and that he, Ursa, and Iona
+will join them as soon as he can.
+
+Outside the mess tent, Pyr and his Posse ambush Kaia and Sata. This time Pyr is
+wearing a helmet and looking very suspiciously at any birds in his vicinity.
+They use plastic lunch trays to block the view of overhead drones and knock the
+girls to the ground. The girls hold on to each other as the boys kick them,
+Kaia sees the pain on Sata's face and begins to experience a vision of the war.
+Sata is a fallen comrade, dying in Kaia's arms. Lashes out in anger all around
+her blinding all of the boys simultaneously. Kaia then sees copies of all of
+the boys float up and flip upside down, before crashing down into themselves.
+The boys outside the circle come to take away the ones that were blind and
+disoriented. Kaia and Sata are left on the ground, bruised and bleeding.
+
+Zek, Ursa, and Iona arrive and take Kaia and Sata to the infirmary.
+
+The chapter ends with Kaia delivering the line referencing the chapter title:
+"Just when I thought we were finally fitting in."

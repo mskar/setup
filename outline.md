@@ -118,22 +118,24 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - The discussion focuses on death and Scenderism
   - Kaia asks about whether Fera could have become a Scender and Ben starts to answer but breaks down crying
   - The airship raises everyone via cable
-  - Zek and Lan 
-  - In an effort to make Zek
+  - Zek and Lan wrap themselves up with Edl
+  - In an effort to make Zek jealous, Ursa initiates a sexy fight
+  - Ursa has a meltdown in Edl's tent
   End: Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
-- 04: To err is human
-  - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message send by Ben.
+- 05: To err is human
+  - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message sent by Ben.
   - On the way to BugBall practice, the girls get obwarzanki from a street vendor
   - Ursa eats one obwarzanek, Kaia and Sata split one, Iona says that she is fasting
   - At BugBall practice, Ben apologizes. Edl runs over and apologizes too.
   - Ursa challenges the boys to a BugBall match. The girls win and Ben agrees to their demands.
-  End: Kaia thinks about Fera's family as she goes to the showers with Sata, Iona, and Ursa.
-- 05: Finally fitting in
-  - The girls meet Ard, the Rainbow Sports Club Manager
+  - Kaia thinks about Fera's family as she goes to the showers with Sata, Iona, and Ursa.
+  - The girls find their clothes have been replaced with rainbow uniforms and a note
+  - Outside the locker room, they meet Ard, the Rainbow Sports Club Manager
   - Zek invites Kaia to train with him. Sata, Iona, and Ursa tags along.
   - Ursa volunteers to be used for target practice by Zek and Kaia (blinding, disorientation, etc.)
   - Sata and Kaia are beaten up by Pyr and his Posse. Kaia uses her powers to save herself and Sata.
   - Zek, Iona, and Ursa take Kaia and Sata to the infirmary
+- 05: Finally fitting in
   - Everyone visits Kaia and Sata in the infirmary
   - Kaia watches the remembrance ceremony with Sata in the infirmary
   - A woman in a black veil and ornate dress starts laughing during Ben's speech
@@ -142,7 +144,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - an blue and green ornate lolita dress
     - La Calavera Catrina-style face makeup
     - a black lace gloves with bones sown into the top
-  - Fera raises a begloved hand, points at Kaia says
+  - Fera raises a begloved hand, points at Kaia and says
     - that Kaia and Sata are responsible for her death and
     - that she is going to haunt them until they die, which won't be very long from now
   - Kaia and Sata recognize that its Fera and think that she is a ghost
@@ -152,71 +154,11 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - says she can't decide which one she will dissect first
   - Kaia and Sata
     - throw pillows at Fera, which she slashes in midair
-    - look for a weapon or something that can slash the fabric of the tent
     - run into a corner
+    - look for a weapon or something that can use to cut the fabric of the tent so they can escape
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
   End: Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the two Feras
 
-Zek asks if Kaia can help him with something. Sata asks if she can go too. Zek
-is unsure, but Kaia says that she does not want to leave Sata. They leave Ben
-on the bleachers and head to Wolski Forest.
-
-Kaia explains that Zek is going to teach Kaia self-defense. Sata asks if she
-can learn too. Zek says that she can try but not to be disappointed if the
-techniques do not work for her.
-
-Zek shows them a wicker basket hid in the woods. Inside are sleepSnakes (aka
-slumberSerpents). Zek takes out two snakes and does a demonstration. The snakes
-are coiled around his forearms and strike whenever Zek punches.
-
-"Is that like how Ben controls animalAutomatons?"
-
-"Ben uses gloves to control animalAutomatons, you will be able to control these
-snakes with mind."
-
-Sata says that she doesn't want to hold the snakes and Kaia doesn't want to
-either.
-
-Zek says that they can try something else. Zek says that another power that
-Kaia has is to blind and disorient opponents. Zek says that he is afraid to do
-a demonstration, but that there is no other way to learn. Sata agrees to be a
-volunteer. Zek tells Kaia to stand next Sata and to be ready to catch her, then
-Zek twists his hand and it appears as if a second Sata twists out of the first,
-but Sata's flail their arms in panic before the standing Sata falls into sync
-with the twisted Sata. Sata flies flailing into Kaia's arms. Sata says that her
-world went sideways. Zek says that Kaia should try to disorient him. Kaia tries
-but cannot.
-
-Zek says not to worry and that they can try something else. Zek appears to
-conjure a dark veil from nowhere and throw it onto Sata's face. Sata goes blind
-and becomes very afraid. Kaia pulls off the veil to restore Sata's sight. Zek
-says Kaia should try to blind him now. Kaia tries but cannot.
-
-Kaia is frustrated that she cannot conjure the veil. Zek says that it will come
-with time, but that the two girls should rest for now and that they'll try
-again tomorrow.
-
-The three head to the BugBall field, but everyone is gone. Zek says that they
-should head to the mess tent for lunch and that he will go find Ursa and Iona
-and join them as soon as he can.
-
-Outside the mess tent, Pyr and his Posse ambush Kaia and Sata. This time Pyr is
-wearing a helmet and looking very suspiciously at any birds in his vicinity.
-They use plastic lunch trays to block the view of overhead drones and knock the
-girls to the ground. The girls hold on to each other as the boys kick them,
-Kaia sees the pain on Sata's face and begins to experience a vision of the war.
-Sata is a fallen comrade, dying in Kaia's arms. Lashes out in anger all around
-her blinding all of the boys simultaneously. Kaia then sees copies of all of
-the boys float up and flip upside down, before crashing down into themselves.
-The boys outside the circle come to take away the ones that were blind and
-disoriented. Kaia and Sata are left on the ground, bruised and bleeding.
-
-Zek, Ursa, and Iona arrive and take Kaia and Sata to the infirmary.
-
-The chapter ends with Kaia delivering the line referencing the chapter title:
-"Just when I thought we were finally fitting in."
-
-"Just when I though we were finally fitting in."
 
 - 06: Never looked better
   - Eagles save Ral, Fera, and Mel
