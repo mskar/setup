@@ -442,13 +442,13 @@ consisting of violet sneakers, blue socks, green shorts, and shirts with
 yellow, orange, and red stripes. Outside the locker room, an impeccably dressed
 man was waiting along with two ButlerBaboons in tuxedos.
 
-"Greetings, I'm Ardryśmiś Ohudzki, the manager of Rainbow Sports Club, but
-please call me Ard. I was very impressed by the match you played this morning.
+"Greetings, I'm Darryśmiś Ohudzki, the manager of Rainbow Sports Club, but
+please call me Dar. I was very impressed by the match you played this morning.
 Up until today, Edlvardos Pembrok has been undefeated-"
 
 "Give us back our clothes, you pervert!" Ursa yelled.
 
-Ard barely skipped a beat. "Your clothes will be ready in about 15 minutes, but
+Dar barely skipped a beat. "Your clothes will be ready in about 15 minutes, but
 you can stay here as my guests for as long as you like. For starters, I'd like
 to treat you to lunch."
 
@@ -466,17 +466,17 @@ be mutually-"
 
 "Excellent, please follow me. There's an excellent lunch place nearby."
 
-Ard led them to a small metal shack covered BuzzBee designs with a large sign
+Dar led them to a small metal shack covered BuzzBee designs with a large sign
 that read "Apis". Inside the shack, there were a few tables, a counter, and an
 empty display case.
 
-Ard swept his hand in a half circle in front of him. "This fine establishment
+Dar swept his hand in a half circle in front of him. "This fine establishment
 has been the best place to eat in the refugee camp for ages. I heard that it
 was first constructed to feed workers renovating Juvenia Stadium before manual
 labor by humans became illegal."
 
 
-They sat down at a table near the window. Ard continued to play the host.
+They sat down at a table near the window. Dar continued to play the host.
 "Please feel free to order anything you like. Remember it's my treat. I usually
 order borscht and compote to drink, tripe soup or sour rye soup for the first
 course, and poultry gizzards in mushroom sauce or the beef tongue in horseradish sauce
@@ -484,19 +484,19 @@ for the second course."
 
 What does everyone order?
 
-Iona explains that it would be better for Ard to make donations to the
+Iona explains that it would be better for Dar to make donations to the
 performance group instead of paying them directly, because this minimizes tax
 obligations for both parties and Iona can use the performance group money for
-anything she likes. Ard agrees to become a PlatinumPatron and have the Rainbow
+anything she likes. Dar agrees to become a PlatinumPatron and have the Rainbow
 Sports Club sponsor the performance group in exchange for advertising and VIP
 seating for himself during their next two performances. The girls agree to pose
 for a picture (the PictureParrot flies into Apis) and wear the uniforms for the
-whole day until Fera's remembrance ceremony. Ard was disappointed that the
+whole day until Fera's remembrance ceremony. Dar was disappointed that the
 girls did not want to wear the rainbow uniforms to the remembrance ceremony,
 but eventually agreed that the rainbow colors might not be the best choice for
 grieving.
 
-Ard warns them to watch out for fans of the opposing BugBall team, the All
+Dar warns them to watch out for fans of the opposing BugBall team, the All
 Grays.
 "You'll recognize them immediately because they only wear gray."
 

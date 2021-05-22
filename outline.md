@@ -139,7 +139,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - a towel is not the revealing in comparison to wet underwear
   - Sata takes interest and interrogates Kaia about the swim she took with Ursa
   - The girls find their clothes have been replaced with rainbow uniforms and a note
-  - Outside the locker room, they meet Ard, the Rainbow Sports Club Manager
+  - Outside the locker room, they meet Dar, the Rainbow Sports Club Manager
   - Zek invites Kaia to train with him. Sata, Iona, and Ursa tag along.
   - Ursa volunteers to be used for target practice by Zek and Kaia (blinding, disorientation, etc.)
   - Kaia and Sata say they want to go to the Maker Tent as Ben suggested
@@ -174,12 +174,17 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - advances slowly towards Kaia and Sata
     - says she can't decide which one she will dissect first
   - Kaia and Sata
+    - bruised and wearing infirmary gowns
     - throw pillows at Fera, which she slashes in midair
     - run into a corner
     - look for a weapon or something that can use to cut the fabric of the tent so they can escape
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
   - Another Fera drops from above slowly by holding onto the fabric of the tents roof as it rips
-  End: Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the three Feras
+  - Kaia holds Sata as Sata has seizure after seizure
+  - Kaia tries to use her powers against the three Feras
+    - but the veils she throws disintegrate
+    - and she cannot spin the axes of the Feras to disorient them
+  End: Kaia holds Sata as the three Feras move closer with six bone knives drawn
 - 07: Never looked better
   - Eagles save Ral, Fera, and Mel
   - The Driads help them
@@ -233,12 +238,14 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - They say that they are now certain that they picked the right person to lead their revolution
   End: Fera, Unoa, and Eiva climb up the rope as Unoa remotely refills the lake
 - 08: To err is human
-  - "Look at them. Ready to fight for their lives. They're so cute," Eiva said.
+  - "Look at them. Crying scared for their lives. They're so cute," Eiva said.
   - "You couldn't say one thing without breaking out of character?" Fera asked.
-  - "I couldn't help it; they're just too cute. Can we keep them?" Eiva asked.
+  - "I couldn't help it. They're just too cute. Can we keep them?" Eiva asked.
   - "You mean like pets?" Fera asked.
   - "Yes, we can take them for walks, give them belly rubs and kisses..."
-  - "This isn't funny, Fera."
+  - "I would also like to keep these two humans as pets," Unoa admitted.
+  - "No pets!" Fera said definitely.
+  - Sata was not amused. "This isn't funny, Fera."
   - "You'd appreciate it more if you could see the looks on your faces," Fera said.
   - "If only you had seen the look on Pyr's face when I broke his arms!" Fera said laughing.
   - "It was quite humorous when I broke his humerus!" Fera said laughing even harder.
@@ -263,36 +270,154 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - "Oh, you don't have to draw anything. That's just my friends being jerks."
   - Arla, Lan, and Ral come to talk to Kaia and Sata
   - Arla and Lan invite them to the dance performance
-  - Kaia and Sata go to Fera' tent because they are tired of the hospital food
-  - Fera invites them to become Sinistrae
-  - Kaia and Sata are unsure
-    - but they each take a skinScabbard full of bone knives
-    - just in case they get attacked again
-  - Kaia and Sata go to see the dance performance
+  - Kaia and Sata they will have to watch it on the tent walls like the remembrance ceremony
+  - Fera, Eiva, and Unoa
+    - sneak into the infirmary dressed as nurses
+    - Eiva holds down Kaia and Unoa holds down Sata
+    - Fera injects each of them with Sinistrae
+  - Kaia says that she no longer hears voices
+  - Kaia and Sata
+    - feel much better
+    - seem to miraculously recover from their injuries
+    - agree to go to Fera's tent
+  - Fera tells them about Sinistrae
+  - Kaia and Sata
+    - agree to take the equipment just in case they get attacked again
+    - put on bone lace gloves and skinScabbards full of bone knives
+    - feel better and stronger
+  - Kaia and Sata, Eiva, Fera, Unoa
+    - change into matching goth lolita dresses that Fera got for them
+    - appreciate that the bone lace gloves match the dresses perfectly
+    - go to see Ben and Edl at the Maker Tent
+  - Ben and Edl
+    - cry tears of joy and disbelief when they see Fera
+    - notice that her presence deactivates their tech
+  - Fera
+    - asks Ben to help her build unique tech as a partnership between Reli Corp and Ende Corp
+    - challenges Edl to a public arm wrestling match
+  - Ben and Edl are both intrigued and happily agree
+  - Fera says that the arm wrestling match will be before the dance performance
+  - Fera says that
+    - her company are a major sponsor of the performance
+    - she bought PlatinumPatron status for herself, Eiva, Unoa, Kaia, and Sata
+    - and plans to get her money's worth in food and champagne during the performance
+  - Ben says that
+    - he and Edl are also PlatinumPatrons
+    - Ende Corp is also sponsoring the performance
+  - At the refugee camp amphitheater, Fera
+    - jumps up on stage
+    - says that she will challenge anyone to an arm wrestling match
+    - calls out Edl from the crowd
+    - loses the first match to Edl
+    - barely wins the second match
+    - easily wins the third match
+  - To prove that the match with Edl was not staged,
+    - Fera accepts other challengers including
+      - strike force officers,
+      - Rainbow hooligans,
+      - All Grays hooligans
+  - Kaia and Sata are happy to be able to see the dance performance in person
+  - Fera orders champagne and fancy food for everyone and eats loudly during the performance
   - The performance is sponsored by Reli Corp and there are ads for Detox Sticks everywhere
-  - Iona, Sata, Kaia, and Zek take Ursa to the tent she shares with Zek, Zok, and Iona
-  - Ursa asks to talk to Kaia alone, Kaia is stunned by Ursa's confession
-  - Kaia tells Ursa that she thinks Zok and Lan did not mean to hurt her
-  - "Maybe every time they ran off together, they were just rehearsing for the surprise performance?"
-  - Kaia tells Ursa that she will talk with Lan and Zok, then leaves Ursa alone in Ursa's tent
-  - Ursa asks if Kaia would stay with her, but Kaia says that she is going to talk to Lan and Zok
-  - Outside the tent, Kaia says she wants to talk with Sata alone, Iona and Zek stay to watch over Ursa
+  - The performance is also sponsored by Ende Corp and there are ads for PeoplePrinters everywhere
+  - Kaia, Sata, Fera, Eiva, Unoa, Ben, and Edl
+    - sit in their VIP seats right before the dance performance is about to begin
+  - The main performance goes really well
+    - Arla dances with Lan
+    - Ursa dances with Zok
+    - Iona dances with Zek
+  - Arla
+    - is very happy that Taz was there in the front row
+    - gets sick when she hugs Kaia and Sata after the performance
+    - throws up and nervously blames it on still being nervous after performing
+    - says she has to go learn the lines for the theater play
+  - Kaia and Sata promise to come see Arla perform
+  - Arla
+    - says that it's unlikely that they will see her perform because she is only a trunderstudy
+    - explains what a trunderstudy is
+  - Ursa
+    - breaks down crying after the surprise performance by Lan and Zok
+    - asks to talk to Kaia alone
+    - disagrees with Kaia when Kaia says that she thinks Zok and Lan did not mean to hurt Ursa
+      - "Maybe every time they ran off together, they were just rehearsing for the surprise performance?"
+    - confesses to Kaia that she was a man who
+      - scended to come back as a woman
+      - stole and assume his sister's identity after forcing his sister and her family to scend
+      - was forced to become a spy for the scenders after they found about the identity theft
+  - Kaia
+    - is shocked by Ursa's confession
+    - tells Ursa that she will talk with Lan and Zok, then leaves Ursa alone in Ursa's tent
+  - Outside the tent, Kaia says she wants to talk with Sata alone
+  - Iona and Zek stay to watch over Ursa
   - Kaia tells Sata what she learned about Ursa
   - Sata says that it shouldn't matter who Ursa was before because she is their friend now
   - Kaia admits that she feels uncomfortable around Ursa now
   - Kaia and Sata finds Lan and Zok dancing and cooking in the kitchen together
   - Lan and Zok they tell Kaia and Sata to just let them be happy together
-  - Kaia and Sata walk back to their family tents and ask their parents if they can have a sleepover
-  - Their parents ask if the two girls aren't getting to old to be having sleepovers, but eventually agree
-  - Kaia and Sata talk about forgiveness and whether they should forgive that Pyr, Zok, Lan, and Ursa
+  - Kaia and Sata
+    - meet up with Fera, Unoa, and Eiva for dinner
+    - say that they prefer to spend their familys' tents rather than in the Sinistrae tent
+  - Fera
+    - gives them goth pajamas as a present
+    - says that she has a private tent ready for them
+  - Kaia and Sata
+    - say that a private tent might nice so that they could talk in private
+  - In their private tent, Kaia and Sata talk about
+    - forgiveness and friendship
+    - whether they should forgive that Pyr, Zok, Lan, and Ursa
+  - Before going to sleep,
+    - Kaia asks if Sata could sleep in the same bed as her
+    - Sata says that assumed that's what they would do
+    - They snuggle together
+    - Kaia has the first dreamless, peaceful sleep in a long time
 - 08: Happiest day ever
-  - Arla visits them and says not to be mad at Lan and invites them to the play
-  - Arla says that she is excited to be Ursa's trunderstudy
+  - The next day, Kaia and Sata wake up feeling great
+  - They go with Fera, Eiva, and Unoa to watch BugBall practice
+  - Ursa, Iona, and Edl are playing
+  - Zek and Ben are watching
+  - Lan is with Zok
+  - Arla is with Taz
+  - Zek
+    - asks to speak to Kaia and Sata privately
+    - tells Kaia he was not able to train her last night in her dreams
+  - Kaia says that she does not feel like she needs to continue the training
+  - Zek says that he strongly disagrees but that he will respect her decision
+  - Zek invites Kaia, Sata, Fera, Eiva, and Unoa to their next performance
+  - Kaia and Sata promise to come to the performance
+  - Ursa
+    - says that she does not feel good about performing
+    - asks Iona if Ursa's understudy can take over
+  - Iona says the performance is too important and that Ursa should take one for the team
+  - Kaia asks if Arla can take over for Ursa
+  - Iona says it is out of the question because Arla is a trunderstudy
   - Kaia gets the idea to ask Ursa to let Arla be the star that night
   - Ursa agrees and tells her understudy and dunderstudy to pretend to be sick
   - To prevent any questions, they tell everyone that all three were kissing each other
   - Arla was not invited to the make out session, because she is with Taz
-  - Kaia and Sata go to see the play
+  - Fera, Eiva, and Unoa challenge Ursa, Iona, and Edl to a BugBall match
+  - The match ends in a draw when the Sinistrae team
+    - accidentally kill their own bugs before they hatch
+    - purposefully kill the opposing team's bugs
+  - Dar comes by and bans Fera, Eiva, and Unoa from playing
+  - Fera makes a deal with Dar
+    - She will supply the Rainbow team with Detox sticks
+    - so that some players can deactivate the opposing teams Bugs
+  - To celebrate the deal, everyone eats at Apis
+  - Kaia and Sata go to find Arla to tell her the good news
+  - Arla is in Taz's tent playing the role of a housewife
+  - Taz is happy to have Arla cook, clean, and overall take care of him
+  - He says that working as an airship mechanic is fine because there is not much work so it is a good cover
+  - Kaia and Sata are touched by how sweet Taz and Arla are to each other
+  - Arla says that she is excited to be the star, but she feels bad for the Ursa and the other two sick girls
+  - Kaia and Sata tell her not to worry about the sick girls because they are not really sick
+  - Kaia and Sata go to Maker Tent to see Fera has set up an adjacent tent
+    - Fera, Eiva, and Unoa are working with Ben on new tech
+    - They have to keep their workspaces completely separate and use gigaphones to communicate
+  - Kaia, Sata, Fera, Eiva, Unoa, Ben, and Edl
+    - go to pre-performance soiree
+    - enjoy their status as PlatinumPatrons by drinking champagne and eating fancy food
+    - chat together before the play starts
+    - sit in their VIP seats right before the play is about to begin
   - The play recounts the story of Vira, the Dust Goddess (played by Arla):
     - she is betrayed by her husband (Zek), who takes control of Thelus and starts the war
     - her younger son (Lan) joins the Martian side, but her older son (Zok) joins the Thelusian side
