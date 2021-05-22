@@ -124,16 +124,23 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   End: Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
 - 05: Finally fitting in
   - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message sent by Ben.
-  - On the way to BugBall practice, the girls get obwarzanki from a street vendor
-  - Ursa eats one obwarzanek, Kaia and Sata split one, Iona says that she is fasting
+  - Iona makes breakfast for everyone
   - At BugBall practice, Ben apologizes. Edl runs over and apologizes too.
-  - Ursa challenges the boys to a BugBall match. The girls win and Ben agrees to their demands.
-  - Kaia thinks about Fera's family as she goes to the showers with Sata, Iona, and Ursa.
+  - Ursa challenges the boys to a BugBall match
+  - The girls win and Ben agrees to their demands.
+  - Kaia, Sata, Iona, and Ursa go to locker room to showers
+  - Kaia get embarrassed in the locker room
+  - Ursa reminds Kaia that
+    - they cliff dove in their underwear and that
+    - a towel is not the revealing in comparison to wet underwear
+  - Sata takes interest and interrogates Kaia about the swim she took with Ursa
   - The girls find their clothes have been replaced with rainbow uniforms and a note
   - Outside the locker room, they meet Ard, the Rainbow Sports Club Manager
-  - Zek invites Kaia to train with him. Sata, Iona, and Ursa tags along.
+  - Zek invites Kaia to train with him. Sata, Iona, and Ursa tag along.
   - Ursa volunteers to be used for target practice by Zek and Kaia (blinding, disorientation, etc.)
-  - Sata and Kaia are beaten up by Pyr and his Posse. Kaia uses her powers to save herself and Sata.
+  - Why do they separate?
+  - Sata and Kaia are beaten up by Pyr and his Posse
+  - Kaia uses her powers to save herself and Sata
   - Zek, Iona, and Ursa take Kaia and Sata to the infirmary
 - 06: Get well soon
   - Everyone visits Kaia and Sata in the infirmary
