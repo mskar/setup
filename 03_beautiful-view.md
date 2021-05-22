@@ -14,7 +14,7 @@ trying to rip them away from Sata. Sata looked at Kaia in shock.
 
 "Sata, Kaia," Arla said, running up to the edge of the bed, "put on these
 shoes." Arla handed each of the girls a pair of ballet flats from a satchel she
-wore across her shoulder, "Just slip them on and let's go. Fera and Ral left
+wore across her shoulder, "Just slip them on and let's go. Fera and Raf left
 while you were sleeping."
 
 "It could be just a drill," Sata said.
@@ -118,7 +118,7 @@ me. I have the best seats in the best airship reserved for us."
 heard?! The entire city is going to explode! We have to be ready to evacuate as
 soon as we get the signal."
 
-"We have to go back for Ral and Fera.", Kaia said.
+"We have to go back for Raf and Fera.", Kaia said.
 
 "Oh no, I'm afraid that will be absolutely impossible! Anyone trying to leave
 this area will be executed immediately to ensure a safe and organized

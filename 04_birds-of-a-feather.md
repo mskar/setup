@@ -50,7 +50,7 @@ members than the maker group."
 "That's not funny. The Maker Interest Group lost its Vice President and
 quite possibly its Secretary today."
 
-Arla rushed up to Ben. "Did something happen to Ral?"
+Arla rushed up to Ben. "Did something happen to Raf?"
 
 "We do not know definitively, but he may have fallen victim to the explosion
 along with our Vice President. There are no records of them evacuating the
@@ -63,16 +63,16 @@ Kaia waited a moment before asking, "Do you if our friend Fera got out in time?"
 
 Seeing the look of surprise on Ben's face, Sata elaborated on Kaia's question.
 "Fera's the girl with blue and green hair who staged the protest at the
-initiation ceremony. Arla saw Fera leave with Ral before we left the school."
+initiation ceremony. Arla saw Fera leave with Raf before we left the school."
 
 Ben cleared his throat nervously. "The last time we saw Fera, she was still in
-the school with Ral and the Principal. We were tracking Fera's location and the
+the school with Raf and the Principal. We were tracking Fera's location and the
 signal disappeared inside the city during the explosion."
 
 Kaia tried to keep her voice from trembling. "I saw Fera in the city as we were
 taking off. She was on a motorcycle with the Principal."
 
-"Was Ral on the motorcycle with them?" Arla asked.
+"Was Raf on the motorcycle with them?" Arla asked.
 
 "I don't know. It only caught a glimpse of them," Kaia said, but she remembered
 that there was someone lying unconscious on the motorcycle.
@@ -123,7 +123,7 @@ bottle. If you're worried about germs, the alcohol should take care of them."
 Ursa shrugged, took a big swig, and passed the bottle on. Kaia and Sata had
 never drank the wine before, but they were eager to try to see if it might dull
 the horrible reality that they left Fera behind to die. Arla and Lan seemed to
-be feeling the same way about Ral and appeared to try to drown their sorrow in
+be feeling the same way about Raf and appeared to try to drown their sorrow in
 wine.
 
 "Officer Kransal?" Lan asked, offering the bottle.

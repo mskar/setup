@@ -144,7 +144,7 @@ and camp was filled Driads and the city was patrolled by World Heritage robots.
 There's a rivalry between the maker interest group (MIG) and the theater
 interest group (TIG). The performance group makes fun of the makers for not having
 any members. Ben says that they had as many as four members, but now they are
-down to three and perhaps even two. Arla is upset to hear that Ral is still
+down to three and perhaps even two. Arla is upset to hear that Raf is still
 unaccounted for. Kaia is devastated to find out that Fera was on the ground and
 that her signal disappeared as she was trying to leave the city. She feels
 angry at Sata and doesn't . Sata looks
@@ -178,8 +178,8 @@ night.
 
 "Just when I thought I was finally fitting in."
 
-Fera, Ral, and Naksos arrive at the refugee camp. Pyr is reunited with his
-father. Ral is reunited with Arla and Lan. Fera tells Kaia and Sata that she
+Fera, Raf, and Naksos arrive at the refugee camp. Pyr is reunited with his
+father. Raf is reunited with Arla and Lan. Fera tells Kaia and Sata that she
 has changed and is deeply sorry for how she behaved earlier.
 
 Fera arm wrestles Iona, Ursa, and Edl, beating all of them.
@@ -187,5 +187,5 @@ Fera arm wrestles Iona, Ursa, and Edl, beating all of them.
 "Laughing in people's faces after you win is a great way to make friends."
 
 The chapter ends with a celebration in the refugee camp honoring the return of
-Fera, Ral, and Naksos.
+Fera, Raf, and Naksos.
 

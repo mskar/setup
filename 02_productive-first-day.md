@@ -30,7 +30,7 @@ observing her in the darkness.
 "You know you're creepy as hell," Fera said.
 
 "Yes, I am aware of that. I am still learning how to interact with topsiders.
-My sister is much better. She is a people person," Ral answered.
+My sister is much better. She is a people person," Raf answered.
 
 "Well, then bring her here. I'd rather talk to her."
 
@@ -38,7 +38,7 @@ My sister is much better. She is a people person," Ral answered.
 
 "Shut up, turn on a flashlight, and show me the way out of here."
 
-Ral complied immediately. "Would you like to see the maker workshop?"
+Raf complied immediately. "Would you like to see the maker workshop?"
 
 "Is he still trying to be friends with me?" Fera thought. "What a loser!".
 
@@ -64,12 +64,12 @@ Fera laughed. "And they have money to burn on all of this?"
 
 "If they're so rich, why do they go to a run-down public school?"
 
-"I do not know," Ral said walking up to a console and calling Ben and Edl. "You
+"I do not know," Raf said walking up to a console and calling Ben and Edl. "You
 can ask them yourself."
 
 It was not long before a thin boy wearing powerskates and powergloves zipped
 into the maker shop with another boy nearly as large as a guardGorilla running
-in after him. Coming to sliding stop in front of Fera and Ral, the boy in power
+in after him. Coming to sliding stop in front of Fera and Raf, the boy in power
 skates gestured around the maker workshop and said, "Welcome to the maker
 shop!"
 
@@ -77,7 +77,7 @@ Turning one begloved hand towards himself, "I'm Ben," and the other begloved
 hand to boy behind him, "and this is my little brother Edl,", then bowing deeply
 "and we are both deeply honored to be at your service."
 
-"This is Fera," Ral said. "She likes making things too!"
+"This is Fera," Raf said. "She likes making things too!"
 
 "The gigaphone you built was impressive, considering the limited resources you
 had at your disposal," Edl said. "Just think of what you could build in the
@@ -92,7 +92,7 @@ the workshop, then turning towards a console, "You can also reserve any
 workstation for any period of time," holding up one finger on one hand, "but
 you can only reserve one workstation at a time."
 
-"The reservation schedule looks mostly empty. Actually, you and Ral are the
+"The reservation schedule looks mostly empty. Actually, you and Raf are the
 only ones making reservations. Do people mostly use whatever workstation is
 available?
 
@@ -169,9 +169,9 @@ metabuild when I can metametabuild? Brilliant!"
 
 Then looking up, "Would you like to be Vice President of the MIG?".
 
-"You don't already have a Vice President?". Fera asked looking at Ral and Edl.
+"You don't already have a Vice President?". Fera asked looking at Raf and Edl.
 
-"Edl and Ral said they are happy being Treasurer and Recordkeeper, respectively."
+"Edl and Raf said they are happy being Treasurer and Recordkeeper, respectively."
 
 "I look at the money go in and out.", Edl said proudly.
 
@@ -191,13 +191,13 @@ exercise your executive powers."
 president. Do you want to run? Even though you'll be running unopposed, we
 still have to vote."
 
-"Ok, sure," Fera said, trying her best to sound indifferent. Ral walked up to
+"Ok, sure," Fera said, trying her best to sound indifferent. Raf walked up to
 console to enter a summary of the vote.
 
 "Excellent, with all current members present, we have quorum. All those in
 favor of Fera becoming Vice President of the MIG?"
 
-Ral, Edl, and Ben all raised their hands, said "Aye!", and then all looked at
+Raf, Edl, and Ben all raised their hands, said "Aye!", and then all looked at
 Fera.
 
 When Fera realized that they were waiting for her, she raised her hand and said,
@@ -214,7 +214,7 @@ the school year. If you like you can run for President."
 "I am a senior this year, so I cannot run again. Even if I could, it would be
 wise to start preparing the next generation of MIG leadership."
 
-"If you run for President next year, I will vote for you," Ral said.
+"If you run for President next year, I will vote for you," Raf said.
 
 "You have my vote too," Edl added.
 
@@ -338,7 +338,7 @@ Fera hop onto the skates and whizzed up to a guardGorilla watching over the
 maker workshop and started signing at him furiously. The guardGorilla hopped
 onto its hands and started to dance upside-down. Fera called three ChaseChimps
 over and made them cannonball one by one onto the feet of the guardGorilla.
-Ben, Ral, and Edl looked in on in shock as the guardGorilla started to juggle
+Ben, Raf, and Edl looked in on in shock as the guardGorilla started to juggle
 the ChaseChimps with its feet. Fera turned towards a wall and with a few signs
 had a swarm of buzzBees and wakeupWasps hovering in front of her. She had the
 swarm form different shapes in the air and then sent all of the robotic bugs
@@ -464,7 +464,7 @@ you for accepting me into your group and making me feel welcome. I couldn't
 have asked for better friends," Fera said, turning to face the boys.
 
 Ben grabbed his chest overcome with emotion, almost falling off of his
-deactivated powerskates. Ral and Edl both held onto each other for support,
+deactivated powerskates. Raf and Edl both held onto each other for support,
 wiping tears from their eyes. All three boys looked at Fera with admiration and
 affection. They were caught completely off guard by swarm of buzzBees Fera sent
 after them.
@@ -534,27 +534,27 @@ office. The powerskate covered in the Principal's vomit was not working at all.
 When Fera looked out into the hallway, she was surprised to see that it was
 completely dark.
 
-"I thought we were friends..." Ral said, hiding in the darkness. "But you are
+"I thought we were friends..." Raf said, hiding in the darkness. "But you are
 not acting like a friend."
 
-"What are you doing here, Ral?"
+"What are you doing here, Raf?"
 
 "The things you said about my sister and me really hurt-"
 
 "Shut up. I don't care. Just turn the lights back on."
 
-Ral drew in a big breathe. "I'm not going to help you until you apologize,
+Raf drew in a big breathe. "I'm not going to help you until you apologize,
 agree to be nicer to me, and turn off the self-destruct sequence."
 
 "I'm not going to do any of that."
 
-"Then fumble around in the darkness until the school explodes," Ral said,
+"Then fumble around in the darkness until the school explodes," Raf said,
 walking away.
 
 "Wait!" Fera said. "If you don't help me, I'm going to tell everyone about your
 secret bed."
 
-Ral remained silent in the darkness.
+Raf remained silent in the darkness.
 
 "I'll also make sure everyone knows you sleep with your sister.
 I will tell everyone about your filthy, incestuous relationship."
@@ -563,7 +563,7 @@ I will tell everyone about your filthy, incestuous relationship."
 
 "I'll have bullies beat her sister into a pulp and make you watch!"
 
-Ral whimpered and started crying. The glow from his eyes illuminated the tears
+Raf whimpered and started crying. The glow from his eyes illuminated the tears
 rolling down his cheeks until they disappeared in the darkness. "You're so mean."
 
 "Lunkers are weird."
@@ -585,7 +585,7 @@ helps us to build compassion."
 you don't know how to insult someone, you won't know know how to defend
 yourself."
 
-"Can you teach me to lie to others and insult them?", Ral asked shyly.
+"Can you teach me to lie to others and insult them?", Raf asked shyly.
 
 Fera laughed. "I'll only teach you if join the revolution."
 
@@ -623,24 +623,24 @@ you can at least be good cannon fodder."
 for these guardGorillas, gather by the walls and now I'm going to detonate all
 of their fuel cells at once. You might want to cover your ears."
 
-Fera had the guardGorillas protect Ral, the Principal, and herself. After a
+Fera had the guardGorillas protect Raf, the Principal, and herself. After a
 tremendous explosion, the hallway was bathed in light. When Fera's eyes
-adjusted to the light, she saw that Ral was already trying to escape down the
-hallway. Fera charged forward on her sole working powerskate. She saw Ral's
+adjusted to the light, she saw that Raf was already trying to escape down the
+hallway. Fera charged forward on her sole working powerskate. She saw Raf's
 outline in the shadows, she kicked out the vomit-covered powerskate and was
-surprised at how solidly it connected. Fera kicked Ral until he stopped
+surprised at how solidly it connected. Fera kicked Raf until he stopped
 moving.
 
 She then grabbed his arm and started to drag him down the hallway, signalling
 to the guardGorillas to do the same with the Principal. Fera was surprised when
-Ral continued to speak. "Ben read your profile after we recovered from the
+Raf continued to speak. "Ben read your profile after we recovered from the
 buzzBee stings. Ben said that you have anger management issues, just like your
 father."
 
 "You dirty moleman! I'm nothing like my father!", Fera screamed and began to
-kick Ral with the broken powerskate again, but this time with a ferocity that
+kick Raf with the broken powerskate again, but this time with a ferocity that
 quickly left her out of breath. She stood in hallway, panting, looking down at
-Ral.
+Raf.
 
 "Did you know that Lunkers do not consider the word 'moleman' to be an insult?
 Moles are industrious expert diggers."
@@ -658,32 +658,32 @@ they die. The gas poisons our food and water. Even with filter masks, we-"
 
 "You all deserve to be gassed, you filthy Lunker molemen!"
 
-Ral covered his face with his hands as he started sobbing violently. "They all
+Raf covered his face with his hands as he started sobbing violently. "They all
 died.", he whimpered, shaking uncontrollably on the ground. "Arla and I were
 the only ones who made it. The gas was clogging the filters and everyone was
 suffocating. They gave us all their spare filters and helped us get out even
 though they could not breathe. We left them behind to save ourselves. I still
 see their melted faces whenever I close my eyes."
 
-Fera stood over Ral with tears in her eyes. She was angry at Ral for being so
+Fera stood over Raf with tears in her eyes. She was angry at Raf for being so
 weak and angry at herself for crying and wasting time on such a weakling. "If
 Lunkers are so easy to kill, maybe they deserve it," Fera thought. Fera wiped
-her face and gave Ral another kick. "Stop crying and get up! We need to get out
+her face and gave Raf another kick. "Stop crying and get up! We need to get out
 of here before the school blows up."
 
-When Ral kept crying, Fera was furious. She kicked him repeatedly until she was
-gasping for breath from the exertion. Ral was not making any sound whatsoever.
+When Raf kept crying, Fera was furious. She kicked him repeatedly until she was
+gasping for breath from the exertion. Raf was not making any sound whatsoever.
 Fera dropped to her hands and knees, listening for breathing or any signs of
 life.
 
-"Are you concerned for my wellbeing?", Ral asked, scaring Fera.
+"Are you concerned for my wellbeing?", Raf asked, scaring Fera.
 
-"No!", Fera replied, punching Ral in the face with a begloved hand. Fera looked
-at Ral. His face was swollen and covered with bruises. Was he not defending
+"No!", Fera replied, punching Raf in the face with a begloved hand. Fera looked
+at Raf. His face was swollen and covered with bruises. Was he not defending
 himself at all from her kicks? What a wimp! "Get moving. We can't waste anymore
 time. What are you waiting for? Why are you wasting time just laying there?"
 
-"Please wait a moment," Ral said with eyes closed.
+"Please wait a moment," Raf said with eyes closed.
 
 "What the hell are you doing? Snap out of it," Fera said grabbing his
 shoulders and shaking him.
@@ -692,21 +692,21 @@ shoulders and shaking him.
 
 "How? By growing roots? By making food from the sunlight like a plant?"
 
-"How did you know I can grow roots and photosynthesize?", Ral asked opening his
-eyes wide in shock. When Ral realized that Fera did not know about his
+"How did you know I can grow roots and photosynthesize?", Raf asked opening his
+eyes wide in shock. When Raf realized that Fera did not know about his
 plant-like abilities until he gave it away, he got flustered. "You mustn't tell
-anyone anything!", Ral exclaimed.
+anyone anything!", Raf exclaimed.
 
 Fera stood up and then immediately crouched down again. The hallway suddenly
 filled the sound and movement as thick mass of birds flew in through the holes
-in the walls. Ral pulled Fera down and shielded her from the birds with his
+in the walls. Raf pulled Fera down and shielded her from the birds with his
 body. Fera signalled to every nearby robotic bird, bat, and bee to fight the
 avian invaders. "Did you do this?", Fera asked over the sound of the birds
 clashing with the animalAutomatons.
 
-Ral nodded. "I am sorry, Fera, but my diversion worked. I think you are really
-amazing, but I cannot allow you to blow up the school," Ral said as he floated
-away from Fera. Ben and Edl were standing over Fera. Edl was holding Ral in his
+Raf nodded. "I am sorry, Fera, but my diversion worked. I think you are really
+amazing, but I cannot allow you to blow up the school," Raf said as he floated
+away from Fera. Ben and Edl were standing over Fera. Edl was holding Raf in his
 arms, while Ben was holding a stunStaff in each hand. "Greetings Fera. Could
 you please deactivate the school self-destruct system?"
 
@@ -726,13 +726,13 @@ you open to deactivating the school self-destruct system now?"
 smile. Ben sighed and brought one of the stunStaffs in for another shock. This time,
 Fera grabbed the stunStaff and pulled Ben in. With her other hand, Fera grabbed
 Ben's wrist and shocked him with her powerglove. Ben crumpled to the floor. Edl
-set Ral down on the ground and picked up Ben, cradling him in his arms. Edl
+set Raf down on the ground and picked up Ben, cradling him in his arms. Edl
 looked at Fera with tears in his eyes and then ran down the hallway, carrying
 Ben to safety.
 
 An automated voice reminded them that they should evacuate the building. Fera
-saw that Ral had fallen to his knees and started to cry. The hallway was filled
-with rubble, destroyed animalAutomatons, and dead birds. Fera went up to Ral
+saw that Raf had fallen to his knees and started to cry. The hallway was filled
+with rubble, destroyed animalAutomatons, and dead birds. Fera went up to Raf
 and gave him a kick. "What are you doing? We have to get out of here."
 
 "They're dead. You killed them."
@@ -740,23 +740,23 @@ and gave him a kick. "What are you doing? We have to get out of here."
 "I didn't kill anyone. Everyone started evacuating as soon as I turned on the
 self-destruct sequence."
 
-Ral gingerly picked up a dead bird and hugged it to his chest as he cried.
+Raf gingerly picked up a dead bird and hugged it to his chest as he cried.
 
 "You mean the birds?!" Fera screamed, suddenly feeling full of rage. She
-started kicking Ral as hard as she could. Fera kept kicking even after Ral fell
+started kicking Raf as hard as she could. Fera kept kicking even after Raf fell
 over. When one leg got tired, Fera switched to the other leg. After her rage
 dissipated, Fera remembered the impending destruction of the school.
 
-"Come on," Fera yelled at the Principal as she took Ral's arm and activated her
+"Come on," Fera yelled at the Principal as she took Raf's arm and activated her
 the one powerskate that was still working. The Principal could not keep up.
-"Lay down next to Ral!" Fera barked at the Principal, who dropped to ground in
-an instant. Fera grabbed the Principal and Ral by the hand, then started to
+"Lay down next to Raf!" Fera barked at the Principal, who dropped to ground in
+an instant. Fera grabbed the Principal and Raf by the hand, then started to
 pull them down the hallway, meandering around rubble while balancing on her
 only working powerskate. Whenever Fera used the non-functioning powerskate to
 make a tight turn, she could feel the vomit squish inside.
 
 Once they were outside, Fera saw that the evacuation team had already cleared
-the area around the school. Fera pulled up to a microtransit vending machine with the Principal and Ral in tow. Fera whipped the Principal toward the vending machine. "Unlock it!"
+the area around the school. Fera pulled up to a microtransit vending machine with the Principal and Raf in tow. Fera whipped the Principal toward the vending machine. "Unlock it!"
 
 "What are-"
 
@@ -773,7 +773,7 @@ motorcycle.
 motorcycle.
 
 Fera spun the motorcycle around and pulled up next to the Principal. The
-Principal lifted Ral onto the motorcycle in front of Fera and then climbed into
+Principal lifted Raf onto the motorcycle in front of Fera and then climbed into
 the sidecar. Racing down the empty street, Fera tried to remember how much time
 was left before she left the school. She sped towards the nearest location
 where airships were lifting off.
@@ -811,9 +811,9 @@ about today. She wished she could say goodbye to her mother and hug her one
 last time. She also would have liked to be able to apologize to Kaia and Sata.
 Maybe if things were different, they could've been friends? Fera's eyes filled
 with tears. Fera thought about Ben, Edl, and the life she could have had
-working in the maker workshop. Maybe she could have also helped Arla and Ral in
-the theater? Fera looked down at Ral. He was not moving. Fera kept one hand on
-the throttle and stroked Ral's hair with the other. She began to cry harder.
+working in the maker workshop. Maybe she could have also helped Arla and Raf in
+the theater? Fera looked down at Raf. He was not moving. Fera kept one hand on
+the throttle and stroked Raf's hair with the other. She began to cry harder.
 
 "It's the wind in my eyes." Fera thought, "No way I'm crying over those
 losers." Fera closed her eyes. It didn't matter now. She was free. She relaxed
@@ -825,7 +825,7 @@ she was a bird flying over the empty city towards an infinite sea of
 green on the horizon.
 
 Ben and Edl looked out at the empty city from the observation deck of one of
-their family's airships. "I hope Fera and Ral made it out OK," Edl said.
+their family's airships. "I hope Fera and Raf made it out OK," Edl said.
 
 "I am sure she did. Fera is extremely cunning. I have never before met someone
 who I might consider my intellectual equal," Ben said. "No offense, Edl."
@@ -834,7 +834,7 @@ who I might consider my intellectual equal," Ben said. "No offense, Edl."
 
 "As far as I can tell, she did not break any maker workshop rules. The city was
 safely evacuated and reconstruction will begin as soon as the rubble cools. To
-be frank, the MIG always felt incomplete when it was just you, me, and Ral."
+be frank, the MIG always felt incomplete when it was just you, me, and Raf."
 
 "I am glad that Fera can be still in our group," Edl said beaming.
 
