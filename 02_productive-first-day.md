@@ -1,4 +1,4 @@
-## Chapter 2: A productive first day
+## Chapter 2: Productive first day
 
 "Why am I like this?", Fera thought as she covered her mouth so no one would
 hear her crying. She had been drifting in and out of sleep on the hard concrete

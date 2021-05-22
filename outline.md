@@ -76,11 +76,11 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 ## Chapters
 
 - [x] 01: Off to a great start
-- [x] 02: A productive first day
-- [x] 03: A beautiful view
-- [x] 04: Hello darkness
-- [x] 05: To err is human
-- [ ] 06: Finally fitting in
+- [x] 02: Productive first day
+- [x] 03: Beautiful view
+- [x] 04: Birds of a feather
+- [x] 05: Finally fitting in
+- [ ] 06: Get well soon
 - [ ] 07: A great way to make friends
 - [ ] 08: Never looked better
 - [ ] 09: Never looked better
@@ -96,11 +96,11 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - 01: Off to a great start:
   - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Arla and Ral
   - End: Kaia and Sata go to sleep together in the secret bed
-- 02: A productive first day:
+- 02: Productive first day:
   - Fera blows up the school
   - End: Fera, Ral, and Mel appear to die
   - In the final moments, Fera reflects on Ben, Edl, Ral, Arla, Sata, and Kaia, starting to cry when she thought about how they might have been friends if things were different. She thinks about feeling powerless to stop her abusive father and substance dependent mother. As she is knocked off the motorcycle from behind she imagines she is a bird flying off into the horizon.
-- 03: A beautiful view:
+- 03: Beautiful view:
   - Kaia, Sata, and Arla
     - leave the school
     - meet Lan and Taz
@@ -110,7 +110,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Kaia and Ursa dive off a cliff into Zakrzówek and bond
   - Ursa reveals that she has super powers
   End: Kaia and Sata kiss twice and watch the airship wreckage together
-- 04: Hello Darkness
+- 04: Birds of a feather
   - Ben and Edl arrive
   - Everyone sits around the camp fire and drinks champagne
   - Kaia is surprised to see Officer Kransal without his balaclava and sunglasses
@@ -122,7 +122,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - In an effort to make Zek jealous, Ursa initiates a sexy fight
   - Ursa has a meltdown in Edl's tent
   End: Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
-- 05: To err is human
+- 05: Finally fitting in
   - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message sent by Ben.
   - On the way to BugBall practice, the girls get obwarzanki from a street vendor
   - Ursa eats one obwarzanek, Kaia and Sata split one, Iona says that she is fasting
@@ -135,7 +135,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Ursa volunteers to be used for target practice by Zek and Kaia (blinding, disorientation, etc.)
   - Sata and Kaia are beaten up by Pyr and his Posse. Kaia uses her powers to save herself and Sata.
   - Zek, Iona, and Ursa take Kaia and Sata to the infirmary
-- 05: Finally fitting in
+- 06: Get well soon
   - Everyone visits Kaia and Sata in the infirmary
   - Kaia watches the remembrance ceremony with Sata in the infirmary
   - A woman in a black veil and ornate dress starts laughing during Ben's speech
@@ -158,9 +158,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - look for a weapon or something that can use to cut the fabric of the tent so they can escape
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
   End: Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the two Feras
-
-
-- 06: Never looked better
+- 07: Never looked better
   - Eagles save Ral, Fera, and Mel
   - The Driads help them
   - Arba asks Fera if she will grant sovereignty to the Driads after Fera overthrows the government
@@ -217,8 +215,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - tells Pyr that his father is alive and well, living with Driads
     - attends her own funeral and laughs really loudly when Ben idolizes her
     - visits Kaia and Sata in the hospital
-
-- 07: Forgive and forget
+- 08: Forgive and forget
   - "Look at them. Ready to fight for their lives. They're so cute," Eiva said.
   - "You couldn't say one thing without breaking out of character?" Fera asked.
   - "I couldn't help it; they're just too cute. Can we keep them?" Eiva asked.

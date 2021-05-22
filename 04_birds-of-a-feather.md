@@ -1,4 +1,4 @@
-## Chapter 4: Hello Darkness
+## Chapter 4: Birds of a feather
 
 "Is that a person flying?"
 

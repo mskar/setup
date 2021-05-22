@@ -1,4 +1,4 @@
-## Chapter 6: A great way to make friends
+## Chapter 6: Get well soon
 
 ...
 
