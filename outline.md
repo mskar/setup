@@ -65,6 +65,10 @@ Strike force officer, then Arla's lover, then husband
 
 School Principal, then Administrative Assistant to Fera
 
+- Lumafinaakua Ranolum
+
+Subak princess
+
 - Dzaa (Mung):
 
 Very strong from growing in extreme gravity. Thinks people on Earth are weak.
@@ -174,7 +178,8 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - run into a corner
     - look for a weapon or something that can use to cut the fabric of the tent so they can escape
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
-  End: Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the two Feras
+  - Another Fera drops from above slowly by holding onto the fabric of the tents roof as it rips
+  End: Sata and Kaia, bruised and wearing hospital gowns, stand back-to-back and prepare to fight the three Feras
 - 07: Never looked better
   - Eagles save Ral, Fera, and Mel
   - The Driads help them
@@ -188,79 +193,81 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - When Fera and Ral are in the middle of the lake, the water begins to disappear
   - At the bottom of the lake, they see a door. When they approach, the door opens and Ral gets sick
   - Fera nocks an arrow and goes in to look for clues to what made Ral sick
-  - Fera finds the AI (Unoa) and meets Eiva
+  - Fera finds the AI (Unoa)
     - Unoa spends her time
       - accumulating wealth under false identities
       - messing with DOS users and recording their reactions
       - writing smutty girls' love science fiction novels
-  - Fera and Eiva fight and then go save Ral
-  - Before saving Ral they put on
+  - After Fera agrees to fight in the revolution, Unoa
+    - activates a human-like robot body that she built herself
+    - begins unthawing Eiva
+    - says that she is glad Fera agreed because otherwise she would have to kill her
+    - Fera asks if Unoa is joking,
+    - Unoa says that it she believes it is only funny if Fera does not know for certain
+  - As Eiva is unthawed,
+    - Unoa asks if she can practice human interaction with Fera
+    - Fera agrees to hugging but not kissing
+    - Unoa asks if Fera can teach her to love
+    - Fera is unsure if she will be the best teacher
+    - Unoa says she is also interested in the difference between comedy and tragedy
+  - Eiva fights Fera to test her
+  - Before saving Ral, Fera, Unoa, and Eiva put on
     - skinScabbards with a total of 40 bone knives
+      - 8 on each forearm
+      - 12 on each shin
     - black lace gloves with bones sown into the tops
       - five metacarpals on the backs of their hands
       - fourteen phalanges on top of their fingers
       - the gloves
         - protect their hands
         - store energy, like the gloves Ursa uses, that is released when they punch someone or something
+    - black leather gloves
+      - to cover the lace gloves
+      - avoid unintentionally messing with Dextrae tech
+      - "So we don't arouse suspicion."
+      - "Three girls with matching oversized leather gloves isn't suspicious?"
   - Fera motivates Ral to get in the boat
-  - Fera tells Ral that he's never looked better
-  - Fera and Eiva climb up the rope as the AI refills the lake
-  - Fera is approached by the Mayor of Lunkertown, who
-  - Fera agrees to grant sovereignty to the Lunkers in exchange for their help in the revolution
-    - asks Fera if she will grant sovereignty to the Lunkers after Fera overthrows the government
-    - says the AI told him where to find her (she asks him about this suspiciously)
-  - Ral had to by train tickets for Fera and Eiva because tech does not work for them anymore
-  - The Lunker train took them to Musza cave in Zakrzówek and they walk to Twardowski Cave
-  - This time, when they pass by Zakrzówek, they are approached by Nora, who
-    - is a Subak Princess
-    - asks if Fera will grant sovereignty to the Subaks after Fera overthrows the government
-    - Fera is attracted to, despite the fact Fera does not like fish people
-    - says the AI told her where to find her (she asks her about this suspiciously)
-  - Fera agrees to grant sovereignty to the Subaks in exchange for their help in the revolution
-  - Eiva asks if it is wise to agree to grant sovereignty to everyone
-  - Fera answers that she can always change her mind and brutally oppress everyone later
-  - They go under the Vistula River via an underground cave system (Twardowski Cave to Kościuszko Cave)
-  - They walk from Kościuszko Cave to the refugee camp
-  - Fera finds out that everyone thinks she is dead
-  - Fera walks around the refugee camp in disguise
-  - She uses money she given to her by the AI to buy
-    - fancy food and drink
-    - matching outfits for her and Eiva so they can look like Catrina's at the remembrance ceremony
-    - hears about what Pyr did and breaks his arms, but also
-      - Fera barely enjoys breaking Pyr's arms and almost feels sorry for him
-      - Is this what growing up feels like?
-    - tells Pyr that his father is alive and well, living with Driads
-    - attends her own funeral and laughs really loudly when Ben idolizes her
-    - visits Kaia and Sata in the hospital
-- 08: Forgive and forget
+    - because the girls cannot get close to Ral without making him sicker
+  - After Ral gets in the boat, Fera tells him that he's never looked better
+  - Eiva and Unoa are impressed with Fera's ability to motivate Ral
+  - They say that they are now certain that they picked the right person to lead their revolution
+  End: Fera, Unoa, and Eiva climb up the rope as Unoa remotely refills the lake
+- 08: To err is human
   - "Look at them. Ready to fight for their lives. They're so cute," Eiva said.
   - "You couldn't say one thing without breaking out of character?" Fera asked.
   - "I couldn't help it; they're just too cute. Can we keep them?" Eiva asked.
   - "You mean like pets?" Fera asked.
   - "Yes, we can take them for walks, give them belly rubs and kisses..."
   - "This isn't funny, Fera."
-  - "You'd appreciate it more if you could see the looks on your faces."
+  - "You'd appreciate it more if you could see the looks on your faces," Fera said.
   - "If only you had seen the look on Pyr's face when I broke his arms!" Fera said laughing.
   - "It was quite humorous when I broke his humerus!" Fera said laughing even harder.
   - "I love it when Fera laughs at her own jokes, especially if she's the only one laughing." Eiva said.
   - "Get back into bed, you losers, before Eiva puts collars on you and takes you home with us."
   - Kaia looked at Sata expecting some kind of lewd joke, but clearly Sata was too tired and achy to joke around
-  - "If you know what's good for you, don't tell anyone I'm alive."
+  - Fera invites Kaia and Sata to her tent for fancy food and drink
+  - "Oh, and if you know what's good for you, don't tell anyone I'm alive."
+  - Kaia and Sata are unsure if they should forgive Fera for the practical joke
   - That night, Zek trains Kaia in her dreams
   - In her dreams, Kaia's snakes become extensions of her arms
   - The next day Pyr arrives and says that he is sorry
   - Sata does not believe him, saying that he is only sorry, because he got his arms broken
   - Pyr says that someone paid him to attack Kaia and Sata, but that he has no idea who it was.
   - Pyr says that the girl who broke his arms said that his Dad is alive
-  - Pyr thinks that Fera was sorry for breaking his arms and want to make him feel better by saying his Dad is alive
+  - Pyr thinks that Fera
+    - was sorry for breaking his arms and
+    - wanted to make him feel better by saying his Dad is alive
   - Pyr asks if Kaia and Sata would sign his casts
-  - The casts are covered with drawings of penises because Pyr's friends are jerks
+  - The casts are covered with expletives and drawings of penises
   - "Should I draw a penis next to my name like everyone else?"
   - "Oh, you don't have to draw anything. That's just my friends being jerks."
   - Arla, Lan, and Ral come to talk to Kaia and Sata
-  - Ral says that Kaia and Sata know that he is mimic, because Fera told them
-  - Arla, Lan, and Ral implore Kaia and Sata not to tell anyone
   - Arla and Lan invite them to the dance performance
+  - Kaia and Sata go to Fera' tent because they are tired of the hospital food
+  - Fera invites them to become Sinistrae
+  - Kaia and Sata are unsure
+    - but they each take a skinScabbard full of bone knives
+    - just in case they get attacked again
   - Kaia and Sata go to see the dance performance
   - The performance is sponsored by Reli Corp and there are ads for Detox Sticks everywhere
   - Iona, Sata, Kaia, and Zek take Ursa to the tent she shares with Zek, Zok, and Iona
@@ -278,7 +285,6 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Kaia and Sata walk back to their family tents and ask their parents if they can have a sleepover
   - Their parents ask if the two girls aren't getting to old to be having sleepovers, but eventually agree
   - Kaia and Sata talk about forgiveness and whether they should forgive that Pyr, Zok, Lan, and Ursa
-
 - 08: Happiest day ever
   - Arla visits them and says not to be mad at Lan and invites them to the play
   - Arla says that she is excited to be Ursa's trunderstudy
@@ -391,7 +397,7 @@ Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Ral live in the
 Lunker city while planning to rescue Arla and Lan. They see Fera is preparing
 an army to fight against the government and believe her when she says that she
 had nothing to do with Arla and Lan's kidnapping. They agree to let Fera and
-Eiva join them on the rescue mission. Fera recruits Nora, a Subak princess, to
+Eiva join them on the rescue mission. Fera recruits Luma, a Subak princess, to
 help them gain access to the castle via the Vistula river, the protagonists use
 scuba diving equipment to infiltrate Kraków via the Vistula river to avoid the
 World Heritage robots. The Subaks escort them in the water but refuse to
@@ -843,7 +849,7 @@ Eiva sits on the other side of Fera. Both Eiva and Kaia are holding their
 babies. The Mungs refer to Fera as Omai, The Goddess of Fertility, Women,
 Mothers, and Children, because she has two wives, two children, and no husband.
 The Dextrae are afraid of Kaia's powers. The Space Captain arrives to ask Fera
-to free the prisoners. Dzaa and Daka ask for sovereignty for the Mungs. Nora
+to free the prisoners. Dzaa and Daka ask for sovereignty for the Mungs. Luma
 asks for sovereignty for the Subaks and a treaty that promises to protect the
 oceans. Arba comes to ask for sovereignty for the Driads and protection for the
 forests. Fera grants sovereignty to the Driads, the Lunkers, the Mungs, the
@@ -854,7 +860,7 @@ and might develop the capacity to attack Earth. Fera not only gives them
 sovereignty, but also seats in a new branch of government. In this new branch
 of government, Arba represents the Driads, Daka represents the Mungs, The Space
 Captain represents the Free Citizens of Space, Ben represents Scenders, Kaia
-represents Echos, the Subaks are represented by Norafinaakwa, Iona represents
+represents Echos, the Subaks are represented by Lumafinaakua Ranolum, Iona represents
 Thelusians, Ral (who is followed everywhere by the mimic child) represents
 mimics, and Fera represents Sinistrae (no one represents Dextrae, but Fera has
 Dextrae army generals report to her and advise her. She fears that they are
@@ -913,6 +919,43 @@ happiness. "Earth Mommy will feel better once she stops fighting with Mars
 Mommy. Mars Mommy just wants to help. Mars Mommy will show Earth Mommy how to
 find her friend. Earth Mommy will be so happy." Kaia took a deep breath, closed
 her eyes, and let the dust consume her.
+
+## Fera leaves Wieliczka to go to the refugee camp
+- As they leave Unoa reopens the tourist attraction
+- Fera is approached by the Mayor of Lunkertown, who
+  - asks Fera if she will grant sovereignty to the Lunkers after Fera overthrows the government
+  - says the AI told him where to find her (she asks him about this suspiciously)
+- Fera agrees to grant sovereignty to the Lunkers in exchange for their help in the revolution
+- Ral has to by train tickets for Fera, Eiva, and Unoa because tech does not work for them anymore
+- The Lunker train takes them to Musza cave in Zakrzówek and they walk to Twardowski Cave
+- This time, when they pass by Zakrzówek, they are approached by Luma, who
+  - is a Subak Princess
+  - asks if Fera will grant sovereignty to the Subaks after Fera overthrows the government
+  - Fera is attracted to, despite the fact Fera does not like fish people
+  - says the AI told her where to find her (Fera asks Luma about this suspiciously)
+- Fera agrees to grant sovereignty to the Subaks in exchange for their help in the revolution
+- Eiva asks if it is wise to agree to grant sovereignty to everyone
+- Fera answers that she can always change her mind and brutally oppress everyone later
+- They go under the Vistula River via an underground cave system (Twardowski Cave to Kościuszko Cave)
+- They walk from Kościuszko Cave to the refugee camp
+- Fera
+  - finds out that
+    - everyone thinks she is dead and that
+    - her remembrance ceremony will be that evening
+  - walks around the refugee camp in disguise
+  - uses money given to her by the Unoa to buy
+    - a tent
+    - fancy food and drink
+    - matching outfits for all three of them so they can look like Catrinas at the remembrance ceremony
+  - hears about what Pyr did and breaks his arms, but
+    - barely enjoys breaking Pyr's arms and almost feels sorry for him
+    - Is this what growing up feels like?
+    - tells Pyr that his father is alive and well, living with Driads
+  - attends her own funeral and laughs really loudly when Ben idolizes her
+  - decides to play a practical joke on Kaia and Sata in the hospital
+
+
+
 
 ## Fera's deception.
 

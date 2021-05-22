@@ -3,9 +3,26 @@
 ...
 
 Ard visits Kaia and Sata in the infirmary and says how great the video of them
-being attacked was for the Rainbow Sports Club brand, because they were wearing
-the Rainbow uniforms. "We can adjust the recordings so your attackers look like
-All Grays fans. We just set a greyscale filter over there clothing and voila!"
+being chased by All Grays and then attacked by the boys was for the Rainbow
+Sports Club brand, because they were wearing the Rainbow uniforms. "It's not a
+problem that the boys who attacked you were not wearing all gray. All need to
+do is apply a greyscale filter over there clothing and voilà!" He asks the
+girls if they might be willing to do it again sometime, but then says the he
+understands that they don't want to get beat up again. Kaia and Sata are
+suspicious that Ard seems so happy about the video of them getting beat up. Ard
+asks them to sign a contract for the rights to the images and videos of the
+attack that will require for them to pose for new pictures and videos wearing
+Rainbow scarves and hats. Sata tells Ard to that they're not interested. Iona
+later brings up the contract and asks if Kaia and Sata want her to negotiate
+with Ard for them. Kaia and Sata say that they will think about it.
+
+Later, Pyr shows up in the infirmary to ask for forgiveness and for Kaia and
+Sata to sign his casts. Fera was going to break Pyr's legs too, but she felt
+bad for the person that would have to carry Pyr around. Kaia and Sata find out
+that someone paid Pyr, his Posse, and the soccer hooligans to beat them up.
+They immediately think it was Ard who paid their attackers. Iona tells them
+about "Qui Bono" and says that Ard stands the most to gain from them being beat
+up.
 
 ...
 
