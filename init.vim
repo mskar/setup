@@ -126,6 +126,7 @@ set ignorecase
 set smartcase
 
 set fileformats=unix,dos,mac
+set nrformats=alpha,bin,unsigned
 
 if exists('$SHELL')
     set shell=$SHELL
