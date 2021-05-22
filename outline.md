@@ -138,12 +138,21 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Outside the locker room, they meet Ard, the Rainbow Sports Club Manager
   - Zek invites Kaia to train with him. Sata, Iona, and Ursa tag along.
   - Ursa volunteers to be used for target practice by Zek and Kaia (blinding, disorientation, etc.)
-  - Why do they separate?
-  - Sata and Kaia are beaten up by Pyr and his Posse
+  - Kaia and Sata say they want to go to the Maker Tent as Ben suggested
+  - Iona, Ursa, Zek, and Zok say that
+    - they never really got along with Ben and Edl
+    - there is a rivalry between the performance group and Maker Interest Group
+    - it is fine if Kaia and Sata want to be friends with everyone
+    - Iona, Ursa, Zek, and Zok will go to rehearsal while Sata and Kaia are at the Maker Tent
+  - All Grays confront Kaia and Sata on their way to the Maker Tent
+  - Sata asks Kaia to use her powers, but Kaia cannot
+  - Sata and Kaia run away but are cornered by and then beaten up by Pyr and his Posse
+  - Pyr and his Posse are wearing helmets to protect themselves from birds
+  - Instead of talking they immediately attack the girls
   - Kaia uses her powers to save herself and Sata
-  - Zek, Iona, and Ursa take Kaia and Sata to the infirmary
+  - Zek, Iona, and Ursa take Kaia and Sata to the infirmary tent
 - 06: Get well soon
-  - Everyone visits Kaia and Sata in the infirmary
+  - Everyone visits Kaia and Sata in the infirmary tent
   - Kaia watches the remembrance ceremony with Sata in the infirmary
   - A woman in a black veil and ornate dress starts laughing during Ben's speech
   - Fera shows up wearing
@@ -155,6 +164,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - that Kaia and Sata are responsible for her death and
     - that she is going to haunt them until they die, which won't be very long from now
   - Kaia and Sata recognize that its Fera and think that she is a ghost
+  - Kaia thinks that her powers have materialized Fera as a vengeful spirit
   - Fera lets out a blood-curdling laugh as she
     - pulls out knives made of bone from her sleeves
     - advances slowly towards Kaia and Sata
