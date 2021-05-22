@@ -588,14 +588,10 @@ turn Kaia's head away.
 "Well, everyone can hear you breathing hard, you pervert," Kaia fired back.
 
 Ursa hopped off the bench feeling a rush of endorphins. When Ursa flexed and
-growled, Sata and Kaia swooned and fell backward onto Edl's bed. Ursa laughed
+growled, Sata and Kaia swooned and fell into each other's arms. Ursa laughed
 after seeing the effect she had on the two younger girls.
 
-Sata wriggled around on the bed. "Are these new sheets? They smell so nice!"
-
-Edl nodded. "Yes, everything here is new."
-
-"It's your turn to show us what you got." Ursa said to Edl while gesturing
+"It's your turn to show us what you got," Ursa said to Edl while gesturing
 towards the bench. "You think you can lift more than me and Zok?"
 
 Edl added plates to the bar until it was full.
@@ -605,7 +601,7 @@ Ursa shook her head in disbelief. "No way you can lift all that."
 Edl lost confidence immediately. "Sorry, I wasn't thinking. I get distracted
 sometimes. I'll-"
 
-"Well, now that you set everything up, you have to give it a try. Come one,
+"Well, now that you set everything up, you have to give it a try. Come on,
 Zok, Iona, and I will spot you."
 
 With the spotters in position, Edl started to press the bar, seemingly without
