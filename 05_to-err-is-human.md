@@ -6,13 +6,14 @@ The sun shining though the skylight above, woke Kaia the next morning.
 
 "Oh, Iona. You're already awake?"
 
-"I'm kind of a light sleeper as well."
+"I'm kind of a light sleeper."
 
-Kaia got up and saw that Sata and Ursa were still sleeping.
+"Me too," Kaia said thinking of how often she would wake up after having
+strange dreams. Kaia got up and saw that Sata and Ursa were still sleeping.
 
 "Iona, let's go to somewhere else, so we don't wake them."
 
-Iona nodded and walked with Kaia to an adjacent room.
+Iona nodded and walked with Kaia to the living room of the tent.
 
 "Iona, thank you for staying with me last night. I also never thanked you for
 saving me on the airship."
@@ -22,8 +23,8 @@ saving me on the airship."
 "You knew exactly what to do with that defibrillator. Did you have medical
 training?"
 
-"I should be the one thanking you, Kaia. Yesterday, you saved me and gave me
-hope that I was worth saving." Tears rolled down Iona's face.
+"I should be the one thanking you, Kaia. Yesterday, you gave me hope." Tears
+rolled down Iona's face.
 
 "Iona, I don't understand. The only noteworthy things I did yesterday were to
 fail the initiation rite and nosedive into the observation deck floor."
@@ -33,7 +34,7 @@ fail the initiation rite and nosedive into the observation deck floor."
 Kaia sat down on the bed, but felt like she was sitting on pins and needles
 while she waited for Iona to speak again.
 
-Iona sat next to Kaia and spoke slowly. "Kaia, I am Thelusian."
+Iona sat next to Kaia and spoke slowly. "Kaia, I am a Thelusian."
 
 Kaia took some time to process the news. In Kaia's visions, the Thelusians were
 her enemies during the war and her allies after the war was over.
@@ -49,16 +50,17 @@ could help you achieve your destiny."
 Thelus."
 
 Kaia was stunned. "In my visions, I see the war, Thelus crashing into Mars, and
-afterwards..." The dust began shift on the floor of the room. Iona took Kaia's
-hand and touched her face, trying to maintain Kaia's foothold on reality.
+afterwards..." The dust began shift on the floor of the room. Iona held Kaia's
+hand and touched her face, trying to maintain Kaia's grasp on reality.
 
 "Kaia, take it easy. Just focus on me and my voice. I will explain everything."
-The dust faded away and Kaia returned to the present moment. Iona began to explain.
+The dust faded away and Kaia returned to the present moment. Iona began to
+explain.
 
 "Since the collapse of the Martian and Thelusian civilizations, I have been
-searching for people who can experience both the past and the
-present, sometimes shifting between the two and at other times essentially
-living in two realities simultaneously."
+searching for people who can experience both the past and the present,
+sometimes shifting between the two and at other times essentially living in two
+realities simultaneously."
 
 "That sounds like me."
 
@@ -67,12 +69,13 @@ itself as visions and dreams."
 
 "How do I make them stop?"
 
-"The only way to stop the visions is to fulfill your destiny."
+"The only way to stop the visions is to fulfill your destiny by restoring Mars
+and Thelus to their former glory."
 
 "How do I do that?"
 
-"For now, you can live your life as normal, but in secret you should begin
-training."
+"For now, you should continue living your life as you would normally, but in
+secret you should begin training, so you will ready to ."
 
 "Are you going to train me?"
 

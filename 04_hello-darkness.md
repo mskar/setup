@@ -75,7 +75,7 @@ taking off. She was on a motorcycle with the Principal."
 "Was Ral on the motorcycle with them?" Arla asked.
 
 "I don't know. It only caught a glimpse of them," Kaia said, but she remembered
-that there was someone lying unconscious across the motorcycle.
+that there was someone lying unconscious on the motorcycle.
 
 "Why did the pilots not see them?" Iona asked suspiciously.
 
@@ -135,7 +135,8 @@ as an airship mechanic, so I would appreciate if you all did not mention to
 anyone that I am strike force officer."
 
 Everyone nodded in agreement. Ursa tried to reassure Taz that his secret was
-safe. "I'm really great at working undercover and keeping secrets. I was a-"
+safe. "I'm really great at working undercover and keeping secrets. After all, I
+was a spy for many-"
 
 Iona was quick to interrupt Ursa. "Zek, where did you get this wine?"
 
@@ -217,14 +218,15 @@ Kaia was downcast. "I wish I could have said goodbye. The last thing I said to
 Fera was not very positive."
 
 Ben nodded. "I know how you feel. We didn't exactly part on the best terms with
-Fera."
+Fera. Edl and I are planning a remembrance ceremony tomorrow evening. I hope
+that the ceremony will help us all to find some closure."
 
-Edl whimpered and started crying. "Why did she do it, Ben? Everything was going
-so well!"
+Edl whimpered and started crying. "Why did she do it, Ben? She was going to be
+part of our group!"
 
 While doing his best to console his brother, Ben tried to explain to the
-others. "Fera started the school's self-destruct sequence. The explosion
-initiated a chain reaction that destroyed the whole city."
+others. "Fera started the school's self-destruct sequence and thus set off
+chain reaction that destroyed the whole city."
 
 "Why did Fera want to blow up the school?" Sata asked.
 
@@ -248,8 +250,8 @@ physically and emotionally.
 At the center of a circle of love, Kaia was feeling better. No howling winds.
 No metallic tendrils. No skeletons crumbling into dust. She felt warm and safe,
 surrounded by friends. Kaia felt so lucky to have amazing friends like Iona,
-Ursa, and Sata. Even though Kaia only knew Fera for a very short time, Kaia
-knew that Fera would have also been a great friend. Kaia thought about how life
+Ursa, and Sata. Even though Kaia only knew Fera for a very short time, Kaia was
+sure that Fera would have been a great friend too. Kaia thought about how life
 might have turned out if Fera had survived and become friends with her, Sata,
 Iona, and Ursa.
 
@@ -459,77 +461,128 @@ change the subject.
 "We'll be landing at the refugee camp shortly. You will not need your harnesses
 anymore, so can take them off whenever you're ready."
 
-Iona gingerly wiped Kaia's face and helped her undo the fastenings of her
-harness. Kaia was sad to separate from Iona, but felt better after having a
-good cry. Ursa leaned into Sata and whispered. "Next time, you'll know where to
-bite. I got shot in that spot during on a spy mission." Sata laughed, assuming
-it was a joke since Ursa's skin was perfectly smooth and devoid of anything
-that might resemble a battle scar.
-
-Ben led them to the fore observation deck. The lights from the refugee camp was
-already visible.
+Kaia and Sata felt a little bit embarrassed when they realized everyone had
+been looking at them the whole time. Ursa leaned in towards Sata and whispered,
+"Next time, you'll know where to bite. I got shot there during a spy mission."
+Sata laughed, assuming it was a joke since Ursa's skin was perfectly smooth and
+devoid of anything that might resemble a battle scar. Ben led them to the fore
+observation deck. The lights from the refugee camp was already visible.
 
 "The airship must have crashed really close to the refugee camp," Kaia said.
 
 "Yes, that's right. You could have walked there in a little less than an hour,
-if there were a way to safely cross the Vistula River and Wolski Forest."
+either through the forest or through the city, but that would have been
+extremely dangerous.
 
-...
+"Because of the robots and the Driads?" Sata asked.
 
-"I'm glad we took a little detour," Kaia said, "but I'm happy that we're going
-to be in one place for a little while."
+Ben nodded. "Yes, exactly. It is very important that you never try to leave the
+refugee camp. The World Heritage Robots patrol the outside perimeter of the
+camp and strike force officers inside the camp have orders to kill anyone
+attempting to leave."
 
-"It may be more than a little while. Reconstruction of Katowice has already
-begun, but there's little chance that any of the original residents will be
-allowed to return."
+"Why would they kill people just for trying to leave?" Sata asked.
 
-"What?!"
+Taz was quick to explain. "It serves as a warning to others. Killing a few
+aspiring runaways could save many lives if it discourages others from trying."
 
-"The government has a hard time evicting poor residents from cities. Tearing
-down existing affordable housing to make room for ultra high-end skyscrapers is
-really bad public relations. Closing public schools really isn't a good look
-either. From the perspective of the government, the destruction of Katowice was
-an boon. Yes, it was a boom and a boon!" Ben laughed at his own play on words.
+Ben gestured towards the consoles in the corners of the observation deck. "You
+might want to rent a tent for the night before we land. There are plenty of
+tents available, because most of camp residents cannot afford to rent them."
 
-"So, we might be in the refugee camp forever because only rich people are going
-to be allowed to live in our city?"
+Kaia and Sata looked at each other. "We don't have any money. Do you know if
+our parents are in the camp? We could probably stay with them."
 
-"I doubt that anyone in the government would agree that it was your city. If I
-were a cynic, I would say the government knew that Katowice was built on an
-interconnected grid of self-destruct systems and did nothing to remedy the
-situation."
+Ben shook his head. "Unfortunately, parents are not allowed in the refugee
+camp. There is simply not enough room for everyone. Your parents are staying at
+an ancient airport to the west of the camp."
 
-...
+Iona put her hands on Kaia and Sata's shoulders. "Don't worry. I'll use
+performance group funds to get us a tent."
 
-Ben was writing a speech for Fera's remembrance ceremony, while Edl watched Ben
-tap away at the console.
+Ben seemed concerned. "You may want to save money on tent rental and sleep on
+the grass like other camp residents. It is very likely that you will be staying
+in the camp indefinitely."
 
-...
+"Indefinitely?! Won't we eventually be able to move back to our city?" Sata
+asked.
 
-I'm a little tired," Sata admitted. "Is there any way we could continue this
-but rotated 90 degrees?"
+"Reconstruction of Katowice has already begun, but there's no chance that any
+of the original residents will be able to return. The CorporateCouncil has a
+hard time evicting poor residents from cities. Tearing down existing affordable
+housing to make room for ultra high-end skyscrapers is really bad public
+relations. Now, the CorporateCouncil now has a clean slate to build properties
+too expensive for any of the original residents to rent."
 
-Ben overheard and without looking up from the console he said, "Edl, could you
-show the ladies the sleeping arrangements we have onboard our airship?"
+Kaia was stunned. "So, we might be in the refugee camp forever because only
+rich people are going to be able to afford to live in our city?"
 
-The girls followed Edl upstairs to the top deck and down a corridor of doors.
-They looked left and right as Edl showed them room after room.
+"I doubt that anyone in the CorporateCouncil would agree that it was your city.
+It was no secret that Katowice was built on an interconnected grid of
+self-destruct systems. I am sure the CorporateCouncil were just waiting for the
+city to be destroyed, so they could rebuild it as a utopia for the ultra
+wealthy."
 
-"This is my room," Edl said proudly.
+"Won't the city be mostly empty? Won't having a ghost city be bad for the
+economy?" Sata asked.
 
-"Wow, your bed is so big," Sata said.
+"The real driver of economy is the real-estate gold rush that started as soon
+as it became clear that Katowice would be destroyed. Every planned housing unit
+has already been sold and resold at least dozen times by speculators. You could
+say that the local real-estate market is... booming thanks to the explosion."
+Ben laughed at his own play on words. "The city going boom was a real boon for
+the economy. We can call it the boom boon!" Edl started repeating "Boom boon"
+and laughing along with Ben.
+
+Sata did not find Ben's jokes to be very funny. "We'll move out of the camp
+after we get a job or get into college," Sata said defiantly.
+
+Ben smiled and shook his head. "Unfortunately, there is no official school in
+the refugee camp. I think it will be difficult to gain employment or admission
+to a college without first completing high school."
+
+Kaia and Sata tried not to stay hopeful, but their situation was sounding
+worse by the minute.
+
+Ben noticed their glum faces. "If you are worried about your futures, you can
+stop by the maker tent tomorrow afternoon. As members of the Maker Interest
+Group, you will learn useful skills like mechanical, electrical and software
+engineering."
+
+After thanking Ben for the rescue and the offer to join the Maker Interest
+Group, Kaia and Sata prepared to leave with everyone else. Ben bid them
+goodnight and asked his brother to escort everyone to their tent, while Ben
+worked on his speech for Fera's remembrance ceremony."
+
+After they left the airship, Arla explained that she was going to stay with Taz
+and said goodnight to Kaia, Sata, and her fellow performance group members.
+
+Edl had an idea and stopped suddenly. "Do you want to see my tent?"
+
+Lan agreed without hesitation and was able to quickly convince the others,
+because Edl's tent was along the way. Everyone was impressed to see that Edl's
+tent had multiple rooms including a gym, a kitchen, and three bathrooms.
+
+"This is my bedroom," Edl said proudly.
+
+"Wow, your bed is so big," Sata observed.
 
 Edl thought deeply about the relativity of perspectives. "For me, it is normal
 size."
 
-"Can I try out your weights?" Ursa asked.
+"A big man needs a big bed," Lan said provocatively.
 
-Edl nodded and Ursa locked stacks of plates into place on the bar and slid onto
-the bench and started to bench press the bar. Kaia and Sata's jaws dropped when
-they saw how much Ursa lift. They also could not help but notice that Ursa's
-jumpsuit was still unzipped.
+"Speaking of big, can we try out your weights?" Zok asked.
 
-"Your eyes are about to bulge out your head, you sicko voyeur," Sata trying to
+Everyone moved to the weight room and watched as Zok locked stacks of plates
+into place on the bar and slid onto the bench and started to bench press the
+bar. Kaia and Sata were shocked to see how much Zok could bench. Lan also was
+very impressed and asked to squeeze Zok's muscles as soon as he got Zok the
+bench. Ursa said she was next and started to bench press the bar. Kaia and
+Sata's jaws dropped to see that Ursa could bench as much as much as Zok. They
+also could not help but notice that Ursa's jumpsuit was still unzipped.
+
+"Your eyes are about to bulge out your head, you voyeur," Sata trying to
 turn Kaia's head away.
 
 "Well, everyone can hear you breathing hard, you pervert," Kaia fired back.
@@ -540,36 +593,34 @@ after seeing the effect she had on the two younger girls.
 
 Sata wriggled around on the bed. "Are these new sheets? They smell so nice!"
 
-Edl nodded "Yes, all the bedding was replaced when the airship was restocked
-this morning."
+Edl nodded. "Yes, everything here is new."
 
 "It's your turn to show us what you got." Ursa said to Edl while gesturing
-towards the bench. "You think you can lift more than me?"
+towards the bench. "You think you can lift more than me and Zok?"
 
-Edl started to prepare the weights. Ursa was surprised to see Edl fill the bar
-with plates.
+Edl added plates to the bar until it was full.
 
-"No way you can lift all that."
+Ursa shook her head in disbelief. "No way you can lift all that."
 
-"Sorry, I wasn't thinking. I get distracted sometimes. I'll-"
+Edl lost confidence immediately. "Sorry, I wasn't thinking. I get distracted
+sometimes. I'll-"
 
 "Well, now that you set everything up, you have to give it a try. Come one,
-Iona and I will spot you."
+Zok, Iona, and I will spot you."
 
-Iona and Ursa positioned themselves on either end of Edl, who started to press
-the bar, seemingly without much effort.
+With the spotters in position, Edl started to press the bar, seemingly without
+much effort.
 
-"OK, big guy, that's enough. I'm already impressed," Ursa cooed.
+"OK, big guy, that's enough. We're already impressed," Lan cooed.
 
-When Edl got up off the bench, Ursa put one hand on Edl's chest and another on
-his arm.
-
-"What else can do you with those big muscles?"
+When Edl got up off the bench, Lan started to move towards him, but Ursa got
+their first. Putting one hand on Edl's chest and another on his arm, Ursa
+asked, "What else can do you with those big muscles?"
 
 Edl thought deeply about the myriad uses for muscles. "I can play BugBall."
 
-"Maybe you'd like to play with me sometime?" Ursa asked, winking provocatively
-at Edl.
+"Maybe you'd like to play with me sometime?" Ursa asked, winking alluringly at
+Edl.
 
 Edl's face lit up. "Yes! Yes, I would! You can meet me at Juvenia Stadium
 tomorrow morning. I'll be practicing and training from dawn, but you can come
@@ -591,19 +642,18 @@ always felt confused and lost when Ben was not around. Knowing what people
 meant was not something that Edl did particularly well on his own. Edl started
 to look around the room for clues to what Ursa meant. Edl did not like
 guessing. He could never guess anything correctly and everyone seemed to get
-frustrated with him. He looked pleadingly at Iona for a hint.
+frustrated with him.
 
 "I think we should let Edl get some rest," Iona said and started to pull Ursa
 away.
 
-Ursa flew into a rage and lashed out Edl with her fists and feet. The fact that
-her attacks seem to have no effect only added to her frustration. "You know
-what I mean! No one could be that dense! If you're not up for it, just say so
-you, coward!"
+Ursa flew into a rage and lashed out Edl with her fists and feet. "You know
+what I mean! No one could be that dense! If you're not interested, just say so
+you, coward!" The fact that her attacks seem to have no effect only added to
+her frustration.
 
-Iona saw how confused Edl looked and tried to explain. "I'm sorry, Ursa does
-not handle rejection well. She also is going through a difficult time in her
-relationship with-"
+Iona saw how confused and helpless Edl looked and tried to explain. "I'm sorry,
+Ursa does not handle rejection well. She is also feeling rather jealous of-"
 
 Ursa struck out with renewed fury. "You'd prefer to be with Zok and Lan? Is
 that it? If that's it, why don't you just tell me?" Ursa fell down on the ground
@@ -614,17 +664,18 @@ BugBall, and you think you're too good for me? Just because were born rich and
 strong and handsome? Unlike you, I had to work and suffer to get where I am
 today! Unlike you, I had to sacrifice everything to become who I am today!"
 
-Ursa collapsed into puddle of tears. Iona picked Ursa up and carried her to
-bed. Kaia and Sata looked at Ursa with an outpouring of love and concern. Ursa
-curled up into a ball, crying, shivering, and letting out the occasional sob.
-Kaia and Sata enveloped Ursa, trying to saturate her with affection, maximizing
-their contact area for optimal diffusion.
+After Ursa collapsed into puddle of tears, Zek, Zok, and Lan quietly exited the
+tent, obviously not wanting to deal with the aftermath. Iona picked Ursa up and
+carried her to the bed. Kaia and Sata received Ursa with an outpouring of love
+and concern. Ursa curled up into a ball, crying, shivering, and letting out the
+occasional sob. Kaia and Sata enveloped Ursa, trying to saturate her with
+affection, maximizing their contact area for optimal diffusion.
 
 Kaia felt closer to Ursa now more than ever. Usually, it was Kaia who made a
-scene when she became overwhelmed by visions and emotions. Kaia never imagined
-that Little Miss Perfect Ursa could also have a total meltdown. It seemed
-obvious now that Ursa was a human being just like everybody else, but it
-certainly had not been obvious to Kaia when they first met.
+scene when she became overwhelmed by her visions. Kaia never imagined that
+Ursa, Little Miss Perfect, could have a total meltdown. It seemed obvious now
+that Ursa was a human being just like everybody else, but it certainly had not
+been obvious to Kaia when they first met.
 
 "Edl, I hope you won't think that this request is too terribly rude, but could
 perhaps give us some time here alone?"
@@ -643,106 +694,84 @@ room without saying anything else.
 
 Iona was glad that Edl had surrender his bed so readily. She walked up to the
 bed and looked at the other girls. Ursa was still in fetal position, but she
-had stopped crying and shivering. Sata and Kaia appeared to have gone to sleep
-while comforting Ursa. Iona knew that Sata and Kaia had been through so much
-that day that it was hard to imagine that it all happened in just one day.
+had stopped crying and shivering. Even though Ursa was normally a fountain of
+positivity, she clearly had a lot of pent up frustration hidden beneath the
+surface.
 
-Ursa was normally a fountain of positivity, but she clearly had a lot of
-emotions that she kept hidden beneath the surface. A good night's sleep would
-do them all a lot of good. Iona put a comforter over the other girls, turned
-off the lights, and was getting ready to close the door behind her when Kaia
-raised her head and asked Iona to wait.
+Iona knew that Sata and Kaia had been through so much that day that it was hard
+to imagine that it all happened in just one day. A good night's sleep would do
+them all a lot of good. Iona put a comforter over the other girls, turned off
+the lights, and was started to leave when saw Kaia raise her head.
 
-"Kaia, I thought you were asleep."
+"Iona, where are you going?"
 
-"I'm kind of a light sleeper." Kaia said thinking of all the times she woken up
-by strange dreams. "Where are you going?"
-
-Iona took a few steps into the dark room. "I thought I would let you all rest
-and head to another one of the rooms for the night."
+Iona took a few steps towards the bed. "I thought I would let you all rest
+and head to tent I rented for us."
 
 "Iona, do you think you could stay here with us? Just for tonight? If not, I
 understand, but it would be nice for all of to be together like we were
 earlier."
 
 Iona hoped that the room was dark enough so that Kaia would not see her tears.
-Closing the door, Iona walked towards the bed in the darkness.
-
-"Can you see in the dark?" Kaia asked concerned that Iona might trip over the
-weight lifting equipment bolted to the floor.
-
-"Yes, I can," Iona answered, smiling.
-
-"But how? Your eyes don't glow in the dark, so I don't think you're a Lunker."
-
-Iona laughed sweetly and sat on the bed. "I'll tell you another time, now it's
-time to sleep."
-
 When Iona laid down along the edge of the bed, Kaia spoke up again.
 
-"Iona, I'm really sorry, but do you think you could sleep next to next to me?"
+"Iona, I'm really sorry, but do you think you could sleep next to me?"
 
-Iona moved next to Kaia.
-
+Iona moved next to Kaia. When Iona settled down, Kaia had another request.
 "It's OK if don't want to, but could you hug my back, like Sata was hugging
 Ursa?"
 
-Iona smiled and was glad that she had no problem crying without making any
-noise at all. Iona slid one arm underneath the pillow under Kaia's head and
+Iona slid one arm underneath the pillow under Kaia's head and
 pressed her torso into Kaia's back while hugging Kaia with her other arm.
 
 "Iona, I know this is getting annoying, but could you put your leg in between
 my legs? Sata always does that without me asking and I really like it. It won't
 be too heavy for me. I'm used to it."
 
-Iona slid her on of her legs in between Kaia's legs.
-
-"Oh, that's perfect. That's just how Sata does it. Thank you Iona."
+Iona smiled and was glad that she was able to cry without making any noise at
+all. After Iona slid her on of her legs in between Kaia's legs, Kaia sighed
+with relief. "Oh, that's perfect. That's just how Sata does it. Thank you,
+Iona."
 
 Iona wondered why she could not stop crying. She was afraid that her tears were
 making Kaia's hair very wet and that Kaia would notice. Something about Kaia
 being so sensitive, vulnerable, thoughtful, gentle, and kind, reminded Iona of
 a world that had vanished long ago. Iona remembered that she had friends in
-that long ago vanished world. Her friends understood what she going through
+a long ago vanished world. Her friends understood what she going through,
 because they were going through the same things she was.
 
 Iona knew that Zek loved her, but his love could not replace friendship. She
 had never grown that close to Ursa, because they had never really needed each
-other before today. Thanks to Kaia and Sata, Iona now felt that she learned a
-lot about Ursa and also relearned something about herself. Iona understood that
-Ursa was not impregnable and that she herself was not immune to emotion.
+other before today. Thanks to Kaia and Sata, Iona now felt that she had learned
+a lot about Ursa and also relearned something about herself. Iona understood
+that Ursa was not invincible and that she herself was not immune to emotion.
 Despite everything that had happened and despite what she had become, Iona
 still needed and craved emotional connections with friends.
 
 Iona felt a part of her reawaken that night. A long since extinguished fire
-became rekindled in her soul. Iona rejoiced as her faith became renewed. She
-was on the correct path. All that was wrong would be set right. Everything that
-was promised would be fulfilled. The righteous fire that had cleansed her
-people from existence was necessary to bring her to this very place in time and
-space. Iona allowed her doubts and fears to be washed away as her being became
-replete with her belief in the larger scheme of things.
+became rekindled in her soul. Iona rejoiced as her faith became renewed. All
+that was wrong would be set right. Everything that was promised would be
+fulfilled. The righteous fire that had cleansed her people from existence was
+necessary to bring her to this very place in time and space. Iona felt her
+doubts and fears wash away as her being became replete with her belief in the
+larger scheme of things.
 
-All Iona needed to do was to kept her faith, continue to walk the correct path,
-and be prepared to sacrifice everything. If she did, her people would be reborn
-free of the evils that plagued them in the long forgotten past. Then, Iona
-would lead her people to retake their rightful place among the stars. She would
-teach her people to believe as she did, to keep the faith as she did, so that
-that nothing would corrupt them ever again, so that they would be worthy of
-living among the stars for eternity.
+All Iona needed to do was to kept her faith and continue to walk the correct
+path. If she did, her people would be reborn free of the evils that plagued
+them in the long forgotten past. Then, Iona would lead her people to retake
+their rightful place among the stars. She would teach her people to believe as
+she did, to keep the faith as she did, so that that nothing would corrupt them
+ever again, so that they would be worthy of living among the stars for
+eternity.
 
 Iona could see Kaia perfectly in the darkness. She could hear her heartbeat.
 Iona knew she would do anything to preserve that heartbeat. Iona did not have
 to worry about someday having to choose between Kaia and her faith, because
-Kaia was her faith. Kaia represented Iona's renewal of faith, the rebirth of
-her people, and the reincarnation that Iona herself would experience. Kaia was
-proof that it was all possible, proof that it would all occur as foretold.
+Kaia was her faith. Kaia represented the rebirth of Iona's people and the
+reincarnation that Iona herself would experience.
 
-Iona would have followed Kaia even if Kaia were cruel and cold-hearted, because
-that is what her faith dictated, because that is what was required to bring up
-the shining future that Iona saw so clearly before her now. But Kaia was not
-just a means to the ends that Iona so greatly desired for so long. Kaia was
-good and pure. Iona knew that she would follow Kaia even if Kaia was not the
-key to everything Iona believed in. When she was sure that Kaia was asleep and
-would not need her until morning, Iona shutdown her processing units and went
-into idle mode for the night.
-
+Kaia was proof that it was all possible, proof that it would all occur as
+foretold. To Iona, Kaia was much more than just a means to the ends that Iona
+had so greatly desired for so long. When she was sure that Kaia was asleep and
+would not need her until morning, Iona cooled her fuel cells, shut down her
+processing units, and went into idle mode for the night.
