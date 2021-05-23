@@ -8,7 +8,7 @@ The sun shining though the skylight above, woke Kaia the next morning.
 
 "I'm kind of a light sleeper."
 
-"Me too," Kaia said thinking of how often she would wake up after having
+"Me too," Kaia said thinking of how often she woke up after having
 strange dreams. Kaia got up and saw that Sata and Ursa were still sleeping.
 
 "Iona, let's go to somewhere else, so we don't wake them."
@@ -18,20 +18,15 @@ Iona nodded and walked with Kaia to the living room of the tent.
 "Iona, thank you for staying with me last night. I also never thanked you for
 saving me on the airship."
 
-"There's no need to thank me."
-
-"You knew exactly what to do with that defibrillator. Did you have medical
-training?"
-
-"I should be the one thanking you, Kaia. Yesterday, you gave me hope." Tears
-rolled down Iona's face.
+"There's no need to thank me. In fact, I should be the one thanking you, Kaia.
+Yesterday, you gave me hope." Tears rolled down Iona's face.
 
 "Iona, I don't understand. The only noteworthy things I did yesterday were to
 fail the initiation rite and nosedive into the observation deck floor."
 
 "Kaia, there's something I need to tell you, but you should sit down first."
 
-Kaia sat down on the bed, but felt like she was sitting on pins and needles
+Kaia sat down on the chair, but felt like she was sitting on pins and needles
 while she waited for Iona to speak again.
 
 Iona sat next to Kaia and spoke slowly. "Kaia, I am a Thelusian."

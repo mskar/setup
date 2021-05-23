@@ -85,17 +85,16 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - [x] 04: Birds of a feather
 - [x] 05: Finally fitting in
 - [ ] 06: Get well soon
-- [ ] 07: A great way to make friends
-- [ ] 08: Never looked better
-- [ ] 09: Never looked better
-- [ ] 10: Forgive and forget
-- [ ] 11: Happiest day ever
-- [ ] 12: A touching reunion
-- [ ] 13: Honesty is the best policy
-- [ ] 14: Home sweet home
-- [ ] 15: Nothing interesting happens
-- [ ] 16: Welcome back
-- [ ] 17: Take your time
+- [ ] 07: Never looked better
+- [ ] 08: To err is human
+- [ ] 09: Happiest day ever
+- [ ] 10: Out to the ballgame
+- [ ] 11: Touching reunion
+- [ ] 12: Honesty is the best policy
+- [ ] 13: Home sweet home
+- [ ] 14: Nothing interesting happens
+- [ ] 15: Welcome back
+- [ ] 16: Take your time
 
 - 01: Off to a great start:
   - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Arla and Raf
@@ -377,7 +376,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - Sata says that assumed that's what they would do
     - They snuggle together
     - Kaia has the first dreamless, peaceful sleep in a long time
-- 08: Happiest day ever
+- 09: Happiest day ever
   - The next day, Kaia and Sata wake up feeling great
   - They go with Fera, Eiva, and Unoa to watch BugBall practice
   - Ursa, Iona, and Edl are playing
@@ -485,6 +484,29 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - Arla says
       - that the effects of the Detox Stick should decrease with time,
       - but she feels it even stronger than she ever did from Taz
+      - that she thinks that they can still be close friends
+      - but they can't ever be in close contact
+    - Kaia and Sata wonder if they will have to choose between
+      - their Sinistrae friends and
+      - their performance group friends
+- 10: Out to ballgame
+  - The next day they go to a real BugBall match: Rainbows versus All Grays
+  - The Rainbow team dedicates two players to
+    - be injected with Detox Sticks
+    - deactivate the opposing team's bugs
+  - The Sinistrae players
+    - are faster and stronger than other players
+    - don't dribble their own team's bugs
+    - immediately run and try to kill the other team's BroodBug
+    - completely change the nature of the game
+  - After the All Grays BroodBug egg fails to hatch after the Sinistrae players touch it,
+    - All Grays fans storm the field and huge brawl erupts
+    - Dar
+      - laughs maniacally in triumph
+      - signs an exclusive Detox Stick contract for the Rainbow Club with Fera
+    - Edl complains that the game is no longer fun if
+      - they can win so fast that there's barely any time to hatch an egg
+      - it doesn't matter that he can dribble eggs extremely fast and powerfully
   - The government announces that every resident has to undergo Detox Stick screening
   - Ben fakes screening records for all of the protagonists
   - Lan and Raf visits Kaia and Sata to say
@@ -541,7 +563,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Taz snitches on the protagonists, which forces the protagonists to escape the refugee camp
   - They run to Wolski forest and Fera leads them to the Lunker city
 
-- 09: A touching reunion
+- 11: A touching reunion
 
 Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Raf live in the
 Lunker city while planning to rescue Arla and Lan. They see Fera is preparing
@@ -623,7 +645,7 @@ Pulverulent Goddess, destroys all of the giant robots and the protagonists are
 buried inside the cave when the entrance collapses from the explosions caused
 by detonating fuel cells of the giant robots.
 
-- 10: Honesty is the best policy
+- 12: Honesty is the best policy
 
 Ben and Edl's parents rescue the protagonists, digging them out of the rubble,
 but Ben decides to scend Kaia while keeping everyone else captive. He explains
@@ -749,7 +771,7 @@ inscription "Vita non Tollitur". Raf and Fera guide them underground and the
 protagonists (Sata, Kaia, Eiva, Fera, Zek, Zok, Ursa, Iona, and Raf) head to
 Wessel lake in Wieliczka to hide from the Scenders.
 
-- 11: Home sweet home
+- 12: Home sweet home
 
 Fera and Eiva take Sata into the capsule and infuse her with self-replicating
 Sinistrae to help her heal. Kaia is haunted by visions of the Pulverulent
@@ -772,7 +794,7 @@ Ursa, Raf, and Iona) are captured by Scenders who followed them into the
 tunnels. The Scenders detonate explosives to collapse the tunnels in Wieliczka,
 burying Kaia, Sata, Fera, and Eiva alive.
 
-- 12: Nothing interesting ever happens
+- 13: Nothing interesting ever happens
 
 Kaia takes Sinistrae supplements to survive, while they dig themselves out.
 They are starving, because Fera hides food for Eiva who is revealed to be
@@ -955,7 +977,7 @@ explain that the body is useless and that they will print a new one right away.
 Kaia is upset and angry, but Zek (or someone else?) says that if they kept the
 body of everyone who scended, they would be buried in dead bodies.
 
-- 13 Welcome back
+- 14 Welcome back
 
 When Sata returns in a newly printed body everything again seems fine, but
 during a training session with Zok, Noia, and Ursa, Sata kills Zok and Ursa by
