@@ -433,24 +433,124 @@ inefficient use of time."
 
 Sata crossed her arms and pouted. "You're no fun."
 
-Ursa tried to make Sata feel better. "I'll do a special show just for you."
+Ursa tried to make Sata feel better. "I'll do a special show just for you
+later."
 
-Sata grinned but her smile disappeared when she saw the locker room.
+Sata grinned but her smile faded when she saw the locker room.
 
 "What are all these doors?"
 
-"Each room has an individual shower and an individual locker"
+"Each door leads to a individual shower stall and locker. This is necessary
+because the locker room is unisex."
 
-...
+The look of disappointment of Sata's face was priceless. Kaia tried to console Sata
+by patting her shoulder.
 
-"Isn't it weird to wear BugBall uniforms when we're not playing?"
+"How will we bond and build a sense of camaraderie if we're all in separate
+stalls?" Sata asked.
 
-"We don't really have any other option after they took our clothes to be washed."
+Iona pointed at clock on the wall. "If you shower faster, we will have more
+time for bonding."
+
+Sata pouted. "I wanted to snap a towel at someone's bottom."
+
+Iona was not amused. "You can snap a towel at your own bottom. Now stop
+wasting time. Pick any door. They're all the same."
+
+Ursa pointed above the nearest door. "The walls don't go up all the way to the
+ceiling. If we pick adjacent stalls, we'll still be able to talk to each other."
+
+"It's funny that they use letters instead of numbers for the doors," Kaia
+observed.
+
+Iona was happy to explain. "There are digits too. The locker room uses the
+hexatrigesimal numbering system. The first ten doors are numbered zero through
+nine, and the other 26 are numbered using letters A through Z."
+
+"I'll pick K. Iona, you should pick I."
+
+"What about me?" Sata asked.
+
+"Pick L for Lewd."
+
+Ursa shrugged. "I guess I'll take J then."
+
+Sata crossed her arms and huffed. "I want to be in a stall next to Ursa."
+
+"All of the stalls are exactly the same," Iona said firmly.
+
+Ursa tried to come up with a solution. "Kaia can have K, Sata
+can take H like Happy, I'll take I as in Incredible, and Iona can take J
+because she loves jokes."
+
+"The letters in numbering system have absolutely no meaning," Iona protested.
+
+Sata smiled mischievously. "I'm going to climb the walls to peek."
+
+"The space between the walls and the ceiling is too narrow. You won't see a
+thing, and you might slip and hurt yourself," Iona warned.
+
+Ursa had another great idea. "If I narrate what I'm doing for you, maybe you
+won't feel tempted to peek."
+
+Sata seemed to regain hope. "Can you narrate in a sexy voice?"
+
+Ursa smiled. "The sexiest voice I muster."
+
+Sata agreed to the plan and the girls went into their respective stalls.
+
+"I'm in a ceramic cage of sadness. You promised you would narrate, Ursa." Sata
+wailed.
+
+Ursa began to narrate every step of the process of undressing but did it in a
+flat, monotone, nasal voice that made it sound like her sinuses were horribly
+congested.
+
+"That isn't a sexy voice!" Sata protested.
+
+"This is my sexiest voice," Ursa said in an incredibly high pitch, her voice
+cracking at end.
+
+"I am entering the shower stall." Kaia said, pinching her nose and try to
+undulate her voice as much as possible.
+
+"Focus on the task at hand," Iona said flatly.
+
+"Commencing cleaning cycle," Ursa said in a robotic voice.
+
+Kaia laughed but was afraid the joke might offend Iona. Iona turned on her
+shower and began to sing the uptempo portion of Diva Dance from the Fifth
+Element. Kaia was impressed by Iona's voice. Ursa started to beat box. It
+seemed like Iona and Ursa had practiced this duet. Iona started gargling water
+while continuing to sing. When Iona finished her recital, all four girls
+started to sing freestyle while gargling water.
+
+"We should turn this locker room into a recording studio. The acoustics are
+excellent," Sata said sounding very upbeat.
+
+"We could go on tour and perform in all the best showers in the world," Kaia
+suggested.
+
+"It would make the performance group more popular than even," Ursa added.
+
+"I don't mean to alarm you, but someone replaced my clothes with a BugBall
+uniform while I was showering. There's a note that says that our clothes were
+taken to be cleaned."
+
+"My clothes are gone too. It's creepy that someone came in here without us
+knowing," Ursa said.
+
+"They were like ninjas," Sata said.
+
+"Isn't it weird to wear BugBall uniforms when we're not playing?" Kaia asked.
+
+"We don't really have any other option after they took our clothes to be
+washed," Iona answered.
 
 Sata, Kaia, Ursa, and Iona emerged from the locker rooms in BugBall uniforms
-consisting of violet sneakers, blue socks, green shorts, and shirts with
-yellow, orange, and red stripes. Outside the locker room, an impeccably dressed
-man was waiting along with two ButlerBaboons in tuxedos.
+consisting of violet sneakers, indigo socks, blue leggings, green shorts, and
+shirts with yellow, orange, and red stripes. Outside the locker room, an
+impeccably dressed man was waiting along with two ButlerBaboons in tuxedos.
 
 "Greetings, I'm Darryśmiś Ohudzki, the manager of Rainbow Sports Club, but
 please call me Dar. I was very impressed by the match you played this morning.
@@ -458,8 +558,8 @@ Up until today, Edlvardos Pembrok has been undefeated-"
 
 "Give us back our clothes, you pervert!" Ursa yelled.
 
-Dar barely skipped a beat. "Your clothes will be ready in about 15 minutes, but
-you can stay here as my guests for as long as you like. For starters, I'd like
+Dar barely skipped a beat. "My ButlerBaboons are washing and pressing your
+clothes, which should be ready in about half an hour. In the meantime, I'd like
 to treat you to lunch."
 
 Ursa was not impressed. "There's no such thing as free lunch. What do you
@@ -482,41 +582,165 @@ empty display case.
 
 Dar swept his hand in a half circle in front of him. "This fine establishment
 has been the best place to eat in the refugee camp for ages. I heard that it
-was first constructed to feed workers renovating Juvenia Stadium before manual
-labor by humans became illegal."
-
+was first constructed to feed human workers renovating Juvenia Stadium before
+construction labor became fully automated."
 
 They sat down at a table near the window. Dar continued to play the host.
 "Please feel free to order anything you like. Remember it's my treat. I usually
 order borscht and compote to drink, tripe soup or sour rye soup for the first
-course, and poultry gizzards in mushroom sauce or the beef tongue in horseradish sauce
-for the second course."
+course, and poultry gizzards in mushroom sauce or the beef tongue in
+horseradish sauce for the second course."
 
-What does everyone order?
+Everyone ordered what they wanted using their tabletop consoles except for Iona
+and Dar, who immediately started talking business. Dar explained that he wanted
+to be able to use recordings and images from their BugBall match for
+promotional purposes. Iona said that it would be better making donations to the
+performance group instead of paying them directly would minimize tax
+obligations for both parties. Dar seemed impressed and suggested that they
+include an open clause that would include any future recordings of them playing
+BugBall or wearing the Rainbow club BugBall uniforms. Iona said that to build a
+lasting relationship Dar should become a performance group PlatinumPatron and
+have the Rainbow Sports Club sponsor the performance group in exchange for
+advertising and VIP seating for himself during their next two performances. Dar
+agreed on the condition that they all pose for a picture together to
+commemorate their new partnership.
 
-Iona explains that it would be better for Dar to make donations to the
-performance group instead of paying them directly, because this minimizes tax
-obligations for both parties and Iona can use the performance group money for
-anything she likes. Dar agrees to become a PlatinumPatron and have the Rainbow
-Sports Club sponsor the performance group in exchange for advertising and VIP
-seating for himself during their next two performances. The girls agree to pose
-for a picture (the PictureParrot flies into Apis) and wear the uniforms for the
-whole day until Fera's remembrance ceremony. Dar was disappointed that the
-girls did not want to wear the rainbow uniforms to the remembrance ceremony,
-but eventually agreed that the rainbow colors might not be the best choice for
-grieving.
+Iona asked the other girls if they agreed to terms of the contract and
+splitting the money evenly between the four of them.
 
-Dar warns them to watch out for fans of the opposing BugBall team, the All
-Grays.
-"You'll recognize them immediately because they only wear gray."
+Kaia, Sata, and Ursa nodded because they all had their mouths full. Kaia was
+upset when she noticed that she had spilled borscht on herself, but was
+relieved to see that the stain blended in with red part of her jersey. A
+PictureParrot flew into Apis and perched on an empty chair in front of them.
+Dar and Iona posed frozen in the middle of a handshake. Kaia did her signature
+kawaii pose, Sata stuck out her tongue and pulled down one lower eyelid to make
+a akanbe / "mon oeil" face, and Ursa opened her mouth and crossed her eyes to
+make a ahegao / o-face. Dar brought up copies of the picture on the table for
+everyone to see.
 
-In Apis, Kaia and Sata spit out the food when they hear that it is made using
-protein from BugBall bugs. Ursa keeps eating, but tells them that the
-vegetables are not made from BugBall bug protein. The vegetables are grown in
-space. Kaia and Sata are relieved until Ursa tells them they have BugBall in
-space too and that the vegetables are fertilized with BugBall bug excrement.
+"We look mega cute!" Ursa squealed.
 
-...
+"Is it alright with everyone if I add this to the performance group social
+media accounts?" Iona asked. Everyone immediately agreed.
+
+Sata pointed at the picture in front of her. "It's funny. I would look kinda
+like Ursa if I was a few decimeters taller, had much longer hair and dyed it
+bright orange, evolved to my ultimate form, maxed out my level, unlocked all
+possible achievements, and permanently had the super star power-up."
+
+Ursa gently punched Sata's arm. "Stop it, you're making me blush. We're all
+uniquely cute in our own special way."
+
+Kaia nodded. Sata and Ursa were both had a heavier build than Iona or Kaia.
+Sata's reddish brown hair was more tightly coiled than Ursa's bright orange
+hair, but seemed to match in color and in texture.
+
+I see what you mean, Sata," Kaia said mirroring Sata's gesture, "I might look a
+little like Iona if I was much, much taller, filled out a lot, straightened my
+hair more, died it bright violet, cut it short and buzzed the sides, became
+really self-confident, unlocked all of my chakras, attained nirvana, and
+entered the avatar state."
+
+Kaia got a little self-conscious and began to play with her dead mouse hair
+clips. She had not been able to do much with her hair since before the
+initiation rite, while Iona's hair seemed to be naturally straight and perfect
+at all times. Iona put her hand on Kaia's shoulder. "Kaia, you're perfect just
+the way you are."
+
+"Sounds like a few of us need a group hug," Ursa said knocking her chair
+backward as she got up. Ursa, Sata, and Iona converged on Kaia and squeezed her
+tight. At the center of the group hug, Kaia felt better. It was OK that she was
+the runt of the litter. She was glad to have such amazing littermates.
+
+"Maybe you'd like to have a picture without me in it," Dar suggested as he got
+up and moved out of view of the PictureParrot. The girls arranged themselves
+for the picture. Iona stood behind Kaia, who looked back and saw that she was
+barely as tall as Iona's solar plexus. Ursa and Sata each held on to one of
+Kaia's arms, bent a leg at the knee pointing their toes to the sides, and
+leaned into Kaia. Looking at the latest picture of the table, Kaia was
+surprised how happy she looked.
+
+"I think the pictures turn out better without me in the them, but I guess
+that's why I'm paying you for promotion and not the other way around."
+
+"Remember, you're paying the performance group, not us."
+
+"Speaking of which, if the performance group ever needs anything, please let me
+know."
+
+"For now, the only thing I think we need is to have our clothes back."
+
+"If you like, I could have your clothes sent to your tents. Remember, the more
+you wear Rainbow unforms, the more money you earn. To sweeten the deal, I will
+throw in a care package with fresh fruits, artisanal chocolates, and Rainbow
+club clothing for each of you."
+
+Kaia and Sata's eyes lit up when they heard about fresh fruits.
+
+"What kind of clothing?" Ursa asked suspiciously.
+
+"The care packages will include Rainbow hats, scarves, hair ties and clips,
+shirts, hoodies, shorts, socks, leggings, sneakers, and pajamas. As a bonus,
+you'll be able to send any of the clothing to be laundered for free whenever
+you like."
+
+"What about underwear?" Ursa asked.
+
+Dar seemed a bit nervous for the first time. "I'll include a few sets of
+undergarments. If anything doesn't fit you can send it back to exchange it for
+another size. Does that sound acceptable?"
+
+Ursa nodded after not being to come up with anything else she could
+reasonably request.
+
+"Excellent, I'll leave you to enjoy the rest of your meal. Please feel free to
+stay and have dessert." Dar said turning to leave, but then he stopped as he
+remembered something. "Oh and steer clear of fans of the opposing BugBall team,
+the All Grays. You'll recognize them immediately because they only wear gray."
+
+After Dar left, Kaia said, "Maybe wearing these uniforms wasn't such a good idea."
+
+Iona saw an opportunity. "If you're worried, Kaia, you can learn to defend
+yourself by training with Zek."
+
+"Training? Can I train with Zek too?" Sata asked.
+
+Iona shook her head. "It's a special training that's tailored to Kaia. You can
+stay with me or Ursa while Kaia trains."
+
+Kaia crossed her arms. "I won't go unless Sata can go with me."
+
+Iona immediately saw that there was no point in arguing. "We can all go
+together, but I just hope you won't be bored, because the training only really
+applies to Kaia. I think Zek will be able to explain it better than I can."
+
+The girls went back to BugBall field. Ben and Edl were gone, but Zek was there
+typing at a console in one of the seats next to the field. Zek joined the
+girls.
+
+"Kaia is ready to start training and was adamant about Sata coming too."
+
+Zek seemed uncertain. "What have to told them so far?"
+
+Iona shook her head. "Not much. Feel free to start from zero, but try to be succinct."
+
+Turning towards Kaia and Sata, Zek began to explain. "Kaia and I are Echos,
+people who can experience the past and the present with equal clarity. Kaia
+experiences past events . can manipulate the emotions and senses of have
+special abilities and I'm going to teach Kaia to use those abilities." Turning
+to Iona, Zek asked, "How am I doing so far, boss?"
+
+Iona nodded. "So far so good. You should also tell them about me."
+
+Zek seemed hesitant. "Kaia, our powers will work on differently on people like
+Iona."
+
+Kaia felt the need to interrupt Zek. "Because she's Thelusian?"
+
+Zek seemed relieved. "Yes. Echos 
+people. We can do all of that to Thelusians, but it may not be effective in a
+combat situation. Thelusians will be faster and stronger than us. example, if Iona were to attack me and I blinded her, I
+wouldn't be able to get away "
 
 Zek asks if Kaia can help him with something. Sata asks if she can go too. Zek
 is unsure, but Kaia says that she does not want to leave Sata. They leave Ben

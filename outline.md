@@ -2413,6 +2413,20 @@ killed on sight.
 - Fera meets refugees who tell her that they are glad that the city was blown up, because more resources are going to the refugee camp now.
 - Kaia and Sata meet refugees in the mess tent.
 - The refugees are happy that BugBall is so popular, because the bugs are turned into protein bars.
+
+...
+
+the rainbow uniforms to the remembrance ceremony, but eventually agreed that
+the rainbow colors might not be the best choice for grieving.
+
+In Apis, Kaia and Sata spit out the food when they hear that it is made using
+protein from BugBall bugs. Ursa keeps eating, but tells them that the
+vegetables are not made from BugBall bug protein. The vegetables are grown in
+space. Kaia and Sata are relieved until Ursa tells them they have BugBall in
+space too and that the vegetables are fertilized with BugBall bug excrement.
+
+...
+
 - More BugBall means more food for the refugee camp.
 - Kaia and Sata ask the refugees if there is any food that does not involve bugs.
 - The refugees say that there is no way to obtain any other food, because it is illegal to
