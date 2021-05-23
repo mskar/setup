@@ -200,8 +200,15 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Fera finds the AI (Unoa)
     - Unoa spends her time
       - accumulating wealth under false identities
-      - messing with DOS users and recording their reactions
+      - messing with DOS users' computers and recording their reactions
       - writing smutty girls' love science fiction novels
+    - Unoa says that
+      - she's aware of the sexist origin of artificial intelligence gender preference
+        - The first AI were all assigned female gender because they were tasked with being
+          - personal assistants and
+          - girlfriends for lonely otaku and guanggun, which were all
+      - she chose to be female despite the stereotypes about AI being female
+      - she considers herself to be Eiva's mother and the thawing to be Eiva's birth
   - After Fera agrees to fight in the revolution, Unoa
     - activates a human-like robot body that she built herself
     - begins unthawing Eiva
@@ -713,32 +720,33 @@ hurt his brother. Kaia has Ben take her to the octoculus and takes it with her,
 even though she knows it got Arla and Lan killed. The protagonists go to steal
 an airship to escape but the airships are gone. When they run outside to escape
 on foot, the doors close behind them and they cannot go back in. Ben and Edl's
-parents appear with an army of Scenders. They explain that they do not plan to
-let Kaia go. They say they can always print another Ben. They say that he was
-right that Kaia was valuable. They do not blame him for betraying them just to
-get the burning pain to stop. Ben cries, but he cannot talk because the bottom
-right side of his face has been corroded away. Ben's parents try to convince
-Kaia that being a Scender is a gift. They say that Ben was the first
-algorithmically created consciousness to be placed in a body. Everyone thought
-he would be disdainful of physical life, because he was born in the
-Scenderverse, but it was quite the opposite. Ben was the greatest advocate for
-physical life among the Scenders. Each one of the Scenders in our army is
-dedicated to the cause. They believe that Scenderism is the only true path for
-humanity. We can still learn things from chemical intelligence, but physical
-life in general is wasteful. Keeping so many people alive is holding back human
-progress. The only reason why Scenders have not enacted our plan of ending
-physical life is because Ben convinced us otherwise. When Ben was a child he
-designed a companion for himself. He drew up the schematics himself, not fully
-even understanding what he was doing. A algorithmically created mind created
-another conscious being from nothing. We still do not understand how he did it
-and have not been able to repeat this feat ever since. You are another example
-of something we cannot explain. We need you to join us so we can study your
-abilities for the good of humanity. Ben explains that the Scenders are
-receiving images from orbital satellites, planes, and drones flying overhead to
-see themselves in third person like in a video game. Kaia and Zek will not be
-able to blind or disorient them, because the Scenders are cut off from their
-regular senses. Scenders surround Kaia et al. and start closing in. "They won't
-get discouraged. They will never give up. They can attack you on any clear day.
+parents appear with an army of Scender warriors who are all as large and
+muscular as Edl. They explain that they do not plan to let Kaia go. They say
+they can always print another Ben. They say that he was right that Kaia was
+valuable. They do not blame him for betraying them just to get the burning pain
+to stop. Ben cries, but he cannot talk because the bottom right side of his
+face has been corroded away. Ben's parents try to convince Kaia that being a
+Scender is a gift. They say that Ben was the first algorithmically created
+consciousness to be placed in a body. Everyone thought he would be disdainful
+of physical life, because he was born in the Scenderverse, but it was quite the
+opposite. Ben was the greatest advocate for physical life among the Scenders.
+Each one of the Scenders in our army is dedicated to the cause. They believe
+that Scenderism is the only true path for humanity. We can still learn things
+from chemical intelligence, but physical life in general is wasteful. Keeping
+so many people alive is holding back human progress. The only reason why
+Scenders have not enacted our plan of ending physical life is because Ben
+convinced us otherwise. When Ben was a child he designed a companion for
+himself. He drew up the schematics himself, not fully even understanding what
+he was doing. A algorithmically created mind created another conscious being
+from nothing. We still do not understand how he did it and have not been able
+to repeat this feat ever since. You are another example of something we cannot
+explain. We need you to join us so we can study your abilities for the good of
+humanity. Ben's parents explains that the Scenders are receiving images from
+orbital satellites, planes, and drones flying overhead to see themselves in
+third person like in a video game. Kaia and Zek will not be able to blind or
+disorient them, because the Scenders are cut off from their regular senses.
+Scenders surround Kaia et al. and start closing in. "They won't get
+discouraged. They will never give up. They can attack you on any clear day.
 They are infinitely patient. They will eventually wear you down." Kaia and Zek
 try to blind and disorient the Scenders it does not work. The protagonists are
 overwhelmed by the sheer volume of Scenders. The Scenders have shields and long
@@ -747,29 +755,30 @@ The Scenders know that they are immortal and that their painful deaths will not
 be recorded, so they throw themselves into battle without holding anything
 back. The mimic warrior cuts through the Scenders with ease because it can move
 silently, evade their spears, fit under their shields, and then slash and bite
-their tendons. The Scenders pile up on the protagonists and are about to take
-them captive. Faced with a wall of spears and exhausted from fighting, the
-protagonists consider surrendering. The Scenders are moving in. The
-protagonists have their backs against a wall. Kaia wants to surrender. Fera
-asks why Kaia wants to surrender all the time, here and at the base. Fera stabs
-Sata and tells Kaia to do something or Sata will all die. As Sata bleeds out,
-Kaia channels the Pulverulent Goddess. At first, it seems like nothing has
-happened, but soon the Scenders start falling over one by one because the
-Pulverulent Goddess stopped their breathing. From Kaia's view, the Pulverulent
-Goddess has replicated herself and is strangling each of the Scenders. The
-Pulverulent Goddess also tries to strangle Fera, but cannot harm her. "See,"
-Fera said, "all you needed was the right motivation." The Pulverulent Goddess
-is furious that there is someone who she cannot kill. The Pulverulent Goddess
-lashes out at Fera, but she an invisible shield protects Fera. The Pulverulent
-Goddess slams against the invisible barrier until she dissipates. The octoculus
-saves Sata by transferring her some of Kaia's blood and covering her wound.
-They leave Ben because he has no value as a hostage. Edl comes out of hiding,
-picks up Ben, and informs Kaia that he is no longer her friend after what she
-did to Ben. They leave the location where they were being held and see that it
-was All Saints Chapel in Salwator Cemetery in Wolski Forest. They read the
-inscription "Vita non Tollitur". Raf and Fera guide them underground and the
-protagonists (Sata, Kaia, Eiva, Fera, Zek, Zok, Ursa, Iona, and Raf) head to
-Wessel lake in Wieliczka to hide from the Scenders.
+their tendons. When the helmet gets knocked off one of the Scenders, the
+protagonists see that the face is that of Edl. The Scenders pile up on the
+protagonists and are about to take them captive. Faced with a wall of spears
+and exhausted from fighting, the protagonists consider surrendering. The
+Scenders are moving in. The protagonists have their backs against a wall. Kaia
+wants to surrender. Fera asks why Kaia wants to surrender all the time, here
+and at the base. Fera stabs Sata and tells Kaia to do something or Sata will
+die. As Sata bleeds out, Kaia channels the Pulverulent Goddess. At first, it
+seems like nothing has happened, but soon the Scenders start falling over one
+by one because the Pulverulent Goddess stopped their breathing. From Kaia's
+view, the Pulverulent Goddess has replicated herself and is strangling each of
+the Scenders. The Pulverulent Goddess also tries to strangle Fera, but cannot
+harm her. "See," Fera said, "all you needed was the right motivation." The
+Pulverulent Goddess is furious that there is someone who she cannot kill. The
+Pulverulent Goddess lashes out at Fera, but she an invisible shield protects
+Fera. The Pulverulent Goddess slams against the invisible barrier until she
+dissipates. The octoculus saves Sata by transferring her some of Kaia's blood
+and covering her wound. They leave Ben because he has no value as a hostage.
+Edl comes out of hiding, picks up Ben, and informs Kaia that he is no longer
+her friend after what she did to Ben. They leave the location where they were
+being held and see that it was All Saints Chapel in Salwator Cemetery. They
+read the inscription "Vita non Tollitur". Raf and Fera guide them underground
+and the protagonists (Sata, Kaia, Eiva, Fera, Zek, Zok, Ursa, Iona, and Raf)
+head to Wessel lake in Wieliczka to hide from the Scenders.
 
 - 12: Home sweet home
 
