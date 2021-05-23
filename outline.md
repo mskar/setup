@@ -271,6 +271,8 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Arla, Lan, and Raf come to talk to Kaia and Sata
   - Arla and Lan invite them to the dance performance
   - Kaia and Sata they will have to watch it on the tent walls like the remembrance ceremony
+  - Raf invites them to visit the Maker Tent
+  - Kaia and Sata promise to stop the Maker Tent when they feel better
   - Fera, Eiva, and Unoa
     - sneak into the infirmary dressed as nurses
     - Eiva holds down Kaia and Unoa holds down Sata
@@ -312,6 +314,10 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - loses the first match to Edl
     - barely wins the second match
     - easily wins the third match
+  - Edl wins the first match easily, but narrowly loses the second, and cannot put up much of a fight in the third
+  - Fera announces that her strength is thanks to the Detox Sticks and says that she has plenty of free samples
+  - When someone suggests that the arm wrestling match was a fake, Fera says that she will take on anyone
+  - All the protagonists decide not to try the Detox Sticks after Raf says the effect Sinistrae had on him
   - To prove that the match with Edl was not staged,
     - Fera accepts other challengers including
       - strike force officers,
@@ -406,11 +412,20 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - To celebrate the deal, everyone eats at Apis
   - Kaia and Sata go to find Arla to tell her the good news
   - Arla is in Taz's tent playing the role of a housewife
+  - Arla welcomes them warmly,
+    - but says that she doesn't want to hug them
+    - because she heard that a few girls got sick
   - Taz is happy to have Arla cook, clean, and overall take care of him
-  - He says that working as an airship mechanic is fine because there is not much work so it is a good cover
+  - He says that working as an airship mechanic is fine
+    - because there is not much work so it is a good cover
   - Kaia and Sata are touched by how sweet Taz and Arla are to each other
   - Arla says that she is excited to be the star, but she feels bad for the Ursa and the other two sick girls
   - Kaia and Sata tell her not to worry about the sick girls because they are not really sick
+  - Arla is extremely grateful, but she is scared that she will not be able to do justice to the play
+  - Kaia and Sata encourage Arla
+  - Taz says that Arla should stop doing housework and go get ready for the play
+  - Arla says that she will bake a cake for them after the performance
+  - Arla goes to the amphitheater to prepare
   - Kaia and Sata go to Maker Tent to see Fera has set up an adjacent tent
     - Fera, Eiva, and Unoa are working with Ben and Raf on new tech
     - They have to keep their workspaces completely separate and use gigaphones to communicate
@@ -447,37 +462,46 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - The curtain draws in front of the Dust Goddess
       - on her throne made of metallic tendrils
       - surrounded by Thelusian warriors
-  - The play triggers Kaia's connection to the past and she relives the events recounted in the play
   - Again, the performance is sponsored by Reli Corp and there are ads for Detox Sticks everywhere
-  - Arla performs in front of Taz and the entire refugee camp. Taz proposes.
+  - The play triggers Kaia's connection to the past and she relives the events recounted in the play
+  - Kaia thinks that the Detox Stick might be making her visions more mild and coherent
+  - Arla performs extremely well in front of Taz and the entire refugee camp
+  - Taz proposes
   - Kaia is struck by how handsome Taz looks (baby-faced with a neat white beard)
   - Arla towers above Taz as he gets on one knee to propose
-  - Arla is extremely moved by the proposal and how well the play goes. She thanks Kaia and Ursa.
-  - Iona says that the play was really well received and should reassure donors after the surprise performance
-  - Fera shows up and challenges Edl to an arm wrestling match
-  - The next day, the arm wrestling match draws a large crowd
-  - Edl wins the first match easily, but narrowly loses the second, and cannot put up much of a fight in the third
-  - Fera announces that her strength is thanks to the Detox Sticks and says that she has plenty of free samples.
-  - When someone suggests that the arm wrestling match was a fake, Fera says that she will take on anyone
-  - All the protagonists decide not to try the Detox Sticks after Raf says the effect Sinistrae had on him
-  - Arla tells Kaia and Sata that
+  - Arla is extremely moved by the proposal and how well the play goes.
+  - She thanks Kaia and Ursa, but says that she can't hug them because she feels very nauseous
+  - Iona says that the play
+    - was really well received and
+    - should reassure donors after the surprise dance performance from the day before
+  - After the show, Arla confides in Kaia and Sata that
     - She is pregnant
     - Taz was using Detox Sticks, because
       - the government required it
       - they made him feel stronger and more energetic and virile, and he enjoyed sex with Arla even more
     - Arla says she convinced Taz to agree to stop using Detox Sticks for the sake of the baby
+    - Arla says that she feels a much stronger Detox Stick sensation from Kaia and Sata
+    - Kaia and Sata admit that Fera injected them with Detox Sticks
+    - Arla says
+      - that the effects of the Detox Stick should decrease with time,
+      - but she feels it even stronger than she ever did from Taz
   - The government announces that every resident has to undergo Detox Stick screening
   - Ben fakes screening records for all of the protagonists
-  - Lan visits Kaia and Sata to say he is worried that the screening program is searching for mimics
+  - Lan and Raf visits Kaia and Sata to say
+   - that they are worried that the screening program is searching for mimics
   - Government planes do flyovers to dust the refugee camp with Sinistrae
   - The Sinistrae make
-    - Kaia, Sata, and Zek stronger, though Kaia and Zek lose their powers
+    - Kaia, Sata, and Zek stronger, though Kaia and Zek lose their powers, and Zek seems to go crazy
     - Ursa, Iona, and Zok weaker (Ursa cries, Zok breaks both his hands by punching, and Iona starts to glitch)
     - Arla, Raf, and Lan turn black and grow roots and membranes
   - Ben takes Arla, Raf, and Lan to his family's airship
     - because they do not want to risk going to the infirmary
     - to keep them out of sight until they get better
-  - Arla asks about her baby, Ben says that the baby is fine
+  - Arla asks about her baby,
+    - Ben says that the baby is fine,
+    - because her body does everything it can to protect them baby
+    - and the Sinistrae only trick their bodies into thinking that they are starving
+    - but they actually have adequate nutrients and her body prioritizes feeding the baby
   - Kaia and Sata ask Lan if the scars covering his body are from the Sinistrae
   - Lan tells them about his story
   - Lan says that he is afraid that the government will abduct them like they abducted his two dads
@@ -494,7 +518,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - Ben, Edl, and Raf go to the maker workshop
     - Arla goes back to Taz
   - Arla and Taz fall asleep together. Arla is kidnapped in her sleep.
-    - Taz interrogates her, but she doesn't admit that she is a mimic.
+    - Taz interrogates her, but she doesn't admit that she is a mimic
     - Taz injects her with a Detox Stick and recoils in horror as
       - her skin turns pitch black,
       - she grows membranes, and
