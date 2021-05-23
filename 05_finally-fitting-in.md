@@ -18,8 +18,8 @@ Iona nodded and walked with Kaia to the living room of the tent.
 "Iona, thank you for staying with me last night. I also never thanked you for
 saving me on the airship."
 
-"There's no need to thank me. In fact, I should be the one thanking you, Kaia.
-Yesterday, you gave me hope." Tears rolled down Iona's face.
+"There's no need to thank me, Kaia. In fact, I should be the one thanking you.
+Yesterday, you gave me hope."
 
 "Iona, I don't understand. The only noteworthy things I did yesterday were to
 fail the initiation rite and nosedive into the observation deck floor."
@@ -45,12 +45,12 @@ could help you achieve your destiny."
 Thelus."
 
 Kaia was stunned. "In my visions, I see the war, Thelus crashing into Mars, and
-afterwards..." The dust began shift on the floor of the room. Iona held Kaia's
-hand and touched her face, trying to maintain Kaia's grasp on reality.
+afterwards..." The dust began shift on the floor of the room.
 
-"Kaia, take it easy. Just focus on me and my voice. I will explain everything."
-The dust faded away and Kaia returned to the present moment. Iona began to
-explain.
+Iona held Kaia's hand and touched her face, trying to maintain Kaia's grasp on
+reality. "Kaia, take it easy. Just focus on me and my voice. I will explain
+everything." The dust faded away and Kaia returned to the present moment. Iona
+began to explain.
 
 "Since the collapse of the Martian and Thelusian civilizations, I have been
 searching for people who can experience both the past and the present,
@@ -130,11 +130,11 @@ that seem ordinary to us can leave Edl absolutely befuddled. While this cannot
 excuse our error or repair the damage it caused, I hope that this explanation
 will be the first step towards making amends. My brother and I would like to
 apologize to you all, and to Ursa in particular, at your nearest convenience.
-You may find us Juvenia Stadium each morning, in the maker workshop tent each
+You may find us at Juvenia Stadium each morning, in the Maker Tent each
 afternoon, or at Fera's remembrance ceremony this evening. Please feel free to
-stay in the airship for as long as you like. If you are hungry, please help
-yourselves to anything you like in the kitchen at the end of the hallway.
-I will be looking forward to our next meeting. Sincerely, Benderrod Divites"
+stay in the Edl's tent for as long as you like. If you are hungry, please help
+yourselves to anything you like in the kitchen at the end of the hallway. I
+will be looking forward to our next meeting. Sincerely, Benderrod Pembrok"
 
 After the video finished playing, Ursa turned to others with her eyes ablaze
 and said, "When we get to Juvenia Stadium, I'm going to kick a BugBall straight
@@ -151,25 +151,26 @@ fruit in the center of the table. The bowl was attached to the table but there
 was nothing stopping the fruit from flying everywhere in the event of extreme
 turbulence. Kaia walked up to the bowel and picked up a large spiky fruit.
 
-"Is this real?" Kaia asked. She had never encountered fruit with plastic
+"Is this real?" Kaia asked. She had never encountered fruit without plastic
 packaging before.
 
-"Yes, all of the fruit is real."
+Iona nodded. "Yes, all of the fruit in that bowl is real."
 
 Perplexed, Kaia asked, "Do rich people just leave real fruit lying around?"
 
 Sata jumped in before any could answer. "Do they also have bowls of assorted
 precious stones and metals?"
 
-"How do eat this? Cut it? Bite it?"
+Kaia turned the fruit around in her hands looking for an opening. "How do eat
+this? Cut it? Bite it?"
 
 "That one is a durian, so you would cut it, but you might want to pick a
-different fruit, because durians produce a very strong odor." Ursa said, taking
+different fruit, because durians are a bit smelly." Ursa said, taking
 the spiky fruit from Kaia and putting it back into the bowl.
 
 Kaia picked a long, curved yellow fruit and looked at Ursa.
 
-"That one you peel."
+"That's a banana. You need to peel it."
 
 Kaia looked back and forth between Ursa and the fruit. "How do I peel it?"
 
@@ -177,13 +178,13 @@ Iona stepped up and provided a scientific explanation. "You can either pinch it
 open from the bottom or open it from the top. The majority of emojis show the
 banana open from the top. Here, allow me."
 
-Kaia tried the banana. She had eaten banana chips, which were hard and crunchy,
+Kaia bit into the banana. She had eaten banana chips, which were hard and crunchy,
 and banana puree, which was soft and mushy, but never a whole banana. Sata
 asked for a bite, then proceeded to eat the rest of the banana. Kaia reached
 for another banana.
 
-"Kaia, let's have eggs before we more fruit," Iona said cracking eggs into a
-bowl.
+"Kaia, let's have eggs before you eat more fruit," Iona said cracking eggs into
+a bowl.
 
 Kaia and Sata watched as Iona prepared breakfast and Ursa put plates, spoons,
 and silverware on the table. Kaia had never seen eggs that did not come in a
@@ -215,50 +216,45 @@ their best to follow Ursa's lead. The result was divinely delicious.
 
 "Should we save you some for later?" Sata asked.
 
-"No need. I can always make more." Iona replied.
+"No need. I can always make more," Iona replied.
 
-Kaia began to wonder if Iona ate at all. Do Thelusians eat?
+Kaia began to wonder if Iona ate at all. Do Thelusians eat? When they finished
+eating Kaia and Sata could barely move. "Is it OK if we walk arm-in-arm to
+Juvenia Stadium?" Kaia asked shyly. "I don't think I can walk on my own after
+eating so much delicious food." Everyone agreed that linking arms was an
+excellent idea. The girls walked in a concave shape as Ursa and Iona gently
+pulled Sata and Kaia forward.
 
-When they finished eating Kaia and Sata could barely move. "Is it OK if we walk
-arm-in-arm to Juvenia Stadium?" Kaia asked shyly. "I don't think I can walk on
-my own after eating so much delicious food." Everyone agreed that linking arms
-was an excellent idea. The girls walked in a concave shape as Ursa and Iona
-gently pulled Sata and Kaia forward.
-
-Before leaving the airship, Iona pulled out four pairs of sunglasses from a
-compartment and handed them out. The sun outside the airship was shining
+Before leaving the tent, Iona pulled out four pairs of sunglasses from a
+compartment and handed them out. The sun outside the tent was shining
 brightly and Kaia was glad the Iona had thought of everything.
 
 "There are lots of people."
 
 "The camp was filled with refugees before our city was destroyed. There is
-simply not enough room for everyone. Most of the new residents still live on
-airships at an ancient airport to the west of the camp."
+simply not enough room for everyone. Most of the adult still live on airships
+at an ancient airport to the west of the camp."
 
-"So our parents are probably not here yet."
+"So our parents are definitely not here."
 
-"Yes, they would need special permission to be transferred to the camp. We can
-ask Ben to pull some strings. His family is very influential," Iona answered.
+"Yes, they would need special permission to be transferred to the camp. Maybe
+we can ask Ben to pull some strings. His family is very influential," Iona
+answered.
 
 Kaia was a bit disappointed to see that Juvenia Stadium was just a field with a
 few rows of seats on one side. In the row closest to the field, Ben and Zek
 were both tapping away at consoles located behind the thin barrier separating
 the seats from the field. Zok and Edl were running drills on the field, but
-when Edl noticed the girls, he dropped his BugBall, ran towards them, stopped
-and yelled for his brother. Ben looked up, hopped onto his seat, then jumped
-onto the barrier, and leapt out over the field. Two giants carrierCrows caught
-Ben in mid-air and then drop him in front of the girls. Edl ran up behind Ben
-and they both started to apologize.
+when Edl noticed the girls, he ran towards them, remembered that he was
+terrified of Ursa, stopped, and yelled for his brother. Ben looked up, hopped
+onto his seat, then jumped onto the barrier, and leapt out over the field. Two
+giants carrierCrows caught Ben in mid-air and then drop him in front of the
+girls. Edl ran up behind Ben and they both started to apologize.
 
 Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way
 I'll forgive you is if you defeat us in BugBall match, four-on-four, girls
-versus boys. But if we win, you'll arrange for each of us to have VIP tents and
-have Kaia and Sata's families transferred to the refugee camp."
-
-Kaia whispered in Ursa's ear.
-
-Ursa added another demand. "And a VIP tent and transfers for Fera's family
-too!"
+versus boys. But if we win, you'll buy VIP tents for Kaia, Sata, and Fera's
+families and have them all transferred to the refugee camp."
 
 Ben agreed. He and Ursa shook hands.
 
@@ -399,13 +395,14 @@ Ben "Please Ursa, if there is anything we can do, please tell us."
 
 Ursa was not sure of what else to ask for and looked to Iona for help. Iona
 whispered in Ursa's ear. Ursa laid out her demands. "On top of the VIP tents
-and transfers, every member of your family has to become a PlatinumPatron
-of the performance group and attend both of our upcoming performances!"
+and transfers, Ende Corp has to sponsor the performance group and every member
+of your family has to become a performance group PlatinumPatron and attend both
+of our upcoming performances!"
 
 Everyone looked at Ben, who was shocked that the requests were so minor. "Yes,
 of course, I will start making the arrangements immediately. Kaia, Sata, and
-Fera's families should arrive this afternoon. You can all move into your
-respective tents this evening."
+Fera's families should arrive this afternoon and can move into your respective
+tents this evening."
 
 Edl looked up at Ursa with hope in his eyes. "You're not mad at me anymore?"
 
@@ -421,10 +418,28 @@ earlier that morning.
 
 As she walked toward the locker room with the other girls, Kaia felt like
 things were turning out alright. The prospect of living in the refugee camp
-permanently did not seem so bad anymore. Kaia was glad that she and Sata would
-see their parents, but also sad that Fera's parents would never be reunited
-with their daughter. Kaia decided that she would try to talk to Fera's parents
-at the remembrance ceremony later that evening.
+permanently did not seem so bad anymore. Kaia was very grateful to Ursa and
+Iona for securing helping their families and also thinking of Fera's family.
+Even though she was glad that she and Sata would see their parents, Kaia was
+also sad that Fera's parents would never be reunited with their daughter. Kaia
+decided that she would try to talk to Fera's parents at the remembrance
+ceremony later that evening.
+
+Sata blocked the door to the locker room. "When you take off your jumpsuits,
+make sure to do it really slow. I don't want to miss anything."
+
+Iona pushed Sata aside. "Out of the question. Undressing slowly would be a very
+inefficient use of time."
+
+Sata crossed her arms and pouted. "You're no fun."
+
+Ursa tried to make Sata feel better. "I'll do a special show just for you."
+
+Sata grinned but her smile disappeared when she saw the locker room.
+
+"What are all these doors?"
+
+"Each room has an individual shower and an individual locker"
 
 ...
 
