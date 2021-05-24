@@ -1,26 +1,9 @@
 ## Chapter 6: Get well soon
 
-"Why aren't you wearing a bubble suit like everyone else?" Kaia asked.
-
-Iona smiled. "We ran into the hot zone before they finished sealing off the
-perimeter. Don't worry, there's no evidence that anyone was infected with
-anything. The bubble suits are just a precaution."
-
-...
-
-Kaia was happy that Iona was there. Since she had woken up had not been alone since she woke, bu
-After talking to clinicians and detectives in biosafety suits, it was nice to
-have someone nearby who was not wearing a biosafety suit.
-
-
-banged
-up very badly, but you'll both be alright. Everyone thinks there was a
-bioterrorist attack and that the six of us were already exposed to whatever
-biological agent was used."
-
-"Attack?"
-
-"Yes, everyone thinks that there was a bioterrorist attack. "
+Everyone thinks that there was a bioterrorist attack, possibly to protest the
+conditions in the camp, but no one in the government cares about the camp. In
+fact, if an attack were to wipe out the camp, the government would see it as a
+net positive.
 
 Zek, Zok, Ursa, and Iona arrive to visit Kaia and Sata at the infirmary.
 
@@ -32,7 +15,6 @@ from purely psychological symptoms.
 
 ...
 
-, possibly to protest the conditions in the camp
 
 Dar visits Kaia and Sata in the infirmary and says how great the video of them
 being chased by All Grays and then attacked by the boys was for the Rainbow
