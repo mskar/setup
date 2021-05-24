@@ -82,8 +82,8 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
 - [x] 01: Off to a great start
 - [x] 02: Productive first day
 - [x] 03: Beautiful view
-- [x] 04: Birds of a feather
-- [x] 05: Finally fitting in
+- [x] 04: Slow fall
+- [x] 05: Sore loser
 - [ ] 06: Get well soon
 - [ ] 07: Never looked better
 - [ ] 08: To err is human
@@ -113,7 +113,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Kaia and Ursa dive off a cliff into Zakrzówek and bond
   - Ursa reveals that she has super powers
   End: Kaia and Sata kiss twice and watch the airship wreckage together
-- 04: Birds of a feather
+- 04: Slow fall
   - Ben and Edl arrive
   - Everyone sits around the camp fire and drinks champagne
   - Kaia is surprised to see Officer Kransal without his balaclava and sunglasses
@@ -125,7 +125,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - In an effort to make Zek jealous, Ursa initiates a sexy fight
   - Ursa has a meltdown in Edl's tent
   End: Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
-- 05: Finally fitting in
+- 05: Sore loser
   - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message sent by Ben.
   - Iona makes breakfast for everyone
   - At BugBall practice, Ben apologizes. Edl runs over and apologizes too.
@@ -226,7 +226,9 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Kaia tries to use her powers against the three Feras
     - but the veils she throws disintegrate
     - and she cannot spin the axes of the Feras to disorient them
-  End: Kaia holds Sata as the three Feras move closer with six bone knives drawn
+  - Kaia holds Sata as the three Feras move closer with six bone knives drawn
+  - Pyr tells the Feras to leave Kaia and Sata alone
+  - Fera laughs at Pyr and mocks him
 - 07: Never looked better
   - Eagles save Raf, Fera, and Mel
   - The Driads help them

@@ -1,10 +1,13 @@
-## Chapter 4: Birds of a feather
+## Chapter 4: Slow fall
 
 "Is that a person flying?"
 
-"Flying might not be the right word. I'd say 'falling in slow motion'?"
+"Flying might not be the right word."
 
 "What about 'levitating'?"
+
+"No, that's not what I mean. It doesn't look like flight or levitation. It's
+more of a slow fall, like 'falling in slow motion'."
 
 Kaia and Sata had been watching people in scuba gear rappel down from hovering
 airships into the water around the crashed airship for a while, but the latest

@@ -1,4 +1,4 @@
-## Chapter 5: Finally fitting in
+## Chapter 5: Sore loser
 
 The sun shining though the skylight above, woke Kaia the next morning.
 
