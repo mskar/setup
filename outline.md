@@ -155,6 +155,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Kaia uses her powers to save herself and Sata
   - Zek, Iona, and Ursa take Kaia and Sata to the infirmary tent
 - 06: Get well soon
+  - A detective interrogates Kaia and Sata about what happened
   - Everyone visits Kaia and Sata in the infirmary tent
   - Kaia watches the remembrance ceremony with Sata in the infirmary
   - A woman in a black veil and ornate dress starts laughing during Ben's speech
