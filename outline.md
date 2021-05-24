@@ -153,12 +153,54 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Pyr and his Posse are wearing helmets to protect themselves from birds
   - Instead of talking they immediately attack the girls
   - Kaia uses her powers to save herself and Sata
-  - Zek, Iona, and Ursa take Kaia and Sata to the infirmary tent
+  End: Kaia loses consciousness next to Sata
 - 06: Get well soon
-  - A detective interrogates Kaia and Sata about what happened
+  - NOTE: no biohazard stuff, nobody in the government cares about the refugee camp
+  - Kaia
+    - awakes to see Fera dressed as a nurse smiling at her before leaving her bedside
+    - asks Fera to wait but Fera continues to leave
+    - decides she must have imagined it
+    - feels better and soon gets up to see Sata
+  - Sata is also feeling better
+  - They go for a walk around the infirmary tent with their IV pumps
+  - Kaia says that she no longer hears voices
+  - Kaia and Sata
+    - feel much better
+    - seem to miraculously recover from their injuries
+  - They are surprised that tech seems to glitch when they touch it
+  - They see Pyr, who has both his arms in casts and apologizes profusely
+  - Sata does not believe him, saying that he is only sorry, because someone broke his arms
+  - Pyr says that
+    - he knows what he did was wrong
+    - he is not trying to come up with excuses but
+      - he was desperate for money since his father disappeared
+      - someone paid him to attack Kaia and Sata, but that he has no idea who it was
+  - Pyr tells his story
+    - he was left shaken by a strange experience after he led the attack against Kaia and Sata
+    - after he recovered, he felt extremely afraid and ran away
+    - as he was running, he was attacked from behind
+    - he woke up in the infirmary tent without any idea of who attacked him
+  - Pyr asks if Kaia and Sata would sign his casts
+  - The casts are covered with expletives and drawings of penises
+  - The girls agree even though they are still mad at Pyr
+  - "Should I draw a penis next to my name like everyone else?"
+  - "Oh, you don't have to draw anything. That's just my friends being jerks."
+  - Arla and Lan come to talk to Kaia and Sata
+  - Arla and Lan invite them to the dance performance
+  - Kaia and Sata they will have to watch it on the tent walls like the remembrance ceremony
+  - Ben and Edl visit them and invite them again to visit the Maker Tent after they recover
+  - Kaia and Sata promise to stop the Maker Tent when they feel better
   - Everyone visits Kaia and Sata in the infirmary tent
-  - Kaia watches the remembrance ceremony with Sata in the infirmary
+    - Arla and Taz
+    - Iona, Ursa, Zek, and Zok
+    - Ben and Edl
+    - Kaia and Sata's parents (who are homophobic)
+  - Everyone is relieved that Kaia and Sata have improved so much within hours
+  - Iona and Ursa
+    - bring food for Kaia and Sata, including fresh fruit
+    - stay with Kaia and Sata to watch the remembrance ceremony
   - A woman in a black veil and ornate dress starts laughing during Ben's speech
+  - Iona and Ursa leave for the night
   - Fera shows up wearing
     - a black mourning veil
     - an blue and green ornate lolita dress
@@ -180,7 +222,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - look for a weapon or something that can use to cut the fabric of the tent so they can escape
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
   - Another Fera drops from above slowly by holding onto the fabric of the tents roof as it rips
-  - Kaia holds Sata as Sata has seizure after seizure
+  - Kaia looks at Sata and is relieved to see that Sata is not having any seizures
   - Kaia tries to use her powers against the three Feras
     - but the veils she throws disintegrate
     - and she cannot spin the axes of the Feras to disorient them
@@ -261,36 +303,10 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Kaia looked at Sata expecting some kind of lewd joke, but clearly Sata was too tired and achy to joke around
   - Fera invites Kaia and Sata to her tent for fancy food and drink
   - "Oh, and if you know what's good for you, don't tell anyone I'm alive."
-  - Kaia and Sata are unsure if they should forgive Fera for the practical joke
-  - That night, Zek trains Kaia in her dreams
-  - In her dreams, Kaia's snakes become extensions of her arms
-  - The next day Pyr arrives and says that he is sorry
-  - Sata does not believe him, saying that he is only sorry, because he got his arms broken
-  - Pyr says that someone paid him to attack Kaia and Sata, but that he has no idea who it was.
-  - Pyr says that the girl who broke his arms said that his Dad is alive
-  - Pyr thinks that Fera
-    - was sorry for breaking his arms and
-    - wanted to make him feel better by saying his Dad is alive
-  - Pyr asks if Kaia and Sata would sign his casts
-  - The casts are covered with expletives and drawings of penises
-  - "Should I draw a penis next to my name like everyone else?"
-  - "Oh, you don't have to draw anything. That's just my friends being jerks."
-  - Arla, Lan, and Raf come to talk to Kaia and Sata
-  - Arla and Lan invite them to the dance performance
-  - Kaia and Sata they will have to watch it on the tent walls like the remembrance ceremony
-  - Raf invites them to visit the Maker Tent
-  - Kaia and Sata promise to stop the Maker Tent when they feel better
-  - Fera, Eiva, and Unoa
-    - sneak into the infirmary dressed as nurses
-    - Eiva holds down Kaia and Unoa holds down Sata
-    - Fera injects each of them with Sinistrae
-  - Kaia says that she no longer hears voices
   - Kaia and Sata
-    - feel much better
-    - seem to miraculously recover from their injuries
-    - agree to go to Fera's tent
-  - Fera tells them about Sinistrae
-  - Kaia and Sata
+    - are unsure if they should forgive Fera for the practical joke
+    - but agree to go to Fera's tent
+    - listen intently while Fera tells them about Sinistrae
     - agree to take the equipment just in case they get attacked again
     - put on bone lace gloves and skinScabbards full of bone knives
     - feel better and stronger
