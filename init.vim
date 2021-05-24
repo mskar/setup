@@ -127,6 +127,7 @@ set smartcase
 
 set fileformats=unix,dos,mac
 set nrformats=alpha,bin,unsigned
+set formatoptions=croqj
 
 if exists('$SHELL')
     set shell=$SHELL
@@ -380,7 +381,7 @@ augroup vimrc-sync-fromstart
   autocmd BufEnter * :syntax sync maxlines=200
 augroup END
 
-autocmd FileType pandoc,markdown setlocal expandtab tabstop=2 shiftwidth=2 softtabstop=2
+autocmd FileType pandoc,markdown,text setlocal expandtab tabstop=2 shiftwidth=2 softtabstop=2 formatoptions+=tanp
 
 " Syntax highlighting for files with weird extensions
 autocmd BufNewFile,BufRead .tmux.conf* set syntax=tmux
