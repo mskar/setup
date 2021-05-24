@@ -613,10 +613,10 @@ upset when she noticed that she had spilled borscht on herself, but was
 relieved to see that the stain blended in with red part of her jersey. A
 PictureParrot flew into Apis and perched on an empty chair in front of them.
 Dar and Iona posed frozen in the middle of a handshake. Kaia did her signature
-kawaii pose, Sata stuck out her tongue and pulled down one lower eyelid to make
-a akanbe / "mon oeil" face, and Ursa opened her mouth and crossed her eyes to
-make a ahegao / o-face. Dar brought up copies of the picture on the table for
-everyone to see.
+kawaii pose, Sata stuck out her tongue and pulled down one lower eyelid
+(footnote: akanbe / "mon oeil"), and Ursa opened her mouth and crossed her eyes
+to make a lewd face (footnote: ahegao / o-face). Dar brought up copies of the
+picture on the table for everyone to see.
 
 "We look mega cute!" Ursa squealed.
 
@@ -722,68 +722,99 @@ girls.
 
 Zek seemed uncertain. "What have to told them so far?"
 
-Iona shook her head. "Not much. Feel free to start from zero, but try to be succinct."
+Iona shook her head. "Not much. Feel free to start from zero, but try to be
+succinct."
 
 Turning towards Kaia and Sata, Zek began to explain. "Kaia and I are Echos,
-people who can experience the past and the present with equal clarity. Kaia
-experiences past events . can manipulate the emotions and senses of have
-special abilities and I'm going to teach Kaia to use those abilities." Turning
-to Iona, Zek asked, "How am I doing so far, boss?"
+people who can experience stimuli from the past and also manipulate the senses
+of people in the present. I'm going to teach Kaia to use her abilities."
+Turning to Iona, Zek asked, "How am I doing so far, boss?"
 
-Iona nodded. "So far so good. You should also tell them about me."
+Iona nodded. "So far so good."
 
-Zek seemed hesitant. "Kaia, our powers will work on differently on people like
-Iona."
+Zek seemed relieved. "Great! Kaia, Sata, any questions?"
 
-Kaia felt the need to interrupt Zek. "Because she's Thelusian?"
+Kaia shook her head. Sata seemed surprised that Kaia going along with
+everything and asked, "Is this a joke?"
 
-Zek seemed relieved. "Yes. Echos 
-people. We can do all of that to Thelusians, but it may not be effective in a
-combat situation. Thelusians will be faster and stronger than us. example, if Iona were to attack me and I blinded her, I
-wouldn't be able to get away "
+Zek smiled. "I think the best way to answer that question is with a
+demonstration, but for that I'll need a volunteer. Sata, would you be willing
+to volunteer?"
 
-Zek asks if Kaia can help him with something. Sata asks if she can go too. Zek
-is unsure, but Kaia says that she does not want to leave Sata. They leave Ben
-on the bleachers and head to Wolski Forest.
+"It's not going to hurt, is it?" Sata asked.
 
-Kaia explains that Zek is going to teach Kaia self-defense. Sata asks if she
-can learn too. Zek says that she can try but not to be disappointed if the
-techniques do not work for her.
+Zek shook his head. "Nothing in the demo is going to hurt anyone even a little.
+I'm just going to manipulate your senses. The effects will be disorienting and
+startling, but absolutely temporary and not harmful in any way. I think that
+this will help Kaia figure out her abilities."
 
-Zek shows them a wicker basket hid in the woods. Inside are sleepSnakes (aka
-slumberSerpents). Zek takes out two snakes and does a demonstration. The snakes
-are coiled around his forearms and strike whenever Zek punches.
+...
 
-"Is that like how Ben controls animalAutomatons?"
+"Iona and Ursa, can
+you spot Sata just in case?" Kaia, please stand next to me and observe closely.
+The human body is oriented around vertical, sagittal, and transverse axes.
+Imagine each axis as a line that that cuts through the body. Now watch as I
+rotate Sata's vertical and transverse axes around her sagittal axis."
 
-"Ben uses gloves to control animalAutomatons, you will be able to control these
-snakes with mind."
+From Kaia's perspective, it looked like a superimposed version of Sata did an
+aerial cartwheel towards Iona while the original version of Sata threw up her
+arms and fell into Ursa's arms. Sata was breathing hard, holding onto Ursa, and
+looking around disoriented.
 
-Sata says that she doesn't want to hold the snakes and Kaia doesn't want to
-either.
+Zek grinned. "Do you still think it's a joke, Sata?"
 
-Zek says that they can try something else. Zek says that another power that
-Kaia has is to blind and disorient opponents. Zek says that he is afraid to do
-a demonstration, but that there is no other way to learn. Sata agrees to be a
-volunteer. Zek tells Kaia to stand next Sata and to be ready to catch her, then
-Zek twists his hand and it appears as if a second Sata twists out of the first,
-but Sata's flail their arms in panic before the standing Sata falls into sync
-with the twisted Sata. Sata flies flailing into Kaia's arms. Sata says that her
-world went sideways. Zek says that Kaia should try to disorient him. Kaia tries
-but cannot.
+"Everything was spinning. How did you do that?" Sata asked.
 
-Zek says not to worry and that they can try something else. Zek appears to
-conjure a dark veil from nowhere and throw it onto Sata's face. Sata goes blind
-and becomes very afraid. Kaia pulls off the veil to restore Sata's sight. Zek
-says Kaia should try to blind him now. Kaia tries but cannot.
+Zek pretended like he did not hear the question. "Just relax. During the next
+part of the demo, you won't be able to see a bit, but don't worry, the effect
+is temporary."
 
-Kaia is frustrated that she cannot conjure the veil. Zek says that it will come
-with time, but that the two girls should rest for now and that they'll try
-again tomorrow.
+Kaia raised her hand in front of Zek. "Wait a second-"
 
-The three head to the BugBall field, but everyone is gone. Zek says that they
-should head to the mess tent for lunch and that he, Ursa, and Iona
-will join them as soon as he can.
+Zek threw his hand forward and a dark net materialized from thin air and
+wrapped around Sata's face. Sata screamed in surprise.
+
+"I said 'wait'!" Kaia yelled at Zek as she ran towards Sata. Reacting
+instinctively, Kaia reached out and pulled the net off of Sata's face. Sata
+burst into tears, threw her arms around Kaia, and said, "It was horrible. I
+couldn't see anything and the sounds were muffled, as if I was underwater."
+
+Zek seem overjoyed. "Kaia, that was amazing. Not only could you see the veil,
+you also were able to take it off."
+
+Kaia was furious. "What is wrong with you?! Why would you do that to Sata?"
+
+Zek did not seem to be too concerned. "Your abilities could save your life
+someday, and save Sata's life too. That demo was a great start to-"
+
+"That's it. We're done!"
+
+"We can let Sata rest. You can practice on Ursa or Iona."
+
+Dust erupted from the grass and began to swirl around Kaia. "No, I'm done
+training!"
+
+Sata tried to calm Kaia down. "Kaia, I'm fine, really."
+
+Kaia shrunk away from the dust swirling around her. "Well, I'm not. I don't
+like any of this. All of this is horrible."
+
+Sata nodded. "She has a point, Zek, these super powers seem kinda evil. Have
+you ever heard of a superhero who can blind people and make them feel like
+their spinning out of control?"
+
+"There's nothing evil about using non-lethal methods to neutralize threats.
+Most of our opponents will be much faster and stronger than us and won't
+hesitate to kill us immediately."
+
+Iona shook her head. "We're done for today, Zek."
+
+Zek started to object, but Iona cut him off and told him to apologize.
+
+"Kaia, Sata, I'm really sorry. I wasn't planning for you both to be here. My
+original plan was to do the demo on Ursa or Iona. They're used to it."
+
+...
 
 Outside the mess tent, Pyr and his Posse ambush Kaia and Sata. This time Pyr is
 wearing a helmet and looking very suspiciously at any birds in his vicinity.

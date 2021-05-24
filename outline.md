@@ -2174,6 +2174,17 @@ Dextrae and Sinistrae can self-destruct if they do not want to be studied.
 Wielders hid their abilities because otherwise they would be labeled as witches
 and hunted down or dissected in a laboratory, depending on the time period.
 
+## Zek trains Kaia in her dream
+
+Zek shows Kaia a wicker basket hid in the woods. Inside are sleepSnakes (aka
+slumberSerpents). Zek takes out two snakes and does a demonstration. The snakes
+are coiled around his forearms and strike whenever Zek punches.
+
+"Is that like how Ben controls animalAutomatons?"
+
+"Ben uses gloves to control animalAutomatons, you will be able to control these
+snakes with mind."
+
 ## Future book idea
 
 The conflict between Dextrae and Sinistrae continues in modern
