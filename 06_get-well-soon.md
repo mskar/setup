@@ -1,5 +1,13 @@
 ## Chapter 6: Get well soon
 
+Zek, Zok, Ursa, and Iona arrive to visit Kaia and Sata at the infirmary.
+
+An investigator asks Sata and Kaia about the bioterrorist attack.
+Why did the girls have such different symptoms than the boys? The girls seemed
+to be at the center of the blast and had only physical symptoms, while the boys
+were all left with post traumatic stress disorder and seemed to be suffering
+from purely psychological symptoms.
+
 ...
 
 Dar visits Kaia and Sata in the infirmary and says how great the video of them

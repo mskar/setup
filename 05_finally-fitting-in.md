@@ -706,7 +706,7 @@ yourself by training with Zek."
 "Training? Can I train with Zek too?" Sata asked.
 
 Iona shook her head. "It's a special training that's tailored to Kaia. You can
-stay with me or Ursa while Kaia trains."
+hang out with me or Ursa while Kaia trains."
 
 Kaia crossed her arms. "I won't go unless Sata can go with me."
 
@@ -743,18 +743,22 @@ to volunteer?"
 
 "It's not going to hurt, is it?" Sata asked.
 
-Zek shook his head. "Nothing in the demo is going to hurt anyone even a little.
-I'm just going to manipulate your senses. The effects will be disorienting and
-startling, but absolutely temporary and not harmful in any way. I think that
-this will help Kaia figure out her abilities."
+Zek shook his head. "Nothing in the demo is going to hurt anyone. I'm just
+going to manipulate your senses. The effects will be disorienting and
+startling, but absolutely temporary and not harmful in any way. I think this
+will help Kaia figure out her abilities."
 
-...
+Sata nodded. "If it can help Kaia, then sure I'll volunteer."
 
-"Iona and Ursa, can
-you spot Sata just in case?" Kaia, please stand next to me and observe closely.
-The human body is oriented around vertical, sagittal, and transverse axes.
-Imagine each axis as a line that that cuts through the body. Now watch as I
-rotate Sata's vertical and transverse axes around her sagittal axis."
+
+Zek smiled. "Ok great. Iona and Ursa, can you spot Sata just in case? Kaia,
+please stand next to me and observe closely."
+
+When everyone was in position, Zek started to explain. "The human body is
+oriented around vertical, sagittal, and transverse axes. Imagine each axis as a
+line that that cuts through the body." Zek showed the three axis in turn with
+his hand and then pointed towards Sata. "Now watch as I rotate Sata's vertical
+and transverse axes around her sagittal axis."
 
 From Kaia's perspective, it looked like a superimposed version of Sata did an
 aerial cartwheel towards Iona while the original version of Sata threw up her
@@ -765,31 +769,32 @@ Zek grinned. "Do you still think it's a joke, Sata?"
 
 "Everything was spinning. How did you do that?" Sata asked.
 
-Zek pretended like he did not hear the question. "Just relax. During the next
-part of the demo, you won't be able to see a bit, but don't worry, the effect
-is temporary."
+Zek did not seem to hear the question. "Just relax. During the next part of the
+demo, you won't be able to see, but don't worry, the effect is temporary."
 
 Kaia raised her hand in front of Zek. "Wait a second-"
 
 Zek threw his hand forward and a dark net materialized from thin air and
-wrapped around Sata's face. Sata screamed in surprise.
+wrapped around Sata's face. Sata let out a scream in surprise.
 
 "I said 'wait'!" Kaia yelled at Zek as she ran towards Sata. Reacting
 instinctively, Kaia reached out and pulled the net off of Sata's face. Sata
-burst into tears, threw her arms around Kaia, and said, "It was horrible. I
-couldn't see anything and the sounds were muffled, as if I was underwater."
+burst into tears, threw her arms around Kaia, and said, "I couldn't see
+anything and the sounds were muffled, as if I was underwater."
 
-Zek seem overjoyed. "Kaia, that was amazing. Not only could you see the veil,
-you also were able to take it off."
+Zek seem overjoyed. "Kaia, that was amazing. You saw the veil and were
+able to take it off without any-."
 
 Kaia was furious. "What is wrong with you?! Why would you do that to Sata?"
 
 Zek did not seem to be too concerned. "Your abilities could save your life
-someday, and save Sata's life too. That demo was a great start to-"
+someday, and save Sata's life too. Imagine being able to incapacitate any
+assailant at any-"
 
-"That's it. We're done!"
+Kaia trembled with anger. "That's it. We're done!"
 
-"We can let Sata rest. You can practice on Ursa or Iona."
+Zek raised his hands. "We can let Sata recover and in the meantime you can
+practice on Ursa or Iona."
 
 Dust erupted from the grass and began to swirl around Kaia. "No, I'm done
 training!"
@@ -797,14 +802,14 @@ training!"
 Sata tried to calm Kaia down. "Kaia, I'm fine, really."
 
 Kaia shrunk away from the dust swirling around her. "Well, I'm not. I don't
-like any of this. All of this is horrible."
+like any of this. All of it is too horrible."
 
 Sata nodded. "She has a point, Zek, these super powers seem kinda evil. Have
 you ever heard of a superhero who can blind people and make them feel like
-their spinning out of control?"
+they're spinning out of control?"
 
 "There's nothing evil about using non-lethal methods to neutralize threats.
-Most of our opponents will be much faster and stronger than us and won't
+Most of our opponents will be much faster and stronger than we are and won't
 hesitate to kill us immediately."
 
 Iona shook her head. "We're done for today, Zek."
@@ -812,22 +817,116 @@ Iona shook her head. "We're done for today, Zek."
 Zek started to object, but Iona cut him off and told him to apologize.
 
 "Kaia, Sata, I'm really sorry. I wasn't planning for you both to be here. My
-original plan was to do the demo on Ursa or Iona. They're used to it."
+original plan was to do the demo on Ursa or Iona. They're used to it. I forgot
+what it's like to go through it the first time."
 
-...
+Sata was ready to accept Zek's apology, but did not say anything, because she
+could see that Kaia was still smoldering. They stood on the field in silence.
+Iona broke the silence. "We were planning to go to the amphitheater to
+rehearse. Would you like to come see? Iona asked. "Arla will be there."
 
-Outside the mess tent, Pyr and his Posse ambush Kaia and Sata. This time Pyr is
-wearing a helmet and looking very suspiciously at any birds in his vicinity.
-They use plastic lunch trays to block the view of overhead drones and knock the
-girls to the ground. The girls hold on to each other as the boys kick them,
-Kaia sees the pain on Sata's face and begins to experience a vision of the war.
-Sata is a fallen comrade, dying in Kaia's arms. Lashes out in anger all around
-her blinding all of the boys simultaneously. Kaia then sees copies of all of
-the boys float up and flip upside down, before crashing down into themselves.
-The boys outside the circle come to take away the ones that were blind and
-disoriented. Kaia and Sata are left on the ground, bruised and bleeding.
+Kaia did not answer, but Sata had an idea. "I want to swing by the Maker Tent
+first. Ben invited us. I'm curious to see what it's like."
 
-Zek, Ursa, and Iona arrive and take Kaia and Sata to the infirmary.
+Iona seemed hesitant. "To be honest, we don't really get along with Ben and Edl
+that well. Is it OK if you meet us at the amphitheater after you visit the
+Maker Tent?"
 
-The chapter ends with Kaia delivering the line referencing the chapter title:
-"Just when I thought we were finally fitting in."
+Sata nodded enthusiastically. Iona showed them the how to get to the Maker Tent
+and the amphitheater on a console. Sata took Kaia by the hand and waved to
+Iona, Ursa, and Zek before walking away. Kaia and Sata turned around when the
+heard shouting behind them. Iona and Ursa were both simultaneously giving Zek
+an earful. Zek looked like puppy that had just pooed on the carpet. It was hard
+to make out exactly what Iona and Ursa were saying, because their voices were
+overlapping over the distance.
+
+"I feel bad for Zek," Sata admitted.
+
+"I don't," Kaia huffed.
+
+Iona noticed that Kaia and Sata had stopped and were looking at her and Ursa,
+looked embarrassed, gestured to Ursa to stop shouting at Zek, and started waving
+at Kaia and Sata with a big smile.
+
+"I miss you already!" Ursa yelled to Kaia and Sata.
+
+Zek started waving at them too, but Iona smacked his hand down and yanked Zek
+off the field by his cravat. Ursa gave Zek a kick in the rear and turn to flash
+a smile.
+
+"They're really cute," Sata said. Kaia nodded. She was feeling less angry.
+
+Sata tried to talk about what had happened. "It's cool that you have
+superpowers."
+
+"I would have picked different powers if I could."
+
+"Sure, being able to fly or turn invisible would be great, but you can make
+this work for you."
+
+"How?"
+
+"If you master the spinning thing, you could sell tickets for roller-coaster
+rides with a roller-coaster. You could also help insomniacs by making them
+temporarily blind."
+
+"I guess it's better than nothing."
+
+"Are you kidding? I'm super jealous."
+
+"You might have superpowers too."
+
+"That'd be great. Then I could be your sidekick."
+
+"It might be better if I were the sidekick. I don't like the pressure of being
+a hero."
+
+Kaia and Sata walked and talked for a while, but then froze when they saw a
+group of men blocking their path. The men were all dressed in various shades of
+gray. "You Rainbow fans?" one of the men asked.
+
+"Can you use your powers on them?" Sata asked. Kaia shook her head.
+
+"Hey, I'm talking to you!" the man said.
+
+"Run!" Sata yelled and pulled Kaia away from the men. They ran until they were
+both panting for breath. Looking around to see if any of the men had followed
+them, they were stunned to see a group of boys in helmets surrounding them.
+
+"Remember me?" Pyr asked menacingly. Kaia did not know what to do and looked to
+Sata for guidance, but Sata was staring blankly off into the distance. The boys
+shoved Kaia and Sata to the ground and started kicking them.
+Sata was still recovering from having a seizure and was not able to defend
+herself. Kaia tried to shield Sata from the onslaught, but a kick to the face
+sent Kaia reeling. Sata screamed in pain. Tasting blood in her mouth, Kaia
+welcomed the howling wind that lifted her spirit up over the circle of boys.
+
+Rotating through the air in a whirlwind of dust, Kaia looked down to see the
+chaotic panorama of the Martian-Thelusian war below. On the ground, Sata was a
+fallen comrade dying in Kaia's arms. With a sweeping gesture of her hand, sent
+all of the enemies below flying backwards. Filled with demonic rage, Kaia
+pinned her foes down with metallic tendrils, took away their hearing and sight,
+filled their mouths with dust, and planted seeds of hysterical fear in their
+minds, but it was not enough.
+
+Kaia wrapped her tendrils around necks of her assailants and started to
+squeeze, but stopped when she saw Sata floating in the air next to her. Sata
+was crying and pleading for Kaia to stop. Had Sata been there the whole time
+hidden by the dust? Kaia saw herself reflected in Sata's eyes and was suddenly
+horrified by what she was doing. Kaia released the tendrils and calmed the wind
+to ease herself and Sata back into their bodies.
+
+After returning to her body, Kaia felt pain and rage boiling through her entire
+being. She wanted to rise up again and seek vengeance, but she somehow felt
+Sata begging her to stay. The girls twisted on the ground until they were
+facing each other. Kaia could barely see, but she began to cry when she saw
+Sata's swollen, bruised, tear-streaked, and bloodied face. Was Sata
+experiencing the same emotions looking at Kaia?
+
+"Am I dying?" Kaia wondered before answering her question, "No, not now, but I
+died like this before on Mars." Kaia could not decide if the similarities
+between her current life and her past lives were a coincidence or followed a
+pattern. The overlap between the past and present appeared to be evidence of a
+higher power willing Kaia to connect the dots. As she drifted in and out of
+consciousness, Kaia hoped the merciful darkness would envelope her and Sata
+quickly to spare them as much suffering as possible.
