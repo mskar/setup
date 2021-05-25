@@ -228,7 +228,37 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - and she cannot spin the axes of the Feras to disorient them
   - Kaia holds Sata as the three Feras move closer with six bone knives drawn
   - Pyr tells the Feras to leave Kaia and Sata alone
-  - Fera laughs at Pyr and mocks him
+  - Fera laughs at Pyr, mocks him, throws bone knives at him
+  - Pyr is frozen in horror as the bone knives hit his casts
+    - which begin to look like toothpick appetizers with way too many toothpicks stuck in them
+  - Kaia
+    - tells Fera to stop hurting Pyr
+    - picks up her IV pole with the pump and saline bags still attached
+    - shakes the IV pole wheels menacingly at Fera
+    - is surprised that she can lift the IV pump so easily
+  - Fera doubles over from laughing so hard
+  - Sata picks up her IV pump pole just as Kaia had done
+  - Kaia and Sata stand back to back and prepare to fight the Feras
+  - Fera
+    - stops laughing and bends over
+    - lifts up her dress slightly to expose her shins
+    - pulls out two more knives from her flesh
+    - advances towards Kaia and Sata
+  - Eiva starts talking out of character
+  - Fera pretends to be upset with Eiva ruining her fun
+  - She convinces them to go with her to to her tent
+    - by offering to explain to them
+      - what happened to
+        - her,
+        - Raf, and
+        - the Principal
+      - Kaia and Sata's miraculous recovery
+  - Pyr says that he already knows that his father died in the explosion
+  - Fera says that
+    - the Principal didn't die in the explosion
+    - but she would only tell them if they all came with her to her tent
+  - Fera, Eiva, and Unoa takes Kaia, Sata, and Pyr with them to the Sinistrae tent
+  End: Fera begins to tell them her story
 - 07: Never looked better
   - Eagles save Raf, Fera, and Mel
   - The Driads help them
