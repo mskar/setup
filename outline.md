@@ -246,6 +246,21 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - advances towards Kaia and Sata
   - Eiva starts talking out of character
   - Fera pretends to be upset with Eiva ruining her fun
+  - "Look at them. Crying scared for their lives. They're so cute," Eiva said.
+  - "You couldn't say one thing without breaking out of character?" Fera asked.
+  - "I couldn't help it. They're just too cute. Can we keep them?" Eiva asked.
+  - "You mean like pets?" Fera asked.
+  - "Yes, we can take them for walks, give them belly rubs and kisses..."
+  - "I would also like to keep these two humans as pets," Unoa admitted.
+  - "No pets!" Fera said definitely.
+  - Sata was not amused. "This isn't funny, Fera."
+  - "You'd appreciate it more if you could see the looks on your faces," Fera said.
+  - "If only you had seen the look on Pyr's face when I broke his arms!" Fera said laughing.
+  - "It was quite humorous when I broke his humerus!" Fera said laughing even harder.
+  - "I love it when Fera laughs at her own jokes, especially if she's the only one laughing." Eiva said.
+  - "Get back into bed, you losers, before Eiva puts collars on you and takes you home with us."
+  - Kaia looked at Sata expecting some kind of lewd joke, but clearly Sata was too tired and achy to joke around
+  - Fera invites Kaia and Sata to her tent for fancy food and drink
   - She convinces them to go with her to to her tent
     - by offering to explain to them
       - what happened to
@@ -258,7 +273,15 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - the Principal didn't die in the explosion
     - but she would only tell them if they all came with her to her tent
   - Fera, Eiva, and Unoa takes Kaia, Sata, and Pyr with them to the Sinistrae tent
-  End: Fera begins to tell them her story
+  - Fera points at Pyr and says she invented a new bone knife storage system
+  - "Brilliant!" Eiva says. "Patent Application Submitted." says Unoa
+  - Unoa asks if she can make some improvements to the storage system
+  - Fera tells Unoa to feel free to make any improvements she likes
+  - Pyr starts to protest but Fera tells him that if he is useful she might keep him around
+  - "You want to be useful, right?" Pyr nodded and did not object further.
+  - Unoa gives Pyr anesthesia and begins working on him
+  - Eiva brings Kaia and Sata food and drink and treats them like her pets
+  - End: Fera begins to tell them her story
 - 07: Never looked better
   - Eagles save Raf, Fera, and Mel
   - The Driads help them
@@ -317,25 +340,17 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - After Raf gets in the boat, Fera tells him that he's never looked better
   - Eiva and Unoa are impressed with Fera's ability to motivate Raf
   - They say that they are now certain that they picked the right person to lead their revolution
-  End: Fera, Unoa, and Eiva climb up the rope as Unoa remotely refills the lake
+  - Fera, Unoa, and Eiva
+    - climb up the rope as Unoa remotely refills the lake
+    - arrive at the refugee camp, set up a tent, and start following Kaia and Sata
+    - see the attack and are about to intervene when Kaia repels the attackers
+    - give Kaia and Sata each a shot of Sinistrae to help them recover
+    - dress as nurses and inject concentrated Sinistrae into Kaia and Sata's IV bags
+    - change into dresses, put on Catrina makeup, and go to the remembrance ceremony where Fera laughs
+    - go back to the infirmary to prank and then abduct Kaia and Sata
 - 08: To err is human
-  - "Look at them. Crying scared for their lives. They're so cute," Eiva said.
-  - "You couldn't say one thing without breaking out of character?" Fera asked.
-  - "I couldn't help it. They're just too cute. Can we keep them?" Eiva asked.
-  - "You mean like pets?" Fera asked.
-  - "Yes, we can take them for walks, give them belly rubs and kisses..."
-  - "I would also like to keep these two humans as pets," Unoa admitted.
-  - "No pets!" Fera said definitely.
-  - Sata was not amused. "This isn't funny, Fera."
-  - "You'd appreciate it more if you could see the looks on your faces," Fera said.
-  - "If only you had seen the look on Pyr's face when I broke his arms!" Fera said laughing.
-  - "It was quite humorous when I broke his humerus!" Fera said laughing even harder.
-  - "I love it when Fera laughs at her own jokes, especially if she's the only one laughing." Eiva said.
-  - "Get back into bed, you losers, before Eiva puts collars on you and takes you home with us."
-  - Kaia looked at Sata expecting some kind of lewd joke, but clearly Sata was too tired and achy to joke around
-  - Fera invites Kaia and Sata to her tent for fancy food and drink
-  - "Oh, and if you know what's good for you, don't tell anyone I'm alive."
-  - Kaia and Sata
+  - Kaia and Sata wake up in the Sinistrae tent
+  - They were too tired to go
     - are unsure if they should forgive Fera for the practical joke
     - but agree to go to Fera's tent
     - listen intently while Fera tells them about Sinistrae
