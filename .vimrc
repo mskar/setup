@@ -405,6 +405,9 @@ cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 " https://github.com/vim/vim/issues/4738
 nnoremap gx yiW:!open <cWORD><CR> <C-r>" & <CR><CR>
 
+" unimpaired style mapping for toggling autoformat
+nnoremap <expr> yoa &fo =~ 'a' ? ':set fo-=a<CR>' : ':set fo+=a<CR>'
+
 if has('macunix')
   " pbcopy for OSX copy/paste
   xmap <D-x> :!pbcopy<CR>

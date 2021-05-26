@@ -519,6 +519,9 @@ xmap <silent><leader>v <Plug>SlimeRegionSend `]:set nowrapscan<CR>:call search('
 
 cnoremap <C-P> <C-R>=expand("%:p:h") . "/" <CR>
 
+" unimpaired style mapping for toggling autoformat
+nnoremap <expr> yoa &fo =~ 'a' ? ':set fo-=a<CR>' : ':set fo+=a<CR>'
+
 if has('macunix')
   " pbcopy for OSX copy/paste
   xmap <D-x> :!pbcopy<CR>
