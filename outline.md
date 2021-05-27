@@ -206,9 +206,11 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - an blue and green ornate lolita dress
     - La Calavera Catrina-style face makeup
     - a black lace gloves with bones sown into the top
-  - Fera raises a begloved hand, points at Kaia and says
-    - that Kaia and Sata are responsible for her death and
-    - that she is going to haunt them until they die, which won't be very long from now
+  - Fera
+    - lifts her veil to show her La Calavera Catrina-style face makeup
+    - raises a begloved hand, points at Kaia and says that
+      - Kaia and Sata are responsible for her death and
+      - she is going to haunt them until they die, which won't be very long from now
   - Kaia and Sata recognize that its Fera and think that she is a ghost
   - Kaia thinks that her powers have materialized Fera as a vengeful spirit
   - Fera lets out a blood-curdling laugh as she
@@ -219,7 +221,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - bruised and wearing infirmary gowns
     - throw pillows at Fera, which she slashes in midair
     - run into a corner
-    - look for a weapon or something that can use to cut the fabric of the tent so they can escape
+    - look for a weapon or something that they can use to cut the fabric of the tent so they can escape
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
   - Another Fera drops from above slowly by holding onto the fabric of the tents roof as it rips
   - Kaia looks at Sata and is relieved to see that Sata is not having any seizures
@@ -272,6 +274,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Fera says that
     - the Principal didn't die in the explosion
     - but she would only tell them if they all came with her to her tent
+    - because she does not want to be interrupted by anyone entering the infirmary tent
   - Fera, Eiva, and Unoa takes Kaia, Sata, and Pyr with them to the Sinistrae tent
   - Fera points at Pyr and says she invented a new bone knife storage system
   - "Brilliant!" Eiva says. "Patent Application Submitted." says Unoa
