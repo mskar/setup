@@ -327,6 +327,8 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
       - 12 on each shin
     - ribcage armor under their clothes
       - with a bone knife hidden in the sternum
+      - Sata says that she is disappointed that the sternum covers up their cleavage
+      - Kaia says that she is fine with it because she never had any cleavage anyway
     - black lace gloves with bones sown into the tops
       - five metacarpals on the backs of their hands
       - fourteen phalanges on top of their fingers
