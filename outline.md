@@ -279,6 +279,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Fera tells Unoa to feel free to make any improvements she likes
   - Pyr starts to protest but Fera tells him that if he is useful she might keep him around
   - "You want to be useful, right?" Pyr nodded and did not object further.
+  - Unoa reassures Pyr "Based on your psychological profile, I predict you will appreciate the upgrade."
   - Unoa gives Pyr anesthesia and begins working on him
   - Eiva brings Kaia and Sata food and drink, pampers them, and treats them like her pets
   - End: Fera begins to tell them her story
@@ -324,6 +325,8 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - skinScabbards with a total of 40 bone knives
       - 8 on each forearm
       - 12 on each shin
+    - ribcage armor under their clothes
+      - with a bone knife hidden in the sternum
     - black lace gloves with bones sown into the tops
       - five metacarpals on the backs of their hands
       - fourteen phalanges on top of their fingers
@@ -354,31 +357,46 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Sata jokes that Fera's story was boring that it put them to sleep
   - Kaia says that she had the first dreamless, peaceful sleep she can remember
   - Unoa was working all night on Pyr and covered his forearms with bone knives
-  - Pyr can now move his arms, because Unoa mended his bones will adding the bone knives
+  - Pyr can now move his arms, because Unoa
+    - removed the casts
+    - mended his bones
+    - while adding the bone knives
   - There are 36 bone knives total (2*4+3*4+4*4) on each forearm
   - Unoa unrolls a SkinScroll to show that they still have many bone knives left
   - Pyr can control the knives
-    - stand up perpendicular to his skin so that the knives are sticking out
+    - when Pyr contracts his forearm muscles, the knives
+      - go into perpendicular mode
+      - stand up perpendicular to his skin so that the knives are sticking out
       - the perpendicular mode makes his forearms look like porcupines
-    - lie flat along his skin with the sharp ends of the knives sticking past his elbow
-      - the parallel mode makes the blades work like armor
+      - work like porcupine quills
+      - are very easy to pull out
+    - when Pyr relaxes his forearm muscles, the knives
+      - go into parallel mode
+      - lie flat along his skin with the sharp ends of the knives sticking past his elbow
+      - work like armor
+      - are very difficult to pull out
   - Unoa says that
     - the hardest part was rewiring Pyr's brain to be able to control the knives
     - it may take plenty of practice before Pyr can master controlling the knives
     - she plans to do the same thing to Pyr's shins later
+    - it will be possible for Pyr to move the knives individually
+      - after his brain adjusts to the remodeling
   - Pyr
     - thinks that the improvements Unoa made are very cool
     - is grateful that his broken arms are healed now
     - is impressed that controlling the knives feels natural to him
+  - "You might want to hide the upgrade from people, because you are an abomination unto nature."
   - Fera thinks that Pyr can be useful for supplying bone knives to Sinistrae warriors during battle
+  - Pyr thinks he is a superhero, while Fera sees him as a pack mule
   - Kaia and Sata
     - think that the upgrades Unoa made to Pyr are weird
     - are unsure if they should forgive Fera for the practical joke
     - listen intently while Fera tells them about Sinistrae
     - agree to take the equipment just in case they get attacked again
     - put on bone lace gloves and skinScabbards full of bone knives
+    - put on ribcage armor under their clothes with a bone knife hidden in the sternum
     - each girl has 40 bone knives (8*2+12*2)
-    - feel better and stronger
+    - feel better, stronger, more confident
   - Kaia and Sata, Eiva, Fera, Unoa
     - change into matching goth lolita dresses that Fera got for them
     - appreciate that the bone lace gloves match the dresses perfectly
