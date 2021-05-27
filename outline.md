@@ -280,7 +280,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Pyr starts to protest but Fera tells him that if he is useful she might keep him around
   - "You want to be useful, right?" Pyr nodded and did not object further.
   - Unoa gives Pyr anesthesia and begins working on him
-  - Eiva brings Kaia and Sata food and drink and treats them like her pets
+  - Eiva brings Kaia and Sata food and drink, pampers them, and treats them like her pets
   - End: Fera begins to tell them her story
 - 07: Never looked better
   - Eagles save Raf, Fera, and Mel
@@ -350,12 +350,34 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - go back to the infirmary to prank and then abduct Kaia and Sata
 - 08: To err is human
   - Kaia and Sata wake up in the Sinistrae tent
-  - They were too tired to go
+  - They were too tired to go back to the infirmary tent after Fera's story end
+  - Sata jokes that Fera's story was boring that it put them to sleep
+  - Kaia says that she had the first dreamless, peaceful sleep she can remember
+  - Unoa was working all night on Pyr and covered his forearms with bone knives
+  - Pyr can now move his arms, because Unoa mended his bones will adding the bone knives
+  - There are 36 bone knives total (2*4+3*4+4*4) on each forearm
+  - Unoa unrolls a SkinScroll to show that they still have many bone knives left
+  - Pyr can control the knives
+    - stand up perpendicular to his skin so that the knives are sticking out
+      - the perpendicular mode makes his forearms look like porcupines
+    - lie flat along his skin with the sharp ends of the knives sticking past his elbow
+      - the parallel mode makes the blades work like armor
+  - Unoa says that
+    - the hardest part was rewiring Pyr's brain to be able to control the knives
+    - it may take plenty of practice before Pyr can master controlling the knives
+    - she plans to do the same thing to Pyr's shins later
+  - Pyr
+    - thinks that the improvements Unoa made are very cool
+    - is grateful that his broken arms are healed now
+    - is impressed that controlling the knives feels natural to him
+  - Fera thinks that Pyr can be useful for supplying bone knives to Sinistrae warriors during battle
+  - Kaia and Sata
+    - think that the upgrades Unoa made to Pyr are weird
     - are unsure if they should forgive Fera for the practical joke
-    - but agree to go to Fera's tent
     - listen intently while Fera tells them about Sinistrae
     - agree to take the equipment just in case they get attacked again
     - put on bone lace gloves and skinScabbards full of bone knives
+    - each girl has 40 bone knives (8*2+12*2)
     - feel better and stronger
   - Kaia and Sata, Eiva, Fera, Unoa
     - change into matching goth lolita dresses that Fera got for them
@@ -363,7 +385,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - go to see Ben, Edl, and Raf at the Maker Tent
   - Ben and Edl
     - cry tears of joy and disbelief when they see Fera
-    - notice that her presence deactivates their tech
+    - notice that her presence causing their tech to glitch and eventually deactivates it
   - Raf says he is happy that he does not need to keep Fera's survival a secret anymore
   - Fera
     - asks Ben to help her build unique tech as a partnership between Reli Corp and Ende Corp
