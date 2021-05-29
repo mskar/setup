@@ -1,9 +1,20 @@
 ## Chapter 6: Get well soon
 
-Everyone thinks that there was a bioterrorist attack, possibly to protest the
-conditions in the camp, but no one in the government cares about the camp. In
-fact, if an attack were to wipe out the camp, the government would see it as a
-net positive.
+As Kaia regained consciousness, she saw a familiar face. Wearing a long white
+coat with a stethoscope around her neck, Fera smiled at Kaia. "Fera?" Kaia
+asked. Fera did not answer, turned around, and walked away. Kaia tried to get
+up to look around for Fera, but could not see anything except medical equipment
+and the curtain surrounding her bed.
+
+When Kaia woke up again, she felt much better. Completely alone in the
+infirmary tent, Kaia quickly got bored of watching the flickering lights of the
+medical equipment and decided to get up to explore her surroundings. Despite
+the bruises that covered her body, Kaia was pleasantly surprised to find that
+she could move without much pain.
+
+Pulling her intravenous infusion pump behind her, Kaia pushed past the curtain
+and saw that Sata pulling her 
+
 
 Zek, Zok, Ursa, and Iona arrive to visit Kaia and Sata at the infirmary.
 
