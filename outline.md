@@ -390,9 +390,38 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
     - thinks that the improvements Unoa made are very cool
     - is grateful that his broken arms are healed now
     - is impressed that controlling the knives feels natural to him
-  - "You might want to hide the upgrade from people, because you are an abomination unto nature."
+    - likes the clacking sound that the knives make when he switches modes
+    - asks whether he will be able to shot the knives from his forearm
+      - Unoa says that would be very impractical and terrible idea
+    - makes the wanker hand gesture and laughs at the rhythmic clacking
+      - Fera warns Pyr against doing that ever again
   - Fera thinks that Pyr can be useful for supplying bone knives to Sinistrae warriors during battle
   - Pyr thinks he is a superhero, while Fera sees him as a pack mule
+  - Unoa tells Pyr to keep his mod hidden
+  - "You might want to hide the upgrade from people, because you are an abomination unto nature."
+  - Pyr does not listen and later
+    - convinces many other boys to get the same mod
+    - the boys fight each other one-on-one in a fight tent
+    - during each match the boys who are not fighting clack their bone knives together and cheer
+      - Unoa creates
+      - a ModMachine so she does not have mod each boy manually
+      - a MedMachine so she does not have patch up the boys after each fight
+      - Unoa is very happy to
+        - be able to perfect her tech on the boys
+        - have so many willing experimental subjects
+      - Eiva, Fera, and Unoa
+        - decide to only make girls Sinistrae wielders
+        - train the girls in the camp to
+          - control bone knives and other Sinistrae infused objects
+          - lead the boys into battle
+        - convince Taz and the other soldiers to act as their
+          - bodyguards
+          - security personnel
+        - replace all of the guns with fakes that do not have any fuel cells
+        - know that the government
+          - has far superior firepower
+          - could destroy them immediately with energy weapons / orbital satellites
+        - swear everyone to secrecy to hide everything from the government
   - Kaia and Sata
     - think that the upgrades Unoa made to Pyr are weird
     - are unsure if they should forgive Fera for the practical joke
@@ -566,6 +595,19 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
       - immortal
       - incredibly powerful
       - a deity
+    - As her husband conducts experiments on her,
+    - he reveals that he tells her about his life:
+      - he was born Thelusian
+      - became obsessed with
+        - perfecting his mind and body
+        - proving that organic beings were useful
+        - gaining the love and recognition of his parents
+      - gave up on convincing Thelusians to value organic bodies
+      - left Thelus for Mars to
+        - be with other organic beings
+        - continue his research on
+          - enhancing organic intelligence
+          - immortalizing organic life
     - After the procedure is complete, the Dust Goddess's body is completely destroyed
     - The Dust Goddess is reborn in a new heavenly form and says that she will kill the husband
     - The husband says that he does not mind, because he
