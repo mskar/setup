@@ -1,20 +1,27 @@
 ## Chapter 6: Get well soon
 
 As Kaia regained consciousness, she saw a familiar face. Wearing a long white
-coat with a stethoscope around her neck, Fera smiled at Kaia. "Fera?" Kaia
-asked. Fera did not answer, turned around, and walked away. Kaia tried to get
-up to look around for Fera, but could not see anything except medical equipment
-and the curtain surrounding her bed.
+coat with a stethoscope around her neck, Fera smiled at Kaia. Kaia opened her
+mouth to say something, but was only able to produce a pitiful groan. Fera
+turned around and walked away. Kaia got up to look around for Fera, but could
+not see anything except medical equipment and the curtain surrounding her bed.
 
-When Kaia woke up again, she felt much better. Completely alone in the
-infirmary tent, Kaia quickly got bored of watching the flickering lights of the
-medical equipment and decided to get up to explore her surroundings. Despite
-the bruises that covered her body, Kaia was pleasantly surprised to find that
-she could move without much pain.
+When Kaia woke up again, she felt much better. Kaia quickly got bored of
+watching the flickering lights of the medical equipment and decided to explore
+her surroundings. Despite the bruises that covered her body, Kaia was
+pleasantly surprised to find that she could get up without much pain. Kaia
+jumped to her feet when she heard Sata calling her name.
 
-Pulling her intravenous infusion pump behind her, Kaia pushed past the curtain
-and saw that Sata pulling her 
+"I'm here!" Kaia moved towards the curtain, but stopped when her intravenous
+line became taut and yanked on her hand. Rolling her intravenous infusion pump
+pole behind her, Sata emerged from behind the curtain. Kaia grabbed the
+intravenous line and pulled on it in an attempt to move towards Sata.
 
+Sata closed the distance and the two girls embraced tenderly.
+
+"I'm so glad you're OK," Kaia said.
+
+"Me too, but I'm wondering what to "
 
 Zek, Zok, Ursa, and Iona arrive to visit Kaia and Sata at the infirmary.
 
