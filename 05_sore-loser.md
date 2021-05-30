@@ -891,15 +891,15 @@ gray. "You Rainbow fans?" one of the men asked.
 
 "Run!" Sata yelled and pulled Kaia away from the men. They ran until they were
 both panting for breath. Looking around to see if any of the men had followed
-them, they were stunned to see a group of boys in helmets surrounding them.
+them, they were stunned to see a group of boys closing in to surround them.
 
 "Remember me?" Pyr asked menacingly. Kaia did not know what to do and looked to
 Sata for guidance, but Sata was staring blankly off into the distance. The boys
-shoved Kaia and Sata to the ground and started kicking them.
-Sata was still recovering from having a seizure and was not able to defend
-herself. Kaia tried to shield Sata from the onslaught, but a kick to the face
-sent Kaia reeling. Sata screamed in pain. Tasting blood in her mouth, Kaia
-welcomed the howling wind that lifted her spirit up over the circle of boys.
+shoved Kaia and Sata to the ground and started kicking them. Sata was still
+recovering from having a seizure and was not able to defend herself. Kaia tried
+to shield Sata from the onslaught, but a kick to the face sent Kaia
+reeling. Sata screamed in pain. Tasting blood in her mouth, Kaia welcomed the
+howling wind that lifted her spirit up over the circle of boys.
 
 Rotating through the air in a whirlwind of dust, Kaia looked down to see the
 chaotic panorama of the Martian-Thelusian war below. On the ground, Sata was a

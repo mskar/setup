@@ -45,20 +45,106 @@ casts. "Someone snuck up behind me, knocked me out, and broke my arms."
 
 "Good," Sata said, "You deserve it."
 
-"You're right," Pyr said lowering his head. "I know what I did was wrong and
-regret it."
+"You're right, I'm sorry for what I did." Pyr said lowering his head. "I know
+it was wrong, and I regret it."
 
 Sata crossed her arms. "The only reason you feel bad is because you got your
 arms broken."
 
-"I felt bad about it even before my arms were broken," Pyr said. "I'm not
-trying to come up with excuses for what I did, but ever since I arrived at the
-camp I have been on my own. My dad never showed up. I am pretty sure he died in
-the explosion. I didn't have any money. My friends and I slept on the grass
-last night. We hadn't eaten anything because some older kids stole our
-rations."
+Pyr shook his head. "I felt bad about it even before my arms were broken. I'm
+not trying to come up with excuses for what I did, but ever since I arrived at
+the camp I have been on my own. My dad never showed up. I am pretty sure he
+died in the explosion. I didn't have any money. My friends and I slept on the
+grass last night. Some older kids stole our rations."
 
-"There's nothing you can say that will..."
+Sata quickly lost patience. "If you're trying to make us feel sorry for you,
+it's not going to work."
+
+"Wait, there's something else. Someone paid me to beat you up."
+
+"What?! Who was it?"
+
+"I don't know. There was an anonymous message with instructions. All of my
+friends got the same message. I can show it to you if you want."
+
+Pyr brought the message up on the console. While reading it, Kaia said,
+"Whoever sent this knew that we would be wearing Rainbow BugBall uniforms and
+running away from All Grays fans."
+
+"Do you think Dar sent this?"
+
+"I'm not sure. The message was sent yesterday, before we even met Dar." Kaia
+observed.
+
+"That's so creepy. Yesterday we were at the artificial lake. How could anyone
+know where we would be the next day?" Sata said.
+
+Kaia thought about possible answers. "Ben could have guessed that we would be
+going from the field to the Maker tent after BugBall practice, because he
+invited us to both places."
+
+Sata scrunched up her face in disbelief. "Why would Ben pay people to beat us
+up?"
+
+Kaia shrugged. "I don't know."
+
+Pyr had an idea. "Maybe it has something to do with your superpowers?"
+
+Kaia recoiled in surprise. "What superpowers?"
+
+Pyr raised his hands. "Don't worry, I won't tell anyone."
+
+Sata shook her head. "We don't have superpowers."
+
+Pyr tapped his temple. "I'm not dumb. You obviously have super
+healing. Yesterday, you made a bird fly into my head two separate times. Today,
+you attacked me with your psychic powers. At first, I couldn't see anything and
+felt like I was doing flips in space. Then, when I could see again, I was so
+scared that I ran and hid, and-" Pyr suddenly took a step back, his face frozen
+in horror. "You did it! You broke my arms!"
+
+Sata got angry. "There's no way. We were unconscious."
+
+"You did it with your minds."
+
+"Doesn't it make more sense that your arms were broken by the person who sent
+you the message?" Kaia asked.
+
+Pyr thought about it. "Maybe they were trying to keep me quiet."
+
+"We need to gather clues to find out who it was," Sata suggested.
+
+"We can't," Pyr said, "They won't let us leave this tent."
+
+"Why not?" Sata asked.
+
+"They think we were at the center of some kind of experimental weapon strike,"
+Pyr explained. "I tried to tell them that it was your superpowers, but they
+wouldn't listen to me."
+
+Sata pointed at Pyr. "You said you wouldn't tell anyone."
+
+Pyr smiled triumphantly. "And you said you didn't have superpowers."
+
+Sata clearly exhausted all of patience she had allotted for Pyr. "Come on Kaia,
+we're leaving."
+
+As Kaia and Sata were looking for the exit, Ben and Edl rushed up to them.
+
+"You arrived here a few hours ago in critical condition. I am astounded that
+you recovered so quickly." Ben said, looking at Kaia and Sata closely.
+
+"We're surprised too," Sata admitted.
+
+"I saw that you accessed a console and wanted to check on you."
+
+"We're looking for clues," Sata said.
+
+"
+
+Soldiers were blocking the entrance to the tent.
+
+"Do you know any of the boys who beat you up?"
 
 ...
 
