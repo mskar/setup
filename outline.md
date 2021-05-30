@@ -596,8 +596,8 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
       - incredibly powerful
       - a deity
     - As her husband conducts experiments on her,
-    - he reveals that he tells her about his life:
-      - he was born Thelusian
+    - he tells her that he
+      - was born Thelusian
       - became obsessed with
         - perfecting his mind and body
         - proving that organic beings were useful
@@ -608,6 +608,12 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
         - continue his research on
           - enhancing organic intelligence
           - immortalizing organic life
+      - developed the Echo system by combining two kinds of tech:
+        - Thelusian mind upload
+        - Martian psychic tech
+      - was pleased that only natural-born humans could be Echos
+      - started the war between Martians and Thelusians
+      - is planning to take control of both civilizations after the war ends
     - After the procedure is complete, the Dust Goddess's body is completely destroyed
     - The Dust Goddess is reborn in a new heavenly form and says that she will kill the husband
     - The husband says that he does not mind, because he

@@ -15,15 +15,62 @@ jumped to her feet when she heard Sata calling her name.
 "I'm here!" Kaia moved towards the curtain, but stopped when her intravenous
 line became taut and yanked on her hand. Rolling her intravenous infusion pump
 pole behind her, Sata emerged from behind the curtain. Kaia grabbed the
-intravenous line and pulled on it in an attempt to move towards Sata.
+intravenous line and pulled on it in an attempt to move towards Sata. Sata
+closed the distance and the two girls embraced tenderly.
 
-Sata closed the distance and the two girls embraced tenderly.
+"I'm so glad you're OK," Kaia said. Sata nodded in agreement. "Me too, but
+isn't it weird?
 
-"I'm so glad you're OK," Kaia said.
+"That you're OK?"
 
-"Me too, but I'm wondering what to "
+"Yeah, I couldn't even lift my head earlier and now I'm walking around with no
+problem."
 
-Zek, Zok, Ursa, and Iona arrive to visit Kaia and Sata at the infirmary.
+"Maybe we were unconscious for a long time?"
+
+"Let's go check. I saw a console on my way here."
+
+The girls made their way to the console and activated the display. "It's only
+been a few hours?!" Sata exclaimed.
+
+"It could be broken," Kaia suggested.
+
+"It's not broken. You've really only been here just a few hours." Kaia and Sata
+turned around and saw Pyr's head poking out from behind a nearby curtain.
+
+"What are you doing here?" Sata asked suspiciously.
+
+Pyr stepped out from behind the curtain to show that his arms were encased in
+casts. "Someone snuck up behind me, knocked me out, and broke my arms."
+
+"Good," Sata said, "You deserve it."
+
+"You're right," Pyr said lowering his head. "I know what I did was wrong and
+regret it."
+
+Sata crossed her arms. "The only reason you feel bad is because you got your
+arms broken."
+
+"I felt bad about it even before my arms were broken," Pyr said. "I'm not
+trying to come up with excuses for what I did, but ever since I arrived at the
+camp I have been on my own. My dad never showed up. I am pretty sure he died in
+the explosion. I didn't have any money. My friends and I slept on the grass
+last night. We hadn't eaten anything because some older kids stole our
+rations."
+
+"There's nothing you can say that will..."
+
+...
+
+- he was desperate for money since his father disappeared - someone paid him to
+attack Kaia and Sata, but that he has no idea who it was - Pyr tells his story
+- he was left shaken by a strange experience after he led the attack against
+Kaia and Sata - after he recovered, he felt extremely afraid and ran away - as
+he was running, he was attacked from behind
+- he woke up in the infirmary tent without any idea of who attacked him
+
+
+Ursa and Iona arrive to visit Kaia and Sata at the infirmary.
 
 An investigator asks Sata and Kaia about the bioterrorist attack.
 Why did the girls have such different symptoms than the boys? The girls seemed
