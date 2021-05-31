@@ -131,10 +131,16 @@ we're leaving."
 
 As Kaia and Sata were looking for the exit, Ben and Edl rushed up to them.
 
-"You arrived here a few hours ago in critical condition. I am astounded that
-you recovered so quickly." Ben said, looking at Kaia and Sata closely.
+"We came to wish you 'Get Well Soon', but it seems we are too late. You arrived
+here a few hours ago in critical condition. I am astounded that you recovered
+so quickly." Ben said, looking at Kaia and Sata closely.
 
-"We're surprised too," Sata admitted.
+"We're surprised too," Kaia admitted.
+
+Sata immediately took on the role of detective. "Who else knew that you invited
+us to visit the Maker tent?"
+
+Ben seemed confused by the question. "I "
 
 "I saw that you accessed a console and wanted to check on you."
 
