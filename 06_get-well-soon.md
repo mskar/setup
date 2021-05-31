@@ -41,7 +41,8 @@ turned around and saw Pyr's head poking out from behind a nearby curtain.
 "What are you doing here?" Sata asked suspiciously.
 
 Pyr stepped out from behind the curtain to show that his arms were encased in
-casts. "Someone snuck up behind me, knocked me out, and broke my arms."
+casts. "Someone sneaked up behind me, knocked me down, broke my arms, and then
+disappeared."
 
 "Good," Sata said, "You deserve it."
 
@@ -53,25 +54,27 @@ arms broken."
 
 Pyr shook his head. "I felt bad about it even before my arms were broken. I'm
 not trying to come up with excuses for what I did, but ever since I arrived at
-the camp I have been on my own. My dad never showed up. I am pretty sure he
-died in the explosion. I didn't have any money. My friends and I slept on the
-grass last night. Some older kids stole our rations."
+the camp I've been on my own. My dad never showed up. I am pretty sure he died
+in the explosion. I didn't have any money. My friends and I slept on the grass
+last night. Some older kids stole our rations."
 
 Sata quickly lost patience. "If you're trying to make us feel sorry for you,
 it's not going to work."
 
-"Wait, there's something else. Someone paid me to beat you up."
+Pyr got to the point. "Wait, there's something else. Someone paid me to beat
+you up."
 
 "What?! Who was it?"
 
-"I don't know. There was an anonymous message with instructions. All of my
-friends got the same message. I can show it to you if you want."
+Pyr shook his head. "I don't know. There was an anonymous message with
+instructions. All of my friends got the same message. I can show it to you if
+you want."
 
 Pyr brought the message up on the console. While reading it, Kaia said,
 "Whoever sent this knew that we would be wearing Rainbow BugBall uniforms and
 running away from All Grays fans."
 
-"Do you think Dar sent this?"
+"Do you think Dar sent this?" Sata asked.
 
 "I'm not sure. The message was sent yesterday, before we even met Dar." Kaia
 observed.
@@ -105,14 +108,14 @@ in horror. "You did it! You broke my arms!"
 
 Sata got angry. "There's no way. We were unconscious."
 
-"You did it with your minds."
+Pyr pointed at the girls. "You did it with your minds."
 
 "Doesn't it make more sense that your arms were broken by the person who sent
 you the message?" Kaia asked.
 
 Pyr thought about it. "Maybe they were trying to keep me quiet."
 
-"We need to gather clues to find out who it was," Sata suggested.
+"We need to look for clues about who it was," Sata suggested.
 
 "We can't," Pyr said, "They won't let us leave this tent."
 
@@ -131,26 +134,214 @@ we're leaving."
 
 As Kaia and Sata were looking for the exit, Ben and Edl rushed up to them.
 
-"We came to wish you 'Get Well Soon', but it seems we are too late. You arrived
-here a few hours ago in critical condition. I am astounded that you recovered
-so quickly." Ben said, looking at Kaia and Sata closely.
+ Ben looked at Kaia and Sata closely and said, "We came to wish you 'Get Well
+ Soon', but it seems we are too late. You arrived here a few hours ago in
+ critical condition. I am astounded that you recovered so quickly."
 
 "We're surprised too," Kaia admitted.
 
-Sata immediately took on the role of detective. "Who else knew that you invited
-us to visit the Maker tent?"
+Sata immediately took on the role of detective. "When you picked us from the
+artificial lake yesterday did you know we would be walking from Juvenia Stadium
+to the Maker tent this afternoon?"
 
-Ben seemed confused by the question. "I "
+Ben seemed confused by the question. "I suppose I could have foreseen it. Edl
+and I had the same point of origin and destination earlier today."
 
-"I saw that you accessed a console and wanted to check on you."
+Sata continued her line of questioning. "Who else could have foreseen it
+yesterday?"
 
-"We're looking for clues," Sata said.
+Ben started to understand the logic behind the questions. "I do not know how
+anyone else could have. It seems that you believe that someone planned to
+attack you this afternoon and that I am the prime suspect."
 
-"
+"We know someone planned the attack." Sata said pointing at the console they
+had used earlier. Ben zipped up to the console on his powerskates and began to
+read the message that Pyr had received.
 
-Soldiers were blocking the entrance to the tent.
+Kaia, Sata, and Edl walked up behind Ben. Sata looked over Ben's shoulder and
+asked, "You can access other people's messages?"
 
-"Do you know any of the boys who beat you up?"
+Ben was tapping furiously at the console, but managed to reply. "Yes, I pulled
+up the most recent message. It appears the recipient, Pyrkartof Naiksos, agreed
+to lead the attack against you in exchange for a tidy sum. He received the full
+amount after you were attacked. Why would he show you this self-incriminating
+evidence?"
+
+"He felt bad," Kaia explained.
+
+"He's scared, because someone broke arms," Sata corrected.
+
+"I assume he is somewhere nearby," Ben said. Edl went behind the curtain that
+Sata had indicated and returned holding Pyr by the back of his patient gown.
+
+"Excellent! The EternalEnlightened have already passed judgment. Pyr will
+provide financial compensation to the injured parties, have all of the bones in
+his body broken without anesthesia, and be sent to prison as soon as he is
+cleared for launch. I already transferred all of Pyr's funds to your accounts
+as partial payment of the injury compensation. I recommend doling out the
+subsequent subsequent punishment immediately," Ben said and nodded to Edl.
+
+Edl grabbed Pyr by the arm, threw him on the floor, and started snapping each
+of the fingers sticking our from the cast. Pyr howled in pain, but could not
+break free of Edl's grip.
+
+"Stop, don't hurt him!" Kaia yelled. Ben raised his hand and Edl froze in
+mid-snap.
+
+Ben bowed his head towards Kaia. "I am sorry, Kaia, based on the protest you
+staged with Fera yesterday, I should have guessed that you would not approve of
+corporeal punishment. Nevertheless, it would be best for Pyr if his bones were
+broken as soon as possible. If we hand Pyr over to the authorities now, they
+may wait until Pyr is already in space. Bones do not heal properly in
+microgravity. On the other hand, if we break his bones now he may heal
+completely before he is sent to prison."
+
+"I don't want his bones broken at all," Kaia said trying to maintain her
+composure.
+
+Ben look disappointed. "I am afraid that his bones will be broken sooner or
+later."
+
+"Can we ask the EternalEnlightened to pardon him?" Kaia asked.
+
+Ben nodded. "Yes, we can. A partial pardon could be advantageous. Pyr is more
+likely to be able to pay the remaining injury compensation he owes you if his
+bones remain intact and he is not sent to prison. Would you like the partial
+pardon to apply to all of your assailants?"
+
+Sata reluctantly agreed after much prodding from Kaia. After submitting the
+pardon request, Ben said, "The EternalEnlightened are asking if you would be
+open to discussing the compromise of a few additional broken bones."
+
+Kaia was adamant. "No more broken bones."
+
+The response was immediate. Ben explained the result. "The EternalEnlightened
+suspended the prison sentence and reduced the corporeal punishment to the
+injuries that Pyr has already sustained." Pyr looked up at Kaia and Sata and
+thanked them profusely while clutching his recently broken fingers, then
+slipped back behind the curtain he was hiding behind before.
+
+Ben moved on to the next topic. "As for the mysterious origins of the message
+that Pyr received, I have no way of proving my innocence. I can only say that I
+certainly had nothing to gain from planning the ambush."
+
+"We think the Rainbow club owner might be involved. He's the one who gave us
+the BugBall uniforms we were wearing."
+
+Ben rubbed his chin. "Yes, that makes sense. The attack could sway public
+opinion away from the All Grays in favor of the Rainbow club. Allow me to
+investigate. I will let you know if I discover anything."
+
+Sata objected immediately. "I don't want to stay here and wait. I want to
+investigate too."
+
+Ben shook his head. "It will be safer if you stay here. The person who wanted
+to hurt you may be planning another attack."
+
+"They could be planning to attack us here," Sata noted.
+
+"There are armed guards at the entrance and patrolling the area around the
+tent. Right now, this is the safest place you could be."
+
+"Not if we die of boredom," Sata said.
+
+Ben was ready with a solution. "If you agree to stay, I will pay for any food
+and refreshments you order. You will also be able to control who has permission
+to visit you. Please feel free to order anything you like and invite whoever
+you like. Does that sound acceptable?"
+
+Kaia shook her head. "I want to go to Fera's remembrance ceremony."
+
+Ben swept his hand to the side. "You will be able to view the ceremony on the
+walls of the tent. It will be even better than attending in person."
+
+After Kaia and Sata agreed, Ben and Edl bid them farewell. As Ben and Edl were
+leaving, Sata shouted after them. "You shouldn't have agreed to pay for
+everything. I am going to bleed you dry."
+
+Ben turned around, laughed, and said, "You are most welcome to try," before
+disappearing around the corner.
+
+"What should we order first?" Sata asked scrolling through the options on the
+console.
+
+"Some food?" Kaia suggested.
+
+Sata sorted the menu by price. "OK, the most expensive items are a rotating
+sushi bar, a churrascaria with rodízio service, and a deluxe seafood buffet."
+
+"That's so expensive!" Kaia exclaimed after looking at the price.
+
+Sata selected all three items. "The way I see it, Ben gave us a challenge and I
+don't want to disappoint him. What should we get to drink?"
+
+Kaia shrugged. "You're probably going to order the most expensive things."
+
+Sata beamed. "You're right. Looks like we can't order any alcohol, so let's
+order a barista coffee station and a fruit smoothie stand. For dessert, let's
+get a gelato bar and a crêpe chef station."
+
+An image of a twisty straw with googly eyes popped up on the screen and began
+to speak. "Hi, I'm Tipsy. It looks like you are planning an event. Would you
+like help with that?"
+
+"Uh sure," Sata said.
+
+"Great, I've added some items to your order. Once you've approved your order,
+please review the proposed guest list I've put together based on your contacts
+and social profiles."
+
+Sata approved all of the additional items without looking, but stopped at the
+guest list. "Should we invite Dar?"
+
+"We might be able to figure out if he was behind the attack," Kaia suggested.
+
+"OK, I guess it makes sense to invite Ben and Edl, since Ben is paying for
+everything. Is everyone else on the list OK?"
+
+Kaia hesitated before saying, "Is it alright if we don't invite our parents and
+their friends? We can just send them a message to say that we are doing well."
+
+"I know what you mean." Sata said and then switched to a gruff, raspy voice as
+she launched into an impression of Kaia's father. "Aren't you girls too old for
+sleepovers? People are going to get the wrong idea."
+
+Kaia laughed and fired back with an impression of Sata's mother in a sultry,
+husky voice. "When I was your age, I had all the boys eating out of the palm of
+my hand. I'm starting to worry about you two."
+
+Sata pinched her nose to imitate the nasal voice of Kaia's mother. "Girls, it's
+never too soon to start looking for a husband. You can't be sure of your future
+until you have a ring around your finger."
+
+"I can't come up with anything for you dad," Kaia admitted. "He's actually
+pretty cool."
+
+Sata shook her head. "You only think that because the only times you've seen
+him was when he has trying to compensate for never being around. It makes me
+mad that he always gets your name wrong."
+
+"I actually think that's pretty funny," Kaia said before launching into an
+impression. "Remember, Kira, if you want something in life, don't let anyone
+stop you. You gotta grab life by the horns, Kesa, and carpe all those diems."
+
+"OK, it's agreed that we won't invite our parents. That leaves everyone in the
+performance group and Taz."
+
+"Sounds good to me."
+
+Kaia and Sata recorded a quick message and sent it to their parents, then
+decided to go sit in the waiting area near the entrance while they waited for
+the food and refreshments to arrive. They were not able to sit for long before
+people started arriving to ask them where to set up all of the things that they
+had ordered. Soon there was no more space in the waiting area and all the
+chairs had to removed to accommodate everything.
+
+
+All the boys who attacked Kaia and Sata show up at the party. Each boy has two
+broken arms and a few broken fingers, because their punishment has to match the
+punishment that Pyr received.
+
 
 ...
 

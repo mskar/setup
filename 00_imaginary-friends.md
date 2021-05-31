@@ -37,7 +37,7 @@ other study subjects, I do not have the luxury of allowing failure to be an
 option.
 
 Soon, Kaia may be able to understand the nature of her talents and utilize that
-understanding to blow the lid off our entire operation. For this reason, the
+understanding to blow the lid off our whole operation. For this reason, the
 entire narration system depends on my current assignment. If people were to
 find out that their life stories were being passively recorded without their
 knowledge, the data would be contaminated and our study subjects could
