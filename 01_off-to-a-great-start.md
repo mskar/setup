@@ -2,11 +2,9 @@
 
 Kaia would have given anything to be normal. Filled with dread and paralyzed by
 anxiety, she wished she could be carefree and unconcerned like the other
-students in the cacophonous gymnasium.
-
-There was no way out. The polyethylene bleachers were packed
-with the entire high school freshman class. All around the bleachers,
-robotic animals buzzed, growled, and roared, while observing the
+students in the cacophonous gymnasium. There was no way out. The polyethylene
+bleachers were packed with the entire high school freshman class. All around
+the bleachers, robotic animals buzzed, growled, and roared, while observing the
 students.
 
 Kaia leaned in to her best friend Sata and whispered in her ear. "Let's run."
@@ -17,11 +15,11 @@ moved. "We wouldn't even make it to the door, which is locked by the way."
 Kaia tucked her hair behind her ears and leaned in further. "If we run, they'll
 have to knock us out, and we'll miss the ceremony."
 
-Sata gestured towards the walls of the gymnasium. "If the buzzBees knocked us
-out, the wakeupWasps would sting us until we were awake." The walls the were
-covered will tropophbia-inducting hexagonal holes in the walls. Inside the
-walls, there was a network of tunnels filled with robotic insects always ready
-to swarm anyone who stepped out of line.
+Sata gestured towards the walls of the gymnasium. "If the BuzzBees knocked us
+out, the WakeupWasps would sting us until we were awake." The walls were
+covered with trypophobia-inducing hexagonal holes. Inside the walls, there was
+a network of tunnels filled with robotic insects always ready to swarm anyone
+who stepped out of line.
 
 Kaia tugged on Sata's shirt without realizing what she was doing. Sata was
 wearing her favorite pink shirt. The shirt had a design featuring voluptuous
