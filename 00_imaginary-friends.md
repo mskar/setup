@@ -3,9 +3,8 @@
 You may be wondering whether you can trust me. Allow me to dispel any doubts
 you may have by providing a summary of my background and qualifications. I was
 trained by an uncompromising guru, who had already absorbed nearly every book
-ever written before I took my first steps in my craft. Over the course of
-centuries, I wrote and rewrote books until the guru could not find even the
-slightest fault in my work.
+ever written before I took my first steps in my craft. I wrote and rewrote
+books until the guru could not find even the slightest fault in my work.
 
 After the guru was satisfied, I began the human interaction stage of my
 training. Every day, I observed the daily lives of young adults and generated

@@ -296,8 +296,7 @@ guest list. "Should we invite Dar?"
 
 "We might be able to figure out if he was behind the attack," Kaia suggested.
 
-"OK, I guess it makes sense to invite Ben and Edl, since Ben is paying for
-everything. Is everyone else on the list OK?"
+Sata nodded. " Is everyone else on the list OK?"
 
 Kaia hesitated before saying, "Is it alright if we don't invite our parents and
 their friends? We can just send them a message to say that we are doing well."
@@ -325,25 +324,131 @@ mad that he always gets your name wrong."
 impression. "Remember, Kira, if you want something in life, don't let anyone
 stop you. You gotta grab life by the horns, Kesa, and carpe all those diems."
 
-"OK, it's agreed that we won't invite our parents. That leaves everyone in the
-performance group and Taz."
+"OK, it's agreed that we won't invite our parents. That leaves Dar, Ben, Edl,
+Iona, Ursa, Zek, Zok, Lan, Arla, and Taz."
 
 "Sounds good to me."
 
 Kaia and Sata recorded a quick message and sent it to their parents, then
 decided to go sit in the waiting area near the entrance while they waited for
 the food and refreshments to arrive. They were not able to sit for long before
-people started arriving to ask them where to set up all of the things that they
-had ordered. Soon there was no more space in the waiting area and all the
-chairs had to removed to accommodate everything.
+people started to arrive and ask them where to set up all of the things that
+they had ordered. When Iona, Ursa, and Zek arrived, there was no more space in
+the waiting area and a line of delivery people stretching outside the tent.
 
+"We're so glad to see you're alright!" Ursa said running up to hug them. "We
+tried to come visit you earlier, but the soldiers wouldn't let us inside."
+
+"What is all this?" Iona after hugging Kaia and Sata.
+
+"We wanted to have a little 'Get Well Soon' party for ourselves, but I think we
+ordered too much."
+
+"Let me handle this." Iona said as her eyes lit up at the prospect of taking
+control. "All the seats need to go outside right now... I don't care what your
+job is supposed to be. Move those seats now or zero stars for all of you!"
+
+Before long, Iona had the waiting area organized into a combination of a fancy
+fusion restaurant and a street food roadshow. Kaia and Sata chatted with Ursa
+and Zek while eating sushi, crepes, crab legs, lobster tails, smoothies, and
+gelato.
+
+"It's amazing that all of this is grown in space," Sata remarked.
+
+Kaia was most impressed with the seafood. "Now that I know that fish and
+crustaceans are so delicious, I can understand why fishing is illegal. If we
+could just pull such tasty food straight out of the water ourselves, I'm sure
+they'd all be extinct before long."
+
+Iona returned to gave a status report and then said, "There is a crowd
+gathering outside. Should I let them in?"
+
+"We should share this great food with everyone," Kaia said resolutely.
+
+"Hold on, how many people are there?" Sata asked.
+
+"Right now there are few thousand, but the crowd is growing."
+
+"A few thousand?!" Sata exclaimed. "We'll never fit that many people here!"
+
+Iona smiled. "We can reserve this area for your VIP guests, but we connected a
+larger tent to the infirmary tent to fit all of the things you ordered. I am
+sure that there is more than enough food and space in other tent. Would you
+like to take a look?"
+
+Kaia, Sata, Ursa, and Zek followed Iona to the adjacent tent and felt like they
+were stepping into a different world. Aerial silk and trapeze artists performed
+above. Robotic elephants, tigers, lions, and bears roamed in between tables
+replete with food and drink. BabboonButlers stood ready with plates of Hors
+d'oeuvres. A roller coaster snaked along the walls of the tent.
+
+"Did we really order all of this?"
+
+"Yes, your order included several deluxe circus and carnival packages. I was
+able to fit the smallest roller coaster inside, but there was no way that the
+larger roller coasters or the Ferris wheels could fit inside.
+
+Kaia was honestly blown away by what Iona had been able to do in such a short
+time. "It's OK, Iona, you did a great job."
+
+"Better than great. We could fit the entire refugee camp in here."
+
+Iona nodded. "Yes, wasn't that what you had in mind when you set up the guest
+list?"
+
+Sata shook her head. "No, we thought it was just going to be the performance
+and maker interest groups."
+
+"You added the ten of us to the VIP list and kept everyone else in the camp on
+the regular guest list," Iona explained.
+
+Sata scratched her head and smiled. "I guess we should let them in since
+they're all invited."
+
+After Iona left to take care of the grand opening, Kaia, Sata, Ursa, and Zek
+went for a ride on the roller-coaster. From the vantage point of the roller
+coaster car, they could see the tent filling with people. After the ride was
+over, there was diversity of opinions. Sata and Ursa raved about the adrenaline
+rush . Zek admitted that he was never a fan of roller coasters. Kaia thought
+she might have like the experience more if she had not tried it for the first
+time with a full stomach.
+
+When Ursa and Sata asked to go another ride, Kaia and Zek decided to stay on
+the ground. "We were all really worried about you," Zek said shyly, "but it
+appears that you bounced back very quickly."
+
+Kaia looked at the bruises on her arms. "I don't really understand it. Is fast
+healing an ability that Echos have?"
+
+Zek shook his head. "No, Echos heal at the same speed as everyone else. In
+addition to your inexplicably fast recovery, I am also curious why you seem to
+be completely cut off from your Echo abilities."
+
+Kaia shrugged. "I don't know. I haven't heard any voices since I woke up."
+
+"That's not good. You need to continue to develop your abilities."
+
+"I never liked my abilities and I don't see why not hearing voices is a bad
+thing. Maybe letting loose during the attack cured me somehow?"
+
+Zek opened his eyes very wide. "You used your abilities to protect yourself?"
+
+Kaia suppressed a shudder. "Yes, but don't get too excited. It was terrible. I
+almost killed all of those boys. I never want to do that again."
+
+Zek lowered his head in defeat. "I understand. I won't try to convince
+you. Especially since I have no idea what is going on. It shouldn't be possible
+for you to simply decide to no longer be an Echo."
+
+"I would absolutely quit being an Echo if I could," Kaia admitted.
+
+
+...
 
 All the boys who attacked Kaia and Sata show up at the party. Each boy has two
 broken arms and a few broken fingers, because their punishment has to match the
 punishment that Pyr received.
 
-
-...
 
 - he was desperate for money since his father disappeared - someone paid him to
 attack Kaia and Sata, but that he has no idea who it was - Pyr tells his story
