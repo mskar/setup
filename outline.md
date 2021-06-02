@@ -61,9 +61,35 @@ dunderstudy and understudy so that can perform in front of Taz.
 
 Strike force officer, then Arla's lover, then husband
 
-- Meliedion Naiksos (Cacumen):
+- Meliedion Naiksos (Human):
 
 School Principal, then Administrative Assistant to Fera
+
+- Pyrkartof Naiksos (Human):
+
+A bully, the son of the School Principal
+
+- Eivavikadela Fridzia (Human):
+
+Warrior put in stasis during an ancient war, now posing as Fera's sister
+
+- Unoavikadela Fridzia (Human):
+
+The UNO AI in a robotic teenage girl body, now posing as Fera's sister, loves
+smutty girls' love science fiction novels and unoOS, hates dosOS, makes fun of
+Dosa for being glitchy, high latency, filled with adware, and still not having
+a decent terminal user interface after thousands of years, approves of Ben when
+she learns that he uses unoOS for his technical work
+
+- Dosa
+
+The DOS AI in a robotic teenage girl body, mascot for dosOS, makes fun of Unoa
+for having no users, because most of the few unoOS users died in the war
+
+- Tipsy
+
+A virtual avatar in the form of a twisty straw with googly eyes, part of the
+glitchy bloatware that is dosOS
 
 - Lumafinaakua Ranolum
 
@@ -302,7 +328,7 @@ Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
   - Fera finds the AI (Unoa)
     - Unoa spends her time
       - accumulating wealth under false identities
-      - messing with DOS users' computers and recording their reactions
+      - messing with dosOS users' computers and recording their reactions
       - writing smutty girls' love science fiction novels
     - Unoa says that
       - she's aware of the sexist origin of artificial intelligence gender preference

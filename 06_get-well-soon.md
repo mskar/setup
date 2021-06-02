@@ -445,6 +445,25 @@ for you to simply decide to no longer be an Echo."
 
 ...
 
+Ben and Edl bring Kaia's parents to her after locating her with a robotic
+birds. Kaia's parents are excited that she is surrounded by boys: Edl is
+athletic, Ben is smart, and Zek is artistic. Kaia's parents talk about which
+boy would be best for Kaia right in front of all of them. Kaia denies being in
+a relationship with any of the boys, but Zek jokes "Don't worry, Vasdefren
+Argolys and Kelaailaiala Erkadia, I'll take good care of your daughter."
+"Please call me Kela." Zek invites Kaia's parents to the two upcoming
+performances of performance group. Kaia is very embarrassed by her parents and
+is relieved when they leave. Sata and Ursa show up and say that they were
+hiding, because Sata knew that seeing their daughter surrounded by boys was
+Kaia's parents' secret dream. Kaia is angry that they were watching her in an
+embarrassing situation. When asked about whether she wants to find her parents,
+Sata says that they are probably partying and trying to pick up young
+refugees. Ben worries that no one will attend the ceremony but then says he
+will project the ceremony on to the tent walls, so everyone will see it.
+
+Fera's mother joins the Sinistrae and can finally become independent because of
+financial and moral support from Fera?
+
 All the boys who attacked Kaia and Sata show up at the party. Each boy has two
 broken arms and a few broken fingers, because their punishment has to match the
 punishment that Pyr received.
