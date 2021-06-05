@@ -21,11 +21,11 @@ covered with trypophobia-inducing hexagonal holes. Inside the walls, there was
 a network of tunnels filled with robotic insects always ready to swarm anyone
 who stepped out of line.
 
-Kaia tugged on Sata's shirt without realizing what she was doing. Sata was
-wearing her favorite pink shirt. The shirt had a design featuring voluptuous
-pin-up girls hanging with nooses around their necks while vomiting rainbows.
-"Maybe if we act crazy, they'd knock us out to keep us from disrupting the
-ceremony."
+Kaia gently tugged on Sata's shirt sleeve. "Maybe if we act crazy, they'd knock
+us out to keep us from disrupting the ceremony." Sata pulled her shirt sleeve
+away. She was wearing her favorite pink shirt. The shirt had a design featuring
+voluptuous manga catgirls (footnote: nekomusume) hanging with nooses around
+their necks while vomiting rainbows.
 
 "Acting crazy should be easy for you, because you've always been insane." Sata
 ruffled Kaia's hair, knowing full well that it made Kaia mad. Unlike Sata, Kaia
@@ -61,8 +61,11 @@ started to jeer.
 
 Kaia wondered if she was imagining the jeers until she felt Sata tense up and
 eventually withdraw from their embrace. For as long as she could remember, Kaia
-had auditory hallucinations. She always had trouble differentiating between the
-voices of people around her and the voices in her head.
+had auditory hallucinations. She sometimes had trouble differentiating between
+the voices of people around her and the voices in her head. _Some voices are
+easier to differentiate than others. You're the only voice that narrates
+everything that happens,_ Kaia thought, proving that she was totally nuts by
+responding to an auditory hallucination.
 
 To make matters worse, Kaia often had strange dreams at night and weird visions
 during the day. The dreams and visions seemed so real and familiar that it
@@ -75,7 +78,7 @@ falling and the mouse was in its death throes.
 
 The jeering eventually subsided, but Kaia and Sata remained apart, sitting
 quietly. The school Principal walked up to the podium in front of the
-bleachers. Suddenly the gymnasium fell quiet. Even the robotic animals were
+bleachers. Suddenly, the gymnasium fell quiet. Even the robotic animals were
 silent as the Principal cleared his throat and prepared to speak.
 
 Already sweating, the portly Principal wiped his brow with a lace handkerchief he
@@ -152,12 +155,19 @@ Never knowing what to say, Kaia tried to start a conversation.
 
 "Maybe we can protest too?"
 
-Clearly not in the mood to continue the conversation, Sata did not reply. Kaia
-and Sata never fit in at school. Thinking about her friendship with Sata, Kaia
-wondered if the only reason that they were friends was because they were both
-abnormal. Would they still be friends if Sata was not epileptic? Or would Sata
-prefer to spend time with friends who did not hear and see things that were not
-there? Kaia sat in silence, lost in her thoughts, until her name was called.
+Clearly not in the mood to continue the conversation, Sata did not reply. Sata
+was nervous about their first day of high school. Neither of them ever fit in
+with their peers. Thinking about her friendship with Sata, Kaia wondered if the
+only reason that they were friends was because they were both abnormal. Would
+they still be friends if Sata was not epileptic? Or would Sata prefer to spend
+time with friends who did not hear and see things that were not there? How
+could Kaia possibly compete with friends that were normal?
+
+_That's mean,_ Kaia thought, criticizing her own thoughts. _I know you get to
+choose what to narrate, so I would appreciate it if you could skip the super
+insecure thoughts._ No dice, Kaia, your insecurities are a central theme of
+your story. _You used to help me, now you're just being a jerk._ Kaia sat in
+silence, lost in her thoughts, until her name was called.
 
 Sata nudged Kaia and indicated that it was her turn. Kaia panicked. Desperate
 for a means of escape, she looked pleadingly at Sata. Trying her best to be
@@ -340,7 +350,7 @@ Suspended in the air, Sata braced her legs against the guardGorilla that was
 carrying her and pushed off like a olympic swimmer completing a flip turn.
 Sata's shirt ripped and she landed flat on the ground. Sata's brassiere was
 pink, like her shirt, but a thin band of red underneath. The brassiere's cups
-were decorated with decapitated heads of pin-up girls which were dripping blood
+were decorated with decapitated heads of manga girls which were dripping blood
 onto the brassiere's glittering red underband and vomiting rainbows to create
 the brassiere's straps and wings. Crawling on her hands and knees, Sata made it
 to Kaia and grabbed her outstretched hand. Seemingly perplexed by the

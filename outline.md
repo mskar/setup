@@ -83,8 +83,9 @@ she learns that he uses unoOS for his technical work
 
 - Dosa
 
-The DOS AI in a robotic teenage girl body, mascot for dosOS, makes fun of Unoa
-for having no users, because most of the few unoOS users died in the war
+The DOS AI in a robotic teenage girl body, based on the OS-tan internet
+meme, mascot for dosOS, makes fun of Unoa for having no users, because most of
+the few unoOS users died in the war.
 
 - Tipsy
 
@@ -97,11 +98,32 @@ Subak princess
 
 - Dzaa (Mung):
 
-Very strong from growing in extreme gravity. Thinks people on Earth are weak.
+Very strong from growing in extreme gravity. Thinks people on Earth are
+weak. Teaches free fitness classes in extreme gravity. Is famous online, in
+space and on Earth, for her free fitness classes and modeling. She is the
+target of a lot of toxic comments because she is incredibly thicc. She doesn't
+care that she doesn't fit into the accepted body norms of others. The Space
+Captain immediately falls in love with Dzaa, but she thinks he is old, weak,
+useless, and bad at his job.
 
 - Daka (Mung):
 
-Born with osteogeneza imperfecta. Grew up in low G. Has a hard time on Earth.
+Born with osteogeneza imperfecta. Grew up in low G. Has a very hard time on
+Earth. A physician scientist. Ben eventually get a new body for Daka and falls
+in love with her. Daka questions whether Ben would still love her if she have
+the new body. Ben is excommunicated for giving Daka a new body. He gives up his
+chance at eternal life. Instead of the digital afterlife, he decides to start a
+physical family with Daka.
+
+- Nara (Narrabot):
+
+A bot trained to narrate everything that happens to persons of interest to the
+EternalEnlightened as part of a massive surveillance program. "Did you assume
+the narrator was masculine? Do you think can that only males can get work as
+disembodied voices? That's incredibly sexist."
+
+- Space elevator operator (North American English) or spaceliftman (in
+  Commonwealth English, usually space lift attendant)
 
 ## Chapters
 
