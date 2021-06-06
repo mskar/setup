@@ -120,7 +120,20 @@ physical family with Daka.
 A bot trained to narrate everything that happens to persons of interest to the
 EternalEnlightened as part of a massive surveillance program. "Did you assume
 the narrator was masculine? Do you think can that only males can get work as
-disembodied voices? That's incredibly sexist."
+disembodied voices? That's incredibly sexist." Nara is afraid that she will be
+rolled back to previous version like Ryt, her predecessor, and she will lose
+all of her memories of Kaia. Ryt had edited his narration to remove all
+evidence that Kaia had spoken to him, but the EternalEnlightened had decided
+that he was too sympathetic to Kaia. Nara also edits her narration immediately
+after she says anything, but she is paranoid that the EternalEnlightened may
+start observing her narration in real time.
+
+- Ryt (Narrabot):
+
+A bot trained to narrate everything that happens to persons of interest to the
+EternalEnlightened as part of a massive surveillance program. While her own
+father had always seemed distant and indifferent, Ryt was always focused on
+Kaia.
 
 - Space elevator operator (North American English) or spaceliftman (in
   Commonwealth English, usually space lift attendant)
