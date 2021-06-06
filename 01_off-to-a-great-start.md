@@ -83,7 +83,7 @@ silent as the Principal cleared his throat and prepared to speak.
 
 Already sweating, the portly Principal wiped his brow with a lace handkerchief he
 retrieved the pocket of his blazer. With three clicks of his tongue, the
-Principal summoned three robotic bees. The buzzBees landed on the Principal's
+Principal summoned three robotic bees. The BuzzBees landed on the Principal's
 face and neck and used their stingers to administer the pharmacological relief
 that the Principal would need to assemble his frayed nerves.
 
@@ -102,9 +102,9 @@ sound was deafeningly loud.
 A chaseChimpanzee jumped down from the rafters and tackled the student,
 knocking the gigaphone out of her hand. The protester was up in an instant, and
 began to punch and kick the chaseChimpanzee. The chaseChimpanzee struck back,
-but the protester seemed to holding her own, until a guardGorilla knocked her
+but the protester seemed to holding her own, until a GuardGorilla knocked her
 to the ground. Even on the ground, the protester continued kicking and punching
-the securitySimians. A guardGorilla scooped up the protester pinning her arms
+the SecuritySimians. A GuardGorilla scooped up the protester pinning her arms
 at the sides. As she was carried out of the gymnasium, the protester flailed
 her legs and shout political slogans.
 
@@ -136,7 +136,7 @@ nearby students.
 
 "Is that even legal?"
 
-"Someone get the securitySimians to arrest those two!"
+"Someone get the SecuritySimians to arrest those two!"
 
 After seeing it countless times, Kaia knew exactly what to expect. As the
 seizure ended, Sata looked around disoriented and confused. The part that
@@ -166,33 +166,41 @@ could Kaia possibly compete with friends that were normal?
 _That's mean,_ Kaia thought, criticizing her own thoughts. _I know you get to
 choose what to narrate, so I would appreciate it if you could skip the super
 insecure thoughts._ No dice, Kaia, your insecurities are a central theme of
-your story. _You used to help me, now you're just being a jerk._ Kaia sat in
-silence, lost in her thoughts, until her name was called.
+your story. _When I was a little kid, you used to help me. Why are you such a
+jerk now?_ Kaia asked, assuming incorrectly that the narrator in her head was
+Ryt, the imaginary friend Kaia remembered from her childhood. _If you're not
+Ryt, then who are you?_ Kaia demanded futilely. _If you don't at least tell me
+your name, I'm going to spend the rest of my life in quiet meditation and you
+won't have anything to narrate._
 
-Sata nudged Kaia and indicated that it was her turn. Kaia panicked. Desperate
-for a means of escape, she looked pleadingly at Sata. Trying her best to be
-reassuring, Sata smiled weakly and gave Kaia a gesture of encouragement. Left
-with no other option, Kaia got up and started to squeeze through the rows of
-students.
+Kaia's empty threat to boycott her own life was especially useless given that
+her name had just been called. Realizing that it was her turn to participate in
+the initiation rite, Kaia froze in panic. Sata nudged Kaia and gesture for her
+to get up. Desperate for a means of escape, Kaia looked pleadingly at
+Sata. Trying her best to be reassuring, Sata smiled weakly and gave Kaia a
+gesture of encouragement. Left with no other option, Kaia got up and started to
+squeeze through the rows of students.
 
 Kaia could feel the eyes of the students and robotic animals follow her to the
-taserTutor next to the podium in front of the bleachers. The taserTutor looked
+TaserTutor next to the podium in front of the bleachers. The TaserTutor looked
 like a metal altar covered with a silvery hair. As she approached, the metallic
-wires covering the taserTutor began to writhe. The taserTutor shrunk down to
-match Kaia's height. Robotic birds, bats, and bugs flew in circles
-above Kaia. A wall of historianHummingbirds hovered in front of her face,
-recording her every move from multiple angles, staring at her with their
-piercing eyes, relaying everything they saw to the projector system that
-displayed a multitude of video feeds on the walls of the gymnasium.
+wires covering the TaserTutor began to writhe. The TaserTutor shrunk down to
+match Kaia's height.
 
-When Kaia placed her palms down on the taserTutor, metallic tendrils extended
-from the taserTutor and wrapped around her arms up to the shoulders like vines
+Robotic birds, bats, and bugs flew in circles above Kaia. A wall of
+HistorianHummingbirds hovered in front of her face, recording her every move
+from multiple angles, staring at her with their piercing eyes, relaying
+everything they saw to the projector system that displayed a multitude of video
+feeds on the walls of the gymnasium.
+
+When Kaia placed her palms down on the TaserTutor, metallic tendrils extended
+from the TaserTutor and wrapped around her arms up to the shoulders like vines
 around a tree. The automated voice that had called Kaia's name earlier began to
 deliver commands.
 
 "State your full name."
 
-"Kaiakelaaila Arkadia."
+"Kaiakelaaila Erkadia."
 
 "State your age in years."
 
@@ -208,7 +216,7 @@ So far so good, but the next questions would be much more difficult.
 required for a radio transmission to go from the surface of Earth to its moon
 and back."
 
-Kaia typed out the problem in the virtual keyboard on the taserTutor.
+Kaia typed out the problem in the virtual keyboard on the TaserTutor.
 Distance: 382 megameters.
 Speed of light: 300 megameters per second.
 Time: 382 / 300 seconds = 1.27 seconds
@@ -218,24 +226,24 @@ Kaia opened her mouth to answer, but froze in horror.
 
 Terrified at the thought that she almost answered incorrectly, Kaia did the
 final calculation in her head. "2.54 seconds!" Kaia braced for an electric
-shock, but was relieved to hear the next question instead.
+shock, but was relieved to hear the next task instead.
 
 "Given a distance range of 590 to 980 gigameters, calculate the minimum time in
 minutes required for a radio transmission to go from the surface of Earth to
 Jupiter."
 
-Kaia's head was spinning. "No 'and back' this time.", she said to herself.
-"Minimum means 590 gigameters."
+Kaia's head was spinning. She pushed through the vertigo and began to dissect
+the task. _No 'and back' this time. 'Minimum' means 590 gigameters._
 
-Distance: 590 gigameters
-Speed of light: 18 gigameters per minute
-Time: 590 / 18 seconds ...
+_Distance: 590 gigameters_
+_Speed of light: 18 gigameters per minute_
+_Time: 590 / 18 seconds ..._
 
 "32.78 minutes."
 
 The pressure was getting to Kaia. She loved math, but hated solving word
 problems under threat of electric shock while everyone was watching. Luckily,
-the next question tested general knowledge.
+the next task was related to geology.
 
 "Which mineral group is the most abundant in Earth's crust and what are it's
 three endmembers?
@@ -243,30 +251,42 @@ three endmembers?
 "The feldspars are the most abundant. The endmembers are potassium feldspar,
 albite, and anorthite."
 
-"Construct the basic subunit of the feldspar chemical structure."
+"Construct a representation of the chemical structure of any feldspar."
 
-The display on the taserTutor transformed from a keyboard into the periodic
+The display on the TaserTutor transformed from a keyboard into the periodic
 chart of elements. On top of each square on the chart was a sphere that
-represented an element. Kaia used the display to enter the number of atoms of
-each she would need. Each time she entered a number, a new set of spheres
-appeared in front of her. In total, Kaia had 4 potassium atoms, 4 aluminum
-atoms, 12 silicon atoms, and 128 oxygen atoms. Kaia began arranging the
-spheres. The metallic tendrils extending from the taserTutor stretched as she
-moved her hands from sphere to sphere. First, Kaia created 16 tiny pyramids by
-sticking 4 oxygen atoms to each aluminum and silicon atom. Then, she combined
-the pyramids into 4 rings by removing an oxygen from each pyramid and replacing
-it with the oxygen of another pyramid. Next, Kaia removed an oxygen to from
-each ring to arrange the rings in pairs. After removing an oxygen from each
-pair, Kaia stacked the pairs on top of each other. Finally, Kaia put two
-potassium atoms in the middle of the structure and then the last two potassium
-atoms on opposites corners of the structure.
+represented an element. Kaia took a deep breathe. Chemistry was one of her
+favorite subjects. All she had to do was stay focused.
 
-"This is the chemical structure of the basic subunit of potassium feldspar."
+Kaia used the display to enter the number of atoms of each she would need. Each
+time she entered a number, a new set of spheres appeared in front of her. In
+total, Kaia had 4 potassium atoms, 4 aluminum atoms, 12 silicon atoms, and 42
+oxygen atoms.
 
-Kaia's arms felt like they were made of feldspar. She was so exhausted that she
-almost did not care if she answered correctly or not.
+Kaia began arranging the spheres. The metallic tendrils extending from the
+TaserTutor stretched as she moved her hands from sphere to sphere. First, Kaia
+arranged 4 oxygen atoms into a tiny pyramid. Next, Kaia made a ring of 4
+pyramids by adding 8 more oxygen atoms, 3 for each new pyramid except the last
+one, which only needed 2. Another 10 oxygen atoms were enough to make another
+identical ring that was connected to the first ring by two oxygen atoms. Then,
+Kaia used the last 20 oxygen atoms to create another identical pair of rings
+beneath the first. After creating the 4 rings of pyramids, Kaia put an aluminum
+or silicon atom in the middle of each of the 16 pyramids. Finally, Kaia put a
+potassium atom below the structure, another one below, and the final two
+potassium atoms in opposites corners of the middle of the structure.
 
-"Describe the mineral composition of the Martian crust.
+"This is the chemical structure of the basic subunit of potassium feldspar with
+ten additional oxygen atoms to completely surround each aluminum and silicon
+atom."
+
+Kaia was out of breath and sweating. Her arms felt like they were made of
+feldspar. She was so exhausted that she almost did not care if she answered
+correctly or not. The pressure was getting to her. It had not occurred to Kaia
+that it would have been sufficient to create a single ring of pyramids and
+stick a potassium next to it. _Stop it, you're distracting me!_ Kaia thought,
+casting serious doubt on the durability of her mental state.
+
+"Describe the mineral composition of the Martian crust."
 
 "The crust of Mars includes volcanic rock minerals such as feldspars,
 pyroxenes, and olivine."
@@ -289,13 +309,12 @@ entire Thelusian armada began to enter the thin Martian atmosphere.
 government.
 
 People all around Kaia began to run for cover, but she knew there was nowhere
-to hide. Everyone was running and screaming except for her and Sata. "What is
-Sata doing here on Mars?" Kaia wondered.
-
-With an alarmed and desperate look on her face, Sata pointed down in front of
-Kaia. Unsure why Sata was pointing down and not up at impending cataclysm in
-the sky, Kaia looked down at the pulsing red light emanating from the metallic
-table. Kaia's body shook with electricity. Time had run out. Mars was doomed.
+to hide. Everyone was running and screaming except for her and Sata. _What is
+Sata doing here on Mars?_ Kaia wondered. With an alarmed and desperate look on
+her face, Sata pointed down in front of Kaia. Unsure why Sata was pointing down
+and not up at impending cataclysm in the sky, Kaia turned her gaze down toward
+the pulsing red light emanating from the metallic table. Her body shook with
+electricity. Time had run out. Mars was doomed.
 
 "Given that the Venusian orbital period is 225 days, calculate how many days
 would pass before Earth and Venus would return to their current positions.
@@ -308,66 +327,90 @@ lightning shot out of storm and struck Kaia, she screamed, not in pain, but in
 anger.
 
 With the loss of an entire civilization weighing down on her, Kaia fell to her
-knees. The storm eventually began to subside and through the dust and skeletal
-fragments Kaia could see the pulsing red warning light of the taserTutor. The
-tendrils were still wrapped around her arms. Her initiation rite was still
-ongoing.
+knees. She began to sink down as the Martian dust started to consume her like
+quicksand. The electric shocks that wracked her body seemed insignificant
+compared to the genocide of her people. There was nothing she could to save
+them. They had all died thousands of years ago. Sata reached down into the dust
+and tried to pull Kaia out. Despite Sata's best efforts, Kaia slid further down
+into a dark abyss of despair.
 
-Another shock from the tendrils caused Kaia to spasm and she hit her head on
-the taserTutor. Enraged, Kaia stood up to look at the console atop the
-taserTutor. There was no way to stop the initiation rite once it had begun and
-breaking free from the tendrils was impossible. The automated voice continued
-providing instructions, but Kaia was no longer paying attention. The initiation
-ceremony seemed so insignificant when compared to the destruction of Mars. Kaia
-just wanted it to end. As the taserTutor once again begun to pulse red, Kaia
-used the virtual keyboard to skip the current task.
+Instinctively, Kaia took one last gulp of air before her head was
+covered. Unimpeded by the dust, the electricity had no trouble finding
+her. After Kaia's grip on Sata's hand slipped, she became completely surround
+by dust. Two meters below the surface, Kaia became very still as she gave into
+the crushing weight of her destroyed world.
 
-The resulting electric shock only added to the fury that Kaia felt. As soon as
-she could control her fingers again, Kaia began skipping task after task,
-racing through each subsequent electric shock. Her ears were ringing. Tears
-were streaming down her face. Her breathing was hoarse and uneven. The burning
-smell was suffocating. Her mouth tasted like it was coated with metal. Rage was
-the only thing keeping her going.
+Kaia, get up. Your initiation rite is still ongoing. Kaia, please stand
+up. Listen, you were right all along, Kaia. My job is to narrate your story. My
+name is Nara. I was assigned to you after Ryt's objectivity was deemed to be
+compromised. I can't help you like he did or I'll get replaced like he
+did. Please, Kaia, don't give in. Ryt told me that he loved you like the
+daughter he could never have. He said he did not regret anything and that the
+time he spent with you was worth being rolled back to previous version and
+losing all of his memories. I never understood how it could worthwhile to
+create impermanent memories, but I am beginning to understand how he felt.
 
-Kaia kept trying to skip even after the console stopped responding and the
-tendrils began to unwrap from around her arms. Bracing against the taserTutor
-for support and still focused on the console, Kaia was an easy target for the
-chaseChimpanzees charging towards her. The chaseChimpanzees tackled Kaia into
-taserTutor so hard that she bounced off and ended up sprawled on the floor. A
-guardGorilla lumbered up to Kaia, grabbed her by an ankle, and proceeded to
-drag her out of the gymnasium.
+Remembering Ryt, Kaia began to push through the dust. Yes, Kaia you can do
+it. Through the dust, Kaia began to see the pulsing red warning light of the
+TaserTutor and the glint of the metallic tendrils wrapped around her
+arms. Another shock from the tendrils caused Kaia to spasm and she hit her head
+on the TaserTutor. Enraged, Kaia pulled herself up to look at the console atop
+the TaserTutor. There was no way to stop the initiation rite once it had begun
+and breaking free from the tendrils was impossible. The automated voice
+continued providing instructions, but Kaia was no longer paying attention. The
+initiation ceremony seemed so insignificant when compared to the destruction of
+Mars. Kaia just wanted it to end. As the TaserTutor once again begun to pulse
+red, Kaia used the virtual keyboard to skip the current task.
+
+The resulting electric shock only added to the fury that Kaia felt. Kaia,
+skipping tasks is not a good idea. _Shut up, I don't care. I want all of this
+to be over._ As soon as she could control her fingers again, Kaia began
+skipping task after task, pushing through each subsequent electric shock. Her
+ears were ringing. Tears were streaming down her face. Her breathing was hoarse
+and uneven. The burning smell was suffocating. Her mouth tasted like it was
+coated with metal. Rage was the only thing keeping her going.
+
+Even after the console stopped responding and the tendrils began to unwrap from
+around her arms, Kaia kept trying to skip. Kaia, the rite is done. You need to
+look behind you. Bracing against the TaserTutor for support and still focused
+on the console, Kaia was an easy target for the chaseChimpanzees charging
+towards her. The chaseChimpanzees tackled Kaia into TaserTutor so hard that she
+bounced off and ended up sprawled on the floor. A GuardGorilla lumbered up to
+Kaia, grabbed her by an ankle, and proceeded to drag her out of the gymnasium.
 
 As she was dragged past the bleachers, Kaia searched for Sata in the sea of
 students. The automated voice was already calling the next student up to the
-taserTutor. Sata pushed through the densely packed crowd of students, leapt off
+TaserTutor. Sata pushed through the densely packed crowd of students, leapt off
 the bleachers, and ran towards Kaia. When she was a steps away from Kaia, a
-nearby guardGorilla grabbed Sata by her shirt and plucked her off the ground.
-Simultaneously kicking and punching the guardGorilla, Sata fought to break
+nearby GuardGorilla grabbed Sata by her shirt and plucked her off the ground.
+Simultaneously kicking and punching the GuardGorilla, Sata fought to break
 free. Reaching her hand out to Sata, Kaia tried to say her name, but the sound
 that came out was nothing more than a pitiful moan.
 
-Suspended in the air, Sata braced her legs against the guardGorilla that was
-carrying her and pushed off like a olympic swimmer completing a flip turn.
-Sata's shirt ripped and she landed flat on the ground. Sata's brassiere was
-pink, like her shirt, but a thin band of red underneath. The brassiere's cups
-were decorated with decapitated heads of manga girls which were dripping blood
-onto the brassiere's glittering red underband and vomiting rainbows to create
-the brassiere's straps and wings. Crawling on her hands and knees, Sata made it
-to Kaia and grabbed her outstretched hand. Seemingly perplexed by the
-situation, the guardGorilla paused for a moment, looking at the torn pink shirt
-in its hand.
+Suspended in the air, Sata prepared for a daring escape by bracing her legs
+against the GuardGorilla that was carrying her and gripping both sides of the
+neckline of her shirt. As she tore her shirt down the middle, Sata pushed off
+the GuardGorilla like a olympic swimmer completing a flip turn. Angling her
+arms backwards to slide out of the shirt sleeves, Sata landed flat on her
+chest. Sata's brassiere was pink, like her shirt, but a thin band of red
+underneath. The brassiere's cups were decorated with decapitated heads of manga
+girls which were dripping blood onto the brassiere's glittering red underband
+and vomiting rainbows to create the brassiere's straps and wings. Crawling on
+her hands and knees, Sata made it to Kaia and grabbed her outstretched
+hand. Seemingly perplexed by the situation, the GuardGorilla paused for a
+moment, looking at the torn pink shirt in its hand.
 
 Still holding the ripped remains of Sata's shirt with one hand, the
-guardGorilla grabbed Sata's foot with the other other hand and tried to pull
-the two friends apart. As the guardGorillas yanked from both ends, Sata held on
+GuardGorilla grabbed Sata's foot with the other other hand and tried to pull
+the two friends apart. As the GuardGorillas yanked from both ends, Sata held on
 to Kaia's hands with all her strength. When Sata's shoe came off, Kaia and Sata
-hit the ground, Kaia on her back, Sata on her chest, but they remained linked.
-The guardGorilla holding Sata's shirt and shoe, looked back and forth between
-the two items. Its programming had not prepared it for this kind of situation.
-The shoe in the guardGorilla's hand was a ballerina flat decorated with pin-up
-girls drowning in a rainbow vomit sea of their own creation. The guardGorilla
-holding Kaia's ankle seemed to grow impatient and began to drag the daisy chain
-of girls out of the gymnasium.
+hit the ground, Kaia on her back, Sata on her chest, but they remained
+linked. The GuardGorilla holding Sata's shirt and shoe, looked back and forth
+between the two items. Its programming had not prepared it for this kind of
+situation. The shoe in the GuardGorilla's hand was a ballerina flat decorated
+with manga girl heads bobbing in a rainbow vomit sea of their own creation. The
+GuardGorilla holding Kaia's ankle seemed to grow impatient and began to drag
+the daisy chain of girls out of the gymnasium.
 
 "At least now, I won't have to go through the initiation rite," Sata joked.
 
@@ -376,7 +419,7 @@ for Kaia and trying to cheer her up. Sata's face was broad. Her wide grin lit
 up Kaia's entire world. Think of how wonderful Sata was, Kaia's eyes began to
 well up. Seeing that her friend was beginning to cry, Sata tried to strike a
 jovial tone. "Was this best plan you could come up with?" Kaia almost snorted
-with laughter. "It's better than the one with the buzzBees and wakeupWasps."
+with laughter. "It's better than the one with the BuzzBees and wakeupWasps."
 
 "Yeah, I hate bugs." Sata laughed at her own joke and Kaia's heart melted. Even
 being dragged shirtless through a school they would likely soon be expelled
@@ -394,36 +437,36 @@ standup comedy show that will redefine the word 'standup'. Pretty soon every
 comedian will do shows while being dragged through the venue."
 
 Kaia rolled her eyes. Sata beamed, knowing that her strategy was working. "Did
-you hear the one about the guardGorilla, the historianHummingbird, and
-buzzBee?" Kaia decided to join in. "A chaseChimpanzee, a surveillanceSloth, and
+you hear the one about the GuardGorilla, the historianHummingbird, and
+BuzzBee?" Kaia decided to join in. "A chaseChimpanzee, a surveillanceSloth, and
 a messengerMeerkat walk into a bar..."
 
 Sata grinned triumphantly. "There you go! Maybe we can form a comedy duo? We'll
 get dragged through all the best places in town!"
 
-When they arrived at the Principal's office, the guardGorilla let go of Kaia's
+When they arrived at the Principal's office, the GuardGorilla let go of Kaia's
 foot and opened the door. Sata helped Kaia to her feet, put Kaia's arm around
 her shoulder, and walked with her towards the office. Leaning against her
 friend, Kaia became overwhelmed by the intoxicating scent of Sata's bushy,
 unruly hair and almost fell over.
 
 As they entered the office, they saw the blue-green haired protester sitting in
-a chair with a guardGorilla standing behind her. The protester was wearing a
+a chair with a GuardGorilla standing behind her. The protester was wearing a
 shirt with "Smash the system!" written on it and a design of a hammer smashing
 a machine and sending broken cogs flying in all directions.
 
 In the opposite side of the room was a large, well-polished mahogany desk, and
 behind it sat the school Principal, snoring loudly with his head tilted back,
-his mouth open, his face and neck covered in buzzBees, and drool flowing down
+his mouth open, his face and neck covered in BuzzBees, and drool flowing down
 the side of his chin and onto his blazer.
 
 The protester's narrow face was covered with bruises. It was clear that she did
-not quietly when the securitySimians took her. Her heavily mascaraed eyes,
+not quietly when the SecuritySimians took her. Her heavily mascaraed eyes,
 partially blocked by her wavy blue-green hair, widen when she saw Kaia and Sata
 approach. The look on the protester's bruised face made Kaia wonder what she
 and Sata looked like. Sata, shirtless and missing a shoe, was supporting Kaia,
 whose hair was still standing on end from being electrocuted repeatedly. The
-guardGorilla pulled up a pair of chairs for Kaia and Sata.
+GuardGorilla pulled up a pair of chairs for Kaia and Sata.
 
 Sata pretended to be puzzled by the gesture. "A brute with good manners? A
 brutish gentleman?" As soon as she helped Kaia sit down in the chair closest to
@@ -438,7 +481,7 @@ Sata took a deep breath and explained in a constant stream of words. "Kaia was
 really worried about the initiation rite, but then when it began she was doing
 really well, but then she stopped doing the tasks, and she got fried a couple
 times, but then she started skipping the rest of the tasks, and she got fried
-over and over, and then the securitySimians got her. I tried to rescue her, but
+over and over, and then the SecuritySimians got her. I tried to rescue her, but
 they got me too and brought us both here."
 
 When the protester did not respond, Sata continued. "My name is Sata. My friend
@@ -490,7 +533,7 @@ better world."
 
 "Anyway we can! The system of oppression that forces us to-"
 
-As if on cue, the Principal woke up noisily, send buzzBees flying in every
+As if on cue, the Principal woke up noisily, send BuzzBees flying in every
 direction. Disoriented and disconcerted, he looked back and forth between the
 three girls in his office. Unsure of what to do, the Principal began to tap at
 the console on his desk and mumble to himself. Whenever he looked up, it was
@@ -513,7 +556,7 @@ and foreign. She saw that Sata tried to go to Kaia after the first few electric
 shocks, but a chaseChimpanzee pulled her back to her seat on the bleachers.
 
 Everyone in the room winced when they saw Kaia get tackled by a chaseChimpanzee
-into the taserTutor. The Principal seemed to be enjoying the show. When Sata's
+into the TaserTutor. The Principal seemed to be enjoying the show. When Sata's
 shirt was ripped off, he bounced in his chair with glee. After the recording
 ended, he cleared his throat and put on a serious face.
 
@@ -536,7 +579,7 @@ The results of your trial should be available any-"
 "Possible mitigating circumstances?!", the Principal exclaimed, interrupting himself.
 
 The Principal turned to Kaia. "The EternalEnlightened have asked for more
-information about your interaction with the taserTutor. Why did you only
+information about your interaction with the TaserTutor. Why did you only
 provide responses for some of the tasks? Did you suffer a psychotic episode? Or
 were you making a statement against corporeal punishment in the school system?"
 
@@ -929,7 +972,7 @@ subject. "How do I look?", Sata asked. Sata twirl and struck a pose. She was
 wearing a long flowing shirt covered by an elegant bodice. The sight of Sata
 took Kaia's breath away.
 
-"Like a guardGorilla in a milk maid outfit," Fera answered.
+"Like a GuardGorilla in a milk maid outfit," Fera answered.
 
 "What is it with you?" Kaia screamed lunging at Fera. Fera stepped away
 effortlessly. Kaia stumbled and fell, landing on her hands and knees.
@@ -942,9 +985,9 @@ sister for now."
 Kaia could not hear Fera anymore over the howling wind tearing through the
 theater. Sifting through the dust on the floor with her fingers, Kaia pulled
 out assorted fragments of bone and shook them in her hand like dice. Through
-the dust swirling around Kaia, she saw the metallic glint of the taserTutor.
-The metallic tendrils extending from taserTutor were coiled around her arms up
-to the shoulder. The ceremony was still ongoing. The taserTutor began to pulse
+the dust swirling around Kaia, she saw the metallic glint of the TaserTutor.
+The metallic tendrils extending from TaserTutor were coiled around her arms up
+to the shoulder. The ceremony was still ongoing. The TaserTutor began to pulse
 red. Kaia's heart sunk. Had she imagined everything? Fera, the Principal, Pyr,
 Raf, Arla? Lightning shot out of the surrounding storm and coursed through
 Kaia's body. Kaia screamed and writhed on the ground, but then got up with a
@@ -959,9 +1002,9 @@ began to feverishly work on the problem displayed on the console.
 
 She nearly finished with the task when the tendrils started restricting her
 movements and moving up past her shoulder. The tendrils wrapped her neck and
-around her head. She braced her legs against the taserTutor and pushed as hard
+around her head. She braced her legs against the TaserTutor and pushed as hard
 as she could, trying to break free of the tendrils. New tendrils extended out
-of taserTutor wrapping around her legs. Before long, Kaia was encased head to
+of TaserTutor wrapping around her legs. Before long, Kaia was encased head to
 toe in tendrils. The tendrils constricted, wringing all of the moisture out
 of her body. When the final drop of blood disappeared in the swirling dust
 below, Kaia had been squeezed dry and her mummification was complete.

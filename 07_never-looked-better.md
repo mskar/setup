@@ -601,7 +601,7 @@ Once they were out of earshot, Fera looked at Raf, "Is the Principal going to
 be ok with them?".
 
 "Yes, he will have the best care possible. Fresh air, clean water, natural
-food, and most importantly no buzzBees."
+food, and most importantly no BuzzBees."
 
 I was not long before they arrived at a cave. Fera was upset to see that the
 cave was not from the Kosciuszko mound. "We were right next to it when we landed!"

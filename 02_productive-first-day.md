@@ -68,7 +68,7 @@ Fera laughed. "And they have money to burn on all of this?"
 can ask them yourself."
 
 It was not long before a thin boy wearing powerskates and powergloves zipped
-into the maker shop with another boy nearly as large as a guardGorilla running
+into the maker shop with another boy nearly as large as a GuardGorilla running
 in after him. Coming to sliding stop in front of Fera and Raf, the boy in power
 skates gestured around the maker workshop and said, "Welcome to the maker
 shop!"
@@ -334,13 +334,13 @@ on the skates and the gloves.
 
 "Now, you'll want to take it slow for a-", Ben started.
 
-Fera hop onto the skates and whizzed up to a guardGorilla watching over the
-maker workshop and started signing at him furiously. The guardGorilla hopped
+Fera hop onto the skates and whizzed up to a GuardGorilla watching over the
+maker workshop and started signing at him furiously. The GuardGorilla hopped
 onto its hands and started to dance upside-down. Fera called three ChaseChimps
-over and made them cannonball one by one onto the feet of the guardGorilla.
-Ben, Raf, and Edl looked in on in shock as the guardGorilla started to juggle
+over and made them cannonball one by one onto the feet of the GuardGorilla.
+Ben, Raf, and Edl looked in on in shock as the GuardGorilla started to juggle
 the ChaseChimps with its feet. Fera turned towards a wall and with a few signs
-had a swarm of buzzBees and wakeupWasps hovering in front of her. She had the
+had a swarm of BuzzBees and wakeupWasps hovering in front of her. She had the
 swarm form different shapes in the air and then sent all of the robotic bugs
 back to their nests.
 
@@ -466,13 +466,13 @@ have asked for better friends," Fera said, turning to face the boys.
 Ben grabbed his chest overcome with emotion, almost falling off of his
 deactivated powerskates. Raf and Edl both held onto each other for support,
 wiping tears from their eyes. All three boys looked at Fera with admiration and
-affection. They were caught completely off guard by swarm of buzzBees Fera sent
+affection. They were caught completely off guard by swarm of BuzzBees Fera sent
 after them.
 
 On her way out of the workshop, Fera commanded the chaseChimps and the
-guardGorilla to keep the boys in the workshop. Fera sped down the hallway
+GuardGorilla to keep the boys in the workshop. Fera sped down the hallway
 towards the Principal's office, but she turned around when she heard a fierce
-battle cry behind her. It was Edl, covered in buzzBees, sprinting toward her.
+battle cry behind her. It was Edl, covered in BuzzBees, sprinting toward her.
 
 Fera started to command every animalAutomaton in the hallway to attack Edl. Edl
 slowed down as the animalAutomatons began to pile on. Before going
@@ -498,11 +498,11 @@ directions. "Get the pardons! For me, Kaia, and Sata."
 "I don't haf that aufority!"
 
 "Then you better find someone who does or I'm going to powerskate all over face
-while the guardGorillas hold you down."
+while the GuardGorillas hold you down."
 
 "You're bluffing."
 
-Fera signaled to the guardGorillas to take the Principal to ground. She jumped
+Fera signaled to the GuardGorillas to take the Principal to ground. She jumped
 down from the desk and lowered the vomit-covered powerskate towards the
 Principal's face. When Fera activated the powerskate, it sprayed the Principal
 with his own vomit. Whenever Fera touched the powerskate to the Principal's
@@ -510,12 +510,12 @@ face, her leg would fly forward as she were kicking an invisible foe.
 
 "Shtop, Shtop, please. I'll requesht the pardonsh!"
 
-"Oh, you're no fun.", Fera said as she commanded the guardGorillas to put the
+"Oh, you're no fun.", Fera said as she commanded the GuardGorillas to put the
 Principal back in his chair. The Principal cleared his throat, wiped his face
 with the sleeve of his blazer, and started entering the pardon requests as Fera
 stood over him making sure he did not try any tricks. The pardon requests were
 approved soon after the Principal submitted them. Fera commanded the
-guardGorillas to hold the Principal by his arms before hopping off the desk to
+GuardGorillas to hold the Principal by his arms before hopping off the desk to
 read carefully through each one of the pardons.
 
 "Great, but I'm not done yet. I'm going to replace the recordings of me and the
@@ -528,7 +528,7 @@ animalAutomatons. Self-destruct?"
 "No, not the shelf-deshtruct!"
 
 Fera laughed as she started the school's self-destruct sequence. An automated
-voice started to count down in reverse. Fera had the guardGorillas carry the
+voice started to count down in reverse. Fera had the GuardGorillas carry the
 Principal out of the office. Fera nearly fell over over her way out of the
 office. The powerskate covered in the Principal's vomit was not working at all.
 When Fera looked out into the hallway, she was surprised to see that it was
@@ -620,10 +620,10 @@ you can at least be good cannon fodder."
 "Ben and Edl are working on stopping the self-destruct command."
 
 "You're not the only one with a plan. I had every large animalAutomaton, except
-for these guardGorillas, gather by the walls and now I'm going to detonate all
+for these GuardGorillas, gather by the walls and now I'm going to detonate all
 of their fuel cells at once. You might want to cover your ears."
 
-Fera had the guardGorillas protect Raf, the Principal, and herself. After a
+Fera had the GuardGorillas protect Raf, the Principal, and herself. After a
 tremendous explosion, the hallway was bathed in light. When Fera's eyes
 adjusted to the light, she saw that Raf was already trying to escape down the
 hallway. Fera charged forward on her sole working powerskate. She saw Raf's
@@ -632,9 +632,9 @@ surprised at how solidly it connected. Fera kicked Raf until he stopped
 moving.
 
 She then grabbed his arm and started to drag him down the hallway, signalling
-to the guardGorillas to do the same with the Principal. Fera was surprised when
+to the GuardGorillas to do the same with the Principal. Fera was surprised when
 Raf continued to speak. "Ben read your profile after we recovered from the
-buzzBee stings. Ben said that you have anger management issues, just like your
+BuzzBee stings. Ben said that you have anger management issues, just like your
 father."
 
 "You dirty moleman! I'm nothing like my father!", Fera screamed and began to
@@ -710,9 +710,9 @@ away from Fera. Ben and Edl were standing over Fera. Edl was holding Raf in his
 arms, while Ben was holding a stunStaff in each hand. "Greetings Fera. Could
 you please deactivate the school self-destruct system?"
 
-"No," Fera said defiantly, calling the guardGorillas to attack Ben and Edl. Nothing happened.
+"No," Fera said defiantly, calling the GuardGorillas to attack Ben and Edl. Nothing happened.
 
-"I disabled the guardGorillas while you was distracted by the birds. If you
+"I disabled the GuardGorillas while you was distracted by the birds. If you
 continue to refuse, I'm afraid that I will have to shock you," Ben said. Ben
 brought the stunStaffs together, they crackled with electricity.
 
@@ -783,7 +783,7 @@ rising up into the air. Fera stopped the motorcycle and started waving her
 hands in the air. They must have seen her. Why were they still moving upwards?
 
 Fera looked to the Principal for answers. The Principal retrieved a small case
-from the pocket of his blazer, pulled out all of the buzzBees in the case, and
+from the pocket of his blazer, pulled out all of the BuzzBees in the case, and
 placed them inside of his shirt.
 
 "How big is blast zone?" Fera yelled at the Principal.

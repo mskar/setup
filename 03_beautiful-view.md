@@ -142,7 +142,7 @@ towards a strike team officer with one hand and pulling Arla behind him. The
 strike team officer looked very intimidating. His face was hidden behind a
 black balaclava and dark sunglasses. He was resting his hands on a massive
 rifle that was slung over his shoulder. The exoskeleton armor he was wearing
-made him look could wrestle a guardGorilla and win.
+made him look could wrestle a GuardGorilla and win.
 
 "Officer Kransal!" Lan exclaimed. "I'd like to introduce you to Arla and her
 friends Kaia and Sata."
