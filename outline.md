@@ -774,7 +774,7 @@ Kaia.
   - The government surrounds the maker workshop
   - Edl gets Raf out safely after Ben
     - deactivates the government soldiers' weapon
-    - distracts the government soldiers with animalAutomatons
+    - distracts the government soldiers with AnimalAutomatons
   - The protagonists plan to rescue Arla and Lan
   - Fera says she wants to help, but everyone suspects her of helping the government
   - By the time they locate Arla and Lan, a new copy of Zok has been printed
@@ -1801,7 +1801,7 @@ Zek and the Sinistrae (Fera, Eiva, and Mel) are mixed
 Taz refuses to come, because he says that Arla lied to him
 
 Sata is mostly useful as a scout. Raf in useless at all times. Ben is fairly
-useless with his robotic birds, because Kaia can blow up any animalAutomatons
+useless with his robotic birds, because Kaia can blow up any AnimalAutomatons
 before Ben can hack them. Ben is mostly good for scouting with his birds,
 opening doors, and accessing schematics. The major advantage is provided by
 Kaia who causes energy weapons and exoskeleton armor power suits to explode.
@@ -1942,7 +1942,7 @@ Is Sata a Sinistrae at this point? I think she shouldn't be.
 - Kaia (Dextrae):
   - Plays a strong support role
   - Can blind and disorient Dextrae
-  - Can cause all Dextrae fuel cells to explode, destroying animalAutomatons, exoskeleton powersuits, energy weapons, etc.
+  - Can cause all Dextrae fuel cells to explode, destroying AnimalAutomatons, exoskeleton powersuits, energy weapons, etc.
     - Destruction of energy weapons shifts the balance in combat between Dextrae and Sinistrae
     - In normal ranged combat, it is Dextrae bullets versus Sinistrae arrows
     - With energy weapons, Dextrae who can pin the Sinistrae down with endless suppressing fire
@@ -1951,7 +1951,7 @@ Is Sata a Sinistrae at this point? I think she shouldn't be.
     - Fuel cells explosion can kill or maim Dextrae, those who survive have to fight Sinistrae in melee combat while avoiding Sinistrae arrows
 - Ben:
   - Fast on smooth terrain when wearing powerskates
-  - Can control all animalAutomatons and later gun turrets and orbital lasers
+  - Can control all AnimalAutomatons and later gun turrets and orbital lasers
     - After being capturing by Ben, Kaia makes Ben destroy half his building with an orbital laser, so she can escape when Zek and Ursa come to rescue her
   - Extremely sensitive to Kaia's Echo powers of making fuel cells exploded, because all of his tech contains fuel cells
   - Tech genius
@@ -2398,9 +2398,9 @@ Zek shows Kaia a wicker basket hid in the woods. Inside are sleepSnakes (aka
 slumberSerpents). Zek takes out two snakes and does a demonstration. The snakes
 are coiled around his forearms and strike whenever Zek punches.
 
-"Is that like how Ben controls animalAutomatons?"
+"Is that like how Ben controls AnimalAutomatons?"
 
-"Ben uses gloves to control animalAutomatons, you will be able to control these
+"Ben uses gloves to control AnimalAutomatons, you will be able to control these
 snakes with mind."
 
 ## Future book idea

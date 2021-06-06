@@ -384,9 +384,9 @@ over it." Ben said, surrendering the scroll to Fera.
 
 Fera looked at the scroll intensely. "It's very convincing. If it weren't for
 the signature, I might not have figured it out right away. The idea is to send
-flying animalAutomatons into your opponents?" Fera asked.
+flying AnimalAutomatons into your opponents?" Fera asked.
 
-"Yes, any animalAutomatons can be used, but birds have the right combination of
+"Yes, any AnimalAutomatons can be used, but birds have the right combination of
 speed and mass."
 
 "Did you make a bird hit Pyr in the head?"
@@ -399,7 +399,7 @@ speed and mass."
 used droneDarting against anyone. I've never even had a sparing partner, so
 I've only done the kata."
 
-Fera used her gloves to summon two historianHummingbirds. "En garde.", She
+Fera used her gloves to summon two HistorianHummingbirds. "En garde.", She
 said, looking menacingly at Ben.
 
 "To be honest, I don't think you are ready for sparing. We should start with
@@ -475,11 +475,11 @@ towards the Principal's office, but she turned around when she heard a fierce
 battle cry behind her. It was Edl, covered in BuzzBees, sprinting toward her.
 
 Fera started to command every animalAutomaton in the hallway to attack Edl. Edl
-slowed down as the animalAutomatons began to pile on. Before going
-around the corner, Fera saw Edl under a mountain of animalAutomatons, valiantly
+slowed down as the AnimalAutomatons began to pile on. Before going
+around the corner, Fera saw Edl under a mountain of AnimalAutomatons, valiantly
 trying to fight them all off.
 
-Fera burst into the Principal's office and ordered the animalAutomatons
+Fera burst into the Principal's office and ordered the AnimalAutomatons
 inside to stand down.
 
 "Here's what's going to happen, you sack of-", Fera stopped when she saw that
@@ -523,7 +523,7 @@ other girls with fakes that show us all doing really well in the initiation
 ceremony."
 
 "Let's see what else I can do. Fire alarm. Sprinklers. Deactivate all
-animalAutomatons. Self-destruct?"
+AnimalAutomatons. Self-destruct?"
 
 "No, not the shelf-deshtruct!"
 
@@ -702,7 +702,7 @@ filled the sound and movement as thick mass of birds flew in through the holes
 in the walls. Raf pulled Fera down and shielded her from the birds with his
 body. Fera signalled to every nearby robotic bird, bat, and bee to fight the
 avian invaders. "Did you do this?", Fera asked over the sound of the birds
-clashing with the animalAutomatons.
+clashing with the AnimalAutomatons.
 
 Raf nodded. "I am sorry, Fera, but my diversion worked. I think you are really
 amazing, but I cannot allow you to blow up the school," Raf said as he floated
@@ -732,7 +732,7 @@ Ben to safety.
 
 An automated voice reminded them that they should evacuate the building. Fera
 saw that Raf had fallen to his knees and started to cry. The hallway was filled
-with rubble, destroyed animalAutomatons, and dead birds. Fera went up to Raf
+with rubble, destroyed AnimalAutomatons, and dead birds. Fera went up to Raf
 and gave him a kick. "What are you doing? We have to get out of here."
 
 "They're dead. You killed them."
