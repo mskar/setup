@@ -167,8 +167,8 @@ any trouble, we can have them thrown out. And the best part is that Officer
 Kransal will be flying with us as our personal security escort."
 
 _Did Lan just sell Arla to Officer Kransal?_ Kaia thought. She could see that
-Sata was thinking the same thing. Arla was blushing deeply and she pulled in
-Kaia and Sata on either side of her.
+Sata was wondering about the same thing. Arla was blushing deeply and she
+pulled in Kaia and Sata on either side of her.
 
 "Are you crying?" Kaia asked.
 
@@ -766,9 +766,10 @@ net?
 lift your legs."
 
 Kaia tried to raise her legs, but they were tangled in the net. Kaia realized
-the task would be easier if she had fewer legs, so she folded space in half
-twice and switched from radial to bilateral symmetry. Focusing only on two
-legs, Kaia pulled them from the net and lifted them into the air.
+the task would be easier if she had fewer legs, so she switched from radial to
+bilateral symmetry by folding space in half twice like a piece of
+paper. Focusing only on two legs, Kaia pulled them from the net and lifted them
+into the air.
 
 "You did it! That's great, Kaia!"
 
@@ -802,11 +803,13 @@ parachute after her. As soon as they were safely hidden in the trees, Ursa
 dropped the harness and turned to Kaia.
 
 "Kaia, you did really great. We're safe now. Do you still think you are an
-octopus?" `Yeah, what's the connection between you and octopus?`
+octopus?" `What's the connection between you and octopuses?`
 
-Kaia shook her head. "Do you think you could maybe not tell the others about that?"
+Kaia answered the two questions in order. "Do you think you could maybe not
+tell the others about the octopus thing?" _I don't know._
 
-"Oh sure, I am great at keeping secrets. I was a spy for many years."
+"Oh sure, I am great at keeping secrets. I was a spy for many years and never
+divulged a single secret."
 
 "Do you tell everyone that you're a former spy?"
 
@@ -860,7 +863,16 @@ was separated from the green of the trees by a band of craggy rocks.
 
 "Stop it, your making me blush," Ursa answered.
 
-Kaia turn around to see that Ursa had stripped down to her underwear.
+Kaia turn around to see that Ursa had stripped down to her underwear. Ursa was
+not the least bit timid. She turned slightly sidewise, put one hand on her hip,
+ran the other hand through her hair, and froze so that Kaia could get a good
+look. Ursa's undergarments were fiery red. Each bra cup had a pair of dragon
+girls sitting with winged backs together, their scaly tails intertwined, and
+their taloned hands clasped together. The innermost dragon girls were leaning
+their horned heads backwards and breathing fire to create the flaming straps of
+the bra. Similarly, the innermost dragon girls breathed fire to sides to make
+the wings of the bra. the until their horns touched the horns of the dragon
+girls behind them and . outermost wings touching
 
 "What are you doing?" Kaia said averting her eyes.
 
@@ -894,7 +906,8 @@ behind and picked her up in her arms and started walking towards the cliff.
 
 "Ursa, no! I don't want to jump."
 
-Ursa started picking up speed. "Tell me when to jump or we aren't going to clear the rocks."
+Ursa started picking up speed. "Tell me when to jump or we aren't going to
+clear the rocks." `Kaia, she's not joking.`
 
 "You're crazy, put me down. Stop! OK, jump! Jump now!"
 
@@ -931,8 +944,8 @@ the airship. It's like you two are soulmates. Are you two an item?"
 "Come on, you can tell me. We're spit sisters now!"
 
 "No, I really don't know. Sata and I have known each other since we were
-little. I'm not sure if how she really feels about me. I'm afraid that if I
-tell her that I like her more than as a friend, it'll ruin our friendship."
+little. I'm not sure how she really feels about me. I'm afraid that if I tell
+her that I like her more than as a friend, it'll ruin our friendship."
 
 "You need to talk to her about how you feel. Right now."
 
@@ -947,7 +960,7 @@ Thinking of Sata, Kaia grinned. "Lesbian?"
 
 "Shut up, you know what I mean. The four-letter L word!"
 
-Kaia grinned even broader. Sata had taught her well. "Lick? Lewd?"
+Kaia grinned even broader. Sata had taught her well. "Lick? Lewd? Lube?"
 
 Ursa splashed Kaia. "If only the water could clean your dirty mind. Come on,
 Sata is waiting for you. I'll go get our clothes."
