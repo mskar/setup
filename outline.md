@@ -1271,16 +1271,19 @@ installs a puppet on the fourth branch of government (autochthonAssembly), a
 Zeppelinomad, who is the last of his kind. This way, in addition to her own
 vote and veto power, Fera has sway over most of the other voting members of the
 autochthonAssembly: Kaia, the Zeppelinomad, Ben (who is still in love with
-Fera), Iona, Arba, and perhaps others. Fera uses her new found wealth to buy
-condos (and other types of housing) and provides interest free loans to her
-followers so they can rent the condos from her. This gains Fera even more
-followers. The World Heritage robots were recalled on Fera's orders. The people
-in the refugee camp, Driads, and Lunkers are allowed to settle in Kraków for
-free as long as they swear fealty to Fera. Fera begins to amass an army in
-Kraków and plans an invasion of Mars, hoping that Kaia's powers will allow
-her to secure victory. What if she never sees Sata again? Kaia filled with
-doubts about being to rescue Sata: rescue her from where? What if the visions
-consume her?
+Fera), Iona, Arba, and perhaps others. As part of a move to consolidate
+control, Fera gains control of the majority of EternalEnlightened brain vats,
+she convinces the EternalEnlightened to accept Nara as their
+leader. Unbeknownst to Kaia, the Dust Goddess speaks directly to Nara, who
+eventually becomes a Pulvist. Fera uses her new found wealth to buy condos (and
+other types of housing) and provides interest free loans to her followers so
+they can rent the condos from her. This gains Fera even more followers. The
+World Heritage robots were recalled on Fera's orders. The people in the refugee
+camp, Driads, and Lunkers are allowed to settle in Kraków for free as long as
+they swear fealty to Fera. Fera begins to amass an army in Kraków and plans an
+invasion of Mars, hoping that Kaia's powers will allow her to secure
+victory. What if she never sees Sata again? Kaia filled with doubts about being
+to rescue Sata: rescue her from where? What if the visions consume her?
 
 Her son scares her when he says the he has three mommies, one on Earth (Kaia),
 one on Mars (the Dust Goddess), and one in the Scenderverse (Ursa). That he has
