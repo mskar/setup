@@ -199,7 +199,12 @@ gained members over time, there would almost certainly be competition for
 resources that could erupt in war between the communities."
 
 Kaia and Sata looked at each other, trying to imagine what what a war between
-rival afterlives would look like. Kaia decided to ask a question she been
+rival afterlives would look like. Her mind filled with questions, Kaia decided
+to take advantage of a lull in the conversation to Nara something. _Are you a
+Scender, Nara?_ `No, but I am aware of their religion. I work for the
+EternalEnlightened.` _You're a brain in a vat?_ `Yes, I am now. After training
+my whole life to become a narrator, I was one of the select few chosen for the
+honor.` Think about Nara, Kaia turned to Ben and asked a question she been
 wrestling with for a long time. "If Scenders can live without their physical
 bodies, could you bring back someone who died?"
 
@@ -730,14 +735,14 @@ be too heavy for me. I'm used to it."
 Iona smiled and was glad that she was able to cry without making any noise at
 all. After Iona slid her on of her legs in between Kaia's legs, Kaia sighed
 with relief. "Oh, that's perfect. That's just how Sata does it. Thank you,
-Iona."
+Iona." Perfectly comfortable, Kaia quickly drifted off to sleep.
 
 Iona wondered why she could not stop crying. She was afraid that her tears were
-making Kaia's hair very wet and that Kaia would notice. Something about Kaia
+making Kaia's hair very wet and that Kaia would wake up. Something about Kaia
 being so sensitive, vulnerable, thoughtful, gentle, and kind, reminded Iona of
-a world that had vanished long ago. Iona remembered that she had friends in
-a long ago vanished world. Her friends understood what she going through,
-because they were going through the same things she was.
+a world that had vanished long ago. Iona remembered that she had friends in a
+long ago vanished world. Her friends understood what she going through, because
+they were going through the same things she was.
 
 Iona knew that Zek loved her, but his love could not replace friendship. She
 had never grown that close to Ursa, because they had never really needed each

@@ -31,10 +31,12 @@ while she waited for Iona to speak again.
 
 Iona sat next to Kaia and spoke slowly. "Kaia, I am a Thelusian."
 
-Kaia took some time to process the news. In Kaia's visions, the Thelusians were
-her enemies during the war and her allies after the war was over.
+Kaia took some time to process what Iona had said. In Kaia's visions, the
+Thelusians were her enemies during the war and her allies after the war was
+over. _Nara, did you know about this?_ `No, I had no idea. I was under the
+impression that there were never any Thelusians on Earth.`
 
-"But Thelusians are machines and you're a human."
+"But Thelusians are machines and you're a human," Kaia said.
 
 "I look human, and I was human once, but I chose to become a machine, so that I
 could help you achieve your destiny."
@@ -62,15 +64,19 @@ realities simultaneously."
 "Yes, we call people like you Echos. Your connection to the past manifests
 itself as visions and dreams."
 
-"How do I make them stop?"
+_Is that why I can hear you, Nara? Because I'm an Echo?_ `I have never heard of
+Echos. As far as I know, you are the only person who can hear narrators, but it
+is possible that there are others.`
+
+"How do I make the visions and dreams stop?"
 
 "The only way to stop the visions is to fulfill your destiny by restoring Mars
 and Thelus to their former glory."
 
-"How do I do that?"
+"And how do I do that?"
 
 "For now, you should continue living your life as you would normally, but in
-secret you should begin training, so you will ready to ."
+secret you should begin training, so you will ready when the time arrives."
 
 "Are you going to train me?"
 
@@ -108,15 +114,15 @@ visions to a degree."
 "That's great. Right now, only Ursa, Zek, Zok, and I know that you're an Echo.
 You should keep all of this a secret for now, even from Sata."
 
-"I don't think Sata would believe any of this. I am not sure I do either.
-Speaking of Sata, maybe we should check on them?"
+"I don't think Sata would believe any of this. I am not sure I do
+either. Speaking of Sata, maybe we should check on her and Ursa?"
 
 Kaia and Iona walked into Edl's room and saw that Ursa and Sata were already
 awake. Ursa was sitting on the gym bench doing bicep curls while Sata braided
 her hair. When she saw Iona and Kaia, Ursa dropped the weights and ran over to
 them with Sata following close behind. After Sata quizzed them about their
-whereabouts, Ursa pointed to the console and said, "There's a message
-notification for us. We were waiting so we could all watch it together."
+whereabouts, Ursa pointed to the console and said, "There's a message for
+us. We were waiting so we could all watch it together."
 
 A video of Ben began to play on the walls of the room. "Good morning, I trust
 that you slept well and are ready for your first day in your new home. My
@@ -126,15 +132,15 @@ can assure you that Edl had no intention to offend anyone. I am deeply sorry
 for whatever it was that my brother said. I take full responsibility. I should
 have accompanied you last night to make sure there were no misunderstandings.
 You see, my brother has difficulties understanding social cues. Interactions
-that seem ordinary to us can leave Edl absolutely befuddled. While this cannot
-excuse our error or repair the damage it caused, I hope that this explanation
-will be the first step towards making amends. My brother and I would like to
-apologize to you all, and to Ursa in particular, at your nearest convenience.
-You may find us at Juvenia Stadium each morning, in the Maker Tent each
-afternoon, or at Fera's remembrance ceremony this evening. Please feel free to
-stay in the Edl's tent for as long as you like. If you are hungry, please help
-yourselves to anything you like in the kitchen at the end of the hallway. I
-will be looking forward to our next meeting. Sincerely, Benderrod Pembrok"
+that seem ordinary to us can leave Edl absolutely befuddled. While this
+explanation cannot excuse our error or repair the damage it caused, I hope this
+message will be the first step towards making amends. My brother and I would
+like to apologize to you all, and to Ursa in particular, at your nearest
+convenience. You may find us at Juvenia Stadium each morning, in the Maker Tent
+each afternoon, or at Fera's remembrance ceremony this evening. Please feel
+free to stay in the Edl's tent for as long as you like. If you are hungry,
+please help yourselves to anything you like in the kitchen. I will be looking
+forward to our next meeting. Sincerely, Benderrod Pembrok"
 
 After the video finished playing, Ursa turned to others with her eyes ablaze
 and said, "When we get to Juvenia Stadium, I'm going to kick a BugBall straight

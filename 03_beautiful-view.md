@@ -866,15 +866,7 @@ was separated from the green of the trees by a band of craggy rocks.
 Kaia turn around to see that Ursa had stripped down to her underwear. Ursa was
 not the least bit timid. She turned slightly sidewise, put one hand on her hip,
 ran the other hand through her hair, and froze so that Kaia could get a good
-look. Ursa's undergarments were fiery red. Each bra cup had a pair of dragon
-girls sitting with winged backs together, their scaly tails intertwined, and
-their taloned hands clasped together. The innermost dragon girls were leaning
-their horned heads backwards and breathing fire to create the flaming straps of
-the bra. Similarly, the innermost dragon girls breathed fire to sides to make
-the wings of the bra. the until their horns touched the horns of the dragon
-girls behind them and . outermost wings touching
-
-"What are you doing?" Kaia said averting her eyes.
+look. "What are you doing?" Kaia said averting her eyes.
 
 "We can't swim in our clothes. They'd get all wet. And you don't have to look
 away. It's like we're going to the swimming pool or the beach."
@@ -891,23 +883,48 @@ but we have to get you into that water."
 as the spit shake. It goes blood oath, spit shake, and pinky promise,"
 Ursa said showing the levels in the hierarchy with her hand.
 
-When Kaia and Ursa intertwined their pinkies, Ursa said, "I pinky promise that
-I won't open my eyes until you tell me too. If I peek, you can break my pinky
-with a rock." Ursa closed her eyes. "When you're ready, guide me down to the
-water."
+When Kaia and Ursa joined their pinkies, Ursa said, "I pinky promise that I
+won't open my eyes until you tell me too. If I peek, you can break my pinky
+with a rock." Ursa covered her eyes with her hands. "Let me know when you're
+ready and we can head down to the water."
 
-Kaia undressed quickly, trying not be distracted by Ursa's impressive physique.
-After putting her clothes and goggles next to Ursa's in the bushes, Kaia took
-Ursa by the hand and started walking down toward the water.
+Kaia leaned forward to make sure that Ursa's eyes were completed covered, but
+she got distracted by Ursa's impressive physique. Ursa's undergarments were
+fiery red. Each bra cup had a pair of dragon girls sitting leaning their winged
+backs against each other, intertwining their scaly tails, and clasping their
+taloned hands together. The innermost dragon girls were tilting their horned
+heads backwards and breathing fire upwards to create the flaming straps of the
+bra. Similarly, the outermost dragon girls breathed fire to the sides to make
+the wings of the bra. An identical pattern of lateral fire breathers adorned
+Ursa's undies. `Kaia, you're staring.` _Quiet, I'm just making sure she's not
+going to peek._
 
-"On second thought, let's take the fast way down." Ursa grabbed Kaia from
-behind and picked her up in her arms and started walking towards the cliff.
-"Tell me when I should jump."
+Kaia undressed quickly. After putting her clothes and goggles next to Ursa's
+things, Kaia walked back towards Ursa. Kaia's undergarments were decorated with
+cartoons of dead white mice in the snow, just like her favorite shirt. The
+straps and wings of her bra were made of snowflakes. _It's weird that you're
+describing my underwear._ `Don't worry, I'm going to delete the description
+before pushing my narration to the database.` _Everything you say goes into a
+database?!_ `Yes, I'm part of a government surveillance program, but I am very
+careful to remove anything that could be dangerous for us.` _What do you mean
+by 'dangerous for us'?_ `If anyone finds out that we can communicate, we will
+both have our brains dissected.`
+
+"Kaia, are you almost ready?" Ursa asked. "I am starting to think that you are
+just standing there and staring at me in my underwear." Kaia had follow-up
+questions for Nara, but she did not want to keep Ursa waiting. Putting her
+hands of Sata's well defined shoulders, Kaia started to guide her down to the
+water.
+
+Suddenly, Ursa turned and scooped Kaia up into her arms. "On second thought,
+let's take the fast way down." While keeping her eyes closed, Ursa started
+walking towards the cliff. "Tell me when I should jump."
 
 "Ursa, no! I don't want to jump."
 
-Ursa started picking up speed. "Tell me when to jump or we aren't going to
-clear the rocks." `Kaia, she's not joking.`
+Ursa started picking up speed and had no trouble running with Kaia in her arms.
+"Tell me when to jump or we aren't going to clear the rocks." `Kaia, she's not
+joking. You have to time it right.`
 
 "You're crazy, put me down. Stop! OK, jump! Jump now!"
 
@@ -1038,14 +1055,13 @@ handle."
 "I'm going to be cheering for you and Sata."
 
 On the way to the rendezvous point, Ursa gave Kaia some advice on how to talk
-to Sata.
-
-Kaia and Ursa walked down to the rendezvous point, where Iona, Sata, and Zek
-were sitting on logs by a fire. Iona and Zek slid apart, freeing up a spot in
-between them, and reached out their arms to Ursa. Ursa sat down between them.
-Iona and Zek put their heads on Ursa's shoulders and squeezed her tightly. Ursa
-basked in the pincer strike of affection, rubbing her cheeks against their
-heads. In the meantime, Sata started peppering Kaia with questions.
+to Sata. Kaia and Ursa walked down to the rendezvous point, where Iona, Sata,
+and Zek were sitting on logs by a fire. Iona and Zek slid apart, freeing up a
+spot in between them, and reached out their arms to Ursa. Ursa sat down in
+between them. Iona and Zek put their heads on Ursa's shoulders and squeezed her
+tightly. Ursa basked in the pincer strike of affection, rubbing her cheeks
+against their heads. In the meantime, Sata started peppering Kaia with
+questions.
 
 "Kaia, What took you so long? I was worried. Where were you? Why is your hair
 wet? Did you go swimming? Did Ursa put the moves on you? Did you put the moves
@@ -1076,13 +1092,13 @@ Sata was taken aback. "Whoa, where did you get that line from?"
 Kaia blushed. "I wanted to talk to you, but I was really nervous and worried,
 so Ursa gave me some advice."
 
-Sata began to chastise Kaia. "You don't need to take advice from other people
-on how to talk to me. Especially people we just met today. We grew up together.
-We've been friends longer than I can remember. If you want to say something to
-me, just say it."
+Sata began to reprimand Kaia. "You don't need to take advice from other people
+on how to talk to me. Especially people we just met today. We grew up
+together. We've been friends longer than I can remember. If you want to say
+something to me, just say it."
 
-Kaia looked pleadingly at Sata. "I know. It's just that when I try to say it, I
-panic, everything gets mixed up, and I can't say anything right."
+Kaia looked at Sata apologetically. "I know. It's just that when I try to say
+it, I panic, everything gets mixed up, and I can't say anything right."
 
 "You don't need to worry about saying it right. You also don't need to say it
 right now. Let's sit down and wait for the crash together."
@@ -1094,9 +1110,9 @@ They sat down side-by-side facing the lake.
 
 "You got that right," Kaia said looking at Sata. Sata cracked a smile. Kaia did
 not saying anything else. The silence felt right. The falling airship became
-visible in the sky. It emitted a low moan as it fell, like an animal dying in
-pain. Kaia reached out and took Sata's hand. Sata looked at Kaia. She looked
-surprised but did not withdraw her hand. Kaia leaned in towards Sata.
+visible in the sky. It emitted a low moan as it fell, like an animal dying
+slowly in pain. Kaia reached out and took Sata's hand. Sata looked at Kaia. She
+looked surprised but did not withdraw her hand. Kaia leaned in towards Sata.
 
 "You're going to miss it." Sata said, not looking away from Kaia.
 
@@ -1108,27 +1124,23 @@ The airship cracked in half and exploded.
 A thin spray of water splashed them right before a deluge of hot air knocked
 them flat on their backs onto the rock. With their heads and arms hanging
 upside-down behind the rock, Kaia and Sata gazed into each other's eyes. Sata
-reached out and touched the side of Kaia's face. Kaia closed her eyes and
-rubbed her check into Sata's hand.
+reached out and touched the side of Kaia's face.
 
-"Is that what you wanted to tell me?"
-
-Kaia nodded.
-
-Sata cupped Kaia's face with her hands, touched her forehead to Kaia's, rubbed
-Kaia's nose with her own, and finally kissed her gently on her open, waiting
-lips. Kaia moaned. She felt hot and cold at the same time. The rock was
-merciless against her spine. Her whole body tingled and the blood rushed to her
-head.
+"Is that what you wanted to tell me?" Kaia nodded, closed her eyes, and rubbed
+her cheek into Sata's hand. Sata cupped Kaia's face with her hands, touched her
+forehead to Kaia's, touched Kaia's nose with her own, and finally kissed her
+gently on her open, waiting lips. Kaia moaned. She felt hot and cold at the
+same time. The rock was merciless against her spine. Her whole body began to
+tingle as the blood rushed to her head.
 
 Their first kiss had been a explosion of energy that been building up for a
-long. Over in an instant, that first kiss was so powerful that the aftershocks
-still reverberated throughout their bodies. In contrast to the first, their
-second kiss was mix of opposing stimuli like the fiery wreckage of the
-airship in cool waters of the lake. Kaia and Sata were enveloped in burning
+long time. Over in an instant, that first kiss was so powerful that the
+aftershocks still reverberated throughout their bodies. In contrast to the
+first, their second kiss was mix of opposing stimuli like the fiery wreckage of
+the airship in cool waters of the lake. Kaia and Sata were enveloped in burning
 cold and freezing hot, oxymoronic sensations they could not have imagined.
 
-"Did we die? Are we in heaven?"
+When they broke from the kiss, Sata smiled. "Did we die? Are we in heaven?"
 
 "I don't so. Otherwise, this rock would be a cloud."
 
@@ -1141,10 +1153,10 @@ as the blood rushed from their heads. They held onto each other, initially
 because of the dizziness, but maintained their embrace even after the vertigo
 subsided.
 
-The light from the burning remains of the airship became more
-pronounced as the sun set behind the trees. As the yellow and orange of sun
-disappeared, the red and blue of the sky mixed to make purple and pink,
-complementing the green of trees to complete the rainbow.
+The light from the burning remains of the airship became more pronounced as the
+sun set behind the trees. After the yellow and orange of sun disappeared, the
+red and blue of the sky mixed to make purple and pink, complementing the green
+of trees to complete the rainbow.
 
 Kaia thought about telling Sata about becoming spit sisters with Ursa and
 falling from the cliff in Ursa's arms, but all of that seemed insignificant and
@@ -1157,7 +1169,8 @@ Released from the pressure of having to explain how she felt, Kaia curled up in
 Sata's embrace and watched the airship burn in the center of the lake. For now,
 nothing else needed to be said or done. Kaia felt complete and at peace. She
 would be happy to spend an eternity in this moment. The view was breathtaking,
-but seeing Sata safe and happy was far more precious to Kaia. No matter where
-she looked, Kaia saw Sata's smiling face. Even when Kaia closed her eyes, Sata
-was there, smiling back at her, more radiant than the sunset, more lush than
-the greenery, more peaceful than the water, more gentle than the breeze.
+but seeing Sata safe and happy was far more precious to Kaia than the
+picturesque landscape. No matter where she looked, Kaia saw Sata's smiling
+face. Even when Kaia closed her eyes, Sata was there, smiling back at her, more
+radiant than the sunset, more lush than the greenery, more peaceful than the
+water, more gentle than the breeze.
