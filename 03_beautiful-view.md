@@ -30,16 +30,9 @@ were running towards the exits. The three girls followed the crowd heading to
 the main exit. Surprised that she could run at all, Kaia marvelled at how
 comfortable the ballet flats.
 
-"How did you know our sizes?" Kaia asked Arla.
-
-"I took your shoes off while you were sleeping. Your shoes were in pretty bad
-shape. I hope you don't mind."
-
-"Oh, I don't mind at all. These shoes are much better."
-
 When the girls made it outside, Sata and Kaia were dismayed to see Pyr and his
-posse waiting in front of the entrance to the school. Pyr's head was wrapped
-in bandages. A small of blood had permeated the bandages in the spot were the
+posse waiting in front of the entrance to the school. Pyr's head was wrapped in
+bandages. A small of blood had permeated the bandages in the spot were the
 HistorianHummingbird had hit him.
 
 "What's wrong? Afraid of a little fire-", Pyr started, but then paused as he

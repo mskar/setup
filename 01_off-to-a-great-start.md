@@ -345,14 +345,12 @@ by dust. Two meters below the surface, Kaia became very still as she gave in to
 the crushing weight of her destroyed world.
 
 `Kaia, get up. Your initiation rite is still ongoing. Kaia, please stand
-up. Listen, you were right all along, Kaia. My job is to narrate your story. My
-name is Nara. I was assigned to you after Ryt's objectivity was deemed to be
-compromised. I can't help you like he did or I'll get replaced too. Please,
-Kaia, don't give in. Ryt told me that he loved you like the daughter he could
-never have. He said he did not regret anything and that the time he spent with
-you was worth being rolled back to a previous version. I never understood how
-it could be worthwhile to create more than a decade of memories and then lose
-them forever, but I think I am beginning to understand how he felt. Ryt
+up. Listen, you were right all along, Kaia. My name is Nara. I was tasked with
+narrating your story after Ryt's objectivity was deemed to be compromised. I
+have to appear impartial or I'll be terminated too. Please, Kaia, don't give
+in. Ryt told me that he loved you like the daughter he could never have. He
+said he did not regret anything and that the time he spent with you was worth
+being terminated. I think I am beginning to understand how he felt. Ryt
 wouldn't have wanted you to die like this and I don't either. You need to
 breathe, Kaia. You need to survive.`
 
@@ -364,9 +362,9 @@ accustomed to communicating with Ryt using her thoughts. In fact, Kaia often
 became frustrated that no one else could hear her thoughts or understand her as
 well as Ryt could.
 
-Ryt had explained to Kaia that she was the only who could hear narration and
-that she should keep her gift hidden. Kaia learned at very early age that her
-gift was not entirely positive. Whenever she was around other people, Kaia
+Ryt had explained to Kaia that she was the only one who could hear narration
+and that she should keep her gift hidden. Kaia learned at very early age that
+her gift was not entirely positive. Whenever she was around other people, Kaia
 would hear their narrators in addition to her own. It was worst when large
 groups of people were talking. The voices of the narrators and people would
 blend together and make it difficult for Kaia to understand what anyone was
@@ -621,11 +619,11 @@ reason she got into this mess. She wanted to be normal.
 
 "It was a protest," Kaia lied. Sata gasped. Fera nodded approvingly.
 
-"Was the protest premeditated? Did you conspire with the other two girls to
-stage the protest?" the Principal asked reading the questions off the screen.
+"Did you conspire with the other two girls to stage the protest?" the Principal
+asked reading the question off the screen.
 
-"Yes, I planned the whole thing, but on my own. Sata had nothing to do with it!
-She's innocent!"
+"I planned my protest all on my own. Sata had nothing to do with it, she's
+innocent!"
 
 The Principal huffed. "She is hardly innocent. Indecent exposure, interruption of a
 government-mandated ceremony, and interference with the arrest of a protester
@@ -633,8 +631,8 @@ are serious crimes."
 
 "Sata didn't plan for any of that to happen. She was just trying to help me."
 
-"Is it true that you had no idea about the protest plans and were not trying
-to make a political statement?" the Principal asked, turning towards Sata.
+The Principal turned towards Sata. "Is it true that you had no idea about the
+protest plans and were not trying to make a political statement?"
 
 Still using her legs to shield herself from the prying eyes of the
 Principal, Sata nodded, her chin bouncing against her knees.
@@ -644,7 +642,7 @@ the Principal asked.
 
 "I never even met them until you brought them in here!" Fera exclaimed.
 
-"We have the results!" the Principal shouted and read the verdicts and
+"We have the results!" the Principal shouted and then read the verdicts and
 sentences one after another.
 
 "Feravikadela Fridzia, you are found guilty of all charges and are sentenced to
@@ -664,7 +662,7 @@ be allowed to begin your high school studies if you all complete the initiation
 rite this afternoon, perform community service throughout your time in high
 school, and sign a statement disavowing all previous political statements and
 activities. You each can each agree or disagree to the sentence suspension
-terms. You must decide before leaving this office."
+terms, but you must make your final decision before leaving this office."
 
 "We should all agree," Kaia said quickly, looking at the other two girls.
 
@@ -678,20 +676,28 @@ Fera remained adamant. "I don't want friends, I want to smash the system!"
 
 "You can't start a revolution from inside prison," Sata said.
 
-"I don't care. I stand by what I said and did."
+Fera crossed her arms. "I don't care. I stand by what I did."
 
-While Sata kept trying to convince Fera, Kaia looked at the Principal, who had
-zoned out and was tapping listlessly on his desk console. Kaia had an idea. "He
-wants you to refuse, so he can send you to prison and not have to deal with
-you! Are you just going to give him what he wants?" When Fera did not answer,
-Kaia got the Principal's attention.
+While Sata kept trying to convince Fera, Kaia closed her eyes and fell back
+into her chair feeling defeated. `Kaia, ask the Principal for advice.` _Why are
+you suddenly talking to me?_ `I talked to you during the ceremony and I haven't
+been terminated yet, so I think it should be safe for us to talk as long as I
+delete all records of our conversations.` _Ok, but why should I ask the
+Principal for advice? He doesn't seem to be on our side. I don't think he is
+going to give us good advice_ `His advice might convince Fera to do the
+opposite of what he suggests.` _Why do you want to help Fera?_ `If Fera goes to
+prison, you are likely to feel terrible for a long time, and your prolonged
+depression would be super boring to narrate.`
 
-Trying to look sweet and innocent, Kaia asked "Principal Naiksos, what do you
-think we should do?"
+"Kaia, are you OK?" Sata asked, looking very concerned.
 
-The Principal looked up from the console and looked confused. Kaia
-elaborated. "What decision do you think we should make? Should we accept or
-refuse the terms?"
+"Yes, I was just resting my eyes," Kaia said before using her sweetest and most
+innocent voice to ask, "Principal Naiksos, what do you think we should do?"
+
+The Principal had zoned out and was tapping listlessly on his desk console. He
+looked up from the console and seemed to be very confused. Kaia elaborated,
+trying to sound even sweeter and more innocent. "What decision do you think we
+should make? Should we accept or refuse the terms?"
 
 The Principal cleared his throat again and became very serious. "I would
 encourage you to not compromise your deeply held political beliefs. It is very
@@ -714,7 +720,7 @@ The Principal glowered disapprovingly at Sata. "If you accept the terms, I can
 assure you that high school will be a living hell for you. Given the events
 that occurred today, it is almost certain that you will be ostracized by your
 peers and targeted by bullies. It won't be too long before you will be wishing
-for peace and quiet of the penal system."
+for the peace and quiet of the penal system."
 
 "Why are you trying so hard to convince us to refuse?" Fera asked.
 
@@ -763,7 +769,9 @@ system too?" Kaia asked.
 that-" The Principal stopped when he realized that he was hurting his own
 argument.
 
-"Still want reject the terms, Fera?" Kaia asked.
+"Still want reject the terms, Fera?" Kaia asked. "He wants you to refuse, so he
+can send you to prison and not have to deal with you! Are you just going to
+give him what he wants?"
 
 "Fine, I'll accept, but that doesn't mean I'm going to be friends with you two
 losers."
@@ -774,7 +782,6 @@ losers."
 move things along before Fera had a chance to change her mind.
 
 "I truly believe you are making a mistake," the Principal said shaking his head.
-
 Seeing that the girls were were not going to change their minds, the Principal
 sighed and brought up three copies of the disavowal statement on the desk, one
 in front of each girl.
@@ -782,7 +789,7 @@ in front of each girl.
 "Go ahead and sign, but don't come complaining to me when you inevitably fail."
 
 The three girls started scrolling through statements, carefully reading each
-word. Fera finished reading first. "Why does the-"
+word. Fera finished reading first. "Why can't we-"
 
 "The statement text is non-negotiable," the Principal said sharply, cutting Fera off.
 
