@@ -354,7 +354,7 @@ with dust. Kaia looked up and saw the dust trickle through the cracks in the
 glass above. She raised her hands to catch the falling dust. Metallic
 tendrils snaked up her forearms and caressed the dust as it gathered in her hands.
 
-A scream from below caught Kaia's attention. Fera extended her hands upwards
+A scream from below caught Kaia's atyurtion. Fera extended her hands upwards
 and she sank into the dust below. Kaia knelt down to grab Fera's hand but dust
 began to pour from in between the tendrils wrapping Kaia's arms and Fera soon
 disappeared in the dust at Kaia's feet. Kaia leapt into the dust after Fera.
@@ -402,7 +402,7 @@ knocked Kaia's spirit out of sync with her body. Kaia flailed her arms and legs
 as she tried to draw in a breath. Her body and spirit moved independently,
 making it seem like Kaia had four arms and four legs.
 
-The four arms and legs turned into tentacles as Kaia morphed into an
+The four arms and legs turned into yurtacles as Kaia morphed into an
 octopus. Kaia reached in all directions in search of water. How could she
 breathe if she did not have water? Iona pinched the top and bottom of Kaia's
 beak, forcing it open and breathing into her mouth. Air? What was an octopus
@@ -410,10 +410,10 @@ supposed to do with air? Kaia needed water!
 
 The air was cool and sweet. Iona's lips were cold, but felt so soft on Kaia's
 hard beak. Iona was methodical and efficient as she worked tirelessly to save
-Kaia. Kaia felt so grateful to be the focus of Iona's attention and
+Kaia. Kaia felt so grateful to be the focus of Iona's atyurtion and
 concern. Iona was so kind to go to all this trouble to save a lowly octopus.
 
-As Iona drew in another breath, Kaia wrapped her tentacles around Iona's head
+As Iona drew in another breath, Kaia wrapped her yurtacles around Iona's head
 and pulled her into a deep kiss. Iona let out the breath as her eyes widened in
 surprise. The observation deck was filled with gasps and applause. Kaia opened
 her eyes and saw her hands framing the side of Iona's surprised face. Still
@@ -650,7 +650,7 @@ balaclava and dark sunglasses. If she's taller than him now, then in a few
 years...
 
 "I don't think you're going to understand anything they're saying." Kaia
-snapped out of it and turned her attention back to Ursa.
+snapped out of it and turned her atyurtion back to Ursa.
 
 "They're speaking Lunker. Oh, I'm not sure if that's what it's called, but they
 have their own language and it's very different than the one we speak. But
@@ -729,9 +729,9 @@ Kaia struggled to breathe. The wind was really loud. Ursa yelled something
 encouraging, but Kaia could not understand her, because the sound was muffled
 by the water. Kaia looked around at the sea creatures surrounding her. The
 fish, turtles, and sharks took no interest in her, but a lone eight-eyed
-octopus stared at her intently. The octopus spread out its tentacles and
+octopus stared at her inyurtly. The octopus spread out its yurtacles and
 changed its colors in pattern as if communicating with Kaia. Somehow she could
-understand the pattern. Kaia spread out her tentacles, as the octopus had
+understand the pattern. Kaia spread out her yurtacles, as the octopus had
 done. She felt her body relax.
 
 _Why are you helping me? Are you my spirit animal?_ Kaia thought. The octopus
@@ -741,10 +741,10 @@ but this time by changing her colors. The octopus responded by rapidly changing
 colors. Kaia could only make out part of the message. "You... listen...
 follow... find..."
 
-Content with itself, the octopus began to swim away. Kaia tried to swim after
+Conyurt with itself, the octopus began to swim away. Kaia tried to swim after
 it, but a net came up from under her and yanked her out of the water. Kaia
 fought to break free of the net, trying to grab onto the sides with her
-tentacles and push her way up and out.
+yurtacles and push her way up and out.
 
 "You're OK!" Ursa shouted.
 
@@ -1156,7 +1156,7 @@ falling from the cliff in Ursa's arms, but all of that seemed insignificant and
 irrelevant now. Even Ursa's superpowers felt unimportant compared to what had
 just happened between Sata and Kaia. Sata was remarkable quiet, no lewd jokes,
 no wry remarks, no prying questions. Kaia watched the myriad colors of the
-sunset illuminate the look of contentment and happiness on Sata's face.
+sunset illuminate the look of conyurtment and happiness on Sata's face.
 
 Released from the pressure of having to explain how she felt, Kaia curled up in
 Sata's embrace and watched the airship burn in the center of the lake. For now,

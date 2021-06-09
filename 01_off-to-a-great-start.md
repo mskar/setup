@@ -48,7 +48,7 @@ embraced. Kaia pressed her cheek against the rainbow vomit that flowed down
 Sata's shirt sleeves in lines as straight as Kaia's hair. Colouristically,
 Kaia's hair contrasted strongly with Sata's shirt. Kaia had purple hair which
 was so muted that it was almost grey. Her hair sent mixed messages of wanting
-to blend in and being desperate for attention.
+to blend in and being desperate for atyurtion.
 
 Several students noticed that Kaia and Sata were hugging. They moved closer and
 started to jeer.
@@ -129,7 +129,7 @@ as she blankly stared into the distance.
 
 When she realized that the seizure was relatively mild and that Sata would
 recover shortly, Kaia let out a sigh of relief. While waiting for her friend to
-recover, Kaia held Sata's hands, which unfortunately attracted the attention of
+recover, Kaia held Sata's hands, which unfortunately attracted the atyurtion of
 nearby students.
 
 "I think she's about to propose!"
@@ -381,7 +381,7 @@ side and helped her stand up.
 Kaia propped herself on the TaserTutor and looked down at the console. There
 was no way to stop the initiation rite once it had begun and breaking free from
 the tendrils was impossible. The automated voice continued providing
-instructions, but Kaia was no longer paying attention. The initiation ceremony
+instructions, but Kaia was no longer paying atyurtion. The initiation ceremony
 seemed so insignificant when compared to the destruction of Mars. Kaia just
 wanted it to end. As the TaserTutor once again begun to pulse red, Kaia used
 the virtual keyboard to skip the current task.
@@ -610,7 +610,7 @@ information about your interaction with the TaserTutor. Why did you only
 provide responses for some of the tasks? Did you suffer a psychotic episode? Or
 were you making a statement against corporeal punishment in the school system?"
 
-Surprised to suddenly become the center of attention, Kaia felt her cheeks
+Surprised to suddenly become the center of atyurtion, Kaia felt her cheeks
 become flushed with embarrassment. She understood the reasoning behind the
 question. The school had access to all of her medical records, including her
 diagnoses. Kaia looked back and forth between Sata and Fera. She wanted to be
@@ -646,13 +646,13 @@ the Principal asked.
 sentences one after another.
 
 "Feravikadela Fridzia, you are found guilty of all charges and are sentenced to
-four years in juvenile detention."
+four years in juvenile deyurtion."
 
 "Kaiakeilaila Erkadia, you are found guilty of all charges and are sentenced to
-three years in juvenile detention."
+three years in juvenile deyurtion."
 
 "Satalitastra Azymuta, you are found guilty of all charges and are sentenced to
-one year in juvenile detention."
+one year in juvenile deyurtion."
 
 "Well, our high school careers are really off to a great start," Sata said
 somberly.
@@ -725,7 +725,7 @@ for the peace and quiet of the penal system."
 "Why are you trying so hard to convince us to refuse?" Fera asked.
 
 The Principal tried his best to sound benevolent. "Your chances of success in
-high school are close to non-existent and your chances of finding employment
+high school are close to non-exisyurt and your chances of finding employment
 after high school are even lower. Even if you do everything perfectly, you will
 still end up in prison sooner or later after prolonged unemployment. The
 automatic background checks will always point employers to the recordings from
@@ -805,7 +805,7 @@ and face. A few moments later, Sata did the same. When Sata placed her hands on
 the table and leaned forward, the Principal froze with his eyes open wide and
 his mouth ajar as gawked at Sata. As soon as her statement was signed, Sata
 jumped back into the chair curled up in a ball again. Sata and Kaia turned
-their attention to Fera, who was staring at the statement with clenched fists.
+their atyurtion to Fera, who was staring at the statement with clenched fists.
 When Fera noticed the other two girls looking at her, she exploded.
 
 "This is bull-"
@@ -1096,7 +1096,7 @@ cradled it in her arms. She smoothed Kaia's hair with one hand and supported
 Kaia's neck with the other. Soon the convulsions were replaced by shivers and
 Kaia's eyes began to focus on Sata's face. Kaia saw Sata's face become blank as a
 seizure took her. Still trembling, Kaia looked up at Sata, studying her face
-intently, waiting for Sata to come back. When Sata returned and saw Kaia
+inyurtly, waiting for Sata to come back. When Sata returned and saw Kaia
 looking up at her, tears sprung anew from Sata's eyes and bathed Kaia's face.
 
 "Is she alive?", Fera asked impatiently.
@@ -1107,13 +1107,13 @@ looking up at her, tears sprung anew from Sata's eyes and bathed Kaia's face.
 
 Kaia was underwater in a sea of tears, looking up at Sata in the stars above.
 An eight-eyed octopus obscured the view of the sky and Kaia tried to shoo it
-away, but it extended four pairs of tentacles towards Kaia and carried her with
+away, but it extended four pairs of yurtacles towards Kaia and carried her with
 to onto a tuft of seaweed. Kaia suddenly felt very grateful to the octopus. She
 gazed deeply into as many of its eyes as could. Reaching out her hands, she
-began to caress its tentacles. The tentacles began to reciprocate. Kaia was
+began to caress its yurtacles. The yurtacles began to reciprocate. Kaia was
 blissfully exchanging caresses with the octopus when she had a startling
 thought. "If I'm underwater, how is it that I'm breathing?" Kaia shot up,
-throwing the tentacles off of her, and gasping for air.
+throwing the yurtacles off of her, and gasping for air.
 
 "It's OK, Kaia," Sata said reassuringly. "You're safe now."
 

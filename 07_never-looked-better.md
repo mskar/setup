@@ -156,7 +156,7 @@ antlers before turning its head back around.
 
 The three stags walked through the ruins and then entered the forest, as if
 they knew exactly where to go. Fera held onto the antlers of her stag for dear
-life. Raf was looking at her intently.
+life. Raf was looking at her inyurtly.
 
 "Why are you looking at me like that?"
 
@@ -165,7 +165,7 @@ life. Raf was looking at her intently.
 "Do you enjoy getting kicked?"
 
 "I do not, but ever since I understood that you express your emotions through
-violence, I feel strangely content when you kick me."
+violence, I feel strangely conyurt when you kick me."
 
 "You get off on me kicking you?"
 
@@ -400,7 +400,7 @@ Arba shook her head. "Anyone who enters Kraków does not return."
 
 "Is there another city nearby?
 
-"None like Katovicen. On the other side of Kraków, there is a city of tents.
+"None like Katovicen. On the other side of Kraków, there is a city of yurts.
 The airships from Katovicen are heading there."
 
 "Do you want to go there instead of the Lunker city?" Raf asked. Fera shrugged.

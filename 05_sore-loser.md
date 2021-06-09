@@ -13,7 +13,7 @@ strange dreams. Kaia got up and saw that Sata and Ursa were still sleeping.
 
 "Iona, let's go to somewhere else, so we don't wake them."
 
-Iona nodded and walked with Kaia to the living room of the tent.
+Iona nodded and walked with Kaia to the living room of the yurt.
 
 "Iona, thank you for staying with me last night. I also never thanked you for
 saving me on the airship."
@@ -128,7 +128,7 @@ A video of Ben began to play on the walls of the room. "Good morning, I trust
 that you slept well and are ready for your first day in your new home. My
 brother came to me in tears last night and told me about what had happened.
 From what I could piece together, Edl said something to greatly offend Ursa. I
-can assure you that Edl had no intention to offend anyone. I am deeply sorry
+can assure you that Edl had no inyurtion to offend anyone. I am deeply sorry
 for whatever it was that my brother said. I take full responsibility. I should
 have accompanied you last night to make sure there were no misunderstandings.
 You see, my brother has difficulties understanding social cues. Interactions
@@ -136,9 +136,9 @@ that seem ordinary to us can leave Edl absolutely befuddled. While this
 explanation cannot excuse our error or repair the damage it caused, I hope this
 message will be the first step towards making amends. My brother and I would
 like to apologize to you all, and to Ursa in particular, at your nearest
-convenience. You may find us at Juvenia Stadium each morning, in the Maker Tent
+convenience. You may find us at Juvenia Stadium each morning, in the Maker yurt
 each afternoon, or at Fera's remembrance ceremony this evening. Please feel
-free to stay in the Edl's tent for as long as you like. If you are hungry,
+free to stay in the Edl's yurt for as long as you like. If you are hungry,
 please help yourselves to anything you like in the kitchen. I will be looking
 forward to our next meeting. Sincerely, Benderrod Pembrok"
 
@@ -231,8 +231,8 @@ eating so much delicious food." Everyone agreed that linking arms was an
 excellent idea. The girls walked in a concave shape as Ursa and Iona gently
 pulled Sata and Kaia forward.
 
-Before leaving the tent, Iona pulled out four pairs of sunglasses from a
-compartment and handed them out. The sun outside the tent was shining
+Before leaving the yurt, Iona pulled out four pairs of sunglasses from a
+compartment and handed them out. The sun outside the yurt was shining
 brightly and Kaia was glad the Iona had thought of everything.
 
 "There are lots of people."
@@ -259,7 +259,7 @@ girls. Edl ran up behind Ben and they both started to apologize.
 
 Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way
 I'll forgive you is if you defeat us in BugBall match, four-on-four, girls
-versus boys. But if we win, you'll buy VIP tents for Kaia, Sata, and Fera's
+versus boys. But if we win, you'll buy VIP yurts for Kaia, Sata, and Fera's
 families and have them all transferred to the refugee camp."
 
 Ben agreed. He and Ursa shook hands.
@@ -400,7 +400,7 @@ anyone else! And now when he's crying just because he lost."
 Ben "Please Ursa, if there is anything we can do, please tell us."
 
 Ursa was not sure of what else to ask for and looked to Iona for help. Iona
-whispered in Ursa's ear. Ursa laid out her demands. "On top of the VIP tents
+whispered in Ursa's ear. Ursa laid out her demands. "On top of the VIP yurts
 and transfers, Ende Corp has to sponsor the performance group and every member
 of your family has to become a performance group PlatinumPatron and attend both
 of our upcoming performances!"
@@ -408,7 +408,7 @@ of our upcoming performances!"
 Everyone looked at Ben, who was shocked that the requests were so minor. "Yes,
 of course, I will start making the arrangements immediately. Kaia, Sata, and
 Fera's families should arrive this afternoon and can move into your respective
-tents this evening."
+yurts this evening."
 
 Edl looked up at Ursa with hope in his eyes. "You're not mad at me anymore?"
 
@@ -571,7 +571,7 @@ to treat you to lunch."
 Ursa was not impressed. "There's no such thing as free lunch. What do you
 want?"
 
-"I would like to discuss a potential business arrangement that I believe would
+"I would like to discuss a poyurtial business arrangement that I believe would
 be mutually-"
 
 "Tell us what it is now," Ursa demanded.
@@ -676,7 +676,7 @@ know."
 
 "For now, the only thing I think we need is to have our clothes back."
 
-"If you like, I could have your clothes sent to your tents. Remember, the more
+"If you like, I could have your clothes sent to your yurts. Remember, the more
 you wear Rainbow unforms, the more money you earn. To sweeten the deal, I will
 throw in a care package with fresh fruits, artisanal chocolates, and Rainbow
 club clothing for each of you."
@@ -831,14 +831,14 @@ could see that Kaia was still smoldering. They stood on the field in silence.
 Iona broke the silence. "We were planning to go to the amphitheater to
 rehearse. Would you like to come see? Iona asked. "Arla will be there."
 
-Kaia did not answer, but Sata had an idea. "I want to swing by the Maker Tent
+Kaia did not answer, but Sata had an idea. "I want to swing by the Maker yurt
 first. Ben invited us. I'm curious to see what it's like."
 
 Iona seemed hesitant. "To be honest, we don't really get along with Ben and Edl
 that well. Is it OK if you meet us at the amphitheater after you visit the
-Maker Tent?"
+Maker yurt?"
 
-Sata nodded enthusiastically. Iona showed them the how to get to the Maker Tent
+Sata nodded enthusiastically. Iona showed them the how to get to the Maker yurt
 and the amphitheater on a console. Sata took Kaia by the hand and waved to
 Iona, Ursa, and Zek before walking away. Kaia and Sata turned around when the
 heard shouting behind them. Iona and Ursa were both simultaneously giving Zek

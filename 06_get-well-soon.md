@@ -83,7 +83,7 @@ observed.
 know where we would be the next day?" Sata said.
 
 Kaia thought about possible answers. "Ben could have guessed that we would be
-going from the field to the Maker tent after BugBall practice, because he
+going from the field to the Maker yurt after BugBall practice, because he
 invited us to both places."
 
 Sata scrunched up her face in disbelief. "Why would Ben pay people to beat us
@@ -117,7 +117,7 @@ Pyr thought about it. "Maybe they were trying to keep me quiet."
 
 "We need to look for clues about who it was," Sata suggested.
 
-"We can't," Pyr said, "They won't let us leave this tent."
+"We can't," Pyr said, "They won't let us leave this yurt."
 
 "Why not?" Sata asked.
 
@@ -142,7 +142,7 @@ As Kaia and Sata were looking for the exit, Ben and Edl rushed up to them.
 
 Sata immediately took on the role of detective. "When you picked us from the
 artificial lake yesterday did you know we would be walking from Juvenia Stadium
-to the Maker tent this afternoon?"
+to the Maker yurt this afternoon?"
 
 Ben seemed confused by the question. "I suppose I could have foreseen it. Edl
 and I had the same point of origin and destination earlier today."
@@ -241,7 +241,7 @@ to hurt you may be planning another attack."
 "They could be planning to attack us here," Sata noted.
 
 "There are armed guards at the entrance and patrolling the area around the
-tent. Right now, this is the safest place you could be."
+yurt. Right now, this is the safest place you could be."
 
 "Not if we die of boredom," Sata said.
 
@@ -253,7 +253,7 @@ you like. Does that sound acceptable?"
 Kaia shook her head. "I want to go to Fera's remembrance ceremony."
 
 Ben swept his hand to the side. "You will be able to view the ceremony on the
-walls of the tent. It will be even better than attending in person."
+walls of the yurt. It will be even better than attending in person."
 
 After Kaia and Sata agreed, Ben and Edl bid them farewell. As Ben and Edl were
 leaving, Sata shouted after them. "You shouldn't have agreed to pay for
@@ -334,7 +334,7 @@ decided to go sit in the waiting area near the entrance while they waited for
 the food and refreshments to arrive. They were not able to sit for long before
 people started to arrive and ask them where to set up all of the things that
 they had ordered. When Iona, Ursa, and Zek arrived, there was no more space in
-the waiting area and a line of delivery people stretching outside the tent.
+the waiting area and a line of delivery people stretching outside the yurt.
 
 "We're so glad to see you're alright!" Ursa said running up to hug them. "We
 tried to come visit you earlier, but the soldiers wouldn't let us inside."
@@ -372,15 +372,15 @@ gathering outside. Should I let them in?"
 "A few thousand?!" Sata exclaimed. "We'll never fit that many people here!"
 
 Iona smiled. "We can reserve this area for your VIP guests, but we connected a
-larger tent to the infirmary tent to fit all of the things you ordered. I am
-sure that there is more than enough food and space in other tent. Would you
+larger yurt to the infirmary yurt to fit all of the things you ordered. I am
+sure that there is more than enough food and space in other yurt. Would you
 like to take a look?"
 
-Kaia, Sata, Ursa, and Zek followed Iona to the adjacent tent and felt like they
+Kaia, Sata, Ursa, and Zek followed Iona to the adjacent yurt and felt like they
 were stepping into a different world. Aerial silk and trapeze artists performed
 above. Robotic elephants, tigers, lions, and bears roamed in between tables
 replete with food and drink. BabboonButlers stood ready with plates of Hors
-d'oeuvres. A roller coaster snaked along the walls of the tent.
+d'oeuvres. A roller coaster snaked along the walls of the yurt.
 
 "Did we really order all of this?"
 
@@ -407,7 +407,7 @@ they're all invited."
 
 After Iona left to take care of the grand opening, Kaia, Sata, Ursa, and Zek
 went for a ride on the roller-coaster. From the vantage point of the roller
-coaster car, they could see the tent filling with people. After the ride was
+coaster car, they could see the yurt filling with people. After the ride was
 over, there was diversity of opinions. Sata and Ursa raved about the adrenaline
 rush . Zek admitted that he was never a fan of roller coasters. Kaia thought
 she might have like the experience more if she had not tried it for the first
@@ -459,7 +459,7 @@ Kaia's parents' secret dream. Kaia is angry that they were watching her in an
 embarrassing situation. When asked about whether she wants to find her parents,
 Sata says that they are probably partying and trying to pick up young
 refugees. Ben worries that no one will attend the ceremony but then says he
-will project the ceremony on to the tent walls, so everyone will see it.
+will project the ceremony on to the yurt walls, so everyone will see it.
 
 Fera's mother joins the Sinistrae and can finally become independent because of
 financial and moral support from Fera?
@@ -474,7 +474,7 @@ attack Kaia and Sata, but that he has no idea who it was - Pyr tells his story
 - he was left shaken by a strange experience after he led the attack against
 Kaia and Sata - after he recovered, he felt extremely afraid and ran away - as
 he was running, he was attacked from behind
-- he woke up in the infirmary tent without any idea of who attacked him
+- he woke up in the infirmary yurt without any idea of who attacked him
 
 
 Ursa and Iona arrive to visit Kaia and Sata at the infirmary.
@@ -522,7 +522,7 @@ performance and a theater play. In their spare time, Lan works in the kitchen
 and Arla spends time with Kransal.
 
 Ben and Edl visit them to say that they will be able to watch the remembrance
-ceremony on the infirmary tent walls and that he set up the projector and sound
+ceremony on the infirmary yurt walls and that he set up the projector and sound
 system himself and the infirmary staff have been given special instructions and
 compensation.
 
@@ -547,10 +547,10 @@ bullies are targeting Kaia because she is not projecting strength. "Don't close
 your eyes while I'm talking to you!" Kaia's dad says that you have to puff your
 chest out and keep your chin up. Kaia's mom says that it's better to carry a
 big bag to protect your chest and keep your chin down to protect your neck and
-not attract attention.
+not attract atyurtion.
 
 That evening Kaia and Sata watch the remembrance ceremony on the walls of the
-infirmary tent. That night Kaia cannot sleep and she sees Fera. Not believing
+infirmary yurt. That night Kaia cannot sleep and she sees Fera. Not believing
 her eyes, Kaia thinks she is dreaming or hallucinating.
 
 Fera says that she broke both of Pyr's arms after finding out what he did to

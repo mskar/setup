@@ -211,7 +211,7 @@ bodies, could you bring back someone who died?"
 Ben knew what Kaia was considering. "In theory, we could provide a new physical
 body to someone who scended, but that would be a step in the wrong direction
 according to Scenderism. The digital afterlife is free of suffering and allows
-people to reach their full potential. Returning to the physical world would be
+people to reach their full poyurtial. Returning to the physical world would be
 very counterproductive."
 
 Kaia decided to ask her question directly. "Is there a chance that Fera might
@@ -266,9 +266,9 @@ Iona, and Ursa.
 Ben wiped tears from his eyes and began talking about Fera to no one in
 particular. "She really was quite remarkable. The best Vice President, perhaps
 even the best member, the MIG has ever had. At times, I forget that so was a
-freshman. So much potential! Such great promise! I must admit that I was quite
+freshman. So much poyurtial! Such great promise! I must admit that I was quite
 fond of her. Even though a personal relationship between MIG Executives would
-have been very unprofessional and a potential conflict of interest, I was
+have been very unprofessional and a poyurtial conflict of interest, I was
 considering the possibility of Fera and I attending the same university and
 perhaps even working in the same laboratory! When I would be finishing up my
 postdoctoral training, Fera could be beginning her own. Instead of immediately
@@ -309,7 +309,7 @@ still here? Just to suffer?'"
 Ursa and Zok began to sing the "Sound of Silence" by Simon and Garfunkel, a
 capella.
 
-Ben saw opportunity to evangelize. "Scenders do not experience existential
+Ben saw opportunity to evangelize. "Scenders do not experience exisyurtial
 crises. Those who are chosen to scend can work toward the betterment of
 humanity forever." Ben said.
 
@@ -495,8 +495,8 @@ Taz was quick to explain. "It serves as a warning to others. Killing a few
 aspiring runaways could save many lives if it discourages others from trying."
 
 Ben gestured towards the consoles in the corners of the observation deck. "You
-might want to rent a tent for the night before we land. There are plenty of
-tents available, because most of camp residents cannot afford to rent them."
+might want to rent a yurt for the night before we land. There are plenty of
+yurts available, because most of camp residents cannot afford to rent them."
 
 Kaia and Sata looked at each other. "We don't have any money. Do you know if
 our parents are in the camp? We could probably stay with them."
@@ -506,9 +506,9 @@ camp. There is simply not enough room for everyone. Your parents are staying at
 an ancient airport to the west of the camp."
 
 Iona put her hands on Kaia and Sata's shoulders. "Don't worry. I'll use
-performance group funds to get us a tent."
+performance group funds to get us a yurt."
 
-Ben seemed concerned. "You may want to save money on tent rental and sleep on
+Ben seemed concerned. "You may want to save money on yurt rental and sleep on
 the grass like other camp residents. It is very likely that you will be staying
 in the camp indefinitely."
 
@@ -553,23 +553,23 @@ Kaia and Sata tried not to stay hopeful, but their situation was sounding
 worse by the minute.
 
 Ben noticed their glum faces. "If you are worried about your futures, you can
-stop by the maker tent tomorrow afternoon. As members of the Maker Interest
+stop by the maker yurt tomorrow afternoon. As members of the Maker Interest
 Group, you will learn useful skills like mechanical, electrical and software
 engineering."
 
 After thanking Ben for the rescue and the offer to join the Maker Interest
 Group, Kaia and Sata prepared to leave with everyone else. Ben bid them
-goodnight and asked his brother to escort everyone to their tent, while Ben
+goodnight and asked his brother to escort everyone to their yurt, while Ben
 worked on his speech for Fera's remembrance ceremony."
 
 After they left the airship, Arla explained that she was going to stay with Taz
 and said goodnight to Kaia, Sata, and her fellow performance group members.
 
-Edl had an idea and stopped suddenly. "Do you want to see my tent?"
+Edl had an idea and stopped suddenly. "Do you want to see my yurt?"
 
 Lan agreed without hesitation and was able to quickly convince the others,
-because Edl's tent was along the way. Everyone was impressed to see that Edl's
-tent had multiple rooms including a gym, a kitchen, and three bathrooms.
+because Edl's yurt was along the way. Everyone was impressed to see that Edl's
+yurt had multiple rooms including a gym, a kitchen, and three bathrooms.
 
 "This is my bedroom," Edl said proudly.
 
@@ -669,7 +669,7 @@ strong and handsome? Unlike you, I had to work and suffer to get where I am
 today! Unlike you, I had to sacrifice everything to become who I am today!"
 
 After Ursa collapsed into puddle of tears, Zek, Zok, and Lan quietly exited the
-tent, obviously not wanting to deal with the aftermath. Iona picked Ursa up and
+yurt, obviously not wanting to deal with the aftermath. Iona picked Ursa up and
 carried her to the bed. Kaia and Sata received Ursa with an outpouring of love
 and concern. Ursa curled up into a ball, crying, shivering, and letting out the
 occasional sob. Kaia and Sata enveloped Ursa, trying to saturate her with
@@ -710,7 +710,7 @@ the lights, and was started to leave when saw Kaia raise her head.
 "Iona, where are you going?"
 
 Iona took a few steps towards the bed. "I thought I would let you all rest
-and head to tent I rented for us."
+and head to yurt I rented for us."
 
 "Iona, do you think you could stay here with us? Just for tonight? If not, I
 understand, but it would be nice for all of to be together like we were
