@@ -1079,7 +1079,7 @@ Sata thought about it for a while. "I feel wonder, peace, and hope."
 
 Kaia leaned in. "That's how I feel when I look at you."
 
-Sata took a step aback. "Whoa, where did you get that line from?"
+Sata took a step backwards. "Whoa, where did you get that line from?"
 
 Kaia blushed. "I wanted to talk to you, but I was really nervous and worried,
 so Ursa gave me some advice."
