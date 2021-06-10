@@ -39,9 +39,7 @@ but he had a friendly expression on his chiseled face.
 Ben gestured upwards heroically. "We are here to rescue you!"
 
 "Look everyone, bird boy and the Loch Ness monster have come to save the day!"
-Zek said mockingly.
-
-"Are your birds going to fly us to refugee camp?"
+Zek said mockingly. "Are your birds going to fly us to refugee camp?"
 
 "No, we'll be much more comfortable in our airship. We'll be on our way as soon
 as the investigation of the crash has been completed," Ben explained.
@@ -268,6 +266,7 @@ particular. "She really was quite remarkable. The best Vice President, perhaps
 even the best member, the MIG has ever had. At times, I forget that so was a
 freshman. So much poyurtial! Such great promise! I must admit that I was quite
 fond of her. Even though a personal relationship between MIG Executives would
+<<<<<<< Updated upstream
 have been very unprofessional and a poyurtial conflict of interest, I was
 considering the possibility of Fera and I attending the same university and
 perhaps even working in the same laboratory! When I would be finishing up my
@@ -280,6 +279,19 @@ have continued to work together for the benefit mankind for eternity!" Ben was
 breathing quickly by the end of his monologue. No one listening to him, but Ben
 did not notice. He was lost in glorious visions of a future that could have
 been.
+=======
+have been very unprofessional, I was considering the possibility of Fera and I
+attending the same university and perhaps even working in the same laboratory!
+When I would be finishing up my postdoctoral training, Fera could be beginning
+her own. Instead of immediately securing a faculty position, I could work in
+industry for a few years, so that Fera and I could start on the track to tenure
+together. Tenure would guarantee us both a lifetime of
+intellectually-stimulating scholarship and academic productivity! Our
+worthiness of digital afterlife would be undeniable. We could have continued to
+work together for the benefit mankind for eternity!" Ben was breathing quickly
+by the end of his monologue. No one listening to him, but Ben did not
+notice. He was lost in glorious visions of a future that could have been.
+>>>>>>> Stashed changes
 
 Taz broke the silence. "The investigation of the crash site found no evidence
 of sabotage. We are cleared for transport to the refugee camp."
@@ -309,24 +321,27 @@ still here? Just to suffer?'"
 Ursa and Zok began to sing the "Sound of Silence" by Simon and Garfunkel, a
 capella.
 
+<<<<<<< Updated upstream
 Ben saw opportunity to evangelize. "Scenders do not experience exisyurtial
+=======
+Ben saw an opportunity to evangelize. "Scenders do not experience existential
+>>>>>>> Stashed changes
 crises. Those who are chosen to scend can work toward the betterment of
-humanity forever." Ben said.
+humanity forever."
 
 "If I had all the time in the universe, I doubt I could motivate myself to do
 anything," Zek responded honestly.
 
-"Are you in need of motivation? As a director, providing motivation is my
-specialty." Iona grabbed the back of Zek's neck. "Your motivation is that you
-are blissfully happy to simply be in my presence. Is that understood?" Holding
+Iona grabbed the back of Zek's neck. "Are you in need of motivation? As a
+director, providing motivation is my specialty. Your motivation is that you are
+blissfully happy to simply be in my presence. Is that understood?" Holding
 Zek's hair, Iona nodded his head for him.
 
 "Yes, ma'am. Crystal clear," Zek said meekly.
 
-"My motivation is to get everyone to the refugee camp," Ben said.
-
-"The airship cannot land here, so you'll have to be lifted up to airship by the
-rescue cables," Ben explained.
+"My motivation is to get everyone to the refugee camp," Ben said. "The airship
+cannot land here, so you'll have to be lifted up to airship by the rescue
+cables," Ben explained.
 
 "You're not going with us?" Zek asked suspiciously.
 
@@ -339,14 +354,14 @@ told them to stop.
 "We can't just leave all of that wonderful food and drink!" Lan lamented
 gesturing towards the crashed airship.
 
-"Everything on board was probably destroyed." Iona said.
+"Everything on board was probably destroyed," Iona said.
 
 "We can ask the divers to go in again and check!" Lan implored.
 
-"Recovering the cargo is a waste of the divers' time and an unnecessary risk,"
-Taz explained.
+Taz immediately shot down that idea. "Recovering the cargo is a waste of the
+divers' time and an unnecessary risk."
 
-"I'll go get some diving gear and go get the supplies myself," Lan said walking
+"I'll borrow some diving gear and go get the supplies myself," Lan said walking
 defiantly towards a group of soldiers.
 
 Iona gave Zok a gentle push. Zok approached Lan, who immediately started to
@@ -354,22 +369,22 @@ resist. "No, I won't go! You can't make me!"
 
 Zok picked up and carried him to the cables dangling from a newly arrived
 airship on his shoulder. "Let go of me, you brute! Just because you're strong
-doesn't mean-" Zok began whispering into Lan's ear. Lan stopped struggling and
-his eyes lit up. Kaia watched as Zok and Lan acted normal in a very conspicuous
-manner.
+and handsome doesn't mean that you can just-" Zok began whispering into Lan's
+ear. Lan stopped struggling and his eyes lit up. Kaia watched as Zok and Lan
+acted normal in a very conspicuous manner.
 
-After everyone (footnote: Edl, Iona, Kaia, Sata, Ursa, Zek, Zok, Lan, Taz,
-Arla) was strapped into their respective harnesses, the cables began pulling
-them upward. The broad, pale light illuminating them from above made it look
-they were being abducted by aliens in low-budget movie about UFOs. Zok swung
-closer to Zek and grabbed on to his harness. From the look on Zek's face, it
-clear that Zok told him something that he did not like. Zek punched Zok right
-in the face, braced his legs, and kicked Zok away.
+After everyone^[Edl, Lan, Zok, Zek, Iona, Ursa, Sata, Kaia, Arla, and Taz] was
+strapped into their respective harnesses, the cables began pulling them
+upward. The broad, pale light illuminating them from above made it look they
+were being abducted by aliens in low-budget movie about UFOs. Zok swung closer
+to Zek and grabbed on to his harness. From the look on Zek's face, it clear
+that Zok told him something that he did not like. Zek punched Zok right in the
+face, braced his legs, and kicked Zok away.
 
 Lan started swinging to build up to momentum towards Zek, ready to get revenge
 for Zok. Spinning wildly out of control, Zok pushed off of whoever he could
 trying to direct himself back towards Zek. Zek grabbed onto the cable and
-started to climb it. Lan and Zok both swung at Zek, who brought up his legs up
+started to climb it. Lan and Zok both swung at Zek, who brought his legs up
 high enough for Lan and Zok to swing harmlessly under. Zok pushed off of Lan
 and they both swung around Edl in circles until the cables supporting the three
 of them were intertwined like braided hair.
@@ -496,7 +511,11 @@ aspiring runaways could save many lives if it discourages others from trying."
 
 Ben gestured towards the consoles in the corners of the observation deck. "You
 might want to rent a yurt for the night before we land. There are plenty of
+<<<<<<< Updated upstream
 yurts available, because most of camp residents cannot afford to rent them."
+=======
+tents available, because most camp residents cannot afford to rent them."
+>>>>>>> Stashed changes
 
 Kaia and Sata looked at each other. "We don't have any money. Do you know if
 our parents are in the camp? We could probably stay with them."
@@ -741,24 +760,24 @@ Iona wondered why she could not stop crying. She was afraid that her tears were
 making Kaia's hair very wet and that Kaia would wake up. Something about Kaia
 being so sensitive, vulnerable, thoughtful, gentle, and kind, reminded Iona of
 a world that had vanished long ago. Iona remembered that she had friends in a
-long ago vanished world. Her friends understood what she going through, because
-they were going through the same things she was.
+long ago vanished world. Her friends had always been able to understand how she
+felt, because they were going through the same things she was.
 
 Iona knew that Zek loved her, but his love could not replace friendship. She
 had never grown that close to Ursa, because they had never really needed each
 other before today. Thanks to Kaia and Sata, Iona now felt that she had learned
 a lot about Ursa and also relearned something about herself. Iona understood
-that Ursa was not invincible and that she herself was not immune to emotion.
-Despite everything that had happened and despite what she had become, Iona
-still needed and craved emotional connections with friends.
+that Ursa was not invincible and that neither of them were immune to
+emotion. Despite everything that had happened and despite what she had become,
+Iona still needed and craved emotional connections with friends.
 
 Iona felt a part of her reawaken that night. A long since extinguished fire
 became rekindled in her soul. Iona rejoiced as her faith became renewed. All
-that was wrong would be set right. Everything that was promised would be
-fulfilled. The righteous fire that had cleansed her people from existence was
-necessary to bring her to this very place in time and space. Iona felt her
-doubts and fears wash away as her being became replete with her belief in the
-larger scheme of things.
+that was wrong would be set right. Every promise would be fulfilled. The
+righteous fire that had cleansed her people from existence was necessary to
+bring her to this very place in time and space. Iona felt her doubts and fears
+wash away as her being became replete with her belief in the larger scheme of
+things.
 
 All Iona needed to do was to kept her faith and continue to walk the correct
 path. If she did, her people would be reborn free of the evils that plagued
@@ -774,8 +793,8 @@ to worry about someday having to choose between Kaia and her faith, because
 Kaia was her faith. Kaia represented the rebirth of Iona's people and the
 reincarnation that Iona herself would experience.
 
-Kaia was proof that it was all possible, proof that it would all occur as
-foretold. To Iona, Kaia was much more than just a means to the ends that Iona
-had so greatly desired for so long. When she was sure that Kaia was asleep and
-would not need her until morning, Iona cooled her fuel cells, shut down her
-processing units, and went into idle mode for the night.
+To Iona, Kaia was much more than just a means to the ends that Iona had so
+greatly desired for so long. Kaia was proof that it was all possible, proof
+that it would all occur as foretold. When she was sure that Kaia was fast
+asleep and would not need her until morning, Iona cooled her fuel cells, shut
+down her processing units, and went into idle mode for the night.

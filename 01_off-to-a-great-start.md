@@ -24,7 +24,7 @@ who stepped out of line.
 Kaia gently tugged on Sata's shirt sleeve. "Maybe if we act crazy, they'd knock
 us out to keep us from disrupting the ceremony." Sata pulled her shirt sleeve
 away. She was wearing her favorite pink shirt. The shirt had a design featuring
-voluptuous manga catgirls (footnote: nekomusume) hanging with nooses around
+voluptuous manga catgirls ^[catgirl: Nekomusume] hanging with nooses around
 their necks while vomiting rainbows.
 
 "Acting crazy should be easy for you, because you've always been insane." Sata
@@ -704,8 +704,8 @@ encourage you to not compromise your deeply held political beliefs. It is very
 likely you would all end up in prison anyway, so refusing the sentence
 suspension terms would save everyone a great deal of time and effort."
 
-"Thank you for sharing your thoughts," Kaia said. "We appreciate your advice,
-but I think we're all going to agree to the terms."
+"Thank you," Kaia said, "we appreciate your advice, but I think we're all going
+to agree to the terms."
 
 The Principal had the impression that Kaia was not listening. "Accepting the
 terms will be extremely bothersome for everyone. First, we would have to deal
@@ -878,7 +878,7 @@ same height. It was clear that they were twins.
 
 "Welcome to the theater!" the girl proclaimed with a flourish. Placing a hand
 on her chest, the girl introduced herself. "My name is Arla," then gesturing
-towards her brother,  and this is Raf." Arla curtsied and the Raf bowed.
+towards her brother, and this is Raf." Arla curtsied and the Raf bowed.
 
 "What the hell are you?" Fera asked sharply.
 

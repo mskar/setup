@@ -202,7 +202,7 @@ Kaia.
   - Outside the locker room, they meet Dar, the Rainbow Sports Club Manager
   - Zek invites Kaia to train with him. Sata, Iona, and Ursa tag along.
   - Ursa volunteers to be used for target practice by Zek and Kaia (blinding, disorientation, etc.)
-  - Kaia and Sata say they want to go to the Maker Tent as Ben suggested
+  - Kaia and Sata say they want to go to the Maker yurt as Ben suggested
   - Iona, Ursa, Zek, and Zok say that
     - they never really got along with Ben and Edl
     - there is a rivalry between the performance group and Maker Interest Group
@@ -223,7 +223,7 @@ Kaia.
     - decides she must have imagined it
     - feels better and soon gets up to see Sata
   - Sata is also feeling better
-  - They go for a walk around the infirmary tent with their IV pumps
+  - They go for a walk around the infirmary yurt with their IV pumps
   - Kaia says that she no longer hears voices
   - Kaia and Sata
     - feel much better
@@ -240,7 +240,7 @@ Kaia.
     - he was left shaken by a strange experience after he led the attack against Kaia and Sata
     - after he recovered, he felt extremely afraid and ran away
     - as he was running, he was attacked from behind
-    - he woke up in the infirmary tent without any idea of who attacked him
+    - he woke up in the infirmary yurt without any idea of who attacked him
   - Pyr asks if Kaia and Sata would sign his casts
   - The casts are covered with expletives and drawings of penises
   - The girls agree even though they are still mad at Pyr
@@ -248,9 +248,9 @@ Kaia.
   - "Oh, you don't have to draw anything. That's just my friends being jerks."
   - Arla and Lan come to talk to Kaia and Sata
   - Arla and Lan invite them to the dance performance
-  - Kaia and Sata they will have to watch it on the tent walls like the remembrance ceremony
-  - Ben and Edl visit them and invite them again to visit the Maker Tent after they recover
-  - Kaia and Sata promise to stop the Maker Tent when they feel better
+  - Kaia and Sata they will have to watch it on the yurt walls like the remembrance ceremony
+  - Ben and Edl visit them and invite them again to visit the Maker yurt after they recover
+  - Kaia and Sata promise to stop the Maker yurt when they feel better
   - Everyone visits Kaia and Sata in the infirmary tent
     - Arla and Taz
     - Iona, Ursa, Zek, and Zok
@@ -282,9 +282,9 @@ Kaia.
     - bruised and wearing infirmary gowns
     - throw pillows at Fera, which she slashes in midair
     - run into a corner
-    - look for a weapon or something that they can use to cut the fabric of the tent so they can escape
+    - look for a weapon or something that they can use to cut the fabric of the yurt so they can escape
   - A bone knife slides through the fabric behind them and another Fera walks through the opening
-  - Another Fera drops from above slowly by holding onto the fabric of the tents roof as it rips
+  - Another Fera drops from above slowly by holding onto the fabric of the yurts roof as it rips
   - Kaia looks at Sata and is relieved to see that Sata is not having any seizures
   - Kaia tries to use her powers against the three Feras
     - but the veils she throws disintegrate
@@ -323,7 +323,7 @@ Kaia.
   - "I love it when Fera laughs at her own jokes, especially if she's the only one laughing." Eiva said.
   - "Get back into bed, you losers, before Eiva puts collars on you and takes you home with us."
   - Kaia looked at Sata expecting some kind of lewd joke, but clearly Sata was too tired and achy to joke around
-  - Fera invites Kaia and Sata to her tent for fancy food and drink
+  - Fera invites Kaia and Sata to her yurt for fancy food and drink
   - She convinces them to go with her to to her tent
     - by offering to explain to them
       - what happened to
@@ -419,7 +419,7 @@ Kaia.
     - go back to the infirmary to prank and then abduct Kaia and Sata
 - 08: To err is human
   - Kaia and Sata wake up in the Sinistrae tent
-  - They were too tired to go back to the infirmary tent after Fera's story end
+  - They were too tired to go back to the infirmary yurt after Fera's story end
   - Sata jokes that Fera's story was boring that it put them to sleep
   - Kaia says that she had the first dreamless, peaceful sleep she can remember
   - Unoa was working all night on Pyr and covered his forearms with bone knives
@@ -568,12 +568,12 @@ Kaia.
   - Lan and Zok they tell Kaia and Sata to just let them be happy together
   - Kaia and Sata
     - meet up with Fera, Unoa, and Eiva for dinner
-    - say that they prefer to spend their familys' tents rather than in the Sinistrae tent
+    - say that they prefer to spend their familys' yurts rather than in the Sinistrae tent
   - Fera
     - gives them goth pajamas as a present
-    - says that she has a private tent ready for them
+    - says that she has a private yurt ready for them
   - Kaia and Sata
-    - say that a private tent might nice so that they could talk in private
+    - say that a private yurt might nice so that they could talk in private
   - In their private tent, Kaia and Sata talk about
     - forgiveness and friendship
     - whether they should forgive that Pyr, Zok, Lan, and Ursa
@@ -616,7 +616,7 @@ Kaia.
     - so that some players can deactivate the opposing teams Bugs
   - To celebrate the deal, everyone eats at Apis
   - Kaia and Sata go to find Arla to tell her the good news
-  - Arla is in Taz's tent playing the role of a housewife
+  - Arla is in Taz's yurt playing the role of a housewife
   - Arla welcomes them warmly,
     - but says that she doesn't want to hug them
     - because she heard that a few girls got sick
@@ -631,7 +631,7 @@ Kaia.
   - Taz says that Arla should stop doing housework and go get ready for the play
   - Arla says that she will bake a cake for them after the performance
   - Arla goes to the amphitheater to prepare
-  - Kaia and Sata go to Maker Tent to see Fera has set up an adjacent tent
+  - Kaia and Sata go to Maker yurt to see Fera has set up an adjacent tent
     - Fera, Eiva, and Unoa are working with Ben and Raf on new tech
     - They have to keep their workspaces completely separate and use gigaphones to communicate
   - Kaia, Sata, Fera, Eiva, Unoa, Ben, and Edl

@@ -373,7 +373,11 @@ gathering outside. Should I let them in?"
 
 Iona smiled. "We can reserve this area for your VIP guests, but we connected a
 larger yurt to the infirmary yurt to fit all of the things you ordered. I am
+<<<<<<< Updated upstream
 sure that there is more than enough food and space in other yurt. Would you
+=======
+sure that there is more than enough food and space in other tent. Would you
+>>>>>>> Stashed changes
 like to take a look?"
 
 Kaia, Sata, Ursa, and Zek followed Iona to the adjacent yurt and felt like they
