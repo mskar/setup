@@ -124,7 +124,7 @@ workshop rules."
 
 Ben brought up an image on the wall that said,
 MACHINE WORKSHOP RULES
-1. Do not inyurtionally kill, maim, or otherwise injury any sentient, living creature.
+1. Do not intentionally kill, maim, or otherwise injury any sentient, living creature.
 
 "Is there just one rule?"
 
@@ -159,7 +159,7 @@ Fera noticed a container labeled Ben's Builder Bots.
 "Yes, though I prefer to call it metabuilding.", Ben said pulling out the
 container to show Fera.
 
-Fera studied the conyurts of the container.
+Fera studied the contents of the container.
 "Can the builder bots build builder bots?" Fera asked.
 
 Ben opened his mouth to answer, but then started to scribble furiously on his
@@ -257,7 +257,7 @@ they work.", Ben said, then he noticed that Fera had not moved since she sat
 down. "Fera, the scanner is done. You can pull your hands and feet out now."
 
 Fera engrossed in her thoughts, snapped out of it, retrieved her hands and feet
-from the scanner and turned her atyurtion to Ben.
+from the scanner and turned her attention to Ben.
 
 "The skates provide a top-level security clearance, so you can go anywhere in
 the school and the AnimalAutomatons will not try to stop you. To speed up,
@@ -265,7 +265,7 @@ press your big toe down, to slow down lift your big toe, but be careful if you
 lift it to high, you will start going backwards. To turn very quickly, lower
 one big toe and raise the other. To activate magnetism, curl all of your toes.
 Magnetism is most useful for tight turns, but you can also skate on any wall
-that has a high metal conyurt, which is most of the walls in the school. Do you
+that has a high metal content, which is most of the walls in the school. Do you
 have any questions?"
 
 Fera shook her head.

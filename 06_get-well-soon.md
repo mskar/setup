@@ -373,11 +373,7 @@ gathering outside. Should I let them in?"
 
 Iona smiled. "We can reserve this area for your VIP guests, but we connected a
 larger yurt to the infirmary yurt to fit all of the things you ordered. I am
-<<<<<<< Updated upstream
 sure that there is more than enough food and space in other yurt. Would you
-=======
-sure that there is more than enough food and space in other tent. Would you
->>>>>>> Stashed changes
 like to take a look?"
 
 Kaia, Sata, Ursa, and Zek followed Iona to the adjacent yurt and felt like they
@@ -551,7 +547,7 @@ bullies are targeting Kaia because she is not projecting strength. "Don't close
 your eyes while I'm talking to you!" Kaia's dad says that you have to puff your
 chest out and keep your chin up. Kaia's mom says that it's better to carry a
 big bag to protect your chest and keep your chin down to protect your neck and
-not attract atyurtion.
+not attract attention.
 
 That evening Kaia and Sata watch the remembrance ceremony on the walls of the
 infirmary yurt. That night Kaia cannot sleep and she sees Fera. Not believing

@@ -156,7 +156,7 @@ antlers before turning its head back around.
 
 The three stags walked through the ruins and then entered the forest, as if
 they knew exactly where to go. Fera held onto the antlers of her stag for dear
-life. Raf was looking at her inyurtly.
+life. Raf was looking at her intently.
 
 "Why are you looking at me like that?"
 
@@ -165,7 +165,7 @@ life. Raf was looking at her inyurtly.
 "Do you enjoy getting kicked?"
 
 "I do not, but ever since I understood that you express your emotions through
-violence, I feel strangely conyurt when you kick me."
+violence, I feel strangely content when you kick me."
 
 "You get off on me kicking you?"
 
@@ -246,9 +246,9 @@ too and not real animals. It will be no great loss if we kill you and use
 you as fertilizer."
 
 "Please, one of my companions is a brave warrior who destroyed the nearby
-city of Katovicen."
+city of Katowice."
 
-"A warrior you say? We saw the smoke above Katovicen from the treetops. Allow
+"A warrior you say? We saw the smoke above Katowice from the treetops. Allow
 me to take a look at this warrior," Arba said walking up to the Principal.
 
 "He does not appear to be much of a warrior," Arba said, disappointedly poking
@@ -392,7 +392,7 @@ among the trees is better. I went through the rite many years ago. I am glad
 that you destroyed the city."
 
 "But what about the rite of passage? Can your young go to Kraków instead of
-Katovicen?"
+Katowice?"
 
 Arba shook her head. "Anyone who enters Kraków does not return."
 
@@ -400,8 +400,8 @@ Arba shook her head. "Anyone who enters Kraków does not return."
 
 "Is there another city nearby?
 
-"None like Katovicen. On the other side of Kraków, there is a city of yurts.
-The airships from Katovicen are heading there."
+"None like Katowice. On the other side of Kraków, there is a city of yurts.
+The airships from Katowice are heading there."
 
 "Do you want to go there instead of the Lunker city?" Raf asked. Fera shrugged.
 She was not sure if she was a fugitive. It might be smarter to go to the

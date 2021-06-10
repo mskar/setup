@@ -128,7 +128,7 @@ A video of Ben began to play on the walls of the room. "Good morning, I trust
 that you slept well and are ready for your first day in your new home. My
 brother came to me in tears last night and told me about what had happened.
 From what I could piece together, Edl said something to greatly offend Ursa. I
-can assure you that Edl had no inyurtion to offend anyone. I am deeply sorry
+can assure you that Edl had no intention to offend anyone. I am deeply sorry
 for whatever it was that my brother said. I take full responsibility. I should
 have accompanied you last night to make sure there were no misunderstandings.
 You see, my brother has difficulties understanding social cues. Interactions
@@ -232,13 +232,8 @@ excellent idea. The girls walked in a concave shape as Ursa and Iona gently
 pulled Sata and Kaia forward.
 
 Before leaving the yurt, Iona pulled out four pairs of sunglasses from a
-<<<<<<< Updated upstream
 compartment and handed them out. The sun outside the yurt was shining
 brightly and Kaia was glad the Iona had thought of everything.
-=======
-compartment and handed them out. The sun outside the yurt was shining brightly
-and Kaia was glad the Iona had thought of everything.
->>>>>>> Stashed changes
 
 "There are lots of people."
 
@@ -576,7 +571,7 @@ to treat you to lunch."
 Ursa was not impressed. "There's no such thing as free lunch. What do you
 want?"
 
-"I would like to discuss a poyurtial business arrangement that I believe would
+"I would like to discuss a potential business arrangement that I believe would
 be mutually-"
 
 "Tell us what it is now," Ursa demanded.
@@ -682,11 +677,7 @@ know."
 "For now, the only thing I think we need is to have our clothes back."
 
 "If you like, I could have your clothes sent to your yurts. Remember, the more
-<<<<<<< Updated upstream
-you wear Rainbow unforms, the more money you earn. To sweeten the deal, I will
-=======
 you wear Rainbow uniforms, the more money you earn. To sweeten the deal, I will
->>>>>>> Stashed changes
 throw in a care package with fresh fruits, artisanal chocolates, and Rainbow
 club clothing for each of you."
 
@@ -843,16 +834,10 @@ rehearse. Would you like to come see? Iona asked. "Arla will be there."
 Kaia did not answer, but Sata had an idea. "I want to swing by the Maker yurt
 first. Ben invited us. I'm curious to see what it's like."
 
-<<<<<<< Updated upstream
-Iona seemed hesitant. "To be honest, we don't really get along with Ben and Edl
-that well. Is it OK if you meet us at the amphitheater after you visit the
-Maker yurt?"
-=======
-Iona seemed hesitant. "OK, but swing by the amphitheater afterwards, OK? We can
-borrow some dark clothes from the performance group wardrobe for this
-evening. Going to the remembrance ceremony in Rainbow uniforms probably isn't
-the best idea?"
->>>>>>> Stashed changes
+Iona seemed a bit disappointed. "OK, but please swing by the amphitheater
+afterwards, OK? We can borrow some dark clothes from the performance group
+wardrobe for this evening. Going to the remembrance ceremony in Rainbow
+uniforms probably isn't the best idea."
 
 Sata nodded enthusiastically. Iona showed them the how to get to the Maker yurt
 and the amphitheater on a console. Sata took Kaia by the hand and waved to

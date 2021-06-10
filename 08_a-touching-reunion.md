@@ -61,7 +61,7 @@ Is this when Ben becomes obsessed with studying Kaia's brain? When Kaia
 demonstrated her ability to simultaneously control Dextrae and Sinistrae
 nanotech?
 
-Arla and Lan are already dead when they find them at the government deyurtion
+Arla and Lan are already dead when they find them at the government detention
 center.
 
 Raf is heartbroken when he finds out that Arla was pregnant with Kransal's

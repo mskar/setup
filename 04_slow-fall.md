@@ -209,7 +209,7 @@ bodies, could you bring back someone who died?"
 Ben knew what Kaia was considering. "In theory, we could provide a new physical
 body to someone who scended, but that would be a step in the wrong direction
 according to Scenderism. The digital afterlife is free of suffering and allows
-people to reach their full poyurtial. Returning to the physical world would be
+people to reach their full potential. Returning to the physical world would be
 very counterproductive."
 
 Kaia decided to ask her question directly. "Is there a chance that Fera might
@@ -264,22 +264,8 @@ Iona, and Ursa.
 Ben wiped tears from his eyes and began talking about Fera to no one in
 particular. "She really was quite remarkable. The best Vice President, perhaps
 even the best member, the MIG has ever had. At times, I forget that so was a
-freshman. So much poyurtial! Such great promise! I must admit that I was quite
+freshman. So much potential! Such great promise! I must admit that I was quite
 fond of her. Even though a personal relationship between MIG Executives would
-<<<<<<< Updated upstream
-have been very unprofessional and a poyurtial conflict of interest, I was
-considering the possibility of Fera and I attending the same university and
-perhaps even working in the same laboratory! When I would be finishing up my
-postdoctoral training, Fera could be beginning her own. Instead of immediately
-securing a faculty position, I could work in industry for a few years, so that
-Fera and I could start on the track to tenure together. Tenure would guarantee
-us both a lifetime of intellectually-stimulating scholarship and academic
-productivity! Our worthiness of digital afterlife would be undeniable. We could
-have continued to work together for the benefit mankind for eternity!" Ben was
-breathing quickly by the end of his monologue. No one listening to him, but Ben
-did not notice. He was lost in glorious visions of a future that could have
-been.
-=======
 have been very unprofessional, I was considering the possibility of Fera and I
 attending the same university and perhaps even working in the same laboratory!
 When I would be finishing up my postdoctoral training, Fera could be beginning
@@ -291,7 +277,6 @@ worthiness of digital afterlife would be undeniable. We could have continued to
 work together for the benefit mankind for eternity!" Ben was breathing quickly
 by the end of his monologue. No one listening to him, but Ben did not
 notice. He was lost in glorious visions of a future that could have been.
->>>>>>> Stashed changes
 
 Taz broke the silence. "The investigation of the crash site found no evidence
 of sabotage. We are cleared for transport to the refugee camp."
@@ -321,11 +306,7 @@ still here? Just to suffer?'"
 Ursa and Zok began to sing the "Sound of Silence" by Simon and Garfunkel, a
 capella.
 
-<<<<<<< Updated upstream
-Ben saw opportunity to evangelize. "Scenders do not experience exisyurtial
-=======
 Ben saw an opportunity to evangelize. "Scenders do not experience existential
->>>>>>> Stashed changes
 crises. Those who are chosen to scend can work toward the betterment of
 humanity forever."
 
@@ -511,11 +492,7 @@ aspiring runaways could save many lives if it discourages others from trying."
 
 Ben gestured towards the consoles in the corners of the observation deck. "You
 might want to rent a yurt for the night before we land. There are plenty of
-<<<<<<< Updated upstream
 yurts available, because most of camp residents cannot afford to rent them."
-=======
-tents available, because most camp residents cannot afford to rent them."
->>>>>>> Stashed changes
 
 Kaia and Sata looked at each other. "We don't have any money. Do you know if
 our parents are in the camp? We could probably stay with them."
