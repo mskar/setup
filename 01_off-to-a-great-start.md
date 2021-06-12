@@ -347,12 +347,12 @@ the crushing weight of her destroyed world.
 `Kaia, get up. Your initiation rite is still ongoing. Kaia, please stand
 up. Listen, you were right all along, Kaia. My name is Nara. I was tasked with
 narrating your story after Ryt's objectivity was deemed to be compromised. I
-have to appear impartial or I'll be terminated too. Please, Kaia, don't give
+have to appear impartial or I'll be recycled too. Please, Kaia, don't give
 in. Ryt told me that he loved you like the daughter he could never have. He
 said he did not regret anything and that the time he spent with you was worth
-being terminated. I think I am beginning to understand how he felt. Ryt
-wouldn't have wanted you to die like this and I don't either. You need to
-breathe, Kaia. You need to survive.`
+being recycled. I think I am beginning to understand how he felt. Ryt wouldn't
+have wanted you to die like this and I don't either. You need to breathe,
+Kaia. You need to survive.`
 
 Remembering Ryt, Kaia began to struggle against the dust. `Yes, Kaia you can do
 it!` Clawing her way back up to surface, Kaia emerged and took a deep
