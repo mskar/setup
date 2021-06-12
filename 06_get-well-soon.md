@@ -296,7 +296,7 @@ guest list. "Should we invite Dar?"
 
 "We might be able to figure out if he was behind the attack," Kaia suggested.
 
-Sata nodded. " Is everyone else on the list OK?"
+Sata nodded. "Is everyone else on the list OK?"
 
 Kaia hesitated before saying, "Is it alright if we don't invite our parents and
 their friends? We can just send them a message to say that we are doing well."
@@ -424,12 +424,8 @@ Zek shook his head. "No, Echos heal at the same speed as everyone else. In
 addition to your inexplicably fast recovery, I am also curious why you seem to
 be completely cut off from your Echo abilities."
 
-Kaia shrugged. "I don't know. I haven't heard any voices since I woke up."
-
-"That's not good. You need to continue to develop your abilities."
-
-"I never liked my abilities and I don't see why not hearing voices is a bad
-thing. Maybe letting loose during the attack cured me somehow?"
+Kaia shrugged. "I don't know. Maybe letting loose during the attack cured me
+somehow?"
 
 Zek opened his eyes very wide. "You used your abilities to protect yourself?"
 
@@ -442,6 +438,8 @@ for you to simply decide to no longer be an Echo."
 
 "I would absolutely quit being an Echo if I could," Kaia admitted.
 
+While Sata and Ursa rode the roller coaster again and again, Ben and Edl led
+Kaia's parents to the spot where Kaia and Zek were standing.
 
 ...
 

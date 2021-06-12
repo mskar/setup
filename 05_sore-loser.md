@@ -176,7 +176,7 @@ the spiky fruit from Kaia and putting it back into the bowl.
 
 Kaia picked a long, curved yellow fruit and looked at Ursa.
 
-"That's a banana. You need to peel it."
+"That's a banana. You need to peel it," Ursa explained.
 
 Kaia looked back and forth between Ursa and the fruit. "How do I peel it?"
 
@@ -231,17 +231,13 @@ eating so much delicious food." Everyone agreed that linking arms was an
 excellent idea. The girls walked in a concave shape as Ursa and Iona gently
 pulled Sata and Kaia forward.
 
-Before leaving the yurt, Iona pulled out four pairs of sunglasses from a
-compartment and handed them out. The sun outside the yurt was shining
-brightly and Kaia was glad the Iona had thought of everything.
+"There are lots of people," Kaia observed.
 
-"There are lots of people."
+Iona nodded. "The camp was filled with refugees before our city was
+destroyed. There is simply not enough room for everyone. Most of the adult
+still live on airships at an ancient airport to the west of the camp."
 
-"The camp was filled with refugees before our city was destroyed. There is
-simply not enough room for everyone. Most of the adult still live on airships
-at an ancient airport to the west of the camp."
-
-"So our parents are definitely not here."
+"So our parents are definitely not here," Sata said.
 
 "Yes, they would need special permission to be transferred to the camp. Maybe
 we can ask Ben to pull some strings. His family is very influential," Iona
@@ -281,7 +277,7 @@ it will produce new bug eggs for our team. When BeastBugs hatch, they
 eat whatever bugs and eggs are closest, regardless of what team the-"
 
 "Let's just play and explain along the way." Ursa interrupted Iona's
-explanation by yanking Sata and Kaia onto the field. "Come on, we'll be the
+explanation and yanked Sata and Kaia onto the field. "Come on, we'll be the
 orange team!" Ursa stopped in front of the three largest orange bug eggs, each
 about a meter in diameter. "Let's start by hatching a BroodBug egg and a
 BeastBug egg."
@@ -473,23 +469,24 @@ Iona was happy to explain. "There are digits too. The locker room uses the
 hexatrigesimal numbering system. The first ten doors are numbered zero through
 nine, and the other 26 are numbered using letters A through Z."
 
-"I'll pick K. Iona, you should pick I."
+"I'll pick K. Iona, you should pick 'I'."
 
 "What about me?" Sata asked.
 
-"Pick L for Lewd."
+"Pick 'L' for Lewd."
 
-Ursa shrugged. "I guess I'll take J then."
+Ursa shrugged. "I guess I'll take 'J' then."
 
 Sata crossed her arms and huffed. "I want to be in a stall next to Ursa."
 
 "All of the stalls are exactly the same," Iona said firmly.
 
-Ursa tried to come up with a solution. "Kaia can have K, Sata
-can take H like Happy, I'll take I as in Incredible, and Iona can take J
-because she loves jokes."
+Ursa tried to come up with a solution. "Kaia can have 'K', Sata can take 'H'
+like Happy, I'll take 'I' as in Incredible, and Iona can take 'J' because she
+loves jokes."
 
-"The letters in numbering system have absolutely no meaning," Iona protested.
+"The letters in the numbering system have absolutely no meaning," Iona
+protested.
 
 Sata smiled mischievously. "I'm going to climb the walls to peek."
 
@@ -501,7 +498,7 @@ won't feel tempted to peek."
 
 Sata seemed to regain hope. "Can you narrate in a sexy voice?"
 
-Ursa smiled. "The sexiest voice I muster."
+Ursa smiled. "The sexiest voice I can muster."
 
 Sata agreed to the plan and the girls went into their respective stalls.
 
@@ -544,7 +541,7 @@ uniform while I was showering. There's a note that says that our clothes were
 taken to be cleaned."
 
 "My clothes are gone too. It's creepy that someone came in here without us
-knowing," Ursa said.
+noticing," Ursa said.
 
 "They were like ninjas," Sata said.
 
@@ -558,7 +555,7 @@ consisting of violet sneakers, indigo socks, blue leggings, green shorts, and
 shirts with yellow, orange, and red stripes. Outside the locker room, an
 impeccably dressed man was waiting along with two ButlerBaboons in tuxedos.
 
-"Greetings, I'm Darryśmiś Ohudzki, the manager of Rainbow Sports Club, but
+"Greetings, I'm Darrysmis Ohudzki, the manager of Rainbow Sports Club, but
 please call me Dar. I was very impressed by the match you played this morning.
 Up until today, Edlvardos Pembrok has been undefeated-"
 
@@ -620,9 +617,10 @@ relieved to see that the stain blended in with red part of her jersey. A
 PictureParrot flew into Apis and perched on an empty chair in front of them.
 Dar and Iona posed frozen in the middle of a handshake. Kaia did her signature
 kawaii pose, Sata stuck out her tongue and pulled down one lower eyelid
-(footnote: akanbe / "mon oeil"), and Ursa opened her mouth and crossed her eyes
-to make a lewd face (footnote: ahegao / o-face). Dar brought up copies of the
-picture on the table for everyone to see.
+^[akanbe in Japanese, "mon oeil" in French], and Ursa opened her mouth and
+crossed her eyes to make a lewd face ^[ahegao in Japanese, o-face in
+English]. Dar brought up copies of the picture on the table for everyone to
+see.
 
 "We look mega cute!" Ursa squealed.
 

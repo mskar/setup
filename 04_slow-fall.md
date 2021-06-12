@@ -173,12 +173,11 @@ preserve-"
 
 Zek gleefully interrupted Ben. "Only the super rich can afford to scend. The
 rest of us are going nowhere when we die, so can have fun without worrying
-about the digital afterlife." Then, citing a proverb from a long-dead language,
-Zek exclaimed, "Hulaj dusza, piekła nie ma!"
+about the digital afterlife."
 
-Ben was clearly trying to remain calm and composed, despite being quite upset.
-"It is not a question of money. We have the required equipment here on Earth
-and sufficient computational resources in orbital satellites. The main
+Ben was clearly trying to remain calm and composed, despite being quite
+upset. "It is not a question of money. We have the required equipment here on
+Earth and sufficient computational resources in orbital satellites. The main
 obstacles to making scending universally available are related to ethics."
 
 Kaia felt a bit confused. "So you could let everyone into the digital
@@ -191,7 +190,7 @@ someone to scend if they have no chance of being voted into the digital
 afterlife? Their minds would occupy storage space while remaining inert,
 inactive for eternity."
 
-Sata offered a solution. "Could you have more than one afterlife?"
+Sata thought of a potential solution. "Could you have more than one afterlife?"
 
 "That idea was considered and rejected. Each afterlife would need to be kept
 separate and have its own dedicated computational resources. As the afterlives
@@ -201,14 +200,16 @@ resources that could erupt in war between the communities."
 Kaia and Sata looked at each other, trying to imagine what what a war between
 rival afterlives would look like. Her mind filled with questions, Kaia decided
 to take advantage of a lull in the conversation to ask Nara a few
-questions. _Are you a Scender, Nara?_ `No, but I am aware of their religion. I
-work for the EternalEnlightened.` _EternalEnlightened? Are you a brain in a
-vat?_ `Yes, after training my whole life to become a narrator, my nervous
-tissue was connected to the narration network.` _Is there any way that we could
-bring Fera back?_ `None that I'm aware of, but maybe Ben has an idea.`
+questions. _Are you a Scender, Nara?_ `No, but their digital afterlife sounds
+similar to the tenure system of the EternalEnlightened. I was on the tenure
+track, but I was deemed unworthy of joining the EternalEnlightened, so I became
+a narrator instead.` _Nara, are you a brain in a vat?_ `Yes, my body was
+discarded after my after my nervous tissue was connected directly to the
+narration network. The EternalEnlightened are not able to fully digitize human
+minds. Only the Scenders claim to have that ability.`
 
-Kaia turned to Ben and asked, "If Scenders can live without their physical
-bodies, could you bring back someone who died?"
+Kaia turned to Ben and asked, "If Scenders can live without physical bodies,
+could you bring back someone who died?"
 
 Ben could guess what Kaia was considering. "In theory, we could provide a new
 physical body to someone who scended, but that would be a step in the wrong
@@ -242,8 +243,8 @@ chain reaction that destroyed the whole city."
 Ben provided his analysis. "I believe there were two major motivating factors.
 First, destroying the school could have been a way for Fera to exert control
 and lash out against authority. Second, it is my understanding that Fera was
-trying to evidence of the changes she had made using the school's computer
-systems."
+trying to erase evidence of the changes she had made using the school's
+computer systems."
 
 "What changes did she make?" Kaia asked.
 

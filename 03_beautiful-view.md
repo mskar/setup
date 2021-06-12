@@ -318,7 +318,9 @@ one down there."
 Sata gently took Kaia's arm and spoke to her softly. "Did you really see them,
 Kaia? Or maybe you only thought you saw them?"
 
-Kaia ripped her arm away from Sata and ran up the stairs to the observation
+Kaia did not answer and instead asked Nara. _You saw them too, right?_ `I see
+everything that you see, but it appears that you were hallucinating.` Kaia
+ripped her arm away from Sata and ran up the stairs to the observation
 deck. Once there, Kaia started feverishly looking for Fera on the ground. Sata
 and Arla ran in after her, and started to help her look. Soon, they were so
 high up in the air that the city looked like a tabletop model. Kaia fell to her
@@ -337,22 +339,24 @@ and walked over to Officer Kransal.
 
 "Do you think they made it out in time?" Kaia asked Officer Kransal.
 
-"If anyone was still on the ground when we took off they had no chance of
+"Anyone who still on the ground when we took off who would have no chance of
 leaving the city in time."
 
 "Are you sure? They were on a motorcycle."
 
-"There's no way. Getting out of the blast zone by motorcycle would take hours."
+"Yes, I am certain. Getting out of the blast zone by motorcycle would take
+hours."
 
 Kaia began crying anew. Officer Kransal tried to reason with her. "We waited as
 long as we could. The pilots confirmed that there was no one down there."
 
 Kaia's head began to spin. She looked down and saw the red glow coming from the
-city turn to white as they broke through the clouds. The white light bathing
-the observation deck began to dim as the glass surrounding them became covered
-with dust. Kaia looked up and saw the dust trickle through the cracks in the
-glass above. She raised her hands to catch the falling dust. Metallic
-tendrils snaked up her forearms and caressed the dust as it gathered in her hands.
+city turn to white as the airship broke through the clouds. The white light
+bathing the observation deck began to dim as the glass surrounding them became
+covered with dust. Kaia looked up and saw the dust trickle through the cracks
+in the glass above. She raised her hands to catch the falling dust. Metallic
+tendrils snaked up her forearms and caressed the dust as it gathered in her
+hands.
 
 A scream from below caught Kaia's attention. Fera extended her hands upwards
 and she sank into the dust below. Kaia knelt down to grab Fera's hand but dust
@@ -379,7 +383,7 @@ Kaia spun towards Sata. If Sata had believed Kaia, Fera would still be alive.
 Enraged, Kaia wrapped her tendrils around Sata's neck and squeezed. Sata
 pleaded, saying that she would never doubt Kaia again. The pleas for mercy
 weakened and then disappeared as Sata lost consciousness. Kaia released the
-tendrils and Sata fell the floor. Kaia tried to pick Sata up but her hands
+tendrils and Sata fell to the floor. Kaia tried to pick Sata up but her hands
 passed right through Sata. Sata began to fade away.
 
 Kaia grabbed Sata with her tendrils and flew back to her body. On the dusty
@@ -404,17 +408,19 @@ making it seem like Kaia had four arms and four legs.
 
 The four arms and legs turned into tentacles as Kaia morphed into an
 octopus. Kaia reached in all directions in search of water. How could she
-breathe if she did not have water? Iona pinched the top and bottom of Kaia's
-beak, forcing it open and breathing into her mouth. Air? What was an octopus
-supposed to do with air? Kaia needed water!
+breathe if she did not have water? Seeing that Kaia was still not breathing,
+Iona began mouth-to-beak resuscitation. The air from Iona's lungs was cool and
+sweet. _Air? What am I supposed to do with air? Octopuses need water!_ `Kaia, I
+don't know what's going on, but I am pretty sure you're not actually an
+octopus.`
 
-The air was cool and sweet. Iona's lips were cold, but felt so soft on Kaia's
-hard beak. Iona was methodical and efficient as she worked tirelessly to save
-Kaia. Kaia felt so grateful to be the focus of Iona's attention and
-concern. Iona was so kind to go to all this trouble to save a lowly octopus.
+Iona's lips were cold, but felt so soft on Kaia's hard beak. Iona was
+methodical and efficient as she worked tirelessly to save Kaia. Kaia felt so
+grateful to be the focus of Iona's attention and concern. Iona was so kind to
+go to all this trouble to save a lowly octopus.
 
 As Iona drew in another breath, Kaia wrapped her tentacles around Iona's head
-and pulled her into a deep kiss. Iona let out the breath as her eyes widened in
+and pulled her into a deep kiss. Iona exhaled as her eyes widened in
 surprise. The observation deck was filled with gasps and applause. Kaia opened
 her eyes and saw her hands framing the side of Iona's surprised face. Still
 lip-locked with Kaia, Iona was frozen in shock.
@@ -435,7 +441,7 @@ heaven."
 Sata pulled Ursa next to her. "I was saved by an angel too, but you're starting
 to make me jealous."
 
-Ursa seemed a little uncomfortable. "Is she always like this?"
+"Is she always like this?" Ursa asked.
 
 Kaia nodded. "She likes to diffuse tension with humor."
 
