@@ -60,11 +60,13 @@ city."
 Arla started crying and took shelter in Officer Kransal's arms.
 Lan began to cry too and leaned on Zok for support.
 
-Kaia waited a moment before asking, "Do you if our friend Fera got out in time?"
+Kaia waited a moment before asking, "Do you know if our friend Fera got out in
+time?"
 
 Seeing the look of surprise on Ben's face, Sata elaborated on Kaia's question.
 "Fera's the girl with blue and green hair who staged the protest at the
-initiation ceremony. Arla saw Fera leave with Raf before we left the school."
+initiation ceremony. Arla saw Fera leave with her brother Raf before we left
+the school."
 
 Ben cleared his throat nervously. "The last time we saw Fera, she was still in
 the school with Raf and the Principal. We were tracking Fera's location and the
@@ -198,27 +200,28 @@ resources that could erupt in war between the communities."
 
 Kaia and Sata looked at each other, trying to imagine what what a war between
 rival afterlives would look like. Her mind filled with questions, Kaia decided
-to take advantage of a lull in the conversation to Nara something. _Are you a
-Scender, Nara?_ `No, but I am aware of their religion. I work for the
-EternalEnlightened.` _You're a brain in a vat?_ `Yes, I am now. After training
-my whole life to become a narrator, I was one of the select few chosen for the
-honor.` Think about Nara, Kaia turned to Ben and asked a question she been
-wrestling with for a long time. "If Scenders can live without their physical
+to take advantage of a lull in the conversation to ask Nara a few
+questions. _Are you a Scender, Nara?_ `No, but I am aware of their religion. I
+work for the EternalEnlightened.` _EternalEnlightened? Are you a brain in a
+vat?_ `Yes, after training my whole life to become a narrator, my nervous
+tissue was connected to the narration network.` _Is there any way that we could
+bring Fera back?_ `None that I'm aware of, but maybe Ben has an idea.`
+
+Kaia turned to Ben and asked, "If Scenders can live without their physical
 bodies, could you bring back someone who died?"
 
-Ben knew what Kaia was considering. "In theory, we could provide a new physical
-body to someone who scended, but that would be a step in the wrong direction
-according to Scenderism. The digital afterlife is free of suffering and allows
-people to reach their full potential. Returning to the physical world would be
-very counterproductive."
+Ben could guess what Kaia was considering. "In theory, we could provide a new
+physical body to someone who scended, but that would be a step in the wrong
+direction according to Scenderism. The digital afterlife is free of suffering
+and allows people to reach their full potential. Returning to the physical
+world would be very counterproductive."
 
 Kaia decided to ask her question directly. "Is there a chance that Fera might
 have scended before the city exploded?"
 
-Ben thought about his answer before responding. "If Fera had scended, we would
-have known about it. Fera was exceptional, uniquely talented, but there was no
-way she could have scended in time even if the required equipment was
-available."
+Ben shook his head. "If Fera had scended, we would have known about it. Fera
+was exceptional, uniquely talented, but there was no way she could have scended
+in time even if the required equipment was available."
 
 Kaia was downcast. "I wish I could have said goodbye. The last thing I said to
 Fera was not very positive."

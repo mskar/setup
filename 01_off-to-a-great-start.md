@@ -1035,9 +1035,9 @@ renewed sense of purpose.
 Did she have a chance to change the future? If she answered the remaining
 questions, could she turn everything around? Kaia knew what she had to do. She
 would continue through the initiation rite, deny any political motivations,
-blame everything on her mental illness, and do anything else necessary to
-keep Sata safe, even if it meant that Fera would go to prison for years. Kaia
-began to feverishly work on the problem displayed on the console.
+blame everything on her mental illness, and do anything else necessary to keep
+Sata safe, even if it meant that Fera would go to prison for years. Kaia began
+to feverishly work on the problem displayed on the console.
 
 She nearly finished with the task when the tendrils started restricting her
 movements and moving up past her shoulder. The tendrils wrapped her neck and
@@ -1113,7 +1113,7 @@ gazed deeply into as many of its eyes as could. Reaching out her hands, she
 began to caress its tentacles. The tentacles began to reciprocate. Kaia was
 blissfully exchanging caresses with the octopus when she had a startling
 thought. "If I'm underwater, how is it that I'm breathing?" Kaia shot up,
-throwing the tentacles off of her, and gasping for air.
+throwing the tentacles off of her and gasping for air.
 
 "It's OK, Kaia," Sata said reassuringly. "You're safe now."
 
