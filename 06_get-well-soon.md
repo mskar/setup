@@ -459,7 +459,7 @@ shirt with the sleeves rolled up. Her long, dark hair was up in a tight bun.
 father. Kaia's father looked very serious in a blue dress shirt and slacks. He
 had a bushy, dark moustache and close-cropped hair.
 
-Kaia was embarrased to see that both of her parents had the top three buttons
+Kaia was embarrassed to see that both of her parents had the top three buttons
 of their shirt undone, revealing her mother's ample cleavage and her father's
 bountiful salt-and-pepper chest hair. Kaia began to look around for places to
 hide, but Zek answered without missing a beat. "I do not believe anyone has
@@ -472,38 +472,162 @@ one is an athlete and the small one is an inventor. What do you do?"
 
 "I am a writer," Zek said proudly.
 
-Vas and Kela cringed. Vas thought of a potential redeeming quality. "Are you at
+Kela and Vas cringed. Vas thought of a potential redeeming quality. "Are you at
 least rich like the other two?"
 
 "Unfortunately, I am not, but I am quite successful as a writer and
-performer. I would like to invite you to two upcoming performances by my
-performance group, so that you can see for yourselves."
+performer. I would like to invite you to two of my upcoming performances, so
+that you can see for yourselves."
 
-Kela leaned towards Kaia and whispered in her ear. "Focus on the other
+Kela leaned towards Kaia, but did not bother whispering. "Focus on the other
 two. There's no point in chasing after a starving artist."
 
-Kaia was very relieved when Sata and Ursa got off the roller coaster and joined
-them.
+Zek smiled politely, but he absolutely heard what Kela said. Kaia was very
+relieved when Sata and Ursa got off the roller coaster and joined them.
 
 Seeing Sata, Kela was very suspicious. "Why are you and Sata wearing matching
 outfits? Is this some kind of hideous new fashion?"
 
 Ben looked very nervous. "If you recall, I did explain that Kaia and Sata were
-attacked and hospitalized."
+attacked and seriously injured."
 
 Kela crossed her arms. "You also said that they made a miraculous recovery, but
 you didn't say anything about taking us to a carnival."
 
 "I am as surprised as you are regarding the carnival," Ben said before looking
-at Sata.
+at Kaia and Sata.
 
 "You said that we could order whatever we wanted!" Sata protested.
 
 Ben raised his palms up and said, "Yes and I meant it."
 
-"Are you the one bankrolling all of this?" Kela asked, taking Ben's arm.
+"Are you the one bankrolling all of this?" Kela asked, smiling warmly at Ben.
+
+When Ben nodded, Kela's smile disappeared and she said, "So you can afford a
+carnival, but do not have enough money to get decent clothes for the girls."
+
+Ben realized he had walked into a trap. "Kaia and Sata, please order a change
+of clothes for yourselves."
+
+"With proper shoes and stockings." Kela added. "Young ladies cannot be walking
+around in socks."
+
+"Yes, please feel free to order a set of everyday clothes and another set of
+formal clothes for the remembrance ceremony this evening." Ben decided to make
+an expeditious exit before being forced to agree to any further
+requests. "Speaking of the remembrance ceremony, there are urgent matters to
+which I must attend. Please enjoy the carnival in my absence."
+
+After Ben and Edl left, Kaia's parents seemed to lose interest in everyone
+else.
+
+"Have you had anything to eat since you arrived?" Zek asked.
+
+"No, but surely you aren't going to suggest we eat this dreadful carnival
+food," Kela said disapprovingly.
+
+"Kaia, would it be alright if I showed your parents the VIP food options while
+you enjoy the carnival with Sata and Ursa?" Zek asked.
+
+Kaia felt very grateful to Zek and nodded meekly. After Zek led Kela and Vas to
+the infirmary yurt, Kaia let out a sigh of relief.
+
+Sata immediately launched into an impression of Kela. "Kaia, darling, that
+patient gown is positively repulsive."
+
+"You missed the part where they were giving me advice on which of the boys I
+should pursue."
+
+"What did they advise?" Ursa asked.
+
+"Rich athletes and inventors are good husband material, but poor writers are
+not," Kaia summarized. "I wish my parents wouldn't criticize everything and
+everyone."
+
+"Do you think ordering clothes and trying some of this dreadful carnival food
+might take your mind of your parents?"
+
+"That sounds nice," Kaia agreed.
+
+After finding a console and ordering clothes, the girls went to a nearby fried
+dough stand. Kaia was impressed with the many different forms fried dough could
+take: Balls, bow-ties, braids, discs, pillows, pretzels, ribbons, rings, rods,
+rosettes, tubes, and twists, among others. Each shape was fried separately and
+then mixed together in a paper bowl that soaked up some of the excess oil. The
+diversity of available toppings was even more impressive than the assortment of
+fried dough shapes. Kaia kept adding cinnamon sugar, whipped cream, chocolate
+syrup, and assorted fruits until it was impossible to see any fried dough in
+her bowl. Topping it all with a mountain of powdered sugar, Kaia went a little
+overboard and sneezed after inhaling sucrose aerosols.
+
+"Your sneeze is so cute. It's like a mouse squeak," Ursa said with a warm
+smile.
+
+Kaia stabbed blindly into her bowl with her fork and retrieved a random piece
+of fried dough and the toppings that happened to be stuck to it.
+
+"It's so good," Kaia said with her mouth full.
+
+"Slow down there, champ, you got whipped cream on your nose," Sata said
+pointing at Kaia's nose.
+
+"Where?" Kaia asked after swallowing and searching her nose in vain.
+
+Sata smeared whipped cream on Kaia's nose and said, "Right here!"
+
+Ursa laughed and asked, "How long were you waiting with whipped cream on your
+finger just to do that?"
+
+"Every second was worth it!" Sata proclaimed triumphantly.
+
+Kaia smiled and reached for a napkin, but Sata stopped her.
+
+"Let me help," Sata said before licking the whipped cream off Kaia's nose.
+
+Kaia laughed and exclaimed, "Gross!"
+
+Sata passed Kaia a napkin. "You have to admit that you are feeling better
+though, right?"
+
+Kaia took the napkin and wiped her nose. "You're right, I do feel better."
+
+"You two are so perfect together. I'm jealous," Ursa said.
+
+"Why are you jealous, aren't you with Zok?" Sata asked.
+
+"He's more interested in Lan than in me," Ursa explained.
+
+Sata put her hand Ursa's shoulder and asked, "Maybe we can find Iona and have
+'girls night out'?"
+
+"Yeah, that sounds good. Let's send Iona a message to meet us at the high
+striker game." Ursa said before pointing at tower of pulsing lights with a
+large sign showing "FF" at the top. "It's easily visible from anywhere in the
+yurt."
+
+After leaving the message for Iona, the girls went to test their strength in
+the high striker game.
+
+"What does FF stand for?" Sata asked.
+
+Ursa shrugged. "It's usually Iona who explains these things."
+
+"It's like the numbering in the locker room," Kaia observed. "The numbers start
+at zero and then turn into letters."
+
 
 ...
+
+Kaia tried to lift the hammer, but gave up. Sata managed to get a score of
+"0G". Ursa struck the bell at the top and got a score of "FF".
+
+- order clothes
+- call Iona and ask her to join them for carnival games
+- Iona meets the other girls meet at the high striker game
+- Clothes arrive
+- change into formal clothes for remembrance ceremony
+- remembrance ceremony
+- say farewell to Iona and Ursa
 
 Ben and Edl bring Kaia's parents to her after locating her with a robotic
 birds. Kaia's parents are excited that she is surrounded by boys: Edl is
