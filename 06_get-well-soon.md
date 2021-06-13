@@ -438,8 +438,70 @@ for you to simply decide to no longer be an Echo."
 
 "I would absolutely quit being an Echo if I could," Kaia admitted.
 
-While Sata and Ursa rode the roller coaster again and again, Ben and Edl led
-Kaia's parents to the spot where Kaia and Zek were standing.
+_Zek seems to be taking it pretty well. I thought he was obsessed with training
+me to use my Echo powers._ Kaia thought while watching Sata and Ursa ride the
+roller coaster.
+
+"Greetings, Kaia and Zek!" Ben said. "Edl and I decided to personally escort
+your parents to you, Kaia." Kaia was not to all that happy with the surprise
+visit from her parents, but suppressed the urge to run and even managed to
+smile.
+
+Kaia's mother rushed up to her daughter. "Kaia, it's so nice to see you
+surrounded by handsome boys, but didn't you have anything else to wear?"
+
+Kaia suddenly became very conscious that she was wearing a patient gown in a
+carnival setting. In contrast to her daughter, Kaia's mother always looked very
+elegant. She was wearing a black skirt and a red sweater over a white button-up
+shirt with the sleeves rolled up. Her long, dark hair was up in a tight bun.
+
+"So, which one of these strapping young lads is the lucky man?" asked Kaia's
+father. Kaia's father looked very serious in a blue dress shirt and slacks. He
+had a bushy, dark moustache and close-cropped hair.
+
+Kaia was embarrased to see that both of her parents had the top three buttons
+of their shirt undone, revealing her mother's ample cleavage and her father's
+bountiful salt-and-pepper chest hair. Kaia began to look around for places to
+hide, but Zek answered without missing a beat. "I do not believe anyone has
+been declared the victor. We are all still vying for your daughter's
+affection." Then, bowing deeply, Zek added, "My name is Zekianrov Lazarus."
+
+"I am Vasdefren Argolys, and my wife is Kelaailaiala Erkadia," Kaia's father
+rasped. "So what makes you think you are good enough for our daughter? The big
+one is an athlete and the small one is an inventor. What do you do?"
+
+"I am a writer," Zek said proudly.
+
+Vas and Kela cringed. Vas thought of a potential redeeming quality. "Are you at
+least rich like the other two?"
+
+"Unfortunately, I am not, but I am quite successful as a writer and
+performer. I would like to invite you to two upcoming performances by my
+performance group, so that you can see for yourselves."
+
+Kela leaned towards Kaia and whispered in her ear. "Focus on the other
+two. There's no point in chasing after a starving artist."
+
+Kaia was very relieved when Sata and Ursa got off the roller coaster and joined
+them.
+
+Seeing Sata, Kela was very suspicious. "Why are you and Sata wearing matching
+outfits? Is this some kind of hideous new fashion?"
+
+Ben looked very nervous. "If you recall, I did explain that Kaia and Sata were
+attacked and hospitalized."
+
+Kela crossed her arms. "You also said that they made a miraculous recovery, but
+you didn't say anything about taking us to a carnival."
+
+"I am as surprised as you are regarding the carnival," Ben said before looking
+at Sata.
+
+"You said that we could order whatever we wanted!" Sata protested.
+
+Ben raised his palms up and said, "Yes and I meant it."
+
+"Are you the one bankrolling all of this?" Kela asked, taking Ben's arm.
 
 ...
 
