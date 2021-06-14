@@ -613,8 +613,16 @@ the high striker game.
 Ursa shrugged. "It's usually Iona who explains these things."
 
 "It's like the numbering in the locker room," Kaia observed. "The numbers start
-at zero and then turn into letters."
+at zero and then turn into letters when the numbers run out."
 
+"10 numbers and 6 letters," Sata counted.
+
+"There are 2 digits, so it's 16 squared. 16 times 10 is 160 and 16 times 6 is
+96. 160 plus 96 is 256," Kaia calculated.
+
+"How do you fit such a big brain in such a tiny, cute head?" Sata marveled.
+
+"This is a test of strength, not brains!" Ursa exclaimed.
 
 ...
 
