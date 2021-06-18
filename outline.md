@@ -832,21 +832,61 @@ civilizations? Does it slaughter everyone in refugee camp? No, the mimic child
 becomes a conduit for the nearby nascent mimic civilization. More on this
 later).
 
-After Kaia sees that Arla and Lan are dead, she has a vision but the octoculus
-saves her again and guides her to a hiding scientist. The scientist takes Kaia
-to see the octoculus and explains that it originated from the cosmic message
-that also brought the mimics to Earth. Raf holds the scientist captive and
-demands to know the reason why mimics were brought to Earth and the purpose of
-mimickind. Raf threatens the scientist with a scalpel and then when the
-scientist is not intimidated, Raf brings in the mimic warrior. Raf backs down
-when the scientist mentions the octoculus. Raf says that he heard about the
-octoculus in the fragments of the message that his people had. The scientist
-said that they were not able to decode enough of the message to understand much
-about the octoculus. Kaia lets the octoculus connect with her and receives
-cosmic visions. The octoculus latches onto Kaia's shoulder and wraps its
-tentacles around her body. When Kaia and Raf regroup with the other
+After Kaia sees that Arla and Lan are dead, Kaia cries and feels that all of
+Mars is crying with her. As Kaia wept, the souls wept with her. Kaia wept and
+the souls wept. Kaia has a vision, but the octoculus saves her again and guides
+her to a hiding scientist. The scientist is an attractive young woman. The
+scientist takes Kaia to see the octoculus and explains that it originated from
+the cosmic message that also brought the mimics to Earth. Overwhelmed with
+sorrow, Kaia touches the octoculus as a means of escaping reality and as
+expected she starts to feel elated and ecstatic drifting in a blue ocean of
+calm. Kaia unzips her jumpsuit and the octoculus crawls under clothes to
+maximize contact surface area. Kaia lets the octoculus connect with her and
+receives cosmic visions. The octoculus latches onto Kaia's shoulder and wraps
+its tentacles around her body. The scientist becomes very aroused because of
+his psychic connection with the octoculus. Kaia considers killing the
+scientist, but she stops caring about reality. After their connection is
+complete, the octoculus confides in Kaia that it had Arla and Lan captured to
+try to lure Kaia to the lab so she could find the octoculus. Kaia feels
+betrayed and is momentarily overwhelmed by negative emotions, but the octoculus
+is able to replace the negative feelings with pleasurable sensations. The
+octoculus did not know that Arla and Lan would be killed. The scientist
+confesses to helping the octoculus arrange the capture of Arla and Lan in
+exchange for pleasure. The octoculus learned that the scientist enjoys tentacle
+pornography and created personalized fantasies for the scienist using GANs to
+generated images and videos and refined the porn collection using its psychic
+connection with the scientist. The scientist says that the goal was just to
+bring Kaia to the lab and that the deaths of Arla and Lan were a tragedy. The
+scientist expressed regret for Kaia's loss and asks if she can hug Kaia. Under
+the influence of octoculus, Kaia agrees and is surprised how much she enjoys
+the hug. The scientist explains that she is wearing an octoculus clone made by
+the octoculus for the scientist to wear. The scientist and Kaia bond via
+physical contact and Kaia feels the scientist's loneliness and identifies with
+her.
+
+Raf comes looking for Kaia and threatens to have the mimic child kill the
+scientist, but Kaia stops him. Raf demands to know the reason why mimics were
+brought to Earth and the purpose of mimickind. Raf is desperate for some reason
+to justify the suffering of mimickind and some way to rationalize the deaths of
+Arla and Lan. The scientist is terrified of the mimic warrior and begs Raf to
+spare him. The scientist says that she can help Raf decode the cosmic
+message. Raf backs down because he realizes that the cosmic message might
+contain the answers he seeks. Kaia says that the answer is obvious. She says
+that the octoculus made it clear to her that the cosmic message is an attempt
+to covertly take control of planets the receive the message. The purpose of
+mimics is therefore to learn from and ultimately replace humans. Raf doesn't
+want to believe that the fears of humans are realistic and that he is part of
+an invasion effort. The scientist backs up what Kaia is saying but suggests
+that Raf can choose his own destiny and use the information from the message
+however he prefers. Raf decides to spare the scientist in exchange for help
+with transporting and later decoding the message. Raf says that he heard about
+the octoculus in the fragments of the message that his people had. The
+scientist said that they were not able to decode enough of the message to
+understand much about the octoculus. When Kaia and Raf regroup with the other
 protagonists, Kaia tells them not to ask questions about the octoculus on her
 shoulder.
+
+END OF BOOK 1
 
 When they go out through the cave, they see that the Subaks left them a
 submarine as planned, but then the submarine is destroyed by an airstrike and
