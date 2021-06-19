@@ -790,65 +790,63 @@ Kaia.
 
 - 11: A touching reunion
 
-Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Kaia, Sata, and Raf live in the
-Lunker city while planning to rescue Arla and Lan. They see Fera is preparing
-an army to fight against the government and believe her when she says that she
-had nothing to do with Arla and Lan's kidnapping. They agree to let Fera and
-Eiva join them on the rescue mission. Fera recruits Luma, a Subak princess, to
-help them gain access to the castle via the Vistula river, the protagonists use
-scuba diving equipment to infiltrate Kraków via the Vistula river to avoid the
-World Heritage robots. The Subaks escort them in the water but refuse to
-continue on to dry land. The protagonists pass the Wawel Dragon and enter the
-castle through its cave. Inside the government facility, they move stealthily.
-The protagonists are bathed in spotlights and surrounded by heavily armed
-soldiers. They surrender and are shocked into submission but when Kaia sees
-Sata being shocked and is shocked herself, she has a vision of the Pulverulent
-Goddess and destroys all of the soldiers' weapons and powersuits killing them
-all. Everyone is impressed with Kaia's power, but Kaia is horrified by what she
-did. Ben is scientifically interested in Kaia's power. Eiva says that Kaia's
-power would have changed the outcome of the Dextrae-Sinistrae war. As they
-search for Lan and Arla, they are attacked by GES. Kaia blinds the GES but they
-find their opponents with echolocation and use screams to incapacitate anyone
-within range. When they scream, they cannot use echolocation, because they have
-to close their sensitive ears. Kaia, Sata, and Raf find a child covered in
-blood who looks exactly like Lan. They find Lan's body and see that Lan
-recently gave birth to the child who is a mimic warrior. Zok breaks down crying
-when he sees Lan. Lan had been starved for a long time, his skin was black, his
-membranes was extended to catch the light, and his feet had sprouted roots. Lan
-had been partially eaten by the mimic child. The blood covering the child was
-Lan's. Raf says that it should be impossible for Lan to produce a mimic warrior
-in such a short time and that the child is because of government experiments.
-The child looks exactly like a childlike mix of Lan and Zok. They take the
-child with them, but Raf tells them not to become attached to the child because
-it only lives to kill (despite this Raf has trouble following his own advice
-and eventually becomes very attached to the child). Mimic warriors are
-genderless and cannot reproduce. The child would never learn to speak or
-develop intelligence and therefore they should not give it a name (Does the
-nameless child develop intelligence and learn to speak? Does it become a
-non-binary character? Anything is possible right? Maybe with tech the mimic
-warrior can become intelligent. Does the mimic warrior develop into a
-hermaphrodite parasite thanks to the messages sent by distant mimic
-civilizations? Does it slaughter everyone in refugee camp? No, the mimic child
-becomes a conduit for the nearby nascent mimic civilization. More on this
-later).
+Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Pyr, Kaia, Sata, and Raf live in
+the Lunker city while planning to rescue Arla and Lan. They see Fera is
+preparing an army to fight against the government and believe her when she says
+that she had nothing to do with Arla and Lan's kidnapping. They agree to let
+Fera and Eiva join them on the rescue mission. Fera convinces Luma, a Subak
+princess, to help them gain access to the castle via the Vistula river, the
+protagonists use scuba diving equipment to infiltrate Kraków via the Vistula
+river to avoid the World Heritage robots. The Subaks escort them in the water
+but refuse to continue on to dry land. The protagonists pass the Wawel Dragon
+and enter the castle through its cave. Inside the government facility, they
+move stealthily. The protagonists are bathed in spotlights and surrounded by
+heavily armed soldiers. They surrender and are shocked into submission but when
+Kaia sees Sata being shocked and is shocked herself, she has a vision of the
+Pulverulent Goddess and destroys all of the soldiers' weapons and powersuits
+killing them all. Everyone is impressed with Kaia's power, but Kaia is
+horrified by what she did. Ben is scientifically interested in Kaia's
+power. Eiva and Unoa say that Kaia's power would have changed the outcome of
+the Dextrae-Sinistrae war. As they search for Lan and Arla, they are attacked
+by GES. Kaia blinds the GES but they find their opponents with echolocation and
+use screams to incapacitate anyone within range. When they scream, they cannot
+use echolocation, because they have to close their sensitive ears. Kaia, Sata,
+and Raf find a child covered in blood who looks exactly like Lan. They find
+Lan's body and see that Lan recently gave birth to the child who is a mimic
+warrior. Zok breaks down crying when he sees Lan. Lan had been starved for a
+long time, his skin was black, his membranes was extended to catch the light,
+and his feet had sprouted roots. Lan had been partially eaten by the mimic
+child. The blood covering the child was Lan's. Raf says that it should be
+impossible for Lan to produce a mimic warrior in such a short time and that the
+child is the result of government experiments. The child looks exactly like a
+childlike mix of Lan and Zok. They take the child with them, but Raf tells them
+not to become attached to the child because it only lives to kill (despite this
+Raf has trouble following his own advice and eventually becomes very attached
+to the child). Mimic warriors are genderless and cannot reproduce. The child
+would never learn to speak or develop intelligence and therefore they should
+not give it a name (Does the nameless child develop intelligence and learn to
+speak? Yes. Does it become a non-binary character? Yes. Anything is possible
+right? Yes. The mimic child becomes a conduit for the nearby nascent mimic
+civilization. More on this later).
 
 After Kaia sees that Arla and Lan are dead, Kaia cries and feels that all of
 Mars is crying with her. As Kaia wept, the souls wept with her. Kaia wept and
 the souls wept. Kaia has a vision, but the octoculus saves her again and guides
-her to a hiding scientist. The scientist is an attractive young woman. The
-scientist takes Kaia to see the octoculus and explains that it originated from
-the cosmic message that also brought the mimics to Earth. Overwhelmed with
-sorrow, Kaia touches the octoculus as a means of escaping reality and as
-expected she starts to feel elated and ecstatic drifting in a blue ocean of
-calm. Kaia unzips her jumpsuit and the octoculus crawls under clothes to
-maximize contact surface area. Kaia lets the octoculus connect with her and
-receives cosmic visions. The octoculus latches onto Kaia's shoulder and wraps
-its tentacles around her body. The scientist becomes very aroused because of
-his psychic connection with the octoculus. Kaia considers killing the
-scientist, but she stops caring about reality. The octoculus learned that the
-scientist enjoys tentacle pornography and created personalized fantasies for
-the scienist using GANs to generated images and videos and refined the porn
-collection using its psychic connection with the scientist.
+her to a hiding scientist. The scientist is an attractive young woman with long
+dark hair and a white lab coat over a dress shirt, tie, blouse, black pants,
+and long boots. The scientist takes Kaia to see the octoculus and explains that
+it originated from the cosmic message that also brought the mimics to
+Earth. Overwhelmed with sorrow, Kaia touches the octoculus as a means of
+escaping reality and as expected she starts to feel elated and ecstatic
+drifting in a blue ocean of calm. Kaia unzips her jumpsuit and the octoculus
+crawls under clothes to maximize contact surface area. Kaia lets the octoculus
+connect with her and receives cosmic visions. The octoculus latches onto Kaia's
+shoulder and wraps its tentacles around her body. The scientist becomes very
+aroused because of his psychic connection with the octoculus. Kaia considers
+killing the scientist, but she stops caring about reality. The octoculus
+learned that the scientist enjoys tentacle pornography and created personalized
+fantasies for the scienist using GANs to generated images and videos and
+refined the porn collection using its psychic connection with the scientist.
 
 Raf comes looking for Kaia and threatens to have the mimic child kill the
 scientist, but Kaia stops him. Raf demands to know the reason why mimics were
@@ -894,8 +892,9 @@ Arla and Lan were a tragedy. The scientist expresses regret for Kaia's loss and
 asks if she can hug Kaia. Under the influence of octoculus, Kaia agrees and is
 surprised how much she enjoys the hug. The scientist explains that she is
 wearing an octoculus clone made by the octoculus for the scientist to wear. The
-scientist and Kaia bond via physical contact and Kaia feels the scientist's
-loneliness and identifies with her.
+octoculus clone is hidden under the scientist's long hair. The scientist and
+Kaia bond via physical contact and Kaia feels the scientist's loneliness and
+identifies with her.
 
 Fera says that she wants to do whatever it takes to fight back and escape, even
 if it means forcing Kaia to use her powers. Ben agrees and tries to shock Kaia
@@ -955,7 +954,7 @@ before she and her friends are rescued and that Kaia should at least accept the
 some of comfort that the Goddess can provide. Weakened from the explosion, the
 electric shocks, and overwhelmed with negative emotions, Kaia eventually
 accepts the comfort provided by the Pulverulent Goddess. The Goddess wraps Kaia
-into her metallic tendrils and sings a Martian lullaby as Kaia drifts off into
+into her metallic tendrils and sings an ancient lullaby as Kaia drifts off into
 unconsciousness.
 
 Dookoła noc się stała,
