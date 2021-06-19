@@ -126,7 +126,7 @@ set ignorecase
 set smartcase
 
 set fileformats=unix,dos,mac
-set nrformats=alpha,bin,unsigned
+set nrformats=alpha
 set formatoptions=croqj
 
 if exists('$SHELL')
