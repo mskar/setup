@@ -845,24 +845,10 @@ maximize contact surface area. Kaia lets the octoculus connect with her and
 receives cosmic visions. The octoculus latches onto Kaia's shoulder and wraps
 its tentacles around her body. The scientist becomes very aroused because of
 his psychic connection with the octoculus. Kaia considers killing the
-scientist, but she stops caring about reality. After their connection is
-complete, the octoculus confides in Kaia that it had Arla and Lan captured to
-try to lure Kaia to the lab so she could find the octoculus. Kaia feels
-betrayed and is momentarily overwhelmed by negative emotions, but the octoculus
-is able to replace the negative feelings with pleasurable sensations. The
-octoculus did not know that Arla and Lan would be killed. The scientist
-confesses to helping the octoculus arrange the capture of Arla and Lan in
-exchange for pleasure. The octoculus learned that the scientist enjoys tentacle
-pornography and created personalized fantasies for the scienist using GANs to
-generated images and videos and refined the porn collection using its psychic
-connection with the scientist. The scientist says that the goal was just to
-bring Kaia to the lab and that the deaths of Arla and Lan were a tragedy. The
-scientist expressed regret for Kaia's loss and asks if she can hug Kaia. Under
-the influence of octoculus, Kaia agrees and is surprised how much she enjoys
-the hug. The scientist explains that she is wearing an octoculus clone made by
-the octoculus for the scientist to wear. The scientist and Kaia bond via
-physical contact and Kaia feels the scientist's loneliness and identifies with
-her.
+scientist, but she stops caring about reality. The octoculus learned that the
+scientist enjoys tentacle pornography and created personalized fantasies for
+the scienist using GANs to generated images and videos and refined the porn
+collection using its psychic connection with the scientist.
 
 Raf comes looking for Kaia and threatens to have the mimic child kill the
 scientist, but Kaia stops him. Raf demands to know the reason why mimics were
@@ -886,8 +872,6 @@ understand much about the octoculus. When Kaia and Raf regroup with the other
 protagonists, Kaia tells them not to ask questions about the octoculus on her
 shoulder.
 
-END OF BOOK 1
-
 When they go out through the cave, they see that the Subaks left them a
 submarine as planned, but then the submarine is destroyed by an airstrike and
 the cave entrance is surrounded by giant robots. A soldier with a gigaphone
@@ -895,20 +879,104 @@ tells them surrender or they will be destroyed. The protagonists retreat back
 into the cave and try to come up with a plan. Everyone tries to convince Kaia
 to use her power, but she does not want to kill anyone else. She is still
 shocked by the fact that Arla and Lan are dead. The octoculus gives her calming
-visions and chemical support. Ben tries to shock Kaia with his stunStaffs, but
-the Iona, Ursa, Zek, and Zok stop him. The protagonists fight (Ben, Edl, Fera
-and Eiva vs. Ursa, Iona, Zek, and Zok). Zek blinds Edl, but the Sinistrae are
-still able to overpower the Dextrae, because Zek cannot blind them and the
-Sinistrae sap the strength of Zok, Ursa, and Iona. Ursa and Zok are not able to
-wield energy effectively. The blows they land are absorbed by the bone armor
-that Eiva and Fera wear. Zek tries to land a blow with his knives and snakes,
-but Eiva and Fera are stronger and faster. While everyone is distracted, Ben
-uses one of his stunStaffs on Kaia and studies her response. Edl holds Sata and
-Raf back, because Ben told him to do so. Sata cries as Kaia is shocked
-repeatedly. The stunStaff explodes, blowing off Ben's hand. Kaia, as the
-Pulverulent Goddess, destroys all of the giant robots and the protagonists are
-buried inside the cave when the entrance collapses from the explosions caused
-by detonating fuel cells of the giant robots.
+visions and chemical support.
+
+Ben says that he deduced that the scientist and the octoculus arranged for Arla
+and Lan to be captured, and tried to have Raf captured too, but failed. The
+octoculus confirms that it had Arla and Lan captured to try to lure Kaia to the
+lab so she could find the octoculus. Kaia feels betrayed and is momentarily
+overwhelmed by negative emotions, but the octoculus is able to replace the
+negative feelings with pleasurable sensations. The octoculus did not know that
+Arla and Lan would be killed. The scientist confesses to helping the octoculus
+arrange the capture of Arla and Lan in exchange for pleasure. The scientist
+says that the goal was just to bring Kaia to the lab and that the deaths of
+Arla and Lan were a tragedy. The scientist expresses regret for Kaia's loss and
+asks if she can hug Kaia. Under the influence of octoculus, Kaia agrees and is
+surprised how much she enjoys the hug. The scientist explains that she is
+wearing an octoculus clone made by the octoculus for the scientist to wear. The
+scientist and Kaia bond via physical contact and Kaia feels the scientist's
+loneliness and identifies with her.
+
+Fera says that she wants to do whatever it takes to fight back and escape, even
+if it means forcing Kaia to use her powers. Ben agrees and tries to shock Kaia
+with his stunStaffs, but Iona, Ursa, Zek, and Zok stop him. Zek blinds Ben and
+Edl and the remaining protagonists fight (Ben, Edl, Fera, Eiva, and Unoa
+vs. Ursa, Iona, Zek, and Zok). Raf, Sata, and the scientist do not fight. The
+Sinistrae are able to overpower the Dextrae, because Zek cannot blind them and
+the Sinistrae sap the strength of Zok, Ursa, and Iona. Ursa and Zok are not
+able to wield energy effectively. The blows that Ursa and Zok land are absorbed
+by the bone armor that Eiva and Fera wear. Zek tries to strike the Sinistrae
+with his poisoned knives and poisonous snakes, but Eiva, Fera, and Unoa are
+stronger and faster. Fera knocks Zek out by hitting him in the head with the
+pommel of one of her bone knives. The Sinistrae hold Ursa, Zok, Sata, Raf, and
+the scientist at knife point to allow Ben to proceed with shocking Kaia.
+
+After regaining his vision, Ben uses one of his stunStaffs on Kaia and studies
+her response. The octoculus detaches from Kaia to avoid the repeated shocks and
+crawls over to the scientist. The scientist suffers through her psychic link
+with Kaia. Sata cries as Kaia is shocked repeatedly The mimic child tries to
+attack Ben with its retractable teeth and claws to prevent Ben from shocking
+Kaia, but Edl stops it. The mimic child uses its retractable claws and teeth to
+slash and bite Edl. The wounds that Edl suffers reveal that he is a cyborg. Edl
+breaks the mimic child's arms and throws it to the ground. Zok begs Fera to let
+him go to the child. Even though Raf says that the child has no emotions,
+cannot feel pain, and will not care what Zok does, Fera lets Zok go with a
+warning not to interfere with Ben. Zok rushes to comfort the child. The child
+bonds with Zok, cries, and calls him "Daddy". Raf is surprised by the mimic
+child's behavior, because mimic warriors should not be able to speak or display
+any emotion. Raf cries at the thought that the mimic child might have felt the
+pain and loss of Lan being killed.
+
+Ben increases the voltage setting on the stunStaff and shocks Kaia again. The
+stunStaff explodes, blowing off Ben's hand. Kaia, as the Pulverulent Goddess,
+cannot lash out against the Sinistrae, because they are immune to her powers,
+and instead blinds and disorients Ben and Edl, and then destroys all of the
+giant robots. Edl uses his body to shield Ben and Kaia from the exploding giant
+robot fuel cells. The protagonists are buried inside the cave when the entrance
+collapses from the explosions caused by detonating fuel cells of the giant
+robots.
+
+Epilogue
+
+In the darkness, Kaia starts to recover from the explosion and searches in vain
+for anyone else or the octoculus. The Pulverulent Goddess appears to Kaia in a
+vision to say that Kaia should stop resisting her. The Pulverulent Goddess says
+that she could have helped Kaia protect herself and her friends. Kaia replies
+that she does not want to use her Echo powers. The Pulverulent Goddess says
+that Kaia's future will not be easy and that things will only be worse without
+the Goddess's help. When Kaia asks about her future, the Goddess replies that
+she believes that sooner or later Kaia will fulfill her destiny by restoring
+Mars and Thelus, but that all possible outcomes involve a substantial amount of
+suffering. Kaia decides that she will continue to resist. The Pulverulent
+Goddess says she has learned to degrade Sinistrae and that the visions and
+dreams will return and eventually force Kaia to fulfill her destiny. Kaia says
+that she will find a way to resist. The Goddess says that it may be a long time
+before she and her friends are rescued and that Kaia should at least accept the
+some of comfort that the Goddess can provide. Weakened from the explosion, the
+electric shocks, and overwhelmed with negative emotions, Kaia eventually
+accepts the comfort provided by the Pulverulent Goddess. The Goddess wraps Kaia
+into her metallic tendrils and sings a Martian lullaby as Kaia drifts off into
+unconsciousness.
+
+Dookoła noc się stała,
+księżyc się rozgościł,
+jeszcze ci nie powiedziałam
+wszystkich słów miłości.
+Jeszcze z tobą nie zdążyłam
+na najdalsze gwiazdy,
+jeszcze ci nie wymyśliłam
+najpiękniejszej nazwy.
+Ale teraz z moich ramion
+zrobię ci kołyskę,
+niech cię, miła, nie poranią
+leśne trawy niskie.
+A ty śpij, a ty śpij,
+zanurz się w noc ciemną,
+a ty śnij, a ty śnij,
+śnij, że jesteś ze mną.
+
+END OF BOOK 1
+
 
 - 12: Honesty is the best policy
 

@@ -173,7 +173,8 @@ preserve-"
 
 Zek gleefully interrupted Ben. "Only the super rich can afford to scend. The
 rest of us are going nowhere when we die, so can have fun without worrying
-about the digital afterlife."
+about the digital afterlife." Then, Zek muttered a phrase from a long-dead
+language, "Hulaj dusza, piekła nie ma."
 
 Ben was clearly trying to remain calm and composed, despite being quite
 upset. "It is not a question of money. We have the required equipment here on
