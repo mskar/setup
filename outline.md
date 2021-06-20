@@ -853,22 +853,38 @@ scientist, but Kaia stops him. Raf demands to know the reason why mimics were
 brought to Earth and the purpose of mimickind. Raf is desperate for some reason
 to justify the suffering of mimickind and some way to rationalize the deaths of
 Arla and Lan. The scientist is terrified of the mimic warrior and begs Raf to
-spare him. The scientist says that she can help Raf decode the cosmic
+spare her. The scientist says that she can help Raf decode the cosmic
 message. Raf backs down because he realizes that the cosmic message might
 contain the answers he seeks. Kaia says that the answer is obvious. She says
-that the octoculus made it clear to her that the cosmic message is an attempt
-to covertly take control of planets the receive the message. The purpose of
-mimics is therefore to learn from and ultimately replace humans. Raf doesn't
-want to believe that the fears of humans are realistic and that he is part of
-an invasion effort. The scientist backs up what Kaia is saying but suggests
-that Raf can choose his own destiny and use the information from the message
-however he prefers. Raf decides to spare the scientist in exchange for help
-with transporting and later decoding the message. Raf says that he heard about
-the octoculus in the fragments of the message that his people had. The
-scientist said that they were not able to decode enough of the message to
-understand much about the octoculus. When Kaia and Raf regroup with the other
-protagonists, Kaia tells them not to ask questions about the octoculus on her
-shoulder.
+that the octoculus made it clear to her that the purpose of the cosmic message
+is to be propagated further. The message is an attempt to covertly take control
+of planets that receive the message. The purpose of mimics is therefore to
+learn from and ultimately replace humans and begin to continuously transmit the
+message from Earth as well as colonized worlds.
+
+The message is like a trojan horse containing useful technical information
+including instructions for building nanotechnology like the Sinistrae and
+Dextrae, sentient beings like mimics and octoculuses, and creatures such as the
+bugs used for BugBall. The scientist and Kaia explain that the rationale is
+that even if a civilization distrusts the message, it will eventually build
+everything in the message out of curiosity or hubris and thus ensure its own
+demise. The message is coming multiple places, indicating the message is very
+successful. If the mimics on Earth fail to take over the planet in the next 4
+billion years, then mimics in Andromeda will mount a physical invasion after
+Andromeda collides with the Milky Way.
+
+Raf doesn't want to believe that the fears of humans are realistic and that he
+is part of an invasion effort. The scientist says there is still a great deal
+of the message that they do no understand and suggests that Raf can choose his
+own destiny and use the information from the message however he prefers. Raf
+decides to spare the scientist in exchange for help with transporting and later
+decoding the message. Raf says that he heard about the octoculus in the
+fragments of the message that his people had. The scientist said that they were
+not able to decode enough of the message to understand much about the
+octoculus. The scientist gives each of them copies of the messages and all of
+the work that she and other human scientists have done to decipher and
+understand the message. When Kaia and Raf regroup with the other protagonists,
+Kaia tells them not to ask questions about the octoculus on her shoulder.
 
 When they go out through the cave, they see that the Subaks left them a
 submarine as planned, but then the submarine is destroyed by an airstrike and
@@ -951,11 +967,12 @@ Goddess says she has learned to degrade Sinistrae and that the visions and
 dreams will return and eventually force Kaia to fulfill her destiny. Kaia says
 that she will find a way to resist. The Goddess says that it may be a long time
 before she and her friends are rescued and that Kaia should at least accept the
-some of comfort that the Goddess can provide. Weakened from the explosion, the
-electric shocks, and overwhelmed with negative emotions, Kaia eventually
-accepts the comfort provided by the Pulverulent Goddess. The Goddess wraps Kaia
-into her metallic tendrils and sings an ancient lullaby as Kaia drifts off into
-unconsciousness.
+some of comfort that the Goddess can provide. The Goddess says the Kaia can
+continue resisting after the Goddess helps her through this difficult
+moment. Weakened from the explosion, the electric shocks, and overwhelmed with
+negative emotions, Kaia eventually accepts the comfort provided by the
+Pulverulent Goddess. The Goddess wraps Kaia into her metallic tendrils and
+sings an ancient lullaby as Kaia drifts off into unconsciousness.
 
 Dookoła noc się stała,
 księżyc się rozgościł,
