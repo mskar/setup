@@ -600,29 +600,33 @@ Kaia took the napkin and wiped her nose. "You're right, I do feel better."
 Sata put her hand Ursa's shoulder and asked, "Maybe we can find Iona and have
 'girls night out'?"
 
-"Yeah, that sounds good. Let's send Iona a message to meet us at the high
-striker game." Ursa said before pointing at tower of pulsing lights with a
-large sign showing "FF" at the top. "It's easily visible from anywhere in the
-yurt."
+"Yeah, that sounds good. Let's send Iona a message to meet us over there." Ursa
+said before pointing at tower of pulsing lights with a large sign showing "FF"
+at the top. "It's easily visible from anywhere in the yurt."
 
-After leaving the message for Iona, the girls went to test their strength in
-the high striker game.
-
-"What does FF stand for?" Sata asked.
+"What does FF stand for?" Sata asked on the way to the tower.
 
 Ursa shrugged. "It's usually Iona who explains these things."
 
 "It's like the numbering in the locker room," Kaia observed. "The numbers start
 at zero and then turn into letters when the numbers run out."
 
-"10 numbers and 6 letters," Sata counted.
+"10 numbers and 6 letters, so 16 total." Sata counted.
 
 "There are 2 digits, so it's 16 squared. 16 times 10 is 160 and 16 times 6 is
 96. 160 plus 96 is 256," Kaia calculated.
 
 "How do you fit such a big brain in such a tiny, cute head?" Sata marveled.
 
-"This is a test of strength, not brains!" Ursa exclaimed.
+"This is a test of strength, not brains." Ursa said, pointing at the
+instructions. "We take the mallet and use it to hit the lever as hard as we
+can. The lever sends the puck upwards and if the puck hits the bell at the top,
+we can pick any prize."
+
+"I want the rainbow unicorn!" Sata exclaimed.
+
+"Then, I'll get it for you," Ursa said heroically. Lifting the mallet above her
+head, Ursa brought it down on the lever with tremendous force.
 
 ...
 
