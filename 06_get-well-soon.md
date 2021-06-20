@@ -618,20 +618,127 @@ at zero and then turn into letters when the numbers run out."
 
 "How do you fit such a big brain in such a tiny, cute head?" Sata marveled.
 
-"This is a test of strength, not brains." Ursa said, pointing at the
-instructions. "We take the mallet and use it to hit the lever as hard as we
-can. The lever sends the puck upwards and if the puck hits the bell at the top,
-we can pick any prize."
+"This is a test of strength, not brains." Ursa said after reading the
+instructions on the console attached to the tower. "This game is called Full
+Force. We take the mallet and use it to hit the lever as hard as we can. The
+lever sends the puck upwards and if the puck hits the bell at the top, we can
+pick a prize."
 
-"I want the rainbow unicorn!" Sata exclaimed.
+"There's pink unicorn pegasus cat plush toy!" Sata exclaimed pointing at one of
+the available prizes. "And it comes with a rainbow puke scarf that you can
+attach to its mouth! I've never wanted anything more in my entire life!"
 
 "Then, I'll get it for you," Ursa said heroically. Lifting the mallet above her
-head, Ursa brought it down on the lever with tremendous force.
+head, Ursa brought it down on the lever with tremendous whack. The puck went up
+to CE.
+
+Kaia was really impressed. "Wow, Ursa! You got it most of the way to the top!"
+
+"That was just a warm-up." Ursa took many large steps back and ran towards the
+tower with the mallet in hand. Then, instead of striking the lever like she did
+before, Ursa ran up the tower, turned around, and pushed off the tower to
+launch herself headfirst toward the lever. In the last second, Ursa brought the
+mallet down on the lever with such force that the impact overcame her downward
+momentum and she flew back up in the air. After striking a cute, confident pose
+upside down in midair, Ursa somersaulted expertly to the ground and then bowed
+as if finishing a performance. "You can pick your prize, Sata," Ursa proclaimed
+triumphantly.
+
+Kaia and Sata were so impressed with the maneuver that they did not notice that
+the puck had hit the bell at the top of the tower. Every light on the tower
+began to flash rapidly. Horns and sirens went off. The "Full Force" logo began
+to dance rapidly on the console screen. Sata squealed with delighted, hop up
+and down, and then hugged Ursa to thank her. The one-horned, winged cat was
+much larger than anyone had expected. "I'm going to name her Kata," Sata
+decided.
+
+"That's like a mix of both your names! I'm overdosing from the cuteness!" Ursa
+exclaimed.
+
+Sata squeezed her prize with all her strength. Upon being squeezed, the cat
+opened her mouth slightly revealing the rainbow scarf, which was rolled up and
+fastened to the floor of the unicorn cat's mouth with 3 buttons. Sata unrolled
+the scarf and wrapped around herself and Kaia. "Now you won't be able to wander
+off," Sata said while grinning from ear to ear.
+
+Kaia immediately knew what Sata had in mind. "It's a scarf, not a leash."
+
+"Are you disappointed?" Sata shifted the unicorn cat to one side and used her
+free hand to bop Kaia on the nose. "I know you are into that kind of thing."
+
+Ursa put her hands on her cheeks. "You two are too sweet! You're going to give
+me hyperglycemia!"
+
+Alternating between holding the Kata and swinging the mallet, Kaia and Sata
+tried to match Ursa's high score. Sata rolled the rainbow scarf back up into
+Kata's mouth, because she and Kaia had both quickly worked up a sweat from
+swinging the mallet. Kaia did not feel safe swinging the mallet above her head
+and never got a higher score than 1B. Sata swung the mallet with confidence and
+fared much better. Her best result was AC.
+
+By the time Iona joined them at the tower, Kaia felt like her arms were about
+to fall off.
+
+Iona was carrying four large packages. "I ordered formal clothes for the
+remembrance ceremony for us. They might not be appropriate for the 'girls night
+out' you mentioned in your message, but you might prefer them over the patient
+gowns you are currently wearing."
+
+The girls opened up one of the packages and inspected the long black gown
+inside. The gown had a large ribbon tied in a bow around the waist and a lace
+collar that transitioned into open heart-shaped neckline
+^[décolletage]. Included in the package were heels, a lace veil, a purse,
+gloves, and hair clips decorated with ribbon bows.
+
+"You got four sets like this one?! It must have cost a fortune!" Kaia
+exclaimed.
+
+"I charged it all to one of the performance club accounts," Iona said, "Our
+marketing budget includes expenses for appearances at widely attended
+gatherings."
+
+On the way back to infirmary yurt, Iona and Ursa each carried two of the
+packages, while while Kaia and Sata took turns carrying Kata. The other three
+girls told Iona about what had happened while she was away. In returned, Iona
+brought everyone up to speed on the situation outside.
+
+"Things have calmed down now, but it was complete pandemonium out there
+earlier. People were carrying off containers of food to hide for later. The
+food and drink stands ran out of food a few times. Fights broke out and several
+people almost got trampled. I think it's so nice of you to provide free food
+for the entire refugee camp, but additional planning would have been
+beneficial. I had my hands full making sure no one was seriously injured."
+
+Sata grimaced nervously and muttered under breath, "Damn you, Tipsy!"
+
+"I'm glad I'm not out there," Kaia admitted, "I don't like crowds."
+
+"It's good that there are going to be just a few people where we're going,"
+Sata said and grinned, "but a two of those people are your parents."
+
+Kaia frowned. "Maybe we can sneak past them? I don't want them criticizing us
+about Kata."
+
+Sata was ready with an impression of Vas. "Aren't you girls too old to be
+playing with dolls?"
+
+Ursa gave the two packages she was carrying to Ursa and then went to help Zek
+distract Vas and Kela.
 
 ...
 
-Kaia tried to lift the hammer, but gave up. Sata managed to get a score of
-"0G". Ursa struck the bell at the top and got a score of "FF".
+Sata's dad arrives during the remembrance ceremony and starts to hit on the
+girls. He doesn't recognize the girls because they are wearing veils. "He might
+not have recognized me even without the veil."
+
+Raf asks Kaia and Sata if they want him to make a real live mimic version of
+Kata for them. Raf explains that it will only take him about two months to
+gestate and then give birth to a one-horned cat with wings that will look
+exactly like Kata. Raf says that unfortunately that the rainbow vomit will not
+be possible, because he does not know of any creature that pukes rainbows. Kaia
+and Sata are a bit weirded out, but they agree nevertheless. Raf says that he
+will talk to Ben about getting the bird, cat, and narwhal dna samples that he
+will need.
 
 - order clothes
 - call Iona and ask her to join them for carnival games
