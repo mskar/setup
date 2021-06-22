@@ -14,9 +14,10 @@ jumped to her feet when she heard Sata calling her name.
 
 "I'm here!" Kaia moved towards the curtain, but stopped when her intravenous
 line became taut and yanked on her hand. Rolling her intravenous infusion pump
-pole behind her, Sata emerged from behind the curtain. Kaia grabbed the
-intravenous line and pulled on it in an attempt to move towards Sata. Sata
-closed the distance and the two girls embraced tenderly.
+pole behind her, Sata emerged from behind the curtain. Like Kaia, Sata was
+wearing a patient gown covered in multicolor polka dots. In an attempt to move
+towards Sata, Kaia grabbed the intravenous line and pulled on it. Sata closed
+the distance and the two girls embraced tenderly.
 
 "I'm so glad you're OK," Kaia said. Sata nodded in agreement. "Me too, but
 isn't it weird?
@@ -334,7 +335,8 @@ decided to go sit in the waiting area near the entrance while they waited for
 the food and refreshments to arrive. They were not able to sit for long before
 people started to arrive and ask them where to set up all of the things that
 they had ordered. When Iona, Ursa, and Zek arrived, there was no more space in
-the waiting area and a line of delivery people stretching outside the yurt.
+the waiting area and a line of delivery people stretched outside the infirmary
+yurt.
 
 "We're so glad to see you're alright!" Ursa said running up to hug them. "We
 tried to come visit you earlier, but the soldiers wouldn't let us inside."
@@ -360,38 +362,28 @@ crustaceans are so delicious, I can understand why fishing is illegal. If we
 could just pull such tasty food straight out of the water ourselves, I'm sure
 they'd all be extinct before long."
 
-Iona returned to gave a status report and then said, "There is a crowd
-gathering outside. Should I let them in?"
+Iona returned to gave a status report. "I was able to organize all of the
+things that you ordered. I had to split the remaining items between a larger
+yurt I connected to this one and the surrounding area. Would you like to take a
+look?"
 
-"We should share this great food with everyone," Kaia said resolutely.
-
-"Hold on, how many people are there?" Sata asked.
-
-"Right now there are few thousand, but the crowd is growing."
-
-"A few thousand?!" Sata exclaimed. "We'll never fit that many people here!"
-
-Iona smiled. "We can reserve this area for your VIP guests, but we connected a
-larger yurt to the infirmary yurt to fit all of the things you ordered. I am
-sure that there is more than enough food and space in other yurt. Would you
-like to take a look?"
-
-Kaia, Sata, Ursa, and Zek followed Iona to the adjacent yurt and felt like they
-were stepping into a different world. Aerial silk and trapeze artists performed
+After disconnecting Kaia and Sata from their intravenous pumps, Iona led Kaia,
+Sata, Ursa, and Zek to the adjacent yurt. Kaia and Sata felt like they were
+stepping into a different world. Aerial silk and trapeze artists performed
 above. Robotic elephants, tigers, lions, and bears roamed in between tables
-replete with food and drink. BabboonButlers stood ready with plates of Hors
+replete with food and drink. BaboonButlers stood ready with plates of hors
 d'oeuvres. A roller coaster snaked along the walls of the yurt.
 
 "Did we really order all of this?"
 
 "Yes, your order included several deluxe circus and carnival packages. I was
-able to fit the smallest roller coaster inside, but there was no way that the
-larger roller coasters or the Ferris wheels could fit inside.
+able to fit the smallest roller coaster inside, but I had to put the larger
+roller coasters and the Ferris wheels outside.
 
 Kaia was honestly blown away by what Iona had been able to do in such a short
 time. "It's OK, Iona, you did a great job."
 
-"Better than great. We could fit the entire refugee camp in here."
+"Better than great. We could fit the entire refugee camp in here," Sata added.
 
 Iona nodded. "Yes, wasn't that what you had in mind when you set up the guest
 list?"
@@ -399,23 +391,24 @@ list?"
 Sata shook her head. "No, we thought it was just going to be the performance
 and maker interest groups."
 
-"You added the ten of us to the VIP list and kept everyone else in the camp on
+"You added the ten people to the VIP list and kept everyone else in the camp on
 the regular guest list," Iona explained.
 
-Sata scratched her head and smiled. "I guess we should let them in since
-they're all invited."
+Sata scratched her head and smiled. "That user interface wasn't very intuitive
+and I think I was a little too quick to trust Tipsy."
 
-After Iona left to take care of the grand opening, Kaia, Sata, Ursa, and Zek
-went for a ride on the roller-coaster. From the vantage point of the roller
-coaster car, they could see the yurt filling with people. After the ride was
-over, there was diversity of opinions. Sata and Ursa raved about the adrenaline
-rush . Zek admitted that he was never a fan of roller coasters. Kaia thought
-she might have like the experience more if she had not tried it for the first
-time with a full stomach.
+While Kaia, Sata, Ursa, and Zek went for a ride on the roller-coaster, Iona
+went to double check the organization of Kaia and Sata's order. From the
+vantage point of the roller coaster car, they could see the yurt filling with
+people. After the ride was over, Sata and Ursa raved about the adrenaline
+rush. Zek admitted that he was never a fan of roller coasters. Kaia thought she
+might have like the experience more if she had not tried it for the first time
+with a full stomach.
 
 When Ursa and Sata asked to go another ride, Kaia and Zek decided to stay on
-the ground. "We were all really worried about you," Zek said shyly, "but it
-appears that you bounced back very quickly."
+the ground. Zek took advantage of the opportunity to chat with Kaia. "We were
+all really worried about you, but it appears that you bounced back very
+quickly."
 
 Kaia looked at the bruises on her arms. "I don't really understand it. Is fast
 healing an ability that Echos have?"
@@ -482,8 +475,8 @@ that you can see for yourselves."
 Kela leaned towards Kaia, but did not bother whispering. "Focus on the other
 two. There's no point in chasing after a starving artist."
 
-Zek smiled politely, but he absolutely heard what Kela said. Kaia was very
-relieved when Sata and Ursa got off the roller coaster and joined them.
+Zek smiled politely, but it was clear he had heard what Kela said. Kaia was
+very relieved when Sata and Ursa got off the roller coaster and joined them.
 
 Seeing Sata, Kela was very suspicious. "Why are you and Sata wearing matching
 outfits? Is this some kind of hideous new fashion?"
@@ -512,11 +505,10 @@ of clothes for yourselves."
 "With proper shoes and stockings." Kela added. "Young ladies cannot be walking
 around in socks."
 
-"Yes, please feel free to order a set of everyday clothes and another set of
-formal clothes for the remembrance ceremony this evening." Ben decided to make
-an expeditious exit before being forced to agree to any further
-requests. "Speaking of the remembrance ceremony, there are urgent matters to
-which I must attend. Please enjoy the carnival in my absence."
+"Yes, please feel free to include whatever you need in each of the two sets of
+clothes." Ben decided to make an expeditious exit before being forced to agree
+to any further requests. "There are urgent matters to which I must attend.
+Please enjoy the carnival in my absence."
 
 After Ben and Edl left, Kaia's parents seemed to lose interest in everyone
 else.
@@ -688,7 +680,7 @@ The girls opened up one of the packages and inspected the long black gown
 inside. The gown had a large ribbon tied in a bow around the waist and a lace
 collar that transitioned into open heart-shaped neckline
 ^[décolletage]. Included in the package were heels, a lace veil, a purse,
-gloves, and hair clips decorated with ribbon bows.
+gloves, stockings, and hair clips decorated with ribbon bows.
 
 "You got four sets like this one?! It must have cost a fortune!" Kaia
 exclaimed.
@@ -697,10 +689,9 @@ exclaimed.
 marketing budget includes expenses for appearances at widely attended
 gatherings."
 
-On the way back to infirmary yurt, Iona and Ursa each carried two of the
-packages, while while Kaia and Sata took turns carrying Kata. The other three
-girls told Iona about what had happened while she was away. In returned, Iona
-brought everyone up to speed on the situation outside.
+On the way back to infirmary yurt, Kaia, Sata, and Ursa told Iona about what
+had happened while she was away. In return, Iona brought everyone up to speed
+on the situation outside.
 
 "Things have calmed down now, but it was complete pandemonium out there
 earlier. People were carrying off containers of food to hide for later. The
@@ -716,14 +707,13 @@ Sata grimaced nervously and muttered under breath, "Damn you, Tipsy!"
 "It's good that there are going to be just a few people where we're going,"
 Sata said and grinned, "but a two of those people are your parents."
 
-Kaia frowned. "Maybe we can sneak past them? I don't want them criticizing us
-about Kata."
+Kaia frowned. "I don't want to hear them criticizing us again. Maybe we can
+sneak past them and hide Kata?"
 
 Sata was ready with an impression of Vas. "Aren't you girls too old to be
 playing with dolls?"
 
-Ursa gave the two packages she was carrying to Ursa and then went to help Zek
-distract Vas and Kela.
+Iona volunteered to distract Vas and Kela, while the other girls sneaked past.
 
 ...
 
