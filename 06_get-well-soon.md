@@ -269,7 +269,8 @@ console.
 "Some food?" Kaia suggested.
 
 Sata sorted the menu by price. "OK, the most expensive items are a rotating
-sushi bar, a churrascaria with rodízio service, and a deluxe seafood buffet."
+sushi bar, a hibachi grill, a churrascaria with rodízio service, and a deluxe
+seafood buffet."
 
 "That's so expensive!" Kaia exclaimed after looking at the price.
 
@@ -705,21 +706,72 @@ Sata grimaced nervously and muttered under breath, "Damn you, Tipsy!"
 "I'm glad I'm not out there," Kaia admitted, "I don't like crowds."
 
 "It's good that there are going to be just a few people where we're going,"
-Sata said and grinned, "but a two of those people are your parents."
+Sata said and grinned, "but two of those people are your parents."
 
-Kaia frowned. "I don't want to hear them criticizing us again. Maybe we can
-sneak past them and hide Kata?"
+Kaia frowned. "I don't want them to criticize us again. Maybe we can sneak past
+them, hide Kata, and change clothes?"
 
 Sata was ready with an impression of Vas. "Aren't you girls too old to be
 playing with dolls?"
 
-Iona volunteered to distract Vas and Kela, while the other girls sneaked past.
+"Don't worry I'm great at sneaking into places undetected. After all, I was a
+spy," Ursa said.
+
+"OK, I will distract Kaia's parents, while you three go and change," Iona
+volunteered.
+
+It turned out that the distraction was not necessary. Iona sat down quietly
+next to Zek at the sushi bar, where Kela and Vas were chatting with Sata's
+parents while imbibing copious amounts of sake. Running out of interesting
+material for conversation, Zek had prompted Kela and Vas to invite Sata's
+parents to join them for sushi, sake, and steak in the infirmary yurt. Both
+pairs of parents were now quite drunk and completely engrossed in their
+conversation.
+
+While Ursa stood guard, Sata and Kaia went behind the cubicle curtains
+surrounding their infirmary beds to change. The girls emerged moments later
+still wearing their patient gowns.
+
+"The clothes we ordered using Ben's account are here," Sata explained.
+
+"Should we change into normal or formal clothes?" Kaia asked.
+
+Ursa thought for a second before responding. "If you want to talk to your
+parents, then change into normal clothes. If you don't, we can slip by wearing
+the formal clothes and go wait for the remembrance ceremony to start."
+
+Kaia and Sata exchanged guilty looks. They would have preferred to avoid
+talking with their parents, but felt bad about sneaking past them again without
+at least saying 'hi'.
 
 ...
+
+"You are finally looking presentable. You might actually have a chance to
+finally secure husbands after all this time."
+
+"After all this time?! We're fourteen!"
+
+"Vas and I were already engaged at your age," Kela responded.
+
+"When I was your age, I had a boyfriend who was paying for all of my expenses,"
+Lita purred.
+
+"I don't really remember when I was their age, too many parties," Don said.
+
+"Kids these days expect to live off their parents forever," Vas grunted.
+
+"Kaia and I are together!" Sata exclaimed. Kaia was shocked and her cheeks
+became flushed.
+
+The proclamation did not have the desired effect.
+
+"Yes, you are always together. It is quite strange."
 
 Sata's dad arrives during the remembrance ceremony and starts to hit on the
 girls. He doesn't recognize the girls because they are wearing veils. "He might
 not have recognized me even without the veil."
+
+"Hey sugar, I bet you have a pretty smile under that veil."
 
 Raf asks Kaia and Sata if they want him to make a real live mimic version of
 Kata for them. Raf explains that it will only take him about two months to
