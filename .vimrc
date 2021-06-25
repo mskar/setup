@@ -780,6 +780,15 @@ imap <c-x>l <plug>(fzf-complete-line)
 imap <c-x>p <plug>(fzf-complete-path)
 imap <c-x>w <plug>(fzf-complete-word)
 
+" https://github.com/junegunn/fzf.vim/issues/865
+" https://github.com/junegunn/fzf.vim/issues/10
+" TODO a for :args
+" TODO c for :changes
+" TODO j for :jumps
+" TODO p for put into register
+" TODO P for append to register
+" TODO y for yank from register
+" TODO @ for execute macro from registers
 nnoremap <silent> <leader>' :Marks!<CR>
 nnoremap <silent> <leader>/ :History/!<CR>
 nnoremap <silent> <leader>: :History:!<CR>
