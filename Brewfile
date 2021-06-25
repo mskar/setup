@@ -72,12 +72,18 @@ brew "vim"
 brew "zsh-autosuggestions"
 # Fish shell like syntax highlighting for zsh
 brew "zsh-syntax-highlighting"
+# The modern, text-based browser
+brew "browsh-org/browsh/browsh"
 # A cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
 brew "clementtsang/bottom/bottom"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # A Zsh Theme
 brew "romkatv/powerlevel10k/powerlevel10k"
+# Maintained ctags implementation
+brew "universal-ctags/universal-ctags/universal-ctags", args: ["HEAD"]
+# View, print, and comment on PDF documents
+cask "adobe-acrobat-reader"
 # Application launcher and productivity software
 cask "alfred"
 # Utility to set up alt-tab to switch between windows
@@ -90,7 +96,7 @@ cask "copyq"
 cask "emacs"
 # Web browser
 cask "firefox"
-cask "font-fira-code-nerd-font"
+cask "font-firacode-nerd-font"
 # Icon set and toolkit
 cask "font-fontawesome"
 cask "font-source-code-pro"
@@ -121,5 +127,14 @@ cask "thunderbird"
 cask "ukelele"
 # GUI for the Neovim text editor
 cask "vimr"
-# Binary releases of VS Code without MS branding/telemetry/licensing
-cask "vscodium"
+-# Binary releases of VS Code without MS branding/telemetry/licensing
+-cask "vscodium"
+# Collect, organize, cite, and share research sources
+cask "zotero"
+mas "Amphetamine", id: 937984704
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Vimari", id: 1480933944
