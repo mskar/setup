@@ -50,9 +50,8 @@ introduced herself.
 "Hello, I'm Arla. What's your name?", Arla said, projecting her voice so
 everyone hear her as if she were on stage.
 
-"Dik, but you can call me the Dikinator, and this is my Posse, I call them
-Dik's Posse," Dik said, flexing his muscles and gesturing at the boys behind
-him.
+"Dik, but you can call me Big D, and these are my Dogs, I call them the
+D-Dogs," Dik said, flexing his muscles and gesturing at the boys behind him.
 
 "Nice to meet you, Dik! What happened to your head?"
 

@@ -210,8 +210,8 @@ Kaia.
     - Iona, Ursa, Zek, and Zok will go to rehearsal while Sata and Kaia are at the Maker Tent
   - All Grays confront Kaia and Sata on their way to the Maker Tent
   - Sata asks Kaia to use her powers, but Kaia cannot
-  - Sata and Kaia run away but are cornered by and then beaten up by Dik and his Posse
-  - Dik and his Posse are wearing helmets to protect themselves from birds
+  - Sata and Kaia run away but are cornered by and then beaten up by Dik and his D-Dogs
+  - Dik and his D-Dogs are wearing helmets to protect themselves from birds
   - Instead of talking they immediately attack the girls
   - Kaia uses her powers to save herself and Sata
   End: Kaia loses consciousness next to Sata

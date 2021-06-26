@@ -850,8 +850,8 @@ with Dar for them. Kaia and Sata say that they will think about it.
 Later, Dik shows up in the infirmary to ask for forgiveness and for Kaia and
 Sata to sign his casts. Fera was going to break Dik's legs too, but she felt
 bad for the person that would have to carry Dik around. Kaia and Sata find out
-that someone paid Dik, his Posse, and the soccer hooligans to beat them up.
-They immediately think it was Dar who paid their attackers. Iona tells them
+that someone paid Dik, his D-Dogs, and the soccer hooligans to beat them
+up. They immediately think it was Dar who paid their attackers. Iona tells them
 about "Qui Bono" and says that Dar stands the most to gain from them being beat
 up.
 
