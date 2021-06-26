@@ -61,11 +61,11 @@ dunderstudy and understudy so that can perform in front of Taz.
 
 Strike force officer, then Arla's lover, then husband
 
-- Meliedion Naiksos (Human):
+- Kobrazzik Naiksos (Human):
 
 School Principal, then Administrative Assistant to Fera
 
-- Pyrkartof Naiksos (Human):
+- Dikkobraz Naiksos (Human):
 
 A bully, the son of the School Principal
 
@@ -162,7 +162,7 @@ Kaia.
   - End: Kaia and Sata go to sleep together in the secret bed
 - 02: Productive first day:
   - Fera blows up the school
-  - End: Fera, Raf, and Mel appear to die
+  - End: Fera, Raf, and Kob appear to die
   - In the final moments, Fera reflects on Ben, Edl, Raf, Arla, Sata, and Kaia, starting to cry when she thought about how they might have been friends if things were different. She thinks about feeling powerless to stop her abusive father and substance dependent mother. As she is knocked off the motorcycle from behind she imagines she is a bird flying off into the horizon.
 - 03: Beautiful view:
   - Kaia, Sata, and Arla
@@ -210,8 +210,8 @@ Kaia.
     - Iona, Ursa, Zek, and Zok will go to rehearsal while Sata and Kaia are at the Maker Tent
   - All Grays confront Kaia and Sata on their way to the Maker Tent
   - Sata asks Kaia to use her powers, but Kaia cannot
-  - Sata and Kaia run away but are cornered by and then beaten up by Pyr and his Posse
-  - Pyr and his Posse are wearing helmets to protect themselves from birds
+  - Sata and Kaia run away but are cornered by and then beaten up by Dik and his Posse
+  - Dik and his Posse are wearing helmets to protect themselves from birds
   - Instead of talking they immediately attack the girls
   - Kaia uses her powers to save herself and Sata
   End: Kaia loses consciousness next to Sata
@@ -229,21 +229,21 @@ Kaia.
     - feel much better
     - seem to miraculously recover from their injuries
   - They are surprised that tech seems to glitch when they touch it
-  - They see Pyr, who has both his arms in casts and apologizes profusely
+  - They see Dik, who has both his arms in casts and apologizes profusely
   - Sata does not believe him, saying that he is only sorry, because someone broke his arms
-  - Pyr says that
+  - Dik says that
     - he knows what he did was wrong
     - he is not trying to come up with excuses but
       - he was desperate for money since his father disappeared
       - someone paid him to attack Kaia and Sata, but that he has no idea who it was
-  - Pyr tells his story
+  - Dik tells his story
     - he was left shaken by a strange experience after he led the attack against Kaia and Sata
     - after he recovered, he felt extremely afraid and ran away
     - as he was running, he was attacked from behind
     - he woke up in the infirmary yurt without any idea of who attacked him
-  - Pyr asks if Kaia and Sata would sign his casts
+  - Dik asks if Kaia and Sata would sign his casts
   - The casts are covered with expletives and drawings of penises
-  - The girls agree even though they are still mad at Pyr
+  - The girls agree even though they are still mad at Dik
   - "Should I draw a penis next to my name like everyone else?"
   - "Oh, you don't have to draw anything. That's just my friends being jerks."
   - Arla and Lan come to talk to Kaia and Sata
@@ -257,11 +257,16 @@ Kaia.
     - Ben and Edl
     - Kaia and Sata's parents (who are homophobic)
   - Everyone is relieved that Kaia and Sata have improved so much within hours
-  - Iona and Ursa
-    - bring food for Kaia and Sata, including fresh fruit
-    - stay with Kaia and Sata to watch the remembrance ceremony
+  - Iona helps organize the food and circus / carnival equipment that Kaia and Sata ordered
+  - Ursa enjoys the circus / carnival with Kaia and Sata, including fresh fruit
+  - While Sata and Ursa ride a roller coaster, Kaia and Zek chat and greet Kaia's parents
+  - Ursa wins a unicorn pegasus cat in high striker which Sata names Kata
+  - Kaia and Sata change into
+    - nice clothes and talk with their parents
+    - mourning clothes and go to the remembrance ceremony
   - A woman in a black veil and ornate dress starts laughing during Ben's speech
   - Iona and Ursa leave for the night
+  - Kaia and Sata change back into their patient gowns and cuddle with Kata before going to sleep
   - Fera shows up wearing
     - a black mourning veil
     - an blue and green ornate lolita dress
@@ -290,12 +295,12 @@ Kaia.
     - but the veils she throws disintegrate
     - and she cannot spin the axes of the Feras to disorient them
   - Kaia holds Sata as the three Feras move closer with six bone knives drawn
-  - Pyr tells the Feras to leave Kaia and Sata alone
-  - Fera laughs at Pyr, mocks him, throws bone knives at him
-  - Pyr is frozen in horror as the bone knives hit his casts
+  - Dik tells the Feras to leave Kaia and Sata alone
+  - Fera laughs at Dik, mocks him, throws bone knives at him
+  - Dik is frozen in horror as the bone knives hit his casts
     - which begin to look like toothpick appetizers with way too many toothpicks stuck in them
   - Kaia
-    - tells Fera to stop hurting Pyr
+    - tells Fera to stop hurting Dik
     - picks up her IV pole with the pump and saline bags still attached
     - shakes the IV pole wheels menacingly at Fera
     - is surprised that she can lift the IV pump so easily
@@ -318,7 +323,7 @@ Kaia.
   - "No pets!" Fera said definitely.
   - Sata was not amused. "This isn't funny, Fera."
   - "You'd appreciate it more if you could see the looks on your faces," Fera said.
-  - "If only you had seen the look on Pyr's face when I broke his arms!" Fera said laughing.
+  - "If only you had seen the look on Dik's face when I broke his arms!" Fera said laughing.
   - "It was quite humorous when I broke his humerus!" Fera said laughing even harder.
   - "I love it when Fera laughs at her own jokes, especially if she's the only one laughing." Eiva said.
   - "Get back into bed, you losers, before Eiva puts collars on you and takes you home with us."
@@ -331,25 +336,28 @@ Kaia.
         - Raf, and
         - the Principal
       - Kaia and Sata's miraculous recovery
-  - Pyr says that he already knows that his father died in the explosion
+  - Dik says that he already knows that his father died in the explosion
   - Fera says that
     - the Principal didn't die in the explosion
     - but she would only tell them if they all came with her to her tent
     - because she does not want to be interrupted by anyone entering the infirmary tent
-  - Fera, Eiva, and Unoa takes Kaia, Sata, and Pyr with them to the Sinistrae tent
-  - Fera points at Pyr and says she invented a new bone knife storage system
+  - Fera, Eiva, and Unoa takes Kaia, Sata, and Dik with them to the Sinistrae tent
+  - Eiva thinks that it is super cute that Kaia and Sata have a stuffed animal toy (Kata)
+  - Fera points at Dik and says she invented a new bone knife storage system
   - "Brilliant!" Eiva says. "Patent Application Submitted." says Unoa
   - Unoa asks if she can make some improvements to the storage system
   - Fera tells Unoa to feel free to make any improvements she likes
-  - Pyr starts to protest but Fera tells him that if he is useful she might keep him around
-  - "You want to be useful, right?" Pyr nodded and did not object further.
-  - Unoa reassures Pyr "Based on your psychological profile, I predict you will appreciate the upgrade."
-  - Unoa gives Pyr anesthesia and begins working on him
+  - Dik starts to protest but Fera tells him that if he is useful she might keep him around
+  - "You want to be useful, right?" Dik nodded and did not object further.
+  - Unoa reassures Dik "Based on your psychological profile, I predict you will appreciate the upgrade."
+  - Unoa gives Dik anesthesia and begins working on him
   - Eiva brings Kaia and Sata food and drink, pampers them, and treats them like her pets
   - End: Fera begins to tell them her story
 - 07: Never looked better
-  - Eagles save Raf, Fera, and Mel
+  - Eagles save Raf, Fera, and Kob
   - The Driads help them
+  - Arba is a female mimic with green skin and antler-like tree branches protruding from her head
+  - Arba and Raf explain mimics to Fera
   - Arba asks Fera if she will grant sovereignty to the Driads after Fera overthrows the government
   - Fera agrees to grant sovereignty to the Driads in exchange for their help in the revolution
   - Fera and Raf go into Kosciuszko Cavern and meet Nil and Oil
@@ -418,36 +426,36 @@ Kaia.
     - change into dresses, put on Catrina makeup, and go to the remembrance ceremony where Fera laughs
     - go back to the infirmary to prank and then abduct Kaia and Sata
 - 08: To err is human
-  - Kaia and Sata wake up in the Sinistrae tent
+  - Kaia and Sata wake up holding Kata in the Sinistrae tent
   - They were too tired to go back to the infirmary yurt after Fera's story end
   - Sata jokes that Fera's story was boring that it put them to sleep
   - Kaia says that she had the first dreamless, peaceful sleep she can remember
-  - Unoa was working all night on Pyr and covered his forearms with bone knives
-  - Pyr can now move his arms, because Unoa
+  - Unoa was working all night on Dik and covered his forearms with bone knives
+  - Dik can now move his arms, because Unoa
     - removed the casts
     - mended his bones
     - while adding the bone knives
   - There are 36 bone knives total (2*4+3*4+4*4) on each forearm
   - Unoa unrolls a SkinScroll to show that they still have many bone knives left
-  - Pyr can control the knives
-    - when Pyr contracts his forearm muscles, the knives
+  - Dik can control the knives
+    - when Dik contracts his forearm muscles, the knives
       - go into perpendicular mode
       - stand up perpendicular to his skin so that the knives are sticking out
       - the perpendicular mode makes his forearms look like porcupines
       - work like porcupine quills
       - are very easy to pull out
-    - when Pyr relaxes his forearm muscles, the knives
+    - when Dik relaxes his forearm muscles, the knives
       - go into parallel mode
       - lie flat along his skin with the sharp ends of the knives sticking past his elbow
       - work like armor
       - are very difficult to pull out
   - Unoa says that
-    - the hardest part was rewiring Pyr's brain to be able to control the knives
-    - it may take plenty of practice before Pyr can master controlling the knives
-    - she plans to do the same thing to Pyr's shins later
-    - it will be possible for Pyr to move the knives individually
+    - the hardest part was rewiring Dik's brain to be able to control the knives
+    - it may take plenty of practice before Dik can master controlling the knives
+    - she plans to do the same thing to Dik's shins later
+    - it will be possible for Dik to move the knives individually
       - after his brain adjusts to the remodeling
-  - Pyr
+  - Dik
     - thinks that the improvements Unoa made are very cool
     - is grateful that his broken arms are healed now
     - is impressed that controlling the knives feels natural to him
@@ -455,12 +463,12 @@ Kaia.
     - asks whether he will be able to shot the knives from his forearm
       - Unoa says that would be very impractical and terrible idea
     - makes the wanker hand gesture and laughs at the rhythmic clacking
-      - Fera warns Pyr against doing that ever again
-  - Fera thinks that Pyr can be useful for supplying bone knives to Sinistrae warriors during battle
-  - Pyr thinks he is a superhero, while Fera sees him as a pack mule
-  - Unoa tells Pyr to keep his mod hidden
+      - Fera warns Dik against doing that ever again
+  - Fera thinks that Dik can be useful for supplying bone knives to Sinistrae warriors during battle
+  - Dik thinks he is a superhero, while Fera sees him as a pack mule
+  - Unoa tells Dik to keep his mod hidden
   - "You might want to hide the upgrade from people, because you are an abomination unto nature."
-  - Pyr does not listen and later
+  - Dik does not listen and later
     - convinces many other boys to get the same mod
     - the boys fight each other one-on-one in a fight tent
     - during each match the boys who are not fighting clack their bone knives together and cheer
@@ -484,7 +492,7 @@ Kaia.
           - could destroy them immediately with energy weapons / orbital satellites
         - swear everyone to secrecy to hide everything from the government
   - Kaia and Sata
-    - think that the upgrades Unoa made to Pyr are weird
+    - think that the upgrades Unoa made to Dik are weird
     - are unsure if they should forgive Fera for the practical joke
     - listen intently while Fera tells them about Sinistrae
     - agree to take the equipment just in case they get attacked again
@@ -500,6 +508,11 @@ Kaia.
     - cry tears of joy and disbelief when they see Fera
     - notice that her presence causing their tech to glitch and eventually deactivates it
   - Raf says he is happy that he does not need to keep Fera's survival a secret anymore
+  - Raf takes an interest in Kata and says that he can make a real live Kata for Kaia and Sata
+  - Kaia and Sata immediately agree, but then become uncertain once they find out the process:
+    - Raf will
+      - absorb cat, bird, and narwhal DNA
+      - gestate and give birth to the creature like a baby
   - Fera
     - asks Ben to help her build unique tech as a partnership between Reli Corp and Ende Corp
     - challenges Edl to a public arm wrestling match
@@ -576,7 +589,7 @@ Kaia.
     - say that a private yurt might nice so that they could talk in private
   - In their private tent, Kaia and Sata talk about
     - forgiveness and friendship
-    - whether they should forgive that Pyr, Zok, Lan, and Ursa
+    - whether they should forgive that Dik, Zok, Lan, and Ursa
   - Before going to sleep,
     - Kaia asks if Sata could sleep in the same bed as her
     - Sata says that assumed that's what they would do
@@ -790,101 +803,109 @@ Kaia.
 
 - 11: A touching reunion
 
-Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Pyr, Kaia, Sata, and Raf live in
-the Lunker city while planning to rescue Arla and Lan. They see Fera is
-preparing an army to fight against the government and believe her when she says
-that she had nothing to do with Arla and Lan's kidnapping. They agree to let
-Fera and Eiva join them on the rescue mission. Fera convinces Luma, a Subak
-princess, to help them gain access to the castle via the Vistula river, the
-protagonists use scuba diving equipment to infiltrate Kraków via the Vistula
-river to avoid the World Heritage robots. The Subaks escort them in the water
-but refuse to continue on to dry land. The protagonists pass the Wawel Dragon
-and enter the castle through its cave. Inside the government facility, they
-move stealthily. The protagonists are bathed in spotlights and surrounded by
-heavily armed soldiers. They surrender and are shocked into submission but when
-Kaia sees Sata being shocked and is shocked herself, she has a vision of the
-Pulverulent Goddess and destroys all of the soldiers' weapons and powersuits
-killing them all. Everyone is impressed with Kaia's power, but Kaia is
-horrified by what she did. Ben is scientifically interested in Kaia's
-power. Eiva and Unoa say that Kaia's power would have changed the outcome of
-the Dextrae-Sinistrae war. As they search for Lan and Arla, they are attacked
-by GES. Kaia blinds the GES but they find their opponents with echolocation and
-use screams to incapacitate anyone within range. When they scream, they cannot
-use echolocation, because they have to close their sensitive ears. Kaia, Sata,
-and Raf find a child covered in blood who looks exactly like Lan. They find
-Lan's body and see that Lan recently gave birth to the child who is a mimic
-warrior. Zok breaks down crying when he sees Lan. Lan had been starved for a
-long time, his skin was black, his membranes was extended to catch the light,
-and his feet had sprouted roots. Lan had been partially eaten by the mimic
-child. The blood covering the child was Lan's. Raf says that it should be
-impossible for Lan to produce a mimic warrior in such a short time and that the
-child is the result of government experiments. The child looks exactly like a
-childlike mix of Lan and Zok. They take the child with them, but Raf tells them
-not to become attached to the child because it only lives to kill (despite this
-Raf has trouble following his own advice and eventually becomes very attached
-to the child). Mimic warriors are genderless and cannot reproduce. The child
-would never learn to speak or develop intelligence and therefore they should
-not give it a name (Does the nameless child develop intelligence and learn to
-speak? Yes. Does it become a non-binary character? Yes. Anything is possible
-right? Yes. The mimic child becomes a conduit for the nearby nascent mimic
-civilization. More on this later).
+Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Dik, Kaia, Sata, and Raf live in
+the Lunker city while planning to rescue Arla and Lan. While Ben searches for
+Arla and Lan, everyone adjusts to life in Lunker city. In the meantime, Raf
+gives birth to Kata. They see Fera is preparing an army to fight against the
+government and believe her when she says that she had nothing to do with Arla
+and Lan's kidnapping. They agree to let Fera and Eiva join them on the rescue
+mission. Fera convinces Luma, a Subak princess, to help them gain access to the
+castle via the Vistula river, the protagonists use scuba diving equipment to
+infiltrate Kraków via the Vistula river to avoid the World Heritage robots. The
+Subaks escort them in the water but refuse to continue on to dry land. The
+protagonists pass the Wawel Dragon and enter the castle through its
+cave. Inside the government facility, they move stealthily. The protagonists
+are bathed in spotlights and surrounded by heavily armed soldiers. They
+surrender and are shocked into submission, but when Kaia sees Sata being
+shocked and is shocked herself, she has a vision of the Pulverulent Goddess and
+destroys all of the soldiers' weapons and powersuits killing them all. Everyone
+is impressed with Kaia's power, but Kaia is horrified by what she did. Ben is
+scientifically interested in Kaia's power. Eiva and Unoa say that Kaia's power
+would have changed the outcome of the Dextrae-Sinistrae war. As they search for
+Lan and Arla, Kata runs away from the group and they are attacked by GES. Kaia
+blinds the GES but they find their opponents with echolocation and use screams
+to incapacitate anyone within range. When they scream, they cannot use
+echolocation, because they have to close their sensitive ears. After the GES
+are defeated, Kata rejoins the group.
+
+Kaia, Sata, Zok, and Raf find two children covered in blood. The children lead
+them to Arla and Lan's bodies. Zok breaks down crying when he sees Lan and Raf
+does the same when he sees Arla. Both Arla and Lan had been starved for a long
+time, their skin was black, their membranes were extended to catch the light,
+and their feet had sprouted roots. Lan and Arla had been partially eaten by the
+mimic children. The blood covering the children came from Lan and Arla. It
+appears that the children broke free from containment and partially ate their
+parents. Raf says that it should be impossible for Lan and Arla to produce a
+mimic warriors in such a short time and that the children are the result of
+government experiments. The children look exactly like childlike Lan-Zok and
+Arla-Taz hybrids. The protagonists take the children with them, but Raf tells
+them not to become attached to the children because mimic warriors only live to
+kill (despite this Raf has trouble following his own advice and eventually
+becomes very attached to the children). Mimic warriors are genderless and
+cannot reproduce. Raf says the children will never learn to speak or develop
+intelligence and therefore they should not give them names (Do the nameless
+children develop intelligence and learn to speak? Yes. Do they become
+non-binary characters? Yes. Anything is possible right? Yes. The mimic children
+become conduits for the nearby nascent mimic civilization. More on this
+later). The protagonists disregard Raf's advice and decide to name the children
+Laz and Art.
 
 After Kaia sees that Arla and Lan are dead, Kaia cries and feels that all of
-Mars is crying with her. As Kaia wept, the souls wept with her. Kaia wept and
-the souls wept. Kaia has a vision, but the octoculus saves her again and guides
-her to a hiding scientist. The scientist is an attractive young woman with long
-dark hair and a white lab coat over a dress shirt, tie, blouse, black pants,
-and long boots. The scientist takes Kaia to see the octoculus and explains that
-it originated from the cosmic message that also brought the mimics to
+Mars is crying with her. As Kaia wept, the Martian souls wept with her. Kaia
+wept and the souls wept. Kaia has a vision, but the octoculus saves her again
+and guides her to a hiding scientist named Pipa. Pipa is an attractive young
+woman with long dark hair and a white lab coat over a dress shirt, tie, blouse,
+black pants, and long boots. Pipa takes Kaia to see the octoculus and explains
+that it originated from the cosmic message that also brought the mimics to
 Earth. Overwhelmed with sorrow, Kaia touches the octoculus as a means of
 escaping reality and as expected she starts to feel elated and ecstatic
 drifting in a blue ocean of calm. Kaia unzips her jumpsuit and the octoculus
 crawls under clothes to maximize contact surface area. Kaia lets the octoculus
 connect with her and receives cosmic visions. The octoculus latches onto Kaia's
-shoulder and wraps its tentacles around her body. The scientist becomes very
-aroused because of his psychic connection with the octoculus. Kaia considers
-killing the scientist, but she stops caring about reality. The octoculus
-learned that the scientist enjoys tentacle pornography and created personalized
-fantasies for the scienist using GANs to generated images and videos and
-refined the porn collection using its psychic connection with the scientist.
+shoulder and wraps its tentacles around her body. Pipa becomes very aroused
+because of his psychic connection with the octoculus. Kaia considers killing
+Pipa, but she stops caring about reality. The octoculus learned that Pipa
+enjoys tentacle pornography and created personalized fantasies for the scienist
+using GANs to generated images and videos and refined the porn collection using
+its psychic connection with Pipa.
 
-Raf comes looking for Kaia and threatens to have the mimic child kill the
-scientist, but Kaia stops him. Raf demands to know the reason why mimics were
-brought to Earth and the purpose of mimickind. Raf is desperate for some reason
-to justify the suffering of mimickind and some way to rationalize the deaths of
-Arla and Lan. The scientist is terrified of the mimic warrior and begs Raf to
-spare her. The scientist says that she can help Raf decode the cosmic
-message. Raf backs down because he realizes that the cosmic message might
-contain the answers he seeks. Kaia says that the answer is obvious. She says
-that the octoculus made it clear to her that the purpose of the cosmic message
-is to be propagated further. The message is an attempt to covertly take control
-of planets that receive the message. The purpose of mimics is therefore to
-learn from and ultimately replace humans and begin to continuously transmit the
-message from Earth as well as colonized worlds.
+Raf comes looking for Kaia and threatens to have the mimic children kill Pipa,
+but Kaia stops him. Raf demands to know the reason why mimics were brought to
+Earth and the purpose of mimickind. Raf is desperate for some reason to justify
+the suffering of mimickind and some way to rationalize the deaths of Arla and
+Lan. Pipa is terrified of the mimic warriors and begs Raf to spare her. Pipa
+says that she can help Raf decode the cosmic message. Raf backs down because he
+realizes that the cosmic message might contain the answers he seeks. Kaia says
+that the answer is obvious. She says that the octoculus made it clear to her
+that the purpose of the cosmic message is to be propagated further. The message
+is an attempt to covertly take control of planets that receive the message. The
+purpose of mimics is therefore to learn from and ultimately replace humans and
+begin to continuously transmit the message from Earth as well as colonized
+worlds.
 
 The message is like a trojan horse containing useful technical information
 including instructions for building nanotechnology like the Sinistrae and
 Dextrae, sentient beings like mimics and octoculuses, and creatures such as the
-bugs used for BugBall. The scientist and Kaia explain that the rationale is
-that even if a civilization distrusts the message, it will eventually build
-everything in the message out of curiosity or hubris and thus ensure its own
-demise. The message is coming multiple places, indicating the message is very
+bugs used for BugBall. Pipa and Kaia explain that the rationale is that even if
+a civilization distrusts the message, it will eventually build everything in
+the message out of curiosity or hubris and thus ensure its own demise. The
+message is coming multiple places, indicating the message is very
 successful. If the mimics on Earth fail to take over the planet in the next 4
 billion years, then mimics in Andromeda will mount a physical invasion after
 Andromeda collides with the Milky Way.
 
 Raf doesn't want to believe that the fears of humans are realistic and that he
-is part of an invasion effort. The scientist says there is still a great deal
-of the message that they do no understand and suggests that Raf can choose his
-own destiny and use the information from the message however he prefers. Raf
-decides to spare the scientist in exchange for help with transporting and later
-decoding the message. Raf says that he heard about the octoculus in the
-fragments of the message that his people had. The scientist said that they were
-not able to decode enough of the message to understand much about the
-octoculus. The scientist gives each of them copies of the messages and all of
-the work that she and other human scientists have done to decipher and
-understand the message. When Kaia and Raf regroup with the other protagonists,
-Kaia tells them not to ask questions about the octoculus on her shoulder.
+is part of an invasion effort. Pipa says there is still a great deal of the
+message that they do no understand and suggests that Raf can choose his own
+destiny and use the information from the message however he prefers. Raf
+decides to spare Pipa in exchange for help with transporting and later decoding
+the message. Raf says that he heard about the octoculus in the fragments of the
+message that his people had. Pipa said that they were not able to decode enough
+of the message to understand much about the octoculus. Pipa gives each of them
+copies of the messages and all of the work that she and other human scientists
+have done to decipher and understand the message. When Kaia and Raf regroup
+with the other protagonists, Kaia tells them not to ask questions about the
+octoculus on her shoulder.
 
 When they go out through the cave, they see that the Subaks left them a
 submarine as planned, but then the submarine is destroyed by an airstrike and
@@ -895,58 +916,67 @@ to use her power, but she does not want to kill anyone else. She is still
 shocked by the fact that Arla and Lan are dead. The octoculus gives her calming
 visions and chemical support.
 
-Ben says that he deduced that the scientist and the octoculus arranged for Arla
-and Lan to be captured, and tried to have Raf captured too, but failed. The
-octoculus confirms that it had Arla and Lan captured to try to lure Kaia to the
-lab so she could find the octoculus. Kaia feels betrayed and is momentarily
+Ben says that he deduced that Pipa and the octoculus arranged for Arla and Lan
+to be captured, and tried to have Raf captured too, but failed. The octoculus
+confirms that it had Arla and Lan captured to try to lure Kaia to the lab so
+she could find the octoculus. Kaia feels betrayed and is momentarily
 overwhelmed by negative emotions, but the octoculus is able to replace the
 negative feelings with pleasurable sensations. The octoculus did not know that
-Arla and Lan would be killed. The scientist confesses to helping the octoculus
-arrange the capture of Arla and Lan in exchange for pleasure. The scientist
-says that the goal was just to bring Kaia to the lab and that the deaths of
-Arla and Lan were a tragedy. The scientist expresses regret for Kaia's loss and
-asks if she can hug Kaia. Under the influence of octoculus, Kaia agrees and is
-surprised how much she enjoys the hug. The scientist explains that she is
-wearing an octoculus clone made by the octoculus for the scientist to wear. The
-octoculus clone is hidden under the scientist's long hair. The scientist and
-Kaia bond via physical contact and Kaia feels the scientist's loneliness and
-identifies with her.
+Arla and Lan would be killed. Pipa confesses to helping the octoculus arrange
+the capture of Arla and Lan in exchange for pleasure. Pipa says that the goal
+was just to bring Kaia to the lab and that the deaths of Arla and Lan were a
+tragedy. Pipa expresses regret for Kaia's loss and asks if she can hug
+Kaia. Under the influence of octoculus, Kaia agrees and is surprised how much
+she enjoys the hug. Pipa explains that she is wearing an octoculus clone made
+by the octoculus for Pipa to wear. The octoculus clone is hidden under Pipa's
+long hair. Pipa and Kaia bond via physical contact and Kaia feels Pipa's
+loneliness and identifies with her.
 
 Fera says that she wants to do whatever it takes to fight back and escape, even
 if it means forcing Kaia to use her powers. Ben agrees and tries to shock Kaia
 with his stunStaffs, but Iona, Ursa, Zek, and Zok stop him. Zek blinds Ben and
-Edl and the remaining protagonists fight (Ben, Edl, Fera, Eiva, and Unoa
-vs. Ursa, Iona, Zek, and Zok). Raf, Sata, and the scientist do not fight. The
-Sinistrae are able to overpower the Dextrae, because Zek cannot blind them and
-the Sinistrae sap the strength of Zok, Ursa, and Iona. Ursa and Zok are not
+Edl and a fight breaks out with Fera, Eiva, Unoa, and Dik fighting against
+Ursa, Iona, Zek, and Zok. Kaia, Raf, Sata, and Pipa do not fight. The Sinistrae
+are able to overpower the Dextrae, because Zek cannot blind or disorient them
+and the Sinistrae sap the strength of Zok, Ursa, and Iona. Ursa and Zok are not
 able to wield energy effectively. The blows that Ursa and Zok land are absorbed
 by the bone armor that Eiva and Fera wear. Zek tries to strike the Sinistrae
 with his poisoned knives and poisonous snakes, but Eiva, Fera, and Unoa are
-stronger and faster. Fera knocks Zek out by hitting him in the head with the
-pommel of one of her bone knives. The Sinistrae hold Ursa, Zok, Sata, Raf, and
-the scientist at knife point to allow Ben to proceed with shocking Kaia.
+stronger and faster. The strength draining effect of Sinistrae is less
+noticeable on Zek, more pronounced on Ursa and Zok, and keeps the mimic
+offspring (Laz, Art, and Kata) from attacking the Sinistrae. The Sinistrae
+subdue the Dextrae. The Sinistrae round up all of the others (Zek, Zok, Iona,
+Ursa, Sata, Pipa, Laz, Art, and Kata) and hold them at knife point while Ben
+and Edl recover. Kaia takes off the echo veils to speed up the inevitable.
 
-After regaining his vision, Ben uses one of his stunStaffs on Kaia and studies
-her response. The octoculus detaches from Kaia to avoid the repeated shocks and
-crawls over to the scientist. The scientist suffers through her psychic link
-with Kaia. Sata cries as Kaia is shocked repeatedly The mimic child tries to
-attack Ben with its retractable teeth and claws to prevent Ben from shocking
-Kaia, but Edl stops it. The mimic child uses its retractable claws and teeth to
-slash and bite Edl. The wounds that Edl suffers reveal that he is a cyborg. Edl
-breaks the mimic child's arms and throws it to the ground. Zok begs Fera to let
-him go to the child. Even though Raf says that the child has no emotions,
-cannot feel pain, and will not care what Zok does, Fera lets Zok go with a
-warning not to interfere with Ben. Zok rushes to comfort the child. The child
-bonds with Zok, cries, and calls him "Daddy". Raf is surprised by the mimic
-child's behavior, because mimic warriors should not be able to speak or display
-any emotion. Raf cries at the thought that the mimic child might have felt the
-pain and loss of Lan being killed.
+After regaining their vision, Ben and Edl approach Kaia. The mimic offspring
+attack Edl to protect Kaia. The mimic children use their retractable claws and
+teeth to slash and bite Edl. Kata tries to attack Edl from above. The wounds
+that Edl suffers reveal that he is a cyborg. Ben shocks the mimic offspring
+while Edl hits them and throws them to the ground. Zok, Kaia, Raf, and Sata beg
+Fera to let them go to the mimic offspring. Kaia offers to let herself be
+shocked in exchange for letting the others go to the offspring. Fera tells Edl
+to bring the mimic offspring to the others in exchange for Kaia's
+cooperation. Edl brings the children. Laz bonds with Zok, cries, and call him
+"Daddy". Raf is surprised that Art shows affection and calls him "Uncle",
+because mimic warriors should not be able to speak or display any emotion. Raf
+begins to understand that Lan and Arla's children may not be normal mimic
+warriors and that they exhibit intelligence. Raf cries at the thought that the
+mimic children might have felt the pain and loss of Arla and Lan being killed
+and simply been in shock when they were found by the protagonists.
 
-Ben increases the voltage setting on the stunStaff and shocks Kaia again. The
-stunStaff explodes, blowing off Ben's hand. Kaia, as the Pulverulent Goddess,
-cannot lash out against the Sinistrae, because they are immune to her powers,
-and instead blinds and disorients Ben and Edl, and then destroys all of the
-giant robots. Edl uses his body to shield Ben and Kaia from the exploding giant
+While Edl and the Sinistrae guard the others, Ben uses one of his stunStaffs on
+Kaia and studies her response. The octoculus detaches from Kaia to avoid the
+repeated shocks and crawls over to Pipa, who suffers through her psychic link
+with Kaia. Sata cries as Kaia is shocked repeatedly. Ben increases the voltage
+setting on the stunStaff and shocks Kaia again. The stunStaff explodes, blowing
+off Ben's hand. Ben is elated that his experiment worked and does not seem
+concerned that his hand was blown off. Fera rushes to Ben, slides a
+skinScabbard on his stump, and ties off the end to stop the bleeding. Ben is
+already delirious from blood loss and asks Fera to marry him. Kaia, as the
+Pulverulent Goddess, cannot lash out against the Sinistrae, because they are
+immune to her powers, and instead destroys all of the giant robots. Edl and the
+Sinistrae use their bodies to shield the protagonists from the exploding giant
 robot fuel cells. The protagonists are buried inside the cave when the entrance
 collapses from the explosions caused by detonating fuel cells of the giant
 robots.
@@ -1154,9 +1184,9 @@ still has a connection to the internet and hires miners to dig through to the
 capsule. Eiva gives birth and Kaia is near death from starvation when the
 miners break through. Fera and Eiva start to organize an army to defeat the
 Scenders. Kaia and Sata get ready to rescue Zek, Zok, Ursa, Raf, and Iona from
-the Scenders. Mel joins them with Driad warriors who have found that Sinistrae
+the Scenders. Kob joins them with Driad warriors who have found that Sinistrae
 fit perfectly into their culture and lifestyle. The Driad switch from wooden to
-bone knives and use bone arrowheads and bone tips for their spears. Pyr joins
+bone knives and use bone arrowheads and bone tips for their spears. Dik joins
 Fera because he is grateful that she told him where to find his father and
 because he wants to be a Driad warrior like his father. Taz joins Fera's army
 with some army buddies who are also addicted to Sinistrae. Kaia is angry at
@@ -1354,7 +1384,7 @@ Noia, and Zok. Fera deactivates the peoplePrinters and Raf starts trying to
 figure out what happened. Fera says that Kaia is not safe here and that she
 needs to move to Wieliczka. Iona agrees reluctantly, because her priority is to
 protect Kaia. They leave Raf to work on the computers at Echo Corp, because he
-is expendable. The Sinistrae warriors (Fera, Mel, Taz, and Pyr) help Iona pack
+is expendable. The Sinistrae warriors (Fera, Kob, Taz, and Dik) help Iona pack
 everything up and they move towards Kosciuszko Mound and the entrance to the
 Lunker city. Kaia, Iona, Raf, and the mimic child live in a cottage near
 Wieliczka. Fera takes control of the All Saints Chapel after Kaia decides not
@@ -1473,10 +1503,10 @@ her eyes, and let the dust consume her.
     - a tent
     - fancy food and drink
     - matching outfits for all three of them so they can look like Catrinas at the remembrance ceremony
-  - hears about what Pyr did and breaks his arms, but
-    - barely enjoys breaking Pyr's arms and almost feels sorry for him
+  - hears about what Dik did and breaks his arms, but
+    - barely enjoys breaking Dik's arms and almost feels sorry for him
     - Is this what growing up feels like?
-    - tells Pyr that his father is alive and well, living with Driads
+    - tells Dik that his father is alive and well, living with Driads
   - attends her own funeral and laughs really loudly when Ben idolizes her
   - decides to play a practical joke on Kaia and Sata in the hospital
 
@@ -1742,7 +1772,7 @@ She cannot bring herself to reject or harm her mimic child.
 ...
 
 Zek and Zok worship the Pulverulent Goddess and serve her biding. The birth of Kaia's
-son and the invasion of Mars was part of the Pulverulent Goddess's plan. Was Pyr
+son and the invasion of Mars was part of the Pulverulent Goddess's plan. Was Dik
 bullying Kaia also part of the plan? Zek and Zok have been building relay
 stations all over the planet with copies of the Pulverulent Goddess inside. This allows
 the Pulverulent Goddess to have instant access to Kaia at all times. Sata decides to
@@ -1924,7 +1954,7 @@ Lan.
 
 Edl, Ursa, Zok, and Iona are tanks
 Kaia, Ben, and Sata are ranged
-Zek and the Sinistrae (Fera, Eiva, and Mel) are mixed
+Zek and the Sinistrae (Fera, Eiva, and Kob) are mixed
 Taz refuses to come, because he says that Arla lied to him
 
 Sata is mostly useful as a scout. Raf in useless at all times. Ben is fairly
@@ -1949,7 +1979,7 @@ government soldiers, all Echos, Sinistrae, and Scenders seem really OP. The
 final battle is against a giant robot with a fuel cell that Kaia cannot explode
 because it would destroy the entire facility. Instead Kaia destroys anything on
 the robot that has an independent fuel cell, e.g. gun turrets. The Scender
-tanks (Edl, Ursa, and Zok) and Sinistrae (Fera, Eiva, and Mel) have to team up
+tanks (Edl, Ursa, and Zok) and Sinistrae (Fera, Eiva, and Kob) have to team up
 to destroy the giant robot. Zek is useless against it. Ben tries to hack it.
 Is Sata a Sinistrae at this point? I think she shouldn't be.
 
@@ -2025,7 +2055,7 @@ Is Sata a Sinistrae at this point? I think she shouldn't be.
   - Bone knives and bone armor make him a formidable melee fighter
   - Immune to Echo manipulation
   - Trades Dextrae exoskeleton for Sinistrae bone armor
-- Mel (Sinistrae):
+- Kob (Sinistrae):
   - Fera's administrative assistant
   - Bow and arrow plus throwing bone knives makes him an effective ranged fighter
   - Bone knives and bone armor make him a formidable melee fighter
@@ -2089,7 +2119,7 @@ Fera misses her mom, not her abusive father.
 Zek, Zok, Ursa, Raf, Arla, Lan, and Iona do not have living parents.
 Ben and Edl have great relationships with their parents who try to hide the fact that Edl was synthesized by Ben when he was a child.
 Dzaa and Daka's parents are in space.
-Taz and Mel are adults.
+Taz and Kob are adults.
 
 ## Raf
 Raf gets pregnant from Fera. When she discovers Sinistrae, Raf miscarries. He

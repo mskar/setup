@@ -826,12 +826,12 @@ The Principal becomes her administrative assistant. Raf helps out by spreading
 the word to all Lunkers. He cannot help inside the capsule because he has to stay
 outside the capsule because it makes him sick.
 
-The chapter ends with Fera, Naksos (Mel), and Raf sleeping on the train on their way
+The chapter ends with Fera, Naksos (Kob), and Raf sleeping on the train on their way
 to the refugee camp.
 
 ...
 
-Fera and Raf go to the Driads to ask for help with Mel. They spend the
+Fera and Raf go to the Driads to ask for help with Kob. They spend the
 night. Fera feels very cold. The Driad do not use fire. She did not eat
 much of the food and now is hungry. Raf hugs her to keep her warm. Fera
 complains but secretly enjoys physical contact with Raf. They arrive at the

@@ -754,7 +754,7 @@ Earth."
 
 The Principal cleared his throat nervously. "I am needed here. My sacred duty
 of molding young minds is of utmost importance. Of course, I also cannot
-abandon my dear son Pyr." The Principal called up an image of a young man
+abandon my dear son Dik." The Principal called up an image of a young man
 flexing his muscles and sticking out his tongue.
 
 "That's the guy who was heckling us during the ceremony!" Sata exclaimed.
@@ -765,7 +765,7 @@ flexing his muscles and sticking out his tongue.
 system too?" Kaia asked.
 
 "Of course not!" the Principal shouted, turning red and getting flustered.
-"Pyrik has a bright future ahead of him! I would never send him to rot in
+"Dikik has a bright future ahead of him! I would never send him to rot in
 that-" The Principal stopped when he realized that he was hurting his own
 argument.
 
@@ -832,7 +832,7 @@ were greeted by a familiar voice.
 
 A group of boys started laughing and exchanging high-fives in front of the
 office door. The boy had been waiting for the three girls to exit. The girls
-recognized that the boy speaking to them was Pyr.
+recognized that the boy speaking to them was Dik.
 
 "If you play your cards right, I might add some of my special sauce to your crappy
 sandwich."
@@ -846,14 +846,14 @@ Looking over at Sata, Kaia noticed that her friend was having another seizure.
 Kaia watched powerlessly as the hand that was covering Sata's chest drifted
 down in the front of her.
 
-"Look fellas, this one is ready for me," said Pyr as he moved forward with
-his hands reaching out towards Sata's chest. Fera swung at Pyr with her free
+"Look fellas, this one is ready for me," said Dik as he moved forward with
+his hands reaching out towards Sata's chest. Fera swung at Dik with her free
 hand, while kicking him in the shins. Kaia tried to pull Sata back away from
-Pyr, but was too weak to move Sata very far. Kaia opened her mouth to scream
+Dik, but was too weak to move Sata very far. Kaia opened her mouth to scream
 for help, but before she could make a sound, a HistorianHummingbird crashed
-into the side of Pyr's face, sending him crashing to the floor.
+into the side of Dik's face, sending him crashing to the floor.
 
-Fera gave Pyr one more kick before pulling the other two girls through the
+Fera gave Dik one more kick before pulling the other two girls through the
 semicircle of stunned boys. After Sata recovered, she was dazed and confused,
 but she understood that they needed to run. Kaia's feet could barely keep from
 dragging on the ground while the two taller girls carried her down the hallway.
@@ -1027,7 +1027,7 @@ out assorted fragments of bone and shook them in her hand like dice. Through
 the dust swirling around Kaia, she saw the metallic glint of the TaserTutor.
 The metallic tendrils extending from TaserTutor were coiled around her arms up
 to the shoulder. The ceremony was still ongoing. The TaserTutor began to pulse
-red. Kaia's heart sunk. Had she imagined everything? Fera, the Principal, Pyr,
+red. Kaia's heart sunk. Had she imagined everything? Fera, the Principal, Dik,
 Raf, Arla? Lightning shot out of the surrounding storm and coursed through
 Kaia's body. Kaia screamed and writhed on the ground, but then got up with a
 renewed sense of purpose.

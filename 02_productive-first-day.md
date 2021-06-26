@@ -389,9 +389,9 @@ flying AnimalAutomatons into your opponents?" Fera asked.
 "Yes, any AnimalAutomatons can be used, but birds have the right combination of
 speed and mass."
 
-"Did you make a bird hit Pyr in the head?"
+"Did you make a bird hit Dik in the head?"
 
-"Who is Pyr?"
+"Who is Dik?"
 
 "A boy who was bullying me and two other girls."
 
