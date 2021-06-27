@@ -340,7 +340,7 @@ augroup vimrc-sync-fromstart
 augroup END
 
 " https://vimways.org/2018/formatting-lists-with-vim/
-autocmd FileType pandoc,markdown,text setlocal expandtab tabstop=2 shiftwidth=2 softtabstop=2 formatoptions+=tanp formatlistpat=^\\s*\\d\\+\\.\\s\\+\\\|^[-*+]\\s\\+\\\|^\\[^\\ze[^\\]]\\+\\]:
+autocmd FileType pandoc,markdown,text setlocal expandtab tabstop=2 shiftwidth=2 softtabstop=2 formatoptions+=tanp formatlistpat=^\\s*\\d\\+\\.\\s\\+\\\|^\\s*[-*+]\\s\\+\\\|^\\[^\\ze[^\\]]\\+\\]:
 
 " Syntax highlighting for files with weird extensions
 autocmd BufNewFile,BufRead .tmux.conf* set syntax=tmux
