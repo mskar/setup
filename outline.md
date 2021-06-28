@@ -169,6 +169,8 @@ Kaia.
     - leave the school
     - meet Lan and Taz
     - evacuate in an airship with Iona, Ursa, Zek, and Zok
+  - Arla is already pregnant with Taz's child
+  - Lan is already pregnant with Zok's child
   - The airship crashes
   - Everyone parachutes down to the university next to Zakrzówek lake
   - Kaia and Ursa dive off a cliff into Zakrzówek and bond
@@ -758,15 +760,23 @@ Kaia.
     - because they do not want to risk going to the infirmary
     - to keep them out of sight until they get better
   - Arla asks about her baby,
-    - Ben says that the baby is fine,
-    - because her body does everything it can to protect them baby
-    - and the Sinistrae only trick their bodies into thinking that they are starving
-    - but they actually have adequate nutrients and her body prioritizes feeding the baby
+    - Ben says that the babies that Arla and Lan are carrying are fine,
+    - because mimic bodies do everything possible to protect mimic babies
+    - and the Sinistrae only trick mimic bodies into thinking that they are starving
+    - but they actually have adequate nutrients and their bodies prioritize feeding their babies
+  - Kaia and Sata
+    - remember that mimic men can have babies from Fera's story
+    - but are nevertheless bewildered by the idea that Lan is pregnant just like Arla
+  - Lan explains that he and Arla decided to get pregnant at the same time, because
+    - They're really good friends who always support each other
+    - Both of them are deeply in love
+    - They hope that their kids will grow up together and be friends
   - Kaia and Sata ask Lan if the scars covering his body are from the Sinistrae
   - Lan tells them about his story
   - Lan says that he is afraid that the government will abduct them like they abducted his two dads
   - Arla and Raf say that the flyovers reminded them of the gas attack that killed their parents
-  - Taz visits Arla and tells her not to worry
+  - Kaia and Sata are in shock after hearing Lan's story and Arla and Raf's story
+  - Taz visits Arla and tells her not to worry, but he seems to be very unsettled
   - Zok visits Lan and says that he loves him
   - Lan tells Zok that he loves him too and cries because Zok never used the L word before
   - Ben says that

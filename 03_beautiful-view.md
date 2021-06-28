@@ -88,90 +88,164 @@ through the circle of stunned boys.
 could hear her. Laughing hysterically, Kaia did not try to come up with any
 more bird puns, because she knew she would not be able to top that last one.
 
-When the girls arrived at the emergency meeting point, a very sharply dressed
-young man waved at them enthusiastically and began to run in their
-direction. Arla squealed with glee and began to run towards him as well.
+Outside of the school, all of the consoles and wall displays were directing
+everyone to go to the emergency meeting point at the market square. The girls
+squeezed into a tram already packed with people. Kaia hated crowded places. She
+could barely make out Arla's voice over the buzz of worried chatter that she
+was either hearing or imagining.
 
-"Arlunia!" the young man yelled.
+"I hope we'll be able to find my performance group friends there. They've been
+rehearsing at the Silesian theater," Arla said.
 
-"Lanselolek!" Arla responded.
+"Wow, they must be really good," Kaia said while making sure that Sata was OK.
 
-They hugged and spun around, laughing like children. When Kaia and Sata walked
-up to them, Arla put her arm around the young man and gestured towards the two
-girls.
+"Yes, they're really talented," Arla said. "It would be great if we could meet
+up with them. Most of all, I hope my boyfriend is there. I would feel a lot
+better with him around."
+
+"Is your boyfriend in the performance group?" Sata asked.
+
+Arla blushed and shook her head. "No, he's a solider."
+
+The mass of people poured out of the tram.
+
+"That's my friend Lan!" Arla said excitedly and pointed at a sharply dressed
+young man who was waiting outside the theater right next to the tram station.
+
+"Lanselolek!" Arla yelled and began run towards the young man.
+
+"Arlunia!" Lan yelled and ran up to meet Arla. They hugged and spun around,
+laughing like children. When Kaia and Sata walked up to them, Arla put her arm
+around the young man and gestured towards the two girls.
 
 "Lan, this is Kaia and Sata. Kaia and Sata, this is Lan."
 
 Lan stepped forward and bowed elegantly. "Very pleased to make your
-acquaintance. Any friend of my Arlunianunia is a friend of mine! Please, follow
-me. I have the best seats in the best airship reserved for us."
+acquaintance."
 
-"Airship?!" Arla exclaimed. Lan stopped and looked at the girls. "Haven't you
-heard?! The entire city is going to explode! We have to be ready to evacuate as
-soon as we get the signal."
+TODO: Describe Lan's appearance and mannerisms
 
-"We have to go back for Raf and Fera," Kaia said.
+"Lan, do you know what's going on?" Arla asked.
 
-"Oh no, I'm afraid that will be absolutely impossible! Anyone trying to leave
-this area will be executed immediately to ensure a safe and organized
-evacuation."
+Lan seemed surprised. "Haven't you heard?! The entire city is going to explode!
+Everyone is getting ready to evacuate."
 
-Sata furrowed her brow. "How is executing people going to ensure safety?"
+"Is there any way we can check if Raf and Fera are here?" Kaia asked.
 
-"I don't know, I don't make the rules, but I do know that the snipers on the
-roof mean business."
+"Maybe Taz will know," Lan said.
 
-The girls look up at the rooftops and saw gunmen covering all of the possible
-exits. Lan continued.
+"Taz is here?" Arla asked.
 
-"I'm sure everyone will make it onto an airship just fine. It seems like
-they're in no hurry to launch, but we might as well wait inside. Come on, our
-airship is stocked with goodies. I think some refreshments might do you some
-good. You all look positively parched and famished!"
+"Yes, he's just around the corner in front of the main entrance to the
+theater. He's waiting for you."
 
-As they approached a regal looking airship, Lan suddenly changed course waving
-towards a strike team officer with one hand and pulling Arla behind him. The
-strike team officer looked very intimidating. His face was hidden behind a
-black balaclava and dark sunglasses. He was resting his hands on a massive
+"He's waiting for me?!" Arla repeated, pressed her cupped hands to her chest,
+and started walking as if in a trance.
+
+"Wait," Arla said, stopping suddenly. "I can't go see him like this!" Arla
+looked down at her black jumpsuit. "I have a dress in my bag. I just need a
+place to change."
+
+"There's a shop nearby." Lan started leading Arla across the street. "We can
+get you a new dress there really quickly."
+
+"Are you really planning to go shopping during an evacuation?" Kaia asked.
+
+"Not shopping, requisitioning," Lan corrected. "Taz gave me a card that will
+let us requisition whatever we want."
+
+"Isn't 'requisitioning' just a fancy word for looting?" Sata asked.
+
+"I'd prefer to say we are saving precious items from destruction."
+
+"Shouldn't we focus on getting supplies like food and water?" Kaia asked.
+
+"The GuardGorillas stocking the airships can handle food and water, but I
+wouldn't trust them to pick out nice clothing. Besides, Arla needs the dress
+right now."
+
+Arla tried on a few dresses and settled on a blue, sleeveless, open-back,
+halter-neck dress.
+
+"How do I look?" Arla asked.
+
+"Arluniapyzunia, you look absolutely divine." Lan said with gravity.
+
+When Arla let her hair down and spun around to show off her costume change,
+Kata and Sata both swooned.
+
+Sata covered Kaia's eyes with her hand. "Didn't anyone tell you that it's not
+polite to stare?"
+
+Kaia pushed Sata's hand away. "At least I'm not drooling like you. You should
+wipe your face before drool all over your new shirt."
+
+"Well, you're breathing so fast, I bet you could dry my shirt right away," Sata
+countered.
+
+"Are they always like this?" Lan asked.
+
+"I don't know, but I hope Taz has a similar reaction," Arla answered.
+
+It was impossible to tell whether he had a similar reaction, because Tas was
+wearing dark sunglasses and a black balaclava. His face was face was completely
+hidden and he looked very intimidating. He was resting his hands on a massive
 rifle that was slung over his shoulder. The exoskeleton armor he was wearing
 made him look could beat a GuardGorilla in a wrestling match.
 
-"Officer Kransal!" Lan exclaimed. "I'd like to introduce you to Arla and her
-friends Kaia and Sata."
+Arla walked up to Taz, put her hands on his arm, leaned into him, and said,
+"Taz, I'd like you to meet my friends, Kaia and Sata."
 
-Getting behind Arla, Lan whispered something into her ear, carefully took her
-satchel, and gently nudged her forward. Arla adjusted her hair and approached
-the officer shyly, but pretty soon they were standing next to each other as
-they posed for a picture together. Arla's face was flushed with emotion as
-beamed at the PictureParrot that perched in front of them. She put her hands on
-Officer Kransal's arm and leaned into him as he stood motionless. After the
-picture, she came back to stand next to Kaia and Sata.
+"Any friends of Arla are friends of mine," Taz said. "I'm Officer Tazoltvan
+Kransal. It's nice to meet you." It was impossible to read his facial
+expressions behind his balaclava, but his voice sounded friendly.
 
-Lan walked up to Officer Kransal and stood next to him speaking in a hushed
-tone. The officer nodded, then Lan stuck out his elbow and two briefly
-connected elbows. As they resumed their trajectory to the airship, Lan was
-smiling ear to ear.
+"Officer Kransal, could you help us find out if Arla's brother and our friend
+Fera are here?" Kaia asked.
 
-"It's all taken care of. Thanks to Arla, our airship has official VIP
-designation and all of the best local shops are being requisitioned for the
-best supplies. We have complete control of the guest list. If anyone gives us
-any trouble, we can have them thrown out. And the best part is that Officer
-Kransal will be flying with us as our personal security escort."
+"One second," Officer Kransal said. He touched the side of his sunglasses and
+began wiggling his fingers. "There's no evidence that either of them are
+here. I found surveillance footage of Raf and Fera in your school, but then all
+the AnimalAutomatons went dark, so I am not sure where they are now."
 
-_Did Lan just sell Arla to Officer Kransal?_ Kaia thought. She could see that
-Sata was wondering about the same thing. Arla was blushing deeply and she
-pulled in Kaia and Sata on either side of her.
+"We have to go back for them," Kaia said.
 
-"Are you crying?" Kaia asked.
+"That won't be possible," Taz said shaking his head. "We have strict orders to
+shoot anyone trying to leave the market square."
 
-"Not here. Wait until we get onto the airship.", Arla replied smiling broadly
+"Why would you shoot people who are trying to leave?" Sata asked.
+
+"To ensure a safe and organized evacuation," Taz said without missing a beat.
+
+Sata furrowed her brow. "How is shooting people going to ensure safety?"
+
+"The flow of people to the airships has to be unidirectional. If people get the
+idea that they can go backwards it could compromise the entire evacuation."
+
+"The only thing we can do is wait," Taz continued. "You might as well wait on
+the airship I reserved for you. I'm in charge of requisitioning supplies and
+I've been making sure you'll have all of the best things."
+
+"Are you going to join us?" Arla asked.
+
+"I pulled some strings so that I would be assigned to guard your airship," Taz
+said. "It'll be the last airship to take off, so go ahead and make yourselves
+comfortable. The rest of your friends should join you there soon."
+
+On the way to the airship, Kaia studied Arla's face trying to understand what
+she was feeling.
+
+"Arla, are you crying?" Kaia asked.
+
+Arla blushed deeply and she pulled in Kaia and Sata on either side of her. "Not
+here. Wait until we get onto the airship.", Arla replied smiling broadly
 through the tears.
 
 As soon as they were in the gangway of the airship, Arla pulled Kaia and Sata
 into a huddle as Lan was on the lookout.
 
-"That officer is a Lunker," Arla said as tears dropped down on the ground in
-front of her.
+"Taz is so so nice to me. He's strong and kind... and," Arla looked around
+carefully before adding, "and he's a Lunker."
 
 Kaia and Sata were waiting to hear more, but what followed was a bit
 anticlimactic. "You mustn't tell anyone anything!".
@@ -180,32 +254,33 @@ After wiping her face, Arla pulled the two girls up the gangway into the
 airship. The interior of the airship was impeccably stylish and as far they
 could tell completely empty.
 
-"I'm going to freshen up.", Arla said quickly, "Lan, will you take care of our
-guests?"
+"Lan, could you take care of Kaia and Sata?" Arla asked. "I don't think they've
+had anything to eat or drink since before the initiation ceremony this
+morning."
 
-Lan launched into his role as host with bravado. He first offered his guests a
-selection of beverages and did an excellent job hiding his disappointment when
-he found out that he guests only wanted regular still water to drink. Lan
-lifted a silver cover with a flourish to reveal a veritable cornucopia of
-delicious-looking foods.
+Lan began to play the role of a host with bravado. He first offered his guests
+a selection of beverages and did an excellent job hiding his disappointment
+when he found out that he guests only wanted regular still water to drink. Lan
+brought out an enormous platter and lifted its silver cover with a flourish to
+reveal a veritable cornucopia of delicious-looking foods.
 
-The two girls began to eat with abandon using their hands to shuttle food from
+Kaia and Sata began to eat with abandon using their hands to shuttle food from
 the platter directly to their mouths. Lan started to explain the unique origins
 and laud the quality of each food item, but then he fell silent when he
 realized no one was listening to him. Kaia could not help but noticed that Lan
-was growing increasingly uneasy as they ate, but she could not resist the food.
-After the girls cleared almost all of the food on the platter, they looked up
-at Lan with gratitude.
+was growing increasingly uneasy as they ate, but she could not resist the
+food. After the girls cleared almost all of the food on the platter, they
+looked up at Lan with gratitude.
 
 "That was the best meal I've had in my life," Sata said. Kaia
 enthusiastically agreed. "I couldn't eat another bite!"
 
-"Should we have saved some for Arla?", Kaia asked, trying to guess why Lan
-looked so uncomfortable.
+"Should we have saved some for the others?", Kaia asked, trying to guess why
+Lan looked so uncomfortable.
 
 "Oh no, we have plenty of food and there's even more being loaded now."
 
-"Lan, did we do something wrong?", Kaia asked quietly.
+"Lan, did we do something wrong?" Kaia asked quietly.
 
 "Heavens no, you two are absolutely perfect. I was just hoping that you might
 save a little room for the soup, salad, main course, and dessert, but I am so
@@ -216,53 +291,44 @@ his face started to quiver.
 promise!" Kaia said trying to cheer up Lan, but he burst into tears, using the
 bend in his elbow to cover his face.
 
-Kaia sat down next to Lan and put her hand on his shoulder unsure of how to
-console him. When Lan lifted his tear-soaked face to look at Kaia, she was
-stunned to see the deep sorrow in eyes. There was clearly more to the story
-than the appetizer tray. Lan gently leaned into Kaia for a hug, his body was
-occasionally wracked by sobs as he unleashed a waterfall of emotion onto her
-shoulder. When he stopped crying, he looked at Kaia lovingly.
+Arla embraced Lan and stroked his hair. Kaia sat down next to Lan and put her
+hand on his shoulder unsure of how to console him. When Lan lifted his
+tear-soaked face to look at Kaia, she was stunned to see the deep sorrow in
+eyes. There was clearly more to the story than the appetizer tray. Lan gently
+leaned into Kaia for a hug, his body was occasionally wracked by sobs as he
+unleashed a waterfall of emotion onto her shoulder. When he stopped crying, he
+looked at Kaia lovingly.
 
-Lan wiped his eyes and cleared his throat when he heard someone approaching.
-Kaia and Sata's jaws dropped when they recognized who it was. Arla had let her
-hair down and changed from her black jumpsuit into a simple dress and heels.
+Lan wiped his eyes and cleared his throat before saying, "Let's go to the
+observation deck and see the supplies being loaded."
 
-"How do I look?" Arla asked.
-
-When Arla spun around to show off her costume change, Kata and Sata both
-swooned. Sata covered Kaia's eyes with her hand. "Don't get too excited or you
-might start hyperventilating, you creep." Kaia passed Sata a napkin. "Here,
-wipe the drool off your face, you lecher." Lan was clearly
-impressed. "Arluniapyzunia, you are a vision of beauty!" Arla blushed and
-curtsied. "Come on everyone, we are about to lift off," Arla said waving for
-them to hurry. "Let's go see the launch."
-
-The airship had two observation decks, one in the front and one in the
-rear. Each observation deck was a glass protrusion that extended out from the
-metal hull of the airship. Lan led them to the aft observation deck so they
-could see the last passengers boarding and any remaining supplies being loaded.
+Not wanting to ask any uncomfortable questions, Kaia and Sata followed Lan and
+Arla in silence. Lan lead them to the aft observation deck, a glass protrusion
+that extended out from the metal hull of the airship and overlooked the gangway
+leading up into the cargo bay of the airship. After watching the GuardGorillas
+carry supplies into the airship, they noticed a group of people approaching the
+airship.
 
 "There's Taz!" Arla exclaimed pointing towards Officer Kransal.
 
-"And here come Iona, Ursa, Zek, and Zok." Lan said.
+"And Iona, Ursa, Zek, and Zok are with him," Lan added.
 
-"Who are they?" Sata asked.
+"Are they your performance group friends?" Sata asked.
 
-"They're all part of our performance group. Iona directs. Ursa and Zok act.
-Zek writes." Lan answered. "Come on, I'll introduce you."
+"Yes, Iona directs. Ursa and Zok act. Zek writes." Arla answered. "Come on,
+I'll introduce you."
 
-They went to the gangway to greet the new passengers. Taz stood guard over the
-gangway as Iona, Ursa, Zek, and Zok boarded. They took their time going up the
-gangway, as if in slow motion. Kaia could not believe how great they all
-looked, but she tried to hide her amazement, because she did not want to make a
-bad first impression.
+In the cargo bay, they had a great view of everyone climbing the gangway. The
+new arrivals seemed to be moving in slow motion. Kaia could not believe how
+great they all looked, but she tried to hide her amazement, because she did not
+want to make a bad first impression.
 
-"How are they all so tall?" Kaia asked, whispering.
+"How are they all so tall?" Kaia whispered.
 
-"They're seniors," Lan whispered back. Kaia wondered if she and Sata would be
-that tall in a few years. Maybe Sata, but Kaia doubted she would ever be
-considered tall. As the new arrivals walked up in pairs, Lan introduced them,
-starting with Iona and Zek.
+"They're seniors," Arla whispered back. Kaia wondered if she and Sata would be
+that tall in a few years. Kaia doubted she would ever be considered tall. As
+the other performance group members walked up in pairs, Arla introduced them,
+starting with Iona and Iona and Zek.
 
 Iona was cool, composed, and elegant. Her bright violet hair was cut short and
 impeccably styled. She walked up the gangway like a model. Her tall and slender
@@ -282,10 +348,11 @@ be twice as wide as Iona and Zek, while still being just as tall. Kaia had the
 impression that Ursa and Zok were too perfect to be real. They looked like a
 retouched photograph in motion.
 
-When Lan turned and introduced Kaia and Sata, Kaia became self-conscious. She
+When Arla turned and introduced Kaia and Sata, Kaia became self-conscious. She
 realized that she had not looked in a mirror since before the initiation
-rite. Kaia relaxed a little when everyone greeted her warmly and seemed not to
-mind her appearance. Ursa waved, grinned at them, and ran up to Sata and Kaia.
+ceremony. Kaia relaxed a little when everyone greeted her warmly and seemed not
+to mind her appearance. Ursa waved, grinned at them, and ran up to Sata and
+Kaia.
 
 "So nice to meet you! I hope we're going to be best friends!" Ursa said
 enthusiastically. Iona walked up next to Ursa and attempted a smile. Clearly,
@@ -300,8 +367,9 @@ when she felt a strange sensation. She turned around and caught a glimpse of
 Fera and the Principal on a motorcycle through the closing cargo bay doors.
 
 Kaia grabbed Sata and Arla by the arm. "It's Fera! She's still down there!"
-When Sata and Arla looked, Fera was no longer visible.
-"Clear the cargo bay now! We're airborne!" Officer Kransal yelled.
+When Sata and Arla looked, the gangway was obscuring the view and the
+motorcycle was no longer visible. "Clear the cargo bay now! We're airborne!"
+Officer Kransal yelled.
 
 Kaia grabbed Officer Kransal's arm and pleaded for help. "Please our friend is
 down there. The school Principal too."
@@ -309,7 +377,7 @@ down there. The school Principal too."
 Officer Kransal turned away and touch his earpiece. "Cockpit, this is aft
 guard. Do you have visual of anyone on the ground?"
 
-"Understood," Officer Kransal said releasing her earpiece. "They say there's no
+"Understood," Officer Kransal said releasing his earpiece. "They say there's no
 one down there."
 
 "No, I saw them!" Kaia yelled.
@@ -317,13 +385,13 @@ one down there."
 Sata gently took Kaia's arm and spoke to her softly. "Did you really see them,
 Kaia? Or maybe you only thought you saw them?"
 
-Kaia did not answer and instead asked Nara. _You saw them too, right?_ `I see
-everything that you see, but it appears that you were hallucinating.` Kaia
+Kaia did not answer Sata and instead asked Nara. _You saw them too, right?_ `I
+see everything that you see, but it appears that you were hallucinating.` Kaia
 ripped her arm away from Sata and ran up the stairs to the observation
 deck. Once there, Kaia started feverishly looking for Fera on the ground. Sata
-and Arla ran in after her, and started to help her look. Soon, they were so
-high up in the air that the city looked like a tabletop model. Kaia fell to her
-knees and struck at the glass with her fists.
+and Arla ran in after her, and started to help her look. The market square
+looked empty. Soon, they were so high up in the air that the city looked like a
+tabletop model. Kaia fell to her knees and struck at the glass with her fists.
 
 "We left them! We left them behind to die!" Kaia screamed, breaking into tears.
 
@@ -343,7 +411,7 @@ leaving the city in time."
 
 "Are you sure? They were on a motorcycle."
 
-"Yes, I am certain. Getting out of the blast zone by motorcycle would take
+"Yes, I'm certain. Getting out of the blast zone by motorcycle would take
 hours."
 
 Kaia began crying anew. Officer Kransal tried to reason with her. "We waited as
