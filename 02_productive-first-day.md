@@ -632,17 +632,17 @@ you can at least be good cannon fodder."
 "Ben and Edl are coming to stop the self-destruct command."
 
 "You're not the only one with a plan. I had every large AnimalAutomaton, except
-for these GuardGorillas, gather on all of the floors above us and now I'm going
-to detonate all of their fuel cells at once. You might want to cover your
-ears."
+for these GuardGorillas, gather above us and now I'm going to detonate all of
+their fuel cells at once. You might want to cover your ears."
 
-Fera had the GuardGorillas protect Raf, the Principal, and herself. After a
-tremendous explosion, the hallway was bathed in light shining through the hole
-in the ceiling above them. When Fera's eyes adjusted to the light, she saw that
-Raf was already trying to escape down the hallway. Fera charged forward on her
-sole working powerskate, meandering around the rubble. She saw Raf's outline in
-the shadows, she kicked out the vomit-covered powerskate and was surprised at
-how solidly it connected. Fera kicked Raf until he stopped moving.
+Fera commanded the GuardGorillas to protect Raf, the Principal, and herself
+from the tremendous explosion that punched a hole in the ceiling above. The
+hallway was bathed in light. When Fera's eyes adjusted to the light, she saw
+that Raf was already trying to escape down the hallway. Fera charged forward on
+her sole working powerskate, meandering around the rubble. When Fera caught up
+to Raf, she could only see his outline in the shadows. She kicked out the
+vomit-covered powerskate and was surprised at how solidly it connected. Fera
+kicked Raf until she was sure that he would not try to run again.
 
 Fera was surprised when Raf continued to speak. "Ben read your profile after we
 recovered from the BuzzBee stings. Ben said that you have anger management
@@ -688,12 +688,12 @@ gasping for breath from the exertion. Raf was not making any sound whatsoever.
 Fera dropped to her hands and knees, listening for breathing or any signs of
 life.
 
-"Are you concerned for my wellbeing?", Raf whispered, scaring Fera.
+"Are you concerned for my wellbeing?", Raf whispered, startling Fera.
 
 "No!" Fera replied, punching Raf in the face with a begloved hand. Fera looked
 at Raf. His face was swollen and covered with bruises. Was he not defending
 himself at all from her kicks? What a wimp! "Get moving. We can't waste anymore
-time. What are you waiting for? Why are you wasting time just laying there?"
+time. What are you waiting for? Why are you just laying there?"
 
 "Please wait a moment," Raf said with eyes closed.
 
@@ -712,22 +712,46 @@ tell anyone anything!" Raf exclaimed.
 Fera stood up and then immediately crouched down again. The hallway was
 suddenly filled with sound and movement as a thick mass of birds flew in
 through the holes in the walls. Raf pulled Fera down and shielded her from the
-birds with his body. Fera signalled to every nearby robotic bird, bat, and bee
-to fight the avian invaders. "Did you do this?" Fera asked over the sound of
-the birds clashing with the AnimalAutomatons.
+birds with his body. Fera freed her arms from out under Raf and signalled to
+every nearby robotic bird, bat, and bee to fight the avian invaders.
+
+"Did you do this?" Fera asked over the sound of the birds clashing with the
+AnimalAutomatons.
 
 Raf nodded. "I am sorry, Fera, but my diversion worked. I think you are really
-amazing, but I cannot allow you to blow up the school," Raf said as he floated
-away from Fera. Ben and Edl were standing over Fera. Edl was holding Raf in his
-arms, while Ben was holding a StunStaff in each hand. "Greetings Fera. Could
-you please deactivate the school self-destruct system?"
+amazing, but I can't let you to blow up the school."
+
+"Get off me, Raf, I'm not your sister!"
+
+"I can't until Ben and Edl arrive."
+
+"You're bloody and gross!"
+
+"I'm sorry for bleeding on you."
+
+Fera placed her functional powerskate on the ground and activated it. The
+powerskate pulled Fera out far enough from under Raf that she was able to
+wriggle free. Staying low to the ground to avoid the overhead, Fera prodded
+Raf.
+
+"Give me your flashlight," Fera demanded.
+
+Emerging from the cloud of flying creatures, Edl scooped Fera up, pushed her
+against the wall, and placed his hands on her shoulders to her immobilized. Ben
+walked in under Edl's arms and stood in front of Fera. Edl leaned forward to
+create a protective arch with his body, insulating Ben and Fera from the
+battling birds, bats, and bees.
+
+"Greetings Fera, could you please deactivate the school self-destruct system?"
+Ben asked.
 
 "No," Fera said defiantly, calling the GuardGorillas to attack Ben and
 Edl. Nothing happened.
 
-"I disabled the GuardGorillas while you was distracted by the birds. If you
-continue to refuse, I'm afraid that I will have to shock you," Ben said. Ben
-brought the StunStaffs together. They crackled with electricity.
+ "I disabled the GuardGorillas while you was distracted by the birds. If you
+ continue to refuse, I'm afraid that I will have to shock you," Ben said. Ben
+ was holding a StunStaff in each hand. He brought the StunStaffs together. They
+ crackled with electricity.
 
 "You can take those StunStaffs and shove them up your-" Fera was interrupted by
 the shock.
@@ -735,25 +759,24 @@ the shock.
 "I really hate to have to insist, but I am still locked out of the system. Are
 you open to deactivating the school self-destruct system now?"
 
-"No, but maybe one more shock will do the trick," Fera said with a devilish
-smile. Ben sighed and brought one of the StunStaffs in for another shock. This time,
-Fera grabbed the StunStaff and pulled Ben in. With her other hand, Fera grabbed
-Ben's wrist and shocked him with her powerglove. Ben crumpled to the floor. Edl
-set Raf down on the ground and picked up Ben, cradling him in his arms. Edl
-looked at Fera with tears in his eyes and then ran down the dark hallway,
-carrying Ben to safety.
+"No, but maybe one more shock will do the trick," Fera said with a demonic
+smile. Ben sighed and brought one of the StunStaffs in for another shock. This
+time, Fera took hold of the StunStaff and pulled Ben in. With her other hand,
+Fera grabbed Ben's wrist and shocked him with her powerglove. As soon as he saw
+Ben crumple to the floor, Edl burst into tears, picked up his brother, and
+cradled him in his arms. Moving around Edl, Fera saw that aerial battle had
+mostly come to an end. The hallway was filled with rubble, destroyed
+AnimalAutomatons, and dead birds. Raf was on his knees and crying.
 
-An automated voice reminded them that they should evacuate the building. Fera
-saw that Raf had fallen to his knees and started to cry. The hallway was filled
-with rubble, destroyed AnimalAutomatons, and dead birds. Fera went up to Raf
-and gave him a kick. "What are you doing? We have to get out of here."
+Fera was losing patient. "You're crying too? Again? What a bunch of crybabies!"
 
 "They're dead. You killed them," Raf sobbed.
 
 "I didn't kill anyone. Everyone started evacuating as soon as I turned on the
 self-destruct sequence."
 
-Raf gingerly picked up a dead bird and hugged it to his chest as he cried.
+Raf opened his hands to reveal a dead bird and then went back to hugging it to
+his chest as he cried.
 
 "You mean the birds?!" Fera screamed, suddenly feeling full of rage. She
 started kicking Raf as hard as she could. Fera kept kicking even after Raf fell
@@ -761,6 +784,8 @@ over. When one leg got tired, Fera switched to the other leg. After her rage
 dissipated, Fera remembered the impending destruction of the school. She tried
 to pick Raf up, but he was completely limp. Fera pulled the flashlight out of
 Raf's pocket and used it to shine a light down the dark hallway.
+
+...
 
 "Come on," Fera yelled at the Principal as she took Raf's arm and activated her
 the one powerskate that was still working. The Principal could not keep up.
