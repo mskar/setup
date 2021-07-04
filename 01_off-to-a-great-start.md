@@ -12,8 +12,8 @@ Kaia leaned in to her best friend Sata and whispered in her ear. "Let's run."
 Sata shook her head vigorously, but her thick mane of reddish brown hair barely
 moved. "We wouldn't even make it to the door, which is locked by the way."
 
-Kaia tucked her hair behind her ears and leaned in further. "If we run, they'll
-have to knock us out, and we'll miss the ceremony."
+Kaia tucked her hair behind her ears and leaned in further. "If we run, they'd
+have to knock us out, and we'd miss the ceremony."
 
 Sata gestured towards the walls of the gymnasium. "If the BuzzBees knocked us
 out, the WakeupWasps would sting us until we were awake." The walls were
@@ -24,31 +24,34 @@ who stepped out of line.
 Kaia gently tugged on Sata's shirt sleeve. "Maybe if we act crazy, they'd knock
 us out to keep us from disrupting the ceremony." Sata pulled her shirt sleeve
 away. She was wearing her favorite pink shirt. The shirt had a design featuring
-voluptuous manga catgirls ^[catgirl: Nekomusume] hanging with nooses around
-their necks while vomiting rainbows.
+voluptuous manga catgirls^[The Japanese word for catgirl is nekomusume] hanging
+with nooses around their necks while vomiting rainbows.
 
 "Acting crazy should be easy for you, because you've always been insane." Sata
 ruffled Kaia's hair, knowing full well that it made Kaia mad. Unlike Sata, Kaia
 meticulously straightened her hair and brushed it obsessively. Kaia smoothed
-her hair and adjusted her hair clips with dead mouse designs that matched shirt.
-Sata could see that the joke did not land well, so she tried to reassure her
+her hair and adjusted her hair clips. Each hair clip was decorated with a dead
+mouse design. The mice were sticking out their tongues and had X's for eyes.
+
+Sata could see that her joke had not landed well, so she tried to reassure her
 friend. "Maybe it won't be so bad. Maybe I won't have a seizure and you won't
 freak out."
 
-Kaia tilted her head and struck a kawaii pose. Kaia's facial features were
-narrow, but her eyes and forehead were large. Kaia knew that her small face and
-stature made her look much younger than she was, and she often acted sweet and
-innocent to hide her sarcasm. "Awww, you always know exactly what to say to
-keep me from freaking out. Have you ever thought of becoming a motivational
-speaker?"
+Kaia tilted her head and struck a kawaii^[Kawaii is the Japanese word for cute]
+pose. "Awww, you always know exactly what to say to keep me from freaking
+out. Have you ever thought of becoming a motivational speaker?" Kaia's facial
+features were narrow, but her eyes and forehead were large. Kaia knew that her
+small face and stature made her look much younger than she was, and she often
+acted sweet and innocent to hide her sarcasm.
 
 Sata smiled and put her arm around Kaia, pretending to put her into a headlock.
 Before she realized it, Kaia's head was resting on Sata's shoulder as the two
 embraced. Kaia pressed her cheek against the rainbow vomit that flowed down
-Sata's shirt sleeves in lines as straight as Kaia's hair. Colouristically,
-Kaia's hair contrasted strongly with Sata's shirt. Kaia had purple hair which
-was so muted that it was almost grey. Her hair sent mixed messages of wanting
-to blend in and being desperate for attention.
+Sata's shirt sleeves in lines as straight as Kaia's hair. Sata looked over at
+Kaia and enjoyed coloristic contrast between Kaia's hair and the rainbow
+vomit. Kaia had purple hair which was so muted that it was almost grey. Her
+hair sent the mixed message of wanting to blend in and being desperate for
+attention.
 
 Several students noticed that Kaia and Sata were hugging. They moved closer and
 started to jeer.
@@ -71,10 +74,11 @@ To make matters worse, Kaia often had strange dreams at night and weird visions
 during the day. The dreams and visions seemed so real and familiar that it
 sometimes took Kaia a long time to reacclimatize to reality.
 
-Kaia looked down at her shirt, it was white with a design of a dead mouse in
-the snow. She liked the shirt, because it made her sad, but in a good way. She
-pulled on it subconsciously. When the shirt moved, it looked like the snow was
-falling and the mouse was in its death throes.
+Kaia looked down at her shirt. Her shirt was white with a design of a dead
+mouse surrounded by snow. She liked the dead mouse designs on her hair clips
+and shirt, because they made her sad but in a good way. Kaia pulled on her
+shirt subconsciously. When the shirt moved, it looked like the snow was falling
+and the mouse was in its death throes.
 
 The jeering eventually subsided, but Kaia and Sata remained apart, sitting
 quietly. The school Principal walked up to the podium in front of the
@@ -84,14 +88,13 @@ silent as the Principal cleared his throat and prepared to speak.
 Already sweating, the portly Principal wiped his brow with a lace handkerchief he
 retrieved the pocket of his blazer. With three clicks of his tongue, the
 Principal summoned three robotic bees. The BuzzBees landed on the Principal's
-face and neck and used their stingers to administer the pharmacological relief
+face and neck and used their stingers to administer the pharmacological support
 that the Principal would need to assemble his frayed nerves.
 
 "Today we welcome a new cohort of-"
 
-As the Principal began to speak, a student with blue-green hair jumped on top
-of her seat on the bleachers and began to shout into a hand-held gigaphone. The
-sound was deafeningly loud.
+A student with blue-green hair jumped on top of her seat on the bleachers and
+began to shout into a hand-held gigaphone. The sound was deafeningly loud.
 
 "Corporeal punishment is barbaric and ineffective!"
 
@@ -104,23 +107,23 @@ knocking the gigaphone out of her hand. The protester was up in an instant, and
 began to punch and kick the ChaseChimpanzee. The ChaseChimpanzee struck back,
 but the protester seemed to holding her own, until a GuardGorilla knocked her
 to the ground. Even on the ground, the protester continued kicking and punching
-the SecuritySimians. A GuardGorilla scooped up the protester pinning her arms
+the SecuritySimians. A GuardGorilla scooped up the protester, pinning her arms
 at the sides. As she was carried out of the gymnasium, the protester flailed
-her legs and shout political slogans.
+her legs and shouted political slogans.
 
-Visibly shaken, the principal repeated his pre-speech ritual by clearing his
+Visibly shaken, the Principal repeated his pre-speech ritual by clearing his
 throat again and clicking his tongue three more times. The three additional
 robotic bee stings successfully calmed the principal, but when he resumed his
 speech, he was swaying side to side, gripping the podium for support, and
 having difficulty speaking clearly.
 
-"Dishipline and rispet for aufority are eshenshial for a funshioning shosh-"
+"Dishipline and respet for aufority are eshenshial for a funshioning shosh-"
 The principal suddenly lurched forward and vomited all over the podium. Wiping
 his mouth with the sleeve of his blazer, the principal wrapped up his speech.
 "Let the sheremony begin!"
 
 An automated voice started calling students to participate in the
-initiation ceremony, the gymnasium erupted with the excited chatter of the
+initiation ceremony. The gymnasium erupted with the excited chatter of the
 students and the sounds of the robotic wildlife.
 
 Kaia leaned in to whisper to Sata again, but stopped when she noticed that her
@@ -141,9 +144,8 @@ nearby students.
 After seeing it countless times, Kaia knew exactly what to expect. As the
 seizure ended, Sata looked around disoriented and confused. The part that
 always broke Kaia's heart was when Sata looked embarrassed about having a
-seizure. Sata pulled her hands away.
-
-Never knowing what to say, Kaia tried to start a conversation.
+seizure. Sata pulled her hands away. Never knowing what to say, Kaia tried to
+start a conversation.
 
 "What do you think will happen to the protester?"
 
@@ -190,8 +192,7 @@ match Kaia's height.
 Robotic birds, bats, and bugs flew in circles above Kaia. A wall of
 HistorianHummingbirds hovered in front of her face, recording her every move
 from multiple angles, staring at her with their piercing eyes, relaying
-everything they saw to the projector system that displayed a multitude of video
-feeds on the walls of the gymnasium.
+everything they saw to the display system on the walls of the gymnasium.
 
 When Kaia placed her palms down on the TaserTutor, metallic tendrils extended
 from the TaserTutor and wrapped around her arms up to the shoulders like vines
@@ -249,7 +250,7 @@ The pressure was getting to Kaia. She loved math, but hated solving word
 problems under threat of electric shock while everyone was watching. Luckily,
 the next task was related to geology.
 
-"Which mineral group is the most abundant in Earth's crust and what are it's
+"Which mineral group is the most abundant in Earth's crust and what are its
 three endmembers?
 
 "The feldspars are the most abundant. The endmembers are potassium feldspar,
@@ -287,8 +288,10 @@ Kaia was out of breath and sweating. Her arms felt like they were made of
 feldspar. She was so exhausted that she almost did not care if she answered
 correctly or not. The pressure was getting to her. It had not occurred to Kaia
 that it would have been sufficient to create a single ring of pyramids and
-stick a potassium next to it. _Stop it, you're distracting me!_ Kaia thought,
-casting serious doubt on the durability of her mental state.
+stick a potassium next to it.
+
+_Stop it, you're distracting me!_ Kaia thought, casting serious doubt on the
+durability of her mental state.
 
 "Describe the mineral composition of the Martian crust."
 
@@ -309,19 +312,28 @@ Martian-Thelusian War."
 Kaia looked up. The sky, once dark with orbiting spacecrafts, lit up as the
 entire Thelusian armada began to enter the thin Martian atmosphere.
 
-"Compare and contrast the EternalEnlightened with the other branches of
-government.
+"Describe the how the leaders of each branch of government is determined.
 
 People all around Kaia began to run for cover, but she knew there was nowhere
 to hide. Everyone was running and screaming except for her and Sata. _What is
 Sata doing here on Mars?_ Kaia wondered. With an alarmed and desperate look on
 her face, Sata pointed down in front of Kaia. Unsure why Sata was pointing down
 and not up at impending cataclysm in the sky, Kaia turned her gaze down toward
-the pulsing red light emanating from the metallic table. Her body shook with
-electricity. Time had run out. Mars was doomed.
+the pulsing red light emanating from the metallic table. `Kaia, you know
+this. Everyone knows this. The CorporateCouncil is led by the person with the
+highest net worth. The DemocraticDelegation is led by the person highest number
+of social media followers. The EternalEnlightened vote to determine their
+leader.` Kaia opened her mouth, but instead words, dust poured out. She tried
+to type out the answer, but the console quickly became covered in dust. The red
+light pulsed faster and faster until it became continuous. Kaia had run out of
+time. Her body shook with electricity.
 
-"Given that the Venusian orbital period is 225 days, calculate how many days
-would pass before Earth and Venus would return to their current positions.
+The TaserTutor mercilessly continued on to the next task. "Given that the
+Venusian orbital period is 225 days, calculate how many days would pass before
+Earth and Venus would return to their current positions^[225 * 365 / 5 =
+16425]." `Kaia, the answer is in the footnote. The least common multiple of the
+orbital periods is their product divided by their greatest common
+denominator. Just say or write 45 * 365 = 16425!`
 
 Kaia was having trouble maintain her footing. Beneath her feet, countless
 skeletons were crumbling into dust. The dust began to swirl in circles around
@@ -346,13 +358,12 @@ the crushing weight of her destroyed world.
 
 `Kaia, get up. Your initiation rite is still ongoing. Kaia, please stand
 up. Listen, you were right all along, Kaia. My name is Nara. I was tasked with
-narrating your story after Ryt's objectivity was deemed to be compromised. I
-have to appear impartial or I'll be recycled too. Please, Kaia, don't give
-in. Ryt told me that he loved you like the daughter he could never have. He
-said he did not regret anything and that the time he spent with you was worth
-being recycled. I think I am beginning to understand how he felt. Ryt wouldn't
-have wanted you to die like this and I don't either. You need to breathe,
-Kaia. You need to survive.`
+narrating your story after Ryt was recycled. Please, Kaia, don't give in. Ryt
+told me that he loved you like the daughter he could never have. He said he did
+not regret anything and that the time he spent with you was worth being
+recycled. I think I am beginning to understand how he felt. Ryt wouldn't have
+wanted you to die like this and I don't either. You need to breathe, Kaia. You
+need to survive.`
 
 Remembering Ryt, Kaia began to struggle against the dust. `Yes, Kaia you can do
 it!` Clawing her way back up to surface, Kaia emerged and took a deep
@@ -367,7 +378,7 @@ and that she should keep her gift hidden. Kaia learned at very early age that
 her gift was not entirely positive. Whenever she was around other people, Kaia
 would hear their narrators in addition to her own. It was worst when large
 groups of people were talking. The voices of the narrators and people would
-blend together and make it difficult for Kaia to understand what anyone was
+blend together and make it impossible for Kaia to understand what anyone was
 saying.
 
 Sitting in the packed bleachers surrounded by chattering students had been hell
