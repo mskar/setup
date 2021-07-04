@@ -37,23 +37,23 @@ been a few hours?!" Sata exclaimed.
 "It could be broken," Kaia suggested.
 
 "It's not broken. You've really only been here just a few hours." Kaia and Sata
-turned around and saw Dik's head poking out from behind a nearby curtain.
+turned around and saw Dun's head poking out from behind a nearby curtain.
 
 "What are you doing here?" Sata asked suspiciously.
 
-Dik stepped out from behind the curtain to show that his arms were encased in
+Dun stepped out from behind the curtain to show that his arms were encased in
 casts. "Someone sneaked up behind me, knocked me down, broke my arms, and then
 disappeared."
 
 "Good," Sata said, "You deserve it."
 
-"You're right, I'm sorry for what I did." Dik said lowering his head. "I know
+"You're right, I'm sorry for what I did." Dun said lowering his head. "I know
 it was wrong, and I regret it."
 
 Sata crossed her arms. "The only reason you feel bad is because you got your
 arms broken."
 
-Dik shook his head. "I felt bad about it even before my arms were broken. I'm
+Dun shook his head. "I felt bad about it even before my arms were broken. I'm
 not trying to come up with excuses for what I did, but ever since I arrived at
 the camp I've been on my own. My dad never showed up. I am pretty sure he died
 in the explosion. I didn't have any money. My friends and I slept on the grass
@@ -62,16 +62,16 @@ last night. Some older kids stole our rations."
 Sata quickly lost patience. "If you're trying to make us feel sorry for you,
 it's not going to work."
 
-Dik got to the point. "Wait, there's something else. Someone paid me to beat
+Dun got to the point. "Wait, there's something else. Someone paid me to beat
 you up."
 
 "What?! Who was it?"
 
-Dik shook his head. "I don't know. There was an anonymous message with
+Dun shook his head. "I don't know. There was an anonymous message with
 instructions. All of my friends got the same message. I can show it to you if
 you want."
 
-Dik brought the message up on the console. While reading it, Kaia said,
+Dun brought the message up on the console. While reading it, Kaia said,
 "Whoever sent this knew that we would be wearing Rainbow BugBall uniforms and
 running away from All Grays fans."
 
@@ -92,45 +92,45 @@ up?"
 
 Kaia shrugged. "I don't know."
 
-Dik had an idea. "Maybe it has something to do with your superpowers?"
+Dun had an idea. "Maybe it has something to do with your superpowers?"
 
 Kaia recoiled in surprise. "What superpowers?"
 
-Dik raised his hands. "Don't worry, I won't tell anyone."
+Dun raised his hands. "Don't worry, I won't tell anyone."
 
 Sata shook her head. "We don't have superpowers."
 
-Dik tapped his temple. "I'm not dumb. You obviously have super
+Dun tapped his temple. "I'm not dumb. You obviously have super
 healing. Yesterday, you made a bird fly into my head two separate times. Today,
 you attacked me with your psychic powers. At first, I couldn't see anything and
 felt like I was doing flips in space. Then, when I could see again, I was so
-scared that I ran and hid, and-" Dik suddenly took a step back, his face frozen
+scared that I ran and hid, and-" Dun suddenly took a step back, his face frozen
 in horror. "You did it! You broke my arms!"
 
 Sata got angry. "There's no way. We were unconscious."
 
-Dik pointed at the girls. "You did it with your minds."
+Dun pointed at the girls. "You did it with your minds."
 
 "Doesn't it make more sense that your arms were broken by the person who sent
 you the message?" Kaia asked.
 
-Dik thought about it. "Maybe they were trying to keep me quiet."
+Dun thought about it. "Maybe they were trying to keep me quiet."
 
 "We need to look for clues about who it was," Sata suggested.
 
-"We can't," Dik said, "They won't let us leave this yurt."
+"We can't," Dun said, "They won't let us leave this yurt."
 
 "Why not?" Sata asked.
 
 "They think we were at the center of some kind of experimental weapon strike,"
-Dik explained. "I tried to tell them that it was your superpowers, but they
+Dun explained. "I tried to tell them that it was your superpowers, but they
 wouldn't listen to me."
 
-Sata pointed at Dik. "You said you wouldn't tell anyone."
+Sata pointed at Dun. "You said you wouldn't tell anyone."
 
-Dik smiled triumphantly. "And you said you didn't have superpowers."
+Dun smiled triumphantly. "And you said you didn't have superpowers."
 
-Sata clearly exhausted all of patience she had allotted for Dik. "Come on Kaia,
+Sata clearly exhausted all of patience she had allotted for Dun. "Come on Kaia,
 we're leaving."
 
 As Kaia and Sata were looking for the exit, Ben and Edl rushed up to them.
@@ -157,13 +157,13 @@ attack you this afternoon and that I am the prime suspect."
 
 "We know someone planned the attack." Sata said pointing at the console they
 had used earlier. Ben zipped up to the console on his powerskates and began to
-read the message that Dik had received.
+read the message that Dun had received.
 
 Kaia, Sata, and Edl walked up behind Ben. Sata looked over Ben's shoulder and
 asked, "You can access other people's messages?"
 
 Ben was tapping furiously at the console, but managed to reply. "Yes, I pulled
-up the most recent message. It appears the recipient, Dikkobraz Naiksos, agreed
+up the most recent message. It appears the recipient, Dunkobraz Naiksos, agreed
 to lead the attack against you in exchange for a tidy sum. He received the full
 amount after you were attacked. Why would he show you this self-incriminating
 evidence?"
@@ -173,17 +173,17 @@ evidence?"
 "He's scared, because someone broke arms," Sata corrected.
 
 "I assume he is somewhere nearby," Ben said. Edl went behind the curtain that
-Sata had indicated and returned holding Dik by the back of his patient gown.
+Sata had indicated and returned holding Dun by the back of his patient gown.
 
-"Excellent! The EternalEnlightened have already passed judgment. Dik will
+"Excellent! The EternalEnlightened have already passed judgment. Dun will
 provide financial compensation to the injured parties, have all of the bones in
 his body broken without anesthesia, and be sent to prison as soon as he is
-cleared for launch. I already transferred all of Dik's funds to your accounts
+cleared for launch. I already transferred all of Dun's funds to your accounts
 as partial payment of the injury compensation. I recommend doling out the
 subsequent subsequent punishment immediately," Ben said and nodded to Edl.
 
-Edl grabbed Dik by the arm, threw him on the floor, and started snapping each
-of the fingers sticking our from the cast. Dik howled in pain, but could not
+Edl grabbed Dun by the arm, threw him on the floor, and started snapping each
+of the fingers sticking our from the cast. Dun howled in pain, but could not
 break free of Edl's grip.
 
 "Stop, don't hurt him!" Kaia yelled. Ben raised his hand and Edl froze in
@@ -191,9 +191,9 @@ mid-snap.
 
 Ben bowed his head towards Kaia. "I am sorry, Kaia, based on the protest you
 staged with Fera yesterday, I should have guessed that you would not approve of
-corporeal punishment. Nevertheless, it would be best for Dik if his bones were
-broken as soon as possible. If we hand Dik over to the authorities now, they
-may wait until Dik is already in space. Bones do not heal properly in
+corporeal punishment. Nevertheless, it would be best for Dun if his bones were
+broken as soon as possible. If we hand Dun over to the authorities now, they
+may wait until Dun is already in space. Bones do not heal properly in
 microgravity. On the other hand, if we break his bones now he may heal
 completely before he is sent to prison."
 
@@ -205,7 +205,7 @@ later."
 
 "Can we ask the EternalEnlightened to pardon him?" Kaia asked.
 
-Ben nodded. "Yes, we can. A partial pardon could be advantageous. Dik is more
+Ben nodded. "Yes, we can. A partial pardon could be advantageous. Dun is more
 likely to be able to pay the remaining injury compensation he owes you if his
 bones remain intact and he is not sent to prison. Would you like the partial
 pardon to apply to all of your assailants?"
@@ -218,12 +218,12 @@ Kaia was adamant. "No more broken bones."
 
 The response was immediate. Ben explained the result. "The EternalEnlightened
 suspended the prison sentence and reduced the corporeal punishment to the
-injuries that Dik has already sustained." Dik looked up at Kaia and Sata and
+injuries that Dun has already sustained." Dun looked up at Kaia and Sata and
 thanked them profusely while clutching his recently broken fingers, then
 slipped back behind the curtain he was hiding behind before.
 
 Ben moved on to the next topic. "As for the mysterious origins of the message
-that Dik received, I have no way of proving my innocence. I can only say that I
+that Dun received, I have no way of proving my innocence. I can only say that I
 certainly had nothing to gain from planning the ambush."
 
 "We think the Rainbow club owner might be involved. He's the one who gave us
@@ -811,11 +811,11 @@ financial and moral support from Fera?
 
 All the boys who attacked Kaia and Sata show up at the party. Each boy has two
 broken arms and a few broken fingers, because their punishment has to match the
-punishment that Dik received.
+punishment that Dun received.
 
 
 - he was desperate for money since his father disappeared - someone paid him to
-attack Kaia and Sata, but that he has no idea who it was - Dik tells his story
+attack Kaia and Sata, but that he has no idea who it was - Dun tells his story
 - he was left shaken by a strange experience after he led the attack against
 Kaia and Sata - after he recovered, he felt extremely afraid and ran away - as
 he was running, he was attacked from behind
@@ -847,19 +847,19 @@ Rainbow scarves and hats. Sata tells Dar to that they're not interested. Iona
 later brings up the contract and asks if Kaia and Sata want her to negotiate
 with Dar for them. Kaia and Sata say that they will think about it.
 
-Later, Dik shows up in the infirmary to ask for forgiveness and for Kaia and
-Sata to sign his casts. Fera was going to break Dik's legs too, but she felt
-bad for the person that would have to carry Dik around. Kaia and Sata find out
-that someone paid Dik, his D-Dogs, and the soccer hooligans to beat them
+Later, Dun shows up in the infirmary to ask for forgiveness and for Kaia and
+Sata to sign his casts. Fera was going to break Dun's legs too, but she felt
+bad for the person that would have to carry Dun around. Kaia and Sata find out
+that someone paid Dun, his D-Dogs, and the soccer hooligans to beat them
 up. They immediately think it was Dar who paid their attackers. Iona tells them
 about "Qui Bono" and says that Dar stands the most to gain from them being beat
 up.
 
 ...
 
-In the infirmary Ursa and Iona ask if Kaia wants them to beat up Dik, but Kaia
+In the infirmary Ursa and Iona ask if Kaia wants them to beat up Dun, but Kaia
 says no. Sata says that they could at least give him a black eye, but Kaia says
-that it wouldn't help them and that Dik must be emotionally hurt because he
+that it wouldn't help them and that Dun must be emotionally hurt because he
 believes that his father died in the explosion.
 
 Lan and Arla visit Kaia and Sata. They say that they are rehearsing for a dance
@@ -898,9 +898,9 @@ That evening Kaia and Sata watch the remembrance ceremony on the walls of the
 infirmary yurt. That night Kaia cannot sleep and she sees Fera. Not believing
 her eyes, Kaia thinks she is dreaming or hallucinating.
 
-Fera says that she broke both of Dik's arms after finding out what he did to
-Kaia and Sata. Kaia thinks that means that she broke both of Dik's arms and
-feel very sorry. She tells Sata that she broke Dik's arms with her mind. Sata
+Fera says that she broke both of Dun's arms after finding out what he did to
+Kaia and Sata. Kaia thinks that means that she broke both of Dun's arms and
+feel very sorry. She tells Sata that she broke Dun's arms with her mind. Sata
 says that she normally wouldn't believe it, but she is ready to believe
 anything after seeing Zek's demo.
 
@@ -920,10 +920,10 @@ that she's alive a secret until she can be sure that she is not wanted to
 blowing up the city. Kaia tells Fera that they will be staying in the refugee
 camp permanently, because the city is being rebuilt for new residents. Fera
 gets angry, but says she is learning to control her anger. For example, she
-says that barely enjoyed breaking Dik's arms and that she almost felt sorry for
+says that barely enjoyed breaking Dun's arms and that she almost felt sorry for
 him afterwards. He seem relieved when I told him that his father is alive.
 
-The Principal is alive? How did you survive the explosion?
+The Provost is alive? How did you survive the explosion?
 
 The chapter ends with Fera beginning to tell them her story.
 
@@ -1000,7 +1000,7 @@ original refugees that already lived in the camp. Lan decides to work in the
 kitchen and uses his connections and swagger to get more food and other
 supplies for the camp.
 
-Kaia is ambushed by Dik and his posse (who were secretly hired by Zek) in the
+Kaia is ambushed by Dun and his posse (who were secretly hired by Zek) in the
 cafeteria. Edl goes to help Ben instead of Kaia. Ursa and Iona are not around.
 Arla is with Kransal. Only Zek is around to save Kaia.
 
@@ -1009,7 +1009,7 @@ night.
 
 "Just when I thought I was finally fitting in."
 
-Fera, Raf, and Naksos arrive at the refugee camp. Dik is reunited with his
+Fera, Raf, and Naksos arrive at the refugee camp. Dun is reunited with his
 father. Raf is reunited with Arla and Lan. Fera tells Kaia and Sata that she
 has changed and is deeply sorry for how she behaved earlier.
 

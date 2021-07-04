@@ -898,7 +898,7 @@ gray. "You Rainbow fans?" one of the men asked.
 both panting for breath. Looking around to see if any of the men had followed
 them, they were stunned to see a group of boys closing in to surround them.
 
-"Remember me?" Dik asked menacingly. Kaia did not know what to do and looked to
+"Remember me?" Dun asked menacingly. Kaia did not know what to do and looked to
 Sata for guidance, but Sata was staring blankly off into the distance. The boys
 shoved Kaia and Sata to the ground and started kicking them. Sata was still
 recovering from having a seizure and was unable to defend herself. Kaia tried

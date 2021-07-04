@@ -388,9 +388,9 @@ flying AnimalAutomatons into your opponents?"
 "Yes, any AnimalAutomatons can be used, but birds have the right combination of
 speed and mass."
 
-"Did you make a bird hit Dik in the head?"
+"Did you make a bird hit Dun in the head?"
 
-"Who is Dik?"
+"Who is Dun?"
 
 "A boy who was bullying me and two other girls."
 
@@ -467,7 +467,7 @@ after them.
 
 On her way out of the workshop, Fera commanded the ChaseChimps and the
 GuardGorilla to keep the boys in the workshop. Fera sped down the hallway
-towards the Principal's office, but she turned around when she heard a fierce
+towards the Provost's office, but she turned around when she heard a fierce
 battle cry behind her. It was Edl, covered in BuzzBees, sprinting toward her.
 
 Fera started to command every AnimalAutomaton in the hallway to attack Edl. Edl
@@ -475,20 +475,20 @@ slowed down as the AnimalAutomatons began to pile on. Before going
 around the corner, Fera saw Edl under a mountain of AnimalAutomatons, valiantly
 trying to fight them all off.
 
-Fera burst into the Principal's office and ordered the AnimalAutomatons
+Fera burst into the Provost's office and ordered the AnimalAutomatons
 inside to stand down.
 
 "Here's what's going to happen, you sack of-", Fera stopped when she saw that
-the Principal was sleeping in his usual position, head tilted back and mouth
-opened. Jumping on top of the desk, Fera kicked the Principal in his face until
+the Provost was sleeping in his usual position, head tilted back and mouth
+opened. Jumping on top of the desk, Fera kicked the Provost in his face until
 he woke up. Placing one of her powerskates on his chest and lunging forward as
 if she were stretching her psoas muscle, Fera leaned in and looked at the
-Principal menacingly. "I want a full pardon for me and the other girls."
+Provost menacingly. "I want a full pardon for me and the other girls."
 
-The Principal looked back and forth between Fera and the powerskate on his
-chest. Then, the Principal opened his mouth to speak, but instead vomited all
+The Provost looked back and forth between Fera and the powerskate on his
+chest. Then, the Provost opened his mouth to speak, but instead vomited all
 over Fera's powerskate. Fera recoiled in disgust, then she instinctively kicked
-the Principal in the face repeatedly, sending specks of vomit flying in all
+the Provost in the face repeatedly, sending specks of vomit flying in all
 directions. "Get the pardons! For me, Kaia, and Sata."
 
 "I don't haf that aufority!"
@@ -498,20 +498,20 @@ while the GuardGorillas hold you down."
 
 "You're bluffing."
 
-Fera signaled to the GuardGorillas to take the Principal to ground. She jumped
+Fera signaled to the GuardGorillas to take the Provost to ground. She jumped
 down from the desk and lowered the vomit-covered powerskate towards the
-Principal's face. When Fera activated the powerskate, it sprayed the Principal
-with his own vomit. Whenever Fera touched the powerskate to the Principal's
+Provost's face. When Fera activated the powerskate, it sprayed the Provost
+with his own vomit. Whenever Fera touched the powerskate to the Provost's
 face, her leg would fly forward as she were kicking an invisible foe.
 
 "Shtop, Shtop, please. I'll requesht the pardonsh!"
 
 "Oh, you're no fun.", Fera said as she commanded the GuardGorillas to put the
-Principal back in his chair. The Principal cleared his throat, wiped his face
+Provost back in his chair. The Provost cleared his throat, wiped his face
 with the sleeve of his blazer, and started entering the pardon requests as Fera
 stood over him making sure he did not try any tricks. The pardon requests were
-approved soon after the Principal submitted them. Fera commanded the
-GuardGorillas to hold the Principal by his arms before hopping off the desk to
+approved soon after the Provost submitted them. Fera commanded the
+GuardGorillas to hold the Provost by his arms before hopping off the desk to
 read carefully through each one of the pardons.
 
 "Great, but I'm not done yet. I'm going to replace the recordings of me and the
@@ -527,22 +527,22 @@ Fera laughed as she started the school's self-destruct sequence. An automated
 voice began to count down in reverse, second by second, starting from 10
 kiloseconds.
 
-"We haf to leaf now," the Principal pleaded. "The shelf-deshtruct-"
+"We haf to leaf now," the Provost pleaded. "The shelf-deshtruct-"
 
 "We'll go when I'm ready," Fera said.
 
 "But, the-"
 
-Fera commanded one of the GuardGorilla to cover the Principal's mouth. Fera had
+Fera commanded one of the GuardGorilla to cover the Provost's mouth. Fera had
 no intention of leaving until she was certain no one would try to deactivate
 the self-destruct sequence. To kill time, she watched the deep fake initiation
 rite recordings she had created and made sure the original recordings were
 overwritten. Then, she checked that the school had been completely evacuated. A
 full review of the school showed that every room was empty, including the maker
 workshop. When she was satisfied that no one was coming to storm the
-Principal's office, Fera had the GuardGorillas carry the Principal out of the
+Provost's office, Fera had the GuardGorillas carry the Provost out of the
 office. On her way out of the office, Fera nearly fell over over. The
-powerskate covered in the Principal's vomit was not working at all. When Fera
+powerskate covered in the Provost's vomit was not working at all. When Fera
 looked out into the hallway, she was surprised to see that it was completely
 dark.
 
@@ -635,7 +635,7 @@ you can at least be good cannon fodder."
 for these GuardGorillas, gather above us and now I'm going to detonate all of
 their fuel cells at once. You might want to cover your ears."
 
-Fera commanded the GuardGorillas to protect Raf, the Principal, and herself
+Fera commanded the GuardGorillas to protect Raf, the Provost, and herself
 from the tremendous explosion that punched a hole in the ceiling above. The
 hallway was bathed in light. When Fera's eyes adjusted to the light, she saw
 that Raf was already trying to escape down the hallway. Fera charged forward on
@@ -795,10 +795,10 @@ Raf's pocket and used it to shine a light on Edl.
 
 To her surprise, Edl complied immediately. Putting Ben and Raf on his
 shoulders, Edl started trotting down the hallway. Fera was able to keep with
-Edl, but the Principal started to fall behind.
+Edl, but the Provost started to fall behind.
 
-"Don't leaf me!" the Principal begged. "Lay down on the ground!" Fera barked at
-the Principal, who dropped to ground in an instant. Fera grabbed the Principal
+"Don't leaf me!" the Provost begged. "Lay down on the ground!" Fera barked at
+the Provost, who dropped to ground in an instant. Fera grabbed the Provost
 by the hand and started pulling him by the hand down the hallway.
 
 "Wait, where are you going? The main entrance is the other way," Fera said.
@@ -823,7 +823,7 @@ One of the escape pods was larger and had more fuel. Clearly, Ben had designed
 the escape pods for himself and his brother. Fera considered taking one of the
 escape pods for herself, but she knew that it would be a death sentence for the
 others. Ben and Raf were unconscious, Edl was helpless without guidance, and
-the Principal was in pharmacological stupor.
+the Provost was in pharmacological stupor.
 
 "Edl, put Ben inside the pod on the left," Fera said. "Great, now get in the
 other pod on the right."
@@ -838,9 +838,9 @@ revealing three compartments. There was no need to Fera found the
 
 ...
 
-"Come on," Fera yelled at the Principal as she took Raf's arm and activated her
-the one powerskate that was still working. The Principal could not keep up.
-Fera gave the flashlight to the Principal, grabbed him and Raf by the hand, and
+"Come on," Fera yelled at the Provost as she took Raf's arm and activated her
+the one powerskate that was still working. The Provost could not keep up.
+Fera gave the flashlight to the Provost, grabbed him and Raf by the hand, and
 started to pull them down the hallway, swiveling to avoid the rubble while
 balancing on her only working powerskate. Whenever Fera used the
 non-functioning powerskate to make a tight turn, she could feel the vomit
@@ -849,27 +849,27 @@ squish inside.
 Once they were outside, Fera saw that everyone the area around the school had
 already been evacuated. Fera checked the tram station and saw that public
 transportation had been completely shutdown. She pulled up to a microtransit
-vending machine with the Principal and Raf in tow. Fera whipped the Principal
+vending machine with the Provost and Raf in tow. Fera whipped the Provost
 toward the vending machine. "Unlock it!"
 
 "What are-"
 
 "If you don't unlock it quick, we're all going to die."
 
-The Principal placed his palms on the machine and leaned in for the retinal
+The Provost placed his palms on the machine and leaned in for the retinal
 scan. Fera made a selection using the accompanying display, and a black
 motocycle with a sidecar rolled up a ramp next to them. Fera zoomed up to the
 motorcycle.
 
-"Wait, don't leaf me!" The Principal yelled reaching for Fera.
+"Wait, don't leaf me!" The Provost yelled reaching for Fera.
 
 "What do you think the sidecar is for?", Fera answered as she started the
 motorcycle.
 
-Fera spun the motorcycle around and pulled up next to the Principal. The
-Principal lifted Raf onto the motorcycle in front of Fera and then climbed into
+Fera spun the motorcycle around and pulled up next to the Provost. The
+Provost lifted Raf onto the motorcycle in front of Fera and then climbed into
 the sidecar. Racing down the empty street, Fera tried to remember how much time
-was left when she still in the Principal's office. She sped towards the
+was left when she still in the Provost's office. She sped towards the
 direction where she had seen airships lifting off.
 
 When she reached the market square in the city center, Fera saw that the last
@@ -877,20 +877,20 @@ airship was taking off. She drove right under the airship and let go of the
 handlebars to wave her arms above her head. The airship kept rising up into the
 air. They must have seen her. Why were they still moving upwards?
 
-Fera looked to the Principal for ideas on what to do next. The Principal
+Fera looked to the Provost for ideas on what to do next. The Provost
 retrieved a small case from the pocket of his blazer, pulled out all of the
 BuzzBees in the case, and placed them inside of his shirt.
 
-"How big is blast zone?" Fera asked Principal.
+"How big is blast zone?" Fera asked Provost.
 
-"To the treesh!" the Principal answered.
+"To the treesh!" the Provost answered.
 
 "What?"
 
-"We haf to get to the treesh," the Principal replied, pointing off into the
+"We haf to get to the treesh," the Provost replied, pointing off into the
 distance.
 
-Fera did not know where the Principal was pointing, she had never seen trees in
+Fera did not know where the Provost was pointing, she had never seen trees in
 the city. She suspected that she did not have enough time to make it out of the
 city, but she decided to enjoy the motorcycle while she could. As Fera
 accelerated down the street, she thought about what had happened that day. Fera
@@ -937,7 +937,7 @@ be frank, the MIG always felt incomplete when it was just you, me, and Raf."
 
 "Me too." Ben said, patting Edl's massive shoulder.
 
-"To be honest, we'll be lucky to have her. On her first day in high school,
+"To be honest, we'll be lucky to have her. On her first day in college,
 Fera built a gigaphone from stolen parts, became MIG Vice President, mastered
 droneDarting, defeated us in combat, and doomed the entire city. I've never
 heard of anyone having such a productive first day. The way she used the

@@ -61,13 +61,13 @@ dunderstudy and understudy so that can perform in front of Taz.
 
 Strike force officer, then Arla's lover, then husband
 
-- Kobrazzik Naiksos (Human):
+- Yrlenvald Naiksos (Human): Dunyrlenvald
 
-School Principal, then Administrative Assistant to Fera
+School Provost, then Administrative Assistant to Fera
 
-- Dikkobraz Naiksos (Human):
+- Dunyrlenv Naiksos (Human):
 
-A bully, the son of the School Principal
+A bully, the son of the School Provost
 
 - Eivavikadela Fridzia (Human):
 
@@ -162,7 +162,7 @@ Kaia.
   - End: Kaia and Sata go to sleep together in the secret bed
 - 02: Productive first day:
   - Fera blows up the school
-  - End: Fera, Raf, and Kob appear to die
+  - End: Fera, Raf, and Yrl appear to die
   - In the final moments, Fera reflects on Ben, Edl, Raf, Arla, Sata, and Kaia, starting to cry when she thought about how they might have been friends if things were different. She thinks about feeling powerless to stop her abusive father and substance dependent mother. As she is knocked off the motorcycle from behind she imagines she is a bird flying off into the horizon.
 - 03: Beautiful view:
   - Kaia, Sata, and Arla
@@ -212,8 +212,8 @@ Kaia.
     - Iona, Ursa, Zek, and Zok will go to rehearsal while Sata and Kaia are at the Maker Tent
   - All Grays confront Kaia and Sata on their way to the Maker Tent
   - Sata asks Kaia to use her powers, but Kaia cannot
-  - Sata and Kaia run away but are cornered by and then beaten up by Dik and his D-Dogs
-  - Dik and his D-Dogs are wearing helmets to protect themselves from birds
+  - Sata and Kaia run away but are cornered by and then beaten up by Dun and his D-Dogs
+  - Dun and his D-Dogs are wearing helmets to protect themselves from birds
   - Instead of talking they immediately attack the girls
   - Kaia uses her powers to save herself and Sata
   End: Kaia loses consciousness next to Sata
@@ -231,21 +231,21 @@ Kaia.
     - feel much better
     - seem to miraculously recover from their injuries
   - They are surprised that tech seems to glitch when they touch it
-  - They see Dik, who has both his arms in casts and apologizes profusely
+  - They see Dun, who has both his arms in casts and apologizes profusely
   - Sata does not believe him, saying that he is only sorry, because someone broke his arms
-  - Dik says that
+  - Dun says that
     - he knows what he did was wrong
     - he is not trying to come up with excuses but
       - he was desperate for money since his father disappeared
       - someone paid him to attack Kaia and Sata, but that he has no idea who it was
-  - Dik tells his story
+  - Dun tells his story
     - he was left shaken by a strange experience after he led the attack against Kaia and Sata
     - after he recovered, he felt extremely afraid and ran away
     - as he was running, he was attacked from behind
     - he woke up in the infirmary yurt without any idea of who attacked him
-  - Dik asks if Kaia and Sata would sign his casts
+  - Dun asks if Kaia and Sata would sign his casts
   - The casts are covered with expletives and drawings of penises
-  - The girls agree even though they are still mad at Dik
+  - The girls agree even though they are still mad at Dun
   - "Should I draw a penis next to my name like everyone else?"
   - "Oh, you don't have to draw anything. That's just my friends being jerks."
   - Arla and Lan come to talk to Kaia and Sata
@@ -297,12 +297,12 @@ Kaia.
     - but the veils she throws disintegrate
     - and she cannot spin the axes of the Feras to disorient them
   - Kaia holds Sata as the three Feras move closer with six bone knives drawn
-  - Dik tells the Feras to leave Kaia and Sata alone
-  - Fera laughs at Dik, mocks him, throws bone knives at him
-  - Dik is frozen in horror as the bone knives hit his casts
+  - Dun tells the Feras to leave Kaia and Sata alone
+  - Fera laughs at Dun, mocks him, throws bone knives at him
+  - Dun is frozen in horror as the bone knives hit his casts
     - which begin to look like toothpick appetizers with way too many toothpicks stuck in them
   - Kaia
-    - tells Fera to stop hurting Dik
+    - tells Fera to stop hurting Dun
     - picks up her IV pole with the pump and saline bags still attached
     - shakes the IV pole wheels menacingly at Fera
     - is surprised that she can lift the IV pump so easily
@@ -325,7 +325,7 @@ Kaia.
   - "No pets!" Fera said definitely.
   - Sata was not amused. "This isn't funny, Fera."
   - "You'd appreciate it more if you could see the looks on your faces," Fera said.
-  - "If only you had seen the look on Dik's face when I broke his arms!" Fera said laughing.
+  - "If only you had seen the look on Dun's face when I broke his arms!" Fera said laughing.
   - "It was quite humorous when I broke his humerus!" Fera said laughing even harder.
   - "I love it when Fera laughs at her own jokes, especially if she's the only one laughing." Eiva said.
   - "Get back into bed, you losers, before Eiva puts collars on you and takes you home with us."
@@ -336,27 +336,27 @@ Kaia.
       - what happened to
         - her,
         - Raf, and
-        - the Principal
+        - the Provost
       - Kaia and Sata's miraculous recovery
-  - Dik says that he already knows that his father died in the explosion
+  - Dun says that he already knows that his father died in the explosion
   - Fera says that
-    - the Principal didn't die in the explosion
+    - the Provost didn't die in the explosion
     - but she would only tell them if they all came with her to her tent
     - because she does not want to be interrupted by anyone entering the infirmary tent
-  - Fera, Eiva, and Unoa takes Kaia, Sata, and Dik with them to the Sinistrae tent
+  - Fera, Eiva, and Unoa takes Kaia, Sata, and Dun with them to the Sinistrae tent
   - Eiva thinks that it is super cute that Kaia and Sata have a stuffed animal toy (Kata)
-  - Fera points at Dik and says she invented a new bone knife storage system
+  - Fera points at Dun and says she invented a new bone knife storage system
   - "Brilliant!" Eiva says. "Patent Application Submitted." says Unoa
   - Unoa asks if she can make some improvements to the storage system
   - Fera tells Unoa to feel free to make any improvements she likes
-  - Dik starts to protest but Fera tells him that if he is useful she might keep him around
-  - "You want to be useful, right?" Dik nodded and did not object further.
-  - Unoa reassures Dik "Based on your psychological profile, I predict you will appreciate the upgrade."
-  - Unoa gives Dik anesthesia and begins working on him
+  - Dun starts to protest but Fera tells him that if he is useful she might keep him around
+  - "You want to be useful, right?" Dun nodded and did not object further.
+  - Unoa reassures Dun "Based on your psychological profile, I predict you will appreciate the upgrade."
+  - Unoa gives Dun anesthesia and begins working on him
   - Eiva brings Kaia and Sata food and drink, pampers them, and treats them like her pets
   - End: Fera begins to tell them her story
 - 07: Never looked better
-  - Eagles save Raf, Fera, and Kob
+  - Eagles save Raf, Fera, and Yrl
   - The Driads help them
   - Arba is a female mimic with green skin and antler-like tree branches protruding from her head
   - Arba and Raf explain mimics to Fera
@@ -432,32 +432,32 @@ Kaia.
   - They were too tired to go back to the infirmary yurt after Fera's story end
   - Sata jokes that Fera's story was boring that it put them to sleep
   - Kaia says that she had the first dreamless, peaceful sleep she can remember
-  - Unoa was working all night on Dik and covered his forearms with bone knives
-  - Dik can now move his arms, because Unoa
+  - Unoa was working all night on Dun and covered his forearms with bone knives
+  - Dun can now move his arms, because Unoa
     - removed the casts
     - mended his bones
     - while adding the bone knives
   - There are 36 bone knives total (2*4+3*4+4*4) on each forearm
   - Unoa unrolls a SkinScroll to show that they still have many bone knives left
-  - Dik can control the knives
-    - when Dik contracts his forearm muscles, the knives
+  - Dun can control the knives
+    - when Dun contracts his forearm muscles, the knives
       - go into perpendicular mode
       - stand up perpendicular to his skin so that the knives are sticking out
       - the perpendicular mode makes his forearms look like porcupines
       - work like porcupine quills
       - are very easy to pull out
-    - when Dik relaxes his forearm muscles, the knives
+    - when Dun relaxes his forearm muscles, the knives
       - go into parallel mode
       - lie flat along his skin with the sharp ends of the knives sticking past his elbow
       - work like armor
       - are very difficult to pull out
   - Unoa says that
-    - the hardest part was rewiring Dik's brain to be able to control the knives
-    - it may take plenty of practice before Dik can master controlling the knives
-    - she plans to do the same thing to Dik's shins later
-    - it will be possible for Dik to move the knives individually
+    - the hardest part was rewiring Dun's brain to be able to control the knives
+    - it may take plenty of practice before Dun can master controlling the knives
+    - she plans to do the same thing to Dun's shins later
+    - it will be possible for Dun to move the knives individually
       - after his brain adjusts to the remodeling
-  - Dik
+  - Dun
     - thinks that the improvements Unoa made are very cool
     - is grateful that his broken arms are healed now
     - is impressed that controlling the knives feels natural to him
@@ -465,12 +465,12 @@ Kaia.
     - asks whether he will be able to shot the knives from his forearm
       - Unoa says that would be very impractical and terrible idea
     - makes the wanker hand gesture and laughs at the rhythmic clacking
-      - Fera warns Dik against doing that ever again
-  - Fera thinks that Dik can be useful for supplying bone knives to Sinistrae warriors during battle
-  - Dik thinks he is a superhero, while Fera sees him as a pack mule
-  - Unoa tells Dik to keep his mod hidden
+      - Fera warns Dun against doing that ever again
+  - Fera thinks that Dun can be useful for supplying bone knives to Sinistrae warriors during battle
+  - Dun thinks he is a superhero, while Fera sees him as a pack mule
+  - Unoa tells Dun to keep his mod hidden
   - "You might want to hide the upgrade from people, because you are an abomination unto nature."
-  - Dik does not listen and later
+  - Dun does not listen and later
     - convinces many other boys to get the same mod
     - the boys fight each other one-on-one in a fight tent
     - during each match the boys who are not fighting clack their bone knives together and cheer
@@ -494,7 +494,7 @@ Kaia.
           - could destroy them immediately with energy weapons / orbital satellites
         - swear everyone to secrecy to hide everything from the government
   - Kaia and Sata
-    - think that the upgrades Unoa made to Dik are weird
+    - think that the upgrades Unoa made to Dun are weird
     - are unsure if they should forgive Fera for the practical joke
     - listen intently while Fera tells them about Sinistrae
     - agree to take the equipment just in case they get attacked again
@@ -591,7 +591,7 @@ Kaia.
     - say that a private yurt might nice so that they could talk in private
   - In their private tent, Kaia and Sata talk about
     - forgiveness and friendship
-    - whether they should forgive that Dik, Zok, Lan, and Ursa
+    - whether they should forgive that Dun, Zok, Lan, and Ursa
   - Before going to sleep,
     - Kaia asks if Sata could sleep in the same bed as her
     - Sata says that assumed that's what they would do
@@ -813,7 +813,7 @@ Kaia.
 
 - 11: A touching reunion
 
-Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Dik, Kaia, Sata, and Raf live in
+Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Dun, Kaia, Sata, and Raf live in
 the Lunker city while planning to rescue Arla and Lan. While Ben searches for
 Arla and Lan, everyone adjusts to life in Lunker city. In the meantime, Raf
 gives birth to Kata. They see Fera is preparing an army to fight against the
@@ -945,7 +945,7 @@ loneliness and identifies with her.
 Fera says that she wants to do whatever it takes to fight back and escape, even
 if it means forcing Kaia to use her powers. Ben agrees and tries to shock Kaia
 with his stunStaffs, but Iona, Ursa, Zek, and Zok stop him. Zek blinds Ben and
-Edl and a fight breaks out with Fera, Eiva, Unoa, and Dik fighting against
+Edl and a fight breaks out with Fera, Eiva, Unoa, and Dun fighting against
 Ursa, Iona, Zek, and Zok. Kaia, Raf, Sata, and Pipa do not fight. The Sinistrae
 are able to overpower the Dextrae, because Zek cannot blind or disorient them
 and the Sinistrae sap the strength of Zok, Ursa, and Iona. Ursa and Zok are not
@@ -1194,9 +1194,9 @@ still has a connection to the internet and hires miners to dig through to the
 capsule. Eiva gives birth and Kaia is near death from starvation when the
 miners break through. Fera and Eiva start to organize an army to defeat the
 Scenders. Kaia and Sata get ready to rescue Zek, Zok, Ursa, Raf, and Iona from
-the Scenders. Kob joins them with Driad warriors who have found that Sinistrae
+the Scenders. Yrl joins them with Driad warriors who have found that Sinistrae
 fit perfectly into their culture and lifestyle. The Driad switch from wooden to
-bone knives and use bone arrowheads and bone tips for their spears. Dik joins
+bone knives and use bone arrowheads and bone tips for their spears. Dun joins
 Fera because he is grateful that she told him where to find his father and
 because he wants to be a Driad warrior like his father. Taz joins Fera's army
 with some army buddies who are also addicted to Sinistrae. Kaia is angry at
@@ -1394,7 +1394,7 @@ Noia, and Zok. Fera deactivates the peoplePrinters and Raf starts trying to
 figure out what happened. Fera says that Kaia is not safe here and that she
 needs to move to Wieliczka. Iona agrees reluctantly, because her priority is to
 protect Kaia. They leave Raf to work on the computers at Echo Corp, because he
-is expendable. The Sinistrae warriors (Fera, Kob, Taz, and Dik) help Iona pack
+is expendable. The Sinistrae warriors (Fera, Yrl, Taz, and Dun) help Iona pack
 everything up and they move towards Kosciuszko Mound and the entrance to the
 Lunker city. Kaia, Iona, Raf, and the mimic child live in a cottage near
 Wieliczka. Fera takes control of the All Saints Chapel after Kaia decides not
@@ -1513,10 +1513,10 @@ her eyes, and let the dust consume her.
     - a tent
     - fancy food and drink
     - matching outfits for all three of them so they can look like Catrinas at the remembrance ceremony
-  - hears about what Dik did and breaks his arms, but
-    - barely enjoys breaking Dik's arms and almost feels sorry for him
+  - hears about what Dun did and breaks his arms, but
+    - barely enjoys breaking Dun's arms and almost feels sorry for him
     - Is this what growing up feels like?
-    - tells Dik that his father is alive and well, living with Driads
+    - tells Dun that his father is alive and well, living with Driads
   - attends her own funeral and laughs really loudly when Ben idolizes her
   - decides to play a practical joke on Kaia and Sata in the hospital
 
@@ -1782,7 +1782,7 @@ She cannot bring herself to reject or harm her mimic child.
 ...
 
 Zek and Zok worship the Pulverulent Goddess and serve her biding. The birth of Kaia's
-son and the invasion of Mars was part of the Pulverulent Goddess's plan. Was Dik
+son and the invasion of Mars was part of the Pulverulent Goddess's plan. Was Dun
 bullying Kaia also part of the plan? Zek and Zok have been building relay
 stations all over the planet with copies of the Pulverulent Goddess inside. This allows
 the Pulverulent Goddess to have instant access to Kaia at all times. Sata decides to
@@ -1964,7 +1964,7 @@ Lan.
 
 Edl, Ursa, Zok, and Iona are tanks
 Kaia, Ben, and Sata are ranged
-Zek and the Sinistrae (Fera, Eiva, and Kob) are mixed
+Zek and the Sinistrae (Fera, Eiva, and Yrl) are mixed
 Taz refuses to come, because he says that Arla lied to him
 
 Sata is mostly useful as a scout. Raf in useless at all times. Ben is fairly
@@ -1989,7 +1989,7 @@ government soldiers, all Echos, Sinistrae, and Scenders seem really OP. The
 final battle is against a giant robot with a fuel cell that Kaia cannot explode
 because it would destroy the entire facility. Instead Kaia destroys anything on
 the robot that has an independent fuel cell, e.g. gun turrets. The Scender
-tanks (Edl, Ursa, and Zok) and Sinistrae (Fera, Eiva, and Kob) have to team up
+tanks (Edl, Ursa, and Zok) and Sinistrae (Fera, Eiva, and Yrl) have to team up
 to destroy the giant robot. Zek is useless against it. Ben tries to hack it.
 Is Sata a Sinistrae at this point? I think she shouldn't be.
 
@@ -2065,7 +2065,7 @@ Is Sata a Sinistrae at this point? I think she shouldn't be.
   - Bone knives and bone armor make him a formidable melee fighter
   - Immune to Echo manipulation
   - Trades Dextrae exoskeleton for Sinistrae bone armor
-- Kob (Sinistrae):
+- Yrl (Sinistrae):
   - Fera's administrative assistant
   - Bow and arrow plus throwing bone knives makes him an effective ranged fighter
   - Bone knives and bone armor make him a formidable melee fighter
@@ -2129,7 +2129,7 @@ Fera misses her mom, not her abusive father.
 Zek, Zok, Ursa, Raf, Arla, Lan, and Iona do not have living parents.
 Ben and Edl have great relationships with their parents who try to hide the fact that Edl was synthesized by Ben when he was a child.
 Dzaa and Daka's parents are in space.
-Taz and Kob are adults.
+Taz and Yrl are adults.
 
 ## Raf
 Raf gets pregnant from Fera. When she discovers Sinistrae, Raf miscarries. He
@@ -2145,7 +2145,7 @@ exoskeletons to move around on earth because she suffers from osteogeneza
 imperfecta and her bones are brittle and weak after a lifetime in space. Dzaa
 is a Mung girl who grew up on a spacecraft that was spinning wildly out of
 control. After a lifetime of being exposed to extreme G forces, Dzaa became
-extremely strong, the exact opposite of Aka. Dzaa falls for Edll, because he is
+extremely strong, the exact opposite of Aka. Dzaa falls for Edl, because he is
 the only man she has seen who can rival her strength. Ben takes an interest in
 Daka's exoskeleton, which she built herself in space (a throwback to his
 earlier interest in Fera). The Mung people are named after the Mung beans that
@@ -2610,10 +2610,10 @@ the book to try to help the main character defeat the Pulverulent Goddess.
 
 ## Old outline
 
-1. Keia is nervous about starting high school
+1. Keia is nervous about starting college
     - In the public school system, all students are shocked by a machine called
       a TeslaTutor, which was originally used to teach children to type, during
-      the high school induction ceremony
+      the college induction ceremony
     - The ceremony takes place in the school gymnasium and every student is
       recorded while the shock is administered
     - Each student is shocked in a random order and the wait builds tension

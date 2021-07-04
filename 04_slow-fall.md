@@ -69,11 +69,11 @@ initiation ceremony. Arla saw Fera leave with her brother Raf before we left
 the school."
 
 Ben cleared his throat nervously. "The last time we saw Fera, she was still in
-the school with Raf and the Principal. We were tracking Fera's location and the
+the school with Raf and the Provost. We were tracking Fera's location and the
 signal disappeared inside the city during the explosion."
 
 Kaia tried to keep her voice from trembling. "I saw Fera in the city as we were
-taking off. She was on a motorcycle with the Principal."
+taking off. She was on a motorcycle with the Provost."
 
 "Was Raf on the motorcycle with them?" Arla asked.
 
@@ -548,7 +548,7 @@ after we get a job or get into college," Sata said defiantly.
 
 Ben smiled and shook his head. "Unfortunately, there is no official school in
 the refugee camp. I think it will be difficult to gain employment or admission
-to a college without first completing high school."
+to a college without first completing college."
 
 Kaia and Sata tried not to stay hopeful, but their situation was sounding
 worse by the minute.
@@ -642,7 +642,7 @@ Ursa was getting frustrated. "Isn't there... Don't you want to... Don't you
 know what I mean?"
 
 Edl looked flustered. He had never answered so many questions before. His
-parents had bribed the Principal to fake Edl's initiation rite records. Edl
+parents had bribed the Provost to fake Edl's initiation rite records. Edl
 always felt confused and lost when Ben was not around. Knowing what people
 meant was not something that Edl did particularly well on his own. Edl started
 to look around the room for clues to what Ursa meant. Edl did not like

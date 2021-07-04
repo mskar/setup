@@ -71,7 +71,7 @@ appealing.
 "You do not have much of a choice in the matter," Raf said gesturing towards
 the eagles. "After destroying the city, you may want to lay low for a while."
 
-The eagles set Fera, Raf, and the Principal down on top of a hill surrounded by
+The eagles set Fera, Raf, and the Provost down on top of a hill surrounded by
 red brick ruins near the edge of the forest. Raf pointed into the forest. "The
 entrance is hidden in the forest. We have to walk the rest of the way."
 
@@ -80,7 +80,7 @@ entrance is hidden in the forest. We have to walk the rest of the way."
 "This is Kosciuszko Mound in the Wolski Forest. The ancient city there was
 called Kraków in Ancient Latin, Ancient Spanish, and Ancient Italian."
 
-"What should we do with him?" Fera asked gesturing towards the Principal, who
+"What should we do with him?" Fera asked gesturing towards the Provost, who
 was lying on the ground next to them. His shirt and blazer were covered in
 vomit. "He doesn't look like he can walk and I wouldn't carry him even if I
 could."
@@ -126,18 +126,18 @@ where three stags stood waiting.
 
 "They don't want to climb up the hill just to carry us down."
 
-"Are we supposed to carry the Principal down?"
+"Are we supposed to carry the Provost down?"
 
 "We can roll him down," Raf suggested. Fera liked that idea, perhaps a little
-too much. She gave the Principal a heave followed by a few kicks to keep him
-going. Raf and Fera chased the Principal as he picked up speed going down the
-hill. Fera laughed as she watched the Principal tumbled down the hill.
+too much. She gave the Provost a heave followed by a few kicks to keep him
+going. Raf and Fera chased the Provost as he picked up speed going down the
+hill. Fera laughed as she watched the Provost tumbled down the hill.
 Raf stared at Fera as she ran barefoot down the hill. She was a Valkyrie taking
 delight in serving justice.
 
 When they got to the bottom of the hill, Fera wished she could roll the
-Principal down again. The stags knelt down and Fera helped Raf put the
-Principal on the back of the nearest stag. Fera had never ridden an animal, not
+Provost down again. The stags knelt down and Fera helped Raf put the
+Provost on the back of the nearest stag. Fera had never ridden an animal, not
 even a robotic one. The prospect of riding a real live stag was terrifying.
 
 "Can the other stags kneel down for us too?"
@@ -192,7 +192,7 @@ nice. This moment is worth all of the kicks you gave me."
 Fera looked away. She riding a stag through the woods next to a crazy person.
 She decided to change the subject. "How much farther?"
 
-"We are taking a detour to get help for the Principal. He is going to go into
+"We are taking a detour to get help for the Provost. He is going to go into
 withdrawal, if he hasn't already."
 
 "Who are we getting help from? More of your animals?"
@@ -217,7 +217,7 @@ I think I can convince them to help us."
 Fera looked around, but could not see anyone. She was about to ask Raf if he
 was joking, when arrows shot down from the trees above and landed in front of
 them. The stags reared up on their hindlegs. Fera was able to hold on, but the
-Principal tumbled down off of his stag.
+Provost tumbled down off of his stag.
 
 Raf hopped of his stag and raised his arms, showing his palms. "We need your
 help!"
@@ -249,10 +249,10 @@ you as fertilizer."
 city of Katowice."
 
 "A warrior you say? We saw the smoke above Katowice from the treetops. Allow
-me to take a look at this warrior," Arba said walking up to the Principal.
+me to take a look at this warrior," Arba said walking up to the Provost.
 
 "He does not appear to be much of a warrior," Arba said, disappointedly poking
-the Principal with her toe.
+the Provost with her toe.
 
 "The warrior who destroyed the city is me," Fera huffed.
 
@@ -283,7 +283,7 @@ with water, clothes made of animal skins, knives, bows, and quivers of arrows.
 "While we tend to your companion, you may eat and rest. We would be honored if
 the city destroyer and her mimic companion could wear our clothing and use our
 weapons on their quest to overthrow the government," Arba said as several
-Driads carried the Principal away on a wooden sled.
+Driads carried the Provost away on a wooden sled.
 
 Fera eyed the food with suspension. Raf seemed to have no problem with the food
 and ate bugs, nuts, and berries heartily. Fera picked a knife and unsheathed
@@ -597,7 +597,7 @@ Fera bowed to Arba, ran up to her stag, swung up by its antlers onto its back. T
 time the motion was much more fluid and Fera noted the impression it made on
 the Driads.
 
-Once they were out of earshot, Fera looked at Raf, "Is the Principal going to
+Once they were out of earshot, Fera looked at Raf, "Is the Provost going to
 be ok with them?".
 
 "Yes, he will have the best care possible. Fresh air, clean water, natural
@@ -606,7 +606,7 @@ food, and most importantly no BuzzBees."
 I was not long before they arrived at a cave. Fera was upset to see that the
 cave was not from the Kosciuszko mound. "We were right next to it when we landed!"
 
-"Yes, but we have to help the Principal first," Raf said as he dismounted and
+"Yes, but we have to help the Provost first," Raf said as he dismounted and
 walked towards the cave.
 
 "I'm not going to be able to see in there, am I?"
@@ -818,20 +818,20 @@ The drawback is that outside technology would cease to work for her, but
 anything inside the capsule would work for her. Also, Dextrae AIs would try to
 kill her so she needed to stay underground until they could destroy the satellites.
 
-She notices that it makes Raf sick, but does not affect the Principal.
+She notices that it makes Raf sick, but does not affect the Provost.
 
 Fera accepts and begins organizing the revolution.
 
-The Principal becomes her administrative assistant. Raf helps out by spreading
+The Provost becomes her administrative assistant. Raf helps out by spreading
 the word to all Lunkers. He cannot help inside the capsule because he has to stay
 outside the capsule because it makes him sick.
 
-The chapter ends with Fera, Naksos (Kob), and Raf sleeping on the train on their way
+The chapter ends with Fera, Naksos (Yrl), and Raf sleeping on the train on their way
 to the refugee camp.
 
 ...
 
-Fera and Raf go to the Driads to ask for help with Kob. They spend the
+Fera and Raf go to the Driads to ask for help with Yrl. They spend the
 night. Fera feels very cold. The Driad do not use fire. She did not eat
 much of the food and now is hungry. Raf hugs her to keep her warm. Fera
 complains but secretly enjoys physical contact with Raf. They arrive at the

@@ -30,37 +30,37 @@ were running towards the exits. The three girls followed the crowd heading to
 the main exit. Surprised that she could run at all, Kaia marvelled at how
 comfortable the ballet flats.
 
-When the girls made it outside, Sata and Kaia were dismayed to see Dik and his
-posse waiting in front of the entrance to the school. Dik's head was wrapped in
+When the girls made it outside, Sata and Kaia were dismayed to see Dun and his
+posse waiting in front of the entrance to the school. Dun's head was wrapped in
 bandages. A small of blood had permeated the bandages in the spot were the
 HistorianHummingbird had hit him.
 
-"What's wrong? Afraid of a little fire-", Dik started, but then paused as he
+"What's wrong? Afraid of a little fire-", Dun started, but then paused as he
 inspected the girls more closely.
 
-"Wait a second. Did you replace one of your girlfriends already?", Dik said to
+"Wait a second. Did you replace one of your girlfriends already?", Dun said to
 Kaia, "You just love 'em and leave 'em, don't ya? You go through girls faster
 than I do!"
 
 The boys erupted with laughter.
 
-Before the Kaia and Sata could decide what to do, Arla walked up to Dik and
+Before the Kaia and Sata could decide what to do, Arla walked up to Dun and
 introduced herself.
 
 "Hello, I'm Arla. What's your name?", Arla said, projecting her voice so
 everyone hear her as if she were on stage.
 
-"Dik, but you can call me Big D, and these are my Dogs, I call them the
-D-Dogs," Dik said, flexing his muscles and gesturing at the boys behind him.
+"Dun, but you can call me Big D, and these are my Dogs, I call them the
+D-Dogs," Dun said, flexing his muscles and gesturing at the boys behind him.
 
-"Nice to meet you, Dik! What happened to your head?"
+"Nice to meet you, Dun! What happened to your head?"
 
-"Oh, this? It's nothing." Dik was clearly not used to anyone of the opposite
+"Oh, this? It's nothing." Dun was clearly not used to anyone of the opposite
 sex taking an interest in him.
 
 "A bird flew into his head," Sata said.
 
-"What did you say?" Dik pushed past Arla and stood menacingly in front of
+"What did you say?" Dun pushed past Arla and stood menacingly in front of
 Kaia and Sata.
 
 "I said, a bird flew into your head," Sata said staunchly.
@@ -68,17 +68,17 @@ Kaia and Sata.
 "What are the chances of a bird flying into someone's head?" Arla interrupted.
 She really knew how to make her voice carry.
 
-"Dik must really be an airhead," Sata said, cracking a smile.
+"Dun must really be an airhead," Sata said, cracking a smile.
 
 "He's a real chick magnet!" Kaia said exploding with laughter.
 
 "He gives new meaning to the word bird-brained!" Sata added, laughing even
 harder. A few hours of sleep had done them both a lot of good.
 
-Dik moved closer to Sata and Kaia and spoke in a low voice. "Listen, I know you
+Dun moved closer to Sata and Kaia and spoke in a low voice. "Listen, I know you
 are one mistake away from going to prison, so you better start treating me
 really nicely or I might have a word with my father and-." At that moment,
-sparrow a flew into the previously undamaged side of Dik's head.
+sparrow a flew into the previously undamaged side of Dun's head.
 
 "What are the chances of two different birds flying into the same person's
 head?" Arla asked as she grabbed Kaia and Sata by the hands and led them away
@@ -364,7 +364,7 @@ she was standing.
 Officer Kransal walked up gestured for them to move. "Clear the cargo bay and
 strap in, we're taking off." Kaia was following everyone out of the cargo bay
 when she felt a strange sensation. She turned around and caught a glimpse of
-Fera and the Principal on a motorcycle through the closing cargo bay doors.
+Fera and the Provost on a motorcycle through the closing cargo bay doors.
 
 Kaia grabbed Sata and Arla by the arm. "It's Fera! She's still down there!"
 When Sata and Arla looked, the gangway was obscuring the view and the
@@ -372,7 +372,7 @@ motorcycle was no longer visible. "Clear the cargo bay now! We're airborne!"
 Officer Kransal yelled.
 
 Kaia grabbed Officer Kransal's arm and pleaded for help. "Please our friend is
-down there. The school Principal too."
+down there. The school Provost too."
 
 Officer Kransal turned away and touch his earpiece. "Cockpit, this is aft
 guard. Do you have visual of anyone on the ground?"
