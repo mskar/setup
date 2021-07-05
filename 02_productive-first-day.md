@@ -64,14 +64,73 @@ Fera laughed. "And they have money to burn on all of this?"
 
 "If they're so rich, why do they go to a run-down public school?"
 
-"I don't know," Raf said walking up to a console and calling Ben and Edl. "You
-can ask them yourself."
+"I don't know, but you can ask them yourself." Raf said walking up to a console
+to call Ben and Edl. After tapping a few times at the console, Raf
+stopped. "There's a top priority message for you, Fera. The console won't let
+me do anything until you read it."
 
-It was not long before a thin boy wearing powerskates and powergloves zipped
-into the maker shop with another boy nearly as large as a GuardGorilla running
-in after him. Coming to sliding stop in front of Fera and Raf, the boy in power
-skates gestured around the maker workshop and said, "Welcome to the maker
-shop!"
+"Can you give me a few minutes to read it in private?" Fera asked.
+
+"Oh, of course," Raf said before going to tinker at a workstation on the other
+side of the workshop.
+
+Fera eyed the console suspiciously. The message had no metadata. No sender, no
+subject, no date, no time. The console was locked and Fera was the only one who
+could unlock it. The whole thing looked like a trap.
+
+Fera unlocked the console and immediately deleted the message. A new message
+appeared. Unlike the first message, the second message had a subject. The
+subject read "12 tips for a successful revolution that actually work." Fera
+deleted the new message.
+
+Soon enough, there was a third message. This time, the subject was "The last
+guide to overthrowing the government you'll ever need!" Fera was about to
+delete the third message when she received yet another message. The fourth
+message's subject read "You won't believe what's in the printer to your left!"
+
+Fera deleted both messages, but then looked over at the printer. She carefully
+opened the compartment. There was a pair of ear buds inside. Overwhelmed by
+curiosity, Fera called Raf over to the printer.
+
+"Raf, can you try out these ear buds?" Fera asked sweetly.
+
+"Did you make these?" Raf asked.
+
+"Don't ask questions," Fera snapped. "Just put the buds into your ears and tell
+me what you hear."
+
+Raf inspected the buds and inserted one into his ear. "There's a woman
+voice. She says she wants to speak to you."
+
+"Ask her why she wants to speak with me."
+
+"She says that I don't need to repeat everything you say, because she can hear
+you just fine."
+
+"Why does she want to speak to me?" Fera asked firmly.
+
+"She saw your protest in the gymnasium," Raf said and then paused before
+asking, "How’s the veal stew?"
+
+"What?"
+
+"Are the meat dishes of good quality?" Raf asked, but then admitted, "I don't
+really know what that means."
+
+"It's a line from one of my mom's favorite ancient spy movies," Fera explained.
+
+"I grew up underground. I haven't seen many ancient spy movies," Raf said.
+
+"Giraffes are going into the closet," Fera said.
+
+
+...
+
+to the brought to see look around and try It was not long before a thin boy
+wearing powerskates and powergloves zipped into the maker shop with another boy
+nearly as large as a GuardGorilla running in after him. Coming to sliding stop
+in front of Fera and Raf, the boy in power skates gestured around the maker
+workshop and said, "Welcome to the maker shop!"
 
 Turning one begloved hand towards himself, "I'm Ben," and the other begloved
 hand to boy behind him, "and this is my little brother Edl," then bowing deeply

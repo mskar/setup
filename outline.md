@@ -161,6 +161,8 @@ Kaia.
   - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Arla and Raf
   - End: Kaia and Sata go to sleep together in the secret bed
 - 02: Productive first day:
+  - Raf shows Fera the maker workshop
+  - Fera get a message from Unoa and instructions to create an earpiece that will allow them to communicate
   - Fera blows up the school
   - End: Fera, Raf, and Yrl appear to die
   - In the final moments, Fera reflects on Ben, Edl, Raf, Arla, Sata, and Kaia, starting to cry when she thought about how they might have been friends if things were different. She thinks about feeling powerless to stop her abusive father and substance dependent mother. As she is knocked off the motorcycle from behind she imagines she is a bird flying off into the horizon.

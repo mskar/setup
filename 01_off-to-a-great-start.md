@@ -1073,22 +1073,21 @@ her anger in a roar that shook the ground. After probing her face with an
 tendril-covered hand, she was stunned to see that her fingers were
 moist. Without even a drop of blood in her for millennia, the Dust Goddess was
 dessicated to the core. Where had the moisture come from? Tiny drops of water
-were falling down on the Dust Goddess's face wherever she went. How could there
-be rain on Mars? She looked up and saw the constellations rearranging into a
-face that filled the heavens. The Dust Goddess recognized the face in the
-stars. It was Sata. The raindrops were coming from her eyes.
+were falling down on the her face wherever she went. How could there be rain on
+Mars? She looked up and saw the constellations rearranging into a face that
+filled the heavens. The Dust Goddess recognized the face in the stars. It was
+Sata. The raindrops were coming from her eyes.
 
-"Kaia, come back to me, please," the sky whispered. It was no use. There was
-nothing left of Kaia. The Dust Goddess was not going to spring back to life
-from a few drops of water! The sky sighed and began to squeeze the horizons
-until the land where the Dust Goddess stood disappeared completely and the Dust
-Goddess was left floating in the void. The constellations warped and stretched
-until they gathered into a single brilliant ball of light. The ball of light
-grew arms, legs, and a head, taking the form of Sata. Reaching her hand out to
-the Dust Goddess, Sata drew closer and the tendrils began to break apart,
-revealing the dried out cadaver underneath.
+"Come back to me, please," the sky whispered. It was no use. The Dust Goddess
+was not going to spring back to life from a few drops of water! The sky sighed
+and began to squeeze the horizons until the land where the Dust Goddess stood
+disappeared completely and the Dust Goddess was left floating in the void. The
+constellations warped and stretched until they gathered into a single brilliant
+ball of light. The ball of light grew arms, legs, and a head, taking the form
+of Sata. Reaching her hand out to the Dust Goddess, Sata drew closer and the
+tendrils began to break apart, revealing the dried out cadaver underneath.
 
-"Kaia," Sata said.
+"Kaia, I need you," Sata said.
 
 _Yes,_ the Dust Goddess thought, _that was once my name. In a past life? Or a
 future one?_
