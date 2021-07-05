@@ -143,6 +143,7 @@ set ruler
 " Use vim-unimpaired's yon and yor to toggle set number and relativenumber
 
 let no_buffers_menu=1
+let g:pandoc#syntax#conceal#use=0
 silent! colorscheme molokai
 
 set mousemodel=popup
@@ -253,6 +254,7 @@ highlight NonText ctermbg=NONE guibg=NONE
 highlight Normal ctermbg=NONE guibg=NONE
 highlight SignColumn ctermbg=NONE guibg=NONE
 highlight VertSplit ctermbg=NONE guibg=NONE
+highlight pandocEmphasis gui=italic cterm=italic guifg=#ff8700 ctermfg=214
 
 "" fzf.vim
 set wildmode=list:longest,list:full
