@@ -49,10 +49,10 @@ silence to the maker workshop. Raf gave Fera a tour. Fera was dumbstruck at how
 technologically advanced and well stocked the maker workshop was.
 
 "I wasn't expecting this place to be halfway decent. Everything else in the
-crappy school is absolutely worthless."
+crappy college is absolutely worthless."
 
-"Ben and Edl's family finances the maker workshop but do not provide funding for
-any other part of the school."
+"Ben and Edl's family finances the maker workshop but do not provide funding
+for any other part of the college."
 
 "Who are Ben and Edl?"
 
@@ -62,16 +62,22 @@ Fera laughed. "And they have money to burn on all of this?"
 
 "Their parents are high ranking members of the CorporateCouncil."
 
-"If they're so rich, why do they go to a run-down public school?"
+"If they're so rich, why do they go to a run-down public college?"
 
-"I don't know, but you can ask them yourself." Raf said walking up to a console
-to call Ben and Edl. After tapping a few times at the console, Raf
-stopped. "There's a top priority message for you, Fera. The console won't let
-me do anything until you read it."
+"I don't know, but you can ask them yourself." Raf said walking up to a
+workstation and activating its console. After tapping a few times at the
+console, Raf stopped. "There's a message for you, Fera. It says all of the
+consoles in the workshop will be blocked until you read it."
+
+"How is that possible?" Fera asked.
+
+"I'm not sure. Ben might know, but I can't call him while the consoles are
+blocked," Raf answered.
 
 "Can you give me a few minutes to read it in private?" Fera asked.
 
-"Oh, of course," Raf said before going to tinker at a workstation on the other
+"Oh, of course. Just let me know when you are done," Raf said before pulling a
+bin out of a nearby cabinet and going to tinker at a workstation on the other
 side of the workshop.
 
 Fera eyed the console suspiciously. The message had no metadata. No sender, no
@@ -89,52 +95,115 @@ delete the third message when she received yet another message. The fourth
 message's subject read "You won't believe what's in the printer to your left!"
 
 Fera deleted both messages, but then looked over at the printer. She carefully
-opened the compartment. There was a pair of ear buds inside. Overwhelmed by
-curiosity, Fera called Raf over to the printer.
+opened the printer compartment. There was a pair of eyeglasses
+inside. Overwhelmed by curiosity, Fera inspected the glasses. Along the inside
+of the frames, near the hinges, there were tiny openings for lasers which
+displayed information that was only visible on the inside of the glasses. Some
+text appeared that almost made Fera drop the glasses. The text read, "Hello
+Fera."
 
-"Raf, can you try out these ear buds?" Fera asked sweetly.
+Fera looked around. The workshop was empty except for Raf and he was busy
+tinkering.
+
+The words, "Liberty, Equality, Sorority" appeared on the glasses. Someone was
+clearly trying to appeal to her revolutionary sentiments.
+
+Fera picked up the glasses and brought them over to the workstation where Raf
+was tinkering.
+
+"Move," Fera said shoving Raf to side. She unscrewed the hinges and cracked
+open the temples.
 
 "Did you make these?" Raf asked.
 
-"Don't ask questions," Fera snapped. "Just put the buds into your ears and tell
-me what you hear."
+"Don't ask dumb questions," Fera snapped. The temples contained a laser array,
+a microphone, and a bone conduction sound system. Not finding anything
+nefarious, Fera put the glasses back together and put them on.
 
-Raf inspected the buds and inserted one into his ear. "There's a woman
-voice. She says she wants to speak to you."
+Fera heard a soft, feminine voice say, `Hello Fera.`
 
-"Ask her why she wants to speak with me."
+Looking around, Fera confirmed that she and Raf were the only people in the
+workshop.
 
-"She says that I don't need to repeat everything you say, because she can hear
-you just fine."
+"Fera, did you finish reading the message? Should I call Ben and Edl now?" Raf
+asked.
 
-"Why does she want to speak to me?" Fera asked firmly.
+"You can call them using a console outside the workshop, right?" Fera
+asked. "While you do that, I will finish up with the message."
 
-"She saw your protest in the gymnasium," Raf said and then paused before
-asking, "How’s the veal stew?"
+Raf seemed puzzled, but left the workshop without asking any further questions.
 
-"What?"
+Fera waited until Raf was gone before asking, "Who the hell are you and what
+the hell do you want?"
 
-"Are the meat dishes of good quality?" Raf asked, but then admitted, "I don't
-really know what that means."
+`My name is Unoa. I want to help you overthrow the government.`
 
-"It's a line from one of my mom's favorite ancient spy movies," Fera explained.
+"What's in it for you?"
 
-"I grew up underground. I haven't seen many ancient spy movies," Raf said.
+`Just like you, I'm not happy with the status quo.`
 
-"Giraffes are going into the closet," Fera said.
+"Why the glasses? Why not talk to me in person?"
 
+`We don't know if we can trust each other yet.`
 
-...
+"So how do you propose we build trust in each other?"
 
-to the brought to see look around and try It was not long before a thin boy
-wearing powerskates and powergloves zipped into the maker shop with another boy
-nearly as large as a GuardGorilla running in after him. Coming to sliding stop
-in front of Fera and Raf, the boy in power skates gestured around the maker
-workshop and said, "Welcome to the maker shop!"
+`First, let me prove that I can be useful. I can provide information and
+neutralize threats, like the bully you encountered earlier today.`
 
-Turning one begloved hand towards himself, "I'm Ben," and the other begloved
-hand to boy behind him, "and this is my little brother Edl," then bowing deeply
-"and we are both deeply honored to be at your service."
+"Did you make the bird hit that guy in the head?"
+
+`Yes, I made it look like a temporary flight path glitch to avoid suspicion.`
+
+"Cracking the skulls of people who bother me is a great way to gain my trust."
+
+`I will protect you whenever necessary, but I would prefer to maintain a low
+profile for now. Speaking of which, Raf is returning and it would be best if he
+did not hear you speaking to me.`
+
+Raf walked up to Fera and announced, "Ben and Edl are on the way."
+
+"That's great, Raf," Fera said while scrolling through information about the
+maker workshop on the console on the workstation where Raf had been
+working. The glasses provided additional details on whatever Fera was reading.
+
+"I see the consoles are unblocked. Did you find out anything about the
+message?"
+
+"What? Oh, the message was just a boring system-generated announcement sent by
+the college," Fera lied.
+
+"OK, do you want to see what I was working on?" Raf asked.
+
+Fera nodded without looking up for the console.
+
+Raf prepared a demonstration. "It's a robot that builds birdhouses out of
+gourds like this one." Raf removed a gourd from his bin and placed it on the
+table next to his robot. "First, the robot drills a hole into the gourd. Next,
+it hollows out the gourd and buries the seeds so more gourds can grow. Finally,
+it hangs the gourd up on a tree." The robot finished drilling a hole in the
+gourd and started scooping out the contents of the gourd onto the workstation.
+
+Raf proudly observed the robot work. Not wanting burst his bubble, Fera
+pretended to pay attention, but she could not imagine anything more boring that
+a birdhouse building robot. Her glasses provided some entertainment by
+displaying schematics and details related to the robot.
+
+Luckily, Fera did not have to feign interest for long. Ben zipped into the
+maker shop on powerskates. Wearing a white lab coat over a vest, dress shirt,
+and tie, Ben did not seem to fit the skater archetype. The lab coat flapped
+behind him like a cape. His lab coat and dress shirt sleeves were rolled up
+past a pair of metallic gloves that extended up to Ben's elbows.
+
+Coming to sliding stop in front of Fera and Raf, Ben bowed deeply and said,
+"Welcome to the maker shop! I'm Ben, and this is my little brother Edl."
+
+Fera thought that Ben might have been joking when he referred to Edl as his
+'little brother'. Edl was more than twice as tall as Ben, who would have been
+shorter than Fera if not for the additional centimeters provided by his
+powerskates. Moreover, Edl looked like he could wrestle a GuardGorilla and
+win. He was wearing a BugBall jersey and shorts that seemed to be specially
+designed to fit his large frame.
 
 "This is Fera," Raf said. "She likes making things too!"
 
@@ -146,22 +215,22 @@ maker workshop!"
 
 "Yes, of course! Let me show you around," Ben replied.
 
-"You can use any free workstation you like," Ben said sweeping his hand across
-the workshop, then turning towards a console, "You can also reserve any
+"You can use any free workstation you like," Ben said sweeping a begloved hand
+across the workshop, then turning towards a console, "You can also reserve any
 workstation for any period of time," then holding up one finger on one hand,
 "but you can only reserve one workstation at a time."
 
-"The reservation schedule looks mostly empty. Actually, you and Raf are the
-only ones making reservations. Do people mostly use whatever workstation is
-available?
+Fera glanced at the console screen. "The reservation schedule looks mostly
+empty. Actually, you and Raf are the only ones making reservations. Do people
+mostly use whatever workstation is available?"
 
-Ben looked a little uncomfortable. "The workshop is criminally underutilized.
-The school does not require anyone to use it and it seems that making things is
-not everyone's cup of tea. Also, there is a harmful stereotype that makers are
-socially awkward nerds, but nothing could be further from the truth. I welcome
-social interaction! In fact, I hold biweekly maker interest group (MIG)
-meetings that are open to everyone. Despite my best efforts in promoting the
-MIG, attendance remains limited."
+Ben looked a little uncomfortable. "The workshop is criminally
+underutilized. The college does not require anyone to use it and it seems that
+making things is not everyone's cup of tea. Also, there is a harmful stereotype
+that makers are socially awkward nerds, but nothing could be further from the
+truth. I welcome social interaction! In fact, I hold biweekly maker interest
+group (MIG) meetings that are open to everyone. Neverthless, despite my best
+efforts in promoting the MIG, attendance remains limited."
 
 "If you come to the meetings, we can have..." Edl looked around the workshop to
 confirm that his calculations were correct. "Four people!"
@@ -175,9 +244,8 @@ formed secret maker interest group?"
 
 "Sure," Fera replied casually.
 
-"Excellent!" Ben responded opening a large cabinet. "I just gave you full
-access to the workshop. You can use any of the tools as long as you follow the
-workshop rules."
+"Excellent!" Ben responded and then opened a large cabinet. "You can use any of
+the tools as long as you follow the workshop rules."
 
 "What are the rules?"
 
@@ -191,9 +259,10 @@ MACHINE WORKSHOP RULES
 
 "What about stealing?"
 
-"Every item has a tracker and everything in the entire school is recorded, so I
-don't think that will be necessary. If a MIG member steals anything, we will
-know and can revoke their access immediately."
+"Every item in the workshop has a tracker and everything in the entire college
+is recorded, so I don't think a rule against stealing will be necessary. If a
+MIG member steals anything, we will know and can revoke their access
+immediately."
 
 "What about destruction of property?"
 
@@ -201,9 +270,9 @@ know and can revoke their access immediately."
 new inventions. I do not think protection of property should be a priority.
 Again, if a MIG member acts maliciously, we can always revoke their access."
 
-"What about school rules?"
+"What about college rules?"
 
-"The MIG has full autonomy from the school. We are entirely self-governing."
+"The MIG has full autonomy from the college. We are entirely self-governing."
 
 "Sounds like you can do whatever you want."
 
@@ -226,15 +295,15 @@ palm while muttering to himself. "Builder bot building builder bots...
 Self-replication... Metametabuilding... Why build when I can metabuild? Why
 metabuild when I can metametabuild? Brilliant!"
 
-Then looking up, "Would you like to be Vice President of the MIG?".
+Then looking up, Ben asked, "Would you like to be Vice President of the MIG?"
 
-"You don't already have a Vice President?". Fera asked looking at Raf and Edl.
+"You don't already have a Vice President?" Fera asked looking at Raf and Edl.
 
 "Edl and Raf said they are happy being Treasurer and Recordkeeper, respectively."
 
-"I look at the money go in and out.", Edl said proudly.
+"I look at the money go out," Edl said proudly.
 
-Fera furrowed her brow. "Look?"
+Fera furrowed her brow.
 
 "MIG financial management is completely automated and budget is practically
 unlimited," Ben explained.
@@ -266,7 +335,7 @@ When Fera realized that they were waiting for her, she raised her hand and said,
 object. Fera opened her mouth to say something, but decided against it.
 
 "The vote is unanimous. Congratulations! We will hold elections again at the
-end of the school year. If you like you can run for President."
+end of the academic year. If you like, you can run for President."
 
 "You don't want to be President anymore?" Fera asked.
 
@@ -280,17 +349,16 @@ wise to start preparing the next generation of MIG leadership," Ben said.
 Ben nodded. "Yes, I plan to vote for you as well. As the current Vice President
 and very likely future President of the MIG, you should learn about our
 executive powers. If something were to happen to me, you have to be ready to
-step in and take over. Without the guardianship of the MIG, the school would
-quickly descend into chaos," Ben said, walking over to a printer and after
-entering a complex series of key presses and then laying his hands down on the
-screen, he said, "Take off your shoes, have a seat, and put your hands and feet
-into the scanner please."
+step in and take over. Without the guardianship of the MIG, the college would
+quickly descend into chaos," Ben said. He walked over to a printer, entered a
+complex series of key presses, and laid his hands down on the screen. "Take off
+your shoes, have a seat, and put your hands and feet into the scanner please."
 
 "What? Why?" Fera asked.
 
 "I am going to make you a pair of PresidentialPowergloves and a pair of
 PresidentialPowerskates, like the ones I have, but I need have the exact scans
-of your hands and feet."
+of your hands and feet," Ben replied.
 
 Fera sat down in front of the printer and slid her hands and into the
 scanner.
@@ -298,42 +366,41 @@ scanner.
 "You do know how to skate, right?" Ben asked suddenly, realizing he should have
 ascertained this important detail earlier.
 
-Fera nodded. Skating was Fera's refuge. She learn to build things by fixing and
-upgrading her skates. All throughout middle school, she would skate everyday
-until late in the night, skipping dinner and only coming home to avoid sleeping
-on the street. The only time she felt safe at home, was when her father was
-asleep. She would sneak in after her parents were asleep and quietly crawl into
-bed. Sometimes her father would wake up angry. Most of time, that anger would
-spill over onto her mother, but sometimes her father would wake Fera up to yell
-at her and hit her. There were a few times when he did not even wake Fera up
-and just started hitting her while she was still sleeping in bed. If anyone
-asked about the bruises that covered her body, Fera would say that fell down
-while skating. The truth was that skating was much safer than being at home.
+Fera nodded. Skating was Fera's refuge. She learned to build things by fixing
+and upgrading her skates. She would skate everyday until late in the night,
+skipping dinner and only coming home to avoid sleeping on the street. The only
+time she felt safe at home, was when her father was asleep. Sometimes her
+father would wake up angry. Most of time, that anger would spill over onto her
+mother, but sometimes her father would wake Fera up to yell at her and hit
+her. There were a few times when he did not even wake Fera up and just started
+hitting her while she was still sleeping in bed. If anyone asked about the
+bruises that covered her body, Fera would say that fell down while skating. The
+truth was that skating was much safer than being at home.
 
-"While the printer is printing your gloves and skates, I can show you how
-they work.", Ben said, then he noticed that Fera had not moved since she sat
+"While the printer is printing your gloves and skates, I can show you how they
+work," Ben said, then he noticed that Fera had not moved since she sat
 down. "Fera, the scanner is done. You can pull your hands and feet out now."
 
 Fera retrieved her hands and feet from the scanner and turned her attention to
 Ben.
 
 "The skates provide a top-level security clearance, so you can go anywhere in
-the school and the AnimalAutomatons will not try to stop you. To speed up,
+the college and the AnimalAutomatons will not try to stop you. To speed up,
 press your big toe down, to slow down lift your big toe, but be careful if you
 lift it to high, you will start going backwards. To turn very quickly, lower
-one big toe and raise the other. To activate magnetism, curl all of your toes.
-Magnetism is most useful for tight turns, but you can also skate on any wall
-that has a high metal content, which is most of the walls in the school. Do you
-have any questions?"
+one big toe and raise the other. To activate magnetism, curl all of your
+toes. Magnetism is most useful for tight turns, but you can also skate on any
+wall that has a high metal content, which is most of the walls in the
+college. Do you have any questions?"
 
 Fera shook her head.
 
 "The skates are really intuitive. I am sure you will get the hang of them
 quickly. The gloves are a bit more complex. First of all, the gloves can open
-any door and activate any console in the school, you just have to place a hand
-on it. You can also control any AnimalAutomaton in the school. To provide a
-command, speak clearly and use gestures. The gloves also accept commands in
-sign language, but you can do almost everything with verbal commands."
+any door in the college, you just have to place a hand on it. You can also
+control any AnimalAutomaton in the college. To provide a command, speak clearly
+and use gestures. The gloves also accept commands in sign language, but you can
+do almost everything with verbal commands."
 
 "I know sign language," Fera said.
 
@@ -347,7 +414,7 @@ In the mornings, while her father was still asleep, Fera and her mother spoke
 in complete silence using sign language. Fera would have her bag packed, hours
 before she needed to leave for school. If she heard her father waking up, Fera
 would grab her bag and run out the door. The mornings when her father would
-sleep in were the best, Fera would sign with her mother for as long as she
+sleep in were the best. Fera would sign with her mother for as long as she
 could. Her mother would tell her stories while Fera wolfed down food after
 skipping dinner the day before. When her mother's stories would make Fera
 laugh, Fera had to cover her mouth so that her laughter would not wake her
@@ -367,17 +434,15 @@ father said remained burned in her memory.
 
 "The gloves have a range of a few hundred meters and if you ever find yourself
 further away than that, you should be able to close the distance quickly with
-the skates. Each glove can also deliver a non-lethal electric shock, but the
-shock requires direct contact and should only be used in emergencies, because
-the shock drains the glove fuel cells. After delivering a shock, the gloves are
-useless until they are recharged. The electric shocks are only for an
-emergency, do you understand?"
+the skates. Each glove can also deliver a powerful non-lethal electric shock,
+but the shock should only be used in emergencies, because the shock completely
+drains the glove fuel cells. The electric shocks are only for an emergency, do
+you understand?"
 
 When Fera first got her period, her mother showed her a hidden bag filled with
 supplies and explained the emergency plan. If Fera's father ever tried to take
-off Fera's clothes or took his clothes off in front of her, Fera was supposed to
-yell as loud as she could, then while her mother distracted her father, Fera
-was supposed to grab the hidden bag, run out the door, and never come back.
+off Fera's clothes or took his clothes off in front of her, Fera was supposed
+to grab the hidden bag, run out the door, and never come back.
 
 Ben could tell that Fera's thoughts were elsewhere. "Fera, maybe you want to
 sit down and take a break?"
@@ -385,30 +450,30 @@ sit down and take a break?"
 "No, I don't need a break." Fera saw that the printer had finished.
 "I'm ready to try out the gloves and skates."
 
-"Ok, but let me know if need to rest for a bit."
+"Ok, but let me know if you need to rest for a bit."
 
 "I'm fine," Fera said sharply. She opened the lid of the printer and put on the
 skates and the gloves.
 
 "Now, you'll want to take it slow at first-", Ben started.
 
-Fera hop onto the skates and whizzed up to a GuardGorilla watching over the
-maker workshop and started signing at him furiously. The GuardGorilla hopped
-onto its hands and started to dance upside-down. Fera called three ChaseChimps
-over and made them cannonball one by one onto the feet of the GuardGorilla.
-Ben, Raf, and Edl looked in on in shock as the GuardGorilla started to juggle
-the ChaseChimps with its feet. Fera turned towards a wall and with a few signs
-had a swarm of BuzzBees and wakeupWasps hovering in front of her. She had the
-swarm form different shapes in the air and then sent all of the robotic bugs
-back to their nests.
+Fera whizzed up to a GuardGorilla watching over the maker workshop and started
+signing at it furiously. The GuardGorilla hopped onto its hands and started to
+dance upside-down. Fera called three ChaseChimps over and made them cannonball
+one by one onto the feet of the GuardGorilla. Ben, Raf, and Edl looked in on in
+amazement as the GuardGorilla started to juggle the ChaseChimps with its
+feet. Fera turned towards a wall and with a few signs had a swarm of BuzzBees
+and wakeupWasps hovering in front of her. She had the swarm form different
+shapes in the air and then sent all of the robotic bugs back to their nests.
 
 "Ok, I think I'm getting the hang of this," Fera said stopping right in front
 of the three stunned boys.
 
-"It appears you have a natural affinity to the skates and gloves. I believe you
-are ready to begin learning the Ancient martial art of DroneDarting."
+Ben cleared his throat. "It appears you have a natural affinity to the skates
+and gloves. I believe you are ready to begin learning the Ancient martial art
+of DroneDarting."
 
-"DroneDarting?!"
+"DroneDarting?"
 
 "Yes, that's what it's called until we can agree on a better name.", Ben said
 unfurling a worn scroll with hand-drawn images and intricate hand-written text.
@@ -433,7 +498,7 @@ teenager."
 "You might be right. Let me see that scroll," Fera said starting to take the
 scroll from Ben.
 
-"Be careful with that, it's ancient!" Ben said sharply.
+"Be careful with that, it's ancient!" Ben exclaimed.
 
 Fera looked at him sternly.
 
@@ -447,16 +512,6 @@ flying AnimalAutomatons into your opponents?"
 "Yes, any AnimalAutomatons can be used, but birds have the right combination of
 speed and mass."
 
-"Did you make a bird hit Dun in the head?"
-
-"Who is Dun?"
-
-"A boy who was bullying me and two other girls."
-
-"I've never used DroneDarting against another student. Actually, I've never
-used DroneDarting against anyone. I've never even had a sparing partner, so
-I've only done the kata."
-
 Fera used her gloves to summon two HistorianHummingbirds. "En garde," she said,
 looking menacingly at Ben.
 
@@ -464,7 +519,7 @@ looking menacingly at Ben.
 some kata. Here, I can-"
 
 Fera sent her two birds flying at Ben's head from two different angles. Ben
-pivoted to avoid the birds, lost control of his skates, and landed on the
+pivoted to avoid the birds, lost control of his powerskates, and landed on the
 ground. Fera had the birds land on Ben's chest.
 
 "Do you yield?" she asked triumphantly.
@@ -475,26 +530,26 @@ ground. Fera had the birds land on Ben's chest.
 
 "No, no, I think that's enough for today."
 
-"Hold on, these gloves are extremely powerful. Is there some kind of fail safe?
+"Hold on, these gloves are extremely powerful. Is there some kind of fail-safe?
 Some limit to their power?"
 
 "A fail safe? That's an interesting idea. The gloves are tailored to their
 specific wearer, so they could not be used by anyone else."
 
-"If you wanted to turn off someone else's gloves, would you be able to?" Fera
-asked.
+"If you wanted to turn off someone else's gloves, would you be able to?"
 
 "Yes, I would need to access a console to deactivate a pair of gloves."
 
 "Can you show me?" Fera asked sweetly.
 
 "Of course!" Ben said, expertly gliding up to a console. "First, you need to
-find the user. Then you can see all of their permissions. For example, you have
-two pieces of linked equipment, the gloves and skates, workspace reservation
-rights, and access to the entire maker workshop."
+find the user. Then you can see all of their permissions. For example, you
+have-" Ben stopped mid-sentence and then asked, "It appears that you already
+know how to modify permissions since you added your glasses to your user
+profile."
 
-"Let me see," Fera said moving up to the console, "Do changes take effect right
-away or do you have to confirm them?"
+"Do changes take effect right away or do you have to confirm them?" Fera asked
+moving up to the console.
 
 "They take effect immediately, so please be careful!"
 
@@ -507,11 +562,11 @@ away or do you have to confirm them?"
 "Yes, that's correct. Just move the icons. Yes, just like that. I knew the
 interface I designed was intuitive, but I never thought anyone would be able to
 figure it out without any explanation. I guess my user interface design skills
-are better than I suspected," Ben said proudly. "Um, Fera, you seem be locking
-me out of the system. Could you please restore my permissions? Also, I think we
-should discuss the permissions that you enabled for yourself. This is still
-your first day in the MIG and as far as I understand your first day in high
-school, so maybe we should take things one step-"
+are better than I suspected," Ben said proudly. "Um, Fera, you seem to be
+locking me out of the system. Could you please restore my permissions? Also, I
+think we should discuss the permissions that you enabled for yourself. This is
+still your first day in the MIG and as far as I understand your first day in
+college, so maybe we should take things one step-"
 
 "It's been a crazy first day so far," Fera said still tapping at the console.
 "I made great new friends and found a place where I truly feel I belong. Thank
@@ -573,18 +628,17 @@ approved soon after the Provost submitted them. Fera commanded the
 GuardGorillas to hold the Provost by his arms before hopping off the desk to
 read carefully through each one of the pardons.
 
-"Great, but I'm not done yet. I'm going to replace the recordings of me and the
-other girls with fakes that show us all doing really well in the initiation
-ceremony."
+`Fera, I can replace the recordings of you, Kaia, and Sata with deep fakes that
+show you all doing really well in the initiation ceremony.`
 
-"Let's see what else I can do. Fire alarm. Sprinklers. Deactivate all
-AnimalAutomatons. Self-destruct?"
+"Great! In the meantime, I'm going to see what else I can do with the Provost's
+console. Fire alarm. Sprinklers. Deactivate all AnimalAutomatons. Self-destruct?"
 
 "No, not the shelf-deshtruct!"
 
-Fera laughed as she started the school's self-destruct sequence. An automated
-voice began to count down in reverse, second by second, starting from 10
-kiloseconds.
+The Provost's alarmed face was all the encouragement Fera needed. She laughed
+as she started the self-destruct sequence. An automated voice began to count
+down in reverse, second by second, starting from 10 kiloseconds.
 
 "We haf to leaf now," the Provost pleaded. "The shelf-deshtruct-"
 
@@ -595,74 +649,24 @@ kiloseconds.
 Fera commanded one of the GuardGorilla to cover the Provost's mouth. Fera had
 no intention of leaving until she was certain no one would try to deactivate
 the self-destruct sequence. To kill time, she watched the deep fake initiation
-rite recordings she had created and made sure the original recordings were
-overwritten. Then, she checked that the school had been completely evacuated. A
-full review of the school showed that every room was empty, including the maker
-workshop. When she was satisfied that no one was coming to storm the
-Provost's office, Fera had the GuardGorillas carry the Provost out of the
-office. On her way out of the office, Fera nearly fell over over. The
-powerskate covered in the Provost's vomit was not working at all. When Fera
-looked out into the hallway, she was surprised to see that it was completely
-dark.
+ceremony recordings Unoa had created and made sure the original recordings were
+overwritten. Then, she checked that the college had been completely
+evacuated. A full review of the college video feeds showed that every room was
+empty, including the maker workshop. When she was satisfied that no one was
+coming to storm the Provost's office, Fera had the GuardGorillas carry the
+Provost out of the office. On her way out of the office, Fera nearly fell over
+over. The powerskate covered in the Provost's vomit was not working at
+all. When Fera looked out into the hallway, she was surprised to see Raf there
+waiting for her.
 
-"I thought we were friends..." Raf said, hiding in the darkness. "But you are
-not acting like a friend."
+"I thought we were friends..." Raf said. "But you are not acting like a
+friend."
 
 "What are you doing here, Raf? Have you been waiting here this entire time?"
 
-"The things you said about my sister and me really hurt-"
+"Why do you want to blow up the college, Fera?"
 
-"Shut up. I don't care. Just turn the lights back on."
-
-Raf drew in a big breathe. "I'm not going to help you until you apologize,
-agree to be nicer to me, and turn off the self-destruct sequence."
-
-"I'm not going to do any of that."
-
-"I cut the power to all of the lights in the school. If you don't override the
-self-destruct command, you're going to fumble around in the darkness until the
-school explodes," Raf said.
-
-"If you don't help me, I'm going to tell everyone about your secret bed."
-
-Raf remained silent in the darkness.
-
-"I'll also make sure everyone knows you sleep with your sister. I will tell
-everyone about your filthy, incestuous relationship."
-
-"No, it's not true."
-
-"I'll have bullies beat her sister into a pulp and make you watch!"
-
-Raf whimpered and started crying. The glow from his eyes illuminated the tears
-rolling down his cheeks until they disappeared in the darkness. "You're so mean."
-
-"Lunkers are weird."
-
-"I think it is weird that topsiders say things that they know are not true or
-say things to hurt each other on purpose."
-
-"Do Lunkers always tell the truth and never insult each other?"
-
-"If someone believes that telling lies can help others, then I can at least
-understand the logic behind deception, even if I disagree, but I do not
-understand the point of insults at all. I might say to another Lunker that I
-dislike the sound of their voice, but that is irrelevant. If I said to another
-Lunker that their eyes glow dimly in the darkness, it would be out of genuine
-concern for their wellbeing, not an insult. I think living in the darkness
-helps us to build compassion."
-
-"If you don't know how to lie, you are going to believe every lie you hear. If
-you don't know how to insult someone, you won't know know how to defend
-yourself."
-
-"Can you teach me to lie to others and insult them?" Raf asked shyly.
-
-Fera laughed. "I'll only teach you if join the revolution."
-
-"The revolution?"
-
-"We're going to overthrow the government!"
+"I'm going to overthrow the government, starting with this college!"
 
 "The government is not nice to Lunkers. They search our cities for precious
 minerals with blindingly bright lights. If they find anything, we have to move
@@ -671,88 +675,10 @@ our people to avoid the drilling machines."
 "In the new world we are going to build, there will be justice for everyone,
 even Lunkers."
 
-"If I can help my people by joining your revolution, then I am happy to do so."
+"If I can help my people by joining your revolution, then I am happy to do so,
+but I'm not sure how blowing up the college will help anyone."
 
-"I'm not sure what a wimp like you is going to be able to contribute, but maybe
-you can at least be good cannon fodder."
-
-"What is cannon fodder?"
-
-"It's when expendable people are used to absorb enemy fire."
-
-"I am starting to think you do not care much about others."
-
-"And I'm starting to think you are stalling."
-
-"That is because I am stalling."
-
-"For what?"
-
-"Ben and Edl are coming to stop the self-destruct command."
-
-"You're not the only one with a plan. I had every large AnimalAutomaton, except
-for these GuardGorillas, gather above us and now I'm going to detonate all of
-their fuel cells at once. You might want to cover your ears."
-
-Fera commanded the GuardGorillas to protect Raf, the Provost, and herself
-from the tremendous explosion that punched a hole in the ceiling above. The
-hallway was bathed in light. When Fera's eyes adjusted to the light, she saw
-that Raf was already trying to escape down the hallway. Fera charged forward on
-her sole working powerskate, meandering around the rubble. When Fera caught up
-to Raf, she could only see his outline in the shadows. She kicked out the
-vomit-covered powerskate and was surprised at how solidly it connected. Fera
-kicked Raf until she was sure that he would not try to run again.
-
-Fera was surprised when Raf continued to speak. "Ben read your profile after we
-recovered from the BuzzBee stings. Ben said that you have anger management
-issues, just like your father."
-
-"You dirty moleman! I'm nothing like my father!", Fera screamed and began to
-kick Raf with the broken powerskate again, but this time with a ferocity that
-quickly left her out of breath. She stood in hallway, panting, looking down at
-Raf.
-
-Raf spoke again, but his voice sounded weak and faint. "Did you know that
-Lunkers do not consider the word 'moleman' to be an insult? Moles are
-industrious expert diggers."
-
-"I don't care!"
-
-"The word 'Lunker' was actually considered a slur until the government made it
-the official name for our people."
-
-"Nobody cares about Lunkers, because you're all pushovers!"
-
-"If we try to resist the government, they release poisonous gas into our
-tunnels. The gas burns our skin, especially our eyes. If anyone breathes it in,
-they die. The gas poisons our food and water. Even with filter masks, we-"
-
-"You all deserve to be gassed, you filthy Lunker molemen!"
-
-Raf covered his face with his hands as he started sobbing violently. "They all
-died," he whimpered, shaking uncontrollably on the ground. "Arla and I were the
-only ones who made it. The gas was clogging the filters and everyone was
-suffocating. They gave us all their spare filters and helped us get out even
-though they could not breathe. We left them behind to save ourselves. I still
-see their melted faces whenever I close my eyes."
-
-Fera stood over Raf with tears in her eyes. She was angry at Raf for being so
-weak and angry at herself for crying and wasting time on such a weakling. _If
-Lunkers are so easy to kill, maybe they deserve it,_ Fera thought. Fera wiped
-her face and gave Raf another kick. "Stop crying and get up! We need to get out
-of here before the school blows up."
-
-When Raf kept crying, Fera was furious. She kicked him repeatedly until she was
-gasping for breath from the exertion. Raf was not making any sound whatsoever.
-Fera dropped to her hands and knees, listening for breathing or any signs of
-life.
-
-"Are you concerned for my wellbeing?", Raf whispered, startling Fera.
-
-"No!" Fera replied, punching Raf in the face with a begloved hand. Fera looked
-at Raf. His face was swollen and covered with bruises. Was he not defending
-himself at all from her kicks? What a wimp! "Get moving. We can't waste anymore
-time. What are you waiting for? Why are you just laying there?"
+"I don't have time to explain it to you. Come on, let's get out of here."
 
 "Please wait a moment," Raf said with eyes closed.
 
@@ -768,65 +694,59 @@ eyes wide in shock. When Raf realized that Fera did not know about his
 plant-like abilities until he gave them away, he got flustered. "You mustn't
 tell anyone anything!" Raf exclaimed.
 
-Fera stood up and then immediately crouched down again. The hallway was
-suddenly filled with sound and movement as a thick mass of birds flew in
-through the holes in the walls. Raf pulled Fera down and shielded her from the
-birds with his body. Fera freed her arms from out under Raf and signalled to
-every nearby robotic bird, bat, and bee to fight the avian invaders.
+The hallway was suddenly filled with sound and movement as a thick mass of
+birds flew in through the holes in the walls. Raf pulled Fera down and shielded
+her from the birds with his body. Fera freed her arms from out under Raf and
+signalled to every nearby robotic bird, bat, and bee to fight the avian
+invaders.
 
 "Did you do this?" Fera asked over the sound of the birds clashing with the
 AnimalAutomatons.
 
 Raf nodded. "I am sorry, Fera, but my diversion worked. I think you are really
-amazing, but I can't let you to blow up the school."
+amazing, but I can't let you to blow up the college."
 
 "Get off me, Raf, I'm not your sister!"
 
-"I can't until Ben and Edl arrive."
+"I have to protect you from the birds."
 
-"You're bloody and gross!"
-
-"I'm sorry for bleeding on you."
+"You're enjoying this, you creep!"
 
 Fera placed her functional powerskate on the ground and activated it. The
 powerskate pulled Fera out far enough from under Raf that she was able to
 wriggle free. Staying low to the ground to avoid the overhead, Fera prodded
-Raf.
-
-"Give me your flashlight," Fera demanded.
-
-Emerging from the cloud of flying creatures, Edl scooped Fera up, pushed her
-against the wall, and placed his hands on her shoulders to keep her
+Raf. Emerging from the cloud of flying creatures, Edl scooped Fera up, pushed
+her against the wall, and placed his hands on her shoulders to keep her
 immobilized.
 
 "Let me go!" Fera screamed, kicking and flailing her arms futilely.
 
 "We can't let you go until you stop the self-destruct sequence," Ben said
 walking along the wall while shielding himself from aerial assault with two
-umbrellas. Ben closed both umbrellas and stood in between Fera and Edl. Edl
-leaned forward and create a protective arch with his body, insulating Ben and
-Fera from the battling birds, bats, and bees. "Hello again Fera, could you
-please deactivate the school self-destruct system?" Ben asked politely.
+umbrellas. Ben closed one of the umbrellas and stood next to Fera. Edl leaned
+forward and create a protective arch with his body, insulating Ben and Fera
+from the battling birds, bats, and bees. "Hello again Fera, could you please
+deactivate the self-destruct system?" Ben asked politely.
 
 "No," Fera said defiantly, signaling to the GuardGorillas to attack Ben and
 Edl.
 
 "I disabled the GuardGorillas while you was distracted by the birds. If you
 continue to refuse, I'm afraid that I will have to shock you," Ben said. He
-brought the tips of the umbrellas together. They crackled with electricity.
+brought the tips of closed umbrellas closed. It crackled with electricity.
 
-"You can take those umbrellas and shove them up your-" Fera was interrupted by
-the shock.
+"You can take that umbrella and shove it up your-" Fera was interrupted by the
+shock.
 
 "I really hate to have to insist, but I am still locked out of the system. Are
-you open to deactivating the school self-destruct system now?"
+you open to deactivating the self-destruct system now?"
 
 "No, but maybe one more shock will do the trick," Fera said with a demonic
-smile. Ben sighed and brought one of the umbrellas in for another shock. This
-time, Fera took hold of the umbrella and pulled Ben in. With her other hand,
-Fera grabbed Ben's wrist and shocked him with her powerglove. As soon as he saw
-Ben crumple to the floor, Edl burst into tears, picked up his brother, and
-cradled him in his arms.
+smile. Ben sighed and brought the umbrellas in for another shock. This time,
+Fera took hold of the umbrella and pulled Ben in. With her other hand, Fera
+grabbed Ben's wrist and shocked him with her powerglove. As soon as he saw Ben
+crumple to the floor, Edl burst into tears, picked up his brother, and cradled
+him in his arms.
 
 Moving around Edl, Fera saw that aerial battle had mostly come to an end. The
 hallway was filled with rubble, destroyed AnimalAutomatons, and dead birds. Raf
@@ -837,18 +757,22 @@ was on his knees and crying.
 In between sobs and rocking back and forth, Raf said, "They're dead. You killed
 them."
 
-Fera shook her head. "I didn't kill anyone. Everyone started evacuating as soon
-as I turned on the self-destruct sequence."
+"I didn't kill anyone!" Fera yelled.
 
 Raf opened his hands to reveal a dead bird and then went back to hugging it to
 his chest as he cried.
 
-"You mean the birds?!" Fera screamed, suddenly feeling full of rage. She
-started kicking Raf as hard as she could. Fera kept kicking even after Raf fell
-over. When one leg got tired, Fera switched to the other leg. After her rage
-dissipated, Fera remembered the impending destruction of the school. She tried
-to pick Raf up, but he was completely limp. Fera pulled the flashlight out of
-Raf's pocket and used it to shine a light on Edl.
+"You mean the birds?!" Fera screamed, suddenly feeling full of rage.
+
+TODO: Add back deleted Raf text here
+
+...
+
+She started kicking Raf as hard as she could. Fera kept kicking even after Raf
+fell over. When one leg got tired, Fera switched to the other leg. After her
+rage dissipated, Fera remembered the impending destruction of the college. She
+tried to pick Raf up, but he was completely limp. Fera pulled the flashlight
+out of Raf's pocket and used it to shine a light on Edl.
 
 "Come on Edl, you have to carry Ben and Raf out of here."
 
@@ -887,13 +811,22 @@ the Provost was in pharmacological stupor.
 "Edl, put Ben inside the pod on the left," Fera said. "Great, now get in the
 other pod on the right."
 
-"What about you where are the p"
+"What about you?" Edl asked.
 
-Edl did what Fera  "Edl, put Ben inside the pod on the left," Fera said.
+"There's another set of escape pods left for us," Fera lied.
 
-than three Maker Interest Group members. She considered taking one of the
-revealing three compartments. There was no need to Fera found the
+"Are you sure?" Edl asked looking around.
 
+Fera had expended all of her patience. "Get in the damn pod!"
+
+Edl did not ask any further questions. The pods filled with liquid and a metal
+shield lowered in the it. A loud rumbling noise rolled through the workshop and
+the metal shield became red from the heat of the rocket ignition of the
+launching escape pods.
+
+"What about our eshcape pods?" the Provost asked.
+
+"There are no more pods," Fera said flatly.
 
 ...
 
@@ -905,7 +838,7 @@ balancing on her only working powerskate. Whenever Fera used the
 non-functioning powerskate to make a tight turn, she could feel the vomit
 squish inside.
 
-Once they were outside, Fera saw that everyone the area around the school had
+Once they were outside, Fera saw that everyone the area around the college had
 already been evacuated. Fera checked the tram station and saw that public
 transportation had been completely shutdown. She pulled up to a microtransit
 vending machine with the Provost and Raf in tow. Fera whipped the Provost

@@ -5,7 +5,7 @@
 will learn that she was imprinted with the consciousness of a long dead Martian
 woman whose world and culture was destroyed and forgotten long ago
 
-- Satalitastra Azimuta (Human):
+- Satalitastra Azymuta (Human):
 
 Keia's best friend from middle school. Epileptic. Can project herself into
 electronics during absentee seizures. Later learns to influence and communicate
@@ -2892,3 +2892,186 @@ He explains that the Dust Goddess promised her motherhood and she agreed to foll
 
 Book 3:
 The third book starts with a surprise attack by the invading mimic forces. Earth, Mars, and the Thelusians are brought to their knees. The mimics begin to take control. Characters previously oppressed by the rulers of Earth and Mars are now forced to fight the mimics in addition to fighting to survive. New ethnicities have formed since the ending of the 2nd book. Raf awakes and welcomes the invading forces, but they reject him because he is a weakling. The messages were only partially decoded by Earth's scientists and the invading mimics see Raf as a flaw. Raf decides to fight back against the mimic invasion. He hides the fact that he knew about the invasion from the other members of the resistance. The new mimics keep humans and old mimics alive to study how they have adapted to life on Earth. It turns out the old mimics adapted to be symbiotic humans while the new mimics are parasitic. New mimics can impregnate human men and women. Human men typically die after giving birth to a mimic baby, while human women typically survive the birth. Old mimics can only become pregnant themselves after interacting with humans. As the invading mimics adapt, it becomes difficult to say who is human, new mimic, and old mimic. Part of humanity escapes into space away from the mimic invaders. The new mimics rule over and oppress the humans and the old mimics. The humans and old mimics form an alliance against the new mimic oppressors. A new hero arises who gains the ability to fight back after she masters an ancient AI (the UNO AI is brought under control when the hero says tries to use a defective sudoku puzzle to destroy the AI, "command ku not found", "Guess the password," a voice whispered "Guess the password?!" Kaia exclaimed, "Password accepted. Welcome guest," the AI responded). She is able to understand the thoughts of new mimics, old mimics, and humans. She teaches humans about the mimic hivemind. She uses her powers to destroy the new mimic power structure, killing off most of the people. The AI informs her that she made a mistake and the setback to technological progress could be disastrous. If the infighting and the setbacks to technological progress continue then humanity and mimicity will be unprepared for when Earth will be consumed by the Sun. The hero tries to organize the survivors, humans, new mimics, and old mimics alike, to work together to prepare for the Sun's expansion. The hero decides that the only way to ensure stability is install herself as the new ruler of Earth and Mars. The AI agrees and helps the hero to take over. The hero starts crushing those who defied her and rules over Mars and Earth with a iron fist calling herself the All Queen. She begins to transmit signals similar to those coming from the distant mimic civilizations, intending to destroy nascent mimic civilizations, and create more of her own civilizations throughout the universe. She makes plans to move first Earth and then Mars to escape the Sun's expansion. The All Queen sends out colony ships in all directions planning to conquer nearby worlds when Andromeda collides with the Milky Way and rule over all of Milkomeda.
+
+Fera and Raf:
+
+"The things you said about my sister and me really hurt-"
+
+"Shut up. I don't care. Just turn the lights back on."
+
+Raf drew in a big breathe. "I'm not going to help you until you apologize,
+agree to be nicer to me, and turn off the self-destruct sequence."
+
+"I'm not going to do any of that."
+
+"I cut the power to all of the lights in the college. If you don't override the
+self-destruct command, you're going to fumble around in the darkness until the
+school explodes," Raf said.
+
+"If you don't help me, I'm going to tell everyone about your secret bed."
+
+Raf remained silent in the darkness.
+
+"I'll also make sure everyone knows you sleep with your sister. I will tell
+everyone about your filthy, incestuous relationship."
+
+"No, it's not true."
+
+"I'll have bullies beat her sister into a pulp and make you watch!"
+
+Raf whimpered and started crying. The glow from his eyes illuminated the tears
+rolling down his cheeks until they disappeared in the darkness. "You're so
+mean."
+
+"Lunkers are weird."
+
+"I think it is weird that topsiders say things that they know are not true or
+say things to hurt each other on purpose."
+
+"Do Lunkers always tell the truth and never insult each other?"
+
+"If someone believes that telling lies can help others, then I can at least
+understand the logic behind deception, even if I disagree, but I do not
+understand the point of insults at all. I might say to another Lunker that I
+dislike the sound of their voice, but that is irrelevant. If I said to another
+Lunker that their eyes glow dimly in the darkness, it would be out of genuine
+concern for their wellbeing, not an insult. I think living in the darkness
+helps us to build compassion."
+
+
+"If you don't know how to lie, you are going to believe every lie"
+
+"The things you said about my sister and me really hurt-"
+
+"Shut up. I don't care. Just turn the lights back on."
+
+Raf drew in a big breathe. "I'm not going to help you until you apologize,
+agree to be nicer to me, and turn off the self-destruct sequence."
+
+"I'm not going to do any of that."
+
+"I cut the power to all of the lights in the college. If you don't override the
+self-destruct command, you're going to fumble around in the darkness until the
+school explodes," Raf said.
+
+"If you don't help me, I'm going to tell everyone about your secret bed."
+
+Raf remained silent in the darkness.
+
+"I'll also make sure everyone knows you sleep with your sister. I will tell
+everyone about your filthy, incestuous relationship."
+
+"No, it's not true."
+
+"I'll have bullies beat her sister into a pulp and make you watch!"
+
+Raf whimpered and started crying. The glow from his eyes illuminated the tears
+rolling down his cheeks until they disappeared in the darkness. "You're so mean."
+
+"Lunkers are weird."
+
+"I think it is weird that topsiders say things that they know are not true or
+say things to hurt each other on purpose."
+
+"Do Lunkers always tell the truth and never insult each other?"
+
+"If someone believes that telling lies can help others, then I can at least
+understand the logic behind deception, even if I disagree, but I do not
+understand the point of insults at all. I might say to another Lunker that I
+dislike the sound of their voice, but that is irrelevant. If I said to another
+Lunker that their eyes glow dimly in the darkness, it would be out of genuine
+concern for their wellbeing, not an insult. I think living in the darkness
+helps us to build compassion."
+
+"If you don't know how to lie, you are going to believe every lie you hear. If
+you don't know how to insult someone, you won't know know how to defend
+yourself."
+
+"Can you teach me to lie to others and insult them?" Raf asked shyly.
+
+Fera laughed. "I'll only teach you if join the revolution."
+
+
+"I'm not sure what a wimp like you is going to be able to contribute, but maybe
+you can at least be good cannon fodder."
+
+"What is cannon fodder?"
+
+"It's when expendable people are used to absorb enemy fire."
+
+"I am starting to think you do not care much about others."
+
+"And I'm starting to think you are stalling."
+
+"That is because I am stalling."
+
+"For what?"
+
+"Ben and Edl are coming to stop the self-destruct command."
+
+"You're not the only one with a plan. I had every large AnimalAutomaton, except
+for these GuardGorillas, gather above us and now I'm going to detonate all of
+their fuel cells at once. You might want to cover your ears."
+
+Fera commanded the GuardGorillas to protect Raf, the Provost, and herself
+from the tremendous explosion that punched a hole in the ceiling above. The
+hallway was bathed in light. When Fera's eyes adjusted to the light, she saw
+that Raf was already trying to escape down the hallway. Fera charged forward on
+her sole working powerskate, meandering around the rubble. When Fera caught up
+to Raf, she could only see his outline in the shadows. She kicked out the
+vomit-covered powerskate and was surprised at how solidly it connected. Fera
+kicked Raf until she was sure that he would not try to run again.
+
+
+
+Fera was surprised when Raf continued to speak. "Ben read your profile after we
+recovered from the BuzzBee stings. Ben said that you have anger management
+issues, just like your father."
+
+"You dirty moleman! I'm nothing like my father!", Fera screamed and began to
+kick Raf with the broken powerskate again, but this time with a ferocity that
+quickly left her out of breath. She stood in hallway, panting, looking down at
+Raf.
+
+Raf spoke again, but his voice sounded weak and faint. "Did you know that
+Lunkers do not consider the word 'moleman' to be an insult? Moles are
+industrious expert diggers."
+
+"I don't care!"
+
+"The word 'Lunker' was actually considered a slur until the government made it
+the official name for our people."
+
+"Nobody cares about Lunkers, because you're all pushovers!"
+
+"If we try to resist the government, they release poisonous gas into our
+tunnels. The gas burns our skin, especially our eyes. If anyone breathes it in,
+they die. The gas poisons our food and water. Even with filter masks, we-"
+
+"You all deserve to be gassed, you filthy Lunker molemen!"
+
+Raf covered his face with his hands as he started sobbing violently. "They all
+died," he whimpered, shaking uncontrollably on the ground. "Arla and I were the
+only ones who made it. The gas was clogging the filters and everyone was
+suffocating. They gave us all their spare filters and helped us get out even
+though they could not breathe. We left them behind to save ourselves. I still
+see their melted faces whenever I close my eyes."
+
+Fera stood over Raf with tears in her eyes. She was angry at Raf for being so
+weak and angry at herself for crying and wasting time on such a weakling. _If
+Lunkers are so easy to kill, maybe they deserve it,_ Fera thought. Fera wiped
+her face and gave Raf another kick. "Stop crying and get up! We need to get out
+of here before the school blows up."
+
+When Raf kept crying, Fera was furious. She kicked him repeatedly until she was
+gasping for breath from the exertion. Raf was not making any sound whatsoever.
+Fera dropped to her hands and knees, listening for breathing or any signs of
+life.
+
+"Are you concerned for my wellbeing?", Raf whispered, startling Fera.
+
+"No!" Fera replied, punching Raf in the face with a begloved hand. Fera looked
+at Raf. His face was swollen and covered with bruises. Was he not defending
+himself at all from her kicks? What a wimp! "Get moving. We can't waste anymore
+time. What are you waiting for? Why are you just laying there?"
+
