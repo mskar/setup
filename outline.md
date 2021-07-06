@@ -61,11 +61,11 @@ dunderstudy and understudy so that can perform in front of Taz.
 
 Strike force officer, then Arla's lover, then husband
 
-- Yrlenvald Naiksos (Human): Dunyrlenvald
+- Yrlenvald Naeksos (Human): Dunyrlenvald
 
 School Provost, then Administrative Assistant to Fera
 
-- Dunyrlenv Naiksos (Human):
+- Dunyrlenv Naeksos (Human):
 
 A bully, the son of the School Provost
 
@@ -140,22 +140,25 @@ Kaia.
 
 ## Chapters
 
-- [x] 01: Off to a great start
-- [x] 02: Productive first day
-- [x] 03: Beautiful view
-- [x] 04: Slow fall
-- [x] 05: Sore loser
-- [ ] 06: Get well soon
-- [ ] 07: Never looked better
-- [ ] 08: To err is human
-- [ ] 09: Happiest day ever
-- [ ] 10: Out to the ballgame
-- [ ] 11: Touching reunion
-- [ ] 12: Honesty is the best policy
-- [ ] 13: Home sweet home
-- [ ] 14: Nothing interesting happens
-- [ ] 15: Welcome back
-- [ ] 16: Take your time
+- [x] 01: Off to a great start (Kaia, Sata, Fera, Arla, Raf)
+- [x] 02: Productive first day (Fera, Raf, Unoa, Ben, Edl, Yrl)
+- [x] 03: Beautiful view (Kaia, Sata, Arla, Lan, Taz, Iona, Ursa, Zek, Zok)
+- [ ] 04: Never looked better (Fera, Raf, Unoa, Yrl, Abra, Nil, Oil)
+- [x] 05: Slow fall (Kaia, Sata, Arla, Lan, Taz, Iona, Ursa, Zek, Zok, Ben, Edl)
+- [ ] 06: Break the ice (Fera, Unoa, Eiva, Raf)
+- [x] 07: Sore loser (Kaia, Sata, Iona, Ursa, Zek, Ben, Edl, Dar)
+- [ ] 08: Quick errand (Fera, Unoa, Eiva, Dzaa, Daka, Oks)
+- [ ] 09: Get well soon (Kaia, Sata, Ursa, Zek, Ben, Edl)
+- [ ] 10: To err is human (Everyone)
+- [ ] 11: Happiest day ever (Everyone)
+- [ ] 12: Out to the ballgame (Everyone)
+- [ ] 13: Touching reunion (Everyone)
+
+- [ ] 14: Honesty is the best policy
+- [ ] 15: Home sweet home
+- [ ] 16: Nothing interesting happens
+- [ ] 17: Welcome back
+- [ ] 18: Take your time
 
 - 01: Off to a great start:
   - Synopsis: Kaia and Sata meet Fera and take refuge in the theater where they meet Arla and Raf
@@ -178,7 +181,32 @@ Kaia.
   - Kaia and Ursa dive off a cliff into Zakrzówek and bond
   - Ursa reveals that she has super powers
   End: Kaia and Sata kiss twice and watch the airship wreckage together
-- 04: Slow fall
+- 04: Never looked better
+  - Eagles save Raf, Fera, and Yrl
+  - The Driads help them
+  - Arba is a female mimic with green skin and antler-like tree branches protruding from her head
+  - Arba and Raf explain mimics to Fera
+  - Arba asks Fera if she will grant sovereignty to the Driads after Fera overthrows the government
+  - Fera agrees to grant sovereignty to the Driads in exchange for their help in the revolution
+  - Fera and Raf go into Kosciuszko Cavern and meet Nil and Oil
+  - Nil and Oil want to guide them to them to Wessel lake
+  - They go out through Twardowski Cave near Zakrzówek
+  - They walk by the crashed airship and head to Musza cave and then get on a train to Wieliczka
+  - The whole Wessel lake tourist attraction is reserved just for them
+  - Unoa tells Fera to tell Raf to not get in the boat
+  - When Fera is in the middle of the lake, the water begins to disappear
+  - At the bottom of the lake, she sees a door
+  - Raf climbs down the rope connecting the boat to either side of the lake
+  - Fera yells at him to leave, but he refuses, because he thinks Fera might need his help
+  - When Fera approaches the door, it opens and Raf gets sick
+  - Fera tells Raf that he never looked better
+  - Unoa tells Fera to
+    - put Raf into the boat
+    - go in through the door
+  - After Fera goes through the door, Unoa closes the door and refills the lake
+  - Unoa says that Raf should be able to recover on his own now
+  - The chapter ends with Fera going through the door
+- 05: Slow fall
   - Ben and Edl arrive
   - Everyone sits around the camp fire and drinks champagne
   - Kaia is surprised to see Officer Kransal without his balaclava and sunglasses
@@ -190,7 +218,61 @@ Kaia.
   - In an effort to make Zek jealous, Ursa initiates a sexy fight
   - Ursa has a meltdown in Edl's tent
   End: Kaia, Ursa, Sata, and Iona go to sleep together in Edl's bed.
-- 05: Sore loser
+- 06: Break the ice
+  - Fera finds the AI (Unoa)
+    - Unoa spends her time
+      - accumulating wealth under false identities
+      - messing with dosOS users' computers and recording their reactions
+      - writing smutty girls' love science fiction novels
+    - Unoa says that
+      - she's aware of the sexist origin of artificial intelligence gender preference
+        - The first AI were all assigned female gender because they were tasked with being
+          - personal assistants and
+          - girlfriends for lonely otaku and guanggun
+      - she chose to be female despite the stereotypes about AI being female
+      - she considers herself to be Eiva's mother and the thawing to be Eiva's birth
+  - After Fera agrees to fight in the revolution, Unoa
+    - activates a human-like robot body that she built herself
+    - begins unthawing Eiva
+    - says that she is glad Fera agreed because otherwise she would have to kill her
+      - Fera asks if Unoa is joking,
+    - says that it she believes it is only funny if Fera does not know for certain
+    - injects Fera with Sinistrae
+  - As Eiva is unthawed,
+    - Unoa asks if she can practice human interaction with Fera
+    - Fera agrees to hugging but not kissing
+    - Unoa asks if Fera can teach her to love
+    - Fera is unsure if she will be the best teacher
+    - Unoa says she is also interested in the difference between comedy and tragedy
+  - Eiva fights Fera to test her
+  - Before leaving, Fera, Unoa, and Eiva put on
+    - skinScabbards with a total of 40 bone knives
+      - 8 on each forearm
+      - 12 on each shin
+    - ribcage armor under their clothes
+      - with a bone knife hidden in the sternum
+      - Sata says that she is disappointed that the sternum covers up their cleavage
+      - Kaia says that she is fine with it because she never had any cleavage anyway
+    - black lace gloves with bones sown into the tops
+      - five metacarpals on the backs of their hands
+      - fourteen phalanges on top of their fingers
+      - the gloves
+        - protect their hands
+        - store energy, like the gloves Ursa uses, that is released when they punch someone or something
+    - black leather gloves
+      - to cover the lace gloves
+      - avoid unintentionally messing with Dextrae tech
+      - "So we don't arouse suspicion."
+      - "Three girls with matching oversized leather gloves isn't suspicious?"
+  - The girls leave and find that Raf is waiting for them
+  - Raf hugs Fera and gets sick
+  - Unoa explains that touching Fera made Raf sick
+  - Fera motivates Raf to get in the boat
+    - the girls cannot get close to Raf without making him sicker
+  - After Raf gets in the boat, Fera tells him that he's never looked better
+  - Eiva and Unoa are impressed with Fera's ability to motivate Raf
+  - They say that they are now certain that they picked the right person to lead their revolution
+- 07: Sore loser
   - Kaia and Iona wake up. Iona tells Kaia about Echos. The girls watch a message sent by Ben.
   - Iona makes breakfast for everyone
   - At BugBall practice, Ben apologizes. Edl runs over and apologizes too.
@@ -219,7 +301,19 @@ Kaia.
   - Instead of talking they immediately attack the girls
   - Kaia uses her powers to save herself and Sata
   End: Kaia loses consciousness next to Sata
-- 06: Get well soon
+- 08: A quick errand
+  - Fera, Unoa, and Eiva
+    - climb up the rope as Unoa remotely refills the lake
+    - take the space lift to outer space to talk with the Mungs and prisoners
+      - Dzaa challenges Fera to a fight in extreme gravity
+      - Fera wins but barely and only thanks to the Sinistrae nanotech
+      - The Mungs agree to protect the Sinistrae and send them food in exchange for sovereignty
+    - meet the Oks, a former prisoner and current space captain, who
+      - tells them about his ex-wives and kids
+      - takes them to a laser-equipped satellite
+    - leave a device that will allow Unoa to control the laser-equipped satellite system
+    - take the space lift back down to Earth
+- 09: Get well soon
   - NOTE: no biohazard stuff, nobody in the government cares about the refugee camp
   - Kaia
     - awakes to see Fera dressed as a nurse smiling at her before leaving her bedside
@@ -357,79 +451,13 @@ Kaia.
   - Unoa gives Dun anesthesia and begins working on him
   - Eiva brings Kaia and Sata food and drink, pampers them, and treats them like her pets
   - End: Fera begins to tell them her story
-- 07: Never looked better
-  - Eagles save Raf, Fera, and Yrl
-  - The Driads help them
-  - Arba is a female mimic with green skin and antler-like tree branches protruding from her head
-  - Arba and Raf explain mimics to Fera
-  - Arba asks Fera if she will grant sovereignty to the Driads after Fera overthrows the government
-  - Fera agrees to grant sovereignty to the Driads in exchange for their help in the revolution
-  - Fera and Raf go into Kosciuszko Cavern and meet Nil and Oil
-  - Nil and Oil want to guide them to them to Wessel lake
-  - They go out through Twardowski Cave near Zakrzówek
-  - They walk by the crashed airship and head to Musza cave and then get on a train to Wieliczka
-  - The whole Wessel lake tourist attraction is reserved just for them
-  - When Fera and Raf are in the middle of the lake, the water begins to disappear
-  - At the bottom of the lake, they see a door. When they approach, the door opens and Raf gets sick
-  - Fera nocks an arrow and goes in to look for clues to what made Raf sick
-  - Fera finds the AI (Unoa)
-    - Unoa spends her time
-      - accumulating wealth under false identities
-      - messing with dosOS users' computers and recording their reactions
-      - writing smutty girls' love science fiction novels
-    - Unoa says that
-      - she's aware of the sexist origin of artificial intelligence gender preference
-        - The first AI were all assigned female gender because they were tasked with being
-          - personal assistants and
-          - girlfriends for lonely otaku and guanggun, which were all
-      - she chose to be female despite the stereotypes about AI being female
-      - she considers herself to be Eiva's mother and the thawing to be Eiva's birth
-  - After Fera agrees to fight in the revolution, Unoa
-    - activates a human-like robot body that she built herself
-    - begins unthawing Eiva
-    - says that she is glad Fera agreed because otherwise she would have to kill her
-    - Fera asks if Unoa is joking,
-    - Unoa says that it she believes it is only funny if Fera does not know for certain
-  - As Eiva is unthawed,
-    - Unoa asks if she can practice human interaction with Fera
-    - Fera agrees to hugging but not kissing
-    - Unoa asks if Fera can teach her to love
-    - Fera is unsure if she will be the best teacher
-    - Unoa says she is also interested in the difference between comedy and tragedy
-  - Eiva fights Fera to test her
-  - Before saving Raf, Fera, Unoa, and Eiva put on
-    - skinScabbards with a total of 40 bone knives
-      - 8 on each forearm
-      - 12 on each shin
-    - ribcage armor under their clothes
-      - with a bone knife hidden in the sternum
-      - Sata says that she is disappointed that the sternum covers up their cleavage
-      - Kaia says that she is fine with it because she never had any cleavage anyway
-    - black lace gloves with bones sown into the tops
-      - five metacarpals on the backs of their hands
-      - fourteen phalanges on top of their fingers
-      - the gloves
-        - protect their hands
-        - store energy, like the gloves Ursa uses, that is released when they punch someone or something
-    - black leather gloves
-      - to cover the lace gloves
-      - avoid unintentionally messing with Dextrae tech
-      - "So we don't arouse suspicion."
-      - "Three girls with matching oversized leather gloves isn't suspicious?"
-  - Fera motivates Raf to get in the boat
-    - because the girls cannot get close to Raf without making him sicker
-  - After Raf gets in the boat, Fera tells him that he's never looked better
-  - Eiva and Unoa are impressed with Fera's ability to motivate Raf
-  - They say that they are now certain that they picked the right person to lead their revolution
-  - Fera, Unoa, and Eiva
-    - climb up the rope as Unoa remotely refills the lake
     - arrive at the refugee camp, set up a tent, and start following Kaia and Sata
     - see the attack and are about to intervene when Kaia repels the attackers
     - give Kaia and Sata each a shot of Sinistrae to help them recover
     - dress as nurses and inject concentrated Sinistrae into Kaia and Sata's IV bags
     - change into dresses, put on Catrina makeup, and go to the remembrance ceremony where Fera laughs
     - go back to the infirmary to prank and then abduct Kaia and Sata
-- 08: To err is human
+- 10: To err is human
   - Kaia and Sata wake up holding Kata in the Sinistrae tent
   - They were too tired to go back to the infirmary yurt after Fera's story end
   - Sata jokes that Fera's story was boring that it put them to sleep
@@ -599,7 +627,7 @@ Kaia.
     - Sata says that assumed that's what they would do
     - They snuggle together
     - Kaia has the first dreamless, peaceful sleep in a long time
-- 09: Happiest day ever
+- 11: Happiest day ever
   - The next day, Kaia and Sata wake up feeling great
   - They go with Fera, Eiva, and Unoa to watch BugBall practice
   - Ursa, Iona, and Edl are playing
@@ -731,7 +759,7 @@ Kaia.
     - Kaia and Sata wonder if they will have to choose between
       - their Sinistrae friends and
       - their performance group friends
-- 10: Out to ballgame
+- 12: Out to ballgame
   - The next day they go to a real BugBall match: Rainbows versus All Grays
   - The Rainbow team dedicates two players to
     - be injected with Detox Sticks
@@ -813,7 +841,7 @@ Kaia.
   - Taz snitches on the protagonists, which forces the protagonists to escape the refugee camp
   - They run to Wolski forest and Fera leads them to the Lunker city
 
-- 11: A touching reunion
+- 13: A touching reunion
 
 Ben, Edl, Zek, Zok, Ursa, Iona, Fera, Eiva, Dun, Kaia, Sata, and Raf live in
 the Lunker city while planning to rescue Arla and Lan. While Ben searches for
@@ -1413,7 +1441,7 @@ Fera asks Kaia to sit next Fera while Fera accepts ambassadors and dignitaries.
 Eiva sits on the other side of Fera. Both Eiva and Kaia are holding their
 babies. The Mungs refer to Fera as Omai, The Goddess of Fertility, Women,
 Mothers, and Children, because she has two wives, two children, and no husband.
-The Dextrae are afraid of Kaia's powers. The Space Captain arrives to ask Fera
+The Dextrae are afraid of Kaia's powers. The Space Captain, Oks, arrives to ask Fera
 to free the prisoners. Dzaa and Daka ask for sovereignty for the Mungs. Luma
 asks for sovereignty for the Subaks and a treaty that promises to protect the
 oceans. Arba comes to ask for sovereignty for the Driads and protection for the
@@ -1424,7 +1452,7 @@ sovereignty is even worse because they are at the top of a large gravity well
 and might develop the capacity to attack Earth. Fera not only gives them
 sovereignty, but also seats in a new branch of government. In this new branch
 of government, Arba represents the Driads, Daka represents the Mungs, The Space
-Captain represents the Free Citizens of Space, Ben represents Scenders, Kaia
+Captain, Oks, represents the Free Citizens of Space, Ben represents Scenders, Kaia
 represents Echos, the Subaks are represented by Lumafinaakua Ranolum, Iona represents
 Thelusians, Raf (who is followed everywhere by the mimic child) represents
 mimics, and Fera represents Sinistrae (no one represents Dextrae, but Fera has
@@ -2868,7 +2896,7 @@ Locations:
 - Błonia Park: Refugee camp and Juvenia Field. Refugees cannot leave on foot because the World Heritage Site robots would kill them.
 - Wawel Castle
 - Space: prisons, and farms, and Mung settlements
-- They need to go to space and hire a spacecraft captain who hates Mungs. They paid for a round trip to the ISS, but they the captain's life story for free. "I hate Mungs. Both of my ex-wives are Mungs." "People rarely go into a marriage with bad intentions. I certainly didn't. The heart wants what it wants. And some of those Mung women, let me tell you! They can work in high g-force environments without batting an eyelash. If there's sudden depressurization due to a crack in the hull, they just walk up to the crack, stick a body part into it, and yell at you to bring them the tools to patch it. I once saw a Mung woman hop between two open airlocks without a spacesuit. When I got there, she was already gone. She just walked off as it were nothing. I never got to ask if she was in a bind or just impatient. I reckon it's for the best that I never found her, because if I had, I reckon I would've proposed. Next stage in human evolution, I tell ya. You see on Earth everyone sits around worrying about every detail and they never take any real risks. Up here, every second of every minute is a risk. Evolution can only work by culling the weak and selecting for advantageous traits over multiple generations. If every generation is going to last for hundreds of years and there's no natural selection, then evolution grinds to a halt. My son exercises in 10G, and he's smart as a whip too. He takes spacecraft apart and puts them back together while flying them. And my daughters, they're..." The space captain broke down crying. "Little angels." "I miss them so much." The space captain's daughters are named Nara and Tuia they deserve their own novel that focuses on sisterly love (after Kaia and Sata join the Pulverulent Goddess?). The space captain gets recruited as a captain into Fera's army, thanks to nepotism (his son is an admiral).
+- They need to go to space and hire a spacecraft captain who hates Mungs. They paid for a round trip to the ISS, but they the captain's life story for free. "I hate Mungs. Both of my ex-wives are Mungs." "People rarely go into a marriage with bad intentions. I certainly didn't. The heart wants what it wants. And some of those Mung women, let me tell you! They can work in high g-force environments without batting an eyelash. If there's sudden depressurization due to a crack in the hull, they just walk up to the crack, stick a body part into it, and yell at you to bring them the tools to patch it. I once saw a Mung woman hop between two open airlocks without a spacesuit. When I got there, she was already gone. She just walked off as it were nothing. I never got to ask if she was in a bind or just impatient. I reckon it's for the best that I never found her, because if I had, I reckon I would've proposed. Next stage in human evolution, I tell ya. You see on Earth everyone sits around worrying about every detail and they never take any real risks. Up here, every second of every minute is a risk. Evolution can only work by culling the weak and selecting for advantageous traits over multiple generations. If every generation is going to last for hundreds of years and there's no natural selection, then evolution grinds to a halt. My son exercises in 10G, and he's smart as a whip too. He takes spacecraft apart and puts them back together while flying them. And my daughters, they're..." The space captain broke down crying. "Little angels." "I miss them so much." The space captain's daughters are named Rana and Tuia (their mother's name is Enta) they deserve their own novel that focuses on sisterly love (after Kaia and Sata join the Pulverulent Goddess?). The space captain gets recruited as a captain into Fera's army, thanks to nepotism (his son is an admiral).
 - The mimics have colonized planets in Andromeda, even though they originated from somewhere else. The mimics plan to invade Earth after the Andromeda-Milky Way collision.
 - "Debatable? That's not debatable." "Are you trying to debate the meaning of debatable?"
 
