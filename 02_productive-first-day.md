@@ -589,8 +589,10 @@ slowed down as the AnimalAutomatons began to pile on. Before going
 around the corner, Fera saw Edl under a mountain of AnimalAutomatons, valiantly
 trying to fight them all off.
 
-Fera burst into the Provost's office and ordered the AnimalAutomatons
-inside to stand down.
+`Fera, this is not conducive to maintaining a low profile.`
+
+Fera burst into the Provost's office and ordered the AnimalAutomatons inside to
+stand down.
 
 "Here's what's going to happen, you sack of-", Fera stopped when she saw that
 the Provost was sleeping in his usual position, head tilted back and mouth
