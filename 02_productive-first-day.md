@@ -189,11 +189,16 @@ pretended to pay attention, but she could not imagine anything more boring that
 a birdhouse building robot. Her glasses provided some entertainment by
 displaying schematics and details related to the robot.
 
-Luckily, Fera did not have to feign interest for long. Ben zipped into the
-maker shop on powerskates. Wearing a white lab coat over a vest, dress shirt,
-and tie, Ben did not seem to fit the skater archetype. The lab coat flapped
-behind him like a cape. His lab coat and dress shirt sleeves were rolled up
-past a pair of metallic gloves that extended up to Ben's elbows.
+`There's nothing even remotely interesting about this robot. Initiating display
+of epic fail videos.`
+
+Fera tried to keep a straight face while the glasses displayed recordings of
+people falling down and/or getting hit by various objects. Luckily, Fera did
+not have to feign interest for long. Ben zipped into the maker shop on
+powerskates. Wearing a white lab coat over a vest, dress shirt, and tie, Ben
+did not seem to fit the skater archetype. The lab coat flapped behind him like
+a cape. His lab coat and dress shirt sleeves were rolled up past a pair of
+metallic gloves that extended up to Ben's elbows.
 
 Coming to sliding stop in front of Fera and Raf, Ben bowed deeply and said,
 "Welcome to the maker shop! I'm Ben, and this is my little brother Edl."
@@ -430,6 +435,8 @@ couldn't close her ears the way she could close her eyes. Instead, she had to
 absorb all of the yelling, often for many hours. Every horrible thing her
 father said remained burned in her memory.
 
+`Fera, Ben is waiting for you to respond.`
+
 "Yes, sorry, you were saying?"
 
 "The gloves have a range of a few hundred meters and if you ever find yourself
@@ -465,6 +472,9 @@ amazement as the GuardGorilla started to juggle the ChaseChimps with its
 feet. Fera turned towards a wall and with a few signs had a swarm of BuzzBees
 and wakeupWasps hovering in front of her. She had the swarm form different
 shapes in the air and then sent all of the robotic bugs back to their nests.
+
+`I suppose you won't have much need for me anymore now that you have your fancy
+gloves.`
 
 "Ok, I think I'm getting the hang of this," Fera said stopping right in front
 of the three stunned boys.
@@ -512,6 +522,8 @@ flying AnimalAutomatons into your opponents?"
 "Yes, any AnimalAutomatons can be used, but birds have the right combination of
 speed and mass."
 
+`He's right. I guess great minds think alike.`
+
 Fera used her gloves to summon two HistorianHummingbirds. "En garde," she said,
 looking menacingly at Ben.
 
@@ -553,7 +565,7 @@ moving up to the console.
 
 "They take effect immediately, so please be careful!"
 
-"Did I do it right?"
+Fera adjusted the position of multiple icons. "Did I do it right?"
 
 "Yes, that's amazing. You deactivated my gloves and skates on the first try!"
 
