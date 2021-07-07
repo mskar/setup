@@ -988,7 +988,7 @@ the city."
 
 "Can we pick her up?" Edl asked.
 
-"We wouldn't make it in time."
+Ben shook his head. "We wouldn't make it in time."
 
 The two brothers looked out the windows at the chain of explosions snaking
 through the city. The signal from Fera's powergloves and powerskates
