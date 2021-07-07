@@ -1,0 +1,3 @@
+[submodule "soulswept"]
+	path = soulswept
+	url = https://github.com/mskar/soulswept

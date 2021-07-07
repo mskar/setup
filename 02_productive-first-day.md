@@ -947,7 +947,7 @@ the theater? Fera looked down at Raf. He was still not moving. Fera kept one
 hand on the throttle and stroked Raf's hair with the other. She began to cry
 harder.
 
-_It's the wind in my eyes,_ Fera thought, _No way I'm crying over those
+_It's the wind in my eyes,_ Fera thought. _No way I'm crying over those
 losers._ Fera closed her eyes. It didn't matter now. She was free. She relaxed
 her body and focused on her last few breaths. The blow from behind came sooner
 than Fera expected. She thought she would hear the explosion first and maybe
