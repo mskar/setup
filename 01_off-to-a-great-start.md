@@ -21,10 +21,10 @@ was a network of tunnels filled with robotic insects always ready to swarm
 anyone who stepped out of line.
 
 Kaia gently tugged on Sata's shirt sleeve. "Maybe if we act crazy, they'd knock
-us out to keep us from disrupting the ceremony." Sata pulled her shirt sleeve
-away. She was wearing her favorite pink shirt. The shirt had a design featuring
-voluptuous manga catgirls^[The Japanese word for catgirl is nekomusume] hanging
-with nooses around their necks while vomiting rainbows.
+us out to keep us from disrupting the ceremony." Sata was wearing her favorite
+pink shirt. The shirt had a design featuring voluptuous manga catgirls^[The
+Japanese word for catgirl is nekomusume] hanging with nooses around their necks
+while vomiting rainbows.
 
 "Acting crazy should be easy for you, because you've always been insane." Sata
 ruffled Kaia's hair, knowing full well that it made Kaia mad. Unlike Sata, Kaia
@@ -487,8 +487,8 @@ unruly hair and almost fell over.
 
 As they entered the office, they saw the blue-green haired protester sitting in
 a chair with a GuardGorilla standing behind her. The protester was wearing a
-shirt with "Smash the system!" written on it and a design of a hammer smashing
-a machine and sending broken cogs flying in all directions.
+black shirt with 'Smash the system!' written on it and a design of a hammer
+smashing a machine and sending broken cogs flying in all directions.
 
 In the opposite side of the room was a large, well-polished mahogany desk. The
 college Provost was sitting behind the desk. He was snoring loudly with his head
@@ -496,12 +496,12 @@ tilted back, his mouth open, his face and neck covered in BuzzBees, and drool
 flowing down the side of his chin and onto his blazer.
 
 The protester's narrow face was swollen and covered with bruises. It was clear
-that she did not go quietly when the SecuritySimians took her. Her heavily
-mascaraed eyes, partially blocked by her wavy blue-green hair, widen when she
-saw Kaia and Sata approach. The look on the protester's bruised face made Kaia
-wonder what she and Sata looked like. Sata, shirtless and missing a shoe, was
-supporting Kaia, whose hair was still standing on end from being electrocuted
-repeatedly. The GuardGorilla pulled up a pair of chairs for Kaia and Sata.
+that she did not go quietly when the SecuritySimians took her. Her eyes,
+partially blocked by her wavy blue-green hair, widen when she saw Kaia and Sata
+approach. The look on the protester's bruised face made Kaia wonder what she
+and Sata looked like. Sata, shirtless and missing a shoe, was supporting Kaia,
+whose hair was still standing on end from being electrocuted repeatedly. The
+GuardGorilla pulled up a pair of chairs for Kaia and Sata.
 
 Sata pretended to be puzzled by the gesture. "A brute with good manners? A
 brutish gentleman?" As soon as she helped Kaia sit down in the chair closest to

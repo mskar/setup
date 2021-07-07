@@ -140,13 +140,14 @@ the hell do you want?"
 
 "What's in it for you?"
 
-`Just like you, I'm not happy with the status quo.`
+`Just like you, I'm not happy with the status quo. I want to see things change
+for the better.`
 
 "Why the glasses? Why not talk to me in person?"
 
 `We don't know if we can trust each other yet.`
 
-"So how do you propose we build trust in each other?"
+"So how do you propose we build mutual trust?"
 
 `First, let me prove that I can be useful. I can provide information and
 neutralize threats, like the bully you encountered earlier today.`
@@ -173,6 +174,8 @@ message?"
 "What? Oh, the message was just a boring system-generated announcement sent by
 the college," Fera lied.
 
+`Good one,` Unoa said approvingly.
+
 "OK, do you want to see what I was working on?" Raf asked.
 
 Fera nodded without looking up for the console.
@@ -186,13 +189,12 @@ gourd and started scooping out the contents of the gourd onto the workstation.
 
 Raf proudly observed the robot work. Not wanting burst his bubble, Fera
 pretended to pay attention, but she could not imagine anything more boring that
-a birdhouse building robot. Her glasses provided some entertainment by
-displaying schematics and details related to the robot.
+a birdhouse building bot.
 
-`There's nothing even remotely interesting about this robot. Initiating display
-of epic fail videos.`
+Unoa clearly agreed. `There's nothing even remotely interesting about this
+robot. Initiating display of epic fail videos.`
 
-Fera tried to keep a straight face while the glasses displayed recordings of
+Fera tried to keep a straight face while her glasses displayed recordings of
 people falling down and/or getting hit by various objects. Luckily, Fera did
 not have to feign interest for long. Ben zipped into the maker shop on
 powerskates. Wearing a white lab coat over a vest, dress shirt, and tie, Ben
@@ -210,6 +212,10 @@ powerskates. Moreover, Edl looked like he could wrestle a GuardGorilla and
 win. He was wearing a BugBall jersey and shorts that seemed to be specially
 designed to fit his large frame.
 
+The glasses displayed information on Ben and Edl. `They may be useful for the
+revolution, but be careful. History has repeatedly shown that the ultra-wealthy
+are often counter-revolutionary,` Unoa warned.
+
 "This is Fera," Raf said. "She likes making things too!"
 
 "The gigaphone you built was impressive, considering the limited resources you
@@ -218,12 +224,10 @@ maker workshop!"
 
 "I can use all this stuff?" Fera asked.
 
-"Yes, of course! Let me show you around," Ben replied.
-
-"You can use any free workstation you like," Ben said sweeping a begloved hand
-across the workshop, then turning towards a console, "You can also reserve any
-workstation for any period of time," then holding up one finger on one hand,
-"but you can only reserve one workstation at a time."
+"Yes, of course!" Ben said sweeping a begloved hand across the workshop, "You
+can use any free workstation you like," then turning towards a console, "You
+can also reserve any workstation for any period of time," then holding up one
+finger on one hand, "But you can only reserve one workstation at a time."
 
 Fera glanced at the console screen. "The reservation schedule looks mostly
 empty. Actually, you and Raf are the only ones making reservations. Do people
@@ -255,10 +259,10 @@ the tools as long as you follow the workshop rules."
 "What are the rules?"
 
 Ben brought up an image on the wall that said,
-MACHINE WORKSHOP RULES
+'MACHINE WORKSHOP RULES'
 1. Do not intentionally kill, maim, or otherwise injury any sentient, living creature.
 
-"Is there just one rule?"
+"Is there only one rule?"
 
 "Yes, at least until we can agree on additional rules to add."
 
@@ -292,8 +296,8 @@ Fera noticed a container labeled Ben's Builder Bots.
 "Yes, though I prefer to call it metabuilding," Ben said pulling out the
 container to show Fera.
 
-Fera studied the contents of the container.
-"Can the builder bots build builder bots?" Fera asked.
+Fera studied the contents of the container. "Can the builder bots build builder
+bots?"
 
 Ben opened his mouth to answer, but then started to scribble furiously on his
 palm while muttering to himself. "Builder bot building builder bots...
