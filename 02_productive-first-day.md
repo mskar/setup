@@ -679,7 +679,7 @@ friend."
 
 "Why do you want to blow up the college, Fera?"
 
-"I'm going to stick it to the government!"
+"I want to stick it to the government!"
 
 "I don't like the government either, because it displaces Lunkers to make room
 for its mining operations, but I don't see how the blowing up the college will

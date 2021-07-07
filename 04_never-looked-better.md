@@ -28,7 +28,7 @@ any harm and perhaps may even by fond of me."
 
 "What the hell are you taking about?"
 
-"When we were on the motorcycle, were you concerned about my well being?
+"When we were on the motorcycle, were you concerned about my well being?"
 
 "Don't flatter yourself."
 
@@ -47,9 +47,9 @@ tender, love, and care your face until there's nothing left," Fera screamed
 swinging at arms and legs at Raf in a futile gesture of aggression.
 
 "Please Fera, you're upsetting the birds. I do not believe you anyway. You are
-using deception to hide your feelings, because you are afraid of getting hurt.
-Do not worry. I am fond of you as well, and I will do anything I can to protect
-you and make you happy."
+using deception to hide your feelings, because you are afraid of getting
+hurt. Don't worry. I am fond of you as well, and I will do anything I can to
+protect you and make you happy."
 
 "The only thing that will make me happy is stomping on your face."
 
@@ -73,11 +73,11 @@ the eagles. "After destroying the city, you may want to lay low for a while."
 
 The eagles set Fera, Raf, and the Provost down on top of a hill surrounded by
 red brick ruins near the edge of the forest. Raf pointed into the forest. "The
-entrance is hidden in the forest. We have to walk the rest of the way."
+entrance is hidden in the forest. We'll have to walk the rest of the way."
 
 "Wait, what is this place?" Fera asked.
 
-"This is Kosciuszko Mound in the Wolski Forest. The ancient city there was
+"This is Kościuszko Mound in the Wolski Forest. The ancient city there was
 called Kraków in Ancient Latin, Ancient Spanish, and Ancient Italian."
 
 "What should we do with him?" Fera asked gesturing towards the Provost, who
@@ -96,8 +96,8 @@ could."
 "Enjoy the view."
 
 Fera spotted an airship in the distance. Fera was unsure about whether she
-should tell Raf. She watched as it moved lazily across the sky. Why was it
-going so slow? Was it going in circles?
+should tell Raf. She watched as it moved lazily across the sky. _Why is it
+moving so slow? Is it going in circles?_ Fera wondered.
 
 "That airship will not be able to help us," Raf said calmly, his eyes
 still closed.
@@ -108,9 +108,9 @@ still closed.
 
 "Very funny."
 
-"Their engines stopped working. They've been circling for hours. They are going
-to crash. We could wait for them to crash and then explore the wreckage for
-survivors."
+"They're having engine troubles. They might be circling like that for hours,
+but they will crash eventually. We could wait for them to crash and then
+explore the wreckage for survivors."
 
 Fera thought about it. There might not be any survivors, but if there were,
 they might blame Fera for the crash. If Fera had not destroyed the city, they
@@ -136,14 +136,14 @@ Raf stared at Fera as she ran barefoot down the hill. She was a Valkyrie taking
 delight in serving justice.
 
 When they got to the bottom of the hill, Fera wished she could roll the
-Provost down again. The stags knelt down and Fera helped Raf put the
-Provost on the back of the nearest stag. Fera had never ridden an animal, not
-even a robotic one. The prospect of riding a real live stag was terrifying.
+Provost down again. The stags knelt down and Fera helped Raf put the Provost on
+the back of the nearest stag. Fera had never ridden an animal before, not even
+a robotic one. The prospect of riding a real live stag was terrifying.
 
 "Can the other stags kneel down for us too?"
 
-"Watch." Raf ran up to one of the stags, grabbed onto its antlers, and swung
-himself up onto its back.
+"Watch this." Raf ran up to one of the stags, grabbed onto its antlers, and
+swung himself up onto its back.
 
 Fera copied Raf, but did not pick up enough speed and slid down the side of her
 stag. The stag looked away from Fera as if embarrassed by her failure. Fera
@@ -186,14 +186,17 @@ me. Actually, it's quite the opposite. I want you to kick me, as long as it
 helps you. Whenever you need a face to kick, I will be happy to offer mine."
 
 Fera could tell that Raf was being absolutely serious. He looked sad and
-compassionate, but hopeful. Raf smiled at Fera. "Talking with you feels really
-nice. This moment is worth all of the kicks you gave me."
+compassionate, but hopeful.
 
-Fera looked away. She riding a stag through the woods next to a crazy person.
-She decided to change the subject. "How much farther?"
+Raf smiled at Fera. "Talking with you feels really nice. This moment is worth
+all of the kicks you gave me."
+
+Fera looked away. Trying not think about the fact that she was riding a stag
+through the woods next to a crazy person. She decided to change the
+subject. "How much farther?"
 
 "We are taking a detour to get help for the Provost. He is going to go into
-withdrawal, if he hasn't already."
+withdrawal."
 
 "Who are we getting help from? More of your animals?"
 
@@ -226,41 +229,36 @@ help!"
 
 "You mustn't tell anyone anything!" Raf said forcefully.
 
-A small elderly woman rappelled down from a tree. "We are Driads. We
-speak for the trees. You are trespassing in our forest."
+A woman rappelled down from a tree. Landing softly on the ground, she said, "We
+are Driads. We speak for the trees." The woman was tall, slender, and
+beautiful. Her long dark brown hair was slicked back with mud. She had branches
+protruding from her head like antlers. The branches were covered with leaves
+and flowers.
 
-"Greetings, I am Raf, and this is Fera. Our companion is sick from exposure to
-narcotics. He may die without your help."
+Raf bowed deeply. "Greetings, I am Raf, and this is Fera. Our companion is sick
+from exposure to narcotics. He may die without your help."
 
-"Greetings, Raf and Fera. I am Arba. How is it that you know this forest?"
+Arba also bowed but not as deeply. "Greetings, Raf. I am Arba. Your companions
+appear to be Plainswalkers. How can we be sure that they do not bear ill will
+towards the forest and its inhabitants?"
 
-"I do not know this forest, but these stags do."
+"One of my companions is a brave warrior who destroyed a nearby city," Rad
+answered.
 
-"How is it that you can command the stags? And the birds that brought you
-here?"
-
-"I am a mimic."
-
-"A mimic? We know of your kind. That means that these stags are mimics
-too and not real animals. It will be no great loss if we kill you and use
-you as fertilizer."
-
-"Please, one of my companions is a brave warrior who destroyed the nearby
-city of Katowice."
-
-"A warrior you say? We saw the smoke above Katowice from the treetops. Allow
-me to take a look at this warrior," Arba said walking up to the Provost.
+"A warrior you say? Allow me to take a look at this warrior," Arba said walking
+up to the Provost.
 
 "He does not appear to be much of a warrior," Arba said, disappointedly poking
 the Provost with her toe.
 
 "The warrior who destroyed the city is me," Fera huffed.
 
-"You?" Arba said, turning to face Fera. "A little girl? How did a child
-such as you destroy a whole city?"
+"You?" Arba asked, turning to face Fera. "A little girl? How did a child such
+as you destroy a whole city?"
 
-"It is true, she activated the self-destruct sequence of our school, knowing it
-would cause a chain reaction that would destroy the whole city."
+Raf chimed in to defend Fera. "It's true, she activated the self-destruct
+sequence of our school, knowing it would cause a chain reaction that would
+destroy the whole city."
 
 Fera had not known about the chain reaction, but she decided to pretend that
 she had known.
@@ -272,144 +270,43 @@ part of the revolution that will overthrow the government and usher in a new
 era of freedom and equality."
 
 "Your words do not sound hollow. If you promise to respect and protect the
-forest. We will aid you."
+forest, we will aid you."
 
-After Raf and Fera promised, other Driads rappelled down from trees.
-Still more, came out of hiding from behind other trees, bringing various items
-and placing them down on the ground in front of Fera and Raf. Fera looked over
-the items. There were leaves covered berries, nut, and insects, gourds filled
-with water, clothes made of animal skins, knives, bows, and quivers of arrows.
+After Raf and Fera promised, other Driads rappelled down from trees and came
+out of hiding from behind other trees, bringing various items and placing them
+down on the ground in front of Fera and Raf. Arba sat down next to offerings
+and invited Fera and Raf to sit with her. Fera sat down and looked over the
+items. There were leaves covered berries, nut, and insects, gourds filled with
+water, clothes made of animal skins, knives, bows, and quivers of arrows.
 
-"While we tend to your companion, you may eat and rest. We would be honored if
-the city destroyer and her mimic companion could wear our clothing and use our
-weapons on their quest to overthrow the government," Arba said as several
-Driads carried the Provost away on a wooden sled.
+"While we tend to your companion, you may eat and rest," Arba said as several
+Driads carried the Provost away on a sled made of branches.
 
-Fera eyed the food with suspension. Raf seemed to have no problem with the food
-and ate bugs, nuts, and berries heartily. Fera picked a knife and unsheathed
-it. She was disappointed to see that knives it was entirely made out of wood.
-When she tried the edge of the knife, she was surprised that it was quite
-sharp.
+Fera eyed the food with suspicion. The insects were still alive and were
+crawling atop the leaves. Raf seemed to have no problem with the food and ate
+bugs, nuts, and berries heartily. Fera picked up a knife and unsheathed it. She
+was disappointed to see that the knife was entirely made out of wood. When she
+tried the edge of the knife, she was surprised that it was quite sharp.
 
 "The knives and arrows are lignum vitae wood. They cannot break steel, but they
 can cut flesh," Arba explained.
 
-Fera put the shoes that the Driads brought her. The shoes, moccasins
-made out of animal skin, were very comfortable. She went behind a tree to
-change into the rest of the clothes. When she came back Raf had already
-changed.
+Fera put on the shoes that the Driads brought her. The shoes, moccasins made
+out of animal skin, were very comfortable.
 
-"Not the modest type I see. You might even be an exhibitionist. Do you get off
-on showing everyone your dangling parts?"
+"Why do your people live in the forest?" Fera asked.
 
-Raf was silent.
+Arba smiled. "It is the same reason why Lunkers live below ground and Subaks
+live beneath the waves. A long time, the heavens sent fire from the sky to
+teach people that they should not live out in the open. Our ancestors escaped
+the fire by hiding in the forest."
 
-"You're probably excited that you can finally undress in front of someone other
-than your sister."
+"The happened because there was a war. It's safe to be out in the open now,"
+Fera said.
 
-"Why do mimic men like to undress in front of others?" Arba asked,
-sitting down in front of Fera and Raf.
-
-Raf blushed and Fera laughed. "It may not be all mimic men, but this one
-certainly does."
-
-Arba furrowed her brow in thought. "We only know of mimics from our
-legends."
-
-"What do your legends say, Arba?" Fera asked, sitting down as Arba had done.
-
-"That mimics can look and act just like humans, but some mimics look and act
-like animals, and that mimics can communicate with each other without
-speaking."
-
-Fera raised her eyebrows at Raf. "That's how you controlled the birds and
-stags, with telepathy?"
-
-Raf nodded.
-
-Fera turned back to Arba. "Other than the animal mind control,
-what else makes mimics different?"
-
-"Mimics grow until maturity and then age no more. They can live and bear offspring
-forever, but mimics reproduce differently from us. For example, we know that a
-mimic man cannot get a human woman pregnant, but can himself become pregnant,
-even without intercourse."
-
-Fera's eyes lit up at the prospect of new ways to tease Raf. "So the downside
-is that you are shooting blanks, but the upside is that you are capable of
-immaculate conception?"
-
-Raf nodded again. Fera was eager to learn more. "What about mimic women?"
-
-"Mimic women can be pregnant without intercourse as well," Arba explained.
-
-"And that's it?" Fera asked, a bit disappointed.
-
-"Mimic women are harder to identify than mimic men," Arba explained.
-
-"Are there no other ways to tell who is a mimic?" Fera asked.
-
-"If a mimic is starved, they can survive by becoming like plants," Arba said.
-
-Fera looked at Raf in amazement. "You weren't kidding when you said you could
-photosynthesize!"
-
-"Yes, but you mustn't tell anyone anything! I believe the Driad mean us
-no harm, but other topsiders might want to capture and study mimics."
-
-"Where do mimics come from?" Fera asked.
-
-"The stars," Arba said.
-
-"You're an alien?" Fera asked.
-
-Raf nodded.
-
-"Are you here to invade Earth?" Fera asked.
-
-"I don't know. We came to Earth as messages from distant worlds. Humans decoded
-the messages and built the first mimics according to the encoded instructions.
-Since then we have been learning to peacefully co-exist with humans."
-
-"Why do your people live in the forest?"
-
-"It is the same reason why Lunkers hid below the ground and Subaks hid beneath
-the waves. A long time, there was a great war fought with terrible weapons.
-Light beams would come down from the sky to burn those who walked in the open.
-Our Ancestors survived by hiding in the forest."
-
-"It's safe to be out in the open now."
-
-"We know. We believe that the light beams were sent from the heavens to show us
-that living among the trees is the best way for our people."
-
-"How is that we speak the same language and you seem to know everything about
-us?"
-
-"The young of our people go through a rite of passage by living in a city. By
-going through the rite, our young can learn about city life and why living
-among the trees is better. I went through the rite many years ago. I am glad
-that you destroyed the city."
-
-"But what about the rite of passage? Can your young go to Kraków instead of
-Katowice?"
-
-Arba shook her head. "Anyone who enters Kraków does not return."
-
-"The World Heritage Site robots kill anyone inside the city," Raf explained.
-
-"Is there another city nearby?
-
-"None like Katowice. On the other side of Kraków, there is a city of yurts.
-The airships from Katowice are heading there."
-
-"Do you want to go there instead of the Lunker city?" Raf asked. Fera shrugged.
-She was not sure if she was a fugitive. It might be smarter to go to the
-Lunker city until she found out for sure.
-
-"Your companion is very sick. It may be many
-days before he is well enough to travel. In the meantime, we can teach you out
-ways," Arba offered.
+"We know, but we believe that living among the trees is best. I would like to
+teach you our ways, so you can see for yourselves how much better life in the
+forest can be."
 
 "I would like to learn to hunt," Fera admitted.
 
@@ -417,7 +314,7 @@ ways," Arba offered.
 
 "If you don't hunt, where do you get the animal skins for your clothes?"
 
-"We look for dead animals in the forest and skin them."
+"From animals that die in the forest."
 
 Fera looked her clothes and was tempted to smell them. "Do you ever hunt
 animals? For meat?"
@@ -427,29 +324,105 @@ animals? For meat?"
 "Do you fish?"
 
 "How is hunting fish different from hunting other animals? Do you not like our
-food? Your stags seem to be enjoying it."
+food? Raf seems to be enjoying it."
 
-Fera looked at the food in front of her. Some of the bugs were crawling off of
-the leaves and onto the grass. She quickly ate some nuts and berries, carefully
-avoiding the bugs and crunching loudly while complimenting how delicious the
-food tasted.
+Fera looked at the food in front of her. Some of the bugs had crawled off of
+the leaves and onto the ground. Fera quickly ate some nuts and berries,
+carefully avoiding the bugs and crunching loudly while complimenting how
+delicious the food tasted.
 
-"Well, we do not want to delay our quest to overthrow the government, so
-perhaps we can leave our sick companion with you until he gets better."
+Faced with the prospect of eating only nuts and berries, Fera decided to make
+plans to quickly continue their journey. "Well, we do not want to delay our
+quest to overthrow the government. Can we leave our sick companion with you
+until he gets better?"
 
-"Yes, of course, you may leave him, but you should not travel at night. Stay
-one night. You may leave at first light."
+"Yes, of course, you may leave him, but it will be dark soon and you should not
+travel after the sun sets. Stay the night. You may leave at first light."
 
 Fera nodded. Riding a stag through a dark forest did not seem like a great
-idea. The Driads laid down pieces of moss-covered bark onto the ground.
-Arba got up and gestured towards the bark. "You may sleep here. We will return
-at sunrise to bid you farewell on your quest. Good night."
+idea. The Driads laid down pieces of moss-covered bark onto the ground. Arba
+got up and gestured towards the bark. "You may sleep here."
 
 Fera walked up to the spot Arba had indicated. "What do you think, Raf? Will it
-be as comfortable as your secret bed?"
+be as comfortable as your secret bed?" Fera rolled on the bed. "It's not that
+bad. The bark is firm but the moss makes it kinda soft."
 
-Raf sat down on the bark bed opposite Fera. Fera pulled out a wooden knife.
-"Just don't try anything, I'm not your sister."
+"Before you sleep, I would like to give you a gift." Arba handed Raf a string
+necklace with a wooden pendant in the shape of a woman. "If you wear this, Umai
+will grant good health to your child."
+
+Raf blushed and put the pendant on.
+
+Fera sat up looking very confused. "What child?"
+
+Arba seemed equally confused by Fera's question. "The child you will have with
+Raf."
+
+Fera chuckled nervously. "No, we are not together like that."
+
+"Raf has imprinted on you, so unless you are separated or you reject him, it is
+only a question of time," Arba said, and then turning to Raf, she asked "Have
+you not explain to her how our kind reproduces?"
+
+Raf burned red with embarrassment.
+
+"What is she talking about, Raf?" Fera asked. "What does it mean that you
+imprinted on me?"
+
+Arba looked disapprovingly at Raf. "It is wrong to imprint on a human without
+explaining what that means."
+
+"I didn't mean to!" Raf exploded. "It all happened so fast. A lot of crazy
+things happened today!"
+
+Arba was shocked. "Do you mean to say that imprinted on her in one day?"
+
+"Tell me what you mean by imprinting right now!" Fera demanded.
+
+"Imprinting is a deep connection between a Human and a Mimic that allows the
+Mimic to later become pregnant and bear children for the Human," Raf explained.
+
+"What the hell are you talking about?" Fera asked. "What is a Mimic?"
+
+"You have not told her about our people and you hope to bear her children!"
+Arba exclaimed in horror.
+
+"Wait, I'm so confused," Fera said. She suddenly felt very tired, but tried to
+make sense of what Arba and Raf were saying. "Arba, you're a Driad. Raf, you're
+a Lunker. Are you also Mimics?"
+
+"Yes, Arba and I are Mimics." Raf said. "Mimics look like Humans but we can
+photosynthesize, reproduce without intercourse, and live indefinitely without
+growing old."
+
+"Sounds nice," Fera admitted. "Are the branches growing out of your head a
+Mimic thing, Arba?"
+
+"Yes. Raf can grow them too, but he is suppressing any traits that are unique
+to Mimics, so he can blend in better with Humans. Mimics are accepted among the
+Driads, but not among Lunkers or Plainswalkers."
+
+"And Mimics can also control animals?"
+
+"We do not control animals, we communicate with them," Raf corrected. "And it
+only works for Mimic animals."
+
+"So Mimics can be Driads, Lunkers, and animals?" Fera asked.
+
+"Yes, Mimics can be born in the form of any living creature."
+
+"So, how does this Mimic reproduction work?"
+
+...
+
+"I protected you from the birds. You held my hand when we were leaving the
+school. I felt you touching my hair on the motorcycle."
+
+"We will return at sunrise to bid you farewell on your quest. Good night."
+
+Raf sat down on the bark bed opposite Fera. Fera pulled out a wooden
+knife. "Just don't try anything, I'm not your sister."
+
 Raf curled up into ball facing away from Fera. Fera tried to smooth things over.
 "At least I don't have to worry about you getting me pregnant, right?"
 
@@ -1069,3 +1042,84 @@ making me feel ancient."
 
 "That's it. Let's go with Queen Ossa."
 
+
+She went behind a tree to change into the rest of the clothes. When she came
+back Raf had already changed.
+
+"Not the modest type I see. You might even be an exhibitionist. Do you get off
+on showing everyone your dangling parts?"
+
+Raf was silent, so Fera kept taunting him.
+
+"You're probably excited that you can finally undress in front of someone other
+than your sister."
+
+"Tell me about your sister, Raf," Arba prompted and sat down.
+
+Before Raf could respond, Fera said, "I want to know if your sister can control
+animals with her mind too."
+
+
+"That mimics can look and act just like humans, but some mimics look and act
+like animals, and that mimics can communicate with each other without
+speaking."
+
+Fera raised her eyebrows at Raf. "That's how you controlled the birds and
+stags, with telepathy?"
+
+Raf nodded.
+
+Fera turned back to Arba. "Other than the animal mind control,
+what else makes mimics different?"
+
+"Mimics grow until maturity and then age no more. They can live and bear offspring
+forever, but mimics reproduce differently from us. For example, we know that a
+mimic man cannot get a human woman pregnant, but can himself become pregnant,
+even without intercourse."
+
+Fera's eyes lit up at the prospect of new ways to tease Raf. "So the downside
+is that you are shooting blanks, but the upside is that you are capable of
+immaculate conception?"
+
+Raf nodded again. Fera was eager to learn more. "What about mimic women?"
+
+"Mimic women can be pregnant without intercourse as well," Arba explained.
+
+"And that's it?" Fera asked, a bit disappointed.
+
+"Mimic women are harder to identify than mimic men," Arba explained.
+
+"Are there no other ways to tell who is a mimic?" Fera asked.
+
+"If a mimic is starved, they can survive by becoming like plants," Arba said.
+
+Fera looked at Raf in amazement. "You weren't kidding when you said you could
+photosynthesize!"
+
+"Yes, but you mustn't tell anyone anything! I believe the Driad mean us
+no harm, but other topsiders might want to capture and study mimics."
+
+"Where do mimics come from?" Fera asked.
+
+"The stars," Arba said.
+
+"You're an alien?" Fera asked.
+
+Raf nodded.
+
+"Are you here to invade Earth?" Fera asked.
+
+"I don't know. We came to Earth as messages from distant worlds. Humans decoded
+the messages and built the first mimics according to the encoded instructions.
+Since then we have been learning to peacefully co-exist with humans."
+
+
+We would be honored if the city destroyer could wear our clothing and use our
+weapons on her quest to overthrow the government,
+
+
+The young of our people go through a rite of passage by living for a year
+outside of the forest. The purpose of the rite is to reinforce the lesson
+taught by the ancient sky fire. I went through the rite many years ago. Now I
+teach our young how to interact with Plainswalkers without being corrupted by
+them. 
