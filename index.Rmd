@@ -1,0 +1,8 @@
+---
+title: "Soulswept"
+author: "M. W. Skar"
+date: "`r Sys.Date()`"
+site: "bookdown::bookdown_site"
+output:
+  bookdown::gitbook: default
+---

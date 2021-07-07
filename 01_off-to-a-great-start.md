@@ -1,4 +1,4 @@
-## Chapter 1: Off to a great start
+# Off to a great start
 
 Kaia would have given anything to be normal. Filled with dread and paralyzed by
 anxiety, she wished she could be carefree like the other students in the
