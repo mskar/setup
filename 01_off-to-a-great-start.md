@@ -4,7 +4,7 @@ Kaia would have given anything to be normal. Filled with dread and paralyzed by
 anxiety, she wished she could be carefree like the other students in the
 cacophonous gymnasium. The polyethylene bleachers were packed with the entire
 college freshman class. All around the bleachers, robotic animals buzzed,
-growled, and roared, while observing the students. There was no way out.
+growled, and roared, while observing the students.
 
 Kaia leaned in to her best friend Sata and whispered in her ear. "Let's run."
 
@@ -97,11 +97,8 @@ nerves.
 A student with blue-green hair jumped on top of her seat on the bleachers and
 began to shout into a hand-held gigaphone. The sound was deafeningly loud.
 
-"Corporeal punishment is barbaric and ineffective!"
-
-"TaserTutors are torture!"
-
-"Reform the education system!"
+"Corporeal punishment is barbaric and ineffective! TaserTutors are torture!
+Reform the education system!"
 
 A ChaseChimpanzee jumped down from the rafters and tackled the student,
 knocking the gigaphone out of her hand. The protester was up in an instant, and
@@ -165,15 +162,16 @@ with friends who did not hear and see things that were not there? How could
 Kaia possibly compete with friends that were normal?
 
 _That's mean,_ Kaia thought, criticizing her own internal monologue. _I know
-you get to choose what to narrate, so I would appreciate it if you could skip
-the super insecure thoughts._
+you get to choose what to narrate, so I'd appreciate it if you could skip the
+super insecure thoughts._
 
 `No way, Kaia, your insecurities are central to your story.`
 
 _When I was a little kid, you used to talk to me and help me all the time. Why
 are you such a jerk now?_ Kaia asked, assuming incorrectly that the narrator in
-her head was Ryt, the imaginary friend Kaia remembered from her childhood. _If
-you're not Ryt, then who are you?_ Kaia demanded futilely. _If you don't at
+her head was Ryt, the imaginary friend Kaia remembered from her childhood.
+
+_If you're not Ryt, then who are you?_ Kaia demanded futilely. _If you don't at
 least tell me your name, I'm going to spend the rest of my life in quiet
 meditation and you won't have anything to narrate._
 
@@ -704,20 +702,27 @@ Fera remained adamant. "I don't want friends, I want to smash the system!"
 Fera crossed her arms. "I don't care. I stand by what I did."
 
 While Sata kept trying to convince Fera, Kaia closed her eyes and fell back
-into her chair feeling defeated. `Kaia, ask the Provost for advice.` _Why are you
-suddenly trying to help to me?_ `I tried to help you during the ceremony and I
-haven't been terminated yet, so I think it should be safe as long as I destroy
-all of the evidence afterwards.` _Ok, but why should I ask the Provost for advice?
-He doesn't seem to be on our side. I don't think he is going to give us good
-advice._ `His advice might convince Fera to do the opposite of what he
-suggests.` _Why do you want to help Fera?_ `If Fera goes to prison, you are
-likely to feel terrible for a long time, and your prolonged depression would be
-super boring to narrate.`
+into her chair feeling defeated.
 
-"Kaia, are you OK?" Sata asked, looking very concerned.
+`Kaia, ask the Provost for advice.`
 
-"Yes, I was just resting my eyes," Kaia said before using her sweetest and most
-innocent voice to ask, "Provost Naiksos, what do you think we should do?"
+_Why are you suddenly trying to help to me?_
+
+`I tried to help you during the ceremony and I haven't been terminated yet, so
+I think it should be safe as long as I destroy all of the evidence afterwards.`
+
+_Ok, but why should I ask the Provost for advice? He doesn't seem to be on our
+side. I don't think he is going to give us good advice._
+
+`His advice might convince Fera to do the opposite of what he suggests.`
+
+_Why do you want to help Fera?_
+
+`If Fera goes to prison, you are likely to feel terrible for a long time, and
+your prolonged depression would be super boring to narrate.`
+
+"Provost Naiksos, what do you think we should do?" Kaia asked in a sweet and
+innocent voice.
 
 The Provost had zoned out and was tapping listlessly on his desk console. He
 looked up from the console and seemed to be very confused. Kaia elaborated,
@@ -1161,7 +1166,7 @@ much that she began to cry. Through the tears, Sata looked at Arla with
 gratitude.
 
 "Don't cry," Arla said, unfastening and removing Sata's heels and then pulling
-up the blankets to cover Kaia and Sata, "You're safe here and I'll stay and
+up the blankets to cover Kaia and Sata, "You're safe here, and I'll stay and
 watch over you."
 
 Unable to recall anyone other than Kaia being kind to her, Sata let out a sob.

@@ -86,26 +86,26 @@ could unlock it. The whole thing looked like a trap.
 
 Fera unlocked the console and immediately deleted the message. A new message
 appeared. Unlike the first message, the second message had a subject. The
-subject read "12 tips for a successful revolution that actually work." Fera
+subject read '12 tips for a successful revolution that actually work.' Fera
 deleted the new message.
 
-Soon enough, there was a third message. This time, the subject was "The last
-guide to overthrowing the government you'll ever need!" Fera was about to
+Soon enough, there was a third message. This time, the subject was 'The last
+guide to overthrowing the government you'll ever need!' Fera was about to
 delete the third message when she received yet another message. The fourth
-message's subject read "You won't believe what's in the printer to your left!"
+message's subject read 'You won't believe what's in the printer to your left!'
 
 Fera deleted both messages, but then looked over at the printer. She carefully
 opened the printer compartment. There was a pair of eyeglasses
 inside. Overwhelmed by curiosity, Fera inspected the glasses. Along the inside
 of the frames, near the hinges, there were tiny openings for lasers which
 displayed information that was only visible on the inside of the glasses. Some
-text appeared that almost made Fera drop the glasses. The text read, "Hello
-Fera."
+text appeared that almost made Fera drop the glasses. The text read, 'Hello
+Fera.'
 
 Fera looked around. The workshop was empty except for Raf and he was busy
 tinkering.
 
-The words, "Liberty, Equality, Sorority" appeared on the glasses. Someone was
+The words, 'Liberty, Equality, Sorority' appeared on the glasses. Someone was
 clearly trying to appeal to her revolutionary sentiments.
 
 Fera picked up the glasses and brought them over to the workstation where Raf
@@ -120,7 +120,7 @@ open the temples.
 a microphone, and a bone conduction sound system. Not finding anything
 nefarious, Fera put the glasses back together and put them on.
 
-Fera heard a soft, feminine voice say, `Hello Fera.`
+Fera heard a soft, feminine voice say, `Hello Fera. My name is Unoa.`
 
 Looking around, Fera confirmed that she and Raf were the only people in the
 workshop.
@@ -133,10 +133,9 @@ asked. "While you do that, I will finish up with the message."
 
 Raf seemed puzzled, but left the workshop without asking any further questions.
 
-Fera waited until Raf was gone before asking, "Who the hell are you and what
-the hell do you want?"
+Fera waited until Raf was gone before asking, "What the hell do you want?"
 
-`My name is Unoa. I want to help you overthrow the government.`
+`I want to help you overthrow the government.`
 
 "What's in it for you?"
 
@@ -213,8 +212,8 @@ win. He was wearing a BugBall jersey and shorts that seemed to be specially
 designed to fit his large frame.
 
 The glasses displayed information on Ben and Edl. `They may be useful for the
-revolution, but be careful. History has repeatedly shown that the ultra-wealthy
-are often counter-revolutionary,` Unoa warned.
+revolution, but be careful. History has repeatedly shown that wealthy people
+typically prefer to preserve the status quo,` Unoa warned.
 
 "This is Fera," Raf said. "She likes making things too!"
 
