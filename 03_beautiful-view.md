@@ -1,4 +1,4 @@
-## Chapter 3: Beautiful view
+# Beautiful view
 
 The sound of the fire alarm was brutal. Kaia and Sata woke up in total
 darkness, not remembering where they were or why. As her eyes adjusted to
