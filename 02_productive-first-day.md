@@ -972,13 +972,11 @@ be frank, the MIG always felt incomplete when it was just you, me, and Raf."
 
 "I am glad that Fera can be still in our group," Edl said beaming.
 
-"Me too." Ben said, patting Edl's massive shoulder.
-
-"To be honest, we'll be lucky to have her. On her first day in college,
-Fera built a gigaphone from stolen parts, became MIG Vice President, mastered
-droneDarting, defeated us in combat, and doomed the entire city. I've never
-heard of anyone having such a productive first day. The way she used the
-powergloves and powersk-"
+"Me too." Ben said, patting Edl's massive shoulder. "To be honest, we'll be
+lucky to have her. On her first day in college, Fera built a gigaphone from
+stolen parts, became MIG Vice President, mastered droneDarting, defeated us in
+combat, and doomed the entire city. I've never heard of anyone having such a
+productive first day. The way she used the powergloves and powersk-"
 
 Ben snapped his fingers as he got an idea. "We can track Fera using the
 powergloves and powerskates."
