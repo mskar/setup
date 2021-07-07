@@ -1,1022 +1,938 @@
-## Chapter 6: Get well soon
+# Sore loser
 
-As Kaia regained consciousness, she saw a familiar face. Wearing a long white
-coat with a stethoscope around her neck, Fera smiled at Kaia. Kaia opened her
-mouth to say something, but was only able to produce a pitiful groan. Fera
-turned around and walked away. Kaia got up to look around for Fera, but could
-not see anything except medical equipment and the curtain surrounding her bed.
+The sun shining though the skylight above, woke Kaia the next morning.
 
-When Kaia woke up again, she felt much better. Kaia quickly got bored of
-watching the flickering lights of the medical equipment and decided to explore
-her surroundings. Despite the bruises that covered her body, Kaia was
-pleasantly surprised to find that she could get up without much pain. Kaia
-jumped to her feet when she heard Sata calling her name.
+"Did you sleep well, Kaia?"
 
-"I'm here!" Kaia moved towards the curtain, but stopped when her intravenous
-line became taut and yanked on her hand. Rolling her intravenous infusion pump
-pole behind her, Sata emerged from behind the curtain. Like Kaia, Sata was
-wearing a patient gown covered in multicolor polka dots. In an attempt to move
-towards Sata, Kaia grabbed the intravenous line and pulled on it. Sata closed
-the distance and the two girls embraced tenderly.
+"Oh, Iona. You're already awake?"
 
-"I'm so glad you're OK," Kaia said. Sata nodded in agreement. "Me too, but
-isn't it weird?
+"I'm kind of a light sleeper."
 
-"That you're OK?"
+"Me too," Kaia said thinking of how often she woke up after having
+strange dreams. Kaia got up and saw that Sata and Ursa were still sleeping.
 
-"Yeah, I couldn't even lift my head earlier and now I'm walking around with no
-problem."
+"Iona, let's go to somewhere else, so we don't wake them."
 
-"Maybe we were unconscious for a long time?"
+Iona nodded and walked with Kaia to the living room of the yurt.
 
-"Let's go check. I saw a console on my way here."
+"Iona, thank you for staying with me last night. I also never thanked you for
+saving me on the airship."
 
-The girls made their way to the console and activated the display. "It's only
-been a few hours?!" Sata exclaimed.
+"There's no need to thank me, Kaia. In fact, I should be the one thanking you.
+Yesterday, you gave me hope."
 
-"It could be broken," Kaia suggested.
+"Iona, I don't understand. The only noteworthy things I did yesterday were to
+fail the initiation rite and nosedive into the observation deck floor."
 
-"It's not broken. You've really only been here just a few hours." Kaia and Sata
-turned around and saw Dun's head poking out from behind a nearby curtain.
+"Kaia, there's something I need to tell you, but you should sit down first."
 
-"What are you doing here?" Sata asked suspiciously.
+Kaia sat down on the chair, but felt like she was sitting on pins and needles
+while she waited for Iona to speak again.
 
-Dun stepped out from behind the curtain to show that his arms were encased in
-casts. "Someone sneaked up behind me, knocked me down, broke my arms, and then
-disappeared."
+Iona sat next to Kaia and spoke slowly. "Kaia, I am a Thelusian."
 
-"Good," Sata said, "You deserve it."
+Kaia took some time to process what Iona had said. In Kaia's visions, the
+Thelusians were her enemies during the war and her allies after the war was
+over. _Nara, did you know about this?_ `No, I had no idea. I was under the
+impression that there were never any Thelusians on Earth.`
 
-"You're right, I'm sorry for what I did." Dun said lowering his head. "I know
-it was wrong, and I regret it."
+"But Thelusians are machines and you're a human," Kaia said.
 
-Sata crossed her arms. "The only reason you feel bad is because you got your
-arms broken."
+"I look human, and I was human once, but I chose to become a machine, so that I
+could help you achieve your destiny."
 
-Dun shook his head. "I felt bad about it even before my arms were broken. I'm
-not trying to come up with excuses for what I did, but ever since I arrived at
-the camp I've been on my own. My dad never showed up. I am pretty sure he died
-in the explosion. I didn't have any money. My friends and I slept on the grass
-last night. Some older kids stole our rations."
+"My destiny?!"
 
-Sata quickly lost patience. "If you're trying to make us feel sorry for you,
-it's not going to work."
+"Yes, I believe that you are destined to bring about the rebirth of Mars and
+Thelus."
 
-Dun got to the point. "Wait, there's something else. Someone paid me to beat
-you up."
+Kaia was stunned. "In my visions, I see the war, Thelus crashing into Mars, and
+afterwards..." The dust began shift on the floor of the room.
 
-"What?! Who was it?"
+Iona held Kaia's hand and touched her face, trying to maintain Kaia's grasp on
+reality. "Kaia, take it easy. Just focus on me and my voice. I will explain
+everything." The dust faded away and Kaia returned to the present moment. Iona
+began to explain.
 
-Dun shook his head. "I don't know. There was an anonymous message with
-instructions. All of my friends got the same message. I can show it to you if
-you want."
+"Since the collapse of the Martian and Thelusian civilizations, I have been
+searching for people who can experience both the past and the present,
+sometimes shifting between the two and at other times essentially living in two
+realities simultaneously."
 
-Dun brought the message up on the console. While reading it, Kaia said,
-"Whoever sent this knew that we would be wearing Rainbow BugBall uniforms and
-running away from All Grays fans."
+"That sounds like me."
 
-"Do you think Dar sent this?" Sata asked.
+"Yes, we call people like you Echos. Your connection to the past manifests
+itself as visions and dreams."
 
-"I'm not sure. The message was sent yesterday, before we even met Dar." Kaia
-observed.
+_Is that why I can hear you, Nara? Because I'm an Echo?_ `I have never heard of
+Echos. As far as I know, you are the only person who can hear narrators, but it
+is possible that there are others.`
 
-"That's so creepy. Yesterday we were at the artificial lake. How could anyone
-know where we would be the next day?" Sata said.
+"How do I make the visions and dreams stop?"
 
-Kaia thought about possible answers. "Ben could have guessed that we would be
-going from the field to the Maker yurt after BugBall practice, because he
-invited us to both places."
+"The only way to stop the visions is to fulfill your destiny by restoring Mars
+and Thelus to their former glory."
 
-Sata scrunched up her face in disbelief. "Why would Ben pay people to beat us
-up?"
+"And how do I do that?"
 
-Kaia shrugged. "I don't know."
+"For now, you should continue living your life as you would normally, but in
+secret you should begin training, so you will ready when the time arrives."
 
-Dun had an idea. "Maybe it has something to do with your superpowers?"
+"Are you going to train me?"
 
-Kaia recoiled in surprise. "What superpowers?"
+"Only another Echo can train you."
 
-Dun raised his hands. "Don't worry, I won't tell anyone."
+"Where are we going to find another nutcase like me?"
 
-Sata shook her head. "We don't have superpowers."
+"We won't have to look far. Zek will train you."
 
-Dun tapped his temple. "I'm not dumb. You obviously have super
-healing. Yesterday, you made a bird fly into my head two separate times. Today,
-you attacked me with your psychic powers. At first, I couldn't see anything and
-felt like I was doing flips in space. Then, when I could see again, I was so
-scared that I ran and hid, and-" Dun suddenly took a step back, his face frozen
-in horror. "You did it! You broke my arms!"
+"Zek? He has visions like mine? He seems normal."
 
-Sata got angry. "There's no way. We were unconscious."
+"Zek's visions are not nearly as strong as the ones you experience. Zek will
+only be able to take you to a certain point, but you should be able figure
+things out on your own after you get started. Do you think you might be able to
+begin training today?"
 
-Dun pointed at the girls. "You did it with your minds."
+"Do I really need to train? Maybe Zek can handle the whole destiny thing? If
+not Zek, then maybe another Echo?"
 
-"Doesn't it make more sense that your arms were broken by the person who sent
-you the message?" Kaia asked.
+"If Zek could restore Mars and Thelus, he would have already done so. You are
+the only one who can."
 
-Dun thought about it. "Maybe they were trying to keep me quiet."
+"What if I can't do it?"
 
-"We need to look for clues about who it was," Sata suggested.
+"Your visions will continue to intensify throughout your life and you will
+progressively lose your ability to experience the present."
 
-"We can't," Dun said, "They won't let us leave this yurt."
+"That sounds really bad."
 
-"Why not?" Sata asked.
+"Yes, but don't worry. If you train with Zek, you can learn to control your
+visions to a degree."
 
-"They think we were at the center of some kind of experimental weapon strike,"
-Dun explained. "I tried to tell them that it was your superpowers, but they
-wouldn't listen to me."
+"OK, I guess I'll do the training."
 
-Sata pointed at Dun. "You said you wouldn't tell anyone."
+"That's great. Right now, only Ursa, Zek, Zok, and I know that you're an Echo.
+You should keep all of this a secret for now, even from Sata."
 
-Dun smiled triumphantly. "And you said you didn't have superpowers."
+"I don't think Sata would believe any of this. I am not sure I do
+either. Speaking of Sata, maybe we should check on her and Ursa?"
 
-Sata clearly exhausted all of patience she had allotted for Dun. "Come on Kaia,
-we're leaving."
+Kaia and Iona walked into Edl's room and saw that Ursa and Sata were already
+awake. Ursa was sitting on the gym bench doing bicep curls while Sata braided
+her hair. When she saw Iona and Kaia, Ursa dropped the weights and ran over to
+them with Sata following close behind. After Sata quizzed them about their
+whereabouts, Ursa pointed to the console and said, "There's a message for
+us. We were waiting so we could all watch it together."
 
-As Kaia and Sata were looking for the exit, Ben and Edl rushed up to them.
+A video of Ben began to play on the walls of the room. "Good morning, I trust
+that you slept well and are ready for your first day in your new home. My
+brother came to me in tears last night and told me about what had happened.
+From what I could piece together, Edl said something to greatly offend Ursa. I
+can assure you that Edl had no intention to offend anyone. I am deeply sorry
+for whatever it was that my brother said. I take full responsibility. I should
+have accompanied you last night to make sure there were no misunderstandings.
+You see, my brother has difficulties understanding social cues. Interactions
+that seem ordinary to us can leave Edl absolutely befuddled. While this
+explanation cannot excuse our error or repair the damage it caused, I hope this
+message will be the first step towards making amends. My brother and I would
+like to apologize to you all, and to Ursa in particular, at your nearest
+convenience. You may find us at Juvenia Stadium each morning, in the Maker yurt
+each afternoon, or at Fera's remembrance ceremony this evening. Please feel
+free to stay in the Edl's yurt for as long as you like. If you are hungry,
+please help yourselves to anything you like in the kitchen. I will be looking
+forward to our next meeting. Sincerely, Benderrod Pembrok"
 
- Ben looked at Kaia and Sata closely and said, "We came to wish you 'Get Well
- Soon', but it seems we are too late. You arrived here a few hours ago in
- critical condition. I am astounded that you recovered so quickly."
+After the video finished playing, Ursa turned to others with her eyes ablaze
+and said, "When we get to Juvenia Stadium, I'm going to kick a BugBall straight
+at Edl's head."
 
-"We're surprised too," Kaia admitted.
+"Ursa, he didn't mean to offend you," Iona said sharply.
 
-Sata immediately took on the role of detective. "When you picked us from the
-artificial lake yesterday did you know we would be walking from Juvenia Stadium
-to the Maker yurt this afternoon?"
+"I know, but it will still make me feel better."
 
-Ben seemed confused by the question. "I suppose I could have foreseen it. Edl
-and I had the same point of origin and destination earlier today."
+"Let's get breakfast first," Sata said.
 
-Sata continued her line of questioning. "Who else could have foreseen it
-yesterday?"
+The first thing Kaia noticed about the kitchen was a crystal bowl filled with
+fruit in the center of the table. The bowl was attached to the table but there
+was nothing stopping the fruit from flying everywhere in the event of extreme
+turbulence. Kaia walked up to the bowel and picked up a large spiky fruit.
 
-Ben started to understand the logic behind the questions. "I do not know how
-anyone else could have. It seems that you believe that someone planned to
-attack you this afternoon and that I am the prime suspect."
+"Is this real?" Kaia asked. She had never encountered fruit without plastic
+packaging before.
 
-"We know someone planned the attack." Sata said pointing at the console they
-had used earlier. Ben zipped up to the console on his powerskates and began to
-read the message that Dun had received.
+Iona nodded. "Yes, all of the fruit in that bowl is real."
 
-Kaia, Sata, and Edl walked up behind Ben. Sata looked over Ben's shoulder and
-asked, "You can access other people's messages?"
+Perplexed, Kaia asked, "Do rich people just leave real fruit lying around?"
 
-Ben was tapping furiously at the console, but managed to reply. "Yes, I pulled
-up the most recent message. It appears the recipient, Dunkobraz Naiksos, agreed
-to lead the attack against you in exchange for a tidy sum. He received the full
-amount after you were attacked. Why would he show you this self-incriminating
-evidence?"
+Sata jumped in before any could answer. "Do they also have bowls of assorted
+precious stones and metals?"
 
-"He felt bad," Kaia explained.
+Kaia turned the fruit around in her hands looking for an opening. "How do eat
+this? Cut it? Bite it?"
 
-"He's scared, because someone broke arms," Sata corrected.
+"That one is a durian, so you would cut it, but you might want to pick a
+different fruit, because durians are a bit smelly." Ursa said, taking
+the spiky fruit from Kaia and putting it back into the bowl.
 
-"I assume he is somewhere nearby," Ben said. Edl went behind the curtain that
-Sata had indicated and returned holding Dun by the back of his patient gown.
+Kaia picked a long, curved yellow fruit and looked at Ursa.
 
-"Excellent! The EternalEnlightened have already passed judgment. Dun will
-provide financial compensation to the injured parties, have all of the bones in
-his body broken without anesthesia, and be sent to prison as soon as he is
-cleared for launch. I already transferred all of Dun's funds to your accounts
-as partial payment of the injury compensation. I recommend doling out the
-subsequent subsequent punishment immediately," Ben said and nodded to Edl.
+"That's a banana. You need to peel it," Ursa explained.
 
-Edl grabbed Dun by the arm, threw him on the floor, and started snapping each
-of the fingers sticking our from the cast. Dun howled in pain, but could not
-break free of Edl's grip.
+Kaia looked back and forth between Ursa and the fruit. "How do I peel it?"
 
-"Stop, don't hurt him!" Kaia yelled. Ben raised his hand and Edl froze in
-mid-snap.
+Iona stepped up and provided a scientific explanation. "You can either pinch it
+open from the bottom or open it from the top. The majority of emojis show the
+banana open from the top. Here, allow me."
 
-Ben bowed his head towards Kaia. "I am sorry, Kaia, based on the protest you
-staged with Fera yesterday, I should have guessed that you would not approve of
-corporeal punishment. Nevertheless, it would be best for Dun if his bones were
-broken as soon as possible. If we hand Dun over to the authorities now, they
-may wait until Dun is already in space. Bones do not heal properly in
-microgravity. On the other hand, if we break his bones now he may heal
-completely before he is sent to prison."
+Kaia bit into the banana. She had eaten banana chips, which were hard and crunchy,
+and banana puree, which was soft and mushy, but never a whole banana. Sata
+asked for a bite, then proceeded to eat the rest of the banana. Kaia reached
+for another banana.
 
-"I don't want his bones broken at all," Kaia said trying to maintain her
-composure.
+"Kaia, let's have eggs before you eat more fruit," Iona said cracking eggs into
+a bowl.
 
-Ben look disappointed. "I am afraid that his bones will be broken sooner or
+Kaia and Sata watched as Iona prepared breakfast and Ursa put plates, spoons,
+and silverware on the table. Kaia had never seen eggs that did not come in a
+carton. Kaia's first impression of real food was positive, but her heading was
+spinning from all the steps required to prepare it.
+
+Iona sprinkled salt and ground pepper into the eggs and mixed gently, before
+pouring the eggs onto a hot buttered pan. Then, she put bread into the toaster,
+cut open avocados lengthwise, sinking the knife into each avocado pit to remove
+it, diced tomatoes, onions, peppers, and cilantro with amazing speed, throwing
+the diced vegetables into a bowl before adding salt and lime juice and mixing
+vigorously. Finally, Iona sliced the avocado mesocarp lengthwise by running the
+edge of a knife in parallel lines along the inside of the exocarp.
+
+As soon as Iona put the avocados, eggs, and toast on separate plates in the
+middle of the table next to the bowl of diced vegetables, Ursa started
+arranging ingredients on her plate. Ursa put an egg sunny-side down on top of
+toast, ruptured the yolk to let it soak into the toast, and topped the egg with
+three avocado slices and a spoonful of diced vegetables. Kaia and Sata tried
+their best to follow Ursa's lead. The result was divinely delicious.
+
+"Thank you for preparing all this wonderful food, Iona," Kaia said.
+
+"Thank you, Iona," Sata said in between mouthfuls. "Iona, you're not eating?"
+
+"No, I'm fasting," Iona replied while cleaning up and tidying the kitchen.
+
+"Iona, only eats when no one is looking," Ursa said with a smile.
+
+"Should we save you some for later?" Sata asked.
+
+"No need. I can always make more," Iona replied.
+
+Kaia began to wonder if Iona ate at all. Do Thelusians eat? When they finished
+eating Kaia and Sata could barely move. "Is it OK if we walk arm-in-arm to
+Juvenia Stadium?" Kaia asked shyly. "I don't think I can walk on my own after
+eating so much delicious food." Everyone agreed that linking arms was an
+excellent idea. The girls walked in a concave shape as Ursa and Iona gently
+pulled Sata and Kaia forward.
+
+"There are lots of people," Kaia observed.
+
+Iona nodded. "The camp was filled with refugees before our city was
+destroyed. There is simply not enough room for everyone. Most of the adult
+still live on airships at an ancient airport to the west of the camp."
+
+"So our parents are definitely not here," Sata said.
+
+"Yes, they would need special permission to be transferred to the camp. Maybe
+we can ask Ben to pull some strings. His family is very influential," Iona
+answered.
+
+Kaia was a bit disappointed to see that Juvenia Stadium was just a field with a
+few rows of seats on one side. In the row closest to the field, Ben and Zek
+were both tapping away at consoles located behind the thin barrier separating
+the seats from the field. Zok and Edl were running drills on the field, but
+when Edl noticed the girls, he ran towards them, remembered that he was
+terrified of Ursa, stopped, and yelled for his brother. Ben looked up, hopped
+onto his seat, then jumped onto the barrier, and leapt out over the field. Two
+giants carrierCrows caught Ben in mid-air and then drop him in front of the
+girls. Edl ran up behind Ben and they both started to apologize.
+
+Ursa put her hands on her hips. "Stop, I don't want to hear it! The only way
+I'll forgive you is if you defeat us in BugBall match, four-on-four, girls
+versus boys. But if we win, you'll buy VIP yurts for Kaia, Sata, and Fera's
+families and have them all transferred to the refugee camp."
+
+Ben agreed. He and Ursa shook hands.
+
+Sata seemed worried. "Wait, we've never played BugBall before. We don't even
+know the rules."
+
+"Well, it's about time you learned," Ursa said.
+
+Iona began to explain the game. "The field is set up for two teams, orange and
+blue. Each team will start with one BroodBug egg, two BeastBug eggs, and four
+BunnyBug eggs."
+
+"Wait, we didn't eat bug eggs for breakfast, did we?"
+
+"No, those were bioreactor-grown unfertilized chicken eggs. Unlike chickens,
+BugBall bugs are polymorphic and therefore can vary greatly. Once a BroodBug hatches,
+it will produce new bug eggs for our team. When BeastBugs hatch, they
+eat whatever bugs and eggs are closest, regardless of what team the-"
+
+"Let's just play and explain along the way." Ursa interrupted Iona's
+explanation and yanked Sata and Kaia onto the field. "Come on, we'll be the
+orange team!" Ursa stopped in front of the three largest orange bug eggs, each
+about a meter in diameter. "Let's start by hatching a BroodBug egg and a
+BeastBug egg."
+
+Iona ran up behind the other girls. "We should hatch the two BeastBug eggs
+first. The blue team is going to try to rush us." On the opposite side of the
+field, Edl was dribbling two blue BeastBug eggs at the same time, while Ben,
+Zek, and Zok were sitting on blue BunnyBug eggs and chatting.
+
+"Edl thinks he win by himself!" Ursa yelled, enraged and disgusted.
+
+Iona took command. "Kaia, help me bounce this BeastBug egg. Sata, help Ursa
+with the other BeastBug egg."
+
+"Why are we bouncing the eggs?" Sata asked.
+
+Iona was happy to explain. "Dribbling heats up the eggs. With enough time and
+heat, the eggs will hatch."
+
+Sata quickly lost interest in the explanation. "Ursa, you might want to zip up
+your jumpsuit. The sight of you dribbling is making Kaia overheat."
+
+Iona tried to keep Sata on task. "Sata, stay focused on dribbling."
+
+Sata was indignant. "Me?! Look at Kaia! How can she focus on dribbling when
+she's staring down Ursa's shirt?"
+
+Ursa smiled warmly while continuing to dribble. "I don't mind if she looks. You
+can look too. You should be proud of the bite marks you left." Sata blushed and
+fell silent. Kaia laughed, surprised that Sata got embarrassed by her favorite
+kind of joke.
+
+Soon, both eggs had grown large enough that they were almost as tall as Kaia.
+Ursa pointed to the opposite side of the field. "The eggs are about to hatch.
+We need to start moving the eggs to the other side of the field. If they hatch
+here, they will start eating our eggs."
+
+"Edl is charging us with two BeastBug eggs!" Iona yelled.
+
+Ursa knew exactly what to do. "Sata, help Kaia roll the egg. Iona, you'll have
+to manage on your own. I'm going to slow him down."
+
+Ursa ran off with a orange BunnyBug egg under each arm and kicked one of the
+blue BeastBug eggs away from Edl. When the other blue BeastBug hatched, Ursa
+started leading it away, using the two orange BunnyBug eggs as bait. Ursa then
+punted the BunnyBug eggs towards the spot where Ben, Zek, and Zok were sitting.
+Noticing that a blue BeastBug was heading straight for them, Ben and Zok tried
+to lead it away with blue BunnyBug eggs, while Zok began rolling the blue
+BroodBug egg away.
+
+Ursa started dribbling the other blue BeastBug egg. Soon, there wre two blue
+BeastBugs began chasing after Zok. Ben and Zok threw their BunnyBug eggs at the
+BeastBugs to slow them down. While the BeastBugs devoured the four blue
+BunnyBugs that Ben and Zok had thrown and the two orange BunnyBug eggs that
+Ursa had kicked, Edl took over for Zok and rolled the blue BroodBug egg past
+the blue BeastBugs towards the opposing team.
+
+Iona turned around towards Kaia and Sata. "Run back to our BroodBug Egg and
+keep it safe!" Extremely confused, Kaia and Sata left their egg and started
+running toward the orange BroodBug egg. Ursa caught up with Edl, jumped onto
+his back, and put him into a choke hold. Not being able to breathe did not seem
+to bother Edl and he kept pushing the blue BroodBug egg down the field with the
+two blue BeastBugs in pursuit.
+
+Edl almost made it the end of the field before the two blue BeastBugs caught up
+with him and ripped into the blue BroodBug egg from both sides. Edl abandoned
+the blue BroodBug egg and started running toward the orange BroodBug. Iona
+dribbled the two orange BeastBugs eggs and then just as the eggs were hatching,
+she kicked them towards the two blue BeastBugs. The newly hatched orange
+BeastBugs were no match for the older and larger blue BeastBugs and were
+quickly torn apart and consumed.
+
+Crossing the field in a flash, Edl took the orange BroodBug egg from Kaia and
+Sata, and started rolling it towards the blue BeastBugs. Ursa jumped off of
+Edl's back and started pushing against the BroodBug egg to slow Edl down. When
+Iona joined Ursa, they rolled onto their backs, braced her legs against the egg
+and kicked up as the egg was rolling over them. The egg bounced the field and
+Edl flew forward tripping over Ursa and Iona. Ursa started dribbling the orange
+BroodBug egg away, while Iona tried to keep Edl pinned to the ground. Edl got
+free and caught up to Ursa quickly, but Ursa gave the egg a powerful kick way
+over Edl's head and towards Iona.
+
+Iona and Ursa began kicking the orange BroodBug egg to each other while Edl and
+the blue BeastBugs ran back and forth between them. The blue BeastBugs appeared
+to get tired and rolled up into balls. Edl showed no signs of tiring and kept
+running until the orange BroodBug hatched. Edl started pushing one of
+the rolled-up BeastBugs towards the orange BroodBug, but then stopped when an
+alarm blared to inform everyone that the time limit had been surpassed.
+
+"Congratulations on a resounding victory!" Ben said reaching out to shake Kaia
+and Sata's hands.
+
+"We just ran around aimlessly." Sata admitted. "And the three of you just sat
+around the whole time, so it really was just Iona and Ursa versus Edl."
+
+Ben seemed unsure of how to respond at first. "Well, it is normal for teams to
+rely on their strongest players, but that does not diminish the importance of
+teamwork."
+
+Edl slumped against the rolled-up BeastBug and started crying. Everyone gathered
+around Edl.
+
+"What a sore loser," Ursa remarked with disgust.
+
+"Edl, what's wrong?" Ben asked.
+
+Edl started blubbering in between sobs. "We lost, Ben, and now they're not
+going to forgive us. I don't know what I did wrong, but I just don't want
+anyone to be mad at me. Ben, I tried really hard. I really, really tried."
+
+"Ursa, is there any way you might forgive us even though we lost?" Ben asked.
+
+Ursa crossed her arms. "Edl thought he could beat us without any help from
+anyone else! And now when he's crying just because he lost."
+
+Ben "Please Ursa, if there is anything we can do, please tell us."
+
+Ursa was not sure of what else to ask for and looked to Iona for help. Iona
+whispered in Ursa's ear. Ursa laid out her demands. "On top of the VIP yurts
+and transfers, Ende Corp has to sponsor the performance group and every member
+of your family has to become a performance group PlatinumPatron and attend both
+of our upcoming performances!"
+
+Everyone looked at Ben, who was shocked that the requests were so minor. "Yes,
+of course, I will start making the arrangements immediately. Kaia, Sata, and
+Fera's families should arrive this afternoon and can move into your respective
+yurts this evening."
+
+Edl looked up at Ursa with hope in his eyes. "You're not mad at me anymore?"
+
+Ursa turned red. "You got off easy this time, but you'd better be on your best
+behavior, because next time I will not be so merciful!"
+
+Edl nodded, stood up, could not decide what to say, and ran off the field. Ursa
+turned to the other girls and said, "Come on, ladies, let's hit the showers."
+Sata's face lit up as she began thinking of lewd jokes to make in the showers.
+Kaia was happy to see Sata having a good time. In a surprisingly good mood,
+Kaia tried not to think about the weird conversation that she had with Iona
+earlier that morning.
+
+As she walked toward the locker room with the other girls, Kaia felt like
+things were turning out alright. The prospect of living in the refugee camp
+permanently did not seem so bad anymore. Kaia was very grateful to Ursa and
+Iona for securing helping their families and also thinking of Fera's family.
+Even though she was glad that she and Sata would see their parents, Kaia was
+also sad that Fera's parents would never be reunited with their daughter. Kaia
+decided that she would try to talk to Fera's parents at the remembrance
+ceremony later that evening.
+
+Sata blocked the door to the locker room. "When you take off your jumpsuits,
+make sure to do it really slow. I don't want to miss anything."
+
+Iona pushed Sata aside. "Out of the question. Undressing slowly would be a very
+inefficient use of time."
+
+Sata crossed her arms and pouted. "You're no fun."
+
+Ursa tried to make Sata feel better. "I'll do a special show just for you
 later."
 
-"Can we ask the EternalEnlightened to pardon him?" Kaia asked.
+Sata grinned but her smile faded when she saw the locker room.
 
-Ben nodded. "Yes, we can. A partial pardon could be advantageous. Dun is more
-likely to be able to pay the remaining injury compensation he owes you if his
-bones remain intact and he is not sent to prison. Would you like the partial
-pardon to apply to all of your assailants?"
+"What are all these doors?"
 
-Sata reluctantly agreed after much prodding from Kaia. After submitting the
-pardon request, Ben said, "The EternalEnlightened are asking if you would be
-open to discussing the compromise of a few additional broken bones."
+"Each door leads to a individual shower stall and locker. This is necessary
+because the locker room is unisex."
 
-Kaia was adamant. "No more broken bones."
+The look of disappointment of Sata's face was priceless. Kaia tried to console Sata
+by patting her shoulder.
 
-The response was immediate. Ben explained the result. "The EternalEnlightened
-suspended the prison sentence and reduced the corporeal punishment to the
-injuries that Dun has already sustained." Dun looked up at Kaia and Sata and
-thanked them profusely while clutching his recently broken fingers, then
-slipped back behind the curtain he was hiding behind before.
+"How will we bond and build a sense of camaraderie if we're all in separate
+stalls?" Sata asked.
 
-Ben moved on to the next topic. "As for the mysterious origins of the message
-that Dun received, I have no way of proving my innocence. I can only say that I
-certainly had nothing to gain from planning the ambush."
+Iona pointed at clock on the wall. "If you shower faster, we will have more
+time for bonding."
 
-"We think the Rainbow club owner might be involved. He's the one who gave us
-the BugBall uniforms we were wearing."
+Sata pouted. "I wanted to snap a towel at someone's bottom."
 
-Ben rubbed his chin. "Yes, that makes sense. The attack could sway public
-opinion away from the All Grays in favor of the Rainbow club. Allow me to
-investigate. I will let you know if I discover anything."
+Iona was not amused. "You can snap a towel at your own bottom. Now stop
+wasting time. Pick any door. They're all the same."
 
-Sata objected immediately. "I don't want to stay here and wait. I want to
-investigate too."
+Ursa pointed above the nearest door. "The walls don't go up all the way to the
+ceiling. If we pick adjacent stalls, we'll still be able to talk to each other."
 
-Ben shook his head. "It will be safer if you stay here. The person who wanted
-to hurt you may be planning another attack."
+"It's funny that they use letters instead of numbers for the doors," Kaia
+observed.
 
-"They could be planning to attack us here," Sata noted.
+Iona was happy to explain. "There are digits too. The locker room uses the
+hexatrigesimal numbering system. The first ten doors are numbered zero through
+nine, and the other 26 are numbered using letters A through Z."
 
-"There are armed guards at the entrance and patrolling the area around the
-yurt. Right now, this is the safest place you could be."
+"I'll pick K. Iona, you should pick 'I'."
 
-"Not if we die of boredom," Sata said.
+"What about me?" Sata asked.
 
-Ben was ready with a solution. "If you agree to stay, I will pay for any food
-and refreshments you order. You will also be able to control who has permission
-to visit you. Please feel free to order anything you like and invite whoever
-you like. Does that sound acceptable?"
+"Pick 'L' for Lewd."
 
-Kaia shook her head. "I want to go to Fera's remembrance ceremony."
+Ursa shrugged. "I guess I'll take 'J' then."
 
-Ben swept his hand to the side. "You will be able to view the ceremony on the
-walls of the yurt. It will be even better than attending in person."
+Sata crossed her arms and huffed. "I want to be in a stall next to Ursa."
 
-After Kaia and Sata agreed, Ben and Edl bid them farewell. As Ben and Edl were
-leaving, Sata shouted after them. "You shouldn't have agreed to pay for
-everything. I am going to bleed you dry."
+"All of the stalls are exactly the same," Iona said firmly.
 
-Ben turned around, laughed, and said, "You are most welcome to try," before
-disappearing around the corner.
+Ursa tried to come up with a solution. "Kaia can have 'K', Sata can take 'H'
+like Happy, I'll take 'I' as in Incredible, and Iona can take 'J' because she
+loves jokes."
 
-"What should we order first?" Sata asked scrolling through the options on the
-console.
+"The letters in the numbering system have absolutely no meaning," Iona
+protested.
 
-"Some food?" Kaia suggested.
+Sata smiled mischievously. "I'm going to climb the walls to peek."
 
-Sata sorted the menu by price. "OK, the most expensive items are a rotating
-sushi bar, a hibachi grill, a churrascaria with rodízio service, and a deluxe
-seafood buffet."
+"The space between the walls and the ceiling is too narrow. You won't see a
+thing, and you might slip and hurt yourself," Iona warned.
 
-"That's so expensive!" Kaia exclaimed after looking at the price.
+Ursa had another great idea. "If I narrate what I'm doing for you, maybe you
+won't feel tempted to peek."
 
-Sata selected all three items. "The way I see it, Ben gave us a challenge and I
-don't want to disappoint him. What should we get to drink?"
+Sata seemed to regain hope. "Can you narrate in a sexy voice?"
 
-Kaia shrugged. "You're probably going to order the most expensive things."
+Ursa smiled. "The sexiest voice I can muster."
 
-Sata beamed. "You're right. Looks like we can't order any alcohol, so let's
-order a barista coffee station and a fruit smoothie stand. For dessert, let's
-get a gelato bar and a crêpe chef station."
+Sata agreed to the plan and the girls went into their respective stalls.
 
-An image of a twisty straw with googly eyes popped up on the screen and began
-to speak. "Hi, I'm Tipsy. It looks like you are planning an event. Would you
-like help with that?"
+"I'm in a ceramic cage of sadness. You promised you would narrate, Ursa." Sata
+wailed.
 
-"Uh sure," Sata said.
+Ursa began to narrate every step of the process of undressing but did it in a
+flat, monotone, nasal voice that made it sound like her sinuses were horribly
+congested.
 
-"Great, I've added some items to your order. Once you've approved your order,
-please review the proposed guest list I've put together based on your contacts
-and social profiles."
+"That isn't a sexy voice!" Sata protested.
 
-Sata approved all of the additional items without looking, but stopped at the
-guest list. "Should we invite Dar?"
+"This is my sexiest voice," Ursa said in an incredibly high pitch, her voice
+cracking at end.
 
-"We might be able to figure out if he was behind the attack," Kaia suggested.
+"I am entering the shower stall." Kaia said, pinching her nose and try to
+undulate her voice as much as possible.
 
-Sata nodded. "Is everyone else on the list OK?"
+"Focus on the task at hand," Iona said flatly.
 
-Kaia hesitated before saying, "Is it alright if we don't invite our parents and
-their friends? We can just send them a message to say that we are doing well."
+"Commencing cleaning cycle," Ursa said in a robotic voice.
 
-"I know what you mean." Sata said and then switched to a gruff, raspy voice as
-she launched into an impression of Kaia's father. "Aren't you girls too old for
-sleepovers? People are going to get the wrong idea."
+Kaia laughed but was afraid the joke might offend Iona. Iona turned on her
+shower and began to sing the uptempo portion of Diva Dance from the Fifth
+Element. Kaia was impressed by Iona's voice. Ursa started to beat box. It
+seemed like Iona and Ursa had practiced this duet. Iona started gargling water
+while continuing to sing. When Iona finished her recital, all four girls
+started to sing freestyle while gargling water.
 
-Kaia laughed and fired back with an impression of Sata's mother in a sultry,
-husky voice. "When I was your age, I had all the boys eating out of the palm of
-my hand. I'm starting to worry about you two."
+"We should turn this locker room into a recording studio. The acoustics are
+excellent," Sata said sounding very upbeat.
 
-Sata pinched her nose to imitate the nasal voice of Kaia's mother. "Girls, it's
-never too soon to start looking for a husband. You can't be sure of your future
-until you have a ring around your finger."
+"We could go on tour and perform in all the best showers in the world," Kaia
+suggested.
 
-"I can't come up with anything for you dad," Kaia admitted. "He's actually
-pretty cool."
+"It would make the performance group more popular than even," Ursa added.
 
-Sata shook her head. "You only think that because the only times you've seen
-him was when he has trying to compensate for never being around. It makes me
-mad that he always gets your name wrong."
+"I don't mean to alarm you, but someone replaced my clothes with a BugBall
+uniform while I was showering. There's a note that says that our clothes were
+taken to be cleaned."
 
-"I actually think that's pretty funny," Kaia said before launching into an
-impression. "Remember, Kira, if you want something in life, don't let anyone
-stop you. You gotta grab life by the horns, Kesa, and carpe all those diems."
+"My clothes are gone too. It's creepy that someone came in here without us
+noticing," Ursa said.
 
-"OK, it's agreed that we won't invite our parents. That leaves Dar, Ben, Edl,
-Iona, Ursa, Zek, Zok, Lan, Arla, and Taz."
+"They were like ninjas," Sata said.
+
+"Isn't it weird to wear BugBall uniforms when we're not playing?" Kaia asked.
 
-"Sounds good to me."
+"We don't really have any other option after they took our clothes to be
+washed," Iona answered.
+
+Sata, Kaia, Ursa, and Iona emerged from the locker rooms in BugBall uniforms
+consisting of violet sneakers, indigo socks, blue leggings, green shorts, and
+shirts with yellow, orange, and red stripes. Outside the locker room, an
+impeccably dressed man was waiting along with two ButlerBaboons in tuxedos.
+
+"Greetings, I'm Darrysmis Ohudzki, the manager of Rainbow Sports Club, but
+please call me Dar. I was very impressed by the match you played this morning.
+Up until today, Edlvardos Pembrok has been undefeated-"
+
+"Give us back our clothes, you pervert!" Ursa yelled.
+
+Dar barely skipped a beat. "My ButlerBaboons are washing and pressing your
+clothes, which should be ready in about half an hour. In the meantime, I'd like
+to treat you to lunch."
+
+Ursa was not impressed. "There's no such thing as free lunch. What do you
+want?"
+
+"I would like to discuss a potential business arrangement that I believe would
+be mutually-"
+
+"Tell us what it is now," Ursa demanded.
+
+"I would like you to represent the Rainbow Sports Club."
 
-Kaia and Sata recorded a quick message and sent it to their parents, then
-decided to go sit in the waiting area near the entrance while they waited for
-the food and refreshments to arrive. They were not able to sit for long before
-people started to arrive and ask them where to set up all of the things that
-they had ordered. When Iona, Ursa, and Zek arrived, there was no more space in
-the waiting area and a line of delivery people stretched outside the infirmary
-yurt.
+"OK, you can talk business with Iona while the rest of us eat."
+
+"Excellent, please follow me. There's an excellent lunch place nearby."
+
+Dar led them to a small metal shack covered BuzzBee designs with a large sign
+that read "Apis". Inside the shack, there were a few tables, a counter, and an
+empty display case.
 
-"We're so glad to see you're alright!" Ursa said running up to hug them. "We
-tried to come visit you earlier, but the soldiers wouldn't let us inside."
+Dar swept his hand in a half circle in front of him. "This fine establishment
+has been the best place to eat in the refugee camp for ages. I heard that it
+was first constructed to feed human workers renovating Juvenia Stadium before
+construction labor became fully automated."
+
+They sat down at a table near the window. Dar continued to play the host.
+"Please feel free to order anything you like. Remember it's my treat. I usually
+order borscht and compote to drink, tripe soup or sour rye soup for the first
+course, and poultry gizzards in mushroom sauce or the beef tongue in
+horseradish sauce for the second course."
 
-"What is all this?" Iona after hugging Kaia and Sata.
+Everyone ordered what they wanted using their tabletop consoles except for Iona
+and Dar, who immediately started talking business. Dar explained that he wanted
+to be able to use recordings and images from their BugBall match for
+promotional purposes. Iona said that it would be better making donations to the
+performance group instead of paying them directly would minimize tax
+obligations for both parties. Dar seemed impressed and suggested that they
+include an open clause that would include any future recordings of them playing
+BugBall or wearing the Rainbow club BugBall uniforms. Iona said that to build a
+lasting relationship Dar should become a performance group PlatinumPatron and
+have the Rainbow Sports Club sponsor the performance group in exchange for
+advertising and VIP seating for himself during their next two performances. Dar
+agreed on the condition that they all pose for a picture together to
+commemorate their new partnership.
 
-"We wanted to have a little 'Get Well Soon' party for ourselves, but I think we
-ordered too much."
+Iona asked the other girls if they agreed to terms of the contract and
+splitting the money evenly between the four of them.
 
-"Let me handle this." Iona said as her eyes lit up at the prospect of taking
-control. "All the seats need to go outside right now... I don't care what your
-job is supposed to be. Move those seats now or zero stars for all of you!"
+Kaia, Sata, and Ursa nodded because they all had their mouths full. Kaia was
+upset when she noticed that she had spilled borscht on herself, but was
+relieved to see that the stain blended in with red part of her jersey. A
+PictureParrot flew into Apis and perched on an empty chair in front of them.
+Dar and Iona posed frozen in the middle of a handshake. Kaia did her signature
+kawaii pose, Sata stuck out her tongue and pulled down one lower eyelid
+^[akanbe in Japanese, "mon oeil" in French], and Ursa opened her mouth and
+crossed her eyes to make a lewd face ^[ahegao in Japanese, o-face in
+English]. Dar brought up copies of the picture on the table for everyone to
+see.
 
-Before long, Iona had the waiting area organized into a combination of a fancy
-fusion restaurant and a street food roadshow. Kaia and Sata chatted with Ursa
-and Zek while eating sushi, crepes, crab legs, lobster tails, smoothies, and
-gelato.
+"We look mega cute!" Ursa squealed.
 
-"It's amazing that all of this is grown in space," Sata remarked.
+"Is it alright with everyone if I add this to the performance group social
+media accounts?" Iona asked. Everyone immediately agreed.
 
-Kaia was most impressed with the seafood. "Now that I know that fish and
-crustaceans are so delicious, I can understand why fishing is illegal. If we
-could just pull such tasty food straight out of the water ourselves, I'm sure
-they'd all be extinct before long."
+Sata pointed at the picture in front of her. "It's funny. I would look kinda
+like Ursa if I was a few decimeters taller, had much longer hair and dyed it
+bright orange, evolved to my ultimate form, maxed out my level, unlocked all
+possible achievements, and permanently had the super star power-up."
 
-Iona returned to gave a status report. "I was able to organize all of the
-things that you ordered. I had to split the remaining items between a larger
-yurt I connected to this one and the surrounding area. Would you like to take a
-look?"
+Ursa gently punched Sata's arm. "Stop it, you're making me blush. We're all
+uniquely cute in our own special way."
 
-After disconnecting Kaia and Sata from their intravenous pumps, Iona led Kaia,
-Sata, Ursa, and Zek to the adjacent yurt. Kaia and Sata felt like they were
-stepping into a different world. Aerial silk and trapeze artists performed
-above. Robotic elephants, tigers, lions, and bears roamed in between tables
-replete with food and drink. BaboonButlers stood ready with plates of hors
-d'oeuvres. A roller coaster snaked along the walls of the yurt.
+Kaia nodded. Sata and Ursa were both had a heavier build than Iona or Kaia.
+Sata's reddish brown hair was more tightly coiled than Ursa's bright orange
+hair, but seemed to match in color and in texture.
 
-"Did we really order all of this?"
+I see what you mean, Sata," Kaia said mirroring Sata's gesture, "I might look a
+little like Iona if I was much, much taller, filled out a lot, straightened my
+hair more, died it bright violet, cut it short and buzzed the sides, became
+really self-confident, unlocked all of my chakras, attained nirvana, and
+entered the avatar state."
 
-"Yes, your order included several deluxe circus and carnival packages. I was
-able to fit the smallest roller coaster inside, but I had to put the larger
-roller coasters and the Ferris wheels outside.
+Kaia got a little self-conscious and began to play with her dead mouse hair
+clips. She had not been able to do much with her hair since before the
+initiation rite, while Iona's hair seemed to be naturally straight and perfect
+at all times. Iona put her hand on Kaia's shoulder. "Kaia, you're perfect just
+the way you are."
 
-Kaia was honestly blown away by what Iona had been able to do in such a short
-time. "It's OK, Iona, you did a great job."
+"Sounds like a few of us need a group hug," Ursa said knocking her chair
+backward as she got up. Ursa, Sata, and Iona converged on Kaia and squeezed her
+tight. At the center of the group hug, Kaia felt better. It was OK that she was
+the runt of the litter. She was glad to have such amazing littermates.
 
-"Better than great. We could fit the entire refugee camp in here," Sata added.
+"Maybe you'd like to have a picture without me in it," Dar suggested as he got
+up and moved out of view of the PictureParrot. The girls arranged themselves
+for the picture. Iona stood behind Kaia, who looked back and saw that she was
+barely as tall as Iona's solar plexus. Ursa and Sata each held on to one of
+Kaia's arms, bent a leg at the knee pointing their toes to the sides, and
+leaned into Kaia. Looking at the latest picture of the table, Kaia was
+surprised how happy she looked.
 
-Iona nodded. "Yes, wasn't that what you had in mind when you set up the guest
-list?"
+"I think the pictures turn out better without me in the them, but I guess
+that's why I'm paying you for promotion and not the other way around."
 
-Sata shook her head. "No, we thought it was just going to be the performance
-and maker interest groups."
+"Remember, you're paying the performance group, not us."
 
-"You added the ten people to the VIP list and kept everyone else in the camp on
-the regular guest list," Iona explained.
+"Speaking of which, if the performance group ever needs anything, please let me
+know."
 
-Sata scratched her head and smiled. "That user interface wasn't very intuitive
-and I think I was a little too quick to trust Tipsy."
+"For now, the only thing I think we need is to have our clothes back."
 
-While Kaia, Sata, Ursa, and Zek went for a ride on the roller-coaster, Iona
-went to double check the organization of Kaia and Sata's order. From the
-vantage point of the roller coaster car, they could see the yurt filling with
-people. After the ride was over, Sata and Ursa raved about the adrenaline
-rush. Zek admitted that he was never a fan of roller coasters. Kaia thought she
-might have like the experience more if she had not tried it for the first time
-with a full stomach.
+"If you like, I could have your clothes sent to your yurts. Remember, the more
+you wear Rainbow uniforms, the more money you earn. To sweeten the deal, I will
+throw in a care package with fresh fruits, artisanal chocolates, and Rainbow
+club clothing for each of you."
 
-When Ursa and Sata asked to go another ride, Kaia and Zek decided to stay on
-the ground. Zek took advantage of the opportunity to chat with Kaia. "We were
-all really worried about you, but it appears that you bounced back very
-quickly."
+Kaia and Sata's eyes lit up when they heard about fresh fruits.
 
-Kaia looked at the bruises on her arms. "I don't really understand it. Is fast
-healing an ability that Echos have?"
+"What kind of clothing?" Ursa asked suspiciously.
 
-Zek shook his head. "No, Echos heal at the same speed as everyone else. In
-addition to your inexplicably fast recovery, I am also curious why you seem to
-be completely cut off from your Echo abilities."
+"The care packages will include Rainbow hats, scarves, hair ties and clips,
+shirts, hoodies, shorts, socks, leggings, sneakers, and pajamas. As a bonus,
+you'll be able to send any of the clothing to be laundered for free whenever
+you like."
 
-Kaia shrugged. "I don't know. Maybe letting loose during the attack cured me
-somehow?"
+"What about underwear?" Ursa asked.
 
-Zek opened his eyes very wide. "You used your abilities to protect yourself?"
+Dar seemed a bit nervous for the first time. "I'll include a few sets of
+undergarments. If anything doesn't fit you can send it back to exchange it for
+another size. Does that sound acceptable?"
 
-Kaia suppressed a shudder. "Yes, but don't get too excited. It was terrible. I
-almost killed all of those boys. I never want to do that again."
+Ursa nodded after not being to come up with anything else she could
+reasonably request.
 
-Zek lowered his head in defeat. "I understand. I won't try to convince
-you. Especially since I have no idea what is going on. It shouldn't be possible
-for you to simply decide to no longer be an Echo."
+"Excellent, I'll leave you to enjoy the rest of your meal. Please feel free to
+stay and have dessert." Dar said turning to leave, but then he stopped as he
+remembered something. "Oh and steer clear of fans of the opposing BugBall team,
+the All Grays. You'll recognize them immediately, because they only wear gray."
 
-"I would absolutely quit being an Echo if I could," Kaia admitted.
+After Dar left, Kaia said, "Maybe wearing these uniforms wasn't such a good idea."
 
-_Zek seems to be taking it pretty well. I thought he was obsessed with training
-me to use my Echo powers._ Kaia thought while watching Sata and Ursa ride the
-roller coaster.
+Iona saw an opportunity. "If you're worried, Kaia, you can learn to defend
+yourself by training with Zek."
 
-"Greetings, Kaia and Zek!" Ben said. "Edl and I decided to personally escort
-your parents to you, Kaia." Kaia was not to all that happy with the surprise
-visit from her parents, but suppressed the urge to run and even managed to
-smile.
+"Training? Can I train with Zek too?" Sata asked.
 
-Kaia's mother rushed up to her daughter. "Kaia, it's so nice to see you
-surrounded by handsome boys, but didn't you have anything else to wear?"
+Iona shook her head. "It's a special training that's tailored to Kaia. You can
+hang out with me or Ursa while Kaia trains."
 
-Kaia suddenly became very conscious that she was wearing a patient gown in a
-carnival setting. In contrast to her daughter, Kaia's mother always looked very
-elegant. She was wearing a black skirt and a red sweater over a white button-up
-shirt with the sleeves rolled up. Her long, dark hair was up in a tight bun.
+Kaia crossed her arms. "I won't go unless Sata can go with me."
 
-"So, which one of these strapping young lads is the lucky man?" asked Kaia's
-father. Kaia's father looked very serious in a blue dress shirt and slacks. He
-had a bushy, dark moustache and close-cropped hair.
+Iona immediately saw that there was no point in arguing. "We can all go
+together, but I just hope you won't be bored, because the training really only
+applies to Kaia. I think Zek will be able to explain it better than I can."
 
-Kaia was embarrassed to see that both of her parents had the top three buttons
-of their shirt undone, revealing her mother's ample cleavage and her father's
-bountiful salt-and-pepper chest hair. Kaia began to look around for places to
-hide, but Zek answered without missing a beat. "I do not believe anyone has
-been declared the victor. We are all still vying for your daughter's
-affection." Then, bowing deeply, Zek added, "My name is Zekianrov Lazarus."
+The girls went back to BugBall field. Ben and Edl were gone, but Zek was there
+typing at a console in one of the seats next to the field. Zek joined the
+girls.
 
-"I am Vasdefren Argolys, and my wife is Kelaailaiala Erkadia," Kaia's father
-rasped. "So what makes you think you are good enough for our daughter? The big
-one is an athlete and the small one is an inventor. What do you do?"
+"Kaia is ready to start training and was adamant about Sata coming too."
 
-"I am a writer," Zek said proudly.
+Zek seemed uncertain. "What have to told them so far?"
 
-Kela and Vas cringed. Vas thought of a potential redeeming quality. "Are you at
-least rich like the other two?"
+Iona shook her head. "Not much. Feel free to start from zero, but try to be
+succinct."
 
-"Unfortunately, I am not, but I am quite successful as a writer and
-performer. I would like to invite you to two of my upcoming performances, so
-that you can see for yourselves."
+Turning towards Kaia and Sata, Zek began to explain. "Kaia and I are Echos,
+people who can experience stimuli from the past and manipulate the senses of
+people in the present. I'm going to teach Kaia to use her abilities." Turning
+to Iona, Zek asked, "How am I doing so far, boss?"
 
-Kela leaned towards Kaia, but did not bother whispering. "Focus on the other
-two. There's no point in chasing after a starving artist."
+Iona nodded. "So far so good."
 
-Zek smiled politely, but it was clear he had heard what Kela said. Kaia was
-very relieved when Sata and Ursa got off the roller coaster and joined them.
+Zek seemed relieved. "Great! Kaia, Sata, any questions?"
 
-Seeing Sata, Kela was very suspicious. "Why are you and Sata wearing matching
-outfits? Is this some kind of hideous new fashion?"
+Kaia shook her head. Sata seemed surprised that Kaia going along with
+everything and asked, "Is this a joke?"
 
-Ben looked very nervous. "If you recall, I did explain that Kaia and Sata were
-attacked and seriously injured."
+Zek smiled. "I think the best way to answer that question is with a
+demonstration, but for that I'll need a volunteer. Sata, would you be willing
+to volunteer?"
 
-Kela crossed her arms. "You also said that they made a miraculous recovery, but
-you didn't say anything about taking us to a carnival."
+"It's not going to hurt, is it?" Sata asked.
 
-"I am as surprised as you are regarding the carnival," Ben said before looking
-at Kaia and Sata.
+Zek shook his head. "Nothing in the demo is going to hurt anyone. I'm just
+going to manipulate your senses. The effects will be disorienting and
+startling, but absolutely temporary and not harmful in any way. I think this
+will help Kaia figure out her abilities."
 
-"You said that we could order whatever we wanted!" Sata protested.
+Sata nodded. "If it can help Kaia, then sure I'll volunteer."
 
-Ben raised his palms up and said, "Yes and I meant it."
 
-"Are you the one bankrolling all of this?" Kela asked, smiling warmly at Ben.
+Zek smiled. "OK, great. Iona and Ursa, can you spot Sata just in case? Kaia,
+please stand next to me and observe closely."
 
-When Ben nodded, Kela's smile disappeared and she said, "So you can afford a
-carnival, but do not have enough money to get decent clothes for the girls."
+When everyone was in position, Zek started to explain. "The human body is
+oriented around vertical, sagittal, and transverse axes. Imagine each axis as a
+line that that cuts through the body." Zek showed the three axis in turn with
+his hand and then pointed towards Sata. "Now watch as I rotate Sata's vertical
+and transverse axes around her sagittal axis."
 
-Ben realized he had walked into a trap. "Kaia and Sata, please order a change
-of clothes for yourselves."
+From Kaia's perspective, it looked like a superimposed version of Sata did an
+aerial cartwheel towards Iona while the original version of Sata threw up her
+arms and fell into Ursa's arms. Sata was breathing hard, holding onto Ursa, and
+looking around disoriented.
 
-"With proper shoes and stockings." Kela added. "Young ladies cannot be walking
-around in socks."
+Zek grinned. "Do you still think it's a joke, Sata?"
 
-"Yes, please feel free to include whatever you need in each of the two sets of
-clothes." Ben decided to make an expeditious exit before being forced to agree
-to any further requests. "There are urgent matters to which I must attend.
-Please enjoy the carnival in my absence."
+"Everything was spinning. How did you do that?" Sata asked.
 
-After Ben and Edl left, Kaia's parents seemed to lose interest in everyone
-else.
+Zek did not seem to hear the question. "Just relax. During the next part of the
+demo, you won't be able to see, but don't worry, the effect is temporary."
 
-"Have you had anything to eat since you arrived?" Zek asked.
+Kaia raised her hand in front of Zek. "Wait a second-"
 
-"No, but surely you aren't going to suggest we eat this dreadful carnival
-food," Kela said disapprovingly.
+Zek threw his hand forward and a dark net materialized out of thin air and
+wrapped around Sata's face. Sata let out a scream in surprise.
 
-"Kaia, would it be alright if I showed your parents the VIP food options while
-you enjoy the carnival with Sata and Ursa?" Zek asked.
+"I said 'wait'!" Kaia yelled at Zek as she ran towards Sata. Reacting
+instinctively, Kaia reached out and pulled the net off of Sata's face. Sata
+burst into tears, threw her arms around Kaia, and said, "I couldn't see
+anything and the sounds were muffled, as if I was underwater."
 
-Kaia felt very grateful to Zek and nodded meekly. After Zek led Kela and Vas to
-the infirmary yurt, Kaia let out a sigh of relief.
+Zek seem overjoyed. "Kaia, that was amazing. You not only saw the veil, but
+also were able to take it off without any-."
 
-Sata immediately launched into an impression of Kela. "Kaia, darling, that
-patient gown is positively repulsive."
+Kaia was furious. "What is wrong with you?! Why would you do that to Sata?"
 
-"You missed the part where they were giving me advice on which of the boys I
-should pursue."
+Zek did not seem to be too concerned. "Your abilities could save your life
+someday, and save Sata's life too. Imagine being able to incapacitate any
+assailant at any-"
 
-"What did they advise?" Ursa asked.
+Kaia was shaking with anger. "That's it. We're done!"
 
-"Rich athletes and inventors are good husband material, but poor writers are
-not," Kaia summarized. "I wish my parents wouldn't criticize everything and
-everyone."
+Zek raised his hands. "We can let Sata recover and in the meantime you can
+practice on Ursa or Iona."
 
-"Do you think ordering clothes and trying some of this dreadful carnival food
-might take your mind of your parents?"
+Dust erupted from the grass and began to swirl around Kaia. "No, I'm done
+training!"
 
-"That sounds nice," Kaia agreed.
+Sata tried to calm Kaia down. "Kaia, I'm fine, really."
 
-After finding a console and ordering clothes, the girls went to a nearby fried
-dough stand. Kaia was impressed with the many different forms fried dough could
-take: Balls, bow-ties, braids, discs, pillows, pretzels, ribbons, rings, rods,
-rosettes, tubes, and twists, among others. Each shape was fried separately and
-then mixed together in a paper bowl that soaked up some of the excess oil. The
-diversity of available toppings was even more impressive than the assortment of
-fried dough shapes. Kaia kept adding cinnamon sugar, whipped cream, chocolate
-syrup, and assorted fruits until it was impossible to see any fried dough in
-her bowl. Topping it all with a mountain of powdered sugar, Kaia went a little
-overboard and sneezed after inhaling sucrose aerosols.
+Kaia shrunk away from the dust swirling around her. "Well, I'm not. I don't
+like any of this. All of it is too horrible."
 
-"Your sneeze is so cute. It's like a mouse squeak," Ursa said with a warm
-smile.
+Sata nodded. "She has a point, Zek, these super powers seem kinda evil. Have
+you ever heard of a superhero who can blind people and make them feel like
+they're spinning out of control?"
 
-Kaia stabbed blindly into her bowl with her fork and retrieved a random piece
-of fried dough and the toppings that happened to be stuck to it.
+"There's nothing evil about using non-lethal methods to neutralize threats.
+Most of our opponents will be much faster and stronger than we are and won't
+hesitate to kill us immediately."
 
-"It's so good," Kaia said with her mouth full.
+Iona shook her head. "We're done for today, Zek."
 
-"Slow down there, champ, you got whipped cream on your nose," Sata said
-pointing at Kaia's nose.
+Zek started to object, but Iona cut him off and told him to apologize.
 
-"Where?" Kaia asked after swallowing and searching her nose in vain.
+"Kaia, Sata, I'm really sorry. I wasn't planning for you both to be here. My
+original plan was to do the demo on Ursa or Iona. They're used to it. I forgot
+what it's like to go through it the first time."
 
-Sata smeared whipped cream on Kaia's nose and said, "Right here!"
+Sata was ready to accept Zek's apology, but did not say anything, because she
+could see that Kaia was still smoldering. They stood on the field in silence.
+Iona broke the silence. "We were planning to go to the amphitheater to
+rehearse. Would you like to come see? Iona asked. "Arla will be there."
 
-Ursa laughed and asked, "How long were you waiting with whipped cream on your
-finger just to do that?"
+Kaia did not answer, but Sata had an idea. "I want to swing by the Maker yurt
+first. Ben invited us. I'm curious to see what it's like."
 
-"Every second was worth it!" Sata proclaimed triumphantly.
+Iona seemed a bit disappointed. "OK, but please swing by the amphitheater
+afterwards, OK? We can borrow some dark clothes from the performance group
+wardrobe for this evening. Going to the remembrance ceremony in Rainbow
+uniforms probably isn't the best idea."
 
-Kaia smiled and reached for a napkin, but Sata stopped her.
+Sata nodded enthusiastically. Iona showed them the how to get to the Maker yurt
+and the amphitheater on a console. Sata took Kaia by the hand and waved to
+Iona, Ursa, and Zek before walking away. After half a dozen steps, Kaia and
+Sata heard shouting behind them and turned around. Iona and Ursa were both
+simultaneously giving Zek an earful. Zek looked like puppy that had just pooed
+on the carpet. It was hard to make out exactly what Iona and Ursa were saying,
+because their voices were overlapping over the distance.
 
-"Let me help," Sata said before licking the whipped cream off Kaia's nose.
+"I feel bad for Zek," Sata admitted.
 
-Kaia laughed and exclaimed, "Gross!"
+"I don't," Kaia huffed.
 
-Sata passed Kaia a napkin. "You have to admit that you are feeling better
-though, right?"
+Iona noticed that Kaia and Sata had stopped and were looking at her and
+Ursa. She looked embarrassed, gestured to Ursa to stop shouting at Zek, and
+started waving at Kaia and Sata with a big smile.
 
-Kaia took the napkin and wiped her nose. "You're right, I do feel better."
+"I miss you already!" Ursa yelled to Kaia and Sata.
 
-"You two are so perfect together. I'm jealous," Ursa said.
+Zek started waving at them too, but Iona smacked his hand down and yanked Zek
+off the field by his cravat. Ursa gave Zek a kick in the rear and turn to flash
+a smile.
 
-"Why are you jealous, aren't you with Zok?" Sata asked.
+"They're really cute," Sata said. Kaia nodded. She was feeling less angry.
 
-"He's more interested in Lan than in me," Ursa explained.
+Sata tried to talk about what had happened. "It's cool that you have
+superpowers."
 
-Sata put her hand Ursa's shoulder and asked, "Maybe we can find Iona and have
-'girls night out'?"
+"I would have picked different powers if I could."
 
-"Yeah, that sounds good. Let's send Iona a message to meet us over there." Ursa
-said before pointing at tower of pulsing lights with a large sign showing "FF"
-at the top. "It's easily visible from anywhere in the yurt."
+"Sure, being able to fly or turn invisible would be great, but you can make
+this work for you."
 
-"What does FF stand for?" Sata asked on the way to the tower.
+"How?"
 
-Ursa shrugged. "It's usually Iona who explains these things."
+"If you master the spinning thing, you could sell tickets for roller-coaster
+rides without a roller-coaster. You could also help insomniacs by making them
+temporarily blind."
 
-"It's like the numbering in the locker room," Kaia observed. "The numbers start
-at zero and then turn into letters when the numbers run out."
+"I guess it's better than nothing."
 
-"10 numbers and 6 letters, so 16 total." Sata counted.
+"Are you kidding? I'm super jealous."
 
-"There are 2 digits, so it's 16 squared. 16 times 10 is 160 and 16 times 6 is
-96. 160 plus 96 is 256," Kaia calculated.
+"You might have superpowers too."
 
-"How do you fit such a big brain in such a tiny, cute head?" Sata marveled.
+"That'd be great. Then I could be your sidekick."
 
-"This is a test of strength, not brains." Ursa said after reading the
-instructions on the console attached to the tower. "This game is called Full
-Force. We take the mallet and use it to hit the lever as hard as we can. The
-lever sends the puck upwards and if the puck hits the bell at the top, we can
-pick a prize."
+"It might be better if I were the sidekick. I don't like the pressure of being
+a hero."
 
-"There's pink unicorn pegasus cat plush toy!" Sata exclaimed pointing at one of
-the available prizes. "And it comes with a rainbow puke scarf that you can
-attach to its mouth! I've never wanted anything more in my entire life!"
+Kaia and Sata walked and talked for a while, but then froze when they saw a
+group of men blocking their path. The men were all dressed in various shades of
+gray. "You Rainbow fans?" one of the men asked.
 
-"Then, I'll get it for you," Ursa said heroically. Lifting the mallet above her
-head, Ursa brought it down on the lever with tremendous whack. The puck went up
-to CE.
+"Can you use your powers on them?" Sata asked. Kaia shook her head.
 
-Kaia was really impressed. "Wow, Ursa! You got it most of the way to the top!"
+"Hey, I'm talking to you!" the man said.
 
-"That was just a warm-up." Ursa took many large steps back and ran towards the
-tower with the mallet in hand. Then, instead of striking the lever like she did
-before, Ursa ran up the tower, turned around, and pushed off the tower to
-launch herself headfirst toward the lever. In the last second, Ursa brought the
-mallet down on the lever with such force that the impact overcame her downward
-momentum and she flew back up in the air. After striking a cute, confident pose
-upside down in midair, Ursa somersaulted expertly to the ground and then bowed
-as if finishing a performance. "You can pick your prize, Sata," Ursa proclaimed
-triumphantly.
+"Run!" Sata yelled and pulled Kaia away from the men. They ran until they were
+both panting for breath. Looking around to see if any of the men had followed
+them, they were stunned to see a group of boys closing in to surround them.
 
-Kaia and Sata were so impressed with the maneuver that they did not notice that
-the puck had hit the bell at the top of the tower. Every light on the tower
-began to flash rapidly. Horns and sirens went off. The "Full Force" logo began
-to dance rapidly on the console screen. Sata squealed with delighted, hop up
-and down, and then hugged Ursa to thank her. The one-horned, winged cat was
-much larger than anyone had expected. "I'm going to name her Kata," Sata
-decided.
+"Remember me?" Dun asked menacingly. Kaia did not know what to do and looked to
+Sata for guidance, but Sata was staring blankly off into the distance. The boys
+shoved Kaia and Sata to the ground and started kicking them. Sata was still
+recovering from having a seizure and was unable to defend herself. Kaia tried
+to shield Sata from the onslaught, but a kick to the face sent Kaia reeling.
 
-"That's like a mix of both your names! I'm overdosing from the cuteness!" Ursa
-exclaimed.
+Tasting blood in her mouth, Kaia welcomed the howling wind that lifted her
+spirit up over the circle of boys. Rotating through the air in a whirlwind of
+dust, Kaia looked down to see the chaotic panorama of the Martian-Thelusian war
+below. On the ground, Sata was a fallen comrade dying in Kaia's arms. With a
+sweeping gesture of her hand, sent all of the enemies below flying
+backwards. Filled with demonic rage, Kaia pinned her foes down with metallic
+tendrils, took away their hearing and sight, filled their mouths with dust, and
+planted seeds of hysterical fear in their minds, but it was not enough.
 
-Sata squeezed her prize with all her strength. Upon being squeezed, the cat
-opened her mouth slightly revealing the rainbow scarf, which was rolled up and
-fastened to the floor of the unicorn cat's mouth with 3 buttons. Sata unrolled
-the scarf and wrapped around herself and Kaia. "Now you won't be able to wander
-off," Sata said while grinning from ear to ear.
+Kaia wrapped her tendrils around necks of her assailants and started to
+squeeze. `Kaia, you're killing them.` Kaia ignored Nara, but froze when she saw
+Sata floating in the air next to her. Sata was crying and pleading for Kaia to
+stop. Had Sata been there the whole time hidden by the dust? Kaia saw herself
+reflected in Sata's eyes and was suddenly horrified by what she was doing. Kaia
+released the tendrils and calmed the wind to ease herself and Sata back into
+their bodies.
 
-Kaia immediately knew what Sata had in mind. "It's a scarf, not a leash."
+After returning to her body, Kaia felt pain and rage boiling through her entire
+being. She wanted to rise up again and seek vengeance, but she somehow felt
+Sata begging her to stay. The girls twisted on the ground until they were
+facing each other. Kaia could barely see, but she began to cry when she saw
+Sata's swollen, bruised, tear-streaked, and bloodied face. Was Sata
+experiencing the same emotions looking at Kaia?
 
-"Are you disappointed?" Sata shifted the unicorn cat to one side and used her
-free hand to bop Kaia on the nose. "I know you are into that kind of thing."
-
-Ursa put her hands on her cheeks. "You two are too sweet! You're going to give
-me hyperglycemia!"
-
-Alternating between holding the Kata and swinging the mallet, Kaia and Sata
-tried to match Ursa's high score. Sata rolled the rainbow scarf back up into
-Kata's mouth, because she and Kaia had both quickly worked up a sweat from
-swinging the mallet. Kaia did not feel safe swinging the mallet above her head
-and never got a higher score than 1B. Sata swung the mallet with confidence and
-fared much better. Her best result was AC.
-
-By the time Iona joined them at the tower, Kaia felt like her arms were about
-to fall off.
-
-Iona was carrying four large packages. "I ordered formal clothes for the
-remembrance ceremony for us. They might not be appropriate for the 'girls night
-out' you mentioned in your message, but you might prefer them over the patient
-gowns you are currently wearing."
-
-The girls opened up one of the packages and inspected the long black gown
-inside. The gown had a large ribbon tied in a bow around the waist and a lace
-collar that transitioned into open heart-shaped neckline
-^[décolletage]. Included in the package were heels, a lace veil, a purse,
-gloves, stockings, and hair clips decorated with ribbon bows.
-
-"You got four sets like this one?! It must have cost a fortune!" Kaia
-exclaimed.
-
-"I charged it all to one of the performance club accounts," Iona said, "Our
-marketing budget includes expenses for appearances at widely attended
-gatherings."
-
-On the way back to infirmary yurt, Kaia, Sata, and Ursa told Iona about what
-had happened while she was away. In return, Iona brought everyone up to speed
-on the situation outside.
-
-"Things have calmed down now, but it was complete pandemonium out there
-earlier. People were carrying off containers of food to hide for later. The
-food and drink stands ran out of food a few times. Fights broke out and several
-people almost got trampled. I think it's so nice of you to provide free food
-for the entire refugee camp, but additional planning would have been
-beneficial. I had my hands full making sure no one was seriously injured."
-
-Sata grimaced nervously and muttered under breath, "Damn you, Tipsy!"
-
-"I'm glad I'm not out there," Kaia admitted, "I don't like crowds."
-
-"It's good that there are going to be just a few people where we're going,"
-Sata said and grinned, "but two of those people are your parents."
-
-Kaia frowned. "I don't want them to criticize us again. Maybe we can sneak past
-them, hide Kata, and change clothes?"
-
-Sata was ready with an impression of Vas. "Aren't you girls too old to be
-playing with dolls?"
-
-"Don't worry I'm great at sneaking into places undetected. After all, I was a
-spy," Ursa said.
-
-"OK, I will distract Kaia's parents, while you three go and change," Iona
-volunteered.
-
-It turned out that the distraction was not necessary. Iona sat down quietly
-next to Zek at the sushi bar, where Kela and Vas were chatting with Sata's
-parents while imbibing copious amounts of sake. Running out of interesting
-material for conversation, Zek had prompted Kela and Vas to invite Sata's
-parents to join them for sushi, sake, and steak in the infirmary yurt. Both
-pairs of parents were now quite drunk and completely engrossed in their
-conversation.
-
-While Ursa stood guard, Sata and Kaia went behind the cubicle curtains
-surrounding their infirmary beds to change. The girls emerged moments later
-still wearing their patient gowns.
-
-"The clothes we ordered using Ben's account are here," Sata explained.
-
-"Should we change into normal or formal clothes?" Kaia asked.
-
-Ursa thought for a second before responding. "If you want to talk to your
-parents, then change into normal clothes. If you don't, we can slip by wearing
-the formal clothes and go wait for the remembrance ceremony to start."
-
-Kaia and Sata exchanged guilty looks. They would have preferred to avoid
-talking with their parents, but felt bad about sneaking past them again without
-at least saying 'hi'.
-
-...
-
-"You are finally looking presentable. You might actually have a chance to
-finally secure husbands after all this time."
-
-"After all this time?! We're fourteen!"
-
-"Vas and I were already engaged at your age," Kela responded.
-
-"When I was your age, I had a boyfriend who was paying for all of my expenses,"
-Lita purred.
-
-"I don't really remember when I was their age, too many parties," Don said.
-
-"Kids these days expect to live off their parents forever," Vas grunted.
-
-"Kaia and I are together!" Sata exclaimed. Kaia was shocked and her cheeks
-became flushed.
-
-The proclamation did not have the desired effect.
-
-"Yes, you are always together. It is quite strange."
-
-Sata's dad arrives during the remembrance ceremony and starts to hit on the
-girls. He doesn't recognize the girls because they are wearing veils. "He might
-not have recognized me even without the veil."
-
-"Hey sugar, I bet you have a pretty smile under that veil."
-
-Raf asks Kaia and Sata if they want him to make a real live mimic version of
-Kata for them. Raf explains that it will only take him about two months to
-gestate and then give birth to a one-horned cat with wings that will look
-exactly like Kata. Raf says that unfortunately that the rainbow vomit will not
-be possible, because he does not know of any creature that pukes rainbows. Kaia
-and Sata are a bit weirded out, but they agree nevertheless. Raf says that he
-will talk to Ben about getting the bird, cat, and narwhal dna samples that he
-will need.
-
-- order clothes
-- call Iona and ask her to join them for carnival games
-- Iona meets the other girls meet at the high striker game
-- Clothes arrive
-- change into formal clothes for remembrance ceremony
-- remembrance ceremony
-- say farewell to Iona and Ursa
-
-Ben and Edl bring Kaia's parents to her after locating her with a robotic
-birds. Kaia's parents are excited that she is surrounded by boys: Edl is
-athletic, Ben is smart, and Zek is artistic. Kaia's parents talk about which
-boy would be best for Kaia right in front of all of them. Kaia denies being in
-a relationship with any of the boys, but Zek jokes "Don't worry, Vasdefren
-Argolys and Kelaailaiala Erkadia, I'll take good care of your daughter."
-"Please call me Kela." Zek invites Kaia's parents to the two upcoming
-performances of performance group. Kaia is very embarrassed by her parents and
-is relieved when they leave. Sata and Ursa show up and say that they were
-hiding, because Sata knew that seeing their daughter surrounded by boys was
-Kaia's parents' secret dream. Kaia is angry that they were watching her in an
-embarrassing situation. When asked about whether she wants to find her parents,
-Sata says that they are probably partying and trying to pick up young
-refugees. Ben worries that no one will attend the ceremony but then says he
-will project the ceremony on to the yurt walls, so everyone will see it.
-
-Fera's mother joins the Sinistrae and can finally become independent because of
-financial and moral support from Fera?
-
-All the boys who attacked Kaia and Sata show up at the party. Each boy has two
-broken arms and a few broken fingers, because their punishment has to match the
-punishment that Dun received.
-
-
-- he was desperate for money since his father disappeared - someone paid him to
-attack Kaia and Sata, but that he has no idea who it was - Dun tells his story
-- he was left shaken by a strange experience after he led the attack against
-Kaia and Sata - after he recovered, he felt extremely afraid and ran away - as
-he was running, he was attacked from behind
-- he woke up in the infirmary yurt without any idea of who attacked him
-
-
-Ursa and Iona arrive to visit Kaia and Sata at the infirmary.
-
-An investigator asks Sata and Kaia about the bioterrorist attack.
-Why did the girls have such different symptoms than the boys? The girls seemed
-to be at the center of the blast and had only physical symptoms, while the boys
-were all left with post traumatic stress disorder and seemed to be suffering
-from purely psychological symptoms.
-
-...
-
-
-Dar visits Kaia and Sata in the infirmary and says how great the video of them
-being chased by All Grays and then attacked by the boys was for the Rainbow
-Sports Club brand, because they were wearing the Rainbow uniforms. "It's not a
-problem that the boys who attacked you were not wearing all gray. All need to
-do is apply a greyscale filter over there clothing and voilà!" He asks the
-girls if they might be willing to do it again sometime, but then says the he
-understands that they don't want to get beat up again. Kaia and Sata are
-suspicious that Dar seems so happy about the video of them getting beat up. Dar
-asks them to sign a contract for the rights to the images and videos of the
-attack that will require for them to pose for new pictures and videos wearing
-Rainbow scarves and hats. Sata tells Dar to that they're not interested. Iona
-later brings up the contract and asks if Kaia and Sata want her to negotiate
-with Dar for them. Kaia and Sata say that they will think about it.
-
-Later, Dun shows up in the infirmary to ask for forgiveness and for Kaia and
-Sata to sign his casts. Fera was going to break Dun's legs too, but she felt
-bad for the person that would have to carry Dun around. Kaia and Sata find out
-that someone paid Dun, his D-Dogs, and the soccer hooligans to beat them
-up. They immediately think it was Dar who paid their attackers. Iona tells them
-about "Qui Bono" and says that Dar stands the most to gain from them being beat
-up.
-
-...
-
-In the infirmary Ursa and Iona ask if Kaia wants them to beat up Dun, but Kaia
-says no. Sata says that they could at least give him a black eye, but Kaia says
-that it wouldn't help them and that Dun must be emotionally hurt because he
-believes that his father died in the explosion.
-
-Lan and Arla visit Kaia and Sata. They say that they are rehearsing for a dance
-performance and a theater play. In their spare time, Lan works in the kitchen
-and Arla spends time with Kransal.
-
-Ben and Edl visit them to say that they will be able to watch the remembrance
-ceremony on the infirmary yurt walls and that he set up the projector and sound
-system himself and the infirmary staff have been given special instructions and
-compensation.
-
-Kaia and Sata's parents visit them in the infirmary. Kaia's dad is a gruff man
-with a big moustache. Kaia knows that her dad straightens his moustache and
-then ruffles it to make it bushy. Sata's parents are good friends with Kaia's
-parents.
-
-Her parents ask if they are making new friends. They make a joke about getting
-the wrong idea about Sata and Kaia, because they are always together and never
-really had any boyfriends. "If you're not careful, people will think you're
-lesbians!" Kaia and Sata laugh nervously. Kaia and Sata say that they made
-friends in the performance group and maker workshop. Kaia's dad says that
-performances don't really benefit society or provide anything of tangible value
-and that maker culture is silly, because everything can be manufactured,
-printed, or synthesized.
-
-Kaia's dad lectures Kaia on the importance of standing up for herself.
-Normally, Kaia would go to her room and listen to music, but Kaia can't leave
-the infirmary bed, so she has to sit and listen to it. Kaia's dad says that
-bullies are targeting Kaia because she is not projecting strength. "Don't close
-your eyes while I'm talking to you!" Kaia's dad says that you have to puff your
-chest out and keep your chin up. Kaia's mom says that it's better to carry a
-big bag to protect your chest and keep your chin down to protect your neck and
-not attract attention.
-
-That evening Kaia and Sata watch the remembrance ceremony on the walls of the
-infirmary yurt. That night Kaia cannot sleep and she sees Fera. Not believing
-her eyes, Kaia thinks she is dreaming or hallucinating.
-
-Fera says that she broke both of Dun's arms after finding out what he did to
-Kaia and Sata. Kaia thinks that means that she broke both of Dun's arms and
-feel very sorry. She tells Sata that she broke Dun's arms with her mind. Sata
-says that she normally wouldn't believe it, but she is ready to believe
-anything after seeing Zek's demo.
-
-"I told you losers that I'm not dead."
-
-"You could be a vengeful spirit that doesn't know its dead."
-
-"I'm not dead!"
-
-Fera says that she went to the remembrance ceremony in disguise and couldn't
-help but laugh during Ben's heartfelt speech. "News of my demise have been
-greatly exaggerated."
-
-Kaia and Sata realize that Fera may actually be alive, because they remember a
-person laughing during the speech. Fera says that she wants to keep the fact
-that she's alive a secret until she can be sure that she is not wanted to
-blowing up the city. Kaia tells Fera that they will be staying in the refugee
-camp permanently, because the city is being rebuilt for new residents. Fera
-gets angry, but says she is learning to control her anger. For example, she
-says that barely enjoyed breaking Dun's arms and that she almost felt sorry for
-him afterwards. He seem relieved when I told him that his father is alive.
-
-The Provost is alive? How did you survive the explosion?
-
-The chapter ends with Fera beginning to tell them her story.
-
-...
-
-"I saw you on the ground when we were taking off. I tried to get them to go
-back for you..."
-
-"Ah, that was your airship? No worries, it worked out in the end."
-
-
-"Ursa, I felt it. It's all true. All of it. Your dreams will come true too.
-Kaia is the one we've been waiting for all this time."
-
-"I haven't been waiting as long as you. My faith is not as strong as yours, Iona."
-
-"It doesn't matter. She favors you. I can see it."
-
-"Can I still be saved? After what I did?"
-
-"Your sins are nothing compared to mine, but it does not matter whether we did
-evil or we did good, because it was all necessary to bring us here. It all
-happened as it was meant to happen."
-
-"I want to believe that but I can't. I know that what I did was selfish. I hurt
-the people closest to me to get what I wanted."
-
-"You have suffered greatly to become part of her plan. We all have. We'll
-suffer more before the rejoining can occur and the time of grace can arrive.
-Our suffering is needed so we can become worthy of the salvation that she
-offers. You were chosen because you were ready to sacrifice anything. You can
-achieve everything you always wanted just by playing your role in the plan."
-
-
-...
-
-"Will our parents be down there?"
-
-"Yes, everyone who was evacuated from the city will be "
-called Zakrzówek. It i
-...
-
-Kaia sees the refugee camp from the observation deck soon after takeoff. "If we
-were so close, why didn't we just parachute into the camp?" Ben explains that
-the lake was the only place to crash land and the forest in between the lake
-and camp was filled Driads and the city was patrolled by World Heritage robots.
-
-...
-There's a rivalry between the maker interest group (MIG) and the theater
-interest group (TIG). The performance group makes fun of the makers for not having
-any members. Ben says that they had as many as four members, but now they are
-down to three and perhaps even two. Arla is upset to hear that Raf is still
-unaccounted for. Kaia is devastated to find out that Fera was on the ground and
-that her signal disappeared as she was trying to leave the city. She feels
-angry at Sata and doesn't . Sata looks
-very sorry, but doesn't know what to say to Kaia.
-
-Kaia says she is upset that they have to leave so soon.
-
-Ben explains that airship will not land but it can lift everyone up by a cable.
-Zek and Zok start horsing around and the cables get tangled and everyone is
-packed together in a mess. Ben flies up first and then helps everyone untangle.
-Sata and Kaia are happy to be near each other in the bundle. Sata makes jokes.
-Zek gets pressed up against Taz and Arla?
-
-
-Everyone sits together except Taz, who is on duty.
-
-Lan is upset to leave all of the supplies behind,
-especially the food. Officer Kransal arranges for a smaller airship to the
-refugee camp where all the other students are to meet. A refugee camp school is
-repurposed and expanded to hold all of the new students in addition to the
-original refugees that already lived in the camp. Lan decides to work in the
-kitchen and uses his connections and swagger to get more food and other
-supplies for the camp.
-
-Kaia is ambushed by Dun and his posse (who were secretly hired by Zek) in the
-cafeteria. Edl goes to help Ben instead of Kaia. Ursa and Iona are not around.
-Arla is with Kransal. Only Zek is around to save Kaia.
-
-Zek takes Kaia to the hospital. Zek and Sata decide to stay with Kaia all
-night.
-
-"Just when I thought I was finally fitting in."
-
-Fera, Raf, and Naksos arrive at the refugee camp. Dun is reunited with his
-father. Raf is reunited with Arla and Lan. Fera tells Kaia and Sata that she
-has changed and is deeply sorry for how she behaved earlier.
-
-Fera arm wrestles Iona, Ursa, and Edl, beating all of them.
-
-"Laughing in people's faces after you win is a great way to make friends."
-
-The chapter ends with a celebration in the refugee camp honoring the return of
-Fera, Raf, and Naksos.
-
+_Am I dying?_ Kaia wondered before answering her own question, _No, not now,
+but I died like this before on Mars._ Kaia could not decide if the similarities
+between her current life and her past lives were a coincidence or followed a
+deliberate pattern. The overlap between the past and present appeared to be
+evidence of a higher power willing Kaia to connect the dots. As she drifted in
+and out of consciousness, Kaia hoped the merciful darkness
+would envelope her and Sata quickly to spare them as much
+suffering as possible.

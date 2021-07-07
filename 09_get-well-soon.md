@@ -1,1071 +1,1022 @@
-## Chapter 6: Never looked better
+# Get well soon
 
-"What is this Lord-Of-The-Rings, deus-ex-machina nonsense?", Fera screamed.
+As Kaia regained consciousness, she saw a familiar face. Wearing a long white
+coat with a stethoscope around her neck, Fera smiled at Kaia. Kaia opened her
+mouth to say something, but was only able to produce a pitiful groan. Fera
+turned around and walked away. Kaia got up to look around for Fera, but could
+not see anything except medical equipment and the curtain surrounding her bed.
 
-"Are you upset that you did not die?", Raf asked confused.
+When Kaia woke up again, she felt much better. Kaia quickly got bored of
+watching the flickering lights of the medical equipment and decided to explore
+her surroundings. Despite the bruises that covered her body, Kaia was
+pleasantly surprised to find that she could get up without much pain. Kaia
+jumped to her feet when she heard Sata calling her name.
 
-"No, but being saved by a giant bird is weird, and I don't like dangling in air
-from razor sharp talons. How do I know that this dumb bird won't drop me?" Fera
-said feeling powerless. Her gloves and skates were useless in the air.
+"I'm here!" Kaia moved towards the curtain, but stopped when her intravenous
+line became taut and yanked on her hand. Rolling her intravenous infusion pump
+pole behind her, Sata emerged from behind the curtain. Like Kaia, Sata was
+wearing a patient gown covered in multicolor polka dots. In an attempt to move
+towards Sata, Kaia grabbed the intravenous line and pulled on it. Sata closed
+the distance and the two girls embraced tenderly.
 
-Fera remembered that Ben said that all the equipment from the maker workshop
-had trackers. Fera hastily removed her gloves and skates, dropping them into
-the city below, and watching as they disappeared into the growing sea of fire
-below. The heat from the explosion lifted them up higher.
+"I'm so glad you're OK," Kaia said. Sata nodded in agreement. "Me too, but
+isn't it weird?
 
-"Why did you save me?" Fera asked Raf.
+"That you're OK?"
 
-"I didn't save you. The birds did."
+"Yeah, I couldn't even lift my head earlier and now I'm walking around with no
+problem."
 
-"But you control the birds, right?"
+"Maybe we were unconscious for a long time?"
 
-"You mustn't tell anyone anything!"
+"Let's go check. I saw a console on my way here."
 
-"Why didn't you leave me behind?"
+The girls made their way to the console and activated the display. "It's only
+been a few hours?!" Sata exclaimed.
 
-"Based on my observations of you, I am convinced that you do not wish to do me
-any harm and perhaps may even by fond of me."
+"It could be broken," Kaia suggested.
 
-"What the hell are you taking about?"
+"It's not broken. You've really only been here just a few hours." Kaia and Sata
+turned around and saw Dun's head poking out from behind a nearby curtain.
 
-"When we were on the motorcycle, were you concerned about my well being?
+"What are you doing here?" Sata asked suspiciously.
 
-"Don't flatter yourself."
+Dun stepped out from behind the curtain to show that his arms were encased in
+casts. "Someone sneaked up behind me, knocked me down, broke my arms, and then
+disappeared."
 
-"You touched my hair very gently."
+"Good," Sata said, "You deserve it."
 
-"You were unconscious. You were probably just dreaming."
+"You're right, I'm sorry for what I did." Dun said lowering his head. "I know
+it was wrong, and I regret it."
 
-"I feel like it is my turn to tease you."
+Sata crossed her arms. "The only reason you feel bad is because you got your
+arms broken."
 
-"What?"
+Dun shook his head. "I felt bad about it even before my arms were broken. I'm
+not trying to come up with excuses for what I did, but ever since I arrived at
+the camp I've been on my own. My dad never showed up. I am pretty sure he died
+in the explosion. I didn't have any money. My friends and I slept on the grass
+last night. Some older kids stole our rations."
 
-"You obviously feel affection towards me, but you do not want to admit it."
+Sata quickly lost patience. "If you're trying to make us feel sorry for you,
+it's not going to work."
 
-"When we land, I will show you some affection with my foot. I'm going to
-tender, love, and care your face until there's nothing left," Fera screamed
-swinging at arms and legs at Raf in a futile gesture of aggression.
+Dun got to the point. "Wait, there's something else. Someone paid me to beat
+you up."
 
-"Please Fera, you're upsetting the birds. I do not believe you anyway. You are
-using deception to hide your feelings, because you are afraid of getting hurt.
-Do not worry. I am fond of you as well, and I will do anything I can to protect
-you and make you happy."
+"What?! Who was it?"
 
-"The only thing that will make me happy is stomping on your face."
+Dun shook his head. "I don't know. There was an anonymous message with
+instructions. All of my friends got the same message. I can show it to you if
+you want."
 
-"I will be glad to oblige. There is not much left of my face anyway."
+Dun brought the message up on the console. While reading it, Kaia said,
+"Whoever sent this knew that we would be wearing Rainbow BugBall uniforms and
+running away from All Grays fans."
 
-"You've never looked better. I'm going to make some more improvements when we
-land."
+"Do you think Dar sent this?" Sata asked.
 
-"I am looking forward to it."
+"I'm not sure. The message was sent yesterday, before we even met Dar." Kaia
+observed.
 
-"Where are we flying anyway?"
+"That's so creepy. Yesterday we were at the artificial lake. How could anyone
+know where we would be the next day?" Sata said.
 
-"The entrance to the Lunker capital."
+Kaia thought about possible answers. "Ben could have guessed that we would be
+going from the field to the Maker yurt after BugBall practice, because he
+invited us to both places."
 
-"What?! No!" Fera had never been outside of the city. The thought of going
-anywhere else, especially a place filled with Lunkers, did not seem very
-appealing.
+Sata scrunched up her face in disbelief. "Why would Ben pay people to beat us
+up?"
 
-"You do not have much of a choice in the matter," Raf said gesturing towards
-the eagles. "After destroying the city, you may want to lay low for a while."
+Kaia shrugged. "I don't know."
 
-The eagles set Fera, Raf, and the Provost down on top of a hill surrounded by
-red brick ruins near the edge of the forest. Raf pointed into the forest. "The
-entrance is hidden in the forest. We have to walk the rest of the way."
+Dun had an idea. "Maybe it has something to do with your superpowers?"
 
-"Wait, what is this place?" Fera asked.
+Kaia recoiled in surprise. "What superpowers?"
 
-"This is Kosciuszko Mound in the Wolski Forest. The ancient city there was
-called Kraków in Ancient Latin, Ancient Spanish, and Ancient Italian."
+Dun raised his hands. "Don't worry, I won't tell anyone."
 
-"What should we do with him?" Fera asked gesturing towards the Provost, who
-was lying on the ground next to them. His shirt and blazer were covered in
-vomit. "He doesn't look like he can walk and I wouldn't carry him even if I
-could."
+Sata shook her head. "We don't have superpowers."
 
-"I will call for help," Raf said closing his eyes.
+Dun tapped his temple. "I'm not dumb. You obviously have super
+healing. Yesterday, you made a bird fly into my head two separate times. Today,
+you attacked me with your psychic powers. At first, I couldn't see anything and
+felt like I was doing flips in space. Then, when I could see again, I was so
+scared that I ran and hid, and-" Dun suddenly took a step back, his face frozen
+in horror. "You did it! You broke my arms!"
 
-"No more birds!" Fera yelled.
+Sata got angry. "There's no way. We were unconscious."
 
-"Ok, no more birds," Raf agreed.
+Dun pointed at the girls. "You did it with your minds."
 
-"What should I do?"
+"Doesn't it make more sense that your arms were broken by the person who sent
+you the message?" Kaia asked.
 
-"Enjoy the view."
+Dun thought about it. "Maybe they were trying to keep me quiet."
 
-Fera spotted an airship in the distance. Fera was unsure about whether she
-should tell Raf. She watched as it moved lazily across the sky. Why was it
-going so slow? Was it going in circles?
+"We need to look for clues about who it was," Sata suggested.
 
-"That airship will not be able to help us," Raf said calmly, his eyes
-still closed.
+"We can't," Dun said, "They won't let us leave this yurt."
 
-"How do you know?"
+"Why not?" Sata asked.
 
-"A little birdie told me."
+"They think we were at the center of some kind of experimental weapon strike,"
+Dun explained. "I tried to tell them that it was your superpowers, but they
+wouldn't listen to me."
 
-"Very funny."
+Sata pointed at Dun. "You said you wouldn't tell anyone."
 
-"Their engines stopped working. They've been circling for hours. They are going
-to crash. We could wait for them to crash and then explore the wreckage for
-survivors."
+Dun smiled triumphantly. "And you said you didn't have superpowers."
 
-Fera thought about it. There might not be any survivors, but if there were,
-they might blame Fera for the crash. If Fera had not destroyed the city, they
-would not have been on the airship. Fera made up her mind quickly. "I don't
-want to wait."
+Sata clearly exhausted all of patience she had allotted for Dun. "Come on Kaia,
+we're leaving."
 
-Raf opened his eyes. "Look there," he said pointing to the bottom of the hill,
-where three stags stood waiting.
+As Kaia and Sata were looking for the exit, Ben and Edl rushed up to them.
 
-"Is that our ride?" Fera asked. Raf nodded.
+ Ben looked at Kaia and Sata closely and said, "We came to wish you 'Get Well
+ Soon', but it seems we are too late. You arrived here a few hours ago in
+ critical condition. I am astounded that you recovered so quickly."
 
-"Why don't you have them come here?"
+"We're surprised too," Kaia admitted.
 
-"They don't want to climb up the hill just to carry us down."
+Sata immediately took on the role of detective. "When you picked us from the
+artificial lake yesterday did you know we would be walking from Juvenia Stadium
+to the Maker yurt this afternoon?"
 
-"Are we supposed to carry the Provost down?"
+Ben seemed confused by the question. "I suppose I could have foreseen it. Edl
+and I had the same point of origin and destination earlier today."
 
-"We can roll him down," Raf suggested. Fera liked that idea, perhaps a little
-too much. She gave the Provost a heave followed by a few kicks to keep him
-going. Raf and Fera chased the Provost as he picked up speed going down the
-hill. Fera laughed as she watched the Provost tumbled down the hill.
-Raf stared at Fera as she ran barefoot down the hill. She was a Valkyrie taking
-delight in serving justice.
+Sata continued her line of questioning. "Who else could have foreseen it
+yesterday?"
 
-When they got to the bottom of the hill, Fera wished she could roll the
-Provost down again. The stags knelt down and Fera helped Raf put the
-Provost on the back of the nearest stag. Fera had never ridden an animal, not
-even a robotic one. The prospect of riding a real live stag was terrifying.
+Ben started to understand the logic behind the questions. "I do not know how
+anyone else could have. It seems that you believe that someone planned to
+attack you this afternoon and that I am the prime suspect."
 
-"Can the other stags kneel down for us too?"
+"We know someone planned the attack." Sata said pointing at the console they
+had used earlier. Ben zipped up to the console on his powerskates and began to
+read the message that Dun had received.
 
-"Watch." Raf ran up to one of the stags, grabbed onto its antlers, and swung
-himself up onto its back.
+Kaia, Sata, and Edl walked up behind Ben. Sata looked over Ben's shoulder and
+asked, "You can access other people's messages?"
 
-Fera copied Raf, but did not pick up enough speed and slid down the side of her
-stag. The stag looked away from Fera as if embarrassed by her failure. Fera
-kept holding on the stag's antlers, terrified that the stag could impale her
-with just a flick of its head. The stag brought its head back around and Fera
-closed her eyes, expecting to be skewered. Flying through the air, Fera
-realized the stag was swinging her onto its back. When Fera landed, she made
-eye contact with one the stag's eyes. It waited for Fera to let go of its
-antlers before turning its head back around.
+Ben was tapping furiously at the console, but managed to reply. "Yes, I pulled
+up the most recent message. It appears the recipient, Dunkobraz Naiksos, agreed
+to lead the attack against you in exchange for a tidy sum. He received the full
+amount after you were attacked. Why would he show you this self-incriminating
+evidence?"
 
-The three stags walked through the ruins and then entered the forest, as if
-they knew exactly where to go. Fera held onto the antlers of her stag for dear
-life. Raf was looking at her intently.
+"He felt bad," Kaia explained.
 
-"Why are you looking at me like that?"
+"He's scared, because someone broke arms," Sata corrected.
 
-"Is this a good time to talk about our mutual affection?"
+"I assume he is somewhere nearby," Ben said. Edl went behind the curtain that
+Sata had indicated and returned holding Dun by the back of his patient gown.
 
-"Do you enjoy getting kicked?"
+"Excellent! The EternalEnlightened have already passed judgment. Dun will
+provide financial compensation to the injured parties, have all of the bones in
+his body broken without anesthesia, and be sent to prison as soon as he is
+cleared for launch. I already transferred all of Dun's funds to your accounts
+as partial payment of the injury compensation. I recommend doling out the
+subsequent subsequent punishment immediately," Ben said and nodded to Edl.
 
-"I do not, but ever since I understood that you express your emotions through
-violence, I feel strangely content when you kick me."
+Edl grabbed Dun by the arm, threw him on the floor, and started snapping each
+of the fingers sticking our from the cast. Dun howled in pain, but could not
+break free of Edl's grip.
 
-"You get off on me kicking you?"
+"Stop, don't hurt him!" Kaia yelled. Ben raised his hand and Edl froze in
+mid-snap.
 
-"I would prefer that you show your affection for me some other way."
+Ben bowed his head towards Kaia. "I am sorry, Kaia, based on the protest you
+staged with Fera yesterday, I should have guessed that you would not approve of
+corporeal punishment. Nevertheless, it would be best for Dun if his bones were
+broken as soon as possible. If we hand Dun over to the authorities now, they
+may wait until Dun is already in space. Bones do not heal properly in
+microgravity. On the other hand, if we break his bones now he may heal
+completely before he is sent to prison."
 
-"I think kicks are the only kind of affection you're going to get from me."
+"I don't want his bones broken at all," Kaia said trying to maintain her
+composure.
 
-"I will be happy to receive any kind of affection from you I can."
+Ben look disappointed. "I am afraid that his bones will be broken sooner or
+later."
 
-"Why do you like me?" Fera asked after a long pause.
+"Can we ask the EternalEnlightened to pardon him?" Kaia asked.
 
-Raf looked at her intensely. "You are the most amazing person I have ever met."
+Ben nodded. "Yes, we can. A partial pardon could be advantageous. Dun is more
+likely to be able to pay the remaining injury compensation he owes you if his
+bones remain intact and he is not sent to prison. Would you like the partial
+pardon to apply to all of your assailants?"
 
-Fera was shocked. "All I do is make fun of you and kick you."
+Sata reluctantly agreed after much prodding from Kaia. After submitting the
+pardon request, Ben said, "The EternalEnlightened are asking if you would be
+open to discussing the compromise of a few additional broken bones."
 
-"When I look at you, I can feel your pain. I am not angry at you for hurting
-me. Actually, it's quite the opposite. I want you to kick me, as long as it
-helps you. Whenever you need a face to kick, I will be happy to offer mine."
+Kaia was adamant. "No more broken bones."
 
-Fera could tell that Raf was being absolutely serious. He looked sad and
-compassionate, but hopeful. Raf smiled at Fera. "Talking with you feels really
-nice. This moment is worth all of the kicks you gave me."
+The response was immediate. Ben explained the result. "The EternalEnlightened
+suspended the prison sentence and reduced the corporeal punishment to the
+injuries that Dun has already sustained." Dun looked up at Kaia and Sata and
+thanked them profusely while clutching his recently broken fingers, then
+slipped back behind the curtain he was hiding behind before.
 
-Fera looked away. She riding a stag through the woods next to a crazy person.
-She decided to change the subject. "How much farther?"
+Ben moved on to the next topic. "As for the mysterious origins of the message
+that Dun received, I have no way of proving my innocence. I can only say that I
+certainly had nothing to gain from planning the ambush."
 
-"We are taking a detour to get help for the Provost. He is going to go into
-withdrawal, if he hasn't already."
+"We think the Rainbow club owner might be involved. He's the one who gave us
+the BugBall uniforms we were wearing."
 
-"Who are we getting help from? More of your animals?"
+Ben rubbed his chin. "Yes, that makes sense. The attack could sway public
+opinion away from the All Grays in favor of the Rainbow club. Allow me to
+investigate. I will let you know if I discover anything."
 
-"This time we need help from the people of this forest. They call
-themselves the Driads."
+Sata objected immediately. "I don't want to stay here and wait. I want to
+investigate too."
 
-"People live in this forest?"
+Ben shook his head. "It will be safer if you stay here. The person who wanted
+to hurt you may be planning another attack."
 
-"They keep their presence hidden from other topsiders. They feel more
-comfortable around Lunkers than city dwellers. Let me do the talking.
-I think I can convince them to help us."
+"They could be planning to attack us here," Sata noted.
 
-"Ok, let me know when we are close."
+"There are armed guards at the entrance and patrolling the area around the
+yurt. Right now, this is the safest place you could be."
 
-"Oh, we are already close."
+"Not if we die of boredom," Sata said.
 
-"What?"
+Ben was ready with a solution. "If you agree to stay, I will pay for any food
+and refreshments you order. You will also be able to control who has permission
+to visit you. Please feel free to order anything you like and invite whoever
+you like. Does that sound acceptable?"
 
-"They have been following us and studying us since we entered the forest."
+Kaia shook her head. "I want to go to Fera's remembrance ceremony."
 
-Fera looked around, but could not see anyone. She was about to ask Raf if he
-was joking, when arrows shot down from the trees above and landed in front of
-them. The stags reared up on their hindlegs. Fera was able to hold on, but the
-Provost tumbled down off of his stag.
+Ben swept his hand to the side. "You will be able to view the ceremony on the
+walls of the yurt. It will be even better than attending in person."
 
-Raf hopped of his stag and raised his arms, showing his palms. "We need your
-help!"
+After Kaia and Sata agreed, Ben and Edl bid them farewell. As Ben and Edl were
+leaving, Sata shouted after them. "You shouldn't have agreed to pay for
+everything. I am going to bleed you dry."
 
-"Raf, maybe you can show them how you can grow roots and photosynthesize?"
+Ben turned around, laughed, and said, "You are most welcome to try," before
+disappearing around the corner.
 
-"You mustn't tell anyone anything!" Raf said forcefully.
+"What should we order first?" Sata asked scrolling through the options on the
+console.
 
-A small elderly woman rappelled down from a tree. "We are Driads. We
-speak for the trees. You are trespassing in our forest."
+"Some food?" Kaia suggested.
 
-"Greetings, I am Raf, and this is Fera. Our companion is sick from exposure to
-narcotics. He may die without your help."
+Sata sorted the menu by price. "OK, the most expensive items are a rotating
+sushi bar, a hibachi grill, a churrascaria with rodízio service, and a deluxe
+seafood buffet."
 
-"Greetings, Raf and Fera. I am Arba. How is it that you know this forest?"
+"That's so expensive!" Kaia exclaimed after looking at the price.
 
-"I do not know this forest, but these stags do."
+Sata selected all three items. "The way I see it, Ben gave us a challenge and I
+don't want to disappoint him. What should we get to drink?"
 
-"How is it that you can command the stags? And the birds that brought you
-here?"
+Kaia shrugged. "You're probably going to order the most expensive things."
 
-"I am a mimic."
+Sata beamed. "You're right. Looks like we can't order any alcohol, so let's
+order a barista coffee station and a fruit smoothie stand. For dessert, let's
+get a gelato bar and a crêpe chef station."
 
-"A mimic? We know of your kind. That means that these stags are mimics
-too and not real animals. It will be no great loss if we kill you and use
-you as fertilizer."
+An image of a twisty straw with googly eyes popped up on the screen and began
+to speak. "Hi, I'm Tipsy. It looks like you are planning an event. Would you
+like help with that?"
 
-"Please, one of my companions is a brave warrior who destroyed the nearby
-city of Katowice."
+"Uh sure," Sata said.
 
-"A warrior you say? We saw the smoke above Katowice from the treetops. Allow
-me to take a look at this warrior," Arba said walking up to the Provost.
+"Great, I've added some items to your order. Once you've approved your order,
+please review the proposed guest list I've put together based on your contacts
+and social profiles."
 
-"He does not appear to be much of a warrior," Arba said, disappointedly poking
-the Provost with her toe.
+Sata approved all of the additional items without looking, but stopped at the
+guest list. "Should we invite Dar?"
 
-"The warrior who destroyed the city is me," Fera huffed.
+"We might be able to figure out if he was behind the attack," Kaia suggested.
 
-"You?" Arba said, turning to face Fera. "A little girl? How did a child
-such as you destroy a whole city?"
+Sata nodded. "Is everyone else on the list OK?"
 
-"It is true, she activated the self-destruct sequence of our school, knowing it
-would cause a chain reaction that would destroy the whole city."
+Kaia hesitated before saying, "Is it alright if we don't invite our parents and
+their friends? We can just send them a message to say that we are doing well."
 
-Fera had not known about the chain reaction, but she decided to pretend that
-she had known.
+"I know what you mean." Sata said and then switched to a gruff, raspy voice as
+she launched into an impression of Kaia's father. "Aren't you girls too old for
+sleepovers? People are going to get the wrong idea."
 
-"Why did you destroy the city?" Arba asked leaning towards Fera.
+Kaia laughed and fired back with an impression of Sata's mother in a sultry,
+husky voice. "When I was your age, I had all the boys eating out of the palm of
+my hand. I'm starting to worry about you two."
 
-"The government oppresses anyone who doesn't have power. I blew up the city as
-part of the revolution that will overthrow the government and usher in a new
-era of freedom and equality."
+Sata pinched her nose to imitate the nasal voice of Kaia's mother. "Girls, it's
+never too soon to start looking for a husband. You can't be sure of your future
+until you have a ring around your finger."
 
-"Your words do not sound hollow. If you promise to respect and protect the
-forest. We will aid you."
+"I can't come up with anything for you dad," Kaia admitted. "He's actually
+pretty cool."
 
-After Raf and Fera promised, other Driads rappelled down from trees.
-Still more, came out of hiding from behind other trees, bringing various items
-and placing them down on the ground in front of Fera and Raf. Fera looked over
-the items. There were leaves covered berries, nut, and insects, gourds filled
-with water, clothes made of animal skins, knives, bows, and quivers of arrows.
+Sata shook her head. "You only think that because the only times you've seen
+him was when he has trying to compensate for never being around. It makes me
+mad that he always gets your name wrong."
 
-"While we tend to your companion, you may eat and rest. We would be honored if
-the city destroyer and her mimic companion could wear our clothing and use our
-weapons on their quest to overthrow the government," Arba said as several
-Driads carried the Provost away on a wooden sled.
+"I actually think that's pretty funny," Kaia said before launching into an
+impression. "Remember, Kira, if you want something in life, don't let anyone
+stop you. You gotta grab life by the horns, Kesa, and carpe all those diems."
 
-Fera eyed the food with suspension. Raf seemed to have no problem with the food
-and ate bugs, nuts, and berries heartily. Fera picked a knife and unsheathed
-it. She was disappointed to see that knives it was entirely made out of wood.
-When she tried the edge of the knife, she was surprised that it was quite
-sharp.
+"OK, it's agreed that we won't invite our parents. That leaves Dar, Ben, Edl,
+Iona, Ursa, Zek, Zok, Lan, Arla, and Taz."
 
-"The knives and arrows are lignum vitae wood. They cannot break steel, but they
-can cut flesh," Arba explained.
+"Sounds good to me."
 
-Fera put the shoes that the Driads brought her. The shoes, moccasins
-made out of animal skin, were very comfortable. She went behind a tree to
-change into the rest of the clothes. When she came back Raf had already
-changed.
+Kaia and Sata recorded a quick message and sent it to their parents, then
+decided to go sit in the waiting area near the entrance while they waited for
+the food and refreshments to arrive. They were not able to sit for long before
+people started to arrive and ask them where to set up all of the things that
+they had ordered. When Iona, Ursa, and Zek arrived, there was no more space in
+the waiting area and a line of delivery people stretched outside the infirmary
+yurt.
 
-"Not the modest type I see. You might even be an exhibitionist. Do you get off
-on showing everyone your dangling parts?"
+"We're so glad to see you're alright!" Ursa said running up to hug them. "We
+tried to come visit you earlier, but the soldiers wouldn't let us inside."
 
-Raf was silent.
+"What is all this?" Iona after hugging Kaia and Sata.
 
-"You're probably excited that you can finally undress in front of someone other
-than your sister."
+"We wanted to have a little 'Get Well Soon' party for ourselves, but I think we
+ordered too much."
 
-"Why do mimic men like to undress in front of others?" Arba asked,
-sitting down in front of Fera and Raf.
+"Let me handle this." Iona said as her eyes lit up at the prospect of taking
+control. "All the seats need to go outside right now... I don't care what your
+job is supposed to be. Move those seats now or zero stars for all of you!"
 
-Raf blushed and Fera laughed. "It may not be all mimic men, but this one
-certainly does."
+Before long, Iona had the waiting area organized into a combination of a fancy
+fusion restaurant and a street food roadshow. Kaia and Sata chatted with Ursa
+and Zek while eating sushi, crepes, crab legs, lobster tails, smoothies, and
+gelato.
 
-Arba furrowed her brow in thought. "We only know of mimics from our
-legends."
+"It's amazing that all of this is grown in space," Sata remarked.
 
-"What do your legends say, Arba?" Fera asked, sitting down as Arba had done.
+Kaia was most impressed with the seafood. "Now that I know that fish and
+crustaceans are so delicious, I can understand why fishing is illegal. If we
+could just pull such tasty food straight out of the water ourselves, I'm sure
+they'd all be extinct before long."
 
-"That mimics can look and act just like humans, but some mimics look and act
-like animals, and that mimics can communicate with each other without
-speaking."
+Iona returned to gave a status report. "I was able to organize all of the
+things that you ordered. I had to split the remaining items between a larger
+yurt I connected to this one and the surrounding area. Would you like to take a
+look?"
 
-Fera raised her eyebrows at Raf. "That's how you controlled the birds and
-stags, with telepathy?"
+After disconnecting Kaia and Sata from their intravenous pumps, Iona led Kaia,
+Sata, Ursa, and Zek to the adjacent yurt. Kaia and Sata felt like they were
+stepping into a different world. Aerial silk and trapeze artists performed
+above. Robotic elephants, tigers, lions, and bears roamed in between tables
+replete with food and drink. BaboonButlers stood ready with plates of hors
+d'oeuvres. A roller coaster snaked along the walls of the yurt.
 
-Raf nodded.
+"Did we really order all of this?"
 
-Fera turned back to Arba. "Other than the animal mind control,
-what else makes mimics different?"
+"Yes, your order included several deluxe circus and carnival packages. I was
+able to fit the smallest roller coaster inside, but I had to put the larger
+roller coasters and the Ferris wheels outside.
 
-"Mimics grow until maturity and then age no more. They can live and bear offspring
-forever, but mimics reproduce differently from us. For example, we know that a
-mimic man cannot get a human woman pregnant, but can himself become pregnant,
-even without intercourse."
+Kaia was honestly blown away by what Iona had been able to do in such a short
+time. "It's OK, Iona, you did a great job."
 
-Fera's eyes lit up at the prospect of new ways to tease Raf. "So the downside
-is that you are shooting blanks, but the upside is that you are capable of
-immaculate conception?"
+"Better than great. We could fit the entire refugee camp in here," Sata added.
 
-Raf nodded again. Fera was eager to learn more. "What about mimic women?"
+Iona nodded. "Yes, wasn't that what you had in mind when you set up the guest
+list?"
 
-"Mimic women can be pregnant without intercourse as well," Arba explained.
+Sata shook her head. "No, we thought it was just going to be the performance
+and maker interest groups."
 
-"And that's it?" Fera asked, a bit disappointed.
+"You added the ten people to the VIP list and kept everyone else in the camp on
+the regular guest list," Iona explained.
 
-"Mimic women are harder to identify than mimic men," Arba explained.
+Sata scratched her head and smiled. "That user interface wasn't very intuitive
+and I think I was a little too quick to trust Tipsy."
 
-"Are there no other ways to tell who is a mimic?" Fera asked.
+While Kaia, Sata, Ursa, and Zek went for a ride on the roller-coaster, Iona
+went to double check the organization of Kaia and Sata's order. From the
+vantage point of the roller coaster car, they could see the yurt filling with
+people. After the ride was over, Sata and Ursa raved about the adrenaline
+rush. Zek admitted that he was never a fan of roller coasters. Kaia thought she
+might have like the experience more if she had not tried it for the first time
+with a full stomach.
 
-"If a mimic is starved, they can survive by becoming like plants," Arba said.
+When Ursa and Sata asked to go another ride, Kaia and Zek decided to stay on
+the ground. Zek took advantage of the opportunity to chat with Kaia. "We were
+all really worried about you, but it appears that you bounced back very
+quickly."
 
-Fera looked at Raf in amazement. "You weren't kidding when you said you could
-photosynthesize!"
+Kaia looked at the bruises on her arms. "I don't really understand it. Is fast
+healing an ability that Echos have?"
 
-"Yes, but you mustn't tell anyone anything! I believe the Driad mean us
-no harm, but other topsiders might want to capture and study mimics."
+Zek shook his head. "No, Echos heal at the same speed as everyone else. In
+addition to your inexplicably fast recovery, I am also curious why you seem to
+be completely cut off from your Echo abilities."
 
-"Where do mimics come from?" Fera asked.
+Kaia shrugged. "I don't know. Maybe letting loose during the attack cured me
+somehow?"
 
-"The stars," Arba said.
+Zek opened his eyes very wide. "You used your abilities to protect yourself?"
 
-"You're an alien?" Fera asked.
+Kaia suppressed a shudder. "Yes, but don't get too excited. It was terrible. I
+almost killed all of those boys. I never want to do that again."
 
-Raf nodded.
+Zek lowered his head in defeat. "I understand. I won't try to convince
+you. Especially since I have no idea what is going on. It shouldn't be possible
+for you to simply decide to no longer be an Echo."
 
-"Are you here to invade Earth?" Fera asked.
+"I would absolutely quit being an Echo if I could," Kaia admitted.
 
-"I don't know. We came to Earth as messages from distant worlds. Humans decoded
-the messages and built the first mimics according to the encoded instructions.
-Since then we have been learning to peacefully co-exist with humans."
+_Zek seems to be taking it pretty well. I thought he was obsessed with training
+me to use my Echo powers._ Kaia thought while watching Sata and Ursa ride the
+roller coaster.
 
-"Why do your people live in the forest?"
+"Greetings, Kaia and Zek!" Ben said. "Edl and I decided to personally escort
+your parents to you, Kaia." Kaia was not to all that happy with the surprise
+visit from her parents, but suppressed the urge to run and even managed to
+smile.
 
-"It is the same reason why Lunkers hid below the ground and Subaks hid beneath
-the waves. A long time, there was a great war fought with terrible weapons.
-Light beams would come down from the sky to burn those who walked in the open.
-Our Ancestors survived by hiding in the forest."
+Kaia's mother rushed up to her daughter. "Kaia, it's so nice to see you
+surrounded by handsome boys, but didn't you have anything else to wear?"
 
-"It's safe to be out in the open now."
+Kaia suddenly became very conscious that she was wearing a patient gown in a
+carnival setting. In contrast to her daughter, Kaia's mother always looked very
+elegant. She was wearing a black skirt and a red sweater over a white button-up
+shirt with the sleeves rolled up. Her long, dark hair was up in a tight bun.
 
-"We know. We believe that the light beams were sent from the heavens to show us
-that living among the trees is the best way for our people."
+"So, which one of these strapping young lads is the lucky man?" asked Kaia's
+father. Kaia's father looked very serious in a blue dress shirt and slacks. He
+had a bushy, dark moustache and close-cropped hair.
 
-"How is that we speak the same language and you seem to know everything about
-us?"
+Kaia was embarrassed to see that both of her parents had the top three buttons
+of their shirt undone, revealing her mother's ample cleavage and her father's
+bountiful salt-and-pepper chest hair. Kaia began to look around for places to
+hide, but Zek answered without missing a beat. "I do not believe anyone has
+been declared the victor. We are all still vying for your daughter's
+affection." Then, bowing deeply, Zek added, "My name is Zekianrov Lazarus."
 
-"The young of our people go through a rite of passage by living in a city. By
-going through the rite, our young can learn about city life and why living
-among the trees is better. I went through the rite many years ago. I am glad
-that you destroyed the city."
+"I am Vasdefren Argolys, and my wife is Kelaailaiala Erkadia," Kaia's father
+rasped. "So what makes you think you are good enough for our daughter? The big
+one is an athlete and the small one is an inventor. What do you do?"
 
-"But what about the rite of passage? Can your young go to Kraków instead of
-Katowice?"
+"I am a writer," Zek said proudly.
 
-Arba shook her head. "Anyone who enters Kraków does not return."
+Kela and Vas cringed. Vas thought of a potential redeeming quality. "Are you at
+least rich like the other two?"
 
-"The World Heritage Site robots kill anyone inside the city," Raf explained.
+"Unfortunately, I am not, but I am quite successful as a writer and
+performer. I would like to invite you to two of my upcoming performances, so
+that you can see for yourselves."
 
-"Is there another city nearby?
+Kela leaned towards Kaia, but did not bother whispering. "Focus on the other
+two. There's no point in chasing after a starving artist."
 
-"None like Katowice. On the other side of Kraków, there is a city of yurts.
-The airships from Katowice are heading there."
+Zek smiled politely, but it was clear he had heard what Kela said. Kaia was
+very relieved when Sata and Ursa got off the roller coaster and joined them.
 
-"Do you want to go there instead of the Lunker city?" Raf asked. Fera shrugged.
-She was not sure if she was a fugitive. It might be smarter to go to the
-Lunker city until she found out for sure.
+Seeing Sata, Kela was very suspicious. "Why are you and Sata wearing matching
+outfits? Is this some kind of hideous new fashion?"
 
-"Your companion is very sick. It may be many
-days before he is well enough to travel. In the meantime, we can teach you out
-ways," Arba offered.
+Ben looked very nervous. "If you recall, I did explain that Kaia and Sata were
+attacked and seriously injured."
 
-"I would like to learn to hunt," Fera admitted.
+Kela crossed her arms. "You also said that they made a miraculous recovery, but
+you didn't say anything about taking us to a carnival."
 
-"We do not hunt."
+"I am as surprised as you are regarding the carnival," Ben said before looking
+at Kaia and Sata.
 
-"If you don't hunt, where do you get the animal skins for your clothes?"
+"You said that we could order whatever we wanted!" Sata protested.
 
-"We look for dead animals in the forest and skin them."
+Ben raised his palms up and said, "Yes and I meant it."
 
-Fera looked her clothes and was tempted to smell them. "Do you ever hunt
-animals? For meat?"
+"Are you the one bankrolling all of this?" Kela asked, smiling warmly at Ben.
 
-"No, we do not hunt. We get more than enough food from the forest."
+When Ben nodded, Kela's smile disappeared and she said, "So you can afford a
+carnival, but do not have enough money to get decent clothes for the girls."
 
-"Do you fish?"
+Ben realized he had walked into a trap. "Kaia and Sata, please order a change
+of clothes for yourselves."
 
-"How is hunting fish different from hunting other animals? Do you not like our
-food? Your stags seem to be enjoying it."
+"With proper shoes and stockings." Kela added. "Young ladies cannot be walking
+around in socks."
 
-Fera looked at the food in front of her. Some of the bugs were crawling off of
-the leaves and onto the grass. She quickly ate some nuts and berries, carefully
-avoiding the bugs and crunching loudly while complimenting how delicious the
-food tasted.
+"Yes, please feel free to include whatever you need in each of the two sets of
+clothes." Ben decided to make an expeditious exit before being forced to agree
+to any further requests. "There are urgent matters to which I must attend.
+Please enjoy the carnival in my absence."
 
-"Well, we do not want to delay our quest to overthrow the government, so
-perhaps we can leave our sick companion with you until he gets better."
+After Ben and Edl left, Kaia's parents seemed to lose interest in everyone
+else.
 
-"Yes, of course, you may leave him, but you should not travel at night. Stay
-one night. You may leave at first light."
+"Have you had anything to eat since you arrived?" Zek asked.
 
-Fera nodded. Riding a stag through a dark forest did not seem like a great
-idea. The Driads laid down pieces of moss-covered bark onto the ground.
-Arba got up and gestured towards the bark. "You may sleep here. We will return
-at sunrise to bid you farewell on your quest. Good night."
+"No, but surely you aren't going to suggest we eat this dreadful carnival
+food," Kela said disapprovingly.
 
-Fera walked up to the spot Arba had indicated. "What do you think, Raf? Will it
-be as comfortable as your secret bed?"
+"Kaia, would it be alright if I showed your parents the VIP food options while
+you enjoy the carnival with Sata and Ursa?" Zek asked.
 
-Raf sat down on the bark bed opposite Fera. Fera pulled out a wooden knife.
-"Just don't try anything, I'm not your sister."
-Raf curled up into ball facing away from Fera. Fera tried to smooth things over.
-"At least I don't have to worry about you getting me pregnant, right?"
+Kaia felt very grateful to Zek and nodded meekly. After Zek led Kela and Vas to
+the infirmary yurt, Kaia let out a sigh of relief.
 
-"Yes, mimics cannot get humans pregnant."
+Sata immediately launched into an impression of Kela. "Kaia, darling, that
+patient gown is positively repulsive."
 
-"But you can become pregnant? At any moment? Is it random?"
+"You missed the part where they were giving me advice on which of the boys I
+should pursue."
 
-"No, it is not random. I would have to develop a deep emotional connection with
-someone for a long period of time."
+"What did they advise?" Ursa asked.
 
-"You get pregnant from emotions?! Am I getting you pregnant right now just by
-talking with you?" Fera said excitedly.
+"Rich athletes and inventors are good husband material, but poor writers are
+not," Kaia summarized. "I wish my parents wouldn't criticize everything and
+everyone."
 
-Raf looked back at Fera, his eyes filled with tears. "I would be the luckiest
-mimic on Earth if I could bear children for you. I feel like I could be with
-you forever and it wouldn't be enough."
+"Do you think ordering clothes and trying some of this dreadful carnival food
+might take your mind of your parents?"
 
-Fera was stunned, but then broke out laughing. "Did you just propose to me?"
+"That sounds nice," Kaia agreed.
 
-"Mimics do not view marriage the same was as humans. You do not need to
-dedicate yourself to me. I would only ask that you allow me to dedicate myself
-to you and be near you always."
+After finding a console and ordering clothes, the girls went to a nearby fried
+dough stand. Kaia was impressed with the many different forms fried dough could
+take: Balls, bow-ties, braids, discs, pillows, pretzels, ribbons, rings, rods,
+rosettes, tubes, and twists, among others. Each shape was fried separately and
+then mixed together in a paper bowl that soaked up some of the excess oil. The
+diversity of available toppings was even more impressive than the assortment of
+fried dough shapes. Kaia kept adding cinnamon sugar, whipped cream, chocolate
+syrup, and assorted fruits until it was impossible to see any fried dough in
+her bowl. Topping it all with a mountain of powdered sugar, Kaia went a little
+overboard and sneezed after inhaling sucrose aerosols.
 
-"So you would just follow me around popping out kids forever?"
+"Your sneeze is so cute. It's like a mouse squeak," Ursa said with a warm
+smile.
 
-"Yes, but each the pregnancy takes nine months and is risky. Mimics can live
-indefinitely, but many die from complications during pregnancy or during
-childbirth."
+Kaia stabbed blindly into her bowl with her fork and retrieved a random piece
+of fried dough and the toppings that happened to be stuck to it.
 
-"Are you pregnant right now?"
+"It's so good," Kaia said with her mouth full.
 
-"No, but my body is already preparing for pregnancy. The process is not
-automatic, because a pregnant mimic can die from sorrow if they are separated
-from their loved one for too long."
+"Slow down there, champ, you got whipped cream on your nose," Sata said
+pointing at Kaia's nose.
 
-"So if you get pregnant and I ditch you, you could die."
+"Where?" Kaia asked after swallowing and searching her nose in vain.
 
-"Yes, but first I would need to be convinced that there might be a chance for
-you to allow me to stay near you."
+Sata smeared whipped cream on Kaia's nose and said, "Right here!"
 
-"When you have a baby? Is it just a clone of you?"
+Ursa laughed and asked, "How long were you waiting with whipped cream on your
+finger just to do that?"
 
-"No, mimic bodies collect the genetic material of our loved ones and mix the
-collected genetic material with our own to create a viable offspring. Unlike in
-human reproduction, the genetic material itself is insufficient to create a
-viable offspring. The offspring are engineered based on the information
-collected during interactions with loved ones."
+"Every second was worth it!" Sata proclaimed triumphantly.
 
-"Wow, I am not sure how you did it, but you succeeded in making sexual
-reproduction sound really boring."
+Kaia smiled and reached for a napkin, but Sata stopped her.
 
-"Sex is not required for mimic reproduction."
+"Let me help," Sata said before licking the whipped cream off Kaia's nose.
 
-Fera thought for a while. "Will you let me know before you get pregnant?"
+Kaia laughed and exclaimed, "Gross!"
 
-"Of course, I would never do it without your consent."
+Sata passed Kaia a napkin. "You have to admit that you are feeling better
+though, right?"
 
-Satisfied with Raf's answers, Fera laid down on the bark bed next to him.
-Looking up at the stars through the trees, Fera thought for a long time about
-her next question. "When you lived with the Lunkers, did they know you were a
-mimic?"
+Kaia took the napkin and wiped her nose. "You're right, I do feel better."
 
-"No, my mother choose not to tell anyone that she was a mimic. She told Arla
-and me to keep it a secret. My father never knew."
+"You two are so perfect together. I'm jealous," Ursa said.
 
-"Did your parents die in the gas attack?"
+"Why are you jealous, aren't you with Zok?" Sata asked.
 
-"Yes. You are lucky to still have your parents."
+"He's more interested in Lan than in me," Ursa explained.
 
-"I miss my mom. I hope she got out of the city in time, but I wouldn't be upset
-if my dad died in the explosion."
+Sata put her hand Ursa's shoulder and asked, "Maybe we can find Iona and have
+'girls night out'?"
 
-"I am sorry that he hurt you," Raf said quietly. Fera was angry that Raf
-brought it up, but she felt a lot less anger than she expected. She considered
-stabbing Raf with her wooden knife, but decided against it. Instead, Fera kept
-her mind busy by counting all the ways she could torture and brutally kill Raf
-the next day. Fera fell asleep with violence on her mind. She dreamed of
-stringing up those who had wronged her, slicing them open with her wooden
-knives, and dancing beneath the shower of their blood.
+"Yeah, that sounds good. Let's send Iona a message to meet us over there." Ursa
+said before pointing at tower of pulsing lights with a large sign showing "FF"
+at the top. "It's easily visible from anywhere in the yurt."
 
-Fera awoke shivering. It was still dark and the moisture from the moss beneath
-her had permeated through her animal skin clothes. She had never felt so cold
-in her life. She noticed that Raf was sleeping soundly without shivering at
-all. Fera shifted towards Raf hoping to warm up a little.
+"What does FF stand for?" Sata asked on the way to the tower.
 
-"Are you cold?" Raf asked.
+Ursa shrugged. "It's usually Iona who explains these things."
 
-"Yes, aren't you?"
+"It's like the numbering in the locker room," Kaia observed. "The numbers start
+at zero and then turn into letters when the numbers run out."
 
-"Mimics do not need as much heat as humans. If you like, I can warm you up."
+"10 numbers and 6 letters, so 16 total." Sata counted.
 
-"Fine, but don't get any funny ideas or I'll carve you open and sleep inside
-your entrails for warmth."
+"There are 2 digits, so it's 16 squared. 16 times 10 is 160 and 16 times 6 is
+96. 160 plus 96 is 256," Kaia calculated.
 
-Raf put his arms around Fera. He started to vibrate and emanate a surprising
-amount of heat. "How are you doing that?" Fera asked.
+"How do you fit such a big brain in such a tiny, cute head?" Sata marveled.
 
-"Producing heat? The same way you do, by contracting my muscles and releasing
-energy stored in glycogen. I have a lot of energy saved from being out in the
-sun and from the food the Driads gave us. You should have eaten
-more. Would you like me to bring you some of the food now?"
+"This is a test of strength, not brains." Ursa said after reading the
+instructions on the console attached to the tower. "This game is called Full
+Force. We take the mallet and use it to hit the lever as hard as we can. The
+lever sends the puck upwards and if the puck hits the bell at the top, we can
+pick a prize."
 
-"Just shut up and be warm," Fera turning around and pressing her back against
-Raf. His body conformed around her and Fera soon stopped shivering. She felt
-safe. She was glad to be alive. Raf had saved her. Fera would never admit it,
-but she felt grateful.
+"There's pink unicorn pegasus cat plush toy!" Sata exclaimed pointing at one of
+the available prizes. "And it comes with a rainbow puke scarf that you can
+attach to its mouth! I've never wanted anything more in my entire life!"
 
-This time when Fera went to sleep she was thinking happy thoughts. She dreamed
-she was holding a child in her arms. The child looked up at her. Fera
-recognized herself in the child's face. Raf had given Fera the gift of life a
-second time. Surrounded by warmth and love, Fera began to cry tears of joy.
+"Then, I'll get it for you," Ursa said heroically. Lifting the mallet above her
+head, Ursa brought it down on the lever with tremendous whack. The puck went up
+to CE.
 
-When Fera woke up in morning, her child was gone. Fera looked around in a
-panic, but then she remembered that she did not have a child. Her stirring woke
-up Raf. "Fera are you alright?"
+Kaia was really impressed. "Wow, Ursa! You got it most of the way to the top!"
 
-"Yes, I'm fine. Even though I couldn't sleep much with you poking at me all
-night."
+"That was just a warm-up." Ursa took many large steps back and ran towards the
+tower with the mallet in hand. Then, instead of striking the lever like she did
+before, Ursa ran up the tower, turned around, and pushed off the tower to
+launch herself headfirst toward the lever. In the last second, Ursa brought the
+mallet down on the lever with such force that the impact overcame her downward
+momentum and she flew back up in the air. After striking a cute, confident pose
+upside down in midair, Ursa somersaulted expertly to the ground and then bowed
+as if finishing a performance. "You can pick your prize, Sata," Ursa proclaimed
+triumphantly.
 
-Raf blushed and moved away. "That's a normal reaction that human males have. To
-become better adapted to living among humans, mimic males have evolved to
-exhibit the same response."
+Kaia and Sata were so impressed with the maneuver that they did not notice that
+the puck had hit the bell at the top of the tower. Every light on the tower
+began to flash rapidly. Horns and sirens went off. The "Full Force" logo began
+to dance rapidly on the console screen. Sata squealed with delighted, hop up
+and down, and then hugged Ursa to thank her. The one-horned, winged cat was
+much larger than anyone had expected. "I'm going to name her Kata," Sata
+decided.
 
-Fera laughed. She enjoyed tormenting Raf and he made it so easy for her. Fera
-stood up fastened a belt with two sheathed knives to her waist and slung a
-quiver of wooden arrows, a bow, and a water gourd over her shoulder.
+"That's like a mix of both your names! I'm overdosing from the cuteness!" Ursa
+exclaimed.
 
-"Come on, lover boy, you promised you would show me around the Lunker capital."
+Sata squeezed her prize with all her strength. Upon being squeezed, the cat
+opened her mouth slightly revealing the rainbow scarf, which was rolled up and
+fastened to the floor of the unicorn cat's mouth with 3 buttons. Sata unrolled
+the scarf and wrapped around herself and Kaia. "Now you won't be able to wander
+off," Sata said while grinning from ear to ear.
 
-Raf stood up, but then turned away from Fera. Fera laughed again. "You're such
-a prude! You said it was normal. As natural as rainbows! There's no need to
-hide it!"
+Kaia immediately knew what Sata had in mind. "It's a scarf, not a leash."
 
-Raf grabbed two water gourds and a quiver of arrows, then mounted his stag in
-hurry. Fera threw a bow towards Raf. "You forgot this. The arrows won't be much good
-without it."
+"Are you disappointed?" Sata shifted the unicorn cat to one side and used her
+free hand to bop Kaia on the nose. "I know you are into that kind of thing."
 
-The Driads had begun to gather around. Fera saw Arba and waved to her.
+Ursa put her hands on her cheeks. "You two are too sweet! You're going to give
+me hyperglycemia!"
 
-"Farewell city destroyer. We will tend to your companion. If you ever need
-assistance, come to this forest. We will teach our children to sing songs of
-your bravery, glory, and honor."
+Alternating between holding the Kata and swinging the mallet, Kaia and Sata
+tried to match Ursa's high score. Sata rolled the rainbow scarf back up into
+Kata's mouth, because she and Kaia had both quickly worked up a sweat from
+swinging the mallet. Kaia did not feel safe swinging the mallet above her head
+and never got a higher score than 1B. Sata swung the mallet with confidence and
+fared much better. Her best result was AC.
 
-Fera bowed to Arba, ran up to her stag, swung up by its antlers onto its back. This
-time the motion was much more fluid and Fera noted the impression it made on
-the Driads.
+By the time Iona joined them at the tower, Kaia felt like her arms were about
+to fall off.
 
-Once they were out of earshot, Fera looked at Raf, "Is the Provost going to
-be ok with them?".
+Iona was carrying four large packages. "I ordered formal clothes for the
+remembrance ceremony for us. They might not be appropriate for the 'girls night
+out' you mentioned in your message, but you might prefer them over the patient
+gowns you are currently wearing."
 
-"Yes, he will have the best care possible. Fresh air, clean water, natural
-food, and most importantly no BuzzBees."
+The girls opened up one of the packages and inspected the long black gown
+inside. The gown had a large ribbon tied in a bow around the waist and a lace
+collar that transitioned into open heart-shaped neckline
+^[décolletage]. Included in the package were heels, a lace veil, a purse,
+gloves, stockings, and hair clips decorated with ribbon bows.
 
-I was not long before they arrived at a cave. Fera was upset to see that the
-cave was not from the Kosciuszko mound. "We were right next to it when we landed!"
+"You got four sets like this one?! It must have cost a fortune!" Kaia
+exclaimed.
 
-"Yes, but we have to help the Provost first," Raf said as he dismounted and
-walked towards the cave.
+"I charged it all to one of the performance club accounts," Iona said, "Our
+marketing budget includes expenses for appearances at widely attended
+gatherings."
 
-"I'm not going to be able to see in there, am I?"
+On the way back to infirmary yurt, Kaia, Sata, and Ursa told Iona about what
+had happened while she was away. In return, Iona brought everyone up to speed
+on the situation outside.
 
-"I'll gather enough bioluminescent algae for you to see. When we get to the
-city, there will be electric lights. We can ask around. Maybe we can find out
-where the airships were headed."
+"Things have calmed down now, but it was complete pandemonium out there
+earlier. People were carrying off containers of food to hide for later. The
+food and drink stands ran out of food a few times. Fights broke out and several
+people almost got trampled. I think it's so nice of you to provide free food
+for the entire refugee camp, but additional planning would have been
+beneficial. I had my hands full making sure no one was seriously injured."
 
-Fera follow Raf into the cave and watched him scrap algae off the walls. He
-triumphantly showed her the handful of algae he had collected. Fera could see
-Raf's hand and his glowing eyes, but not much else. Raf held out the algae with
-one hand and pulled Fera forward with the other. Fera had no idea where they
-were going. Even after her eyes adjusted to darkness, she could only see Raf's
-outline illuminated by the algae in his hand.
+Sata grimaced nervously and muttered under breath, "Damn you, Tipsy!"
 
-Fera breathed a sigh of relief when they entered a tunnel with electric lights.
-As they approached the entrance to the city, a young Lunker run up to them.
-"Congratulations, you've won a free, all-expenses-paid trip to Wieliczka salt
-mine, including a free boat ride on Lake Wessel, for two people!
+"I'm glad I'm not out there," Kaia admitted, "I don't like crowds."
 
-"Excuse us, we need to discuss." Fera said, drawing Raf into a huddle.
+"It's good that there are going to be just a few people where we're going,"
+Sata said and grinned, "but two of those people are your parents."
 
-"Don't you think it is suspicious that it's a free tip and boat ride
-specifically for two people? There are exactly two of us. It seems a little on
-the nose."
+Kaia frowned. "I don't want them to criticize us again. Maybe we can sneak past
+them, hide Kata, and change clothes?"
 
-"We shouldn't look a gift horse in the mouth," Raf said. "That lake is an
-important part of the cultural heritage of Lunkers. I have always wanted to see
-it," Raf said.
+Sata was ready with an impression of Vas. "Aren't you girls too old to be
+playing with dolls?"
 
-"It's a trap and I am going to say no and if you try to stop me I'll stab you."
+"Don't worry I'm great at sneaking into places undetected. After all, I was a
+spy," Ursa said.
 
-"Please Fera, let me talk to him, Lunker to Lunker. If it is a trap, I will
-find out."
+"OK, I will distract Kaia's parents, while you three go and change," Iona
+volunteered.
 
-"Ok, go ahead, you have one minute."
+It turned out that the distraction was not necessary. Iona sat down quietly
+next to Zek at the sushi bar, where Kela and Vas were chatting with Sata's
+parents while imbibing copious amounts of sake. Running out of interesting
+material for conversation, Zek had prompted Kela and Vas to invite Sata's
+parents to join them for sushi, sake, and steak in the infirmary yurt. Both
+pairs of parents were now quite drunk and completely engrossed in their
+conversation.
 
-Raf walked up to his fellow Lunker with a smile and started to talk with him in
-a quiet, friendly voice.
+While Ursa stood guard, Sata and Kaia went behind the cubicle curtains
+surrounding their infirmary beds to change. The girls emerged moments later
+still wearing their patient gowns.
 
-"What's your name?"
+"The clothes we ordered using Ben's account are here," Sata explained.
 
-"Nil."
+"Should we change into normal or formal clothes?" Kaia asked.
 
-"Greetings Nil! I am Raf and this is Fera." The conversation seemed to be going
-well until a rock hit the Lunker in the side of the head with such force that
-he crumpled to the floor. Fera pounced on Lunker's chest with a rock in each
-hand and started to make a few improvements to his face.
+Ursa thought for a second before responding. "If you want to talk to your
+parents, then change into normal clothes. If you don't, we can slip by wearing
+the formal clothes and go wait for the remembrance ceremony to start."
 
-Raf looked on in horror. He wanted to stop Fera, but both felt that it was
-better that Fera stayed focused on Nil rather than on him. Once Fera was
-satisfied with the facial remodeling, leaned in close to the Nil's face and
-said "Who sent you?", in the lowest voice she could. Unfortunately, Nil was
-very unconscious and unable to answer her question.
-
-"Lunkers are useless. Let's get out of here."
-
-Raf quickly followed Fera, afraid that if he did not, then he might be next.
-Before long, another Lunker approached them, as before.
-
-"Congratulations, you've won a free, all-expenses-paid trip to the Wieliczka
-salt mine and a free boat ride on Lake Wessel for any number of people!"
-
-Fera laughed, thinking it was a joke, then realized that the Lunker was
-absolutely serious, and picked up a fresh pair of rocks.
-
-"Who sent you?" Fera asked, raising one of the rocks.
-
-"Please don't hurt me. I'll tell you everything."
-
-"Why don't you start with your name," Raf said trying to diffuse the situation.
-
-"Oil."
-
-"Your name is Oil?" Fera asked.
-
-"My parents are trying to break the world record for most number of children
-produced by a monogamous couple. They thought it would get confusing with so
-many children so they created a system. The first letter of the first name of
-each subsequent child is next letter of the alphabet."
-
-Fera thought for a little while.
-
-"You have 14 older siblings?"
-
-"Actually, my parents don't keep track of our ages, so I am not sure what the
-temporal order might be. All I know is that I am their 15th son and my sister
-Nila is their 15th daughter."
-
-"Nila was my mother's name!" Raf shouted.
-
-Fera remembered that Kaia's waipo's name (mother's mother's name) was Aila.
-Perhaps Lunkers were not that different from topsiders?
-
-"Do you have an older brother named Nil by any chance?"
-
-"Yes, of course I do! He was very excited this morning, because he got a big
-job that he said would pay a lot of money. He said we would never go hungry
-again! Then, I got this job, which also has a big payout. And all I have to do
-is to take you to the lake and get you on the boat!"
-
-...
-""
-
-"What happened to Nil?"
-
-"He fell on his face. Repeatedly. So clumsy. He really should learn to be more
-careful." Fera saw the two bloody rocks she had dropped earlier and hastily
-kicked them away.
-
-When Nil regained consciousness, he saw Fera and shrunk back in fear.
-
-"Wakey, Wakey, Nil. After you fell down on your face repeatedly, we went to go
-get help and ran into your brother Oil."
-
-"I fell on my face?" Nil asked, surprised.
-
-"Yes.", Fera emphasized, "Repeatedly. You're quite clumsy. You should really
-learn to be more careful."
-
-"Nil has never fallen down before..."
-
-"Well, there's a first time for everything. We'll let you take us to your
-stupid lake, but if you slow us down, we're going to leave you behind and go
-ourselves."
-
-Nil was on his feet in a flash. "No, if you go yourselves, we will not get
-paid."
-
-"Well, then you better not slow us down."
-
-...
-
-"Why is this place called Wieliczka?"
-
-"This mine has been called many things over the years. Magnus Sal, from ancient Latin, and Gross Salce, from ancient German.
-
-"Magnus Sal? Meaning great salt?"
-
-"Yes, the translation of Magnus Sal into Ancient Polish, Wielka Sól, is the supposed origin of the name Wieliczka.
-
-"These tunnels were carved by ancient miners."
-
-"What were they mining?"
-
-"Salt."
-
-"What?! They couldn't desalinate sea water?"
-
-"I guess not. The mine was a huge source of wealth. Salt was the main method to
-keep food from spoiling."
-
-"They did not have refrigerators? Or synthesizers to make their food?"
-
-"I guess not. My understanding is that they had no electronics at all."
-
-"How did they survive?"
-
-
-"This is the part of the tunnel where the salt concentration is the highest.
-You can taste the salt by licking any of the walls, but this part of the tunnel
-is extra salty."
-
-Raf leaned in towards the wall, sticking out his tongue.
-
-"Raf, what are you doing?!"
-
-"Tasting the salt." he said sheepishly.
-
-"Do you know how many people have licked these walls before you?"
-
-"No one knows for sure, but millions of people visit the salt mine every year
-and the Licking Ring is very popular, because of its purported health benefits."
-
-"This whole tunnel is filled with germs."
-
-"Actually, the only microorganisms that can survive on the walls are halophilic
-bacteria. The halophiles are one possible explanation for the health benefits
-that many visitors report."
-
-"No one is licking the walls." Fera said definitely. "Let's keep moving."
-
-Nil describes the carvings in the walls and 
-
-difficult to remember " They travel by underground train.
-hyperloop. vacuum tunnel.
-
-Raf wants to impress her with Lunker technology and culture.
-He offers to take her to an archaeology dig.
-
-The door to the ancient structure opens when Fera approaches.
-
-The AI inside greets Fera and explains that it observed Fera in the school and
-was very impressed.
-
-Even though Fera replaced all of the footage of her with deep fakes, the AI saved
-copies before they were replaced.
-
-The Lunkers lost the ancient war between Dextrae and Sinistrae.
-The Sinistrae retreated to the hidden capsules.
-The AI is based on a system called UNO, while other AIs are based on DOS.
-The AI has been sabotaging DOS systems since the war ended for fun.
-No one has noticed because DOS systems are innately terrible.
-
-The AI offers Fera a choice to become the figurehead of the next revolution or
-continue in her current state.
-
-The drawback is that outside technology would cease to work for her, but
-anything inside the capsule would work for her. Also, Dextrae AIs would try to
-kill her so she needed to stay underground until they could destroy the satellites.
-
-She notices that it makes Raf sick, but does not affect the Provost.
-
-Fera accepts and begins organizing the revolution.
-
-The Provost becomes her administrative assistant. Raf helps out by spreading
-the word to all Lunkers. He cannot help inside the capsule because he has to stay
-outside the capsule because it makes him sick.
-
-The chapter ends with Fera, Naksos (Yrl), and Raf sleeping on the train on their way
-to the refugee camp.
+Kaia and Sata exchanged guilty looks. They would have preferred to avoid
+talking with their parents, but felt bad about sneaking past them again without
+at least saying 'hi'.
 
 ...
 
-Fera and Raf go to the Driads to ask for help with Yrl. They spend the
-night. Fera feels very cold. The Driad do not use fire. She did not eat
-much of the food and now is hungry. Raf hugs her to keep her warm. Fera
-complains but secretly enjoys physical contact with Raf. They arrive at the
-Lunker city. They meet Nil and Oil. Fera thinks the boat ride is a trap, but
-decides to go anyway. Nil and Oil act as tour guides. Fera enjoys the boat ride
-with Raf, even though she does not want to admit it. The boat is pulled between
-the two sides of the lake by a rope. The water level drops until the boat is on
-the bottom of a ravine. A door opens. The air that rushes out seems to make Raf
-sick. His body abandons preparation for pregnancy causing him to bleed from his
-crotch. His skin turned pitch black, his feet sprouted roots and membranes out
-under his arm and in between his legs and fingers. Fera drags Raf away, but
-feels powerless to help him. Fera looked up. Climbing out of the pit would take
-a long time. She decided to go through the door. Whatever made Raf sick came
-from inside there. Maybe there was some clue inside? Fera took a deep breath
-and drew an arrow. Holding her bow up with nocked arrow at ready, Fera passed
-through the door.
+"You are finally looking presentable. You might actually have a chance to
+finally secure husbands after all this time."
+
+"After all this time?! We're fourteen!"
+
+"Vas and I were already engaged at your age," Kela responded.
+
+"When I was your age, I had a boyfriend who was paying for all of my expenses,"
+Lita purred.
+
+"I don't really remember when I was their age, too many parties," Don said.
+
+"Kids these days expect to live off their parents forever," Vas grunted.
+
+"Kaia and I are together!" Sata exclaimed. Kaia was shocked and her cheeks
+became flushed.
+
+The proclamation did not have the desired effect.
+
+"Yes, you are always together. It is quite strange."
+
+Sata's dad arrives during the remembrance ceremony and starts to hit on the
+girls. He doesn't recognize the girls because they are wearing veils. "He might
+not have recognized me even without the veil."
+
+"Hey sugar, I bet you have a pretty smile under that veil."
+
+Raf asks Kaia and Sata if they want him to make a real live mimic version of
+Kata for them. Raf explains that it will only take him about two months to
+gestate and then give birth to a one-horned cat with wings that will look
+exactly like Kata. Raf says that unfortunately that the rainbow vomit will not
+be possible, because he does not know of any creature that pukes rainbows. Kaia
+and Sata are a bit weirded out, but they agree nevertheless. Raf says that he
+will talk to Ben about getting the bird, cat, and narwhal dna samples that he
+will need.
+
+- order clothes
+- call Iona and ask her to join them for carnival games
+- Iona meets the other girls meet at the high striker game
+- Clothes arrive
+- change into formal clothes for remembrance ceremony
+- remembrance ceremony
+- say farewell to Iona and Ursa
+
+Ben and Edl bring Kaia's parents to her after locating her with a robotic
+birds. Kaia's parents are excited that she is surrounded by boys: Edl is
+athletic, Ben is smart, and Zek is artistic. Kaia's parents talk about which
+boy would be best for Kaia right in front of all of them. Kaia denies being in
+a relationship with any of the boys, but Zek jokes "Don't worry, Vasdefren
+Argolys and Kelaailaiala Erkadia, I'll take good care of your daughter."
+"Please call me Kela." Zek invites Kaia's parents to the two upcoming
+performances of performance group. Kaia is very embarrassed by her parents and
+is relieved when they leave. Sata and Ursa show up and say that they were
+hiding, because Sata knew that seeing their daughter surrounded by boys was
+Kaia's parents' secret dream. Kaia is angry that they were watching her in an
+embarrassing situation. When asked about whether she wants to find her parents,
+Sata says that they are probably partying and trying to pick up young
+refugees. Ben worries that no one will attend the ceremony but then says he
+will project the ceremony on to the yurt walls, so everyone will see it.
+
+Fera's mother joins the Sinistrae and can finally become independent because of
+financial and moral support from Fera?
+
+All the boys who attacked Kaia and Sata show up at the party. Each boy has two
+broken arms and a few broken fingers, because their punishment has to match the
+punishment that Dun received.
+
+
+- he was desperate for money since his father disappeared - someone paid him to
+attack Kaia and Sata, but that he has no idea who it was - Dun tells his story
+- he was left shaken by a strange experience after he led the attack against
+Kaia and Sata - after he recovered, he felt extremely afraid and ran away - as
+he was running, he was attacked from behind
+- he woke up in the infirmary yurt without any idea of who attacked him
+
+
+Ursa and Iona arrive to visit Kaia and Sata at the infirmary.
+
+An investigator asks Sata and Kaia about the bioterrorist attack.
+Why did the girls have such different symptoms than the boys? The girls seemed
+to be at the center of the blast and had only physical symptoms, while the boys
+were all left with post traumatic stress disorder and seemed to be suffering
+from purely psychological symptoms.
 
 ...
 
-Once inside, Fera encounters the AI. The AI explains Sinistrae and introduces
-Fera to Eiva. Eiva vomits out the stasis liquid and goes through a wash cycle
-like in Austin Powers. Eiva and Fera immediately hit it off. "Why do you talk
-so weird?" "I did not learn your language naturally. The AI remodeled the
-language center of my brain while I was in stasis. I have a terrible headache
-and I hate how stupid your language sounds. I don't care if it sounds weird to
-you. The only thing that matters is that you can understand me." "I like the
-way you sound. It's different, but I like it." The AI asks Eiva if Fera is an
-acceptable candidate. Eiva says that Fera's abilities were demonstrated when
-she blew up the city, but she wants to test Fera herself. Eiva hands a pair of
-bone knives to Fera and tells her to defend herself. Fera is amazed at how fast
-Eiva is able to move. Eiva says that she feels like she is moving through
-molasses after being in stasis for so long. "What's molasses?" "Stop it, you're
-making me feel old." "You look pretty good for your age." Fera realizes that
-Eiva is aiming for her knife. "You're holding back." "Stop talking and fight."
-Fera throws both of her bone knives at Eiva and rushes Eiva with the wooden
-knives she has at her belt. Eiva deflect the thrown knives easily, but her feet
-slid on the dust on the floor. Eiva laughed. "You almost ran into my knives.
-Were you trying to get stabbed?" "I knew you were holding back and not at your
-best. You might have been able to stab me but I have two knives to your throat.
-Did I pass your little test?" "Yeah, you can get off me now." "What's the rush?
-I kinda like being on top of you." "Drop those the knives and we'll see how
-long you stay on top." Eiva said tossing her knives away. Fera did the same and
-looked at Eiva defiantly. "Bring it!" Eiva grabbed Fera's shirt, bridged, and
-rolled Fera off her with ease. Fera landed on her back and looked up at Eiva
-with admiration. "The view from the bottom is not bad either." Eiva laughed.
-"Can you teach me how to do that?" "Only if you dedicate yourself to leading
-the resurgence." "Why can't you lead?" "I know nothing about your time. My
-mission is prepare you to lead and then follow you." "So, you'll have to do
-anything I say." Fera asked putting her hands on Eiva's hips. Eiva laughed. She
-looked annoyed but did not move Fera's hands. "You'll have to earn the right to
-lead. I can train you, but once we start, you can't back out. If you try to go
-back to how your life was before, I'll have to kill you to preserve our
-secrets." Eiva said gripping Fera's shirt menacingly.
 
-"So you want me to overthrow the government? What are you going to put in its place?"
+Dar visits Kaia and Sata in the infirmary and says how great the video of them
+being chased by All Grays and then attacked by the boys was for the Rainbow
+Sports Club brand, because they were wearing the Rainbow uniforms. "It's not a
+problem that the boys who attacked you were not wearing all gray. All need to
+do is apply a greyscale filter over there clothing and voilà!" He asks the
+girls if they might be willing to do it again sometime, but then says the he
+understands that they don't want to get beat up again. Kaia and Sata are
+suspicious that Dar seems so happy about the video of them getting beat up. Dar
+asks them to sign a contract for the rights to the images and videos of the
+attack that will require for them to pose for new pictures and videos wearing
+Rainbow scarves and hats. Sata tells Dar to that they're not interested. Iona
+later brings up the contract and asks if Kaia and Sata want her to negotiate
+with Dar for them. Kaia and Sata say that they will think about it.
 
-"That's up to you. I know nothing of your time."
-
-"So after you train me, I get to call the shots."
-
-"Yes, you'll be in charge as long as you don't do anything to betray the cause."
-
-"All of this seems too good to be true. How do I know you are not trying to trick me?"
-
-"How do you feel?"
-
-"I feel good, but maybe its just that I like having you on top of me."
-
-Eiva laughed, got up off Fera, and helped her up. "Does it feel like this was
-meant to be? The AI selected you to lead the resurgence. You're the first
-candidate ever, after thousands of years. If you don't want to lead, you can go
-back to your life as it was and I'll go back to stasis. Is that what you want?"
-
-"No," Fera said.
-
-"Are you sure?" Eiva leaned in.
-
-"Yes, I am."
-
-"That's a relief. I'm glad you passed the test. If you hadn't agreed to lead, I
-would've had to kill you and try to figure out your world on my own."
-
-"You said I could back to my life."
-
-"The first lesson in your training is 'Don't believe everything you hear'. From
-the moment you found the capsule, you knew too much to go back to your previous
-life."
-
-"The first lesson is that I shouldn't trust anyone?"
-
-"No, think about what people are saying. Does it makes sense for me to just let
-you go and hop back in the stasis pod? Now that you found the capsule, others
-can too. If I let you go, you could lead them here. If I were in stasis, I
-would be defenseless. We have only one chance to bring about the resurgence and
-this is it."
-
-"One chance is all we'll need," Fera said narrowing her eyes and raising a
-clenched fist.
-
-"Good, the first mission is reconnaissance. Do you have any allies that could
-help us with the resurgence?"
-
-"Allies?" Fera realized she forgot about Raf. "There's Raf. He's outside. He's
-sick."
-
-"He got sick as soon as you opened the door?"
-Fera nodded.
-
-"His body must be dependent on Dextrae for survival."
-
-"What?"
-
-"I'll explain once we help him. Come on."
-
-Eiva grabbed Fera by the hand and lead her to cabinet.
-
-"Before we go, we need equipment. These are skinScabbards. Put they go on your
-forearms and shins."
-
-"Are these made of skin?"
-
-"Yes, they have bone knives inside. There's a flap by the hilt of each knife.
-You'll have 8 knives on each forearm and 12 knives on each leg."
-
-"40 knives?! Do think that will be enough?"
-
-"We can always make more bone knives from fallen comrades and enemies."
-
-Fera laughed but then realized that Eiva was not joking.
-
-When they got outside.
-
-"Don't touch him. Don't even go near him. Tell him to get in the boat."
-
-"What? Why?"
-
-"If you get near him, he will get worse. Unia will refill the lake. Then we can pull him in with the rope."
-
-"So we're not getting in the boat with Raf?"
-
-"No, being near us could kill him. Tell him to get in the boat. If he doesn't, he's going to die."
-
-"Raf, can you hear me?"
-
-Raf moaned. His eyes were half closed.
-
-"Raf, you need to go back to the boat."
-
-"Maybe we should leave him. He doesn't look like he would be a useful comrade anyway."
-
-"He can be useful. He saved my life."
-
-"Does he float? Maybe he doesn't need to be in the boat?"
-
-"Raf, listen to me. If you die here, Arla will left all alone."
-
-Raf's eyes opened wider.
-
-"If you don't make it out of here, your parents will have died for nothing."
-
-Raf sobbed and rolled over on his stomach, ripping out the roots that connected
-his feet with the ground.
-
-"If you don't get on that boat, I'm going to find Arla and tell her that you
-gave up on her. She'll know that your parents' sacrifice didn't mean anything
-to you."
-
-Raf started crawling, but stopped and threw up onto the ground in front of him.
-
-"If you don't keep moving, I swear I'll kill her, Raf! I'll tell her you gave
-up and then she's going to die knowing that you didn't care enough about her to try."
-
-Raf crawled through his own vomit up to the boat.
-
-"If you don't get in that boat, she's as good as dead, Raf. You know I'll do
-it. You know me. I won't hesitate. I'll enjoy it."
-
-Raf brought himself up just barely enough to roll into the boat and hit the
-floor like a bag of potatoes.
-
-Eiva started to clap. "Well done. You knew exactly what to say to motivate him.
-Looks like we picked the right person to lead the resurgence. Now let's start
-climbing or we're going to get wet."
+Later, Dun shows up in the infirmary to ask for forgiveness and for Kaia and
+Sata to sign his casts. Fera was going to break Dun's legs too, but she felt
+bad for the person that would have to carry Dun around. Kaia and Sata find out
+that someone paid Dun, his D-Dogs, and the soccer hooligans to beat them
+up. They immediately think it was Dar who paid their attackers. Iona tells them
+about "Qui Bono" and says that Dar stands the most to gain from them being beat
+up.
 
 ...
 
-"I will transfer command to you after you can best me in
-grappling, archery, and knife combat." "I already beat you in knife combat."
-Eiva laughed again. "Your training hasn't even started yet." "When do we
-start?" "First, we need to do some." Fera forgets about Raf.
-Fera and Eiva climb out using the rope connected to the boat then use the rope
-to lift Raf out. Fera is suprised that she can climb so well. She thinks Raf is
-extremely light, but the truth is she has become extremely strong. The AI
-closes the lake to visitors and only gives Fera and Eiva access. On the train
-to the refugee camp, Fera is angered when Raf continues to cry over losing the
-pregnancy and feeling sick in the presence of Fera and Eiva. Fera and Eiva move
-away from Raf. They snuggle up together. Fera says she feels weird sleeping
-next to Eiva. Eiva tells her to shut up and enjoy it, which Fera does.
+In the infirmary Ursa and Iona ask if Kaia wants them to beat up Dun, but Kaia
+says no. Sata says that they could at least give him a black eye, but Kaia says
+that it wouldn't help them and that Dun must be emotionally hurt because he
+believes that his father died in the explosion.
 
-"What the hell is this romantic subplot nonsense?"
+Lan and Arla visit Kaia and Sata. They say that they are rehearsing for a dance
+performance and a theater play. In their spare time, Lan works in the kitchen
+and Arla spends time with Kransal.
 
-"Why do you say subplot? Our romance could be the main plot. The revolution has
-waited for thousands of years. It can wait a few more years while you show me
-around the modern world."
+Ben and Edl visit them to say that they will be able to watch the remembrance
+ceremony on the infirmary yurt walls and that he set up the projector and sound
+system himself and the infirmary staff have been given special instructions and
+compensation.
 
-"Can we do both? People are suffering. I want our lives to be a trashy 'Girls'
-Love' novel, but we need to make an impact."
+Kaia and Sata's parents visit them in the infirmary. Kaia's dad is a gruff man
+with a big moustache. Kaia knows that her dad straightens his moustache and
+then ruffles it to make it bushy. Sata's parents are good friends with Kaia's
+parents.
 
-"I knew I picked the right person to lead the resurgence."
+Her parents ask if they are making new friends. They make a joke about getting
+the wrong idea about Sata and Kaia, because they are always together and never
+really had any boyfriends. "If you're not careful, people will think you're
+lesbians!" Kaia and Sata laugh nervously. Kaia and Sata say that they made
+friends in the performance group and maker workshop. Kaia's dad says that
+performances don't really benefit society or provide anything of tangible value
+and that maker culture is silly, because everything can be manufactured,
+printed, or synthesized.
 
-"They're calling you the Bone Queen."
+Kaia's dad lectures Kaia on the importance of standing up for herself.
+Normally, Kaia would go to her room and listen to music, but Kaia can't leave
+the infirmary bed, so she has to sit and listen to it. Kaia's dad says that
+bullies are targeting Kaia because she is not projecting strength. "Don't close
+your eyes while I'm talking to you!" Kaia's dad says that you have to puff your
+chest out and keep your chin up. Kaia's mom says that it's better to carry a
+big bag to protect your chest and keep your chin down to protect your neck and
+not attract attention.
 
-"I don't like it. Have them call me something else."
+That evening Kaia and Sata watch the remembrance ceremony on the walls of the
+infirmary yurt. That night Kaia cannot sleep and she sees Fera. Not believing
+her eyes, Kaia thinks she is dreaming or hallucinating.
 
-"Skeleton Queen?"
+Fera says that she broke both of Dun's arms after finding out what he did to
+Kaia and Sata. Kaia thinks that means that she broke both of Dun's arms and
+feel very sorry. She tells Sata that she broke Dun's arms with her mind. Sata
+says that she normally wouldn't believe it, but she is ready to believe
+anything after seeing Zek's demo.
 
-"That's even worse. Any other ideas?"
+"I told you losers that I'm not dead."
 
-"Reine des os, but that's Queen of Bones, not Bone Queen."
+"You could be a vengeful spirit that doesn't know its dead."
 
-"Raf Dezo? I like how that sounds! That's Ancient French, right?"
+"I'm not dead!"
 
-"Yes, but we just called it French. It would be great if you could too. You're
-making me feel ancient."
+Fera says that she went to the remembrance ceremony in disguise and couldn't
+help but laugh during Ben's heartfelt speech. "News of my demise have been
+greatly exaggerated."
 
-"What would it be in Latin?"
+Kaia and Sata realize that Fera may actually be alive, because they remember a
+person laughing during the speech. Fera says that she wants to keep the fact
+that she's alive a secret until she can be sure that she is not wanted to
+blowing up the city. Kaia tells Fera that they will be staying in the refugee
+camp permanently, because the city is being rebuilt for new residents. Fera
+gets angry, but says she is learning to control her anger. For example, she
+says that barely enjoyed breaking Dun's arms and that she almost felt sorry for
+him afterwards. He seem relieved when I told him that his father is alive.
 
-"Regina Ossa."
+The Provost is alive? How did you survive the explosion?
 
-"Regina Ossifraga."
+The chapter ends with Fera beginning to tell them her story.
 
-"Regina Ossuaria."
+...
 
-"Regina Ossuosa."
+"I saw you on the ground when we were taking off. I tried to get them to go
+back for you..."
 
-"That's it. Let's go with Queen Ossa."
+"Ah, that was your airship? No worries, it worked out in the end."
+
+
+"Ursa, I felt it. It's all true. All of it. Your dreams will come true too.
+Kaia is the one we've been waiting for all this time."
+
+"I haven't been waiting as long as you. My faith is not as strong as yours, Iona."
+
+"It doesn't matter. She favors you. I can see it."
+
+"Can I still be saved? After what I did?"
+
+"Your sins are nothing compared to mine, but it does not matter whether we did
+evil or we did good, because it was all necessary to bring us here. It all
+happened as it was meant to happen."
+
+"I want to believe that but I can't. I know that what I did was selfish. I hurt
+the people closest to me to get what I wanted."
+
+"You have suffered greatly to become part of her plan. We all have. We'll
+suffer more before the rejoining can occur and the time of grace can arrive.
+Our suffering is needed so we can become worthy of the salvation that she
+offers. You were chosen because you were ready to sacrifice anything. You can
+achieve everything you always wanted just by playing your role in the plan."
+
+
+...
+
+"Will our parents be down there?"
+
+"Yes, everyone who was evacuated from the city will be "
+called Zakrzówek. It i
+...
+
+Kaia sees the refugee camp from the observation deck soon after takeoff. "If we
+were so close, why didn't we just parachute into the camp?" Ben explains that
+the lake was the only place to crash land and the forest in between the lake
+and camp was filled Driads and the city was patrolled by World Heritage robots.
+
+...
+There's a rivalry between the maker interest group (MIG) and the theater
+interest group (TIG). The performance group makes fun of the makers for not having
+any members. Ben says that they had as many as four members, but now they are
+down to three and perhaps even two. Arla is upset to hear that Raf is still
+unaccounted for. Kaia is devastated to find out that Fera was on the ground and
+that her signal disappeared as she was trying to leave the city. She feels
+angry at Sata and doesn't . Sata looks
+very sorry, but doesn't know what to say to Kaia.
+
+Kaia says she is upset that they have to leave so soon.
+
+Ben explains that airship will not land but it can lift everyone up by a cable.
+Zek and Zok start horsing around and the cables get tangled and everyone is
+packed together in a mess. Ben flies up first and then helps everyone untangle.
+Sata and Kaia are happy to be near each other in the bundle. Sata makes jokes.
+Zek gets pressed up against Taz and Arla?
+
+
+Everyone sits together except Taz, who is on duty.
+
+Lan is upset to leave all of the supplies behind,
+especially the food. Officer Kransal arranges for a smaller airship to the
+refugee camp where all the other students are to meet. A refugee camp school is
+repurposed and expanded to hold all of the new students in addition to the
+original refugees that already lived in the camp. Lan decides to work in the
+kitchen and uses his connections and swagger to get more food and other
+supplies for the camp.
+
+Kaia is ambushed by Dun and his posse (who were secretly hired by Zek) in the
+cafeteria. Edl goes to help Ben instead of Kaia. Ursa and Iona are not around.
+Arla is with Kransal. Only Zek is around to save Kaia.
+
+Zek takes Kaia to the hospital. Zek and Sata decide to stay with Kaia all
+night.
+
+"Just when I thought I was finally fitting in."
+
+Fera, Raf, and Naksos arrive at the refugee camp. Dun is reunited with his
+father. Raf is reunited with Arla and Lan. Fera tells Kaia and Sata that she
+has changed and is deeply sorry for how she behaved earlier.
+
+Fera arm wrestles Iona, Ursa, and Edl, beating all of them.
+
+"Laughing in people's faces after you win is a great way to make friends."
+
+The chapter ends with a celebration in the refugee camp honoring the return of
+Fera, Raf, and Naksos.
 
