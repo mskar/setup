@@ -64,10 +64,11 @@ started to jeer.
 Kaia wondered if she was imagining the jeers until she felt Sata tense up and
 eventually withdraw from their embrace. For as long as she could remember, Kaia
 had auditory hallucinations. She sometimes had trouble differentiating between
-the voices of people around her and the voices in her head. _Some voices are
-easier to differentiate than others. You're the only voice that narrates
-everything that happens to me,_ Kaia thought, proving that she was totally nuts
-by responding to an auditory hallucination.
+the voices of people around her and the voices in her head.
+
+_Some voices are easier to differentiate than others. You're the only voice
+that narrates everything that happens to me,_ Kaia thought, proving that she
+was totally nuts by responding to an auditory hallucination.
 
 To make matters worse, Kaia often had strange dreams at night and weird visions
 during the day. The dreams and visions seemed so real and familiar that it
@@ -165,13 +166,16 @@ Kaia possibly compete with friends that were normal?
 
 _That's mean,_ Kaia thought, criticizing her own internal monologue. _I know
 you get to choose what to narrate, so I would appreciate it if you could skip
-the super insecure thoughts._ `No way, Kaia, your insecurities are central to
-your story.` _When I was a little kid, you used to talk to me and help me all
-the time. Why are you such a jerk now?_ Kaia asked, assuming incorrectly that
-the narrator in her head was Ryt, the imaginary friend Kaia remembered from her
-childhood. _If you're not Ryt, then who are you?_ Kaia demanded futilely. _If
-you don't at least tell me your name, I'm going to spend the rest of my life in
-quiet meditation and you won't have anything to narrate._
+the super insecure thoughts._
+
+`No way, Kaia, your insecurities are central to your story.`
+
+_When I was a little kid, you used to talk to me and help me all the time. Why
+are you such a jerk now?_ Kaia asked, assuming incorrectly that the narrator in
+her head was Ryt, the imaginary friend Kaia remembered from her childhood. _If
+you're not Ryt, then who are you?_ Kaia demanded futilely. _If you don't at
+least tell me your name, I'm going to spend the rest of my life in quiet
+meditation and you won't have anything to narrate._
 
 Kaia's empty threat to boycott her own life was especially useless given that
 her name had just been called. Realizing that it was her turn to participate in
@@ -317,22 +321,25 @@ to hide. Everyone was running and screaming except for her and Sata. _What is
 Sata doing here on Mars?_ Kaia wondered. With an alarmed and desperate look on
 her face, Sata pointed down in front of Kaia. Unsure why Sata was pointing down
 and not up at impending cataclysm in the sky, Kaia turned her gaze down toward
-the pulsing red light emanating from the metallic table. `Kaia, you know
-this. Everyone knows this. The CorporateCouncil is led by the person with the
-highest net worth. The leader of the DemocraticDelegation is the person with
-the highest number of social media followers. The EternalEnlightened vote to
-determine their own leader.` Kaia opened her mouth, but instead of words, dust
-poured out. She tried to type out the answer, but the console quickly became
-covered in dust. The red light pulsed faster and faster until it became
-continuous. Kaia had run out of time. Her body shook with electricity.
+the pulsing red light emanating from the metallic table.
+
+`Kaia, you know this. Everyone knows this. The CorporateCouncil is led by the
+person with the highest net worth. The leader of the DemocraticDelegation is
+the person with the highest number of social media followers. The
+EternalEnlightened vote to determine their own leader.` Kaia opened her mouth,
+but instead of words, dust poured out. She tried to type out the answer, but
+the console quickly became covered in dust. The red light pulsed faster and
+faster until it became continuous. Kaia had run out of time. Her body shook
+with electricity.
 
 The TaserTutor mercilessly continued on to the next task. "Given that the
 Venusian orbital period is 225 days, calculate how many days would pass before
-Earth and Venus would return to their current positions^[225 * 365 / 5 =
-16425]." `Kaia, the answer is in the footnote. Come on, Kaia, snap out of
-it. You eat harder tasks than this for breakfast. The least common multiple of
-the orbital periods is their product divided by their greatest common
-denominator. Just say or write 45 * 365 = 16425!`
+Earth and Venus would return to their current positions."
+
+`Come on, Kaia, snap out of it. You eat harder tasks than this for
+breakfast. The least common multiple of the orbital periods is their product
+divided by their greatest common denominator. Just say or write 45 * 365 =
+16425!`
 
 Kaia was having trouble maintain her footing. Beneath her feet, countless
 skeletons were crumbling into dust. The dust began to swirl in a circle around
@@ -397,12 +404,14 @@ wanted it to end. As the TaserTutor once again begun to pulse red, Kaia used
 the virtual keyboard to skip the current task.
 
 The resulting electric shock only added to the fury that Kaia felt. `Kaia,
-skipping tasks is not a good idea.` _Shut up, I don't care. I just want this to
-be over._ As soon as she could control her fingers again, Kaia began skipping
-task after task, pushing through each subsequent electric shock. Her ears were
-ringing. Tears were streaming down her face. Her breathing was hoarse and
-uneven. The burning smell was suffocating. Her mouth tasted as if her tongue
-was coated with metal. Rage was the only thing keeping her going.
+skipping tasks is not a good idea.`
+
+_Shut up, I don't care. I just want this to be over._ As soon as she could
+control her fingers again, Kaia began skipping task after task, pushing through
+each subsequent electric shock. Her ears were ringing. Tears were streaming
+down her face. Her breathing was hoarse and uneven. The burning smell was
+suffocating. Her mouth tasted as if her tongue was coated with metal. Rage was
+the only thing keeping her going.
 
 Even after the console stopped responding and the tendrils began to unwrap from
 around her arms, Kaia kept trying to skip. `Kaia, the rite is done. You need to
@@ -451,10 +460,13 @@ impatient and began to drag the daisy chain of girls out of the gymnasium.
 Despite the direness of her situation, Kaia smiled. Sata was so brave and
 strong, always looking out for Kaia and trying to cheer her up. Sata's grin
 stretched across her broad face and lit up Kaia's entire world. Thinking of how
-wonderful Sata was, Kaia's eyes began to well up. Seeing that her friend was
-beginning to cry, Sata tried to strike a jovial tone. "Was this best plan you
-could come up with?" Kaia almost snorted with laughter. "It's better than the
-one with the BuzzBees and WakeupWasps."
+wonderful Sata was, Kaia's eyes began to well up.
+
+Seeing that her friend was beginning to cry, Sata tried to strike a jovial
+tone. "Was this best plan you could come up with?"
+
+Kaia almost snorted with laughter. "It's better than the one with the BuzzBees
+and WakeupWasps."
 
 "Yeah, I hate bugs." Sata laughed at her own joke and Kaia's heart melted. Even
 being dragged shirtless through a college they would likely soon be expelled
@@ -473,7 +485,9 @@ comedian will do shows while being dragged through the venue."
 
 Kaia rolled her eyes. Sata beamed, knowing that her strategy was working. "Did
 you hear the one about the GuardGorilla, the HistorianHummingbird, and
-BuzzBee?" Kaia decided to join in. "I got a better one. A ChaseChimpanzee, a
+BuzzBee?"
+
+Kaia decided to join in. "I got a better one. A ChaseChimpanzee, a
 SurveillanceSloth, and a MessengerMeerkat walk into a bar..."
 
 Sata grinned triumphantly. "There you go! Maybe we can form a comedy duo? We'll

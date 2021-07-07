@@ -1,3 +1,3 @@
 repo: https://github.com/mskar/soulswept
 output_dir: soulswept
-rmd_files: ["ind"01_off-to-a-great-start.md", "02_productive-first-day.md"]
+rmd_files: ["index.Rmd", "01_off-to-a-great-start.md", "02_productive-first-day.md"]
