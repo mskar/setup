@@ -392,15 +392,72 @@ make sense of what Arba and Raf were saying. "Arba, you're a Driad. Raf, you're
 a Lunker. Are you also Mimics?"
 
 "Yes, Arba and I are Mimics." Raf said. "Mimics look like Humans but we can
-photosynthesize, reproduce without intercourse, and live indefinitely without
-growing old."
+survive without food, reproduce without intercourse, and live indefinitely
+without growing old."
 
 "Sounds nice," Fera admitted. "Are the branches growing out of your head a
 Mimic thing, Arba?"
 
-"Yes. Raf can grow them too, but he is suppressing any traits that are unique
-to Mimics, so he can blend in better with Humans. Mimics are accepted among the
-Driads, but not among Lunkers or Plainswalkers."
+"Yes. Raf can grow them too, but chooses not to, so he can blend in better with
+Humans."
+
+"I probably could, if I tried, but it's only because I've lived on the surface
+for a long time. Mimics that live underground grow mushrooms on their heads
+instead of branches," Raf explained.
+
+"Mushrooms?! I understand that the branches help with photosynthesis, but why
+would you grow mushrooms on your head?" Fera asked.
+
+"The purpose of the mushrooms is bioluminescence and chemosynthesis," Raf
+elaborated.
+
+"The branches and mushrooms also help us make Humans happy," Arba added.
+
+Fera looked puzzled. "How does growing stuff on your head make Humans happy?"
+
+"All Mimics release mammalian pheromones to elicit a positive reaction from
+Humans, but we can also produce psychoactive pollen or spores that have a
+number of different effects, such as euphoria or pain relief," Raf said.
+
+"People can get high just from being around you?!" Fera exclaimed.
+
+"I doubt I could grow anything useful. It's been too long," Raf said sounding
+embarrassed.
+
+"Would you like to smell my flowers?" Arba asked. Raf signalled to Fera that it
+was not a good idea, but that made her even more inclined to agree.
+
+"Sure," Fera said. Arba knelt down and bowed her head. Fera stood up on her
+toes for better access. At first, Fera did not smell anything at all, so she
+brought her nose in closer. Then, the sweet floral scent became very strong and
+the world began to spin. Soon, the stigma and stamens of the flower were
+tickling her nose and while its petals caressed her face. Fera inhaled deep and
+the world exploded in a burst of flower petals that fell from the sky like
+confetti. Her arms and legs went numb and eventually ceased to exist as she
+started to float through the air like a pollen grain carried by the wind.
+
+When Fera awoke it was dark. She was lying on the bark bed. Even though she was
+covered in animal skins, she felt incredibly cold.
+
+"Raf, are you there?"
+
+"Yes, I'm here."
+
+"Is Arba around?"
+
+"No, she left for the night. She said she would be back at sunrise."
+
+"Raf, do you think Arba might let me smell one of her flowers again tomorrow?"
+
+"Fera, you shouldn't do that. Arba may look young, but she is hundreds of years
+old. Her flowers are very potent. You could get addicted."
+
+"I think I already am. I can't stop thinking about it. I don't care about the
+revolution anymore. I just want to stay here with Arba."
+
+"You're going through withdrawal, Fera. You'll feel better in the morning."
+
+...
 
 "And Mimics can also control animals?"
 
