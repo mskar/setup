@@ -276,7 +276,7 @@ let g:camelchar = "A-Z0-9.,;:{([`'\""
 " http://sherifsoliman.com/2017/07/22/nvim-r/
 " press alt+, to have Nvim-R insert the assignment operator: <-
 let R_assign_map = "<A-,>"
-let R_auto_start = 1
+let R_auto_start = 0
 
 " https://github.com/randy3k/radian#nvim-r-support
 let R_esc_term = 0
