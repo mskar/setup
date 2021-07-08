@@ -3103,3 +3103,19 @@ at Raf. His face was swollen and covered with bruises. Was he not defending
 himself at all from her kicks? What a wimp! "Get moving. We can't waste anymore
 time. What are you waiting for? Why are you just laying there?"
 
+Fera, Raf, Nil, and Oil visit a Mimic colony on their way to Wessel Lake. The
+Mimics there all have bioluminescent mushrooms growing on their heads. The
+Mimics live separate from Lunkers, because they are afraid the Lunkers will
+kill them. The Mimics are sad, gloomy, melancholic, and never leave their
+community. This matches the situations in anime in which mushrooms grow on
+someone's head.
+
+Nil and Oil fall in love with Mimic girls. They think that it is really helpful
+that the girls produce light from the mushrooms on their heads and can live off
+of chemosynthesis instead of Human food, because their family is very poor due
+to having to support so many children, and not having to pay for food and light
+is a major incentive for them. They are not upset to learn that the girls
+cannot bear Human children, because they say that there are already too many
+Human children in their family. More Human children means more mouths to
+feed. The entrepreneurial and energetic demeanor of Nil and Oil contrasts with
+the calm, peaceful, timid, and melancholic nature of the Mimic girls.
