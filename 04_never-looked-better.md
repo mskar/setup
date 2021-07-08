@@ -200,8 +200,8 @@ withdrawal."
 
 "Who are we getting help from? More of your animals?"
 
-"This time we need help from the people of this forest. They call
-themselves the Driads."
+"This time we need help from the people of this forest. They call themselves
+the Driads."
 
 "People live in this forest?"
 
@@ -225,15 +225,17 @@ Provost tumbled down off of his stag.
 Raf hopped of his stag and raised his arms, showing his palms. "We need your
 help!"
 
-"Raf, maybe you can show them how you can grow roots and photosynthesize?"
+"Raf, maybe you should show them how you can grow roots and photosynthesize?"
+Fera whispered.
 
-"You mustn't tell anyone anything!" Raf said forcefully.
+"You mustn't tell anyone anything!" Raf whispered back.
 
 A woman rappelled down from a tree. Landing softly on the ground, she said, "We
 are Driads. We speak for the trees." The woman was tall, slender, and
-beautiful. Her long dark brown hair was slicked back with mud. She had branches
-protruding from her head like antlers. The branches were covered with leaves
-and flowers.
+beautiful. Her long dark brown hair was slicked back with mud. She had small
+trees protruding from her head like antlers. The trees were thick with leaves
+and flowers. The myriad colors of the flowers contrasted with the muted browns
+and greys of her animal skin clothing.
 
 Raf bowed deeply. "Greetings, I am Raf, and this is Fera. Our companion is sick
 from exposure to narcotics. He may die without your help."
@@ -269,8 +271,9 @@ she had known.
 part of the revolution that will overthrow the government and usher in a new
 era of freedom and equality."
 
-"Your words do not sound hollow. If you promise to respect and protect the
-forest, we will aid you."
+Arba searched Fera's face for signs of deceptions and then said, "Your words do
+not sound hollow. If you promise to respect and protect the forest, we will aid
+you."
 
 After Raf and Fera promised, other Driads rappelled down from trees and came
 out of hiding from behind other trees, bringing various items and placing them
@@ -304,11 +307,11 @@ the fire by hiding in the forest."
 "The happened because there was a war. It's safe to be out in the open now,"
 Fera said.
 
-"We know, but we believe that living among the trees is best. I would like to
-teach you our ways, so you can see for yourselves how much better life in the
+"We know, but we believe that living among the trees is best. If you would like
+to learn our ways, you could see for yourselves how much better life in the
 forest can be."
 
-"I would like to learn to hunt," Fera admitted.
+"I'd like to learn to hunt," Fera admitted.
 
 "We do not hunt."
 
@@ -316,10 +319,10 @@ forest can be."
 
 "From animals that die in the forest."
 
-Fera looked her clothes and was tempted to smell them. "Do you ever hunt
+Fera looked the clothes and was tempted to smell them. "Do you ever hunt
 animals? For meat?"
 
-"No, we do not hunt. We get more than enough food from the forest."
+"No, we do not hunt at all. We get more than enough food from the forest."
 
 "Do you fish?"
 
@@ -344,8 +347,8 @@ idea. The Driads laid down pieces of moss-covered bark onto the ground. Arba
 got up and gestured towards the bark. "You may sleep here."
 
 Fera walked up to the spot Arba had indicated. "What do you think, Raf? Will it
-be as comfortable as your secret bed?" Fera rolled on the bed. "It's not that
-bad. The bark is firm but the moss makes it kinda soft."
+be as comfortable as your secret bed?" Fera laid down the bark bed. "It's not
+that bad. The bark is firm but the moss makes it kinda soft."
 
 "Before you sleep, I would like to give you a gift." Arba handed Raf a string
 necklace with a wooden pendant in the shape of a woman. "If you wear this, Umai
@@ -379,8 +382,9 @@ Arba was shocked. "Do you mean to say that imprinted on her in one day?"
 
 "Tell me what you mean by imprinting right now!" Fera demanded.
 
-"Imprinting is a deep connection between a Human and a Mimic that allows the
-Mimic to later become pregnant and bear children for the Human," Raf explained.
+ Raf took a deep breath and explained."Imprinting is a deep connection of a
+ Mimic to a Human that allows the Mimic to become pregnant and bear children
+ for the Human."
 
 "What the hell are you talking about?" Fera asked. "What is a Mimic?"
 
@@ -392,10 +396,10 @@ make sense of what Arba and Raf were saying. "Arba, you're a Driad. Raf, you're
 a Lunker. Are you also Mimics?"
 
 "Yes, Arba and I are Mimics." Raf said. "Mimics look like Humans but we can
-survive without food, reproduce without intercourse, and live indefinitely
-without growing old."
+survive without food, reproduce without sexual intercourse, and live
+indefinitely without growing old."
 
-"Sounds nice," Fera admitted. "Are the branches growing out of your head a
+"Sounds nice," Fera admitted. "Are the little trees growing out of your head a
 Mimic thing, Arba?"
 
 "Yes. Raf can grow them too, but chooses not to, so he can blend in better with
@@ -405,13 +409,13 @@ Humans."
 for a long time. Mimics that live underground grow mushrooms on their heads
 instead of branches," Raf explained.
 
-"Mushrooms?! I understand that the branches help with photosynthesis, but why
+"Mushrooms?! I understand that the trees help with photosynthesis, but why
 would you grow mushrooms on your head?" Fera asked.
 
 "The purpose of the mushrooms is bioluminescence and chemosynthesis," Raf
 elaborated.
 
-"The branches and mushrooms also help us make Humans happy," Arba added.
+"The trees and mushrooms also help us make Humans happy," Arba added.
 
 Fera looked puzzled. "How does growing stuff on your head make Humans happy?"
 
@@ -424,36 +428,67 @@ number of different effects, such as euphoria or pain relief," Raf said.
 "I doubt I could grow anything useful. It's been too long," Raf said sounding
 embarrassed.
 
-"Would you like to smell my flowers?" Arba asked. Raf signalled to Fera that it
-was not a good idea, but that made her even more inclined to agree.
+Arba seem very amused by Fera's reaction to this latest information about
+Mimics. "Would you like to smell my flowers?" Arba asked seductively. Raf
+signalled to Fera that it was not a good idea, but that made her even more
+inclined to agree.
 
-"Sure," Fera said. Arba knelt down and bowed her head. Fera stood up on her
-toes for better access. At first, Fera did not smell anything at all, so she
-brought her nose in closer. Then, the sweet floral scent became very strong and
-the world began to spin. Soon, the stigma and stamens of the flower were
-tickling her nose and while its petals caressed her face. Fera inhaled deep and
-the world exploded in a burst of flower petals that fell from the sky like
-confetti. Her arms and legs went numb and eventually ceased to exist as she
-started to float through the air like a pollen grain carried by the wind.
+"Sure," Fera said.
 
-When Fera awoke it was dark. She was lying on the bark bed. Even though she was
-covered in animal skins, she felt incredibly cold.
+Arba knelt down and bowed her head. Fera stood up on her toes for better
+access. At first, Fera did not smell anything at all, so she brought her nose
+in closer. Then, the sweet floral scent became very strong and the world began
+to spin. Soon, the pistil and stamens of the flower were tickling her nose and
+while its petals caressed her face. Fera inhaled deep and the world exploded in
+a burst of flower petals that fell from the sky like confetti.
 
-"Raf, are you there?"
+Her arms and legs went numb and eventually ceased to exist as she started to
+float through the air like a pollen grain carried by the wind. She landed in
+the stigma of a flower and moved down its style to the ovary. Growing into a
+fruit, Fera saw that she was hanging from one of the trees atop Arba's
+head. Fera took in the glorious forest around, but soon felt restless. She was
+ripe and practically burst with juice.
 
-"Yes, I'm here."
+Arba plucked Fera from the branch and devoured her whole, seeds and all. Inside
+of Arba, Fera transformed in a baby. She was felt safe and warm. Her favorite
+pastime was kicking Arba from the inside. Fera did not want to leave the womb
+and cried intensely when the contractions pushed her out. The world was too
+bright and so cold. Arba embraced Fera, began to breastfeed her, and sang her a
+sweet lullaby. Fera greedily drank down the warm, delicious milk and reveled in
+Arba's calming touch.
 
-"Is Arba around?"
+The sensation of bouncing up and down woke Fera from her beautiful dream. She
+felt like a baby that had been torn away from its mother. It was dark and she
+could not see anything. Fera began to struggle and quickly found herself on the
+ground. She was shivering with cold.
 
-"No, she left for the night. She said she would be back at sunrise."
+"We have to keep going, Fera!"
+
+"What's going on, Raf?"
+
+"I waited until it was dark and then started carrying you toward the Lunker
+city."
+
+"Why would you do that? The Driads were so nice to us"
+
+"If we had stayed longer, you wouldn't have wanted to ever leave."
+
+"I didn't want to leave!"
+
+"Fera, you inhaled a very potent psychoactive substance. You were hallucinating
+for hours. You are going into withdrawal just the Provost."
+
+"I think I already am. I can't stop thinking about it. I don't care about the
+revolution anymore. I just want to stay here Arba."
+
+...
+
+"do you think Arba might let me smell one of her flowers again tomorrow?"
 
 "Raf, do you think Arba might let me smell one of her flowers again tomorrow?"
 
 "Fera, you shouldn't do that. Arba may look young, but she is hundreds of years
 old. Her flowers are very potent. You could get addicted."
-
-"I think I already am. I can't stop thinking about it. I don't care about the
-revolution anymore. I just want to stay here with Arba."
 
 "You're going through withdrawal, Fera. You'll feel better in the morning."
 
