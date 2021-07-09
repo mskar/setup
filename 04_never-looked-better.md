@@ -396,7 +396,7 @@ make sense of what Arba and Raf were saying. "Arba, you're a Driad. Raf, you're
 a Lunker. Are you also Mimics?"
 
 "Yes, Arba and I are Mimics." Raf said. "Mimics look like Humans but we can
-survive without food, reproduce without sexual intercourse, and live
+survive without eating food, reproduce without sexual intercourse, and live
 indefinitely without growing old."
 
 "Sounds nice," Fera admitted. "Are the little trees growing out of your head a
@@ -457,29 +457,57 @@ bright and so cold. Arba embraced Fera, began to breastfeed her, and sang her a
 sweet lullaby. Fera greedily drank down the warm, delicious milk and reveled in
 Arba's calming touch.
 
-The sensation of bouncing up and down woke Fera from her beautiful dream. She
-felt like a baby that had been torn away from its mother. It was dark and she
-could not see anything. Fera began to struggle and quickly found herself on the
-ground. She was shivering with cold.
+Fera did not remember falling asleep, but she desperately wanted to avoid
+waking up. The sun was barely rising, but the light seemed far too bright. She
+felt like a baby that had been torn away from its mother. She was dressed in
+animal fur, but was nevertheless shivering with cold.
+
+Fera kicks Raf and threatens him and his sister. Her kicks do not do as much
+damage as before because she is wearing soft moccasins instead of power
+skates. Fera throws up and feels very tired. Fera refuses to continue on. They
+wait for a bear to come and take them to the Lunker city. Raf explains that he
+can only communicate with Mimic animals, but that there are plenty of Mimic
+animals around, because Mimics began to mimic animals long before attempting to
+mimic humans. They are met by Moga, a representative of the Mimic colony. She
+looks really cute, child-like, thin, and is very shy. She speaks and moves
+slowly. Her head is covered with an impressive array of mushrooms of different
+size. Raf explains that the light produced by the mushrooms is too faint for
+Human eyes to detect, but it helps Lunkers and underground Mimics to see. Moga
+is very eager to get back to the colony. She is a homebody and does not like
+leaving the colony. She admits that she drew the short straw and had to come
+greet them. Raf reveals that he is scared of going underground after his
+parents were killed. Fera calls him a coward.
+
+Fera tries to smell Moga's mushrooms which incredibly embarrasses Moga. Raf
+says even though she looks like a child, Moga is the eldest Lunker Mimic and
+that her mushroom spores are very potent. Raf begs Fera to stand down and says
+that he doesn't want to carry Fera anymore. Fera laughs and says that he will
+have not choice. Moga resists and Raf tries to keep Fera away, but she
+eventually gets her way. Another hallucination later, Fera wakes up in the home
+of an old man who knows about the Mimic colony and helps to keep them
+hidden. Raf brought Fera to the house instead of the Mimic colony because he
+does not want Fera to smell any more Mimic heads.
+
+...
 
 "We have to keep going, Fera!"
 
 "What's going on, Raf?"
 
-"I waited until it was dark and then started carrying you toward the Lunker
+"I waited until it was dark and then I carried you as far as I could the Lunker
 city."
 
-"Why would you do that? The Driads were so nice to us"
+"Why would you do that? The Driads were so nice to us."
 
-"If we had stayed longer, you wouldn't have wanted to ever leave."
+"If we had stayed longer, you wouldn't have ever wanted leave."
 
 "I didn't want to leave!"
 
 "Fera, you inhaled a very potent psychoactive substance. You were hallucinating
-for hours. You are going into withdrawal just the Provost."
+for hours. You are going into withdrawal just like the Provost did."
 
-"I think I already am. I can't stop thinking about it. I don't care about the
-revolution anymore. I just want to stay here Arba."
+"Let's go back Raf. I don't care about the revolution anymore. I just want to
+be with Arba."
 
 ...
 
