@@ -487,12 +487,34 @@ berries. You get a good mix of proteins, fats, and sugars."
 
 "Do you cook them at least?"
 
-"It's not a good idea to light fires underground, but there are hot springs
-that can be used to boil food."
+"Lunker cities have geothermal powerplants that provide electricity for
+cooking. There are also hot water systems, so some people have steam or boiling
+water piped directly into their homes. It's not a good idea to light fires
+underground, so grilled food is rare."
 
-"At this point, I'll take what I can get."
+"At this point, I'll take whatever cooked food I can get," Fera said standing
+up.
+
+"OK, we'll head underground through that cave."
+
+"Hold on, where's Arba? She said she would come see us off."
+
+Raf looked very uncomfortable. "Fera, it will be better if you don't see Arba
+again."
+
+"What are you talking about?"
+
+"Fera, you inhaled a very potent psychoactive substance. You didn't so much
+smell her flower as snort it. You could get addicted and then you would be in
+the same situation as the Provost."
+
+"You can't tell me what to do. I'll snort all of the flowers I want."
 
 ...
+
+Raf introduces Fera to Moga who takes Fera to a hot spring to detox. Moga makes
+sure not to release any spores to keep Fera from getting high again. They eat,
+drink, and relax in the hot water. Moge explains Mimics to Fera.
 
 They are met by Moga, a representative of the Mimic colony. She looks really
 cute, child-like, thin, and is very shy. She speaks and moves slowly. Her head
