@@ -280,7 +280,7 @@ out of hiding from behind other trees, bringing various items and placing them
 down on the ground in front of Fera and Raf. Arba sat down next to offerings
 and invited Fera and Raf to sit with her. Fera sat down and looked over the
 items. There were leaves covered berries, nut, and insects, gourds filled with
-water, clothes made of animal skins, knives, bows, and quivers of arrows.
+water, clothes made of animal furs, knives, bows, and quivers of arrows.
 
 "While we tend to your companion, you may eat and rest," Arba said as several
 Driads carried the Provost away on a sled made of branches.
@@ -315,7 +315,7 @@ forest can be."
 
 "We do not hunt."
 
-"If you don't hunt, where do you get the animal skins for your clothes?"
+"If you don't hunt, where do you get the animal furs for your clothes?"
 
 "From animals that die in the forest."
 
@@ -458,25 +458,51 @@ sweet lullaby. Fera greedily drank down the warm, delicious milk and reveled in
 Arba's calming touch.
 
 Fera did not remember falling asleep, but she desperately wanted to avoid
-waking up. The sun was barely rising, but the light seemed far too bright. She
-felt like a baby that had been torn away from its mother. She was dressed in
-animal fur, but was nevertheless shivering with cold.
+waking up. When she woke up, she felt like a baby that had been torn away from
+its mother. The sun was barely rising, but the light seemed far too bright. She
+was dressed in animal furs, but was nevertheless shivering from the cold. Raf
+helped Fera sit up and gave her some water from a gourd. The water tasted
+earthy, but felt cool and refreshing. Fera took the gourd from Raf and drank
+all the water inside.
 
-Fera kicks Raf and threatens him and his sister. Her kicks do not do as much
-damage as before because she is wearing soft moccasins instead of power
-skates. Fera throws up and feels very tired. Fera refuses to continue on. They
-wait for a bear to come and take them to the Lunker city. Raf explains that he
-can only communicate with Mimic animals, but that there are plenty of Mimic
-animals around, because Mimics began to mimic animals long before attempting to
-mimic humans. They are met by Moga, a representative of the Mimic colony. She
-looks really cute, child-like, thin, and is very shy. She speaks and moves
-slowly. Her head is covered with an impressive array of mushrooms of different
-size. Raf explains that the light produced by the mushrooms is too faint for
-Human eyes to detect, but it helps Lunkers and underground Mimics to see. Moga
-is very eager to get back to the colony. She is a homebody and does not like
-leaving the colony. She admits that she drew the short straw and had to come
-greet them. Raf reveals that he is scared of going underground after his
-parents were killed. Fera calls him a coward.
+"Did your birdhouse robot make this for you?" Fera asked, smiling weakly and
+handing the gourd back to Raf.
+
+"I'm so glad you're awake, Fera," Raf said with a sigh of relief. "You were
+hallucinating for hours last night. I was worried about you."
+
+"I actually don't feel that bad," Fera said. "I'm just very cold."
+
+"I was able to give you plenty of food and water before you passed out. You
+were less picky about the food while you hallucinating."
+
+"I didn't eat any bugs, did I?"
+
+"Insects are good for you. It's smart to combine them with nuts and
+berries. You get a good mix of proteins, fats, and sugars."
+
+"Do Lunkers have anything better to eat?"
+
+"We eat insects too, but also bats, fish, salamanders, snails and mushrooms."
+
+"Do you cook them at least?"
+
+"It's not a good idea to light fires underground, but there are hot springs
+that can be used to boil food."
+
+"At this point, I'll take what I can get."
+
+...
+
+They are met by Moga, a representative of the Mimic colony. She looks really
+cute, child-like, thin, and is very shy. She speaks and moves slowly. Her head
+is covered with an impressive array of mushrooms of different size. Raf
+explains that the light produced by the mushrooms is too faint for Human eyes
+to detect, but it helps Lunkers and underground Mimics to see. Moga is very
+eager to get back to the colony. She is a homebody and does not like leaving
+the colony. She admits that she drew the short straw and had to come greet
+them. Raf reveals that he is scared of going underground after his parents were
+killed. Fera calls him a coward.
 
 Fera tries to smell Moga's mushrooms which incredibly embarrasses Moga. Raf
 says even though she looks like a child, Moga is the eldest Lunker Mimic and
