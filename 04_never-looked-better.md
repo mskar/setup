@@ -46,19 +46,19 @@ any harm and perhaps may even by fond of me."
 tender, love, and care your face until there's nothing left," Fera screamed
 swinging at arms and legs at Raf in a futile gesture of aggression.
 
-"Please Fera, you're upsetting the birds. I do not believe you anyway. You are
-using deception to hide your feelings, because you are afraid of getting
-hurt. Don't worry. I am fond of you as well, and I will do anything I can to
+"Please Fera, you're upsetting the birds. I don't believe you anyway. You're
+just using threats to hide your feelings, because you are afraid of getting
+hurt. Don't worry. I'm fond of you as well, and I'll do anything I can to
 protect you and make you happy."
 
 "The only thing that will make me happy is stomping on your face."
 
-"I will be glad to oblige. There is not much left of my face anyway."
+"I'll be glad to oblige. There is not much left of my face anyway."
 
 "You've never looked better. I'm going to make some more improvements when we
 land."
 
-"I am looking forward to it."
+"I'm looking forward to it."
 
 "Where are we flying anyway?"
 
@@ -73,12 +73,11 @@ the eagles. "After destroying the city, you may want to lay low for a while."
 
 The eagles set Fera, Raf, and the Provost down on top of a hill surrounded by
 red brick ruins near the edge of the forest. Raf pointed into the forest. "The
-entrance is hidden in the forest. We'll have to walk the rest of the way."
+entrance is hidden in the forest."
 
 "Wait, what is this place?" Fera asked.
 
-"This is Kościuszko Mound in the Wolski Forest. The ancient city there was
-called Kraków in Ancient Latin, Ancient Spanish, and Ancient Italian."
+"This is Kościuszko Mound. The ancient city over there is called Kraków."
 
 "What should we do with him?" Fera asked gesturing towards the Provost, who
 was lying on the ground next to them. His shirt and blazer were covered in
@@ -118,11 +117,10 @@ would not have been on the airship. Fera made up her mind quickly. "I don't
 want to wait."
 
 Raf opened his eyes. "Look there," he said pointing to the bottom of the hill,
-where three stags stood waiting.
+where three stags stood waiting. "Those stags will take us to where we need to
+go."
 
-"Is that our ride?" Fera asked. Raf nodded.
-
-"Why don't you have them come here?"
+"Why don't you have them come here?" Fera asked.
 
 "They don't want to climb up the hill just to carry us down."
 
@@ -181,9 +179,9 @@ Raf looked at her intensely. "You are the most amazing person I have ever met."
 
 Fera was shocked. "All I do is make fun of you and kick you."
 
-"When I look at you, I can feel your pain. I am not angry at you for hurting
+"When I look at you, I can feel your pain. I'm not angry at you for hurting
 me. Actually, it's quite the opposite. I want you to kick me, as long as it
-helps you. Whenever you need a face to kick, I will be happy to offer mine."
+helps you. Whenever you need a face to kick, I'll be happy to offer mine."
 
 Fera could tell that Raf was being absolutely serious. He looked sad and
 compassionate, but hopeful.
@@ -462,24 +460,24 @@ bright and so cold. Arba embraced Fera, began to breastfeed her, and sang her a
 sweet lullaby. Fera greedily drank down the warm, delicious milk and reveled in
 Arba's calming touch.
 
-Fera did not remember falling asleep, but she desperately wanted to avoid
-waking up. When she woke up, she felt like a baby that had been torn away from
-its mother. The sun was barely rising, but the light seemed far too bright. She
-was dressed in animal furs, but was nevertheless shivering from the cold. Raf
-helped Fera sit up and gave her some water from a gourd. The water tasted
-earthy, but felt cool and refreshing. Fera took the gourd from Raf and drank
-all the water inside.
+Arba rocked Fera back and forth in her arms. The rocking was not particularly
+soothing involved a fair amount of bouncing. Fera became suspicious and looked
+around. She was no longer a baby in her mother's arms. Instead, she was a young
+woman on a train. She was dressed in animal furs, but was nevertheless
+shivering from the cold. Raf noticed that Fera was awake and gave her some
+water from a gourd. The water tasted earthy, but felt cool and refreshing. Fera
+took the gourd from Raf and drank all the water inside.
 
 "Did your birdhouse robot make this for you?" Fera asked, smiling weakly and
 handing the gourd back to Raf.
 
 "I'm so glad you're awake, Fera," Raf said with a sigh of relief. "You were
-hallucinating for hours last night. I was worried about you."
+hallucinating for hours. I was worried about you."
 
 "I actually don't feel that bad," Fera said. "I'm just very cold."
 
-"I was able to give you plenty of food and water before you passed out. You
-were less picky about the food while you hallucinating."
+"It helped that you drank plenty of water and had a good appetite. You were
+less picky about the food the Driads gave us while you hallucinating."
 
 "I didn't eat any bugs, did I?"
 
@@ -500,37 +498,72 @@ underground, so grilled food is rare."
 "At this point, I'll take whatever cooked food I can get," Fera said standing
 up.
 
-"OK, we'll head underground through that cave."
+"OK, we could go to the dining car, but at this point it might be best to wait
+until we arrive. We're almost there."
 
-"Hold on, where's Arba? She said she would come see us off."
+"Where are we going anyway?"
 
-Raf looked very uncomfortable. "Fera, it will be better if you don't see Arba
-again."
+"I'm taking you to a Lunker health resort."
 
-"What are you talking about?"
+"That sounds pretty boring."
 
-"Fera, you inhaled a very potent psychoactive substance. You didn't so much
-smell a flower as snort it. You could get addicted and then you would be in the
-same situation as the Provost."
+"They have thermal baths that are so saltly that you can effortlessly float on
+top of the water."
 
-"You can't tell me what to do. I'll snort all of the flowers I want."
+Fera pretended to snore.
 
-"Go ahead. I'm going to have hot meal in the Lunker city. Have fun foraging for
-food in the forest."
+Raf shrugged. "The resort will help you recover from the psychoactive
+substances you inhaled, but I won't try to force you to go. Maybe Moga can
+convince you to take your health seriously."
 
-Fera looked around. She had no idea where she was. Having lived in a city all
-her life, she had never even been in a forest before. Living in the forest with
-the Driads was not for her. No hunting. No cooked food. No technology. Fera
-decided to take her chances underground.
+"Who's Moga?"
 
-"Wait, Raf, I'm not that into flowers."
+"Moga is the leader of the Lunker Mimics."
 
-"I'm really happy to hear that, Fera. To be honest, I was only bluffing about
-leaving without you."
+"So, she's like the Lunker equivalent of Arba."
 
-"I know, Raf. I think you are in love with me."
+"They're nothing alike," Raf huffed. "Arba gets Humans addicted so that they
+stay with her in the forest for the rest of their lives. Moga would never do
+that."
+
+"Is that what's going to happen with the Provost? I though he was going to get
+better, but it sounds like he is just going to trade one addiction for
+another."
+
+"We didn't have a choice. He was too sick to travel and needed help right
+away. If we had waited for him to get better, you would have been trapped there
+too."
+
+"We should have at least warned him not to smell her flowers."
+
+"It wouldn't have mattered. All of the Mimics Driads release psychoactive
+pollen. Any Human that stays in the forest long enough eventually gets addicted
+and doesn't want to leave."
+
+"We should have brought him with us."
+
+Raf seemed to be running out of patience. "He would have turned us in at the
+first chance he got. You would go prison for destroying a city. I would
+probably go to prison for helping you."
+
+"Maybe you're right. Did you plan to leave him there for the beginning?"
+
+"I'll do anything to protect you. The Provost was a threat."
 
 ...
+
+...
+
+
+
+
+At the bottom of Wessel Lake, Raf has a flashback to the gas attack that killed
+his parents and has panic attack.
+
+...
+
+"And that doesn't happen with Lunker Mimics?"
+
 
 Raf introduces Fera to Moga who takes Fera to a hot spring to detox. Moga makes
 sure not to release any spores to keep Fera from getting high again. They eat,
@@ -659,7 +692,7 @@ human reproduction, the genetic material itself is insufficient to create a
 viable offspring. The offspring are engineered based on the information
 collected during interactions with loved ones."
 
-"Wow, I am not sure how you did it, but you succeeded in making sexual
+"Wow, I'm not sure how you did it, but you succeeded in making sexual
 reproduction sound really boring."
 
 "Sex is not required for mimic reproduction."
@@ -683,13 +716,13 @@ and me to keep it a secret. My father never knew."
 "I miss my mom. I hope she got out of the city in time, but I wouldn't be upset
 if my dad died in the explosion."
 
-"I am sorry that he hurt you," Raf said quietly. Fera was angry that Raf
-brought it up, but she felt a lot less anger than she expected. She considered
-stabbing Raf with her wooden knife, but decided against it. Instead, Fera kept
-her mind busy by counting all the ways she could torture and brutally kill Raf
-the next day. Fera fell asleep with violence on her mind. She dreamed of
-stringing up those who had wronged her, slicing them open with her wooden
-knives, and dancing beneath the shower of their blood.
+"I'm sorry that he hurt you," Raf said quietly. Fera was angry that Raf brought
+it up, but she felt a lot less anger than she expected. She considered stabbing
+Raf with her wooden knife, but decided against it. Instead, Fera kept her mind
+busy by counting all the ways she could torture and brutally kill Raf the next
+day. Fera fell asleep with violence on her mind. She dreamed of stringing up
+those who had wronged her, slicing them open with her wooden knives, and
+dancing beneath the shower of their blood.
 
 Fera awoke shivering. It was still dark and the moisture from the moss beneath
 her had permeated through her animal skin clothes. She had never felt so cold
@@ -798,7 +831,7 @@ the nose."
 important part of the cultural heritage of Lunkers. I have always wanted to see
 it," Raf said.
 
-"It's a trap and I am going to say no and if you try to stop me I'll stab you."
+"It's a trap and I'm going to say no and if you try to stop me I'll stab you."
 
 "Please Fera, let me talk to him, Lunker to Lunker. If it is a trap, I will
 find out."
@@ -812,7 +845,7 @@ a quiet, friendly voice.
 
 "Nil."
 
-"Greetings Nil! I am Raf and this is Fera." The conversation seemed to be going
+"Greetings Nil! I'm Raf and this is Fera." The conversation seemed to be going
 well until a rock hit the Lunker in the side of the head with such force that
 he crumpled to the floor. Fera pounced on Lunker's chest with a rock in each
 hand and started to make a few improvements to his face.
