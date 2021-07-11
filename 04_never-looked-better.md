@@ -331,12 +331,17 @@ food? Raf seems to be enjoying it."
 
 Fera looked at the food in front of her. Some of the bugs had crawled off of
 the leaves and onto the ground. Fera quickly ate some nuts and berries,
-carefully avoiding the bugs and crunching loudly while complimenting how
+carefully avoiding the bugs and chewing loudly while complimenting how
 delicious the food tasted.
 
-Faced with the prospect of eating only nuts and berries, Fera decided to make
-plans to quickly continue their journey. "Well, we do not want to delay our
-quest to overthrow the government. Can we leave our sick companion with you
+"The nuts might taste even better roasted, and you could cook the berries into
+a jam," Fera suggested.
+
+Arba shook her head. "We do not cook food. We do not use fire at all."
+
+Faced with the prospect of eating only raw nuts and berries, Fera decided to
+make plans to quickly continue their journey. "Well, we do not want to delay
+our quest to overthrow the government. Can we leave our sick companion with you
 until he gets better?"
 
 "Yes, of course, you may leave him, but it will be dark soon and you should not
@@ -363,9 +368,9 @@ Raf."
 
 Fera chuckled nervously. "No, we are not together like that."
 
-"Raf has imprinted on you, so unless you are separated or you reject him, it is
-only a question of time," Arba said, and then turning to Raf, she asked "Have
-you not explain to her how our kind reproduces?"
+"Raf has imprinted on you, so unless you are separated from him or you reject
+him, it is only a question of time," Arba said, and then turning to Raf, she
+asked "Have you not explain to her how our kind reproduces?"
 
 Raf burned red with embarrassment.
 
@@ -395,7 +400,7 @@ Arba exclaimed in horror.
 make sense of what Arba and Raf were saying. "Arba, you're a Driad. Raf, you're
 a Lunker. Are you also Mimics?"
 
-"Yes, Arba and I are Mimics." Raf said. "Mimics look like Humans but we can
+"Yes, Arba and I are Mimics." Raf said. "Mimics look like Humans, but we can
 survive without eating food, reproduce without sexual intercourse, and live
 indefinitely without growing old."
 
@@ -450,7 +455,7 @@ head. Fera took in the glorious forest around, but soon felt restless. She was
 ripe and practically burst with juice.
 
 Arba plucked Fera from the branch and devoured her whole, seeds and all. Inside
-of Arba, Fera transformed in a baby. She was felt safe and warm. Her favorite
+of Arba, Fera transformed in a baby. She felt safe and warm. Her favorite
 pastime was kicking Arba from the inside. Fera did not want to leave the womb
 and cried intensely when the contractions pushed her out. The world was too
 bright and so cold. Arba embraced Fera, began to breastfeed her, and sang her a
@@ -505,16 +510,31 @@ again."
 "What are you talking about?"
 
 "Fera, you inhaled a very potent psychoactive substance. You didn't so much
-smell her flower as snort it. You could get addicted and then you would be in
-the same situation as the Provost."
+smell a flower as snort it. You could get addicted and then you would be in the
+same situation as the Provost."
 
 "You can't tell me what to do. I'll snort all of the flowers I want."
+
+"Go ahead. I'm going to have hot meal in the Lunker city. Have fun foraging for
+food in the forest."
+
+Fera looked around. She had no idea where she was. Having lived in a city all
+her life, she had never even been in a forest before. Living in the forest with
+the Driads was not for her. No hunting. No cooked food. No technology. Fera
+decided to take her chances underground.
+
+"Wait, Raf, I'm not that into flowers."
+
+"I'm really happy to hear that, Fera. To be honest, I was only bluffing about
+leaving without you."
+
+"I know, Raf. I think you are in love with me."
 
 ...
 
 Raf introduces Fera to Moga who takes Fera to a hot spring to detox. Moga makes
 sure not to release any spores to keep Fera from getting high again. They eat,
-drink, and relax in the hot water. Moge explains Mimics to Fera.
+drink, and relax in the hot water. Moga explains Mimics to Fera.
 
 They are met by Moga, a representative of the Mimic colony. She looks really
 cute, child-like, thin, and is very shy. She speaks and moves slowly. Her head
