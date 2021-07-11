@@ -543,12 +543,14 @@ and doesn't want to leave."
 "We should have brought him with us."
 
 Raf seemed to be running out of patience. "He would have turned us in at the
-first chance he got. You would go prison for destroying a city. I would
-probably go to prison for helping you."
+first chance he got. You would have been sent to prison for destroying a
+city. I would have probably been sent to prison for helping you."
 
-"Maybe you're right. Did you plan to leave him there for the beginning?"
+"Maybe you're right. Did you plan to leave him with the Driads from the
+beginning?"
 
 "I'll do anything to protect you. The Provost was a threat."
+
 
 ...
 
