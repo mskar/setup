@@ -404,9 +404,8 @@ bind d       detach-client                                     # mnemonic: detac
 # Tmux buffers are like Vim registers
 # use bracketed-paste (-p option)
 # https://cirw.in/blog/bracketed-paste
-bind C-y     choose-buffer
-bind ]       paste-buffer -p
-bind y       choose-buffer                                     # I have no idea why y is not working
+bind C-y     paste-buffer -p                                   # like GNU readline C-y
+bind y       copy-mode                                         # *y* *yank*
 
 # ctrl 2-8 send codes        
 # ctrl / sends codes 
@@ -417,6 +416,9 @@ bind M-2     select-layout even-vertical
 bind M-3     select-layout main-horizontal
 bind M-4     select-layout main-vertical
 bind M-5     select-layout tiled
+
+# https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard
+set -g default-command "reattach-to-user-namespace -l zsh"
 
 # List of plugins
 set -g @plugin 'tmux-plugins/tpm'

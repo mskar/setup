@@ -50,6 +50,8 @@ brew "pass"
 brew "poppler"
 # File browser
 brew "ranger"
+# Reattach process (e.g., tmux) to background
+brew "reattach-to-user-namespace"
 # Perl-powered file rename script with many helpful built-ins
 brew "rename"
 # Search tool like grep and The Silver Searcher
