@@ -523,8 +523,7 @@ convince you to take your health seriously."
 "So, she's like the Lunker equivalent of Arba."
 
 "They're nothing alike," Raf huffed. "Arba gets Humans addicted so that they
-stay with her in the forest for the rest of their lives. Moga would never do
-that."
+stay in the forest for the rest of their lives. Moga would never do that."
 
 "Is that what's going to happen with the Provost? I though he was going to get
 better, but it sounds like he is just going to trade one addiction for
@@ -542,15 +541,43 @@ and doesn't want to leave."
 
 "We should have brought him with us."
 
-Raf seemed to be running out of patience. "He would have turned us in at the
-first chance he got. You would have been sent to prison for destroying a
-city. I would have probably been sent to prison for helping you."
+"He would have turned us in at the first chance he got. You would have been
+sent to prison for destroying a city. I would have probably been sent to prison
+for helping you."
 
-"Maybe you're right. Did you plan to leave him with the Driads from the
-beginning?"
+"Did you plan to leave him with the Driads from the beginning?"
 
-"I'll do anything to protect you. The Provost was a threat."
+"The Provost was a threat. I removed that threat. I'd do anything to protect
+you."
 
+"You actually sound kinda awesome when you talk like that."
+
+Raf did not say anything else, as if he decided to quit while he was ahead and
+bask in his victory. Fera was amused to see how extremely satisfied he was with
+himself. Raf stood up and handed a fur bag, a bow, and a quiver of arrows to
+Fera. He slung an identical set of items over his shoulders and said, "We'll be
+there soon."
+
+Fera looked out the window and saw only darkness. "How do you know?"
+
+"I can tell the train is decelerating by looking at the bioluminescent
+markers."
+
+Fera squinted at the darkness. "I don't see any markers."
+
+"Lunkers are much more sensitive to bioluminescence than topsiders," Raf
+explained. "The markers are one kilometer apart. At top speed, it takes the
+train around 20 seconds to get from one marker to another. Since I started
+paying attention, it's gone from 30 seconds between markers to one minute."
+
+"Ok, the top speed is 180 and we went from going 120 to 60 kilometers per
+hour." Fera asked.
+
+Raf nodded. "Let's head towards the end of the train car."
+
+Fera was surprised to see that the train station was well lit. The ceilings
+were white with crystal chandeliers spread out in between arches every 10
+meters.
 
 ...
 
