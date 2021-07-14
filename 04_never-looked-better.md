@@ -616,8 +616,9 @@ health resort."
 for me."
 
 Moga took a deep breath and walked up slowly to the young man. He seemed to be
-shocked that Moga was talking to him and stared at her for a few moments before
-cracking a joke. Covering her mouth with her hand, Moga shook with
+shocked that Moga was talking to him and initially just stared at her. Moga
+seemed to get embarrassed and was about to leave when the young smiled and
+began to tell jokes. Covering her mouth with her hand, Moga shook with
 laughter. The young man put the portable display in his bag and offered his arm
 to Moga. She looked at the ground but then took his arm and walked off with
 him.
@@ -656,13 +657,15 @@ any questions about the prize, I believe these might be able to provide some
 answers."
 
 The glasses looked identical to the pair Iona had used to communicate with
-Fera.
+Fera. Not having the tools needed to inspect the glasses, Fera decided not to
+put them on.
 
 "Who are you and who is that guy over there that looks like you?" Fera
 demanded.
 
-"I'm Oil and that's my brother Nil. It's totally like him to ditch a job for a
-girl, but I guess I should be grateful, because I was hired in his place."
+"I'm Oil, and that's my big brother Nil. It's totally like him to ditch a job
+for a girl, but I guess I should be grateful, because I was hired in his
+place."
 
 "What job?" Fera asked.
 
@@ -671,8 +674,37 @@ payout. Enough to eat in a fancy place like this once in a while."
 
 "What's at Wessel Lake?"
 
-"It's the largest subterrean lake in Wieliczka. I've never been, I could never
-afford a ticket, but I heard the boat ride is pretty romantic."
+"Wessel lake is the largest subterrean lake in Wieliczka. There's a tugboat
+there. I've never been, I could never afford a ticket, but I heard the boat
+ride is pretty romantic."
+
+"Who hired you to take us there?"
+
+"I don't know. I got the gig through an app, same as Nil. The payer is
+anonymous."
+
+Fera got up and walked over to Moga and Nil.
+
+"Why were you waiting for me at train station?" Fera asked.
+
+"Are you Fera? Sorry, of course you are. I was supposed to take you to Wessel
+Lake so you could enjoy a boat ride."
+
+"Who's that over there?" Fera asked.
+
+"That's my little brother Oil. Is he trying to steal my gig?"
+
+"I don't care about your gig. I want to know what's so special about Wessel
+Lake."
+
+"Well, it's the biggest subterrean lake in all of Wieliczka."
+
+Fera had exhausted all of her patience. "Ok, you're going to take to take us
+there,  but I'm not getting into any boats until I'm sure its safe."
+
+"It's actually very hard to drown in Wessel Lake. The high salt content greatly
+increases buoyancy and you float effortlessly."
+
 
 ...
 
