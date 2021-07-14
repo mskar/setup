@@ -8,7 +8,7 @@ export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
 export MANPAGER="nvim -c 'set ft=man' -"
 export PAGER="less"
-export PATH=$(brew --prefix)/Caskroom/miniforge/base/bin:$PATH
+export PATH=$(brew --prefix)/Caskroom/mambaforge/base/bin:$PATH
 export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
@@ -835,14 +835,14 @@ bindkey -M viins '≥' insert-last-word
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/usr/local/Caskroom/miniforge/base/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/usr/local/Caskroom/mambaforge/base/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/usr/local/Caskroom/miniforge/base/etc/profile.d/conda.sh" ]; then
-        . "/usr/local/Caskroom/miniforge/base/etc/profile.d/conda.sh"
+    if [ -f "/usr/local/Caskroom/mambaforge/base/etc/profile.d/conda.sh" ]; then
+        . "/usr/local/Caskroom/mambaforge/base/etc/profile.d/conda.sh"
     else
-        export PATH="/usr/local/Caskroom/miniforge/base/bin:$PATH"
+        export PATH="/usr/local/Caskroom/mambaforge/base/bin:$PATH"
     fi
 fi
 unset __conda_setup

@@ -359,12 +359,12 @@ ln -sf .radian_profile radian_profile.R
 
 # 6: Conda environments (base, Python and R)
 ### Install cookiecutter (for i alias) and neovim (for vim plugins)
-$(brew --prefix)/bin/conda install -yc conda-forge cookiecutter neovim
+mamba install -yc conda-forge neovim
 
-$(brew --prefix)/bin/conda create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
+mamba create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 
 ##### Installing r into base environment breaks nvim-R
-$(brew --prefix)/bin/conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
+mamba create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
 
 # 7: Code editors
 ### Radian, ipython, ptpython, and jupyter-vimrc extension
