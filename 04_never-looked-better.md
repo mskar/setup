@@ -570,14 +570,109 @@ explained. "The markers are one kilometer apart. At top speed, it takes the
 train around 20 seconds to get from one marker to another. Since I started
 paying attention, it's gone from 30 seconds between markers to one minute."
 
-"Ok, the top speed is 180 and we went from going 120 to 60 kilometers per
-hour." Fera asked.
+"Ok, the top speed is 180 and we just went from going 120 to 60 kilometers per
+hour," Fera said.
 
 Raf nodded. "Let's head towards the end of the train car."
 
-Fera was surprised to see that the train station was well lit. The ceilings
-were white with crystal chandeliers spread out in between arches every 10
-meters.
+Fera was surprised to see that the train station was well lit. The ceiling was
+white with chandeliers spread out in between arches every 10 meters. The
+chandeliers were topped with prisms that split the light and sent rainbow
+patterns onto the ceiling.
+
+"Moga is waiting for us over there." Raf said pointing at a dark corner of the
+train station. Fera started to follow Raf, but stopped when something caught
+her eye. A young man dressed in a dirty jumpsuit was holding a portable display
+with her name on it. Fera smirked and kept walking. _It's obviously a trap,_
+she thought.
+
+"Is that her?" Fera asked.
+
+"Yes, that's Moga," Raf replied.
+
+Fera had been expecting someone tall and majestic like Arba. In contrast to
+Arba, Moga looked a high schooler in desperate need of sleep. All of her
+clothing were made out of a mesh of roots, except for her skirt and bonnet,
+which both looked like a mushroom caps. The skirt and bonnet were held in place
+by tangles of roots that encircled her hips and head like a belt and a
+crown. Her dark hair was partially covering her sleepy eyes as if shielding
+them from the light.
+
+Moga appeared to be very shy. She clasped her hands behind her back and greeted
+Fera while struggling to maintain eye contact. "Hello Fera, welcome to
+Wieliczka."
+
+Fera skipped over the pleasantries. "There's a guy waiting here for me. I need
+you to go talk to him and figure out what he wants."
+
+"Talk to him?! I don't know who he is!" Moga exclaimed. She did not seem eager
+to talk to anyone. Fera positioned herself behind Moga and gave her a little
+shove. "You won't know who he is until you go talk to him."
+
+Moga turned around to face Fera and said, "I'm supposed to take you to the
+health resort."
+
+"I won't go anywhere until I figure out who that guy is and why he is waiting
+for me."
+
+Moga took a deep breath and walked up slowly to the young man. He seemed to be
+shocked that Moga was talking to him and stared at her for a few moments before
+cracking a joke. Covering her mouth with her hand, Moga shook with
+laughter. The young man put the portable display in his bag and offered his arm
+to Moga. She looked at the ground but then took his arm and walked off with
+him.
+
+"Wow, they really hit it off," Fera observed.
+
+"Moga is known far and wide for her legendary charisma," Raf said in a
+completely serious voice.
+
+"I'll admit that she is pretty cute. Come on, let's follow them."
+
+Fera and Raf followed Moga and the young man to a nearby restaurant. Raf
+ordered food for Fera and himself. He spoke to the waiter in Lunker. Fera kept
+peeking at Moga, who seemed to be enjoying the conversation that the young man
+was trying his best to provide. When the first course arrived, Fera eyed it
+suspiciously.
+
+"It's snail soup," Raf explained.
+
+Fera gave the soup a try. It was creamy, salty, and delicious. The little
+pieces of snail in the soup were elastic, slimy, and chewy. Compared to live
+bugs, cooked snails were no problem at all. The soup quickly made Fera very
+thirsty, so she washed it down with hot mushroom tea, which tasted like boiled
+soil.
+
+Before the second course arrived, a young man walked up to their table and
+said, "Congratulations, you've won a free boat trip for two on Wessel Lake."
+
+Fera noticed that this young man looked similar to the one charming Moga and
+was also dressed in a dirty jumpsuit.
+
+"What's the catch?" Fera asked.
+
+The young man put a pair of glasses down on the table and said, "If you have
+any questions about the prize, I believe these might be able to provide some
+answers."
+
+The glasses looked identical to the pair Iona had used to communicate with
+Fera.
+
+"Who are you and who is that guy over there that looks like you?" Fera
+demanded.
+
+"I'm Oil and that's my brother Nil. It's totally like him to ditch a job for a
+girl, but I guess I should be grateful, because I was hired in his place."
+
+"What job?" Fera asked.
+
+"It's a great gig. All I have to do is take you to Wessel Lake and I get a huge
+payout. Enough to eat in a fancy place like this once in a while."
+
+"What's at Wessel Lake?"
+
+"It's the largest subterrean lake in Wieliczka. I've never been, I could never
+afford a ticket, but I heard the boat ride is pretty romantic."
 
 ...
 
