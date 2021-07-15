@@ -680,30 +680,45 @@ ride is pretty romantic."
 
 "Who hired you to take us there?"
 
-"I don't know. I got the gig through an app, same as Nil. The payer is
-anonymous."
+"I don't know. I got the gig through an app called GigGet. Nil uses it too."
 
 Fera got up and walked over to Moga and Nil.
 
 "Why were you waiting for me at train station?" Fera asked.
 
 "Are you Fera? Sorry, of course you are. I was supposed to take you to Wessel
-Lake so you could enjoy a boat ride."
+Lake, so you could enjoy a boat ride."
+
+"Whose paying you?"
+
+"I'm not sure. The payer is anonymous."
 
 "Who's that over there?" Fera asked.
 
 "That's my little brother Oil. Is he trying to steal my gig?"
 
-"I don't care about your gig. I want to know what's so special about Wessel
-Lake."
+"What's so special about Wessel Lake?"
 
-"Well, it's the biggest subterrean lake in all of Wieliczka."
+"Well, it's the biggest underground lake in Wieliczka."
 
-Fera had exhausted all of her patience. "Ok, you're going to take to take us
-there,  but I'm not getting into any boats until I'm sure its safe."
+Fera realized that she was not going to get any useful information from Nil or
+Oil. She turned around and started walking back to Raf and Oil. Nil stood up
+and said, "Wait, how about we all go to Wessel Lake together?"
 
-"It's actually very hard to drown in Wessel Lake. The high salt content greatly
-increases buoyancy and you float effortlessly."
+"Fine," Fera said without stopping. A few moments after Fera sat down again,
+Nil pulled up chairs for himself and Moga.
+
+"Are you here for the Lake Wessel gig too?" Nil whispered to his brother.
+
+Oil nodded. The brother used the tabletop console to show each other their
+GigGet accounts.
+
+"We're going to be rich!" The brothers said in unison.
+
+Fera stood up and looked at the console. The gig looked very simple. As long as
+Fera got on the boat at Wessel Lake, both Nil and Oil would get paid. There was
+no deadline and a small portion of the funds had already been sent to the
+brothers.
 
 
 ...
