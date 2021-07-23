@@ -432,6 +432,9 @@ bind M-5      select-layout tiled
 # https://superuser.com/a/325579
 set -sg repeat-time 300                  # decrease repeat timeout
 
+# https://stackoverflow.com/questions/42102839/tmux-list-command-prompt-history
+set -g history-file ~/.tmux_history
+
 # https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard
 set -g default-command "reattach-to-user-namespace -l zsh"
 
