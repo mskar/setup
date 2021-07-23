@@ -398,7 +398,6 @@ bind 9        select-window -t:$                                # *:tabl* *:tabl
 bind T        break-pane                                        # *CTRL-W_T*
 
 # Sessions are like buffers
-bind -r C-[   switch-client -p                                  # [b *:bN* *:bNext* *:bp* *:bprevious* *E88*
 bind -r C-]   switch-client -n                                  # ]b :bn* *:bnext* *E87*
 bind -r C-^   switch-client -l                                  # *CTRL-^* *CTRL-6*
 bind -r [     switch-client -p                                  # [b *:bN* *:bNext* *:bp* *:bprevious* *E88*
@@ -417,7 +416,8 @@ bind y        copy-mode                                         # *y* *yank*
 
 # ctrl 2-8 send codes        
 # ctrl / sends codes 
-# ctrl is ignored with - ; = . [ ] , \ ' space enter 1 9 and comma
+# ctrl is ignored with - ; = . ] , \ ' space enter 1 9 and comma
+# ctrl [ is escape
 # c-z suspends tmux
 bind M-1      select-layout even-horizontal
 bind M-2      select-layout even-vertical
