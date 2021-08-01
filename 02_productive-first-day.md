@@ -1,9 +1,9 @@
 # Productive first day
 
 _Why am I like this?_, Fera thought as she covered her mouth so no one would
-hear her crying. She had been drifting in and out of sleep on the hard concrete
-floor of the theater, but she could not stop thinking of Kaia writhing on the
-ground during her psychotic episode.
+hear her crying. She had been sitting on the hard concrete floor of the
+theater, trying to think of something other than Kaia writhing on the ground
+during her episode.
 
 The screams were bad, but the low dull wailing that followed was somehow worse.
 It was as if Kaia had a demon inside her trying to claw its way out. Sata held
@@ -12,9 +12,9 @@ seizures, Sata's eyes stayed open, the look of concern on her face would melt
 away, and she would stare off into void.
 
 When Kaia stopped breathing, Sata responded immediately by giving her CPR. Did
-Sata already know what to do, because she had been in this situation before?
-Fera felt absolutely powerless. She had never met anyone like Sata and
-Kaia. Was she responsible for what happened?
+Sata already know what to do, because she had done it before? Fera felt
+absolutely powerless. She had never met anyone like Sata and Kaia. Was she
+responsible for what happened?
 
 _It's not my fault that they're like that,_ Fera thought to herself, getting up
 off the ground. Looking at Kaia and Sata lying peacefully in the secret bed,
@@ -23,10 +23,10 @@ really nice, but Fera was wracked by feelings of guilt and did not feel she
 deserved to be comfortable.
 
 _I don't need sleep. Beds are for the weak. The only thing that matters is the
-revolution,_ Fera thought as she got up and started trying to find her way out
-of the theater in complete darkness. With each step, she probed the ground
-beneath her. She had not gotten very far when she noticed two glowing eyes
-observing her in the darkness.
+revolution,_ Fera thought as she started trying to find her way out of the
+theater in complete darkness. With each step, she probed the ground beneath
+her. She had not gotten very far when she noticed two glowing eyes observing
+her in the darkness.
 
 "Do you know you're creepy as hell?" Fera asked.
 
@@ -35,7 +35,8 @@ My sister is much better. She is a people person," Raf answered.
 
 "Well, then bring her here. I'd rather talk to her."
 
-"She is watching over Sata and Kaia. If they wake up in the darkness-"
+"She is watching over Sata and Kaia. If they wake up in the darkness, they
+might get scared."
 
 "Shut up, turn on a flashlight, and show me the way out of here."
 
@@ -45,8 +46,9 @@ _Is he still trying to be friends with me?_ Fera thought. _What a loser!_
 
 Not having other plans, Fera nodded. The maker workshop would be a welcome
 distraction from the feelings she was trying to ignore. Fera and Raf walked in
-silence to the maker workshop. Raf gave Fera a tour. Fera was dumbstruck at how
-technologically advanced and well stocked the maker workshop was.
+silence to the maker workshop. Upon arrival, Raf began to give Fera a
+tour. Fera was dumbstruck at how technologically advanced and well stocked the
+maker workshop was.
 
 "I wasn't expecting this place to be halfway decent. Everything else in the
 crappy college is absolutely worthless."
@@ -62,7 +64,7 @@ Fera laughed. "And they have money to burn on all of this?"
 
 "Their parents are high ranking members of the CorporateCouncil."
 
-"If they're so rich, why do they go to a run-down public college?"
+"If they're so rich, why do their kids go to a run-down public college?"
 
 "I don't know, but you can ask them yourself." Raf said walking up to a
 workstation and activating its console. After tapping a few times at the
@@ -102,8 +104,8 @@ displayed information that was only visible on the inside of the glasses. Some
 text appeared that almost made Fera drop the glasses. The text read, 'Hello
 Fera.'
 
-Fera looked around. The workshop was empty except for Raf and he was busy
-tinkering.
+Fera looked around. The only other person in the workshop was Raf, and he was
+busy tinkering.
 
 The words, 'Liberty, Equality, Sorority' appeared on the glasses. Someone was
 clearly trying to appeal to her revolutionary sentiments.
@@ -111,25 +113,29 @@ clearly trying to appeal to her revolutionary sentiments.
 Fera picked up the glasses and brought them over to the workstation where Raf
 was tinkering.
 
-"Move," Fera said shoving Raf to side. She unscrewed the hinges and cracked
-open the temples.
+"Move," Fera said shoving Raf to side and began to inspect the glasses. She
+unscrewed the hinges and cracked open the temples.
 
 "Did you make these?" Raf asked.
 
-"Don't ask dumb questions," Fera snapped. The temples contained a laser array,
-a microphone, and a bone conduction sound system. Not finding anything
-nefarious, Fera put the glasses back together and put them on.
+Fera did not answer and instead the surveyed the internal components of the
+glasses. The temples contained a laser array, a microphone, and a bone
+conduction sound system. Not finding anything nefarious, Fera put the glasses
+back together and put them on.
+
+Raf looked very uncomfortable. "Portable electronics are allowed in here,
+because Ben got special permission, but if you take those outside the workshop,
+you'll get arrested."
 
 Fera heard a soft, feminine voice say, `Hello Fera. My name is Unoa.`
 
-Looking around, Fera confirmed that she and Raf were the only people in the
-workshop.
+Looking around, Fera confirmed that she alone with Raf in the workshop.
 
 "Fera, did you finish reading the message? Should I call Ben and Edl now?" Raf
 asked.
 
 "You can call them using a console outside the workshop, right?" Fera
-asked. "While you do that, I will finish up with the message."
+asked. "While you do that, I'll finish up with the message."
 
 Raf seemed puzzled, but left the workshop without asking any further questions.
 
@@ -157,9 +163,9 @@ neutralize threats, like the bully you encountered earlier today.`
 
 "Cracking the skulls of people who bother me is a great way to gain my trust."
 
-`I will protect you whenever necessary, but I would prefer to maintain a low
-profile for now. Speaking of which, Raf is returning and it would be best if he
-did not hear you speaking to me.`
+`I will protect you whenever necessary, but it would be best if you could avoid
+trouble. I'd prefer to maintain a low profile for now. Speaking of which,
+Raf is returning and it would be best if he did not hear you speaking to me.`
 
 Raf walked up to Fera and announced, "Ben and Edl are on the way."
 
@@ -188,7 +194,7 @@ gourd and started scooping out the contents of the gourd onto the workstation.
 
 Raf proudly observed the robot work. Not wanting burst his bubble, Fera
 pretended to pay attention, but she could not imagine anything more boring that
-a birdhouse building bot.
+a birdhouse-building robot.
 
 Unoa clearly agreed. `There's nothing even remotely interesting about this
 robot. Initiating display of epic fail videos.`
@@ -229,8 +235,8 @@ can also reserve any workstation for any period of time," then holding up one
 finger on one hand, "But you can only reserve one workstation at a time."
 
 Fera glanced at the console screen. "The reservation schedule looks mostly
-empty. Actually, you and Raf are the only ones making reservations. Do people
-mostly use whatever workstation is available?"
+empty. Actually, it seems that you and Raf are the only ones making
+reservations. Do people mostly use whatever workstation is available?"
 
 Ben looked a little uncomfortable. "The workshop is criminally
 underutilized. The college does not require anyone to use it and it seems that
@@ -252,8 +258,117 @@ formed secret maker interest group?"
 
 "Sure," Fera replied casually.
 
-"Excellent!" Ben responded and then opened a large cabinet. "You can use any of
-the tools as long as you follow the workshop rules."
+"Excellent!" Ben responded. "Has Raf shown you around?"
+
+"We didn't really have time," Raf interjected. "I just showed Fera my birdhouse
+builder."
+
+"Would you like to see what I am working on?" Ben asked.
+
+Fera nodded. She noticed that the container that Ben placed on the workstation
+was labeled "Ben's Builder Bots" and asked, "You're building robots that build
+things?"
+
+"Yes, I like to call it metabuilding," Ben said proudly.
+
+Fera studied the contents of the container. "Can the builder robots build other
+builder robots?"
+
+Ben opened his mouth to answer, but then started to scribble furiously on his
+palm while muttering to himself. "Builder-bot-building builder bots...
+Self-replication... Metametabuilding... Why build when I can metabuild? Why
+metabuild when I can metametabuild? Brilliant!"
+
+"Now it's my turn!" Edl declared. He pulled out a board from his bin and placed
+it on the workstation. "When you push the button, the light turns on and the
+fan starts spinning!" he explained.
+
+Fera waited a beat to see if Edl would say anything else. Edl beamed with
+pride, waiting for praise. Fera resisted the impulse to make a mocking
+comment. She smiled and said, "That's great, Edl. Maybe later I can show you
+how to add a sensor that turns on the fan when it's hot and turns on the light
+when it's dark?"
+
+Edl nodded. He looked extremely touched. Ben and Raf both smiled warmly at
+Fera. Being kind to Edl had clearly bought her a lot of good will in the group.
+
+"Fera, would like to go for a tour of the college?" Ben asked. "We could walk
+or skate, whichever you prefer."
+
+"I don't have my skates," Fera said.
+
+"That's no problem. I can make you a pair of powerskates. I just need a scan of
+your feet."
+
+"This isn't some kind of fetish, right? You're not into feet, are you?" Fera
+asked. Seeing how flustered Ben looked, Fera said, "Relax, I'm just kidding."
+She sat down in front of the printer, took of her shoes, and slid her feet into
+the scanner.
+
+Ben began tapping at the console connected to the printer. "The scan is
+done. While we are waiting for the printer to finish, I will grant you an
+exception to ban on portable electronics, so you can use the powerskates to go
+anywhere you like."
+
+`Ask him to do the same for your glasses,` Unoa suggested.
+
+"While you are at it, can you add an exception for my glasses?" Fera asked,
+touching the frames with her hand.
+
+Ben nodded and brought up the printer logs. "These glasses are very well
+designed, Fera."
+
+"They're just something I was tinkering with before you arrived," Fera
+replied. The printer pinged to indicate that it had finished.
+
+"That was fast," Fera remarked as she opened the printer bay and retrieved her
+skates.
+
+"The printer comes prestocked with powerskate skeletons. It just has to adapt
+the internal sensors to the scan of your feet," Ben explained. "The sensors
+control the powerskate throttle. Pressing your toes down makes you go
+forward. If you raise your toes, you slow down and can even go backwards."
+
+While Fera was putting on her skates, Raf pulled out a pair of powerskates from
+a cabinet and put them.
+
+"You're not going to put on powerskates, Edl?" Fera asked.
+
+"I want to run. If I don't get tired during the day, I can't sleep at night,
+and I ask Ben a lot of questions, and he gets angry," Edl replied. Ben chuckled
+nervously. "Speaking of running, let's head to the BugBall field first. Please
+follow me." Ben lead the way out of the workshop and into the hallway. Fera
+felt strange relying on the powerskates to propel her forward.
+
+On the way to field, Ben and Raf provided facts about the college. Edl had no
+trouble keeping up with them. He did not seem winded at all. When they were
+near the field, Edl seemed to get more and more excited. "I love BugBall," he
+said.
+
+"Our BugBall team is undefeated, thanks to Edl," Raf chimed in.
+
+When they got to the BugBall field, Ben, Fera, and Raf stopped to watch the
+college teams practicing, but Edl kept running towards the field. He jumped
+over the barrier in a single leap. No one seemed to be surprised when Edl
+joined the practice. All the BugBall players greeted Edl enthusiastically.
+
+"Does Edl always play without skates?" Fera asked.
+
+"He wears skates for matches. During practices, he likes to tire himself out."
+
+Fera had never enjoyed watching sports, but seeing Edl in action was something
+else.
+
+
+"There is no need to be so humble. Your skills are very impressive. your skates
+will be done soon, and I want to "
+
+...
+
+...
+
+and then opened a large cabinet. "You can use any of the tools as long as you
+follow the workshop rules."
 
 "What are the rules?"
 
@@ -287,23 +402,9 @@ Again, if a MIG member acts maliciously, we can always revoke their access."
 "Well, yes, within reason. As the MIG Founder and President, I rarely exercise
 my executive powers. We put most decisions to vote."
 
-Fera took a moment to savor the idea of being able to do whatever she wanted.
-Fera noticed a container labeled Ben's Builder Bots.
-
-"You're building builder bots?"
-
-"Yes, though I prefer to call it metabuilding," Ben said pulling out the
-container to show Fera.
-
-Fera studied the contents of the container. "Can the builder bots build builder
-bots?"
-
-Ben opened his mouth to answer, but then started to scribble furiously on his
-palm while muttering to himself. "Builder bot building builder bots...
-Self-replication... Metametabuilding... Why build when I can metabuild? Why
-metabuild when I can metametabuild? Brilliant!"
-
-Then looking up, Ben asked, "Would you like to be Vice President of the MIG?"
+Fera took a moment to savor the idea of being able to do whatever she
+wanted. Then looking up, Ben asked, "Would you like to be Vice President of the
+MIG?"
 
 "You don't already have a Vice President?" Fera asked looking at Raf and Edl.
 
@@ -374,16 +475,16 @@ scanner.
 "You do know how to skate, right?" Ben asked suddenly, realizing he should have
 ascertained this important detail earlier.
 
-Fera nodded. Skating was Fera's refuge. She learned to build things by fixing
-and upgrading her skates. She would skate everyday until late in the night,
-skipping dinner and only coming home to avoid sleeping on the street. The only
-time she felt safe at home, was when her father was asleep. Sometimes her
-father would wake up angry. Most of time, that anger would spill over onto her
-mother, but sometimes her father would wake Fera up to yell at her and hit
-her. There were a few times when he did not even wake Fera up and just started
-hitting her while she was still sleeping in bed. If anyone asked about the
-bruises that covered her body, Fera would say that fell down while skating. The
-truth was that skating was much safer than being at home.
+Fera nodded. Skating was Fera's refuge. She would skate everyday until late in
+the night, skipping dinner and only coming home to avoid sleeping on the
+street. The only time she felt safe at home, was when her father was
+asleep. Sometimes her father would wake up angry. Most of time, that anger
+would spill over onto her mother, but sometimes her father would wake Fera up
+to yell at her and hit her. There were a few times when he did not even wake
+Fera up and just started hitting her while she was still sleeping in bed. If
+anyone asked about the bruises that covered her body, Fera would say that fell
+down while skating. The truth was that skating was much safer than being at
+home.
 
 "While the printer is printing your gloves and skates, I can show you how they
 work," Ben said, then paused after noticing that Fera had not moved since she
