@@ -457,17 +457,54 @@ TMUX_FZF_MENU=\
 "a.c: add files in current directory (.) and commit\ngit add . && git commit\n"\
 "a.ca: add files in current directory, amend previous commit, and push\ngit add . && git commit --amend --reset-author\n"\
 "a.cap: add files in current directory, amend previous commit, and push\ngit add . && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"a.cp: add files in current directory, commit, and push\ngit add . && git commit && git push\n"\
+"a.capf: add files in current directory, amend previous commit, and push\ngit add . && git commit --amend --reset-author && git push --force\n"\
+"a.car: add files in current directory and amend previous commit reusing the previous commit message\ngit add . && git commit --amend --reset-author --reuse-message=HEAD\n"\
+"a.carp: add files in current directory, amend previous commit reusing the previous commit message, and push\ngit add . && git commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
+"a.carpf: add files in current directory, amend previous commit reusing the previous commit message, and force push\ngit add . && git commit --amend --reset-author && git push --force\n"\
+"a.cp: add files in current directory (.), commit, and push\ngit add . && git commit && git push\n"\
+"a.cpf: add files in current directory (.), commit, and force push\ngit add . && git commit && git push --force-if-includes --force-with-lease\n"\
 "aa: add all files\ngit add --all\n"\
 "aac: add all files and commit\ngit add --all && git commit\n"\
 "aaca: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author\n"\
 "aacap: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
 "aacapf: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author && git push --force\n"\
-"aacp: add all files, commit, and push\ngit add --all && git commit && git push --force-if-includes --force-with-lease\n"\
-"ca: add and commit tracked files\ngit commit --all\n"\
+"aacar: add all files and amend previous commit reusing the previous commit message\ngit add --all && git commit --amend --reset-author --reuse-message=HEAD\n"\
+"aacarp: add all files, amend previous commit reusing the previous commit message, and push\ngit add --all && git commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
+"aacarpf: add all files, amend previous commit reusing the previous commit message, and force push\ngit add --all && git commit --amend --reset-author && git push --force\n"\
+"aacp: add all files, commit, and push\ngit add --all && git commit && git push\n"\
+"aacpf: add all files, commit, and force push\ngit add --all && git commit && git push --force-if-includes --force-with-lease\n"\
+"ai: add files interactively\ngit add --interactive\n"\
+"aic: add files interactively and commit\ngit add --interactive && git commit\n"\
+"aica: add files interactively, amend previous commit, and push\ngit add --interactive && git commit --amend --reset-author\n"\
+"aicap: add files interactively, amend previous commit, and push\ngit add --interactive && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
+"aicapf: add files interactively, amend previous commit, and push\ngit add --interactive && git commit --amend --reset-author && git push --force\n"\
+"aicar: add files interactively and amend previous commit reusing the previous commit message\ngit add --interactive && git commit --amend --reset-author --reuse-message=HEAD\n"\
+"aicarp: add files interactively, amend previous commit reusing the previous commit message, and push\ngit add --interactive && git commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
+"aicarpf: add files interactively, amend previous commit reusing the previous commit message, and force push\ngit add --interactive && git commit --amend --reset-author && git push --force\n"\
+"aicp: add files interactively, commit, and push\ngit add --interactive && git commit && git push\n"\
+"aicpf: add files interactively, commit, and force push\ngit add --interactive && git commit && git push --force-if-includes --force-with-lease\n"\
+"caa: add tracked files and amend previous commit\ngit commit --all --amend --reset-author\n"\
 "caap: add tracked files, amend previous commit, and push\ngit commit --all --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"caapf: add tracked files, amend previous commit, and push\ngit commit --all --amend --reset-author && git push --force\n"
-"cap: add, commit, and push tracked files\ngit commit --all && git push --force-if-includes --force-with-lease\n"\
+"caapf: add tracked files, amend previous commit, and force push\ngit commit --all --amend --reset-author && git push --force\n"
+"caar: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD\n"\
+"caarp: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
+"caarpf: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD && git push --force\n"\
+"cap: amend previous commit, and push tracked files\ngit commit --amend && git push --force-if-includes --force-with-lease\n"\
+"capf: amend previous commit, and force push tracked files\ngit commit --amend && git push --force-if-includes --force-with-lease\n"\
+"car: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD\n"\
+"carp: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
+"carpf: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD && git push --force\n"\
+"cai: add files interactively and amend previous commit\ngit commit --amend --interactive --reset-author\n"\
+"caip: add files interactively, amend previous commit, and push\ngit commit --amend --interactive --reset-author && git push --force-if-includes --force-with-lease\n"\
+"caipf: add files interactively, amend previous commit, and force push\ngit commit --amend --interactive --reset-author && git push --force\n"
+"cair: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD\n"\
+"cairp: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
+"cairpf: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD && git push --force\n"\
+"cip: add files interactively, commit, and push tracked files\ngit commit --interactive && git push --force-if-includes --force-with-lease\n"\
+"cipf: add files interactively, commit, and force push tracked files\ngit commit --interactive && git push --force-if-includes --force-with-lease\n"\
+"cir: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD\n"\
+"cirp: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
+"cirpf: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force\n"\
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_vim_and_neovim_sessions.md
 # for vim
