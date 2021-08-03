@@ -412,6 +412,10 @@ bind C-d      detach-client                                     # mnemonic: deta
 bind a        choose-session                                    # mnemonic: attach
 bind d        detach-client                                     # mnemonic: detach
 
+# Find an alias using the tmux-fzf menu
+bind f        run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/menu.sh"
+bind C-f      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/menu.sh"
+
 # Tmux buffers are like Vim registers
 # use bracketed-paste (-p option)
 # https://cirw.in/blog/bracketed-paste
@@ -429,23 +433,6 @@ bind M-3      select-layout main-horizontal
 bind M-4      select-layout main-vertical
 bind M-5      select-layout tiled
 
-# https://github.com/sainnhe/tmux-fzf#user-menu
-TMUX_FZF_MENU=\
-"a.: add files in current directory (.)\ngit add .\n"\
-"aa: add all files\ngit add --all\n"\
-"a.c: add files in current directory (.) and commit\ngit add . && git commit\n"\
-"aac: add all files and commit\ngit add --all && git commit\n"\
-"a.cp: add files in current directory, commit, and push\ngit add . && git commit && git push --force-if-includes --force-with-lease\n"\
-"aacp: add all files, commit, and push\ngit add --all && git commit && git push --force-if-includes --force-with-lease\n"\
-"a.cap: add files in current directory, amend previous commit, and push\ngit add . && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"aacap: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"aacapf: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author && git push --force\n"\
-"ca: add and commit tracked files\ngit commit --all\n"\
-"cap: add, commit, and push tracked files\ngit commit --all && git push --force-if-includes --force-with-lease\n"\
-"caap: add tracked files, amend previous commit, and push\ngit commit --all --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"caapf: add tracked files, amend previous commit, and push\ngit commit --all --amend --reset-author && git push --force\n"
-
-
 # https://superuser.com/a/325579
 set -sg repeat-time 300                  # decrease repeat timeout
 
@@ -461,10 +448,24 @@ set -g @plugin 'tmux-plugins/tmux-resurrect'
 set -g @plugin 'tmux-plugins/tmux-continuum'
 set -g @plugin 'sainnhe/tmux-fzf'
 
-# https://github.com/sainnhe/tmux-fzf#key-binding
-TMUX_FZF_LAUNCH_KEY="f"
 # https://github.com/sainnhe/tmux-fzf#fzf-behavior
 TMUX_FZF_OPTIONS="--delimiter=: --nth=1"
+
+# https://github.com/sainnhe/tmux-fzf#user-menu
+TMUX_FZF_MENU=\
+"a.: add files in current directory (.)\ngit add .\n"\
+"aa: add all files\ngit add --all\n"\
+"a.c: add files in current directory (.) and commit\ngit add . && git commit\n"\
+"aac: add all files and commit\ngit add --all && git commit\n"\
+"a.cp: add files in current directory, commit, and push\ngit add . && git commit && git push --force-if-includes --force-with-lease\n"\
+"aacp: add all files, commit, and push\ngit add --all && git commit && git push --force-if-includes --force-with-lease\n"\
+"a.cap: add files in current directory, amend previous commit, and push\ngit add . && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
+"aacap: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
+"aacapf: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author && git push --force\n"\
+"ca: add and commit tracked files\ngit commit --all\n"\
+"cap: add, commit, and push tracked files\ngit commit --all && git push --force-if-includes --force-with-lease\n"\
+"caap: add tracked files, amend previous commit, and push\ngit commit --all --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
+"caapf: add tracked files, amend previous commit, and push\ngit commit --all --amend --reset-author && git push --force\n"
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_vim_and_neovim_sessions.md
 # for vim
