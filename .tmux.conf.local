@@ -485,26 +485,26 @@ TMUX_FZF_MENU=\
 "aicpf: add files interactively, commit, and force push\ngit add --interactive && git commit && git push --force-if-includes --force-with-lease\n"\
 "caa: add tracked files and amend previous commit\ngit commit --all --amend --reset-author\n"\
 "caap: add tracked files, amend previous commit, and push\ngit commit --all --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"caapf: add tracked files, amend previous commit, and force push\ngit commit --all --amend --reset-author && git push --force\n"
+"caapf: add tracked files, amend previous commit, and force push\ngit commit --all --amend --reset-author && git push --force\n"\
 "caar: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD\n"\
 "caarp: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
 "caarpf: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD && git push --force\n"\
+"cai: add files interactively and amend previous commit\ngit commit --amend --interactive --reset-author\n"\
+"caip: add files interactively, amend previous commit, and push\ngit commit --amend --interactive --reset-author && git push --force-if-includes --force-with-lease\n"\
+"caipf: add files interactively, amend previous commit, and force push\ngit commit --amend --interactive --reset-author && git push --force\n"\
+"cair: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD\n"\
+"cairp: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
+"cairpf: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD && git push --force\n"\
 "cap: amend previous commit, and push tracked files\ngit commit --amend && git push --force-if-includes --force-with-lease\n"\
 "capf: amend previous commit, and force push tracked files\ngit commit --amend && git push --force-if-includes --force-with-lease\n"\
 "car: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD\n"\
 "carp: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
 "carpf: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD && git push --force\n"\
-"cai: add files interactively and amend previous commit\ngit commit --amend --interactive --reset-author\n"\
-"caip: add files interactively, amend previous commit, and push\ngit commit --amend --interactive --reset-author && git push --force-if-includes --force-with-lease\n"\
-"caipf: add files interactively, amend previous commit, and force push\ngit commit --amend --interactive --reset-author && git push --force\n"
-"cair: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD\n"\
-"cairp: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"cairpf: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD && git push --force\n"\
 "cip: add files interactively, commit, and push tracked files\ngit commit --interactive && git push --force-if-includes --force-with-lease\n"\
 "cipf: add files interactively, commit, and force push tracked files\ngit commit --interactive && git push --force-if-includes --force-with-lease\n"\
 "cir: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD\n"\
 "cirp: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"cirpf: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force\n"\
+"cirpf: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force\n"
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_vim_and_neovim_sessions.md
 # for vim
