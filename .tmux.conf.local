@@ -443,10 +443,16 @@ set -g history-file ~/.tmux_history
 set -g default-command "reattach-to-user-namespace -l zsh"
 
 # List of plugins
-set -g @plugin 'tmux-plugins/tpm'
-set -g @plugin 'tmux-plugins/tmux-resurrect'
-set -g @plugin 'tmux-plugins/tmux-continuum'
+set -g @plugin 'fcsonline/tmux-thumbs' # space
+set -g @plugin 'jabirali/tmux-tilish' # https://github.com/jabirali/tmux-tilish#keybindings
+set -g @plugin 'laktak/extrakto' # tab
+set -g @plugin 'roosta/tmux-fuzzback' # ?
 set -g @plugin 'sainnhe/tmux-fzf'
+set -g @plugin 'tmux-plugins/tmux-continuum'
+set -g @plugin 'tmux-plugins/tmux-copycat' # https://github.com/tmux-plugins/tmux-copycat#search
+set -g @plugin 'tmux-plugins/tmux-resurrect' # S B
+set -g @plugin 'tmux-plugins/tpm'
+set -g @plugin 'wfxr/tmux-fzf-url' # u
 
 # https://github.com/sainnhe/tmux-fzf#fzf-behavior
 TMUX_FZF_OPTIONS="--delimiter=: --nth=1"
@@ -505,6 +511,16 @@ TMUX_FZF_MENU=\
 "cir: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD\n"\
 "cirp: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
 "cirpf: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force\n"
+
+# https://github.com/tmux-plugins/tmux-fpp#configuration
+# Disable default binding
+set -g @fpp-bind off
+
+# Bind 'f' to run FPP launching an editor
+bind-key f run-shell '~/.tmux/plugins/tmux-fpp start edit'
+
+# Bind 'x' to run FPP and paste the list of files in the initial pane
+bind-key x run-shell '~/.tmux/plugins/tmux-fpp start paste'
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_vim_and_neovim_sessions.md
 # for vim
