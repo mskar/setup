@@ -149,13 +149,24 @@ killall Finder
 killall Dock
 
 # 2: Default MacOS keybindings and keyboard layout
-## Download Default MacOS keybinding dictionary file
-curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict
 
-## Download keyboard layout and icon files
+### The default macOS keyboard has so-called "dead keys". Some of these "dead keys"
+### interfere with GNU emacs/readline shortcuts that should be available by default
+### everywhere. To deal with this problem, I created a keyboard layout called
+### undead. I also created a `DefaultKeyBinding.dict` that provides many GNU
+### emacs/readline shortcuts.
+
+
+#### Download keyboard layout and icon files `undead.keylayout` and `undead.icns` to `/Library/Keyboard Layouts/`
 curl https://raw.githubusercontent.com/mskar/setup/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
 
 curl https://raw.githubusercontent.com/mskar/setup/main/undead.layout -o ~/Library/Keyboard\ Layouts/undead.layout
+
+#### Download Default MacOS keybinding dictionary file `DefaultKeyBinding.dict` to `/Library/Keybindings/`
+
+curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict
+
+### For additional keyboard setup, we need Karabiner, but to install Karabiner, let's use Homebrew.
 
 # 3: Brew - commandline package manager
 ## Install Homebrew (this also installs xcode tools needed for git)
