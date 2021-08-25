@@ -45,6 +45,9 @@ defaults write -g InitialKeyRepeat -int 20
 #### Repeatedly engage a key when held (no need to press multiple times)
 defaults write -g ApplePressAndHoldEnabled -bool false
 
+#### Set Caps Locks to be control (this is also done via Karabiner in karabiner.json)
+defaults -currentHost write -g com.apple.keyboard.modifiermapping.1133-50475-0 -array '<dict><key>HIDKeyboardModifierMappingSrc</key><integer>0</integer><key>HIDKeyboardModifierMappingDst</key><integer>2</integer></dict>'
+
 ## Trackpad
 ### In System Preferences > Trackpad > Point & Click, set tracking speed to max:
 defaults write NSGlobalDomain com.apple.trackpad.scaling -float 3
@@ -399,8 +402,9 @@ code --install-extension tabnine.tabnine-vscode --force
 code --install-extension asvetliakov.vscode-neovim --force
 
 ## Jupyter
+### Need to install jupyter via conda before installing extensions
 ### https://github.com/jupyterlab/jupyterlab/pull/9068#issuecomment-739993274
-jupyter labextension install @axlair/jupyterlab_vim
+#### jupyter labextension install @axlair/jupyterlab_vim
 
 #### I don't use jupyterlab-git extension, I only demo it in classes
 ##### jupyter labextension install @jupyterlab/git
@@ -414,8 +418,7 @@ jupyter labextension install @axlair/jupyterlab_vim
 ##### https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
 
 ### Jupyter settings
-curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
---create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
 
 ### PyCharm settings
 curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settings.zip
