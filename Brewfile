@@ -171,7 +171,7 @@ cask "alt-tab"
 cask "copyq"
 # Web browser
 cask "firefox"
-cask "font-firacode-nerd-font"
+cask "font-fira-code-nerd-font"
 # Icon set and toolkit
 cask "font-fontawesome"
 cask "font-hack-nerd-font"
