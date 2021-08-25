@@ -170,7 +170,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -
 
 # 3: Brew - commandline package manager
 ## Install Homebrew (this also installs xcode tools needed for git)
-sudo echo | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 git config --global user.email 13444106+mskar@users.noreply.github.com
 
