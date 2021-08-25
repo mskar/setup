@@ -167,8 +167,6 @@ cask "adobe-acrobat-reader"
 cask "alfred"
 # Utility to set up alt-tab to switch between windows
 cask "alt-tab"
-# Tool to customize input devices and automate computer systems
-cask "bettertouchtool"
 # Clipboard manager with advanced features
 cask "copyq"
 # Web browser
