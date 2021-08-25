@@ -28,10 +28,8 @@
 
 curl https://raw.githubusercontent.com/mskar/setup/main/macos.terminal -o ~/macos.terminal
 
-curl -fLo ~/Fira\ Code\ Light\ Nerd\ Font\ Complete.ttf https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Light/complete/Fira%20Code%20Light%20Nerd%20Font%20Complete.ttf
-
-### Load in the profile saved in the `macos.terminal` file
-### Run the defaults commands below to setup MacOS
+### Load in the profile saved in the `macos.terminal` file ### Run the defaults
+commands below to setup MacOS
 
 ## Keyboard
 ### https://apple.stackexchange.com/a/83923
@@ -298,7 +296,7 @@ curl https://gist.githubusercontent.com/tekin/12500956bd56784728e490d8cef9cb81/r
 curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitignore
 
 ### Vim
-curl https://raw.githubusercontent.com/mskar/setup/main/.vimrc -o ~/.vim/.vimrc
+curl https://raw.githubusercontent.com/mskar/setup/main/.vimrc -o ~/.vimrc
 
 ### Vim snippets
 curl https://raw.githubusercontent.com/mskar/setup/main/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
@@ -492,3 +490,9 @@ curl https://raw.githubusercontent.com/mskar/setup/main/rstudio_bindings.json -o
 
 # Initialize conda for z shell
 $(brew --prefix)/bin/conda init zsh
+
+# Non-automated steps
+## Give Hammerspoon Accessibility permissions and enable Launch Hammerspoon at login
+## Restart computer to enable macOS settings set via defaults
+## Give karabiner_grabber and karabiner_observer Input Monitoring permission
+## load macos profile (macos.terminal)

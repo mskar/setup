@@ -91,8 +91,6 @@ brew "gnupg"
 brew "hub"
 # OpenEXR ILM Base libraries (high dynamic-range image file format)
 brew "ilmbase", link: true
-# Tool Command Language
-brew "tcl-tk"
 # Tools and libraries to manipulate images in many formats
 brew "imagemagick"
 # Framework for layout and rendering of i18n text
@@ -106,19 +104,21 @@ brew "moreutils"
 # Ambitious Vim-fork focused on extensibility and agility
 brew "neovim"
 # Platform built on V8 to build network applications
-brew "node", link: false
+brew "node"
 # Trigger notifications when a process completes
 brew "noti"
 # Swiss-army knife of markup format conversion
 brew "pandoc"
 # Password manager
 brew "pass"
-# PDF rendering library (based on the xpdf-3.0 code base)
-brew "poppler"
-# Interpreted, interactive, object-oriented programming language
-brew "python@3.8"
 # Cross-platform application and UI framework
 brew "qt", link: false
+# PDF rendering library (based on the xpdf-3.0 code base)
+brew "poppler", link: false
+# Tool Command Language
+brew "tcl-tk"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.8"
 # File browser
 brew "ranger"
 # Reattach process (e.g., tmux) to background
@@ -143,6 +143,8 @@ brew "tldr"
 brew "tmux"
 # Vi 'workalike' with many additional features
 brew "vim"
+# Internet file retriever
+brew "wget"
 # PDF viewer
 brew "xpdf", link: false
 # Fish-like fast/unobtrusive autosuggestions for zsh
@@ -169,8 +171,6 @@ cask "alfred"
 cask "alt-tab"
 # Clipboard manager with advanced features
 cask "copyq"
-# Web browser
-cask "firefox"
 cask "font-fira-code-nerd-font"
 # Icon set and toolkit
 cask "font-fontawesome"
@@ -178,8 +178,6 @@ cask "font-hack-nerd-font"
 cask "font-hasklug-nerd-font"
 cask "font-inconsolata-nerd-font"
 cask "font-iosevka-nerd-font"
-# Web browser
-cask "google-chrome"
 # Desktop automation application
 cask "hammerspoon"
 # Vector graphics editor
@@ -198,14 +196,10 @@ cask "mambaforge"
 cask "r"
 # Move and resize windows using keyboard shortcuts or snap areas
 cask "rectangle"
-# Window management application (replacement for Divvy/SizeUp/ShiftIt)
-cask "slate"
 cask "ukelele"
 # GUI for the Neovim text editor
 cask "vimr"
-# Open-source code editor
+# Binary releases of VS Code without MS branding/telemetry/licensing
 cask "vscodium"
 # Collect, organize, cite, and share research sources
 cask "zotero"
-mas "Amphetamine", id: 937984704
-mas "Vimari", id: 1480933944
