@@ -164,7 +164,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/undead.layout -o ~/Libra
 
 #### Download Default MacOS keybinding dictionary file `DefaultKeyBinding.dict` to `/Library/Keybindings/`
 
-curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict
+curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict --create-dirs
 
 ### For additional keyboard setup, we need Karabiner, but to install Karabiner, let's use Homebrew.
 
