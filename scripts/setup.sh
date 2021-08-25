@@ -24,12 +24,16 @@
 # 1: MacOS terminal and defaults
 ### Open MacOS terminal using Spotlight search (Cmd Space)
 
-### Curl the FiraCode font and `macos.terminal` file
+### Curl the `macos.terminal` file
 
 curl https://raw.githubusercontent.com/mskar/setup/main/macos.terminal -o ~/macos.terminal
 
-### Load in the profile saved in the `macos.terminal` file ### Run the defaults
-commands below to setup MacOS
+### Run the defaults commands below to setup MacOS
+
+## Theme
+
+### Toggle theme with ctrl option cmd t
+defaults write /Library/Preferences/.GlobalPreferences.plist _HIEnableThemeSwitchHotKey -bool true
 
 ## Keyboard
 ### https://apple.stackexchange.com/a/83923
@@ -494,5 +498,7 @@ $(brew --prefix)/bin/conda init zsh
 # Non-automated steps
 ## Give Hammerspoon Accessibility permissions and enable Launch Hammerspoon at login
 ## Restart computer to enable macOS settings set via defaults
+## Load in the profile saved in the `macos.terminal` file
 ## Give karabiner_grabber and karabiner_observer Input Monitoring permission
 ## load macos profile (macos.terminal)
+
