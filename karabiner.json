@@ -42,63 +42,11 @@
                         ]
                     },
                     {
-                        "description": "Change open bracket to shift if pressed with other keys, to open bracket if pressed alone",
+                        "description": "Change tab to option if pressed with other keys, to tab if pressed alone",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "open_bracket",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "left_shift"
-                                    }
-                                ],
-                                "to_if_alone": [
-                                    {
-                                        "key_code": "open_bracket"
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "Change slash to control if pressed with other keys, to slash if pressed alone",
-                        "manipulators": [
-                            {
-                                "from": {
-                                    "key_code": "slash",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "left_control"
-                                    }
-                                ],
-                                "to_if_alone": [
-                                    {
-                                        "key_code": "slash"
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "Change semicolon to option if pressed with other keys, to semicolon if pressed alone",
-                        "manipulators": [
-                            {
-                                "from": {
-                                    "key_code": "semicolon",
+                                    "key_code": "tab",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -112,7 +60,59 @@
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "key_code": "semicolon"
+                                        "key_code": "tab"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "Change backslash to option if pressed with other keys, to backslash if pressed alone",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "backslash",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_option"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "key_code": "backslash"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "Change enter to control if pressed with other keys, to enter if pressed alone",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "return_or_enter",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_control"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "key_code": "return_or_enter"
                                     }
                                 ],
                                 "type": "basic"
@@ -323,6 +323,8 @@
                                         ],
                                         "optional": [
                                             "caps_lock",
+                                            "command",
+                                            "option",
                                             "shift"
                                         ]
                                     }
@@ -398,8 +400,9 @@
                                         ],
                                         "optional": [
                                             "caps_lock",
-                                            "shift",
-                                            "option"
+                                            "command",
+                                            "option",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -469,9 +472,9 @@
                                         ],
                                         "optional": [
                                             "caps_lock",
-                                            "shift",
                                             "command",
-                                            "option"
+                                            "option",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -541,9 +544,9 @@
                                         ],
                                         "optional": [
                                             "caps_lock",
-                                            "shift",
                                             "command",
-                                            "option"
+                                            "option",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -612,11 +615,10 @@
                                             "control"
                                         ],
                                         "optional": [
-                                            "fn",
                                             "caps_lock",
-                                            "shift",
                                             "command",
-                                            "option"
+                                            "option",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -685,11 +687,10 @@
                                             "control"
                                         ],
                                         "optional": [
-                                            "fn",
                                             "caps_lock",
-                                            "shift",
                                             "command",
-                                            "option"
+                                            "option",
+                                            "shift"
                                         ]
                                     }
                                 },
