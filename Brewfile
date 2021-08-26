@@ -50,7 +50,7 @@ brew "nghttp2"
 # Validating, recursive, caching DNS resolver
 brew "unbound"
 # GNU Emacs text editor
-brew "emacs"
+brew "emacs", link: false
 # Modern replacement for 'ls'
 brew "exa"
 # CLI tool for quick access to files and directories
@@ -171,6 +171,10 @@ cask "alfred"
 cask "alt-tab"
 # Clipboard manager with advanced features
 cask "copyq"
+# Text editor
+cask "emacs"
+# Web browser
+cask "firefox"
 cask "font-fira-code-nerd-font"
 # Icon set and toolkit
 cask "font-fontawesome"
@@ -194,8 +198,8 @@ cask "keycastr"
 cask "mambaforge"
 # Environment for statistical computing and graphics
 cask "r"
-# Move and resize windows using keyboard shortcuts or snap areas
-cask "rectangle"
+# Customizable email client
+cask "thunderbird"
 cask "ukelele"
 # GUI for the Neovim text editor
 cask "vimr"
