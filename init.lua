@@ -70,19 +70,23 @@ spoon.MiroWindowsManager:bindHotkeys({
   fullscreen = {shift_alt, "space"}
 })
 
-hs.hotkey.bind(shift_alt, 'b', function()
-    hs.application.launchOrFocus('Brave Browser')
+hs.hotkey.bind(shift_alt, 'a', function()
+    hs.application.launchOrFocus('Adobe Acrobat Reader DC')
 end)
+
+-- alt shift b is select word backward
 
 hs.hotkey.bind(shift_alt, 'c', hs.toggleConsole)
 
 hs.hotkey.bind(shift_alt, 'd', function()
-    hs.application.launchOrFocus('JetBrains DS')
+    hs.application.launchOrFocus('Docker')
 end)
 
 hs.hotkey.bind(shift_alt, 'e', function()
     hs.application.launchOrFocus('Emacs')
 end)
+
+-- alt shift f is select word forward
 
 hs.hotkey.bind(shift_alt, 'g', function()
     hs.application.launchOrFocus('Google Chrome')
@@ -123,6 +127,10 @@ hs.hotkey.bind(shift_alt, 'n', function()
   win:moveToScreen(screen:previous(), true, true)
 end)
 
+hs.hotkey.bind(shift_alt, 'o', function()
+    hs.application.launchOrFocus('Microsoft Outlook')
+end)
+
 hs.hotkey.bind(shift_alt, 'p', function()
   local win = hs.window.focusedWindow()
   local screen = win:screen()
@@ -136,14 +144,54 @@ end)
 
 hs.hotkey.bind(shift_alt, 'r', hs.reload)
 
+hs.hotkey.bind(shift_alt, 's', function()
+    hs.application.launchOrFocus('Safari')
+end)
+
 hs.hotkey.bind(shift_alt, 't', function()
     hs.application.launchOrFocus('Terminal')
+end)
+
+hs.hotkey.bind(shift_alt, 'u', function()
+  local minwins = hs.window.minimizedWindows()
+  minwins.unminimize()
 end)
 
 hs.hotkey.bind(shift_alt, 'v', function()
     hs.application.launchOrFocus('VSCodium')
 end)
 
+hs.hotkey.bind(shift_alt, 'w', function()
+    hs.application.launchOrFocus('Microsoft Word')
+end)
+
+hs.hotkey.bind(shift_alt, 'y', function()
+  local minwins = hs.window.minimizedWindows()
+  minwins.unminimize()
+end)
+
 hs.hotkey.bind(shift_alt, 'z', function()
     hs.application.launchOrFocus('zoom.us')
 end)
+
+-- https://www.hammerspoon.org/go/#creating-a-simple-menubar-item
+caffeine = hs.menubar.new()
+function setCaffeineDisplay(state)
+    if state then
+        caffeine:setTitle("AWAKE")
+    else
+        caffeine:setTitle("SLEEPY")
+    end
+end
+
+function caffeineClicked()
+    setCaffeineDisplay(hs.caffeinate.toggle("displayIdle"))
+end
+
+if caffeine then
+    caffeine:setClickCallback(caffeineClicked)
+    setCaffeineDisplay(hs.caffeinate.get("displayIdle"))
+end
+
+-- https://www.hammerspoon.org/go/#defeating-paste-blocking
+hs.hotkey.bind({"cmd", "alt"}, "V", function() hs.eventtap.keyStrokes(hs.pasteboard.getContents()) end)

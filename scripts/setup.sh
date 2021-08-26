@@ -444,20 +444,14 @@ curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settin
 #### - Main Menu > Edit > Redo : `Ctrl =`
 #### - Main Menu > Edit > Paste : `Ctrl y`
 #### - Main Menu > Edit > Delete : `Ctrl d`
-#### - Main Menu > View > Recent Location : `Ctrl Shift e`
-#### - Main Menu > Edit > Paste from History : `Ctrl Shift v`
 #### - Main Menu > Help > Find Action... : `Cmd Shift p`
-#### - Main Menu > Code > Code Completion > Basic : `Ctrl Shift Space`
 #### - Editor Actions > Backspace : `Ctrl h`
 #### - Editor Actions > Cut Line Backward : `Ctrl u`
 #### - Editor Actions > Cut up to Line End : `Ctrl k`
-#### - Editor Actions > Cut to Word Start : `Ctrl w` `Alt h`
-#### - Editor Actions > Cut to Word End : `Ctrl d`
+#### - Editor Actions > Kill to Word Start : `Ctrl w`
+#### - Editor Actions > Cut to Word End : `Alt d`
 #### - Editor Actions > Move Caret to Previous Word : `Alt b`
 #### - Editor Actions > Move Caret to Next Word : `Alt f`
-#### - Other > Images > Actual Size : `Cmd 0`
-#### - Other > Images > Zoom In : `Cmd +`
-#### - Other > Images > Zoom Out : `Cmd -`
 #### - Plug-ins > Git > Checkout Revision : `Enter`
 #### - Plug-ins > Git > Checkout Selected : `Enter`
 #### - Plug-ins > Python > Split Cell : `Ctrl Shift -`

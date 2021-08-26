@@ -200,7 +200,6 @@ cask "mambaforge"
 cask "r"
 # Customizable email client
 cask "thunderbird"
-cask "ukelele"
 # GUI for the Neovim text editor
 cask "vimr"
 # Binary releases of VS Code without MS branding/telemetry/licensing
