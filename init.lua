@@ -70,22 +70,80 @@ spoon.MiroWindowsManager:bindHotkeys({
   fullscreen = {shift_alt, "space"}
 })
 
--- https://stackoverflow.com/questions/54151343/how-to-move-an-application-between-monitors-in-hammerspoon
--- I tried all of the answers, nothing worked
+hs.hotkey.bind(shift_alt, 'b', function()
+    hs.application.launchOrFocus('Brave Browser')
+end)
 
-hs.hotkey.bind(shift_alt, 'i', function()
-    hs.application.launchOrFocus('iTerm')
+hs.hotkey.bind(shift_alt, 'c', hs.toggleConsole)
+
+hs.hotkey.bind(shift_alt, 'd', function()
+    hs.application.launchOrFocus('JetBrains DS')
+end)
+
+hs.hotkey.bind(shift_alt, 'e', function()
+    hs.application.launchOrFocus('Emacs')
 end)
 
 hs.hotkey.bind(shift_alt, 'g', function()
     hs.application.launchOrFocus('Google Chrome')
 end)
 
+hs.hotkey.bind(shift_alt, 'h', function()
+  local win = hs.window.focusedWindow()
+  win:focusWindowWest()
+end)
+
+hs.hotkey.bind(shift_alt, 'i', function()
+    hs.application.launchOrFocus('iTerm')
+end)
+
+hs.hotkey.bind(shift_alt, 'j', function()
+  local win = hs.window.focusedWindow()
+  win:focusWindowSouth()
+end)
+
+hs.hotkey.bind(shift_alt, 'k', function()
+  local win = hs.window.focusedWindow()
+  win:focusWindowNorth()
+end)
+
+hs.hotkey.bind(shift_alt, 'l', function()
+  local win = hs.window.focusedWindow()
+  win:focusWindowEast()
+end)
+
 hs.hotkey.bind(shift_alt, 'm', function()
     hs.application.launchOrFocus('Firefox')
 end)
 
+hs.hotkey.bind(shift_alt, 'n', function()
+  local win = hs.window.focusedWindow()
+  local screen = win:screen()
+  win:setFullScreen(false)
+  win:moveToScreen(screen:previous(), true, true)
+end)
+
+hs.hotkey.bind(shift_alt, 'p', function()
+  local win = hs.window.focusedWindow()
+  local screen = win:screen()
+  win:setFullScreen(false)
+  win:moveToScreen(screen:previous(), true, true)
+end)
+
+hs.hotkey.bind(shift_alt, 'q', function()
+    hs.application.launchOrFocus('CopyQ')
+end)
 
 hs.hotkey.bind(shift_alt, 'r', hs.reload)
-hs.hotkey.bind(shift_alt, 'c', hs.toggleConsole)
 
+hs.hotkey.bind(shift_alt, 't', function()
+    hs.application.launchOrFocus('Terminal')
+end)
+
+hs.hotkey.bind(shift_alt, 'v', function()
+    hs.application.launchOrFocus('VSCodium')
+end)
+
+hs.hotkey.bind(shift_alt, 'z', function()
+    hs.application.launchOrFocus('zoom.us')
+end)
