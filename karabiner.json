@@ -42,6 +42,32 @@
                         ]
                     },
                     {
+                        "description": "Change open bracket to shift if pressed with other keys, to open bracket if pressed alone",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "open_bracket",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_shift"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "key_code": "open_bracket"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
                         "description": "Change slash to control if pressed with other keys, to slash if pressed alone",
                         "manipulators": [
                             {
