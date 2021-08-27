@@ -47,8 +47,7 @@ defaults write -g InitialKeyRepeat -int 20
 #### Repeatedly engage a key when held (no need to press multiple times)
 defaults write -g ApplePressAndHoldEnabled -bool false
 
-#### Set Caps Locks to be control (this is also done via Karabiner in karabiner.json)
-defaults -currentHost write -g com.apple.keyboard.modifiermapping.1133-50475-0 -array '<dict><key>HIDKeyboardModifierMappingSrc</key><integer>0</integer><key>HIDKeyboardModifierMappingDst</key><integer>2</integer></dict>'
+#### Set Caps Locks to be control in System Preferences > Keyboard > Modifier Keys... (this is also done via Karabiner in karabiner.json)
 
 ## Trackpad
 ### In System Preferences > Trackpad > Point & Click, set tracking speed to max:
@@ -165,7 +164,7 @@ killall Dock
 #### Download keyboard layout and icon files `undead.keylayout` and `undead.icns` to `/Library/Keyboard Layouts/`
 curl https://raw.githubusercontent.com/mskar/setup/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
 
-curl https://raw.githubusercontent.com/mskar/setup/main/undead.layout -o ~/Library/Keyboard\ Layouts/undead.layout
+curl https://raw.githubusercontent.com/mskar/setup/main/undead.keylayout -o ~/Library/Keyboard\ Layouts/undead.layout
 
 #### Download Default MacOS keybinding dictionary file `DefaultKeyBinding.dict` to `/Library/Keybindings/`
 
@@ -199,15 +198,20 @@ brew bundle install --global
 ### the equivalent shortcut in PyCharm, `Cmd P`, conflicts with vscode's quickOpen
 ### PyCharm uses `Cmd Shift O` for quick open files and `Cmd E` for recent files
 
-# Permissions
-## Grant permissions to Slate, CopyQ, altTab, Vimac, VimR and Alfred
+# Permissions ## Grant permissions to CopyQ, altTab, Vimac, VimR and Alfred
 
 # App shortcuts
-## Enable launch on login for Slate, CopyQ, altTab, and Vimac
+## Enable launch on login for CopyQ, altTab, and Vimac
 ## Set VimR to be the default txt file editor
 duti -s com.qvacua.VimR txt all
 
 # Hammerspoon
+### use `Alt Shift` as the modifier à la Amethyst
+
+luarocks install fennel
+
+git clone https://github.com/agzam/spacehammer ~/.hammerspoon
+
 ## vim mode spoon
 bash <(curl -s https://raw.githubusercontent.com/dbalatero/VimMode.spoon/master/bin/installer)
 
@@ -215,10 +219,6 @@ bash <(curl -s https://raw.githubusercontent.com/dbalatero/VimMode.spoon/master/
 curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindowsManager.spoon.zip | tar -xf - -C ~/.hammerspoon/Spoons
 
 curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspoon/init.lua
-
-## Add slate config
-curl https://raw.githubusercontent.com/mskar/setup/main/.slate -o ~/.slate
-### use `Alt Shift` as the modifier à la Amethyst
 
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
 ### Notes:
@@ -235,7 +235,9 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.slate -o ~/.slate
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
-curl https://raw.githubusercontent.com/mskar/setup/main/com.googlecode.iterm2.plist -o ~/com.googlecode.iterm2.plist
+
+curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.json
+
 ## In iterm2, select General > Preferences: Select load preferences from a local folder or URL
 ## In iterm2, select Appearance > Theme: Minimal
 ## In iterm2, select Profiles > Keys: Both option keys to Esc+
@@ -245,7 +247,9 @@ curl https://raw.githubusercontent.com/mskar/setup/main/com.googlecode.iterm2.pl
 ## In iterm2, set Keys > Key Bindings > Send hex code 0x11 ^;
 
 ## Set up karabiner
+
 curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
 ##### Change return to control if pressed with other keys, to return if pressed alone (from Change return to control)
