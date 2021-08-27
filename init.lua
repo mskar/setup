@@ -1,6 +1,6 @@
---------------------------------
--- START VIM CONFIG
---------------------------------
+----------------------------------------------------------------
+-- VIM CONFIG
+----------------------------------------------------------------
 local VimMode = hs.loadSpoon("VimMode")
 local vim = VimMode:new()
 
@@ -32,12 +32,11 @@ vim:enterWithSequence('kj', 100)
 -- https://github.com/dbalatero/VimMode.spoon#block-cursor-mode
 vim:enableBetaFeature('block_cursor_overlay')
 
---------------------------------
--- END VIM CONFIG
---------------------------------
+----------------------------------------------------------------
+-- Press Cmd+Q twice to quit
+----------------------------------------------------------------
 
 -- https://github.com/pqrs-org/Karabiner-Elements/issues/242#issuecomment-277330358
--- Press Cmd+Q twice to quit
 
 local quitModal = hs.hotkey.modal.new('cmd','q')
 
@@ -55,6 +54,9 @@ quitModal:bind('cmd', 'q', doQuit)
 
 quitModal:bind('', 'escape', function() quitModal:exit() end)
 
+----------------------------------------------------------------
+-- WINDOW MANAGEMENT
+----------------------------------------------------------------
 -- https://github.com/miromannino/miro-windows-manager
 
 hs.loadSpoon("MiroWindowsManager")
@@ -190,6 +192,10 @@ end)
 hs.hotkey.bind(shift_alt, ',', function()
   hs.window.switcher.previousWindow()
 end)
+
+----------------------------------------------------------------
+-- Use menubar instead of terminal to toggle caffeinate
+----------------------------------------------------------------
 
 -- https://www.hammerspoon.org/go/#creating-a-simple-menubar-item
 caffeine = hs.menubar.new()
