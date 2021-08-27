@@ -97,6 +97,8 @@ brew "imagemagick"
 brew "pango"
 # Library to render SVG files using Cairo
 brew "librsvg"
+# Package manager for the Lua programming language
+brew "luarocks"
 # Mac App Store command-line interface
 brew "mas"
 # Collection of tools that nobody wrote when UNIX was young
