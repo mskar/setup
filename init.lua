@@ -153,8 +153,8 @@ hs.hotkey.bind(shift_alt, 't', function()
 end)
 
 hs.hotkey.bind(shift_alt, 'u', function()
-  local minwins = hs.window.minimizedWindows()
-  minwins.unminimize()
+  local app = hs.application.frontmostApplication()
+  for k, w in ipairs(app:allWindows()) do w:unminimize() end
 end)
 
 hs.hotkey.bind(shift_alt, 'v', function()
@@ -165,13 +165,30 @@ hs.hotkey.bind(shift_alt, 'w', function()
     hs.application.launchOrFocus('Microsoft Word')
 end)
 
+hs.hotkey.bind(shift_alt, 'x', function()
+  local expose = hs.expose.new()
+  expose:toggleShow()
+end)
+
+-- https://www.hammerspoon.org/go/#defeating-paste-blocking
 hs.hotkey.bind(shift_alt, 'y', function()
-  local minwins = hs.window.minimizedWindows()
-  minwins.unminimize()
+  hs.eventtap.keyStrokes(hs.pasteboard.getContents())
 end)
 
 hs.hotkey.bind(shift_alt, 'z', function()
     hs.application.launchOrFocus('zoom.us')
+end)
+
+hs.hotkey.bind(shift_alt, '/', function()
+  hs.hints.windowHints()
+end)
+
+hs.hotkey.bind(shift_alt, ';', function()
+  hs.window.switcher.nextWindow()
+end)
+
+hs.hotkey.bind(shift_alt, ',', function()
+  hs.window.switcher.previousWindow()
 end)
 
 -- https://www.hammerspoon.org/go/#creating-a-simple-menubar-item
@@ -180,7 +197,7 @@ function setCaffeineDisplay(state)
     if state then
         caffeine:setTitle("AWAKE")
     else
-        caffeine:setTitle("SLEEPY")
+        caffeine:setTitle("DECAF")
     end
 end
 
@@ -192,6 +209,3 @@ if caffeine then
     caffeine:setClickCallback(caffeineClicked)
     setCaffeineDisplay(hs.caffeinate.get("displayIdle"))
 end
-
--- https://www.hammerspoon.org/go/#defeating-paste-blocking
-hs.hotkey.bind({"cmd", "alt"}, "V", function() hs.eventtap.keyStrokes(hs.pasteboard.getContents()) end)
