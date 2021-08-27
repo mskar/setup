@@ -454,6 +454,9 @@ set -g @plugin 'tmux-plugins/tmux-resurrect' # S B
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'wfxr/tmux-fzf-url' # u
 
+# https://github.com/roosta/tmux-fuzzback/#fzf-bind
+set -g @fuzzback-fzf-bind 'ctrl-y:execute-silent(echo -n {3..} | pbcopy)+abort'
+
 # https://github.com/sainnhe/tmux-fzf#fzf-behavior
 TMUX_FZF_OPTIONS="--delimiter=: --nth=1"
 
