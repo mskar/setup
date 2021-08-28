@@ -101,6 +101,13 @@ hs.hotkey.bind(shift_alt, '/', hs.hints.windowHints)
 hs.hotkey.bind(shift_alt, ';', hs.window.switcher.nextWindow)
 hs.hotkey.bind(shift_alt, 'tab', hs.window.switcher.nextWindow)
 
+-- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L177
+function round(x, places)
+   local places = places or 0
+   local x = x * 10^places
+   return (x + 0.5 - (x + 0.5) % 1) / 10^places
+end
+
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L183
 function current_window_rect(win)
    local win = win or hs.window.focusedWindow()
