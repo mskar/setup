@@ -208,10 +208,6 @@ duti -s com.qvacua.VimR txt all
 # Hammerspoon
 ### use `Alt Shift` as the modifier à la Amethyst
 
-luarocks install fennel
-
-git clone https://github.com/agzam/spacehammer ~/.hammerspoon
-
 ## vim mode spoon
 bash <(curl -s https://raw.githubusercontent.com/dbalatero/VimMode.spoon/master/bin/installer)
 
