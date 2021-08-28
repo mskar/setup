@@ -72,13 +72,50 @@ spoon.MiroWindowsManager:bindHotkeys({
   fullscreen = {shift_alt, "space"}
 })
 
+-- https://stackoverflow.com/a/58398311
+function moveWindowToDisplay(d)
+  return function()
+    local displays = hs.screen.allScreens()
+    local win = hs.window.focusedWindow()
+    win:moveToScreen(displays[d], true, true)
+  end
+end
+
+hs.hotkey.bind(shift_alt, "1", moveWindowToDisplay(1))
+hs.hotkey.bind(shift_alt, "2", moveWindowToDisplay(2))
+hs.hotkey.bind(shift_alt, "3", moveWindowToDisplay(3))
+hs.hotkey.bind(shift_alt, "4", moveWindowToDisplay(4))
+
+hs.hotkey.bind(shift_alt, "'", function()
+  hs.window.filter.new():getWindows()[2]:focus()
+end)
+
+hs.hotkey.bind(shift_alt, ',', hs.window.switcher.previousWindow)
+
+hs.hotkey.bind(shift_alt, '.', function()
+    hs.application.launchOrFocus('Finder')
+end)
+
+hs.hotkey.bind(shift_alt, '/', hs.hints.windowHints)
+
+hs.hotkey.bind(shift_alt, ';', hs.window.switcher.nextWindow)
+
+-- https://github.com/Hammerspoon/hammerspoon/issues/2022#issuecomment-518754783
+hs.hotkey.bind(shift_alt, '\\', function()
+  hs.window.focusedWindow():centerOnScreen(nil, true)
+end)
+
+hs.hotkey.bind(shift_alt, '`', hs.toggleConsole)
+
 hs.hotkey.bind(shift_alt, 'a', function()
     hs.application.launchOrFocus('Adobe Acrobat Reader DC')
 end)
 
 -- alt shift b is select word backward
 
-hs.hotkey.bind(shift_alt, 'c', hs.toggleConsole)
+hs.hotkey.bind(shift_alt, 'c', function()
+    hs.application.launchOrFocus('VSCodium')
+end)
 
 hs.hotkey.bind(shift_alt, 'd', function()
     hs.application.launchOrFocus('Docker')
@@ -95,8 +132,7 @@ hs.hotkey.bind(shift_alt, 'g', function()
 end)
 
 hs.hotkey.bind(shift_alt, 'h', function()
-  local win = hs.window.focusedWindow()
-  win:focusWindowWest()
+  hs.window.focusedWindow():focusWindowWest()
 end)
 
 hs.hotkey.bind(shift_alt, 'i', function()
@@ -104,18 +140,15 @@ hs.hotkey.bind(shift_alt, 'i', function()
 end)
 
 hs.hotkey.bind(shift_alt, 'j', function()
-  local win = hs.window.focusedWindow()
-  win:focusWindowSouth()
+  hs.window.focusedWindow():focusWindowSouth()
 end)
 
 hs.hotkey.bind(shift_alt, 'k', function()
-  local win = hs.window.focusedWindow()
-  win:focusWindowNorth()
+  hs.window.focusedWindow():focusWindowNorth()
 end)
 
 hs.hotkey.bind(shift_alt, 'l', function()
-  local win = hs.window.focusedWindow()
-  win:focusWindowEast()
+  hs.window.focusedWindow():focusWindowEast()
 end)
 
 hs.hotkey.bind(shift_alt, 'm', function()
@@ -124,9 +157,8 @@ end)
 
 hs.hotkey.bind(shift_alt, 'n', function()
   local win = hs.window.focusedWindow()
-  local screen = win:screen()
   win:setFullScreen(false)
-  win:moveToScreen(screen:previous(), true, true)
+  win:moveToScreen(win:screen():previous(), true, true)
 end)
 
 hs.hotkey.bind(shift_alt, 'o', function()
@@ -135,16 +167,17 @@ end)
 
 hs.hotkey.bind(shift_alt, 'p', function()
   local win = hs.window.focusedWindow()
-  local screen = win:screen()
   win:setFullScreen(false)
-  win:moveToScreen(screen:previous(), true, true)
+  win:moveToScreen(win:screen():previous(), true, true)
+end)
+
+hs.hotkey.bind(shift_alt, 'r', function()
+    hs.application.launchOrFocus('RStudio')
 end)
 
 hs.hotkey.bind(shift_alt, 'q', function()
     hs.application.launchOrFocus('CopyQ')
 end)
-
-hs.hotkey.bind(shift_alt, 'r', hs.reload)
 
 hs.hotkey.bind(shift_alt, 's', function()
     hs.application.launchOrFocus('Slack')
@@ -159,17 +192,12 @@ hs.hotkey.bind(shift_alt, 'u', function()
   for k, w in ipairs(app:allWindows()) do w:unminimize() end
 end)
 
-hs.hotkey.bind(shift_alt, 'v', function()
-    hs.application.launchOrFocus('VSCodium')
-end)
-
 hs.hotkey.bind(shift_alt, 'w', function()
     hs.application.launchOrFocus('Microsoft Word')
 end)
 
 hs.hotkey.bind(shift_alt, 'x', function()
-  local expose = hs.expose.new()
-  expose:toggleShow()
+  hs.expose.new():toggleShow()
 end)
 
 -- https://www.hammerspoon.org/go/#defeating-paste-blocking
@@ -178,24 +206,11 @@ hs.hotkey.bind(shift_alt, 'y', function()
 end)
 
 hs.hotkey.bind(shift_alt, 'z', function()
-    hs.application.launchOrFocus('zoom.us')
+  hs.application.launchOrFocus('zoom.us')
+  hs.window.focusedWindow():setFullScreen(false)
 end)
 
-hs.hotkey.bind(shift_alt, '/', function()
-  hs.hints.windowHints()
-end)
-
-hs.hotkey.bind(shift_alt, ';', function()
-  hs.window.switcher.nextWindow()
-end)
-
-hs.hotkey.bind(shift_alt, ',', function()
-  hs.window.switcher.previousWindow()
-end)
-
-hs.hotkey.bind(shift_alt, "'", function()
-  hs.window.filter.new():getWindows()[2]:focus()
-end)
+hs.hotkey.bind(shift_alt, 'delete', hs.reload)
 
 ----------------------------------------------------------------
 -- Use menubar instead of terminal to toggle caffeinate
