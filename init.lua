@@ -147,7 +147,7 @@ end)
 hs.hotkey.bind(shift_alt, 'r', hs.reload)
 
 hs.hotkey.bind(shift_alt, 's', function()
-    hs.application.launchOrFocus('Safari')
+    hs.application.launchOrFocus('Slack')
 end)
 
 hs.hotkey.bind(shift_alt, 't', function()
