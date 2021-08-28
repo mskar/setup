@@ -99,6 +99,38 @@ end)
 hs.hotkey.bind(shift_alt, '/', hs.hints.windowHints)
 
 hs.hotkey.bind(shift_alt, ';', hs.window.switcher.nextWindow)
+hs.hotkey.bind(shift_alt, 'tab', hs.window.switcher.nextWindow)
+
+-- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L183
+function current_window_rect(win)
+   local win = win or hs.window.focusedWindow()
+   local ur, r = win:screen():toUnitRect(win:frame()), round
+   return {r(ur.x,2), r(ur.y,2), r(ur.w,2), r(ur.h,2)} -- an hs.geometry.unitrect table
+end
+
+-- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L368
+hs.hotkey.bind(shift_alt, 'return', function()
+  local win = hs.window.focusedWindow()
+  local cw = current_window_rect(win)
+  local move_to_rect = {}
+  move_to_rect[1] = math.max(cw[1]-0.02,0)
+  move_to_rect[2] = math.max(cw[2]-0.02,0)
+  move_to_rect[3] = math.min(cw[3]+0.04,1 - move_to_rect[1])
+  move_to_rect[4] = math.min(cw[4]+0.04,1 - move_to_rect[2])
+  win:move(move_to_rect)
+end)
+
+-- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L392
+hs.hotkey.bind(shift_alt, 'escape', function()
+  local win = hs.window.focusedWindow()
+  local cw = current_window_rect(win)
+  local move_to_rect = {}
+  move_to_rect[3] = math.max(cw[3]-0.04,0.1)
+  move_to_rect[4] = cw[4] > 0.95 and 1 or math.max(cw[4]-0.04,0.1) -- some windows (MacVim) don't size to 1
+  move_to_rect[1] = math.min(cw[1]+0.02,1 - move_to_rect[3])
+  move_to_rect[2] = cw[2] == 0 and 0 or math.min(cw[2]+0.02,1 - move_to_rect[4])
+  win:move(move_to_rect)
+end)
 
 -- https://github.com/Hammerspoon/hammerspoon/issues/2022#issuecomment-518754783
 hs.hotkey.bind(shift_alt, '\\', function()
