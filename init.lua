@@ -218,6 +218,10 @@ hs.hotkey.bind(shift_alt, ',', function()
   hs.window.switcher.previousWindow()
 end)
 
+hs.hotkey.bind(shift_alt, "'", function()
+  hs.window.filter.new():getWindows()[2]:focus()
+end)
+
 ----------------------------------------------------------------
 -- Use menubar instead of terminal to toggle caffeinate
 ----------------------------------------------------------------
