@@ -90,8 +90,14 @@ hs.hotkey.bind(shift_alt, "'", function()
   hs.window.filter.new():getWindows()[2]:focus()
 end)
 
+-- Note: Alt Shift , is go to beginning of document in emacs
+-- In macOS, use Shift Command P instead of Alt Shift .
+-- In Vim, use gg
 hs.hotkey.bind(shift_alt, ',', hs.window.switcher.previousWindow)
 
+-- Note: Alt Shift . is go to end of document in emacs
+-- In macOS, use Shift Command N instead of Alt Shift .
+-- In Vim, use G
 hs.hotkey.bind(shift_alt, '.', function()
     hs.application.launchOrFocus('Finder')
 end)
@@ -230,6 +236,8 @@ hs.hotkey.bind(shift_alt, 'u', function()
   local app = hs.application.frontmostApplication()
   for k, w in ipairs(app:allWindows()) do w:unminimize() end
 end)
+
+-- Alt Shift V is select page up
 
 hs.hotkey.bind(shift_alt, 'w', function()
     hs.application.launchOrFocus('Microsoft Word')
