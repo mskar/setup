@@ -395,7 +395,7 @@ bind 6        select-window -t:6
 bind 7        select-window -t:7
 bind 8        select-window -t:8
 bind 9        select-window -t:$                                # *:tabl* *:tablast*
-bind M-/      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/window.sh switch"
+bind M-z      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/window.sh switch"
 bind T        break-pane                                        # *CTRL-W_T*
 
 # Sessions are like buffers
@@ -405,16 +405,16 @@ bind -r C-^   switch-client -l                                  # *CTRL-^* *CTRL
 bind -r [     switch-client -p                                  # [b *:bN* *:bNext* *:bp* *:bprevious* *E88*
 bind -r ]     switch-client -n                                  # ]b :bn* *:bnext* *E87*
 bind -r ^     switch-client -l                                  # *CTRL-^* *CTRL-6*
-bind /        run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/session.sh attach"
-bind C-_      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/session.sh attach"
+bind z        run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/session.sh attach"
+bind C-z      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/session.sh attach"
 bind C-a      choose-session                                    # mnemonic: attach
 bind C-d      detach-client                                     # mnemonic: detach
 bind a        choose-session                                    # mnemonic: attach
 bind d        detach-client                                     # mnemonic: detach
 
 # Find an alias using the tmux-fzf menu
-bind f        run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/menu.sh"
-bind C-f      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/menu.sh"
+bind i        run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/menu.sh"
+bind C-i      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/menu.sh"
 
 # Tmux buffers are like Vim registers
 # use bracketed-paste (-p option)
@@ -443,13 +443,14 @@ set -g history-file ~/.tmux_history
 set -g default-command "reattach-to-user-namespace -l zsh"
 
 # List of plugins
-set -g @plugin 'fcsonline/tmux-thumbs' # space
+set -g @plugin 'fcsonline/tmux-thumbs' # space, not working
 set -g @plugin 'jabirali/tmux-tilish' # https://github.com/jabirali/tmux-tilish#keybindings
 set -g @plugin 'laktak/extrakto' # tab
 set -g @plugin 'roosta/tmux-fuzzback' # ?
-set -g @plugin 'sainnhe/tmux-fzf'
+set -g @plugin 'sainnhe/tmux-fzf' # z i
 set -g @plugin 'tmux-plugins/tmux-continuum'
-set -g @plugin 'tmux-plugins/tmux-copycat' # https://github.com/tmux-plugins/tmux-copycat#search
+set -g @plugin 'tmux-plugins/tmux-copycat' # / https://github.com/tmux-plugins/tmux-copycat#search
+set -g @plugin 'tmux-plugins/tmux-fpp' # f
 set -g @plugin 'tmux-plugins/tmux-resurrect' # S B
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'wfxr/tmux-fzf-url' # u
@@ -514,16 +515,6 @@ TMUX_FZF_MENU=\
 "cir: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD\n"\
 "cirp: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
 "cirpf: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force\n"
-
-# https://github.com/tmux-plugins/tmux-fpp#configuration
-# Disable default binding
-set -g @fpp-bind off
-
-# Bind 'f' to run FPP launching an editor
-bind-key f run-shell '~/.tmux/plugins/tmux-fpp start edit'
-
-# Bind 'x' to run FPP and paste the list of files in the initial pane
-bind-key x run-shell '~/.tmux/plugins/tmux-fpp start paste'
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_vim_and_neovim_sessions.md
 # for vim
