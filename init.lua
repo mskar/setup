@@ -229,7 +229,7 @@ hs.hotkey.bind(shift_alt, 's', function()
 end)
 
 hs.hotkey.bind(shift_alt, 't', function()
-    hs.application.launchOrFocus('Terminal')
+    hs.application.launchOrFocus('Microsoft Teams')
 end)
 
 hs.hotkey.bind(shift_alt, 'u', function()
