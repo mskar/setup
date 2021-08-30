@@ -373,6 +373,12 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.radian_profile -o ~/.ra
 
 ln -sf .radian_profile radian_profile.R
 
+## Set up btm
+curl https://raw.githubusercontent.com/mskar/setup/main/bottom.toml -o ~/.config/bottom/bottom.toml --create-dirs
+
+## Set up TabNine
+curl https://raw.githubusercontent.com/mskar/setup/main/tabnine_config.json -o ~/.config/TabNine/tabnine_config.json --create-dirs
+
 # 6: Conda environments (base, Python and R)
 ### Install cookiecutter (for i alias) and neovim (for vim plugins)
 mamba install -yc conda-forge neovim
