@@ -3,7 +3,7 @@
 # https://github.com/junegunn/fzf#respecting-gitignore
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-export PATH=/usr/local/bin:$PATH
+export PATH=/usr/local/texlive/2021basic/bin/universal-darwin:/usr/local/bin:$PATH
 export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
 export MANPAGER="nvim -c 'set ft=man' -"
