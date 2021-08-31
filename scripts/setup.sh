@@ -206,34 +206,33 @@ brew bundle install --global
 duti -s com.qvacua.VimR txt all
 
 # Hammerspoon
-### use `Alt Shift` as the modifier à la Amethyst
-
-## vim mode spoon
-bash <(curl -s https://raw.githubusercontent.com/dbalatero/VimMode.spoon/master/bin/installer)
+curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspoon/init.lua --create-dirs
 
 ## miro window manager spoon
+### use `Alt Shift` as the modifier à la Amethyst
 curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindowsManager.spoon.zip | tar -xf - -C ~/.hammerspoon/Spoons
 
-curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspoon/init.lua
-
+# CopyQ
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
+
 ### Notes:
 ### Keyboard shortcuts:
-### `Ctrl Alt I` pastes the current ISO date
+### `Ctrl Alt C` summons the CopyQ window
+### `Ctrl Alt R` summons the CopyQ tray (mnemonic: right click)
 ### `Ctrl Alt E` edits the clipboard
 ### `Ctrl Alt J` pastes and copies next
 ### `Ctrl Alt K` pastes and copies previous
-### `Ctrl Alt T` summons the CopyQ window
-### `Ctrl Alt X` pastes as plain text (no formatting)
+### `Ctrl Alt T` pastes the today's ISO date
+### `Ctrl Alt V` pastes as plain text (no formatting)
 
 ## Set up Mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
-
 curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.json
 
+## Load iterm.json, which includes the settings below
 ## In iterm2, select General > Preferences: Select load preferences from a local folder or URL
 ## In iterm2, select Appearance > Theme: Minimal
 ## In iterm2, select Profiles > Keys: Both option keys to Esc+
@@ -243,7 +242,6 @@ curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.js
 ## In iterm2, set Keys > Key Bindings > Send hex code 0x11 ^;
 
 ## Set up karabiner
-
 curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 
 #### Under Complex modifications > Rules you should see
@@ -264,6 +262,7 @@ brew link --overwrite emacs
 
 ## Create locations for undo files (just in case they are not created automatically)
 mkdir -p ~/.vim/undodir
+
 mkdir -p ~/.local/share/nvim/undo
 
 ## Install fzf key bindings and fuzzy completion using the install script which runs the commented out code below
