@@ -9,38 +9,98 @@ tap "homebrew/services"
 tap "mongodb/brew"
 tap "romkatv/powerlevel10k"
 tap "universal-ctags/universal-ctags"
+# Generic-purpose lossless compression algorithm by Google
+brew "brotli"
+# Asynchronous DNS library
+brew "c-ares"
+# Next generation open source RPC library and framework
+brew "grpc"
+# Package for scientific computing with Python
+brew "numpy"
+# Framework for scalable cross-language services development
+brew "thrift"
+# Columnar in-memory analytics layer designed to accelerate big data
+brew "apache-arrow"
+# Record and share terminal sessions
+brew "asciinema"
 # Bourne-Again SHell, a UNIX command interpreter
 brew "bash"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Garbage collector for C and C++
+brew "bdw-gc"
+# Bit is a modern Git CLI
+brew "bit-git"
+# Core application library for C
+brew "glib"
+# Vector graphics library with cross-device output support
+brew "cairo"
 # GNU File, Shell, and Text utilities
 brew "coreutils"
 # Good-lookin' diffs with diff-highlight and more
 brew "diff-so-fancy"
 # Select default apps for documents and URL schemes on macOS
 brew "duti"
+# Git for data science projects
+brew "dvc"
+# ASN.1 structure parser library
+brew "libtasn1"
+# HTTP/2 C Library
+brew "nghttp2"
+# Validating, recursive, caching DNS resolver
+brew "unbound"
 # GNU Emacs text editor
-brew "emacs", link: false
+brew "emacs"
 # Modern replacement for 'ls'
 brew "exa"
 # CLI tool for quick access to files and directories
 brew "fasd"
 # Simple, fast and user-friendly alternative to find
 brew "fd"
+# Generate introspection data for GObject libraries
+brew "gobject-introspection"
+# OpenType text shaping engine
+brew "harfbuzz"
+# Subtitle renderer for the ASS/SSA subtitle format
+brew "libass"
+# Secure Reliable Transport
+brew "srt"
+# OCR (Optical Character Recognition) engine
+brew "tesseract"
+# H.264/AVC encoder
+brew "x264"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
+# CLI program that accepts piped input and presents files for selection
+brew "fpp"
 # Command-line fuzzy finder written in Go
 brew "fzf"
+# Toolkit for image loading and pixel buffer manipulation
+brew "gdk-pixbuf"
 # GitHub command-line tool
 brew "gh"
 # Distributed revision control system
 brew "git"
+# Enable transparent encryption/decryption of files in a git repo
+brew "git-crypt"
 # Syntax-highlighting pager for git and diff output
 brew "git-delta"
+# Cryptographic library based on the code from GnuPG
+brew "libgcrypt"
+# GNU Pretty Good Privacy (PGP) package
+brew "gnupg"
+# Add GitHub support to git on the command-line
+brew "hub"
+# OpenEXR ILM Base libraries (high dynamic-range image file format)
+brew "ilmbase", link: true
 # Tools and libraries to manipulate images in many formats
 brew "imagemagick"
+# Framework for layout and rendering of i18n text
+brew "pango"
 # Library to render SVG files using Cairo
 brew "librsvg"
+# Package manager for the Lua programming language
+brew "luarocks"
 # Mac App Store command-line interface
 brew "mas"
 # Collection of tools that nobody wrote when UNIX was young
@@ -59,8 +119,10 @@ brew "pass"
 brew "qt", link: false
 # PDF rendering library (based on the xpdf-3.0 code base)
 brew "poppler", link: false
+# Tool Command Language
+brew "tcl-tk"
 # Interpreted, interactive, object-oriented programming language
-brew "python@3.9"
+brew "python@3.8"
 # File browser
 brew "ranger"
 # Reattach process (e.g., tmux) to background
@@ -73,8 +135,14 @@ brew "ripgrep"
 brew "ripgrep-all"
 # Powerful, clean, object-oriented scripting language
 brew "ruby"
+# Safe, concurrent, practical language
+brew "rust"
+# Rust toolchain installer
+brew "rustup-init"
 # Spreadsheet program for the terminal, using ncurses
 brew "sc-im"
+# Utility to modify the macOS Accessibility Database (TCC.db)
+brew "tccutil"
 # Code-search similar to ack
 brew "the_silver_searcher"
 # Simplified and community-driven man pages
@@ -109,12 +177,12 @@ cask "adobe-acrobat-reader"
 cask "alfred"
 # Utility to set up alt-tab to switch between windows
 cask "alt-tab"
+# Compact TeX distribution as alternative to the full TeX Live / MacTeX
+cask "basictex"
 # Clipboard manager with advanced features
 cask "copyq"
-# Text editor
-cask "emacs"
-# Web browser
-cask "firefox"
+# App to build and share containerized applications and microservices
+cask "docker"
 cask "font-fira-code-nerd-font"
 # Icon set and toolkit
 cask "font-fontawesome"
@@ -138,8 +206,11 @@ cask "keycastr"
 cask "mambaforge"
 # Environment for statistical computing and graphics
 cask "r"
-# Customizable email client
-cask "thunderbird"
+# Data science software focusing on R and Python
+cask "rstudio"
+# Team communication and collaboration software
+cask "slack"
+cask "ukelele"
 # GUI for the Neovim text editor
 cask "vimr"
 # Binary releases of VS Code without MS branding/telemetry/licensing
