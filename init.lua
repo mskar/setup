@@ -30,15 +30,15 @@ quitModal:bind('', 'escape', function() quitModal:exit() end)
 -- https://github.com/miromannino/miro-windows-manager
 hs.loadSpoon("MiroWindowsManager")
 
-local shift_alt = {"shift", "alt"}
+local alt_shift = {"alt", "shift"}
 
 hs.window.animationDuration = 0 -- disable animations
 spoon.MiroWindowsManager:bindHotkeys({
-  up = {shift_alt, "="},
-  right = {shift_alt, "]"},
-  down = {shift_alt, "-"},
-  left = {shift_alt, "["},
-  fullscreen = {shift_alt, "space"}
+  up = {alt_shift, "="},
+  right = {alt_shift, "]"},
+  down = {alt_shift, "-"},
+  left = {alt_shift, "["},
+  fullscreen = {alt_shift, "space"}
 })
 
 -- The numbers 1 through 4 go to screens 1 through 4
@@ -51,13 +51,13 @@ function moveWindowToDisplay(d)
   end
 end
 
-hs.hotkey.bind(shift_alt, "1", moveWindowToDisplay(1))
-hs.hotkey.bind(shift_alt, "2", moveWindowToDisplay(2))
-hs.hotkey.bind(shift_alt, "3", moveWindowToDisplay(3))
-hs.hotkey.bind(shift_alt, "4", moveWindowToDisplay(4))
+hs.hotkey.bind(alt_shift, "1", moveWindowToDisplay(1))
+hs.hotkey.bind(alt_shift, "2", moveWindowToDisplay(2))
+hs.hotkey.bind(alt_shift, "3", moveWindowToDisplay(3))
+hs.hotkey.bind(alt_shift, "4", moveWindowToDisplay(4))
 
 -- Quote goes to the previously focused window, like the last jump ('') mark in Vim
-hs.hotkey.bind(shift_alt, "'", function()
+hs.hotkey.bind(alt_shift, "'", function()
   hs.window.filter.new():getWindows()[2]:focus()
 end)
 
@@ -65,24 +65,24 @@ end)
 -- Note: Alt Shift , is go to beginning of document in emacs
 -- In macOS, use Shift Command P instead of Alt Shift .
 -- In Vim, use gg
-hs.hotkey.bind(shift_alt, ',', hs.window.switcher.previousWindow)
+hs.hotkey.bind(alt_shift, ',', hs.window.switcher.previousWindow)
 
 -- Period brings up finder, . represents the current directory in UNIX file systems
 -- Note: Alt Shift . is go to end of document in emacs
 -- In macOS, use Shift Command N instead of Alt Shift .
 -- In Vim, use G
-hs.hotkey.bind(shift_alt, '.', function()
+hs.hotkey.bind(alt_shift, '.', function()
     hs.application.launchOrFocus('Finder')
 end)
 
 -- Slash shows window hints, / is search in Vim
-hs.hotkey.bind(shift_alt, '/', hs.hints.windowHints)
+hs.hotkey.bind(alt_shift, '/', hs.hints.windowHints)
 
 -- Semicolon goes to the next window in th window switcher, like the ; motion in Vim
-hs.hotkey.bind(shift_alt, ';', hs.window.switcher.nextWindow)
+hs.hotkey.bind(alt_shift, ';', hs.window.switcher.nextWindow)
 
 -- Tab also goes to the next window in th window switcher, like Cmd Tab or Alt Tab
-hs.hotkey.bind(shift_alt, 'tab', hs.window.switcher.nextWindow)
+hs.hotkey.bind(alt_shift, 'tab', hs.window.switcher.nextWindow)
 
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L177
 function round(x, places)
@@ -100,7 +100,7 @@ end
 
 -- Enter makes the window larger
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L368
-hs.hotkey.bind(shift_alt, 'return', function()
+hs.hotkey.bind(alt_shift, 'return', function()
   local win = hs.window.focusedWindow()
   local cw = current_window_rect(win)
   local move_to_rect = {}
@@ -113,7 +113,7 @@ end)
 
 -- Escape makes the window smaller
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L392
-hs.hotkey.bind(shift_alt, 'escape', function()
+hs.hotkey.bind(alt_shift, 'escape', function()
   local win = hs.window.focusedWindow()
   local cw = current_window_rect(win)
   local move_to_rect = {}
@@ -126,113 +126,176 @@ end)
 
 -- Bar (|) centers the window, works great with square brackets to create a triple vertical split
 -- https://github.com/Hammerspoon/hammerspoon/issues/2022#issuecomment-518754783
-hs.hotkey.bind(shift_alt, '\\', function()
+hs.hotkey.bind(alt_shift, '\\', function()
   hs.window.focusedWindow():centerOnScreen(nil, true)
 end)
 
 -- Backtick brings up the console, like Ctrl ` in VS Code and GitHub Desktop
-hs.hotkey.bind(shift_alt, '`', hs.toggleConsole)
+hs.hotkey.bind(alt_shift, '`', hs.toggleConsole)
 
 -- Use Preview instead of Adobe Acrobat
-hs.hotkey.bind(shift_alt, 'a', function()
+hs.hotkey.bind(alt_shift, 'a', function()
     hs.application.launchOrFocus('Preview')
 end)
 
 -- Alt Shift B is select word backward
+-- Ctrl Alt Shift B nudges the focused window to the left
+-- Thanks to Karabiner, Ctrl Alt Shift B is the same as Alt Shift Left
+function nudgeLeft(d)
+    return {
+        x = math.max(d.x - 10, 0),
+        y = d.y,
+        h = d.h,
+        w = d.w,
+    }
+end
+
+hs.hotkey.bind(alt_shift, 'left', function()
+  win = hs.window.focusedWindow()
+  win:setFrame(nudgeLeft(win:frame()))
+end)
+
 
 -- C is for VS Code
-hs.hotkey.bind(shift_alt, 'c', function()
+hs.hotkey.bind(alt_shift, 'c', function()
     hs.application.launchOrFocus('VSCodium')
 end)
 
 -- D is for Docker
-hs.hotkey.bind(shift_alt, 'd', function()
+hs.hotkey.bind(alt_shift, 'd', function()
     hs.application.launchOrFocus('Docker')
 end)
 
 -- E is for Emacs, not Excel :)
-hs.hotkey.bind(shift_alt, 'e', function()
+hs.hotkey.bind(alt_shift, 'e', function()
     hs.application.launchOrFocus('Emacs')
 end)
 
 -- Alt Shift F is select word forward
+-- Ctrl Alt Shift F nudges the focused window to the right
+-- Thanks to Karabiner, Ctrl Alt Shift F is the same as Alt Shift Right
+function nudgeRight(d)
+    return {
+        x = d.x + 10,
+        y = d.y,
+        h = d.h,
+        w = d.w,
+    }
+end
+
+hs.hotkey.bind(alt_shift, 'right', function()
+  win = hs.window.focusedWindow()
+  win:setFrame(nudgeRight(win:frame()))
+end)
 
 -- G is for Google Chrome
-hs.hotkey.bind(shift_alt, 'g', function()
+hs.hotkey.bind(alt_shift, 'g', function()
     hs.application.launchOrFocus('Google Chrome')
 end)
 
 -- H is left, like in Vim
-hs.hotkey.bind(shift_alt, 'h', function()
+hs.hotkey.bind(alt_shift, 'h', function()
   hs.window.focusedWindow():focusWindowWest()
 end)
 
 -- I is for iTerm
-hs.hotkey.bind(shift_alt, 'i', function()
+hs.hotkey.bind(alt_shift, 'i', function()
     hs.application.launchOrFocus('iTerm')
 end)
 
 -- J is down, like in Vim
-hs.hotkey.bind(shift_alt, 'j', function()
+hs.hotkey.bind(alt_shift, 'j', function()
   hs.window.focusedWindow():focusWindowSouth()
 end)
 
 -- K is down, like in Vim
-hs.hotkey.bind(shift_alt, 'k', function()
+hs.hotkey.bind(alt_shift, 'k', function()
   hs.window.focusedWindow():focusWindowNorth()
 end)
 
 -- L is right, like in Vim
-hs.hotkey.bind(shift_alt, 'l', function()
+hs.hotkey.bind(alt_shift, 'l', function()
   hs.window.focusedWindow():focusWindowEast()
 end)
 
 -- M is for Mozilla Firefox
-hs.hotkey.bind(shift_alt, 'm', function()
+hs.hotkey.bind(alt_shift, 'm', function()
     hs.application.launchOrFocus('Firefox')
 end)
 
 -- N is for next screen, like Ctrl N
-hs.hotkey.bind(shift_alt, 'n', function()
+hs.hotkey.bind(alt_shift, 'n', function()
   local win = hs.window.focusedWindow()
   win:setFullScreen(false)
   win:moveToScreen(win:screen():previous(), true, true)
 end)
 
+-- Ctrl Alt Shift N nudges the focused window downward
+-- Thanks to Karabiner, Ctrl Alt Shift N is the same as Alt Shift Down
+function nudgeDown(d)
+    return {
+        x = d.x,
+        y = d.y + 10,
+        h = d.h,
+        w = d.w,
+    }
+end
+
+hs.hotkey.bind(alt_shift, 'down', function()
+  win = hs.window.focusedWindow()
+  win:setFrame(nudgeDown(win:frame()))
+end)
+
 -- O is for Outlook
-hs.hotkey.bind(shift_alt, 'o', function()
+hs.hotkey.bind(alt_shift, 'o', function()
     hs.application.launchOrFocus('Microsoft Outlook')
 end)
 
 -- P is for previous screen, like Ctrl P
-hs.hotkey.bind(shift_alt, 'p', function()
+hs.hotkey.bind(alt_shift, 'p', function()
   local win = hs.window.focusedWindow()
   win:setFullScreen(false)
   win:moveToScreen(win:screen():previous(), true, true)
 end)
 
+-- Ctrl Alt Shift P nudges the focused window upward
+-- Thanks to Karabiner, Ctrl Alt Shift P is the same as Alt Shift Up
+function nudgeUp(d)
+    return {
+        x = d.x,
+        y = math.max(d.y - 10, 0),
+        h = d.h,
+        w = d.w,
+    }
+end
+
+hs.hotkey.bind(alt_shift, 'up', function()
+  win = hs.window.focusedWindow()
+  win:setFrame(nudgeUp(win:frame()))
+end)
+
 -- R is for RStudio
-hs.hotkey.bind(shift_alt, 'r', function()
+hs.hotkey.bind(alt_shift, 'r', function()
     hs.application.launchOrFocus('RStudio')
 end)
 
 -- Q is for CopyQ, as in queue
-hs.hotkey.bind(shift_alt, 'q', function()
+hs.hotkey.bind(alt_shift, 'q', function()
     hs.application.launchOrFocus('CopyQ')
 end)
 
 -- S is for Slack
-hs.hotkey.bind(shift_alt, 's', function()
+hs.hotkey.bind(alt_shift, 's', function()
     hs.application.launchOrFocus('Slack')
 end)
 
 -- T is for Teams
-hs.hotkey.bind(shift_alt, 't', function()
+hs.hotkey.bind(alt_shift, 't', function()
     hs.application.launchOrFocus('Microsoft Teams')
 end)
 
 -- U is for unminimize windows for the focused app
-hs.hotkey.bind(shift_alt, 'u', function()
+hs.hotkey.bind(alt_shift, 'u', function()
   local app = hs.application.frontmostApplication()
   for k, w in ipairs(app:allWindows()) do w:unminimize() end
 end)
@@ -240,29 +303,29 @@ end)
 -- Alt Shift V is select page up
 
 -- W is for Word
-hs.hotkey.bind(shift_alt, 'w', function()
+hs.hotkey.bind(alt_shift, 'w', function()
     hs.application.launchOrFocus('Microsoft Word')
 end)
 
 -- X is for eXpose
-hs.hotkey.bind(shift_alt, 'x', function()
+hs.hotkey.bind(alt_shift, 'x', function()
   hs.expose.new():toggleShow()
 end)
 
 -- Y imitates typing while pasting, Y is for yank, like Ctrl Y in GNU Emacs and Readline
 -- https://www.hammerspoon.org/go/#defeating-paste-blocking
-hs.hotkey.bind(shift_alt, 'y', function()
+hs.hotkey.bind(alt_shift, 'y', function()
   hs.eventtap.keyStrokes(hs.pasteboard.getContents())
 end)
 
 -- Z is for Zoom
-hs.hotkey.bind(shift_alt, 'z', function()
+hs.hotkey.bind(alt_shift, 'z', function()
   hs.application.launchOrFocus('zoom.us')
   hs.window.focusedWindow():setFullScreen(false)
 end)
 
 -- Delete reloads the config, Delete is on the opposite side of the keyboard from Backtick
-hs.hotkey.bind(shift_alt, 'delete', hs.reload)
+hs.hotkey.bind(alt_shift, 'delete', hs.reload)
 
 ----------------------------------------------------------------
 -- Use menubar instead of terminal to toggle caffeinate
