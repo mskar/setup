@@ -61,6 +61,16 @@ hs.hotkey.bind(alt_shift, "'", function()
   hs.window.filter.new():getWindows()[2]:focus()
 end)
 
+-- 6 goes to the previously focused window, like the ctrl ^ in Vim
+hs.hotkey.bind(alt_shift, "6", function()
+  hs.window.filter.new():getWindows()[2]:focus()
+end)
+
+-- ctrl 6 goes to the previously focused window, like the ctrl ^ in Vim
+hs.hotkey.bind({"ctrl", "alt", "shift"}, "6", function()
+  hs.window.filter.new():getWindows()[2]:focus()
+end)
+
 -- Commna goes to the previous window in th window switcher, like the , motion in Vim
 -- Note: Alt Shift , is go to beginning of document in emacs
 -- In macOS, use Shift Command P instead of Alt Shift .
