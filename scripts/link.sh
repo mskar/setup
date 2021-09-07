@@ -8,6 +8,7 @@ ln -sf ~/mskar/setup/.gitignore ~/.gitignore
 ln -sf ~/mskar/setup/.inputrc ~/.inputrc
 ln -sf ~/mskar/setup/.p10k.zsh ~/.p10k.zsh
 ln -sf ~/mskar/setup/.radian_profile ~/.radian_profile
+ln -sf ~/mskar/setup/.tmux.conf ~/.tmux.conf
 ln -sf ~/mskar/setup/.tmux.conf.local ~/.tmux.conf.local
 ln -sf ~/mskar/setup/.vimrc ~/.vimrc
 ln -sf ~/mskar/setup/.zshrc ~/.zshrc
