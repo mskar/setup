@@ -47,6 +47,13 @@ defaults write -g InitialKeyRepeat -int 20
 #### Repeatedly engage a key when held (no need to press multiple times)
 defaults write -g ApplePressAndHoldEnabled -bool false
 
+#### https://github.com/VSCodeVim/Vim#mac
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false         # For VS Code
+
+defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool false # For VS Code Insider
+
+defaults write com.visualstudio.code.oss ApplePressAndHoldEnabled -bool false    # For VS Codium
+
 #### Set Caps Locks to be control in System Preferences > Keyboard > Modifier Keys... (this is also done via Karabiner in karabiner.json)
 
 ## Trackpad
