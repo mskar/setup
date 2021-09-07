@@ -396,17 +396,17 @@ curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Libra
 
 curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json
 
-code --install-extension ms-vsliveshare.vsliveshare --force
+codium --install-extension ms-vsliveshare.vsliveshare --force
 
-code --install-extension ms-python.python --force
+codium --install-extension ms-python.python --force
 
-code --install-extension ms-python.vscode-pylance --force
+codium --install-extension ms-python.vscode-pylance --force
 
-code --install-extension ikuyadeu.r --force
+codium --install-extension ikuyadeu.r --force
 
-code --install-extension tabnine.tabnine-vscode --force
+codium --install-extension tabnine.tabnine-vscode --force
 
-code --install-extension asvetliakov.vscode-neovim --force
+codium --install-extension asvetliakov.vscode-neovim --force
 
 ## Jupyter
 ### Need to install jupyter via conda before installing extensions
