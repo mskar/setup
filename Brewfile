@@ -213,6 +213,8 @@ cask "slack"
 cask "ukelele"
 # GUI for the Neovim text editor
 cask "vimr"
+# Open-source code editor
+cask "visual-studio-code"
 # Binary releases of VS Code without MS branding/telemetry/licensing
 cask "vscodium"
 # Collect, organize, cite, and share research sources
