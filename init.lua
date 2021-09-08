@@ -173,7 +173,7 @@ end)
 
 -- D is for Docker
 hs.hotkey.bind(alt_shift, 'd', function()
-    hs.application.launchOrFocus('Docker')
+    hs.application.launchOrFocus('Jetbrains DataSpell')
 end)
 
 -- E is for Emacs, not Excel :)
