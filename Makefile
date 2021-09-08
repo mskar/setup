@@ -76,7 +76,7 @@ radian: $(shell brew --prefix)/bin/radian ~/.radian_profile
 rename: $(RENAME)
 repo: ~/mskar/setup
 rg: $(RG)
-rstudio: $(brew --prefix)/Caskroom/miniforge/base/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
+rstudio: $(brew --prefix)/Caskroom/mambaforge/base/envs/r ~/.config/rstudio/keybindings/editor_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json ~/.config/rstudio/rstudio-prefs.json
 scim: $(SCIM)
 tldr: $(TLDR)
 tmux: $(TMUX) ~/.tmux.conf ~/.tmux.conf.local ~/.tmux/plugins/tpm
@@ -142,7 +142,7 @@ $(BREW):
 	mkdir -p ~/.vim/
 	ln -sf ~/mskar/setup/coc-settings.json ~/.vim/coc-settings.json
 $(shell brew --prefix)/bin/conda:
-	-brew install miniforge
+	-brew install mambaforge
 	-$(shell brew --prefix)/bin/conda install -yc conda-forge cookiecutter neovim
 $(DELTA):
 	-brew install git-delta
@@ -249,7 +249,7 @@ $(PASS):
 	-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/powerlevel10k
 ~/.p10k.zsh: ~/mskar/setup/.p10k.zsh
 	ln -sf ~/mskar/setup/.p10k.zsh ~/.p10k.zsh
-$(brew --prefix)/Caskroom/miniforge/base/envs/py:
+$(brew --prefix)/Caskroom/mambaforge/base/envs/py:
 	conda create -yc conda-forge -n py python=3.8 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 $(shell brew --prefix)/bin/ptpython:
 	-python -m pip install git+https://github.com/mskar/ptpython
@@ -269,7 +269,7 @@ $(RG):
 	-brew install rg
 $(RSTATS):
 	-brew install --cask r
-$(brew --prefix)/Caskroom/miniforge/base/envs/r:
+$(brew --prefix)/Caskroom/mambaforge/base/envs/r:
 	conda create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse
 ~/.config/rstudio/rstudio-prefs.json: ~/mskar/setup/rstudio-prefs.json
 	mkdir -p ~/.config/rstudio ~/.config/rstudio/keybindings
