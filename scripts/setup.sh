@@ -212,6 +212,8 @@ brew bundle install --global
 ## Set VimR to be the default txt file editor
 duti -s com.qvacua.VimR txt all
 
+duti -s com.jetbrains.DataSpell ipynb all
+
 # Hammerspoon
 curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspoon/init.lua --create-dirs
 
