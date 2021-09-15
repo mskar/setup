@@ -31,6 +31,7 @@ quitModal:bind('', 'escape', function() quitModal:exit() end)
 hs.loadSpoon("MiroWindowsManager")
 
 local alt_shift = {"alt", "shift"}
+local ctrl_alt_shift = {"ctrl", "alt", "shift"}
 
 hs.window.animationDuration = 0 -- disable animations
 spoon.MiroWindowsManager:bindHotkeys({
@@ -150,7 +151,6 @@ end)
 
 -- Alt Shift B is select word backward
 -- Ctrl Alt Shift B nudges the focused window to the left
--- Thanks to Karabiner, Ctrl Alt Shift B is the same as Alt Shift Left
 function nudgeLeft(d)
     return {
         x = math.max(d.x - 10, 0),
@@ -160,11 +160,10 @@ function nudgeLeft(d)
     }
 end
 
-hs.hotkey.bind(alt_shift, 'left', function()
+hs.hotkey.bind(ctrl_alt_shift, 'left', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeLeft(win:frame()))
 end)
-
 
 -- C is for VS Code
 hs.hotkey.bind(alt_shift, 'c', function()
@@ -183,7 +182,6 @@ end)
 
 -- Alt Shift F is select word forward
 -- Ctrl Alt Shift F nudges the focused window to the right
--- Thanks to Karabiner, Ctrl Alt Shift F is the same as Alt Shift Right
 function nudgeRight(d)
     return {
         x = d.x + 10,
@@ -193,7 +191,7 @@ function nudgeRight(d)
     }
 end
 
-hs.hotkey.bind(alt_shift, 'right', function()
+hs.hotkey.bind(ctrl_alt_shift, 'right', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeRight(win:frame()))
 end)
@@ -241,7 +239,6 @@ hs.hotkey.bind(alt_shift, 'n', function()
 end)
 
 -- Ctrl Alt Shift N nudges the focused window downward
--- Thanks to Karabiner, Ctrl Alt Shift N is the same as Alt Shift Down
 function nudgeDown(d)
     return {
         x = d.x,
@@ -251,7 +248,7 @@ function nudgeDown(d)
     }
 end
 
-hs.hotkey.bind(alt_shift, 'down', function()
+hs.hotkey.bind(ctrl_alt_shift, 'down', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeDown(win:frame()))
 end)
@@ -269,7 +266,6 @@ hs.hotkey.bind(alt_shift, 'p', function()
 end)
 
 -- Ctrl Alt Shift P nudges the focused window upward
--- Thanks to Karabiner, Ctrl Alt Shift P is the same as Alt Shift Up
 function nudgeUp(d)
     return {
         x = d.x,
@@ -279,7 +275,7 @@ function nudgeUp(d)
     }
 end
 
-hs.hotkey.bind(alt_shift, 'up', function()
+hs.hotkey.bind(ctrl_alt_shift, 'up', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeUp(win:frame()))
 end)
