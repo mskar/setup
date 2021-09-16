@@ -160,7 +160,7 @@ function nudgeLeft(d)
     }
 end
 
-hs.hotkey.bind(ctrl_alt_shift, 'left', function()
+hs.hotkey.bind(ctrl_alt_shift, 'b', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeLeft(win:frame()))
 end)
@@ -191,7 +191,7 @@ function nudgeRight(d)
     }
 end
 
-hs.hotkey.bind(ctrl_alt_shift, 'right', function()
+hs.hotkey.bind(ctrl_alt_shift, 'f', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeRight(win:frame()))
 end)
@@ -248,7 +248,7 @@ function nudgeDown(d)
     }
 end
 
-hs.hotkey.bind(alt_shift, 'down', function()
+hs.hotkey.bind(ctrl_alt_shift, 'n', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeDown(win:frame()))
 end)
@@ -275,7 +275,7 @@ function nudgeUp(d)
     }
 end
 
-hs.hotkey.bind(alt_shift, 'up', function()
+hs.hotkey.bind(ctrl_alt_shift, 'p', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeUp(win:frame()))
 end)

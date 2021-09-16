@@ -473,8 +473,7 @@
                                         "optional": [
                                             "caps_lock",
                                             "command",
-                                            "option",
-                                            "shift"
+                                            "option"
                                         ]
                                     }
                                 },
@@ -545,8 +544,7 @@
                                         "optional": [
                                             "caps_lock",
                                             "command",
-                                            "option",
-                                            "shift"
+                                            "option"
                                         ]
                                     }
                                 },
@@ -617,8 +615,7 @@
                                         "optional": [
                                             "caps_lock",
                                             "command",
-                                            "option",
-                                            "shift"
+                                            "option"
                                         ]
                                     }
                                 },
@@ -689,8 +686,7 @@
                                         "optional": [
                                             "caps_lock",
                                             "command",
-                                            "option",
-                                            "shift"
+                                            "option"
                                         ]
                                     }
                                 },
