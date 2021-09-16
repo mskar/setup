@@ -6,7 +6,7 @@
 export PATH=/usr/local/texlive/2021basic/bin/universal-darwin:/usr/local/bin:$PATH
 export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
-export MANPAGER="nvim -c 'set ft=man' -"
+export MANPAGER="nvim -c 'set ft=man' +Page -"
 export PAGER=less
 export PATH=$(brew --prefix)/Caskroom/mambaforge/base/bin:$PATH
 export KEYTIMEOUT=1
