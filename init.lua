@@ -248,7 +248,7 @@ function nudgeDown(d)
     }
 end
 
-hs.hotkey.bind(ctrl_alt_shift, 'down', function()
+hs.hotkey.bind(alt_shift, 'down', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeDown(win:frame()))
 end)
@@ -275,7 +275,7 @@ function nudgeUp(d)
     }
 end
 
-hs.hotkey.bind(ctrl_alt_shift, 'up', function()
+hs.hotkey.bind(alt_shift, 'up', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeUp(win:frame()))
 end)
