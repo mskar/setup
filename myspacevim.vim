@@ -131,8 +131,8 @@ function! myspacevim#before() abort
   inoremap <A-b> <S-Left>
   cnoremap <A-b> <S-Left>
   " <A-c> = Capitalize letter and move forward
-  nnoremap <A-c> ~w
-  inoremap <A-c> <Esc>l~wi
+  nnoremap <A-c> gUllgueea
+  inoremap <expr> <A-c> getline('.')[col('.')-1] =~ "\\s" ? "<C-o>w<C-o>gUl<C-o>l<C-o>guw<Esc>ea" : "<C-o>gUl<C-o>l<C-o>guw<Esc>ea"
   " " <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
   nnoremap <A-d> dw
   inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
@@ -155,15 +155,15 @@ function! myspacevim#before() abort
   inoremap <A-k> <Up>
   cnoremap <A-k> <Up>
   " " <A-l> = Lowercase to word end; opposite of <A-u>
-  inoremap <A-l> <Esc>gueea
+  inoremap <A-l> <C-o>gue<Esc>ea
   cnoremap <A-l> <C-f>guee<C-c>
   " " <A-t> = Swap current word with previous word
   nnoremap <A-t> diwbPldep
   inoremap <A-t> <Esc>diwbPldepa
   cnoremap <A-t> <C-f>diwbPldep<C-c>
   " " <A-u> = Uppercase to WORD end; opposite of <A-l>
-  nnoremap <A-u> gUee
-  inoremap <A-u> <Esc>gUeea
+  nnoremap <A-u> gUeea
+  inoremap <A-u> <C-o>gUe<Esc>ea
   cnoremap <A-u> <C-f>gUee<C-c>
   " " <A-.> = Insert previously inserted text (if any)
   nnoremap <A-.> a<C-r>.

@@ -43,6 +43,7 @@ Plug 'simnalamburt/vim-mundo'
 Plug 'jiangmiao/auto-pairs'
 Plug 'SirVer/ultisnips'
 Plug 'rkitover/vimpager'
+Plug 'mskar/transwrd'
 
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
@@ -662,7 +663,7 @@ cnoremap <A-b> <S-Left>
 " <A-c> = Capitalize letter and move forward
 " https://github.com/andrep/vimacs/blob/master/plugin/vimacs.vim#L1229
 nnoremap <A-c> gUllgueea
-inoremap <expr> <A-c> getline('.')[col('.')-1] =~ "\\s" ? "<C-o>w<C-o>gUl<C-o>l<C-o>gue<Esc>ea" : "<C-o>gUl<C-o>l<C-o>gue<Esc>ea"
+inoremap <expr> <A-c> getline('.')[col('.')-1] =~ "\\s" ? "<C-o>w<C-o>gUl<C-o>l<C-o>guw<Esc>ea" : "<C-o>gUl<C-o>l<C-o>guw<Esc>ea"
 " <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
 nnoremap <A-d> dw
 inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"
@@ -688,11 +689,6 @@ cnoremap <A-k> <Up>
 " https://github.com/andrep/vimacs/blob/master/plugin/vimacs.vim#L1229
 inoremap <A-l> <C-o>gue<Esc>ea
 cnoremap <A-l> <C-f>guee<C-c>
-" <A-t> = Swap current word with previous word
-nnoremap <A-t> diwbPldep
-inoremap <A-t> <Esc>diwbPldepa
-cnoremap <A-t> <C-f>diwbPldep<C-c>
-inoremap <M-t> <Esc>dawbhpi
 " <A-u> = Uppercase to WORD end; opposite of <A-l>
 " https://github.com/andrep/vimacs/blob/master/plugin/vimacs.vim#L1229
 nnoremap <A-u> gUeea

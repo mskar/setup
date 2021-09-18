@@ -207,7 +207,7 @@ inoremap <C--> <C-o>u
 " <A-b> = Move one word backward; opposite of <A-f>
 inoremap <A-b> <S-Left>
 " <A-c> = Capitalize letter and move forward
-inoremap <A-c> <Esc>l~ea
+inoremap <A-c> <C-o>gUl<C-o>l<C-o>guw<Esc>ea
 " <A-d> = Delete word forward; opposite of <A-h> and <C-w>
 inoremap <A-d> <C-o>:action EditorKillToWordEnd<CR>
 " <A-f> = Move one word forward; opposite of <A-b>
@@ -219,11 +219,12 @@ inoremap <A-j> <Down>
 " <A-k> = Move up; opposite of <A-j>
 inoremap <A-k> <Up>
 " <A-l> = Lowercase to word end; opposite of <A-u> (works)
-inoremap <A-l> <Esc>gueea
+inoremap <A-l> <C-o>gue<Esc>ea
 " <A-t> = Swap current word with previous word (works)
 inoremap <A-t> <Esc>diwbPldepa
+inoremap <M-t> <Esc>dawbhpi
 " <A-u> = Uppercase to WORD end; opposite of <A-l> (does not work)
-inoremap <A-u> <Esc>gUeea
+inoremap <A-u> <C-o>gUe<Esc>ea
 " " <A-.> = Insert previously inserted text (if any)
 inoremap <A-.> <Esc>a<C-r>.
 cnoremap <A-.> <C-r>.
