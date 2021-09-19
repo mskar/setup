@@ -335,17 +335,47 @@ a cabinet and put them.
 "You're not going to put on powerskates, Edl?" Fera asked.
 
 "I want to run. If I don't get tired during the day, I can't sleep at night,
-and I ask Ben a lot of questions, and he gets angry," Edl replied. Ben chuckled
-nervously. "Speaking of running, let's head to the BugBall field first. Please
-follow me." Ben lead the way out of the workshop and into the hallway. Fera
-felt strange relying on the powerskates to propel her forward.
+and I ask Ben a lot of questions, and he gets angry," Edl replied.
 
-On the way to field, Ben and Raf provided facts about the college. Edl had no
-trouble keeping up with them. He did not seem winded at all. When they were
-near the field, Edl seemed to get more and more excited. "I love BugBall," he
-said.
+"Let's race to the scenic overlook!" Ben exclaimed suddenly.
+
+As they sped out of the building, Fera had the impression that Raf and Ben were
+letting her win, even though she had no idea where the scenic overlook was. Edl
+had no trouble keeping up with them, despite not wearing powerskates.
+
+Fera slid to a stop next to the edge overlooking an enormous canyon surrounding
+the city.
+
+"I've been wondering... why is the city built on stilts in the middle of a
+giant canyon?"
+
+The city was built near a giant surface coal mine. As the mine expanded, the
+city had to be moved multiple times. Eventually, supports were installed
+underneath the city, so the mining could continue without moving the college
+for the umpteenth time.
+
+...
+
+When they were near the field, Edl seemed to get more and more excited. 
+
+Fera struggled to keep at first because 
+
+Ben led the way to the edge of the campus of the workshop, into the hallway,
+and outside of the building.
+
+Ben chuckled nervously. "Speaking of running, let's head to the BugBall field
+first. Please follow me."
+
+On the way to field, they Ben provided facts about the college.
+
+ Fera felt strange relying on the powerskates to propel her forward.
 
 "Our BugBall team is undefeated, thanks to Edl," Raf chimed in.
+
+"Most people struggle to hatch one egg on their own. Edl can hatch two eggs at
+the same time while running at full speed."
+
+
 
 When they got to the BugBall field, Ben, Fera, and Raf stopped to watch the
 college teams practicing, but Edl kept running towards the field. He jumped
