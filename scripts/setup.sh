@@ -333,6 +333,12 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/init.toml -o 
 
 curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vim -o ~/.SpaceVim.d/autoload/myspacevim.vim --create-dirs
 
+## Lunar Vim
+
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+
+curl https://raw.githubusercontent.com/mskar/setup/main/config.lua -o ~/.config/lvim/config.lua --create-dirs
+
 ### JetBrains IDEs
 curl https://raw.githubusercontent.com/mskar/setup/main/.ideavimrc -o ~/.ideavimrc
 

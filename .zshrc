@@ -3,7 +3,7 @@
 # https://github.com/junegunn/fzf#respecting-gitignore
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-export PATH=/usr/local/texlive/2021basic/bin/universal-darwin:/usr/local/bin:$PATH
+export PATH=~/.local/bin:/usr/local/texlive/2021basic/bin/universal-darwin:/usr/local/bin:$PATH
 export DOOMDIR=$HOME/.doom/doom-emacs-config
 export EDITOR=$(brew --prefix)/bin/nvim
 export MANPAGER="nvim -c 'set ft=man' +Page -"
@@ -293,6 +293,9 @@ alias dt="git difftool --no-prompt --tool vimdiff" # difftool is dt to match mer
 alias dtc="git difftool --no-prompt --tool vimdiff --cached"
 alias dtm="git difftool --no-prompt --tool vimdiff main" # difftool is dt to match mergetool (mt)
 alias dts="git difftool --no-prompt --tool vimdiff --staged" # same as --cached
+alias dv="git difftool --no-prompt --tool vimdiff" # difftool is dt to match mergetool (mt)
+alias dvm="git difftool --no-prompt --tool vimdiff main" # difftool is dt to match mergetool (mt)
+alias dvs="git difftool --no-prompt --tool vimdiff --staged" # same as --cached
 alias duh="du -h"
 alias dw="git diff --word-diff=color"
 alias e="emacsclient -t --alternate-editor emacs"
@@ -404,7 +407,6 @@ alias jtt="jupytext --to"
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && [ -d $(echo '${ntimes// /../}') ] && cd $(echo '${ntimes// /../}'); }; func"
 alias kg="func() { ssh-keygen -t rsa -b 4096 -f $(echo '$1') -C $(echo '$1') && ssh-add ~/.ssh/$(echo '$1') && cat ~/.ssh/$(echo '$1').pub; }; func"
 alias l="git log --format='%C(magenta)%h %C(yellow)%as %C(cyan)%>(8,trunc)%ar %Cgreen%<(8,trunc)%cn %Creset%s %Cred%D'"
-alias la="ls -a"
 alias lah="ls -ah"
 alias lal="ls -al"
 alias ld="git log --format='%C(cyan)%ad %Creset%s %Cred%D %Cgreen%cn %Cblue%h' --date=short"
@@ -449,6 +451,24 @@ alias mtc="git mergetool --tool vimdiff --cached"
 alias mts="git mergetool --tool vimdiff --staged"
 alias mu="mamba update"
 alias mx="mamba uninstall"
+alias lS="func() { lvim -S $(echo '${@:-~/session.vim}'); }; func"
+alias la="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim $(echo '$@') --; }; func"
+alias ld="func() { lvim $(date '+%Y-%m-%d')_$(echo '${1:-notes}').md; }; func"
+alias le="func() { local files=$(echo '$(v -es --noplugin -u ~/.vimrc "+set nonumber" "+pu =v:oldfiles" +%p +q! | sed /^.$/d | sed s+~+$HOME+ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim $(echo '$@') --; }; func"
+alias lf="func() { local files=$(echo '$(fd --color=always --type f $@ | fzf --ansi)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim --; }; func"
+alias lfh="func() { local files=$(echo '$(fd --color=always --type f --hidden $@ | fzf --ansi)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim --; }; func"
+alias lg="func() { local file=$(echo '$(rg -l ${@:-^} | fzf --no-multi --preview="bat --style=plain --color=always {} | rg --color=always -n ${*:-^} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && [ -f $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o lvim +$(echo '$(rg -n ${@:-^} $file | head -n 1 | cut -d: -f1)') --; }; func"
+alias lh="lvim -c History" # this only works with -c, not --cmd
+alias ll="func() { local files=$(echo '$(rg -l ${@:-^} | fzf --preview="bat --style=plain --color=always {} | rg --color=always -n ${*:-^} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim --; }; func"
+alias lo="lvim -c 'browse oldfiles'" # this only works with -c, not --cmd
+alias lp="func() { local files=$(echo '$(fd --color=always -e pdf --type f $@ | fzf --ansi --preview="pdftotext -l 2 {} - | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -n1 -I '{}' pdftotext '{}' && echo $(echo '${files//.pdf/.txt}') | tr '\n' '\0' | xargs -0 -o lvim --; }; func"
+alias lpp="lvim +Page"
+alias lr="func() { local files=$(echo '$(rg -e "^> ~/" -e "^> /" ~/.viminfo | cut -c3- | sed s+~+$HOME+ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim $(echo '$@') --; }; func"
+alias ls="func() { local staged=$(echo '$(git status --porcelain | grep "^M" | cut -c4- | fzf)') && [ $(echo '$staged') ] && echo $(echo '$staged') | tr '\n' '\0' | xargs -0 -o lvim $(echo '$@') --; }; func"
+alias lt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func"
+alias lu="func() { local unstaged=$(echo '$(git status --porcelain | grep "^.M" | cut -c4- | fzf)') && [ $(echo '$unstaged') ] && echo $(echo '$unstaged') | tr '\n' '\0' | xargs -0 -o lvim $(echo '$@') --; }; func"
+alias lw="func() { local files=$(echo '$(fd --color=always -e docx --type f $@ | fzf --ansi --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed 's/docx/md/;p;s/md/docx/' | tr '\n' '\0' | xargs -0n2 pandoc -f docx -t markdown -o && echo $(echo '${files//docx/md}') | tr '\n' '\0' | xargs -0 -o lvim --; }; func"
+alias lz="lvim ~/.zshrc"
 alias n="$(brew --prefix)/bin/nvim"
 alias nS="func() { n -S $(echo '${@:-~/session.vim}'); }; func"
 alias na="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim $(echo '$@') --; }; func"
@@ -704,6 +724,7 @@ alias uom="git pull --rebase origin main"
 alias uu="git pull --rebase upstream"
 alias uum="git pull --rebase upstream main"
 alias v="$(brew --prefix)/bin/vim"
+alias va="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o vim $(echo '$@') --; }; func"
 alias vS="func() { v -S $(echo '${@:-~/session.vim}'); }; func"
 alias vd="func() { v $(date '+%Y-%m-%d')_$(echo '${1:-notes}').md; }; func"
 alias ve="func() { local files=$(echo '$(v -es --noplugin -u ~/.vimrc "+set nonumber" "+pu =v:oldfiles" +%p +q! | sed /^.$/d | sed s+~+$HOME+ | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o vim $(echo '$@') --; }; func"
@@ -720,7 +741,6 @@ alias vs="func() { local staged=$(echo '$(git status --porcelain | grep "^M" | c
 alias vt="func() { [ ! -d ~/notes ] && git clone https://github.com/marskar/notes ~/notes; v ~/notes/$(date '+%Y-%m-%d')_$(echo '$1').tsv; }; func"
 alias vu="func() { local unstaged=$(echo '$(git status --porcelain | grep "^.M" | cut -c4- | fzf)') && [ $(echo '$unstaged') ] && echo $(echo '$unstaged') | tr '\n' '\0' | xargs -0 -o vim $(echo '$@') --; }; func"
 alias vus="v -u ~/.SpaceVim/vimrc"
-alias vv="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o vim $(echo '$@') --; }; func"
 alias vw="func() { local files=$(echo '$(fd --color=always -e docx --type f $@ | fzf --ansi --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed 's/docx/md/;p;s/md/docx/' | tr '\n' '\0' | xargs -0n2 pandoc -f docx -t markdown -o && echo $(echo '${files//docx/md}') | tr '\n' '\0' | xargs -0 -o vim --; }; func"
 alias vz="v ~/.zshrc"
 alias w="which"

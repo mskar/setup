@@ -29,6 +29,7 @@ ln -sf ~/mskar/setup/ipython_config.py ~/.ipython/profile_default/ipython_config
 ln -sf ~/mskar/setup/iterm.json ~/iterm.json
 ln -sf ~/mskar/setup/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
 ln -sf ~/mskar/setup/macos.terminal ~/macos.terminal
+ln -sf ~/mskar/setup/config.lua ~/.config/lvim/config.lua
 ln -sf ~/mskar/setup/myspacevim.vim ~/.SpaceVim.d/autoload/myspacevim.vim
 ln -sf ~/mskar/setup/packages.el ~/.doom/doom-emacs-config/packages.el
 ln -sf ~/mskar/setup/pandoc.vim ~/.config/nvim/plugged/vim-pandoc-syntax/syntax/pandoc.vim
