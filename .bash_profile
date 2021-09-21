@@ -458,3 +458,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+complete -C /usr/local/bin/bit bit
