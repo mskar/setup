@@ -663,7 +663,7 @@ cnoremap <A-b> <S-Left>
 " <A-c> = Capitalize letter and move forward
 " https://github.com/andrep/vimacs/blob/master/plugin/vimacs.vim#L1229
 nnoremap <A-c> gUllgueea
-inoremap <expr> <A-c> getline('.')[col('.')-1] =~ "\\s" ? "<C-o>w<C-o>gUl<C-o>l<C-o>guw<Esc>ea" : "<C-o>gUl<C-o>l<C-o>guw<Esc>ea"
+inoremap <expr> <A-c> getline('.')[col('.')-1] =~ "\\s" ? "<C-o>W<C-o>gUl<C-o>l<C-o>guw<Esc>ea" : "<C-o>gUl<C-o>l<C-o>guw<Esc>ea"
 " <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
 nnoremap <A-d> dw
 inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"

@@ -65,6 +65,31 @@ lvim.keys.insert_mode["<A-l>"] = "<C-o>gue<Esc>ea"
 lvim.keys.insert_mode["<A-u>"] = "<C-o>gUe<Esc>ea"
 -- <A-.> = Insert Previously Inserted text (if any)
 lvim.keys.insert_mode["<A-.>"] = "<C-r>."
+-- 2-character Sneak (default)
+lvim.keys.normal_mode["<A-s>"] = "<Plug>Sneak_s"
+lvim.keys.normal_mode["<A-S>"] = "<Plug>Sneak_S"
+-- visual-mode
+lvim.keys.visual_mode["<A-s>"] = "<Plug>Sneak_s"
+lvim.keys.visual_mode["<A-S>"] = "<Plug>Sneak_S"
+
+-- repeat motion
+vim.cmd [[map ; <Plug>Sneak_;]]
+vim.cmd [[map , <Plug>Sneak_,]]
+
+-- 1-character enhanced 'f'
+vim.cmd [[nmap f <Plug>Sneak_f]]
+vim.cmd [[nmap F <Plug>Sneak_F]]
+-- visual-mode
+vim.cmd [[xmap f <Plug>Sneak_f]]
+vim.cmd [[xmap F <Plug>Sneak_F]]
+
+-- 1-character enhanced 't'
+vim.cmd [[nmap t <Plug>Sneak_t]]
+vim.cmd [[nmap T <Plug>Sneak_T]]
+-- visual-mode
+vim.cmd [[xmap t <Plug>Sneak_t]]
+vim.cmd [[xmap T <Plug>Sneak_T]]
+
 -- https://www.lunarvim.org/configuration/02-keybindings.html#cursor-movement
 lvim.line_wrap_cursor_movement = true
 -- vim.opt.scrolloff = 0 -- Required so L moves to the last line
@@ -183,6 +208,8 @@ lvim.plugins = {
     keys = {"c", "d", "y"}
   },
   { "tpope/vim-repeat" },
+  {"justinmk/vim-sneak"},
+
 }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
