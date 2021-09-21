@@ -7,23 +7,67 @@ lvim.colorscheme = "onedarker"
 
 -- keymappings [view all the defaults by pressing <leader>Lk]
 lvim.leader = "space"
+-- https://www.lunarvim.org/configuration/02-keybindings.html#lunarvim-keybindings
+-- use the default vim behavior for H and L 
+
+lvim.keys.insert_mode["<C-k>"] = nil
+lvim.keys.normal_mode["<S-l>"] = nil
+lvim.keys.normal_mode["<S-h>"] = nil
 -- add your own keymapping
+-- Emacs and bash style insert mode CTRL shortcuts
 lvim.keys.normal_mode["ZA"] = ":xa<CR>"
 lvim.keys.normal_mode["Y"] = "y$"
+-- <C-a> = Move to start of the line; like in vim command mode: c_ctrl-b; To insert previously inserted text, use <C-r>. or <Alt-.> (below)
 lvim.keys.insert_mode["<C-a>"] = "<Home>"
+-- <C-b> = Move one character backward; the opposite of <C-f>
 lvim.keys.insert_mode["<C-b>"] = "<Left>"
-lvim.keys.insert_mode["<C-d>"] = "<Delete>"
+-- <C-d> = Delete one character forward; the opposite of <C-h>
+vim.cmd [[inoremap <silent><expr> <C-d> "\<C-g>u<Delete>"]]
+-- <C-e> = Move to end of the line (already exists in command mode: c_ctrl-e), this also cancels completion
 lvim.keys.insert_mode["<C-e>"] = "<End>"
+-- <C-f> = Move one character forward; the opposite of <C-b>; <C-f> is too useful (for : / ?) to remap
 lvim.keys.insert_mode["<C-f>"] = "<Right>"
-lvim.keys.insert_mode["<C-h>"] = "<BS>"
+-- <C-g> = Cancel completion
+vim.cmd [[inoremap <silent><expr> <C-g> pumvisible() ? "\<C-e>" :  "<C-g>"]]
+-- <C-h> = Delete one character backward; the opposite of <C-d>; already exists in command mode: c_ctrl-h
+vim.cmd [[inoremap <silent><expr> <C-h> "\<C-g>u<BS>"]]
+-- <C-k> = Delete to end of line; the opposite of <C-u>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/; https://superuser.com/a/855997
+vim.cmd [[inoremap <expr> <C-k> col(".") == col("$") ? "<Del>" : "<C-o>d$"]]
+-- <C-r> = make paste from register undoable in insert mode; already exists in command mode: c_ctrl-r
+vim.cmd [[inoremap <silent><expr> <C-r> "\<C-g>u<C-r>"]]
+-- <C-u> = Delete to start of line; the opposite of <C-k>; already exists in command mode: c_ctrl-u
+vim.cmd [[inoremap <silent><expr> <C-u> "\<C-g>u<C-u>"]]
+-- <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
+vim.cmd [[inoremap <silent><expr> <C-w> "\<C-g>u<C-w>"]]
+-- <C-y> = Paste from system clipboard (not from killring like in bash/emacs)
+vim.cmd [[inoremap <silent> <C-y> <CR><C-r><C-o>"]]
+-- <C-_> = Undo like in bash/emacs (this works really well)
 lvim.keys.insert_mode["<C-_>"] = "<C-o>u"
+-- <C-/> = Undo like in bash/emacs (this works really well)
 lvim.keys.insert_mode["<C-/>"] = "<C-o>u"
+-- <C-=> = Redo; opposite of <C-_>
 lvim.keys.insert_mode["<C-=>"] = "<C-o><C-r>"
-lvim.keys.insert_mode["<A-l>"] = "<C-o>gue<Esc>ea"
-lvim.keys.insert_mode["<A-f>"] = "<S-Right>"
+-- <A-a> = Move to previous sentence start ; opposite of <A-e>
+lvim.keys.insert_mode["<A-a>"] = "<C-o>("
+-- <A-b> = Move one word backward; opposite of <A-f>
 lvim.keys.insert_mode["<A-b>"] = "<S-Left>"
+-- <A-c> = Capitalize letter and move forward
+vim.cmd [[inoremap <expr> <A-c> getline('.')[col('.')-1] =~ "\\s" ? "<C-o>W<C-o>gUl<C-o>l<C-o>guw<Esc>ea" : "<C-o>gUl<C-o>l<C-o>guw<Esc>ea"]]
+-- <A-d> = Delete word forward; opposite of <A-h> and <C-w>; https://www.reddit.com/r/vim/comments/9i58q8/question_re_delete_word_forward_in_insert_mode/e6he226/
+vim.cmd [[inoremap <expr> <A-d> col(".") == col("$") ? "<Del>" : "<C-o>de"]]
+-- <A-e> = Move to previous sentence start ; opposite of <A-a>
+lvim.keys.insert_mode["<A-e>"] = "<C-o>)"
+-- <A-f> = Move one word forward; opposite of <A-b>
+lvim.keys.insert_mode["<A-f>"] = "<S-Right>"
+-- <A-l> = Lowercase to word end; opposite of <A-u>
+lvim.keys.insert_mode["<A-l>"] = "<C-o>gue<Esc>ea"
+-- <A-u> = Uppercase to word end; opposite of <A-l>
 lvim.keys.insert_mode["<A-u>"] = "<C-o>gUe<Esc>ea"
+-- <A-.> = Insert Previously Inserted text (if any)
 lvim.keys.insert_mode["<A-.>"] = "<C-r>."
+-- https://www.lunarvim.org/configuration/02-keybindings.html#cursor-movement
+lvim.line_wrap_cursor_movement = true
+-- vim.opt.scrolloff = 0 -- Required so L moves to the last line
 -- lvim.keys.insert_mode["<C-k>"] = "<C-\>estrpart(getcmdline(),0,getcmdpos()-1)<CR>"
 -- unmap a default keymapping
 -- lvim.keys.normal_mode["<C-Up>"] = ""
