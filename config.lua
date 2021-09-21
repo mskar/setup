@@ -219,3 +219,6 @@ lvim.plugins = {
 
 -- https://www.lunarvim.org/configuration/03-colorschemes.html#transparent-windows
 lvim.transparent_window = true
+
+-- https://www.lunarvim.org/configuration/01-settings.html#example-options
+vim.opt.cursorline = false -- don't highlight the current line
