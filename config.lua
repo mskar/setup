@@ -9,7 +9,6 @@ lvim.colorscheme = "onedarker"
 lvim.leader = "space"
 -- https://www.lunarvim.org/configuration/02-keybindings.html#lunarvim-keybindings
 -- use the default vim behavior for H and L 
-
 lvim.keys.insert_mode["<C-k>"] = nil
 lvim.keys.normal_mode["<S-l>"] = nil
 lvim.keys.normal_mode["<S-h>"] = nil
@@ -89,6 +88,10 @@ vim.cmd [[nmap T <Plug>Sneak_T]]
 -- visual-mode
 vim.cmd [[xmap t <Plug>Sneak_t]]
 vim.cmd [[xmap T <Plug>Sneak_T]]
+
+lvim.keys.normal_mode["yon"] = ":setlocal number!<CR>"
+lvim.keys.normal_mode["yor"] = ":setlocal relativenumber!<CR>"
+lvim.keys.normal_mode["yog"] = ":Gitsigns toggle_signs<CR>"
 
 -- https://www.lunarvim.org/configuration/02-keybindings.html#cursor-movement
 lvim.line_wrap_cursor_movement = true
@@ -208,14 +211,16 @@ lvim.plugins = {
     keys = {"c", "d", "y"}
   },
   { "tpope/vim-repeat" },
+  { "mskar/transwrd" },
   {"justinmk/vim-sneak"},
 
 }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
--- lvim.autocommands.custom_groups = {
---   { "BufWinEnter", "*.lua", "setlocal ts=8 sw=8" },
--- }
+-- https://www.lunarvim.org/configuration/05-autocommands.html
+lvim.autocommands.custom_groups = {
+  { "BufWinEnter", "*", "setlocal laststatus=0 | set showtabline=0" },
+}
 
 -- https://www.lunarvim.org/configuration/03-colorschemes.html#transparent-windows
 lvim.transparent_window = true
@@ -223,3 +228,5 @@ lvim.transparent_window = true
 -- https://www.lunarvim.org/configuration/01-settings.html#example-options
 vim.opt.cursorline = false -- don't highlight the current line
 vim.opt.cmdheight = 1 -- less space in the neovim command line for displaying messages
+vim.opt.number = false
+vim.opt.timeoutlen = 200 -- more time to wait for a mapped sequence to complete (in milliseconds)
