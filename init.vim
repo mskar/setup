@@ -56,7 +56,7 @@ endif
 Plug 'honza/vim-snippets'
 
 "" Color
-Plug 'joshdick/onedark.vim'
+Plug 'LunarVim/onedarker.nvim'
 
 "" REPL
 Plug 'jpalardy/vim-slime', { 'branch': 'main' }
@@ -146,7 +146,7 @@ set ruler
 
 let no_buffers_menu=1
 let g:pandoc#syntax#conceal#use=0
-silent! colorscheme onedark
+silent! colorscheme onedarker
 
 set mousemodel=popup
 set t_Co=256

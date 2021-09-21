@@ -89,9 +89,11 @@ vim.cmd [[nmap T <Plug>Sneak_T]]
 vim.cmd [[xmap t <Plug>Sneak_t]]
 vim.cmd [[xmap T <Plug>Sneak_T]]
 
+lvim.keys.normal_mode["yog"] = ":Gitsigns toggle_signs<CR>"
 lvim.keys.normal_mode["yon"] = ":setlocal number!<CR>"
 lvim.keys.normal_mode["yor"] = ":setlocal relativenumber!<CR>"
-lvim.keys.normal_mode["yog"] = ":Gitsigns toggle_signs<CR>"
+lvim.keys.normal_mode["yow"] = ":setlocal wrap!<CR>"
+vim.cmd [[nnoremap <expr> yoa &fo =~ 'a' ? ':set fo-=a<CR>' : ':set fo+=a<CR>']]
 
 -- https://www.lunarvim.org/configuration/02-keybindings.html#cursor-movement
 lvim.line_wrap_cursor_movement = true
