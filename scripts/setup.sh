@@ -228,11 +228,11 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### Keyboard shortcuts:
 ### `Ctrl Alt C` summons the CopyQ window
 ### `Ctrl Alt R` summons the CopyQ tray (mnemonic: right click)
-### `Ctrl Alt E` edits the clipboard
+### `Ctrl Alt V` edits the clipboard (mnemonic: vim)
 ### `Ctrl Alt J` pastes and copies next
 ### `Ctrl Alt K` pastes and copies previous
 ### `Ctrl Alt T` pastes the today's ISO date
-### `Ctrl Alt V` pastes as plain text (no formatting)
+### `Ctrl Alt X` pastes as plain text (mnemonic: remove (x) formatting)
 
 ## Set up Mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
