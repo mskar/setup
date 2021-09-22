@@ -144,6 +144,9 @@ lvim.builtin.treesitter.ensure_installed = "maintained"
 lvim.builtin.treesitter.ignore_install = { "haskell" }
 lvim.builtin.treesitter.highlight.enabled = true
 
+
+
+
 -- Disable virtual text
 lvim.lsp.diagnostics.virtual_text = false
 -- generic LSP settings
@@ -215,7 +218,15 @@ lvim.plugins = {
   { "tpope/vim-repeat" },
   { "mskar/transwrd" },
   {"justinmk/vim-sneak"},
+  {"ethanholz/nvim-lastplace"},
 
+}
+
+-- https://github.com/ethanholz/nvim-lastplace
+require'nvim-lastplace'.setup {
+    lastplace_ignore_buftype = {"quickfix", "nofile", "help"},
+    lastplace_ignore_filetype = {"gitcommit", "gitrebase", "svn", "hgcommit"},
+    lastplace_open_folds = true
 }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
