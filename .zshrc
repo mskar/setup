@@ -32,6 +32,7 @@ fi
 WORDCHARS='_'
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=5' # https://stackoverflow.com/a/47313453
 DISABLE_MAGIC_FUNCTIONS=true
+CONDA_AUTO_ACTIVATE_BASE=false
 
 # https://cirw.in/blog/bracketed-paste
 set zle_bracketed_paste
@@ -915,3 +916,18 @@ bindkey -M viins '≥' insert-last-word
 
 autoload -U +X bashcompinit && bashcompinit
 complete -o nospace -C /usr/local/bin/bit bit
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/usr/local/Caskroom/mambaforge/base/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/usr/local/Caskroom/mambaforge/base/etc/profile.d/conda.sh" ]; then
+        . "/usr/local/Caskroom/mambaforge/base/etc/profile.d/conda.sh"
+    else
+        export PATH="/usr/local/Caskroom/mambaforge/base/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
