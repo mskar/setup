@@ -453,29 +453,33 @@ curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settin
 ### Under File > Settings Repository..., select Overwrite Local
 ### Settings
 ### Select MacOS X 10.5+ Keymap and make the following changes:
-#### - Editor Actions > Decrease Font Size : `Cmd -`
-#### - Editor Actions > Focus Editor : `Shift Escape`
-#### - Editor Actions > Increase Font Size : `Cmd +`
-#### - Editor Actions > Reset Font Size : `Cmd 0`
-#### - Editor Actions > Split Line :
-#### - Main Menu > File > Save As...: `Cmd Shift S`
-#### - Main Menu > Tool Windows > Commit :
-#### - Main Menu > Edit > Undo : `Ctrl -`
-#### - Main Menu > Edit > Redo : `Ctrl =`
-#### - Main Menu > Edit > Paste : `Ctrl y`
-#### - Main Menu > Edit > Delete : `Ctrl d`
-#### - Main Menu > Help > Find Action... : `Cmd Shift p`
 #### - Editor Actions > Backspace : `Ctrl h`
 #### - Editor Actions > Cut Line Backward : `Ctrl u`
+#### - Editor Actions > Kill to Word End : `Alt d`
 #### - Editor Actions > Cut up to Line End : `Ctrl k`
+#### - Editor Actions > Decrease Font Size : `Cmd -`
+#### - Editor Actions > Focus Editor : `Shift Escape`
+#### - Editor Actions > Increase Font Size : `Cmd =`
 #### - Editor Actions > Kill to Word Start : `Ctrl w`
-#### - Editor Actions > Cut to Word End : `Alt d`
-#### - Editor Actions > Move Caret to Previous Word : `Alt b`
 #### - Editor Actions > Move Caret to Next Word : `Alt f`
+#### - Editor Actions > Move Caret to Previous Word : `Alt b`
+#### - Editor Actions > Reset Font Size : `Cmd 0`
+#### - Editor Actions > Split Line :
+#### - Main Menu > Edit > Delete : `Ctrl d`
+#### - Main Menu > Edit > Paste : `Ctrl y`
+#### - Main Menu > Edit > Redo : `Ctrl =`
+#### - Main Menu > Edit > Undo : `Ctrl -`
+#### - Main Menu > File > Save As...: `Cmd Shift S`
+#### - Main Menu > Help > Find Action... : `Cmd Shift p`
+#### - Main Menu > Tool Windows > Commit :
+#### - Main Menu > Window > Active Tool Window > Resize > Stretch to Bottom : `Cmd Shift ,`
+#### - Main Menu > Window > Active Tool Window > Resize > Stretch to Left : `Cmd Shift ,`
+#### - Main Menu > Window > Active Tool Window > Resize > Stretch to Right : `Cmd Shift ;`
+#### - Main Menu > Window > Active Tool Window > Resize > Stretch to Top : `Cmd Shift ;`
 #### - Plug-ins > Git > Checkout Revision : `Enter`
 #### - Plug-ins > Git > Checkout Selected : `Enter`
-#### - Plug-ins > Python > Split Cell : `Ctrl Shift -`
 #### - Plug-ins > Python > Execute Selection in Python Console: `Cmd Enter`
+#### - Plug-ins > Python > Split Cell : `Ctrl Shift -`
 #### - Plug-ins > Terminal > Shift Focus To Editor : `Shift+Escape`
 ### In Appearance & Behavior > Appearance, Select Darcula theme and select Fura Code Nerd Font size 14
 ### Using `Cmd Shift A` or going to View > Appearance at the Top, enable Details in Tree Views, disable Tool Windows Bars and Navigation Bar
