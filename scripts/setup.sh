@@ -227,11 +227,11 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### Notes:
 ### Keyboard shortcuts:
 ### `Ctrl Alt C` summons the CopyQ window
-### `Ctrl Alt R` summons the CopyQ tray (mnemonic: right click)
-### `Ctrl Alt V` edits the clipboard (mnemonic: vim)
+### `Ctrl Alt D` pastes the today's ISO date
 ### `Ctrl Alt J` pastes and copies next
 ### `Ctrl Alt K` pastes and copies previous
-### `Ctrl Alt T` pastes the today's ISO date
+### `Ctrl Alt S` show the CopyQ tray (mnemonic: show tray)
+### `Ctrl Alt V` edits the clipboard (mnemonic: vim)
 ### `Ctrl Alt X` pastes as plain text (mnemonic: remove (x) formatting)
 
 ## Set up Mac terminal
