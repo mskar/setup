@@ -230,9 +230,17 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### `Ctrl Alt D` pastes the today's ISO date
 ### `Ctrl Alt J` pastes and copies next
 ### `Ctrl Alt K` pastes and copies previous
-### `Ctrl Alt S` show the CopyQ tray (mnemonic: show tray)
+### `Ctrl Alt S` shows the CopyQ tray (mnemonic: show tray)
 ### `Ctrl Alt V` edits the clipboard (mnemonic: vim)
 ### `Ctrl Alt X` pastes as plain text (mnemonic: remove (x) formatting)
+
+## Set builtin "Move focus" macOS Keyboard shortcuts in System Preferences > Keyboard > Shortcuts > Keyboard
+### Move focus to menu bar: `Ctrl Shift B`
+### Move focus to Dock: `Ctrl Shift D`
+### Move focus to active or next window: `Ctrl Shift J`
+### Move focus to window toolbar: `Ctrl Shift T`
+### Move focus to floating window: `Ctrl Shift K`
+### Move focus to status menus: `Ctrl Shift S`
 
 ## Set up Mac terminal
 ### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
@@ -241,14 +249,21 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ## Set up iterm2
 curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.json
 
-## Load iterm.json, which includes the settings below
-## In iterm2, select General > Preferences: Select load preferences from a local folder or URL
-## In iterm2, select Appearance > Theme: Minimal
-## In iterm2, select Profiles > Keys: Both option keys to Esc+
-## In iterm2, select Profiles > Terminal > Notifications: Silence bell
-## In iterm2, select Profiles > Text > Change Font: Fura Code Nerdfont size 18, Use Ligatures
-## In iterm2, set Profiles > General > Command > Send text at start: tmux attach || tmux new \; split-window -v \; select-pane -t :.+
-## In iterm2, set Keys > Key Bindings > Send hex code 0x11 ^;
+### Load iterm.json, which includes the settings below
+### In iterm2, select General > Preferences: Select load preferences from a local folder or URL
+### In iterm2, select Appearance > Theme: Minimal
+### In iterm2, select Profiles > Keys: Both option keys to Esc+
+### In iterm2, select Profiles > Terminal > Notifications: Silence bell
+### In iterm2, select Profiles > Text > Change Font: Fura Code Nerdfont size 18, Use Ligatures
+### In iterm2, set Profiles > General > Command > Send text at start: tmux attach || tmux new \; split-window -v \; select-pane -t :.+
+### In iterm2, set Keys > Key Bindings > Send hex code 0x11 ^;
+### In iterm2, set Profiles > Keys > Key Mappings to send enter/return key codes:
+#### Send ^[ [13;2u with Shift Return
+#### Send ^[ [13;5u with Ctrl Return
+#### Send ^[ [13;6u with Ctrl Shift Return
+#### Send ^[ [13;3u with Cmd Return
+#### Send ^[ [13;4u with Shift Cmd Return
+#### Send ^[ <M-C-CR> with Ctrl Shift Cmd Return
 
 ## Set up karabiner
 curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
