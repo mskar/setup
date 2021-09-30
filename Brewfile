@@ -1,5 +1,6 @@
 tap "browsh-org/browsh"
 tap "clementtsang/bottom"
+tap "eth-p/software"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
@@ -11,6 +12,8 @@ tap "universal-ctags/universal-ctags"
 brew "bash"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Bash scripts that integrate bat with various command-line tools
+brew "eth-p/software/bat-extras"
 # Bit is a modern Git CLI
 brew "bit-git"
 # Vector graphics library with cross-device output support
