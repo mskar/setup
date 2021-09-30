@@ -235,7 +235,7 @@ end)
 hs.hotkey.bind(alt_shift, 'n', function()
   local win = hs.window.focusedWindow()
   win:setFullScreen(false)
-  win:moveToScreen(win:screen():previous(), true, true)
+  win:moveToScreen(win:screen():next(), true, true)
 end)
 
 -- Ctrl Alt Shift N nudges the focused window downward
@@ -255,7 +255,7 @@ end)
 
 -- O is for Outlook
 hs.hotkey.bind(alt_shift, 'o', function()
-    hs.application.launchOrFocus('Microsoft Outlook')
+  hs.application.launchOrFocus('Microsoft Outlook')
 end)
 
 -- P is for previous screen, like Ctrl P

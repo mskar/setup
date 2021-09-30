@@ -145,6 +145,8 @@ brew "sc-im"
 brew "tccutil"
 # Code-search similar to ack
 brew "the_silver_searcher"
+# Text interface for Git repositories
+brew "tig"
 # Simplified and community-driven man pages
 brew "tldr"
 # Terminal multiplexer
@@ -154,7 +156,7 @@ brew "vim"
 # Internet file retriever
 brew "wget"
 # PDF viewer
-brew "xpdf", link: false
+brew "xpdf"
 # Fish-like fast/unobtrusive autosuggestions for zsh
 brew "zsh-autosuggestions"
 # Fish shell like syntax highlighting for zsh
