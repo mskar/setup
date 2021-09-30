@@ -405,6 +405,8 @@ bind -r C-^   switch-client -l                                  # *CTRL-^* *CTRL
 bind -r [     switch-client -p                                  # [b *:bN* *:bNext* *:bp* *:bprevious* *E88*
 bind -r ]     switch-client -n                                  # ]b :bn* *:bnext* *E87*
 bind -r ^     switch-client -l                                  # *CTRL-^* *CTRL-6*
+bind -r -     switch-client -l                                  # like cd -
+bind -r C--   switch-client -l                                  # like cd -
 bind z        run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/session.sh attach"
 bind C-z      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/session.sh attach"
 bind C-a      choose-session                                    # mnemonic: attach
