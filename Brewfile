@@ -1,38 +1,18 @@
 tap "browsh-org/browsh"
 tap "clementtsang/bottom"
-tap "heroku/brew"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/core"
 tap "homebrew/services"
-tap "mongodb/brew"
 tap "romkatv/powerlevel10k"
 tap "universal-ctags/universal-ctags"
-# Generic-purpose lossless compression algorithm by Google
-brew "brotli"
-# Asynchronous DNS library
-brew "c-ares"
-# Next generation open source RPC library and framework
-brew "grpc"
-# Package for scientific computing with Python
-brew "numpy"
-# Framework for scalable cross-language services development
-brew "thrift"
-# Columnar in-memory analytics layer designed to accelerate big data
-brew "apache-arrow"
-# Record and share terminal sessions
-brew "asciinema"
 # Bourne-Again SHell, a UNIX command interpreter
 brew "bash"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
-# Garbage collector for C and C++
-brew "bdw-gc"
 # Bit is a modern Git CLI
 brew "bit-git"
-# Core application library for C
-brew "glib"
 # Vector graphics library with cross-device output support
 brew "cairo"
 # GNU File, Shell, and Text utilities
@@ -43,12 +23,6 @@ brew "diff-so-fancy"
 brew "duti"
 # Git for data science projects
 brew "dvc"
-# ASN.1 structure parser library
-brew "libtasn1"
-# HTTP/2 C Library
-brew "nghttp2"
-# Validating, recursive, caching DNS resolver
-brew "unbound"
 # GNU Emacs text editor
 brew "emacs"
 # Modern replacement for 'ls'
@@ -57,46 +31,22 @@ brew "exa"
 brew "fasd"
 # Simple, fast and user-friendly alternative to find
 brew "fd"
-# Generate introspection data for GObject libraries
-brew "gobject-introspection"
-# OpenType text shaping engine
-brew "harfbuzz"
-# Subtitle renderer for the ASS/SSA subtitle format
-brew "libass"
-# Secure Reliable Transport
-brew "srt"
-# OCR (Optical Character Recognition) engine
-brew "tesseract"
-# H.264/AVC encoder
-brew "x264"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
 # CLI program that accepts piped input and presents files for selection
 brew "fpp"
 # Command-line fuzzy finder written in Go
 brew "fzf"
-# Toolkit for image loading and pixel buffer manipulation
-brew "gdk-pixbuf"
 # GitHub command-line tool
 brew "gh"
 # Distributed revision control system
 brew "git"
-# Enable transparent encryption/decryption of files in a git repo
-brew "git-crypt"
 # Syntax-highlighting pager for git and diff output
 brew "git-delta"
-# Cryptographic library based on the code from GnuPG
-brew "libgcrypt"
 # GNU Pretty Good Privacy (PGP) package
 brew "gnupg"
-# Add GitHub support to git on the command-line
-brew "hub"
-# OpenEXR ILM Base libraries (high dynamic-range image file format)
-brew "ilmbase", link: true
 # Tools and libraries to manipulate images in many formats
 brew "imagemagick"
-# Framework for layout and rendering of i18n text
-brew "pango"
 # Library to render SVG files using Cairo
 brew "librsvg"
 # Package manager for the Lua programming language
@@ -115,14 +65,8 @@ brew "noti"
 brew "pandoc"
 # Password manager
 brew "pass"
-# Cross-platform application and UI framework
-brew "qt", link: false
-# PDF rendering library (based on the xpdf-3.0 code base)
-brew "poppler", link: false
-# Tool Command Language
-brew "tcl-tk"
 # Interpreted, interactive, object-oriented programming language
-brew "python@3.8"
+brew "python@3.9"
 # File browser
 brew "ranger"
 # Reattach process (e.g., tmux) to background
@@ -165,10 +109,6 @@ brew "zsh-syntax-highlighting"
 brew "browsh-org/browsh/browsh"
 # A cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
 brew "clementtsang/bottom/bottom"
-# Everything you need to get started with Heroku
-brew "heroku/brew/heroku"
-# High-performance, schema-free, document-oriented database
-brew "mongodb/brew/mongodb-community"
 # A Zsh Theme
 brew "romkatv/powerlevel10k/powerlevel10k"
 # Maintained ctags implementation
@@ -212,7 +152,6 @@ cask "r"
 cask "rstudio"
 # Team communication and collaboration software
 cask "slack"
-cask "ukelele"
 # GUI for the Neovim text editor
 cask "vimr"
 # Open-source code editor
