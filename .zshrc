@@ -434,7 +434,6 @@ alias lf="func() { local files=$(echo '$(fd --color=always --type f $@ | fzf --a
 alias lfh="func() { local files=$(echo '$(fd --color=always --type f --hidden $@ | fzf --ansi)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim --; }; func"
 alias lg="func() { local file=$(echo '$(rg -l ${@:-^} | fzf --no-multi --preview="bat --style=plain --color=always {} | rg --color=always -n ${*:-^} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && [ -f $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o lvim +$(echo '$(rg -n ${@:-^} $file | head -n 1 | cut -d: -f1)') --; }; func"
 alias lh="lvim -c History" # this only works with -c, not --cmd
-alias ln="func() { lvim $(date '+%Y-%m-%d')_$(echo '${1:-notes}').md; }; func"
 alias lo="lvim -c 'browse oldfiles'" # this only works with -c, not --cmd
 alias log="git log --format='%C(magenta)%h %C(yellow)%as %C(cyan)%>(8,trunc)%ar %Cgreen%<(8,trunc)%cn %Creset%s %Cred%D'"
 alias logd="git log --format='%C(cyan)%ad %Creset%s %Cred%D %Cgreen%cn %Cblue%h' --date=short"
