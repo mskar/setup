@@ -168,10 +168,10 @@ nnoremap <leader>z :action Vcs.RollbackChangedLines<CR>
 nnoremap <leader><leader> :nohlsearch<CR>
 
 " These work, you just have to do the combo very fast
-nnoremap <c-w>+ :action StretchSplitToBottom<CR>
-nnoremap <c-w>- :action StretchSplitToTop<CR>
-nnoremap <c-w>> :action StretchSplitToRight<CR>
-nnoremap <c-w>< :action StretchSplitToLeft<CR>
+nnoremap <c-w>+ :action StretchEditorToBottom<CR>
+nnoremap <c-w>- :action StretchEditorToTop<CR>
+nnoremap <c-w>> :action StretchEditorToRight<CR>
+nnoremap <c-w>< :action StretchEditorToLeft<CR>
 " <C-t> = Refactor this... now only works in normal mode
 " so <C-t> can indent line in insert mode
 nnoremap <C-t> :action Refactorings.QuickListPopupAction<CR>
