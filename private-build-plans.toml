@@ -1,0 +1,29 @@
+[buildPlans.myosevska]
+family = "myosevka"
+no-cv-ss = true
+serifs = "sans"
+spacing = "normal"
+
+[buildPlans.myosevka.variants.design]
+asterisk = "penta-low"
+at = "fourfold"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+caret = "low"
+percent = "rings-continuous-slash"
+seven = "bend-crossbar-serifed"
+z = "straight-serifless-with-horizontal-crossbar"
+zero = "slashed-oval"
+
+[buildPlans.myosevka.ligations]
+inherits = "dlig"
+
+[buildPlans.iosevcal]
+family = "iosevcal"
+no-cv-ss = true
+no-ligation = true
+serifs = "sans"
+spacing = "normal"
+
+[buildPlans.iosevcal.variants.design]
+seven = "bend-crossbar-serifed"
+zero = "unslashed-oval"
