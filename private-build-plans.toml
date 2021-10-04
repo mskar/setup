@@ -1,29 +1,25 @@
-[buildPlans.myosevska]
-family = "myosevka"
+[buildPlans.iosevka-custom]
+family = "Ewka"
 no-cv-ss = true
 serifs = "sans"
 spacing = "normal"
 
-[buildPlans.myosevka.variants.design]
+[buildPlans.iosevka-custom.variants.design]
 asterisk = "penta-low"
 at = "fourfold"
+capital-j = "descending-serifed-symmetric"
+capital-w = "straight"
 capital-z = "straight-serifless-with-horizontal-crossbar"
 caret = "low"
+f = "flat-hook"
+g = "double-storey-open"
+j = "serifless"
+m = "short-leg"
 percent = "rings-continuous-slash"
+six = "closed-contour"
 seven = "bend-crossbar-serifed"
 z = "straight-serifless-with-horizontal-crossbar"
 zero = "slashed-oval"
 
-[buildPlans.myosevka.ligations]
+[buildPlans.iosevka-custom.ligations]
 inherits = "dlig"
-
-[buildPlans.iosevcal]
-family = "iosevcal"
-no-cv-ss = true
-no-ligation = true
-serifs = "sans"
-spacing = "normal"
-
-[buildPlans.iosevcal.variants.design]
-seven = "bend-crossbar-serifed"
-zero = "unslashed-oval"
