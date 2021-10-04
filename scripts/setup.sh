@@ -191,7 +191,12 @@ brew bundle install --global
 
 # 4: MacOS Applications
 ## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
-## Install Fira Code Nerdfont and .app programs
+## Install Ewka Nerdfont
+
+git clone https://github.com/mskar/ewka ~/mskar/ewka
+
+cp ~/mskar/ewka/nerd/* ~/Library/Fonts
+
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
 
@@ -243,7 +248,7 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### Move focus to status menus: `Ctrl Shift S`
 
 ## Set up Mac terminal
-### In terminal, under Profiles > Text: Select Fura Code Nerdfont size 18
+### In terminal, under Profiles > Text: Select Ewka Nerdfont size 18
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
@@ -254,7 +259,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.js
 ### In iterm2, select Appearance > Theme: Minimal
 ### In iterm2, select Profiles > Keys: Both option keys to Esc+
 ### In iterm2, select Profiles > Terminal > Notifications: Silence bell
-### In iterm2, select Profiles > Text > Change Font: Fura Code Nerdfont size 18, Use Ligatures
+### In iterm2, select Profiles > Text > Change Font: Ewka Nerdfont size 18, Use Ligatures
 ### In iterm2, set Profiles > General > Command > Send text at start: tmux attach || tmux new \; split-window -v \; select-pane -t :.+
 ### In iterm2, set Keys > Key Bindings > Send hex code 0x11 ^;
 ### In iterm2, set Profiles > Keys > Key Mappings to send enter/return key codes:
@@ -496,12 +501,12 @@ curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settin
 #### - Plug-ins > Python > Execute Selection in Python Console: `Cmd Enter`
 #### - Plug-ins > Python > Split Cell : `Ctrl Shift -`
 #### - Plug-ins > Terminal > Shift Focus To Editor : `Shift+Escape`
-### In Appearance & Behavior > Appearance, Select Darcula theme and select Fura Code Nerd Font size 14
+### In Appearance & Behavior > Appearance, Select Darcula theme and select Ewka Nerd Font size 14
 ### Using `Cmd Shift A` or going to View > Appearance at the Top, enable Details in Tree Views, disable Tool Windows Bars and Navigation Bar
 ### In MacOS System Preferences: Keyboard > Shortcuts > Services, uncheck Open man Page in Terminal (`Cmd Shift M`) and Search man Page Index in Terminal (`Cmd Shift A`)
 ### In MacOS System Preferences: Keyboard > Shortcuts > Keyboard, uncheck Turn keyboard access on and off after making sure all of the other shortcuts are enabled
 ### In MacOS System Preferences: Keyboard > Shortcuts > Keyboard, change ctrl function shortcuts to ctrl num shortcuts:
-### In Editor > Font, select Fura Code Nerd Font size 16 as main and Jetbrains Mono as fallback and Enable font ligatures
+### In Editor > Font, select Ewka Nerd Font size 16 as main and Jetbrains Mono as fallback and Enable font ligatures
 ### In Editor > Code Style, set visual guides to 80 characters
 ### Check Change font size (Zoom) with Command+Mouse Wheel in Editor > General
 ### Check Show Whitespace in Editor > General > Appearance
