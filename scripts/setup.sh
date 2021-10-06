@@ -462,6 +462,8 @@ codium --install-extension asvetliakov.vscode-neovim --force
 ### Jupyter settings
 curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
 
+curl https://raw.githubusercontent.com/mskar/setup/main/vimrc.jupyterlab-settings -o ~/.jupyter/lab/user-settings/jupyterlab-vimrc/vimrc.jupyterlab-settings --create-dirs
+
 ### PyCharm settings
 curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settings.zip
 
