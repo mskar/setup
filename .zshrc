@@ -784,6 +784,7 @@ alias zl="fasd -dl" # list all directories
 alias zn="fasd -de 'nvim'"
 alias zo="fasd -de open"
 alias zp="fasd -de pycharm"
+alias zr="func() { zip -r $(echo '${1}.zip') (echo '${1}'); }; func"
 alias zv="fasd -de '$EDITOR'"
 
 # Suffix aliases: use with fzf ctrl-t: even with multiple files
