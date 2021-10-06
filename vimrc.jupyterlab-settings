@@ -1,3 +1,8 @@
 {
     "unnamedplus": true,
+    "imap": [
+        ["<C-d>", "<Esc>lcl"],
+        ["<A-d>", "<Esc>lcw"],
+        ["<C-k>", "<Esc>"],
+    ]
 }
