@@ -424,7 +424,7 @@ mamba create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse 
 
 # 7: Code editors
 ### Radian, ipython, ptpython, and jupyter-vimrc extension
-python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab-vimrc
+python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab_vim jupyterlab-vimrc
 
 ## Visual Studio Code (vscodium)
 curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
