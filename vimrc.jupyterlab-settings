@@ -1,8 +1,10 @@
 {
     "unnamedplus": true,
     "imap": [
-        ["<C-d>", "<Esc>lcl"],
+        ["<A-b>", "<Esc>gebi"],
         ["<A-d>", "<Esc>lcw"],
-        ["<C-k>", "<Esc>"],
+        ["<A-f>", "<Esc>ewi"],
+        ["<C-d>", "<Esc>lcl"],
+        ["<C-u>", "<Esc>c0"],
     ]
 }
