@@ -143,6 +143,8 @@ cask "inkscape"
 cask "iterm2"
 # JetBrains tools manager
 cask "jetbrains-toolbox"
+# Desktop application for JupyterLab
+cask "jupyterlab"
 # Keyboard customizer
 cask "karabiner-elements"
 # Open-source keystroke visualizer
@@ -151,6 +153,7 @@ cask "keycastr"
 cask "mambaforge"
 # Environment for statistical computing and graphics
 cask "r"
+cask "rightzoom"
 # Data science software focusing on R and Python
 cask "rstudio"
 # Team communication and collaboration software
