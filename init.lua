@@ -90,7 +90,7 @@ end)
 hs.hotkey.bind(alt_shift, '/', hs.hints.windowHints)
 
 -- Semicolon goes to the next window in th window switcher, like the ; motion in Vim
-hs.hotkey.bind(alt_shift, ';', hs.window.switcher.nextWindow)
+-- hs.hotkey.bind(alt_shift, ';', hs.window.switcher.nextWindow)
 
 -- Tab also goes to the next window in th window switcher, like Cmd Tab or Alt Tab
 hs.hotkey.bind(alt_shift, 'tab', hs.window.switcher.nextWindow)

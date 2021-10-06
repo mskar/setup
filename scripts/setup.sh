@@ -240,9 +240,10 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### `Ctrl Alt X` pastes as plain text (mnemonic: remove (x) formatting)
 
 ## Set builtin "Move focus" macOS Keyboard shortcuts in System Preferences > Keyboard > Shortcuts > Keyboard
-### Move focus to menu bar: `Ctrl Shift B`
 ### Move focus to Dock: `Ctrl Shift D`
-### Move focus to active or next window: `Ctrl Shift J`
+### Move focus to active or next window: `Alt ;`
+#### Which automatically enables, move focus to previous window: `Alt Shift ;`
+#### Which I activate using `Alt ,` thanks to Karabiner
 ### Move focus to window toolbar: `Ctrl Shift T`
 ### Move focus to floating window: `Ctrl Shift K`
 ### Move focus to status menus: `Ctrl Shift S`
