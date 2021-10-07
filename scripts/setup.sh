@@ -244,6 +244,8 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### Move focus to active or next window: `Alt ;`
 #### Which automatically enables, move focus to previous window: `Alt Shift ;`
 #### Which I activate using `Alt ,` thanks to Karabiner
+#### This pairs so perfectly with using `Alt /` for the Hammerspoon window hints
+#### that I decided it was worth overwriting the Emacs hippie completion binding
 ### Move focus to window toolbar: `Ctrl Shift T`
 ### Move focus to floating window: `Ctrl Shift K`
 ### Move focus to status menus: `Ctrl Shift S`
