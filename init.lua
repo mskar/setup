@@ -58,7 +58,7 @@ hs.hotkey.bind(alt_shift, "3", moveWindowToDisplay(3))
 hs.hotkey.bind(alt_shift, "4", moveWindowToDisplay(4))
 
 -- Quote goes to the previously focused window, like the last jump ('') mark in Vim
-hs.hotkey.bind(alt_shift, "'", function()
+hs.hotkey.bind("alt", "'", function()
   hs.window.filter.new():getWindows()[2]:focus()
 end)
 
@@ -76,7 +76,7 @@ end)
 -- Note: Alt Shift , is go to beginning of document in emacs
 -- In macOS, use Shift Command P instead of Alt Shift .
 -- In Vim, use gg
-hs.hotkey.bind(alt_shift, ',', hs.window.switcher.previousWindow)
+-- hs.hotkey.bind(alt_shift, ',', hs.window.switcher.previousWindow)
 
 -- Period brings up finder, . represents the current directory in UNIX file systems
 -- Note: Alt Shift . is go to end of document in emacs
@@ -89,10 +89,14 @@ end)
 -- Slash shows window hints, / is search in Vim
 hs.hotkey.bind(alt_shift, '/', hs.hints.windowHints)
 
--- Semicolon goes to the next window in th window switcher, like the ; motion in Vim
+-- Alt semicolon goes to the next window thanks to a shortcut set in System Preferences
+-- This System Preferences shortcut also enables Alt Shift semicolon to go to the previous window
+-- I used Karabiner to have Alt comma send Alt Shift semicolon, so I can switch back and forth
+-- between windows using ; and , (similar to the vim motions repeat f, F, t, and T motions)
+-- Thanks to another Karabiner keyboard modification, I can hold Tab instead of Alt
 -- hs.hotkey.bind(alt_shift, ';', hs.window.switcher.nextWindow)
 
--- Tab also goes to the next window in th window switcher, like Cmd Tab or Alt Tab
+-- Tab goes to the next window in th hammerspoon window switcher, like Cmd Tab or Alt Tab
 hs.hotkey.bind(alt_shift, 'tab', hs.window.switcher.nextWindow)
 
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L177
