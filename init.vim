@@ -95,6 +95,9 @@ call plug#end()
 " Required:
 filetype plugin indent on
 
+" enable omni-completion
+set omnifunc=syntaxcomplete#Complete
+
 "" Encoding
 set encoding=utf-8
 set fileencoding=utf-8
@@ -975,6 +978,9 @@ imap <c-x>f <plug>(fzf-complete-file)
 imap <c-x>l <plug>(fzf-complete-line)
 imap <c-x>p <plug>(fzf-complete-path)
 imap <c-x>w <plug>(fzf-complete-word)
+
+" Use <C-x><C-o> to activate vim omnicompletion
+iunmap <C-x><C-o>
 
 nnoremap <silent> <leader>' :Marks!<CR>
 nnoremap <silent> <leader>/ :History/!<CR>

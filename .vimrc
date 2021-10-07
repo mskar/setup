@@ -86,6 +86,9 @@ call plug#end()
 " Required:
 filetype plugin indent on
 
+" enable omni-completion
+set omnifunc=syntaxcomplete#Complete
+
 "" Encoding
 set encoding=utf-8
 set fileencoding=utf-8
@@ -769,18 +772,21 @@ nnoremap <silent> g/ :History/<CR>
 
 " Insert mode completion
 " https://github.com/junegunn/fzf.vim#mappings
-imap <c-x><c-a> <plug>(fzf-complete-file-ag)
-imap <c-x><c-b> <plug>(fzf-complete-buffer-line)
-imap <c-x><c-f> <plug>(fzf-complete-file)
-imap <c-x><c-l> <plug>(fzf-complete-line)
-imap <c-x><c-p> <plug>(fzf-complete-path)
-imap <c-x><c-w> <plug>(fzf-complete-word)
-imap <c-x>a <plug>(fzf-complete-file-ag)
-imap <c-x>b <plug>(fzf-complete-buffer-line)
-imap <c-x>f <plug>(fzf-complete-file)
-imap <c-x>l <plug>(fzf-complete-line)
-imap <c-x>p <plug>(fzf-complete-path)
-imap <c-x>w <plug>(fzf-complete-word)
+imap <C-x><C-a> <plug>(fzf-complete-file-ag)
+imap <C-x><C-b> <plug>(fzf-complete-buffer-line)
+imap <C-x><C-f> <plug>(fzf-complete-file)
+imap <C-x><C-l> <plug>(fzf-complete-line)
+imap <C-x><C-p> <plug>(fzf-complete-path)
+imap <C-x><C-w> <plug>(fzf-complete-word)
+imap <C-x>a <plug>(fzf-complete-file-ag)
+imap <C-x>b <plug>(fzf-complete-buffer-line)
+imap <C-x>f <plug>(fzf-complete-file)
+imap <C-x>l <plug>(fzf-complete-line)
+imap <C-x>p <plug>(fzf-complete-path)
+imap <C-x>w <plug>(fzf-complete-word)
+
+" Use <C-x><C-o> to activate vim omnicompletion
+iunmap <C-x><C-o>
 
 " https://github.com/junegunn/fzf.vim/issues/865
 " https://github.com/junegunn/fzf.vim/issues/10
