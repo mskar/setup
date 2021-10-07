@@ -685,9 +685,9 @@ cnoremap <A-h> <C-w>
 " <A-j> = Move down; opposite of <A-k>
 inoremap <A-j> <Down>
 cnoremap <A-j> <Down>
-" <A-k> = Move up; opposite of <A-j>
-inoremap <A-k> <Up>
-cnoremap <A-k> <Up>
+" " <A-k> = Delete to end of sentence
+nnoremap <A-k> df.
+inoremap <A-k> <C-o>df.
 " <A-l> = Lowercase to word end; opposite of <A-u>
 " https://github.com/andrep/vimacs/blob/master/plugin/vimacs.vim#L1229
 inoremap <A-l> <C-o>gue<Esc>ea
