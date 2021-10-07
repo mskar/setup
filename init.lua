@@ -278,7 +278,7 @@ hs.hotkey.bind(ctrl_alt_shift, 'n', function()
 end)
 
 -- O is for Outlook
-hs.hotkey.bind(alt_shift, 'o', function()
+hs.hotkey.bind("alt", 'o', function()
   hs.application.launchOrFocus('Microsoft Outlook')
 end)
 
@@ -346,7 +346,7 @@ hs.hotkey.bind("alt", 'w', function()
 end)
 
 -- X is for eXpose
--- Alt x brinds up a list of commands in Emacs
+-- Alt x brings up a list of commands in Emacs
 hs.hotkey.bind(alt_shift, 'x', function()
   hs.expose.new():toggleShow()
 end)
