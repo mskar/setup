@@ -490,6 +490,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settin
 #### - Editor Actions > Move Caret to Previous Word : `Alt b`
 #### - Editor Actions > Reset Font Size : `Cmd 0`
 #### - Editor Actions > Split Line :
+#### - Main Menu > View > Quick Documentation: `Ctrl q`
 #### - Main Menu > Edit > Delete : `Ctrl d`
 #### - Main Menu > Edit > Paste : `Ctrl y`
 #### - Main Menu > Edit > Redo : `Ctrl =`
