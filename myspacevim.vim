@@ -165,6 +165,9 @@ function! myspacevim#before() abort
   nnoremap <A-u> gUeea
   inoremap <A-u> <C-o>gUe<Esc>ea
   cnoremap <A-u> <C-f>gUee<C-c>
+  " " <A-q> = Fill / Format paragraph
+  nnoremap <A-q> gwip
+  inoremap <A-q> <C-o>gwip
   " " <A-.> = Insert previously inserted text (if any)
   nnoremap <A-.> a<C-r>.
   inoremap <A-.> <Esc>a<C-r>.

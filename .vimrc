@@ -594,6 +594,10 @@ set <A-u>=u
 nnoremap <A-u> gUeea
 inoremap <A-u> <C-o>gUe<Esc>ea
 cnoremap <A-u> <C-f>gUee<C-c>
+" " <A-q> = Fill / Format paragraph
+set <A-q>=q
+nnoremap <A-q> gwip
+inoremap <A-q> <C-o>gwip
 " " <A-.> = Insert Previously Inserted text (if any)
 set <A-.>=.
 nnoremap <A-.> a<C-r>.
