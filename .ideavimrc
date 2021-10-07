@@ -136,7 +136,7 @@ nnoremap yoz :action ToggleZenMode<CR>
 nmap <space> <leader>
 nnoremap <leader>a :action EditorActions<CR>
 nnoremap <leader>b :action Tool_External Tools_Black<CR>
-nnoremap <leader>c :action SilentCodeCleanup<CR>
+nnoremap <leader>c :action ShowIntentionActions<CR>
 nnoremap <leader>d :action ActivateDatabaseToolWindow<CR>
 nnoremap <leader>e :action ActivateEventLogToolWindow<CR>
 nnoremap <leader>f :action RenameFile<CR>
