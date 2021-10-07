@@ -121,7 +121,7 @@ end
 -- Enter makes the window larger
 -- Alt Enter is used in Jupyter
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L368
-hs.hotkey.bind(alt_shift, 'return', function()
+hs.hotkey.bind("alt", 'return', function()
   local win = hs.window.focusedWindow()
   local cw = current_window_rect(win)
   local move_to_rect = {}
@@ -134,7 +134,7 @@ end)
 
 -- Escape makes the window smaller
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L392
-hs.hotkey.bind(alt_shift, 'escape', function()
+hs.hotkey.bind("alt", 'escape', function()
   local win = hs.window.focusedWindow()
   local cw = current_window_rect(win)
   local move_to_rect = {}
