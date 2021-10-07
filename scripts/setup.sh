@@ -240,15 +240,16 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### `Ctrl Alt X` pastes as plain text (mnemonic: remove (x) formatting)
 
 ## Set builtin "Move focus" macOS Keyboard shortcuts in System Preferences > Keyboard > Shortcuts > Keyboard
-### Move focus to Dock: `Ctrl Shift D`
 ### Move focus to active or next window: `Alt ;`
 #### Which automatically enables, move focus to previous window: `Alt Shift ;`
 #### Which I activate using `Alt ,` thanks to Karabiner
 #### This pairs so perfectly with using `Alt /` for the Hammerspoon window hints
 #### that I decided it was worth overwriting the Emacs hippie completion binding
-### Move focus to window toolbar: `Ctrl Shift T`
-### Move focus to floating window: `Ctrl Shift K`
-### Move focus to status menus: `Ctrl Shift S`
+### Move focus to menu bar: `Alt Shift A` (A is for Apple)
+### Move focus to status menus: `Alt Shift S`
+### Move focus to Dock: `Alt Shift D`
+### Move focus to window toolbar: `Alt Shift T`
+### Move focus to floating window: `Alt Shift W`
 
 ## Set up Mac terminal
 ### In terminal, under Profiles > Text: Select Ewka Nerdfont size 18

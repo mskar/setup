@@ -156,11 +156,8 @@ end)
 -- Alt backtick is used by Alt tab
 hs.hotkey.bind(alt_shift, '`', hs.toggleConsole)
 
--- Use Preview instead of Adobe Acrobat
--- Alt a is go to start of sentence in Emacs
-hs.hotkey.bind(alt_shift, 'a', function()
-    hs.application.launchOrFocus('Preview')
-end)
+-- Use Alt Shift A to focus menu bar (a is for apple)
+-- Alt A is go to start of sentence in Emacs
 
 -- Alt B is move one word backward
 -- Alt Shift B is select word backward
@@ -180,19 +177,16 @@ hs.hotkey.bind(ctrl_alt_shift, 'b', function()
 end)
 
 -- C is for VS Code
--- Alt c is capitalize word
+-- Alt C is capitalize word
 hs.hotkey.bind(alt_shift, 'c', function()
     hs.application.launchOrFocus('VSCodium')
 end)
 
--- D is for Docker
--- Alt d is delete word forward
-hs.hotkey.bind(alt_shift, 'd', function()
-    hs.application.launchOrFocus('Jetbrains DataSpell')
-end)
+-- Use Alt Shift D to focus Dock
+-- Alt D is delete word forward
 
 -- E is for Emacs, not Excel :)
--- Alt e is go to end of sentence in Emacs
+-- Alt E is go to end of sentence in Emacs
 hs.hotkey.bind(alt_shift, 'e', function()
     hs.application.launchOrFocus('Emacs')
 end)
@@ -220,13 +214,13 @@ hs.hotkey.bind("alt", 'g', function()
 end)
 
 -- H is left, like in Vim
--- Alt h is mark paragraph in Emacs
+-- Alt H is mark paragraph in Emacs
 hs.hotkey.bind("alt", 'h', function()
   hs.window.focusedWindow():focusWindowWest()
 end)
 
 -- I is for iTerm
--- Alt i inserts spaces or tabs to next defined tab-stop column in Emacs
+-- Alt I inserts spaces or tabs to next defined tab-stop column in Emacs
 hs.hotkey.bind("alt", 'i', function()
     hs.application.launchOrFocus('iTerm')
 end)
@@ -238,24 +232,25 @@ hs.hotkey.bind("alt", 'j', function()
 end)
 
 -- K is down, like in Vim
--- Alt k is delete to end of sentence in Emacs
+-- Alt K is delete to end of sentence in Emacs
 hs.hotkey.bind("alt", 'k', function()
   hs.window.focusedWindow():focusWindowNorth()
 end)
 
 -- L is right, like in Vim
--- Alt l is lowercase to end of word in Emacs
+-- Alt L is lowercase to end of word in Emacs
 hs.hotkey.bind("alt", 'l', function()
   hs.window.focusedWindow():focusWindowEast()
 end)
 
+-- Use Alt Shift M to focus menu bar
 -- M is for Mozilla Firefox
 hs.hotkey.bind("alt", 'm', function()
     hs.application.launchOrFocus('Firefox')
 end)
 
 -- N is for next screen, like Ctrl N
--- Alt n is undefined in Emacs
+-- Alt N is undefined in Emacs
 hs.hotkey.bind("alt", 'n', function()
   local win = hs.window.focusedWindow()
   win:setFullScreen(false)
@@ -278,12 +273,13 @@ hs.hotkey.bind(ctrl_alt_shift, 'n', function()
 end)
 
 -- O is for Outlook
+-- Alt O is set face in Emacs
 hs.hotkey.bind("alt", 'o', function()
   hs.application.launchOrFocus('Microsoft Outlook')
 end)
 
 -- P is for previous screen, like Ctrl P
--- Alt p is undefined in Emacs
+-- Alt P is undefined in Emacs
 hs.hotkey.bind("alt", 'p', function()
   local win = hs.window.focusedWindow()
   win:setFullScreen(false)
@@ -305,32 +301,30 @@ hs.hotkey.bind(ctrl_alt_shift, 'p', function()
   win:setFrame(nudgeUp(win:frame()))
 end)
 
+-- Q is for CopyQ, as in queue
+-- Alt Q is fill/format paragraph in Emacs, like gq or gw in vim
+hs.hotkey.bind(alt_shift, 'q', function()
+    hs.application.launchOrFocus('CopyQ')
+end)
+
 -- R is for RStudio
--- Alt r positions the cursor at the center of window.
+-- Alt R positions the cursor at the center of window.
 -- then alternates between top, middle, bottom
 hs.hotkey.bind(alt_shift, 'r', function()
     hs.application.launchOrFocus('RStudio')
 end)
 
--- Q is for CopyQ, as in queue
--- Alt q is fill/format paragraph in Emacs, like gq or gw in vim
-hs.hotkey.bind(alt_shift, 'q', function()
-    hs.application.launchOrFocus('CopyQ')
-end)
-
+-- Use Alt Shift S to focus status bar
 -- S is for Slack
 hs.hotkey.bind("alt", 's', function()
     hs.application.launchOrFocus('Slack')
 end)
 
--- T is for Teams
--- Alt t is transpose words in Emacs
-hs.hotkey.bind(alt_shift, 't', function()
-    hs.application.launchOrFocus('Microsoft Teams')
-end)
+-- Alt T is transpose words in Emacs
+-- Use Alt Shift T to focus window toolbar
 
 -- U is for unminimize windows for the focused app
--- Alt u is uppercase word in Emacs
+-- Alt U is uppercase word in Emacs
 hs.hotkey.bind(alt_shift, 'u', function()
   local app = hs.application.frontmostApplication()
   for k, w in ipairs(app:allWindows()) do w:unminimize() end
@@ -339,27 +333,25 @@ end)
 -- Alt Shift V is select page up
 -- Inspired by Alt V being page up in Emacs
 
--- W is for Word
--- Alt w saves the marked region in Emacs
-hs.hotkey.bind("alt", 'w', function()
-    hs.application.launchOrFocus('Microsoft Word')
-end)
+-- Alt W saves the marked region in Emacs
+-- Use Alt Shift W to focus floating window
+
 
 -- X is for eXpose
--- Alt x brings up a list of commands in Emacs
-hs.hotkey.bind(alt_shift, 'x', function()
+-- Alt X brings up a list of commands in Emacs
+hs.hotkey.bind("alt", 'x', function()
   hs.expose.new():toggleShow()
 end)
 
 -- Y imitates typing while pasting, Y is for yank, like Ctrl Y in GNU Emacs and Readline
 -- https://www.hammerspoon.org/go/#defeating-paste-blocking
--- Alt y rotates the kill ring (replaces last yank with previous kill)
+-- Alt Y rotates the kill ring (replaces last yank with previous kill)
 hs.hotkey.bind(alt_shift, 'y', function()
   hs.eventtap.keyStrokes(hs.pasteboard.getContents())
 end)
 
 -- Z is for Zoom
--- alt z is zap to char, same as dt in vim
+-- alt Z is zap to char, same as dt in vim
 hs.hotkey.bind("alt", 'z', function()
   hs.application.launchOrFocus('zoom.us')
   hs.window.focusedWindow():setFullScreen(false)
