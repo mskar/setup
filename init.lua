@@ -221,7 +221,7 @@ end)
 
 -- H is left, like in Vim
 -- Alt h is mark paragraph in Emacs
-hs.hotkey.bind(alt_shift, 'h', function()
+hs.hotkey.bind("alt", 'h', function()
   hs.window.focusedWindow():focusWindowWest()
 end)
 
@@ -233,19 +233,19 @@ end)
 
 -- J is down, like in Vim
 -- Alt J breaks line at point and indents
-hs.hotkey.bind(alt_shift, 'j', function()
+hs.hotkey.bind("alt", 'j', function()
   hs.window.focusedWindow():focusWindowSouth()
 end)
 
 -- K is down, like in Vim
 -- Alt k is delete to end of sentence in Emacs
-hs.hotkey.bind(alt_shift, 'k', function()
+hs.hotkey.bind("alt", 'k', function()
   hs.window.focusedWindow():focusWindowNorth()
 end)
 
 -- L is right, like in Vim
 -- Alt l is lowercase to end of word in Emacs
-hs.hotkey.bind(alt_shift, 'l', function()
+hs.hotkey.bind("alt", 'l', function()
   hs.window.focusedWindow():focusWindowEast()
 end)
 
