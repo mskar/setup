@@ -216,10 +216,11 @@ lvim.plugins = {
     keys = {"c", "d", "y"}
   },
   { "tpope/vim-repeat" },
+  { "tpope/vim-unimpaired" },
   { "mskar/transwrd" },
   {"justinmk/vim-sneak"},
   {"ethanholz/nvim-lastplace"},
-
+  {"rkitover/vimpager"},
 }
 
 -- https://github.com/ethanholz/nvim-lastplace

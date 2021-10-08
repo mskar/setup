@@ -24,6 +24,9 @@ quitModal:bind('', 'escape', function() quitModal:exit() end)
 -- GENERAL WINDOW MANAGEMENT
 ----------------------------------------------------------------
 
+-- These shortcuts interfere with some no-so-important tmux and emacs bindings (described in init.lua)
+-- To use all tmux and emacs bindings, turn off hammerspoon with Alt Shift H and Cmd Q
+
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L177
 function round(x, places)
    local places = places or 0
