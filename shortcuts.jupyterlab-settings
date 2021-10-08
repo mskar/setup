@@ -90,14 +90,14 @@
             "selector": ".jp-CodeConsole-promptCell"
         },
         {
-            "command": "notebook:run-cell-and-select-next",
+            "command": "notebook:run-cell-and-insert-below",
             "keys": [
                 "Cmd Enter"
             ],
             "selector": ".jp-Notebook:focus"
         },
         {
-            "command": "notebook:run-cell-and-select-next",
+            "command": "notebook:run-cell-and-insert-below",
             "keys": [
                 "Cmd Enter"
             ],
