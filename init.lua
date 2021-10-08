@@ -232,7 +232,7 @@ local ctrl_alt = {"ctrl", "alt"}
 -- Ctrl Alt B nudges the focused window to the left, Ctrl B = left
 function nudgeLeft(d)
     return {
-        x = math.max(d.x - 10, 0),
+        x = d.x - 10,
         y = d.y,
         h = d.h,
         w = d.w,
@@ -275,7 +275,7 @@ end)
 function nudgeUp(d)
     return {
         x = d.x,
-        y = math.max(d.y - 10, 0),
+        y = d.y - 10,
         h = d.h,
         w = d.w,
     }
