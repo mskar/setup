@@ -292,7 +292,7 @@ end)
 local alt_shift = {"alt", "shift"}
 
 -- Period brings up finder, . represents the current directory in UNIX file systems
--- Note: Alt Shift . is go to end of document in emacs
+-- Note: Alt Shift . is go to end of document in Emacs
 -- In Vim, use G
 -- In macOS, use Ctrl Command N instead of Alt Shift .
 hs.hotkey.bind(alt_shift, '.', function()
@@ -459,24 +459,22 @@ end
 -- Disable all key bindings / Reload hammerspoon config
 ----------------------------------------------------------------
 
--- This binding only works in terminals, browsers, IDEs,
--- because these apps are excluded in karabiner.json,
--- and therefore do not send Alt Delete upon receiving Alt D
--- This is not what I intended, but exactly what I wanted :)
-
 local hk = hs.hotkey.getHotkeys()
 
-hs.hotkey.bind("alt", 'd', function()
-    for k, v in ipairs(hk) do v:disable() end
+local hkEnabled = true
+
+-- Alt Shift , goes to the top of the buffer in Emacs (mnemonic: go back)
+hs.hotkey.bind(alt_shift, ',', function()
+    if hkEnabled then
+        for k, v in ipairs(hk) do v:disable() end
+        hkEnabled = false
+    else
+        for k, v in ipairs(hk) do v:enable() end
+        hkEnabled = true
+    end
 end)
 
--- Instead of an "enable" binding, just reload the config with Alt Delete
--- hs.hotkey.bind("alt", 'e', function()
---     for k, v in ipairs(hk) do v:enable() end
--- end)
-
--- Delete reloads the config
+-- Alt Shift Delete reloads the config
 -- Delete is on the opposite side of the keyboard from Backtick
 -- Alt Delete reduces indentation of lines to match a line above in Emacs
-hs.hotkey.bind("alt", 'delete', hs.reload)
-
+hs.hotkey.bind(alt_shift, 'delete', hs.reload)
