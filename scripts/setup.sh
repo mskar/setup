@@ -246,10 +246,11 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 #### This pairs so perfectly with using `Alt /` for the Hammerspoon window hints
 #### that I decided it was worth overwriting the Emacs hippie completion binding
 ### Move focus to menu bar: `Alt A` (A is for Apple)
+### Toggle all of the focus shortcuts except "Move focus to status menus": `Alt O`
 ### Move focus to status menus: `Alt S`
-### Move focus to Dock: `Alt Z` (Z is below A and S on the keyboard)
 ### Move focus to window toolbar: `Alt R` (mnemonic: toolbaR, works a bit like Alt R in Emacs in that it jumps back and forth)
 ### Move focus to floating window: `Alt W`
+### Move focus to Dock: `Alt Z` (Z is below A and S on the keyboard)
 
 ## Set up Mac terminal
 ### In terminal, under Profiles > Text: Select Ewka Nerdfont size 18
