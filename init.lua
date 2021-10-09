@@ -26,6 +26,7 @@ quitModal:bind('', 'escape', function() quitModal:exit() end)
 
 -- These shortcuts interfere with some no-so-important tmux and emacs bindings (described in init.lua)
 -- To use all tmux and emacs bindings, turn off hammerspoon with Alt Shift H and Cmd Q
+-- Or use Alt Shift , to toggle all of the bindings set in this file
 
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L177
 function round(x, places)
@@ -144,7 +145,7 @@ end)
 
 -- Alt F is move one word forward
 
--- Alt G, G is go to line; Alt G, C is go to char in Emacs 
+-- Alt G, G is go to line; Alt G, C is go to char in Emacs
 -- G goes to the next window in the hammerspoon window switcher
 hs.hotkey.bind("alt", 'g', hs.window.switcher.nextWindow)
 
