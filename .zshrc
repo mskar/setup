@@ -175,7 +175,7 @@ alias bw="bit switch"
 alias bx="brew uninstall"
 alias bxc="brew uninstall --cask"
 alias by="bit sync"
-alias c="func() { local directory=$(echo '${2:-${${1#*.*[:/]}%.*}}') && git clone $(echo '$1 $directory') && cd $(echo '$directory'); }; func" # clone and cd into repo, ${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
+alias c="func() { local directory=$(echo '${2:-${${1#*.*[:/]}%.*}}') && git clone $(echo '$1 $directory ${@:3}') && cd $(echo '$directory'); }; func" # clone and cd into repo, ${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
 alias ca="conda activate"
 alias caa="git commit --all --amend --reset-author"
 alias caam="func() { git commit --all --amend --message \"$(echo '${*:-Changed files: $(echo $(git status --porcelain | grep -v "?" | cut -c4- | tr "\n" " "))}')\" --reset-author; }; func"
