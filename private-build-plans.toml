@@ -19,6 +19,7 @@ m = "short-leg"
 percent = "rings-continuous-slash"
 six = "closed-contour"
 seven = "bend-crossbar-serifed"
+y = "straight-turn"
 z = "straight-serifless-with-horizontal-crossbar"
 zero = "slashed-oval"
 
