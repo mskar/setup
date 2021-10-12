@@ -252,8 +252,13 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### Move focus to floating window: `Alt W`
 ### Move focus to Dock: `Alt Z` (Z is below A and S on the keyboard)
 
+## Set up Vimac
+### Hint Mode shortcut: `Ctrl Q`
+### Scroll Mode shortcut: `Ctrl S`
+### Maximize Scroll Mode sensitivity
+
 ## Set up Mac terminal
-### In terminal, under Profiles > Text: Select Ewka Nerdfont size 18
+### In terminal, under Profiles > Text: Select Ewka Nerd Font size 18
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
