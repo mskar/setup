@@ -47,6 +47,7 @@
     default = current
 [pull]
     default = current
+	rebase = true
 [rerere]
     enabled = false
 [rebase]

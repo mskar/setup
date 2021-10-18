@@ -195,6 +195,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -269,6 +270,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -344,6 +346,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -497,6 +500,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -572,6 +576,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -645,6 +650,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -718,6 +724,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -793,6 +800,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -1111,6 +1119,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -1185,6 +1194,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -1262,6 +1272,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -1339,6 +1350,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -1420,6 +1432,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"
@@ -1496,6 +1509,7 @@
                                             "^com\\.jetbrains\\.pycharm-EAP$",
                                             "^com\\.jetbrains\\.WebStorm$",
                                             "^com\\.jetbrains\\.WebStorm-EAP$",
+                                            "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^com\\.microsoft\\.VSCode$"

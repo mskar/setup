@@ -195,11 +195,11 @@ inoremap <C-k> <C-o>:action EditorDeleteToLineEnd<CR>
 " <C-n> = Complete word using matches that come next; the opposite of <C-p>
 inoremap <C-x><C-n> <C-o>:action HippieBackwardCompletion<CR>
 inoremap <C-x>n <C-o>:action HippieBackwardCompletion<CR>
-inoremap <C-n> <C-o>:action HippieBackwardCompletion<CR>
+" inoremap <C-n> <C-o>:action HippieBackwardCompletion<CR>
 " <C-p> = Complete word using previous matches; the opposite of <C-n>
 inoremap <C-x><C-p> <C-o>:action HippieCompletion<CR>
 inoremap <C-x>p <C-o>:action HippieCompletion<CR>
-inoremap <C-p> <C-o>:action HippieCompletion<CR>
+" inoremap <C-p> <C-o>:action HippieCompletion<CR>
 " <C-u> = Delete to start of line; the opposite of <C-k>; already exists in command mode: c_ctrl-u
 " <C-w> = Delete word backward; opposite of <A-d>; same as <A-h>; already exists in command mode: c_ctrl-w
 " <C-y> = Paste from system clipboard (not from killring like in bash/emacs)
