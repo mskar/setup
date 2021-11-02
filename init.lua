@@ -404,7 +404,7 @@ end)
 
 -- W is for Word
 hs.hotkey.bind(alt_shift, 'w', function()
-    hs.application.launchOrFocus('Microsoft Word')
+    hs.application.launchOrFocus('WebStorm')
 end)
 
 -- X is for eXcel
