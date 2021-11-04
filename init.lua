@@ -312,7 +312,7 @@ end)
 
 -- C is for VS Code
 hs.hotkey.bind(alt_shift, 'c', function()
-    hs.application.launchOrFocus('VSCodium')
+    hs.application.launchOrFocus('Visual Studio Code')
 end)
 
 -- D is for DataSpell
