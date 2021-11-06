@@ -501,7 +501,8 @@ alias nf="func() { local files=$(echo '$(fd --color=always --type f $@ | fzf --a
 alias nfh="func() { local files=$(echo '$(fd --color=always --type f --hidden $@ | fzf --ansi)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 nvim --; }; func"
 alias ng="func() { local file=$(echo '$(rg -l ${@:-^} | fzf --no-multi --preview="bat --style=plain --color=always {} | rg --color=always -n ${*:-^} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && [ -f $(echo '$file') ] && echo $(echo '$file') | sed s+~+$HOME+ | tr '\n' '\0' | xargs -0 nvim +$(echo '$(rg -n ${@:-^} $file | head -n 1 | cut -d: -f1)') --; }; func"
 alias nh="n -c History" # this only works with -c, not --cmd
-alias nig="npm i -g"
+alias ni="npm install"
+alias nig="npm install -g"
 alias nl="func() { local files=$(echo '$(rg -l ${@:-^} | fzf --preview="bat --style=plain --color=always {} | rg --color=always -n ${*:-^} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed s+~+$HOME+ | tr '\n' '\0' | xargs -0 nvim --; }; func"
 alias nn="func() { n $(date '+%Y-%m-%d')_$(echo '$1:-notes').md; }; func"
 alias no="n -c 'browse oldfiles'" # this only works with -c, not --cmd
