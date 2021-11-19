@@ -125,8 +125,10 @@ imapkey('<Ctrl-w>', 'Delete a word backwards', function() {
 // Let macOS handle Alt-b and Alt-f
 // Surfingkeys inserts strange characters:
 // Alt-b: ☢
+// Alt-d: ♂
 // Alt-f: ♢
 iunmap("<Alt-b>");
+iunmap("<Alt-d>");
 iunmap("<Alt-f>");
 // Let macOS handle Ctrl-w
 // Surfingkeys requires two presses to delete once in Chrome, but not Firefox
