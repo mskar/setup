@@ -128,6 +128,12 @@ cask "basictex"
 cask "copyq"
 # App to build and share containerized applications and microservices
 cask "docker"
+# Text editor
+cask "emacs"
+# Reimagine your terminal
+cask "fig"
+# Web browser
+cask "firefox"
 cask "font-fira-code-nerd-font"
 # Icon set and toolkit
 cask "font-fontawesome"
@@ -151,8 +157,12 @@ cask "karabiner-elements"
 cask "keycastr"
 # Minimal installer for conda with preinstalled support for Mamba
 cask "mambaforge"
+# Silence embarrassing notifications while screensharing
+cask "muzzle"
 # Environment for statistical computing and graphics
 cask "r"
+# Control your tools with a few keystrokes
+cask "raycast"
 cask "rightzoom"
 # Data science software focusing on R and Python
 cask "rstudio"

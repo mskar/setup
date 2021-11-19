@@ -317,7 +317,7 @@ end)
 
 -- D is for DataSpell
 hs.hotkey.bind(alt_shift, 'd', function()
-    hs.application.launchOrFocus('JetBrains DataSpell')
+    hs.application.launchOrFocus('DataSpell')
 end)
 
 -- E is for Emacs, not Excel :)
