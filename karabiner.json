@@ -1034,9 +1034,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "end",
+                                        "key_code": "right_arrow",
                                         "modifiers": [
-                                            "shift"
+                                            "shift",
+                                            "left_command"
                                         ]
                                     },
                                     {
