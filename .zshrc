@@ -1,3 +1,8 @@
+
+#### FIG ENV VARIABLES ####
+# Please make sure this block is at the start of this file.
+[ -s ~/.fig/shell/pre.sh ] && source ~/.fig/shell/pre.sh
+#### END FIG ENV VARIABLES ####
 # Environment
 # https://github.com/sharkdp/fd#using-fd-with-fzf
 # https://github.com/junegunn/fzf#respecting-gitignore
@@ -354,7 +359,7 @@ alias gi="grep -i --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gir="grep -ir --color=always --exclude-dir={.git,.idea,.vscode}"
 alias gr="grep -r --color=always --exclude-dir={.git,.idea,.vscode}"
 alias h2s="func() { local name=$(echo '${1:-origin}') && [ $(echo '$name') ] && git remote set-url $(echo '$name $(git remote get-url $name | sed "s+https://+git@+;s+/+:+")') }; func"
-alias h="func() { $(echo '$@') --help || $(echo '$@') -h }; func"
+alias h="func() { $(echo '$@') --help || $(echo '$@') -h || tldr $(echo '$@') || man $(echo '$@') }; func"
 alias ha="gh auth"
 alias hai="gh auth login"
 alias hao="gh auth logout"
@@ -948,3 +953,8 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+
+#### FIG ENV VARIABLES ####
+# Please make sure this block is at the end of this file.
+[ -s ~/.fig/fig.sh ] && source ~/.fig/fig.sh
+#### END FIG ENV VARIABLES ####
