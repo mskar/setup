@@ -200,8 +200,8 @@ Unoa clearly agreed. `There's nothing even remotely interesting about this
 robot. Initiating display of epic fail videos.`
 
 Fera tried to keep a straight face while her glasses displayed recordings of
-people falling down and/or getting hit by various objects. Luckily, Fera did
-not have to feign interest for long. Ben zipped into the maker shop on
+people getting injured while trying to do something impressive. Luckily, Fera
+did not have to feign interest for long. Ben zipped into the maker shop on
 powerskates. Wearing a white lab coat over a vest, dress shirt, and tie, Ben
 did not seem to fit the skater archetype. The lab coat flapped behind him like
 a cape. His lab coat and dress shirt sleeves were rolled up past a pair of
@@ -280,14 +280,21 @@ Self-replication... Metametabuilding... Why build when I can metabuild? Why
 metabuild when I can metametabuild? Brilliant!"
 
 "Now it's my turn!" Edl declared. He pulled out a board from his bin and placed
-it on the workstation. "When you push the button, the light turns on and the
-fan starts spinning!" he explained.
+it on the floor. "When you push the button, the light turns on and a friend
+appears!" Edl explained.
 
-Fera waited a beat to see if Edl would say anything else. Edl beamed with
-pride, waiting for praise. Fera resisted the impulse to make a mocking
-comment. She smiled and said, "That's great, Edl. Maybe later I can show you
-how to add a sensor that turns on the fan when it's hot and turns on the light
-when it's dark?"
+Ben looked up from his builder bots and tried to keep Edl from pushing the
+button, "Hold on, Edl, you might want to..."
+
+Unfortunately, it was too late. Edl pushed the button and a holographic image
+of Ben appeared. The hologram looked at Edl and asked, "Hello Edl, would you
+like to continue to practice social interactions? Your latest practice session
+was: 'Asking and answering personal questions'."
+
+Edl blushed and froze in embarrassment.
+
+Fera tried to diffuse through the awkward situation. "You built this, Edl? It's
+great! Did you program the user interface too?"
 
 Edl nodded. He looked extremely touched. Ben and Raf both smiled warmly at
 Fera. Being kind to Edl had clearly bought her a lot of good will in the group.
@@ -337,11 +344,37 @@ a cabinet and put them.
 "I want to run. If I don't get tired during the day, I can't sleep at night,
 and I ask Ben a lot of questions, and he gets angry," Edl replied.
 
-"Let's race to the scenic overlook!" Ben exclaimed suddenly.
+"Let's race to the BugBall field!" Ben exclaimed suddenly.
 
 As they sped out of the building, Fera had the impression that Raf and Ben were
-letting her win, even though she had no idea where the scenic overlook was. Edl
+letting her win, even though she had no idea where the BugBall field was. Edl
 had no trouble keeping up with them, despite not wearing powerskates.
+
+When they arrived at the BugBall field, Ben, Fera, and Raf stopped to watch the
+college teams practicing, but Edl kept running towards the field. He jumped
+over the barrier in a single leap. No one seemed to be surprised when Edl
+joined the practice. All the BugBall players greeted Edl enthusiastically.
+
+"Does Edl always play without skates?" Fera asked.
+
+"He wears skates for matches. During practices, he likes to tire himself out,"
+Ben replied.
+
+Fera had never enjoyed watching sports, but seeing Edl in action was something
+else. Edl ran up and down the field while dribbling two large
+BugBalls. Everyone else practiced passing a single BugBall in pairs.
+
+"Most people struggle to hatch one egg on their own. Edl can hatch two eggs at
+the same time while running at full speed," Ben explained proudly.
+
+"Our BugBall team is undefeated, thanks to Edl," Raf chimed in.
+
+"Edl might be here a while. Is there another part of the university you'd like
+to see?"
+
+"I want to see over the edge," Fera said.
+
+Ben seemed a bit nervous, but could not think of any reason not to oblige.
 
 Fera slid to a stop next to the edge overlooking an enormous canyon surrounding
 the city.
@@ -349,49 +382,48 @@ the city.
 "I've been wondering... why is the city built on stilts in the middle of a
 giant canyon?"
 
-The city was built near a giant surface coal mine. As the mine expanded, the
+"The city was built near a giant surface coal mine. As the mine expanded, the
 city had to be moved multiple times. Eventually, supports were installed
 underneath the city, so the mining could continue without moving the college
-for the umpteenth time.
+for the umpteenth time," Ben explained.
 
 ...
 
-When they were near the field, Edl seemed to get more and more excited. 
+Fera sees the BugBall field, goes to the edge, and flies down to the surface
+with Raf and Ben (they put away their powerskates and use jetpacks). After Unoa
+tells her what one of the surface dweller is eating ("Those are condoms filled
+with human ejaculate."), Fera throws up in her mask, starts to suffocate, takes
+off her mask, throws up again from the smell, and becomes very sick from the
+toxic fumes of the surface. KAIA, Sata, and Arla enter the infirmary (Raf told
+them what happened) and express concern for Fera's well being. Fera doesn't
+believe that the other girls actually care about her and that Kaia isn't angry
+about what happened earlier. Fera gets frustrated, tears out her IV, puts on
+her powerskates, and goes outside. Kaia asks Fera to stop and talk to
+them. Fera tells the other girls to leave her alone and gets hit with a water
+balloon thrown by Dun. "Were you just standing in the hallway with a water
+balloon waiting for us?"
 
-Fera struggled to keep at first because 
+"It wasn't a water balloon. It was a urine balloon!" Dun laughed. "That's how I
+mark my terriority. That means that you belong to me now," Dun said to Fera.
 
-Ben led the way to the edge of the campus of the workshop, into the hallway,
-and outside of the building.
+Looked at her urine soaked hospital gown and turned red with anger. Kaia and
+Fera push Dun to the ground. Dun laughs at them and says that he is going to
+get his father to send Fera, Kaia, and Sata to space prison. Fera charges at
+Dun and stomps on him with her powerskates. Unoa, Kara, Sata, and Arla all beg
+her to stop. After Fera realizes what she has done, she speeds off on her
+powerskates. Fera returns to the workshop and says that she wants to become a
+member of the BIG (Builder Interest Group). Ben is impressed with Fera's
+dedication to building (really Fera is just trying to get something that she
+can use as a weapon to threaten the Principal into granting her, Kaia, and Sata
+a pardon). Fera impatiently listens to the Workshop rules. When she asks about
+Ben's powergloves she is surprised at how quickly she is voted Vice President
+and receives her own powergloves. The thought of everything she was about to
+lose only made Fera more angry. She has BuzzBees stun Ben, Edl, and Raf, and
+then she heads to the Principal's Office to force the Principal to give her and
+the other girls a pardon. After discovering the option to activate the
+university's self-destruct sequence, Fera decides to destroy everything.
 
-Ben chuckled nervously. "Speaking of running, let's head to the BugBall field
-first. Please follow me."
-
-On the way to field, they Ben provided facts about the college.
-
- Fera felt strange relying on the powerskates to propel her forward.
-
-"Our BugBall team is undefeated, thanks to Edl," Raf chimed in.
-
-"Most people struggle to hatch one egg on their own. Edl can hatch two eggs at
-the same time while running at full speed."
-
-
-
-When they got to the BugBall field, Ben, Fera, and Raf stopped to watch the
-college teams practicing, but Edl kept running towards the field. He jumped
-over the barrier in a single leap. No one seemed to be surprised when Edl
-joined the practice. All the BugBall players greeted Edl enthusiastically.
-
-"Does Edl always play without skates?" Fera asked.
-
-"He wears skates for matches. During practices, he likes to tire himself out."
-
-Fera had never enjoyed watching sports, but seeing Edl in action was something
-else.
-
-
-"There is no need to be so humble. Your skills are very impressive. your skates
-will be done soon, and I want to "
+...
 
 ...
 
