@@ -97,6 +97,9 @@ call plug#end()
 " Required:
 filetype plugin indent on
 
+" Firenvim settings
+set guifont=Ewka\ Nerd\ Font:h28
+
 " enable omni-completion
 set omnifunc=syntaxcomplete#Complete
 
