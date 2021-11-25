@@ -98,7 +98,9 @@ call plug#end()
 filetype plugin indent on
 
 " Firenvim settings
-set guifont=Ewka\ Nerd\ Font:h28
+if !has('gui_vimr')
+  set guifont=Ewka\ Nerd\ Font:h28
+endif
 
 " enable omni-completion
 set omnifunc=syntaxcomplete#Complete
