@@ -143,6 +143,8 @@ cask "font-inconsolata-nerd-font"
 cask "font-iosevka-nerd-font"
 # Desktop automation application
 cask "hammerspoon"
+# Utility to hide menu bar items
+cask "hiddenbar"
 # Vector graphics editor
 cask "inkscape"
 # Terminal emulator as alternative to Apple's Terminal app
