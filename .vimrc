@@ -416,8 +416,23 @@ nnoremap gx yiW:!open <cWORD><CR> <C-r>" & <CR><CR>
 " unimpaired style mapping for toggling autoformat
 nnoremap <expr> yoa &fo =~ 'a' ? ':set fo-=a<CR>' : ':set fo+=a<CR>'
 
+" brilliant mapping to toggle emacs-style ctrl-k mapping
+" https://vi.stackexchange.com/a/15579
+let s:ctrlKmapped=1
+
+function! ToggleCtrlK()
+    if s:ctrlKmapped
+        iunmap <C-k>
+    else
+        inoremap <expr> <C-k> col('.') == col('$') ? '<Del>' : '<C-o>d$'
+    endif
+    let s:ctrlKmapped = !s:ctrlKmapped
+endfunction
+
+nnoremap <silent> yok :call ToggleCtrlK()<CR>
+
+" pbcopy for OSX copy/paste
 if has('macunix')
-  " pbcopy for OSX copy/paste
   xmap <D-x> :!pbcopy<CR>
   xmap <D-c> :w !pbcopy<CR><CR>
 endif
