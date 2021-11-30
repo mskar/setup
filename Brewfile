@@ -128,6 +128,8 @@ cask "basictex"
 cask "copyq"
 # App to build and share containerized applications and microservices
 cask "docker"
+# Tool to hide status bar icons
+cask "dozer"
 # Text editor
 cask "emacs"
 # Reimagine your terminal
@@ -143,8 +145,6 @@ cask "font-inconsolata-nerd-font"
 cask "font-iosevka-nerd-font"
 # Desktop automation application
 cask "hammerspoon"
-# Utility to hide menu bar items
-cask "hiddenbar"
 # Vector graphics editor
 cask "inkscape"
 # Terminal emulator as alternative to Apple's Terminal app
@@ -157,6 +157,8 @@ cask "jupyterlab"
 cask "karabiner-elements"
 # Open-source keystroke visualizer
 cask "keycastr"
+# Text editor
+cask "macvim"
 # Minimal installer for conda with preinstalled support for Mamba
 cask "mambaforge"
 # Silence embarrassing notifications while screensharing
