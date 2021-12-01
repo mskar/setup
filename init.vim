@@ -221,7 +221,8 @@ set cmdheight=1
 set updatetime=300
 
 " Don't pass messages to |ins-completion-menu|.
-set shortmess+=c
+" https://vim.fandom.com/wiki/Avoiding_the_%22Hit_ENTER_to_continue%22_prompts
+set shortmess=a
 
 " (In times of great desperation) allow use of the mouse
 set mouse=a
