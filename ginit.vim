@@ -12,8 +12,8 @@
 " vimr doesn't support :Guifont
 " https://github.com/qvacua/vimr/issues/314#issuecomment-355882345
 if has("gui_vimr")
-    :VimRSetFontAndSize "FiraCode Nerd Font", 18
+    :VimRSetFontAndSize "Ewka Nerd Font", 28
     nnoremap <silent><D-S-{> gT
     nnoremap <silent><D-S-}> gt
-    let g:python3_host_prog = "$(brew --prefix)/bin/python3"
+    let g:python3_host_prog = /usr/local/Caskroom/mambaforge/base/envs/py/bin/python
 endif
