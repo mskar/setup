@@ -67,11 +67,11 @@
                         ]
                     },
                     {
-                        "description": "Change backspace to option if pressed with other keys, to backspace if pressed alone",
+                        "description": "Change backslash to option if pressed with other keys, to backslash if pressed alone",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "delete_or_backspace",
+                                    "key_code": "backslash",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -85,7 +85,7 @@
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "key_code": "delete_or_backspace"
+                                        "key_code": "backslash"
                                     }
                                 ],
                                 "type": "basic"
