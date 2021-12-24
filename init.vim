@@ -551,7 +551,22 @@ function! ToggleCtrlK()
     let s:ctrlKmapped = !s:ctrlKmapped
 endfunction
 
-nnoremap <silent> yok :call ToggleCtrlK()<CR>
+nnoremap yok :call ToggleCtrlK()<CR>
+
+" brilliant mapping to toggle emacs-style ctrl-v mapping
+" https://vi.stackexchange.com/a/15579
+let s:ctrlVmapped=1
+
+function! ToggleCtrlV()
+    if s:ctrlVmapped
+        iunmap <C-v>
+    else
+        inoremap <C-v> <PageDown>
+    endif
+    let s:ctrlVmapped = !s:ctrlVmapped
+endfunction
+
+nnoremap yov :call ToggleCtrlV()<CR>
 
 " pbcopy for OSX copy/paste
 if has('macunix')
