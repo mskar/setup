@@ -28,6 +28,7 @@ quitModal:bind('', 'escape', function() quitModal:exit() end)
 -- To use all tmux and emacs bindings, turn off hammerspoon with Alt Shift H and Cmd Q
 -- Or use Alt Shift , to toggle all of the bindings set in this file
 
+-- http://bezhermoso.github.io/2016/01/20/making-perfect-ramen-lua-os-x-automation-with-hammerspoon#cycle-displays
 -- DISPLAY FOCUS SWITCHING --
 
 --One hotkey should just suffice for dual-display setups as it will naturally
@@ -273,7 +274,7 @@ end)
 
 local ctrl_alt = {"ctrl", "alt"}
 
--- Ctrl Alt B nudges the focused window to the left, Ctrl B = left
+-- Ctrl Alt H nudges the focused window to the left
 function nudgeLeft(d)
     return {
         x = d.x - 10,
@@ -282,26 +283,12 @@ function nudgeLeft(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'b', function()
+hs.hotkey.bind(ctrl_alt, 'h', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeLeft(win:frame()))
 end)
 
--- Ctrl Alt F nudges the focused window to the right, Ctrl F = right
-function nudgeRight(d)
-    return {
-        x = d.x + 10,
-        y = d.y,
-        h = d.h,
-        w = d.w,
-    }
-end
-hs.hotkey.bind(ctrl_alt, 'f', function()
-  win = hs.window.focusedWindow()
-  win:setFrame(nudgeRight(win:frame()))
-end)
-
--- Ctrl Alt N nudges the focused window downward, Ctrl N = down
+-- Ctrl Alt J nudges the focused window downward
 function nudgeDown(d)
     return {
         x = d.x,
@@ -310,12 +297,12 @@ function nudgeDown(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'n', function()
+hs.hotkey.bind(ctrl_alt, 'j', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeDown(win:frame()))
 end)
 
--- Ctrl Alt P nudges the focused window upward, Ctrl P = up
+-- Ctrl Alt K nudges the focused window upward
 function nudgeUp(d)
     return {
         x = d.x,
@@ -324,9 +311,23 @@ function nudgeUp(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'p', function()
+hs.hotkey.bind(ctrl_alt, 'k', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeUp(win:frame()))
+end)
+
+-- Ctrl Alt L nudges the focused window to the right
+function nudgeRight(d)
+    return {
+        x = d.x + 10,
+        y = d.y,
+        h = d.h,
+        w = d.w,
+    }
+end
+hs.hotkey.bind(ctrl_alt, 'l', function()
+  win = hs.window.focusedWindow()
+  win:setFrame(nudgeRight(win:frame()))
 end)
 
 ----------------------------------------------------------------
