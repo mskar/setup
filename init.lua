@@ -131,7 +131,10 @@ spoon.MiroWindowsManager:bindHotkeys({
 
 -- Quote goes to the previously focused window, like the last jump ('') mark in Vim
 hs.hotkey.bind("alt", "'", function()
-  hs.window.filter.new():getWindows(hs.window.filter.sortByFocused)[1]:focus()
+  local target = hs.window.filter.new():getWindows(hs.window.filter.sortByFocusedLast)[2]
+  target:application():activate()
+  target:focus()
+  centerMouseOnWindow(target)
 end)
 
 -- The numbers 1 through 4 go to screens 1 through 4
