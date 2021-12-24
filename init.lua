@@ -274,7 +274,7 @@ end)
 
 local ctrl_alt = {"ctrl", "alt"}
 
--- Ctrl Alt H nudges the focused window to the left
+-- Ctrl Alt B nudges the focused window to the left, Ctrl B = left
 function nudgeLeft(d)
     return {
         x = d.x - 10,
@@ -283,40 +283,12 @@ function nudgeLeft(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'h', function()
+hs.hotkey.bind(ctrl_alt, 'b', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeLeft(win:frame()))
 end)
 
--- Ctrl Alt J nudges the focused window downward
-function nudgeDown(d)
-    return {
-        x = d.x,
-        y = d.y + 10,
-        h = d.h,
-        w = d.w,
-    }
-end
-hs.hotkey.bind(ctrl_alt, 'j', function()
-  win = hs.window.focusedWindow()
-  win:setFrame(nudgeDown(win:frame()))
-end)
-
--- Ctrl Alt K nudges the focused window upward
-function nudgeUp(d)
-    return {
-        x = d.x,
-        y = d.y - 10,
-        h = d.h,
-        w = d.w,
-    }
-end
-hs.hotkey.bind(ctrl_alt, 'k', function()
-  win = hs.window.focusedWindow()
-  win:setFrame(nudgeUp(win:frame()))
-end)
-
--- Ctrl Alt L nudges the focused window to the right
+-- Ctrl Alt F nudges the focused window to the right, Ctrl F = right
 function nudgeRight(d)
     return {
         x = d.x + 10,
@@ -325,9 +297,37 @@ function nudgeRight(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'l', function()
+hs.hotkey.bind(ctrl_alt, 'f', function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeRight(win:frame()))
+end)
+
+-- Ctrl Alt N nudges the focused window downward, Ctrl N = down
+function nudgeDown(d)
+    return {
+        x = d.x,
+        y = d.y + 10,
+        h = d.h,
+        w = d.w,
+    }
+end
+hs.hotkey.bind(ctrl_alt, 'n', function()
+  win = hs.window.focusedWindow()
+  win:setFrame(nudgeDown(win:frame()))
+end)
+
+-- Ctrl Alt P nudges the focused window upward, Ctrl P = up
+function nudgeUp(d)
+    return {
+        x = d.x,
+        y = d.y - 10,
+        h = d.h,
+        w = d.w,
+    }
+end
+hs.hotkey.bind(ctrl_alt, 'p', function()
+  win = hs.window.focusedWindow()
+  win:setFrame(nudgeUp(win:frame()))
 end)
 
 ----------------------------------------------------------------
