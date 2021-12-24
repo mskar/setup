@@ -24,9 +24,44 @@ quitModal:bind('', 'escape', function() quitModal:exit() end)
 -- GENERAL WINDOW MANAGEMENT
 ----------------------------------------------------------------
 
--- These shortcuts interfere with some no-so-important tmux and emacs bindings (described in init.lua)
+-- The following shortcuts interfere with some no-so-important tmux and emacs bindings (described in init.lua)
 -- To use all tmux and emacs bindings, turn off hammerspoon with Alt Shift H and Cmd Q
 -- Or use Alt Shift , to toggle all of the bindings set in this file
+
+-- DISPLAY FOCUS SWITCHING --
+
+--One hotkey should just suffice for dual-display setups as it will naturally
+--cycle through both.
+--A second hotkey to reverse the direction of the focus-shift would be handy
+--for setups with 3 or more displays.
+
+local application = require "hs.application"
+
+--Predicate that checks if a window belongs to a screen
+function isInScreen(screen, win)
+  return win:screen() == screen
+end
+
+-- Brings focus to the scren by setting focus on the front-most application in it.
+-- Also move the mouse cursor to the center of the screen. This is because
+-- Mission Control gestures & keyboard shortcuts are anchored, oddly, on where the
+-- mouse is focused.
+function focusScreen(screen)
+  --Get windows within screen, ordered from front to back.
+  --If no windows exist, bring focus to desktop. Otherwise, set focus on
+  --front-most application window.
+  local windows = hs.fnutils.filter(
+      hs.window.orderedWindows(),
+      hs.fnutils.partial(isInScreen, screen))
+  local windowToFocus = #windows > 0 and windows[1] or hs.window.desktop()
+  windowToFocus:focus()
+
+  -- Move mouse to center of screen
+  local pt = geometry.rectMidPoint(screen:fullFrame())
+  mouse.setAbsolutePosition(pt)
+end
+
+-- END DISPLAY FOCUS SWITCHING --
 
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L177
 function round(x, places)
@@ -155,7 +190,11 @@ hs.hotkey.bind("alt", 'h', function()
   hs.window.focusedWindow():focusWindowWest()
 end)
 
+-- Alt I brings focus to next display/screen
 -- Alt I inserts spaces or tabs to next defined tab-stop column in Emacs
+hs.hotkey.bind("alt", "i", function ()
+  focusScreen(hs.window.focusedWindow():screen():next())
+end)
 
 -- J is down, like in Vim
 -- Alt J breaks line at point and indents
@@ -182,7 +221,7 @@ hs.hotkey.bind("alt", 'm', function()
   for k, w in ipairs(app:allWindows()) do w:unminimize() end
 end)
 
--- N is for next screen, like Ctrl N
+-- Alt N moves the focused window to the next screen
 -- Alt N is undefined in Emacs
 hs.hotkey.bind("alt", 'n', function()
   local win = hs.window.focusedWindow()
@@ -190,9 +229,13 @@ hs.hotkey.bind("alt", 'n', function()
   win:moveToScreen(win:screen():next(), true, true)
 end)
 
+-- Alt O brings focus to previous display/screen
 -- Alt O is set face in Emacs
+hs.hotkey.bind("alt", "o", function()
+  focusScreen(hs.window.focusedWindow():screen():previous())
+end)
 
--- P is for previous screen, like Ctrl P
+-- Alt P moves the focused window to the previous screen
 -- Alt P is undefined in Emacs
 hs.hotkey.bind("alt", 'p', function()
   local win = hs.window.focusedWindow()
@@ -291,6 +334,18 @@ end)
 ----------------------------------------------------------------
 
 local alt_shift = {"alt", "shift"}
+
+function focusDisplay(d)
+  return function()
+    local displays = hs.screen.allScreens()
+    focusScreen(displays[d])
+  end
+end
+
+hs.hotkey.bind(alt_shift, "1", focusDisplay(1))
+hs.hotkey.bind(alt_shift, "2", focusDisplay(2))
+hs.hotkey.bind(alt_shift, "3", focusDisplay(3))
+hs.hotkey.bind(alt_shift, "4", focusDisplay(4))
 
 -- Period brings up finder, . represents the current directory in UNIX file systems
 -- Note: Alt Shift . is go to end of document in Emacs
