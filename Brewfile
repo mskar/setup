@@ -134,8 +134,6 @@ cask "dozer"
 cask "emacs"
 # Reimagine your terminal
 cask "fig"
-# Web browser
-cask "firefox"
 cask "font-fira-code-nerd-font"
 # Icon set and toolkit
 cask "font-fontawesome"
