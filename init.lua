@@ -142,8 +142,9 @@ end)
 -- https://stackoverflow.com/a/58398311
 function moveWindowToDisplay(d)
   return function()
+    win = hs.window.focusedWindow()
     win:moveToScreen(hs.screen.allScreens()[d], true, true)
-    centerMouseOnWindow(hs.window.focusedWindow())
+    centerMouseOnWindow(win)
   end
 end
 
