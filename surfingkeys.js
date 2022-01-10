@@ -1,9 +1,9 @@
-iunmap("<Ctrl-f>");
-aceVimMap('<C-u>', '<Esc>d0xi', 'insert');
-Hints.style('font-size: 13pt;')
+api.iunmap("<Ctrl-f>");
+api.aceVimMap('<C-u>', '<Esc>d0xi', 'insert');
+api.Hints.style('font-size: 13pt;')
 
 
-imapkey('<Alt-b>', 'Move backward one word', function() {
+api.imapkey('<Alt-b>', 'Move backward one word', function() {
     var element = getRealEdit();
     if (element.setSelectionRange !== undefined) {
         var pos = nextNonWord(element.value, -1, element.selectionStart);
@@ -16,7 +16,7 @@ imapkey('<Alt-b>', 'Move backward one word', function() {
 );
 
 
-imapkey('<Alt-d>', 'Delete a word forwards', function() {
+api.imapkey('<Alt-d>', 'Delete a word forwards', function() {
     var element = getRealEdit();
     if (element.setSelectionRange !== undefined) {
         var pos = deleteNextWord(element.value, 1, element.selectionStart);
@@ -34,7 +34,7 @@ imapkey('<Alt-d>', 'Delete a word forwards', function() {
     }
 );
 
-imapkey('<Alt-f>', 'Move forward one word', function() {
+api.imapkey('<Alt-f>', 'Move forward one word', function() {
     var element = getRealEdit();
     if (element.setSelectionRange !== undefined) {
         var pos = nextNonWord(element.value, 1, element.selectionStart);
@@ -46,7 +46,7 @@ imapkey('<Alt-f>', 'Move forward one word', function() {
     }
 );
 
-imapkey('<Ctrl-a>', 'Move to the beginning of the line', function() {
+api.imapkey('<Ctrl-a>', 'Move to the beginning of the line', function() {
     var element = getRealEdit();
     if (element.setSelectionRange !== undefined) {
         element.setSelectionRange(0, 0);
@@ -61,7 +61,7 @@ imapkey('<Ctrl-a>', 'Move to the beginning of the line', function() {
     }
 );
 
-imapkey('<Ctrl-e>', 'Move to the end of the line', function() {
+api.imapkey('<Ctrl-e>', 'Move to the end of the line', function() {
 var element = getRealEdit();
     if (element.setSelectionRange !== undefined) {
         try {
@@ -90,7 +90,7 @@ var element = getRealEdit();
     }
 );
 
-imapkey('<Ctrl-u>', 'Delete to the beginning of the line', function() {
+api.imapkey('<Ctrl-u>', 'Delete to the beginning of the line', function() {
     var element = getRealEdit();
     if (element.setSelectionRange !== undefined) {
         element.value = element.value.substr(element.selectionStart);
@@ -103,7 +103,7 @@ imapkey('<Ctrl-u>', 'Delete to the beginning of the line', function() {
     }
 );
 
-imapkey('<Ctrl-w>', 'Delete a word backwards', function() {
+api.imapkey('<Ctrl-w>', 'Delete a word backwards', function() {
     var element = getRealEdit();
     if (element.setSelectionRange !== undefined) {
         var pos = deleteNextWord(element.value, -1, element.selectionStart);
@@ -127,9 +127,9 @@ imapkey('<Ctrl-w>', 'Delete a word backwards', function() {
 // Alt-b: ☢
 // Alt-d: ♂
 // Alt-f: ♢
-iunmap("<Alt-b>");
-iunmap("<Alt-d>");
-iunmap("<Alt-f>");
+api.iunmap("<Alt-b>");
+api.iunmap("<Alt-d>");
+api.iunmap("<Alt-f>");
 // Let macOS handle Ctrl-w
 // Surfingkeys requires two presses to delete once in Chrome, but not Firefox
-iunmap("<Ctrl-w>");
+api.iunmap("<Ctrl-w>");
