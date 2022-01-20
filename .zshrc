@@ -18,7 +18,7 @@ export PATH=$(brew --prefix)/Caskroom/mambaforge/base/bin:$PATH
 export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
-export FZF_DEFAULT_OPTS="'--bind=change:top,ctrl-k:kill-line,alt-p:toggle-preview,alt-w:toggle-preview-wrap,alt-y:execute-silent(echo {} | pbcopy)' --cycle --exit-0 --inline-info --multi --no-height --no-sort --preview='if [ -d {} ]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi' --preview-window='70%:hidden' --reverse --tiebreak=index"
+export FZF_DEFAULT_OPTS="'--bind=change:top,ctrl-k:kill-line,ctrl-/:toggle-preview,ctrl-\\:toggle-preview-wrap,alt-y:execute-silent(echo {} | pbcopy)' --cycle --exit-0 --inline-info --multi --no-height --no-sort --preview='if [ -d {} ]; then; exa --all --classify --color=always -L=2 -T {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; else; bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always; fi' --preview-window='70%:hidden' --reverse --tiebreak=index"
 export FZF_CTRL_T_OPTS="--select-1"
 export FZF_CTRL_R_OPTS="--preview 'echo {}' --preview-window down:3:hidden:wrap"
 export FZF_ALT_C_OPTS="--no-multi --preview 'exa --all --classify --color=always -L=2 -T {} | grep -E \"\$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g)\" --color=always' --select-1"
@@ -734,7 +734,7 @@ alias ta="tmux attach"
 alias tat="tmux attach -t"
 alias tatf="tmux attach -t $(echo '$(tmux list-sessions | fzf --bind="alt-y:execute-silent(echo {1} | pbcopy)" --delimiter=: --no-multi --no-sort | cut -d: -f1)')"
 alias tb="tig blame"
-alias tc="func() { local directory=$(echo '${2:-${${1#*.*[:/]}%.*}}') && local session=$(echo '${3:-${directory##*/}}') && git clone $(echo '$1 $directory') && cd $(echo '$directory') && tmux new -ds $(echo '$session') -c $(echo '$directory'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func" # clone and cd into repo then create or switch to or attach tmux session, ${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
+alias tc="func() { local directory=$(echo '${2:-${${1#*.*[:/]}%.*}}') && local session=$(echo '${3:-${directory##*/}}') && git clone $(echo '$1 $directory') && cd $(echo '$directory') && tmux new -ds $(echo '$session'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func" # clone and cd into repo then create or switch to or attach tmux session, ${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
 alias td="func() { local session=$(echo '${1:-${PWD##*/}}') && [ $(echo '$session') ] && tmux new -ds $(echo '$session'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func" # tmux directory
 alias tg="tig grep"
 alias ti="tmux info"
@@ -769,7 +769,7 @@ alias vfh="func() { local files=$(echo '$(fd --color=always --type f --hidden $@
 alias vg="func() { local file=$(echo '$(rg -l ${@:-^} | fzf --no-multi --preview="bat --style=plain --color=always {} | rg --color=always -n ${*:-^} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$file') ] && [ -f $(echo '$file') ] && echo $(echo '$file') | tr '\n' '\0' | xargs -0 -o vim +$(echo '$(rg -n ${@:-^} $file | head -n 1 | cut -d: -f1)') --; }; func"
 alias vh="v -c History" # this only works with -c, not --cmd
 alias vl="func() { local files=$(echo '$(rg -l ${@:-^} | fzf --preview="bat --style=plain --color=always {} | rg --color=always -n ${*:-^} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o vim --; }; func"
-alias vn="func() { v $(date '+%Y-%m-%d')_$(echo '${1:-notes}').md; }; func"
+alias vn="func() { v ~/mskar/notes/$(date '+%Y-%m-%d')_$(echo '${1:-notes}').md; }; func"
 alias vo="v -c 'browse oldfiles'" # this only works with -c, not --cmd
 alias vp="func() { local files=$(echo '$(fd --color=always -e pdf --type f $@ | fzf --ansi --preview="pdftotext -l 2 {} - | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -n1 -I '{}' pdftotext '{}' && echo $(echo '${files//.pdf/.txt}') | tr '\n' '\0' | xargs -0 -o vim --; }; func"
 alias vpp="vim +Page"
