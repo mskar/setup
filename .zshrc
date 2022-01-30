@@ -734,12 +734,12 @@ alias ta="tmux attach"
 alias tat="tmux attach -t"
 alias tatf="tmux attach -t $(echo '$(tmux list-sessions | fzf --bind="alt-y:execute-silent(echo {1} | pbcopy)" --delimiter=: --no-multi --no-sort | cut -d: -f1)')"
 alias tb="tig blame"
-alias tc="func() { local directory=$(echo '${2:-${${1#*.*[:/]}%.*}}') && local session=$(echo '${3:-${directory##*/}}') && git clone $(echo '$1 $directory') && cd $(echo '$directory') && tmux new -ds $(echo '$session'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func" # clone and cd into repo then create or switch to or attach tmux session, ${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
-alias td="func() { local session=$(echo '${1:-${PWD##*/}}') && [ $(echo '$session') ] && tmux new -ds $(echo '$session'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func" # tmux directory
+alias tc="func() { local directory=$(echo '${2:-${${1#*.*[:/]}%.*}}') && local session=$(echo '${3:-${directory##*/}}') && git clone $(echo '$1 $directory') && cd $(echo '$directory') && tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session') || tmux new -ds $(echo '$session'); }; func" # clone and cd into repo then create or switch to or attach tmux session, ${parameter#pattern} removes pattern from the beginning, while ${parameter%pattern} removes pattern from the end
+alias td="func() { local session=$(echo '${1:-${PWD##*/}}') && [ $(echo '$session') ] && tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session') || tmux new -ds $(echo '$session'); }; func" # tmux directory
 alias tg="tig grep"
 alias ti="tmux info"
-alias tj="func() { local directory=$(echo '$(fd --color=always --type d ^ $@ | fzf --ansi --no-multi)') && local session=$(echo '${directory##*/}') && [ $(echo '$directory') ] && [ -d $(echo '$directory') ] && [ $(echo '$session') ] && tmux new -ds $(echo '$session') -c $(echo '$directory'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func"
-alias tjf="func() { local directory=$(echo '$(fasd -Rdl | fzf --delimiter=/ --no-multi --with-nth=4..)') && local session=$(echo '${1:-${directory##*/}}') && [ $(echo '$directory') ] && [ -d $(echo '$directory') ] && [ $(echo '$session') ] && tmux new -ds $(echo '$session') -c $(echo '$directory'); tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session'); }; func"
+alias tj="func() { local directory=$(echo '$(fd --color=always --type d ^ $@ | fzf --ansi --no-multi)') && local session=$(echo '${directory##*/}') && [ $(echo '$directory') ] && [ -d $(echo '$directory') ] && [ $(echo '$session') ] && tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session') || tmux new -ds $(echo '$session') -c $(echo '$directory'); }; func"
+alias tjf="func() { local directory=$(echo '$(fasd -Rdl | fzf --delimiter=/ --no-multi --with-nth=4..)') && local session=$(echo '${1:-${directory##*/}}') && [ $(echo '$directory') ] && [ -d $(echo '$directory') ] && [ $(echo '$session') ] && tmux switch -t $(echo '$session') || tmux attach -t $(echo '$session') || tmux new -ds $(echo '$session') -c $(echo '$directory'); }; func"
 alias tka="tmux kill-session -a"
 alias tks="tmux kill-server"
 alias tkt="tmux kill-session -t"
