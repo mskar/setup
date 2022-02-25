@@ -467,6 +467,7 @@ alias lu="func() { local unstaged=$(echo '$(git status --porcelain | grep "^.M" 
 alias lw="func() { local files=$(echo '$(fd --color=always -e docx --type f $@ | fzf --ansi --preview="pandoc {} -t markdown | bat --style=numbers --color=always -l md | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | sed 's/docx/md/;p;s/md/docx/' | tr '\n' '\0' | xargs -0n2 pandoc -f docx -t markdown -o && echo $(echo '${files//docx/md}') | tr '\n' '\0' | xargs -0 -o lvim --; }; func"
 alias lz="lvim ~/.zshrc"
 alias m="man"
+alias ma="mamba activate"
 alias map="func() { for i in $(echo '${@:2}'); do; $(echo '$1 $i'); done; }; func"
 alias mb="batman"
 alias mc="git mergetool --extcmd 'code --wait'"
@@ -594,11 +595,7 @@ alias rc="git rm --cached"
 alias rcfr="git rm --cached -fr"
 alias rd="rmdir"
 alias re="Rscript -e"
-alias reb="func() { Rscript -e \"bookdown::render_book($(echo '\"index.Rmd\", $@'))\"; }; func"
-alias red="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_file=\"$(date +%Y-%m-%d)_${1%.[Rr]md}.${2:-docx}\"'))\"; }; func"
-alias ref="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func"
-alias res="func() { Rscript -e \"rmarkdown::render_site($(echo '$@'))\"; }; func"
-alias rew="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=rmarkdown::word_document(reference_docx=\"${2:-reference.docx}\")'))\"; }; func"
+alias rei="Rscript -e 'renv::init()'"
 alias rf="func() { local file=$(echo '$(rga --files-with-matches $@ | fzf --sort --preview="[[ ! -z {} ]] && rga --pretty --context 5 {q} {}" --phony --query "$1" --bind "change:reload: rga --files-with-matches {q} $2")') && [ $(echo '$file') ] && [ -f $(echo '$file') ] && open $(echo '$file'); }; func"
 alias rgs="func() { rg -0l $(echo '$1') | xargs -0n1 sed -i '' \"s/$(echo '$1')/$(echo '$2')/g\" ; }; func" # combines ripgrep (rg) and sed
 alias rh0="git reset HEAD~0"
@@ -622,12 +619,18 @@ alias rhsn="func() { git reset --soft $(echo 'HEAD~${1:-0} ${@:2}'); }; func"
 alias ri="func() { for pkg in $(echo '$@'); do; $(echo 'Rscript -e "install.packages(\"${pkg}\", repos=\"https://cran.rstudio.com\")"'); done; }; func"
 alias rot13="func() { tr 'A-Za-z' 'N-ZA-Mn-za-m' < $(echo '$1') > temp.txt && mv temp.txt $(echo '$1'); }; func"
 alias rp="git restore --patch"
+alias rr="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"${1:-index.Rmd}\"'))\"; }; func"
+alias rrb="func() { Rscript -e \"bookdown::render_book($(echo '\"index.Rmd\", $@'))\"; }; func"
+alias rrd="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_file=\"$(date +%Y-%m-%d)_${1%.[Rr]md}.${2:-docx}\"'))\"; }; func"
+alias rrf="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=\"$2\"'))\"; }; func"
 alias rrm="git remote remove"
 alias rrmf="git remote -v | cut -d ' ' -f1 | uniq | fzf --multi | cut -f1 | xargs -L1 git remote remove"
 alias rrmo="git remote remove origin"
 alias rrmu="git remote remove upstream"
 alias rrn="git remote rename"
 alias rrnf="git remote -v | cut -d ' ' -f1 | uniq | fzf --multi | cut -f1 | sed 's/\(.*\)/\1 \1/g' | vipe | xargs -L1 git remote rename"
+alias rrs="func() { Rscript -e \"rmarkdown::render_site($(echo '$@'))\"; }; func"
+alias rrw="func() { Rscript -e \"rmarkdown::render($(echo 'input=\"$1\", output_format=rmarkdown::word_document(reference_docx=\"${2:-reference.docx}\")'))\"; }; func"
 alias rs="git restore --source=HEAD --staged --"
 alias rsf="func() { local files=$(echo '$(git diff --staged --name-only --relative $@ | fzf --preview="git diff HEAD --color=always --color-words -- {} | delta | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 git restore --source=HEAD --staged --; }; func"
 alias rsh="git remote set-head"
@@ -954,6 +957,10 @@ else
     fi
 fi
 unset __conda_setup
+
+if [ -f "/usr/local/Caskroom/mambaforge/base/etc/profile.d/mamba.sh" ]; then
+    . "/usr/local/Caskroom/mambaforge/base/etc/profile.d/mamba.sh"
+fi
 # <<< conda initialize <<<
 
 #### FIG ENV VARIABLES ####
