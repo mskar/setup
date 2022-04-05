@@ -26,8 +26,6 @@ brew "diff-so-fancy"
 brew "duti"
 # Git for data science projects
 brew "dvc"
-# GNU Emacs text editor
-brew "emacs"
 # Modern replacement for 'ls'
 brew "exa"
 # CLI tool for quick access to files and directories
@@ -98,8 +96,6 @@ brew "tig"
 brew "tldr"
 # Terminal multiplexer
 brew "tmux"
-# Vi 'workalike' with many additional features
-brew "vim"
 # Internet file retriever
 brew "wget"
 # PDF viewer
@@ -169,7 +165,7 @@ cask "rightzoom"
 # Data science software focusing on R and Python
 cask "rstudio"
 # Team communication and collaboration software
-cask "slack"
+# cask "slack"
 # GUI for the Neovim text editor
 cask "vimr"
 # Open-source code editor
