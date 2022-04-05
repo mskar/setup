@@ -111,7 +111,7 @@ brew "zsh-syntax-highlighting"
 # The modern, text-based browser
 brew "browsh-org/browsh/browsh"
 # A cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
-brew "clementtsang/bottom/bottom"
+brew "bottom"
 # A Zsh Theme
 brew "romkatv/powerlevel10k/powerlevel10k"
 # Maintained ctags implementation
