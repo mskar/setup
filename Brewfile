@@ -165,7 +165,7 @@ cask "rightzoom"
 # Data science software focusing on R and Python
 cask "rstudio"
 # Team communication and collaboration software
-# cask "slack"
+cask "slack"
 # GUI for the Neovim text editor
 cask "vimr"
 # Open-source code editor

@@ -187,7 +187,7 @@ git config --global user.email 13444106+mskar@users.noreply.github.com
 
 curl https://raw.githubusercontent.com/mskar/setup/main/Brewfile -o ~/.Brewfile
 
-brew bundle install --global
+brew bundle install --global || true
 
 # 4: MacOS Applications
 ## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
