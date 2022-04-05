@@ -240,17 +240,17 @@ curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindo
 ### `Ctrl Alt X` pastes as plain text (mnemonic: remove (x) formatting)
 
 ## Set builtin "Move focus" macOS Keyboard shortcuts in System Preferences > Keyboard > Shortcuts > Keyboard
+### Move focus to menu bar: `Alt A` (A is for Apple)
+### Move focus to Dock: `Alt Z` (Z is below A and S on the keyboard)
 ### Move focus to active or next window: `Alt ;`
 #### Which automatically enables, move focus to previous window: `Alt Shift ;`
 #### Which I activate using `Alt ,` thanks to Karabiner
 #### This pairs so perfectly with using `Alt /` for the Hammerspoon window hints
 #### that I decided it was worth overwriting the Emacs hippie completion binding
-### Move focus to menu bar: `Alt A` (A is for Apple)
 ### Toggle all of the focus shortcuts except "Move focus to status menus": `Alt O`
-### Move focus to status menus: `Alt S`
 ### Move focus to window toolbar: `Alt R` (mnemonic: toolbaR, works a bit like Alt R in Emacs in that it jumps back and forth)
 ### Move focus to floating window: `Alt W`
-### Move focus to Dock: `Alt Z` (Z is below A and S on the keyboard)
+### Move focus to status menus: `Alt S`
 
 ## Set up Vimac
 ### Hint Mode shortcut: `Ctrl Q`
@@ -425,16 +425,16 @@ curl https://raw.githubusercontent.com/mskar/setup/main/tabnine_config.json -o ~
 
 # 6: Conda environments (base, Python and R)
 ### Install cookiecutter (for i alias) and neovim (for vim plugins)
-mamba install -yc conda-forge neovim
+/usr/local/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge neovim
 
-mamba create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
+/usr/local/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
 
 ##### Installing r into base environment breaks nvim-R
-mamba create -yc conda-forge -n r rstudio r-essentials r-tidymodels r-tidyverse r-languageserver python
+/usr/local/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python
 
 # 7: Code editors
 ### Radian, ipython, ptpython, and jupyter-vimrc extension
-python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab_vim jupyterlab-vimrc
+/usr/local/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab_vim jupyterlab-vimrc
 
 ## Visual Studio Code (vscodium)
 curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
@@ -445,29 +445,13 @@ codium --install-extension ms-vsliveshare.vsliveshare --force
 
 codium --install-extension ms-python.python --force
 
-codium --install-extension ms-python.vscode-pylance --force
+codium --install-extension ritwickdey.LiveServer --force
 
 codium --install-extension ikuyadeu.r --force
 
 codium --install-extension tabnine.tabnine-vscode --force
 
 codium --install-extension asvetliakov.vscode-neovim --force
-
-## Jupyter
-### Need to install jupyter via conda before installing extensions
-### https://github.com/jupyterlab/jupyterlab/pull/9068#issuecomment-739993274
-#### jupyter labextension install @axlair/jupyterlab_vim
-
-#### I don't use jupyterlab-git extension, I only demo it in classes
-##### jupyter labextension install @jupyterlab/git
-##### jupyter serverextension enable --py jupyterlab_git
-##### jupyter labextension install jupyterlab_vim
-
-## Set up jupyterlab-github extension
-#### jupyter labextension install @jupyterlab/github
-#### pip install jupyterlab_github
-##### Provide access token to GitHub extension
-##### https://github.com/jupyterlab/jupyterlab-github#2-getting-your-credentials-from-github
 
 ### Jupyter settings
 curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
