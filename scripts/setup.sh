@@ -159,6 +159,20 @@ killall Finder
 
 killall Dock
 
+# 2: Generate SSH keys for GitHub, GitLab, and Bitbucket
+
+## Only one key is needed per computer
+## The label is MacBook model
+
+local label=$(sysctl hw.model | cut -d\  -f2)
+
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/$label -C $label
+
+ssh-add ~/.ssh/$label
+
+cat ~/.ssh/$label.pub | pbcopy
+
+
 # 2: Default MacOS keybindings and keyboard layout
 
 ### The default macOS keyboard has so-called "dead keys". Some of these "dead keys"
