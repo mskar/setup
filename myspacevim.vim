@@ -86,6 +86,12 @@ function! myspacevim#before() abort
 
   " e is easier to reach than = and is unbound
   nnoremap <C-w>e <C-w>=
+  " = is easier to type than +
+  nnoremap <C-w>= <C-w>+
+  " , is easier to type than < and is unbound by default
+  nnoremap <C-w>, <C-w><
+  " . is easier to type than < and is unbound by default
+  nnoremap <C-w>. <C-w>>
 
   inoremap <C-a> <Home>
   cnoremap <C-a> <Home>

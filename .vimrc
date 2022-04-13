@@ -802,6 +802,12 @@ nnoremap <C-w>u :silent :source ~/session.vim<CR>
 
 " e is easier to reach than = and is unbound by default
 nnoremap <C-w>e <C-w>=
+" = is easier to type than +
+nnoremap <C-w>= <C-w>+
+" , is easier to type than < and is unbound by default
+nnoremap <C-w>, <C-w><
+" . is easier to type than < and is unbound by default
+nnoremap <C-w>. <C-w>>
 
 " Fuzzy finder (FZF)
 " https://jesseleite.com/posts/2/its-dangerous-to-vim-alone-take-fzf

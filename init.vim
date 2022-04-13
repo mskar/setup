@@ -938,6 +938,12 @@ nnoremap <C-w>u :silent :source ~/session.vim<CR>
 
 " e is easier to reach than = and is unbound by default
 nnoremap <C-w>e <C-w>=
+" = is easier to type than +
+nnoremap <C-w>= <C-w>+
+" , is easier to type than < and is unbound by default
+nnoremap <C-w>, <C-w><
+" . is easier to type than < and is unbound by default
+nnoremap <C-w>. <C-w>>
 
 " Terminal like in vim
 tnoremap <C-w>+ <C-\><C-n><C-w>+
