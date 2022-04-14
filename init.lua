@@ -405,12 +405,7 @@ hs.hotkey.bind(ctrl_shift, "`", function()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- A is for Adobe Acrobat (Use Preview instead of Adobe Acrobat)
-hs.hotkey.bind(ctrl_shift, "a", function()
-  hs.application.launchOrFocus("Preview")
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
-
+-- Ctrl Shift A is select to start of line
 -- Ctrl Shift B is select character backward
 -- Alt Shift B is select word backward
 
@@ -426,12 +421,7 @@ hs.hotkey.bind(ctrl_shift, "d", function()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- E is for Emacs, not Excel :)
-hs.hotkey.bind(ctrl_shift, "e", function()
-  hs.application.launchOrFocus("Emacs")
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
-
+-- Ctrl Shift E is select to end of line
 -- Alt Shift F is select word forward
 -- Ctrl Shift F is select character forward
 
@@ -471,17 +461,15 @@ hs.hotkey.bind(ctrl_shift, "m", function()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
+-- Ctrl Shift N is select down
+
 -- O is for Outlook
 hs.hotkey.bind(ctrl_shift, "o", function()
   hs.application.launchOrFocus("Microsoft Outlook")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- P is for PyCharm
-hs.hotkey.bind(ctrl_shift, "p", function()
-  hs.application.launchOrFocus("PyCharm Professional")
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
+-- Ctrl Shift P is select up
 
 -- Q is for CopyQ, as in queue
 hs.hotkey.bind(ctrl_shift, "q", function()
@@ -519,7 +507,7 @@ hs.hotkey.bind(ctrl_shift, "v", function()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- W is for Word
+-- W is for WebStorm
 hs.hotkey.bind(ctrl_shift, "w", function()
   hs.application.launchOrFocus("WebStorm")
   centerMouseOnWindow(hs.window.focusedWindow())
