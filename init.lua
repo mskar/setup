@@ -95,8 +95,8 @@ hs.loadSpoon("MiroWindowsManager")
 hs.window.animationDuration = 0 -- disable animations
 spoon.MiroWindowsManager:bindHotkeys({
   fullscreen = {"ctrl", "space"},
-  down = {"ctrl", "/"},
-  up = {"ctrl", "'"},
+  down = {"ctrl", "/"}, -- Mnemonic: the slash is falling down
+  up = {"ctrl", "'"}, -- Mnemonic: " creates a horizontal split in tmux
   left = {"ctrl", "["},
   right = {"ctrl", "]"},
 })
@@ -160,7 +160,7 @@ hs.hotkey.bind("ctrl", ",", function()
   local move_to_rect = {}
   move_to_rect[1] = cw[1] == 0 and 0 or math.min(cw[1]+0.04,1) -- x
   move_to_rect[2] = cw[2]
-  move_to_rect[3] = cw[1] + cw[3] > 0.9 and 1 or math.max(cw[3]-0.04,0.1) -- w
+  move_to_rect[3] = cw[1] + cw[3] > 0.99 and 1 or math.max(cw[3]-0.04,0.1) -- w
   move_to_rect[4] = cw[4]
   win:move(move_to_rect)
 end)
@@ -185,17 +185,19 @@ hs.hotkey.bind("ctrl", "-", function()
   move_to_rect[1] = cw[1]
   move_to_rect[2] = cw[2] == 0 and 0 or math.min(cw[2]+0.04,1)
   move_to_rect[3] = cw[3]
-  move_to_rect[4] = cw[2] + cw[4] > 0.9 and 1 or math.max(cw[4]-0.04,0.1) -- some windows (MacVim) don't size to 1
+  move_to_rect[4] = cw[2] + cw[4] > 0.99 and 1 or math.max(cw[4]-0.04,0.1) -- some windows (MacVim) don't size to 1
   win:move(move_to_rect)
 end)
 
--- CTRL ALT SHORTCUTS
--- The ctrl alt bindings slightly alter the currently focused window
--- Mnemonic: alt like alter
+-- The arrow keys move the current window
+-- This requires changing the
+-- - "Mission Control",
+-- - "Application windows", and
+-- - "Move left/right a space" shortcuts
+-- in System Preferences > Keyboard > Shortcuts > Mission Control
+-- I hate the macOS Spaces feature with the passion of infinite burning suns
 
-local ctrl_alt = {"ctrl", "alt"}
-
--- Ctrl Alt B nudges the focused window to the left, Ctrl B = left
+-- Ctrl left nudges the focused window to the left
 function nudgeLeft(d)
     return {
         x = d.x - 40,
@@ -204,12 +206,12 @@ function nudgeLeft(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, "b", function()
+hs.hotkey.bind("ctrl", "left", function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeLeft(win:frame()))
 end)
 
--- Ctrl Alt F nudges the focused window to the right, Ctrl F = right
+-- Ctrl right nudges the focused window to the right
 function nudgeRight(d)
     return {
         x = d.x + 40,
@@ -218,12 +220,12 @@ function nudgeRight(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, "f", function()
+hs.hotkey.bind("ctrl", "right", function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeRight(win:frame()))
 end)
 
--- Ctrl Alt N nudges the focused window downward, Ctrl N = down
+-- Ctrl down nudges the focused window downward
 function nudgeDown(d)
     return {
         x = d.x,
@@ -232,12 +234,12 @@ function nudgeDown(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, "n", function()
+hs.hotkey.bind("ctrl", "down", function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeDown(win:frame()))
 end)
 
--- Ctrl Alt P nudges the focused window upward, Ctrl P = up
+-- Ctrl up nudges the focused window upward
 function nudgeUp(d)
     return {
         x = d.x,
@@ -246,7 +248,7 @@ function nudgeUp(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, "p", function()
+hs.hotkey.bind("ctrl", "up", function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeUp(win:frame()))
 end)
@@ -543,6 +545,8 @@ end)
 
 -- MISCELLANEOUS BINDINGS
 -- Use Ctrl Alt, but it could be something else
+
+local ctrl_alt = {"ctrl", "alt"}
 
 ----------------------------------------------------------------
 -- CLIPBOARD MANAGEMENT
