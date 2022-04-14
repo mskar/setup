@@ -4,7 +4,7 @@
 
 -- https://github.com/pqrs-org/Karabiner-Elements/issues/242#issuecomment-277330358
 
-local quitModal = hs.hotkey.modal.new('cmd','q')
+local quitModal = hs.hotkey.modal.new("cmd", "q")
 
 function quitModal:entered()
     hs.alert.show("Press Cmd+Q again to quit", 1)
@@ -16,9 +16,9 @@ local function doQuit()
     app:kill()
 end
 
-quitModal:bind('cmd', 'q', doQuit)
+quitModal:bind("cmd", "q", doQuit)
 
-quitModal:bind('', 'escape', function() quitModal:exit() end)
+quitModal:bind("", "escape", function() quitModal:exit() end)
 
 ----------------------------------------------------------------
 -- GENERAL WINDOW MANAGEMENT
@@ -42,12 +42,12 @@ end
 
 function centerMouseOnScreen(screen)
   local pt = hs.geometry.rectMidPoint(screen:fullFrame())
-  hs.mouse.setAbsolutePosition(pt)
+  hs.mouse.absolutePosition(pt)
 end
 
 function centerMouseOnWindow(window)
   local pt = hs.geometry.rectMidPoint(window:frame())
-  hs.mouse.setAbsolutePosition(pt)
+  hs.mouse.absolutePosition(pt)
 end
 
 -- Brings focus to the screen by setting focus on the front-most application in it.
@@ -83,8 +83,8 @@ function current_window_rect(win)
 end
 
 -- CTRL ONLY SHORTCUTS
--- The ctrl only bindings affect the currently focused window
--- The ctrl shift bindings typically focus another window
+-- The ctrl only bindings only affects the currently focused window
+-- Mnemonic: only
 
 -- Spacebar makes the focused window fullscreen, because spacebar is the widest key on the keyboard
 -- https://github.com/miromannino/miro-windows-manager
@@ -118,19 +118,30 @@ hs.hotkey.bind("ctrl", "2", moveWindowToDisplay(2))
 hs.hotkey.bind("ctrl", "3", moveWindowToDisplay(3))
 hs.hotkey.bind("ctrl", "4", moveWindowToDisplay(4))
 
+-- Open parentheses goes to previous session in tmux
+hs.hotkey.bind("ctrl", "9", function()
+  local win = hs.window.focusedWindow()
+  win:setFullScreen(false)
+  win:moveToScreen(win:screen():previous(), true, true)
+  centerMouseOnWindow(win)
+end)
+
+-- Close parentheses goes to next session in tmux
+hs.hotkey.bind("ctrl", "0", function()
+  local win = hs.window.focusedWindow()
+  win:setFullScreen(false)
+  win:moveToScreen(win:screen():next(), true, true)
+  centerMouseOnWindow(win)
+end)
+
 -- Slash (/) centers the window, works great with < and > to create a triple vertical split
-hs.hotkey.bind("ctrl", '\\', function()
+hs.hotkey.bind("ctrl", "\\", function()
   hs.window.focusedWindow():centerOnScreen(nil, true)
 end)
 
--- CTRL ALT SHORTCUTS
--- The ctrl alt bindings make small adjustments to the currently focused window
-
-local ctrl_alt = {"ctrl", "alt"}
-
 -- Expands window horizontally
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L368
-hs.hotkey.bind("ctrl", '.', function()
+hs.hotkey.bind("ctrl", ".", function()
   local win = hs.window.focusedWindow()
   local cw = current_window_rect(win)
   local move_to_rect = {}
@@ -143,7 +154,7 @@ end)
 
 -- Shrinks the window horizontally
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L392
-hs.hotkey.bind("ctrl", ',', function()
+hs.hotkey.bind("ctrl", ",", function()
   local win = hs.window.focusedWindow()
   local cw = current_window_rect(win)
   local move_to_rect = {}
@@ -155,7 +166,7 @@ hs.hotkey.bind("ctrl", ',', function()
 end)
 
 -- Expands the window vertically
-hs.hotkey.bind("ctrl", '=', function()
+hs.hotkey.bind("ctrl", "=", function()
   local win = hs.window.focusedWindow()
   local cw = current_window_rect(win)
   local move_to_rect = {}
@@ -167,7 +178,7 @@ hs.hotkey.bind("ctrl", '=', function()
 end)
 
 -- Shrinks the window horizontally
-hs.hotkey.bind("ctrl", '-', function()
+hs.hotkey.bind("ctrl", "-", function()
   local win = hs.window.focusedWindow()
   local cw = current_window_rect(win)
   local move_to_rect = {}
@@ -178,6 +189,12 @@ hs.hotkey.bind("ctrl", '-', function()
   win:move(move_to_rect)
 end)
 
+-- CTRL ALT SHORTCUTS
+-- The ctrl alt bindings slightly alter the currently focused window
+-- Mnemonic: alt like alter
+
+local ctrl_alt = {"ctrl", "alt"}
+
 -- Ctrl Alt B nudges the focused window to the left, Ctrl B = left
 function nudgeLeft(d)
     return {
@@ -187,7 +204,7 @@ function nudgeLeft(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'b', function()
+hs.hotkey.bind(ctrl_alt, "b", function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeLeft(win:frame()))
 end)
@@ -201,7 +218,7 @@ function nudgeRight(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'f', function()
+hs.hotkey.bind(ctrl_alt, "f", function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeRight(win:frame()))
 end)
@@ -215,7 +232,7 @@ function nudgeDown(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'n', function()
+hs.hotkey.bind(ctrl_alt, "n", function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeDown(win:frame()))
 end)
@@ -229,7 +246,7 @@ function nudgeUp(d)
         w = d.w,
     }
 end
-hs.hotkey.bind(ctrl_alt, 'p', function()
+hs.hotkey.bind(ctrl_alt, "p", function()
   win = hs.window.focusedWindow()
   win:setFrame(nudgeUp(win:frame()))
 end)
@@ -288,12 +305,7 @@ end)
 -- L is right, like in Vim
 -- Alt L is lowercase to end of word in Emacs
 
--- M is for maximize (unminimize) windows for the focused app
 -- Alt M is back to indentation in Emacs
-hs.hotkey.bind("alt", 'm', function()
-  local app = hs.application.frontmostApplication()
-  for k, w in ipairs(app:allWindows()) do w:unminimize() end
-end)
 
 -- Alt N is undefined in Emacs
 
@@ -319,20 +331,24 @@ end)
 -- Alt W saves the marked region in Emacs
 -- Use Alt W to focus floating window
 
--- X is for eXpose
 -- Alt X brings up a list of commands in Emacs
-hs.hotkey.bind("alt", 'x', function()
-  hs.expose.new():toggleShow()
-end)
 
 -- Alt Y rotates the kill ring (replaces last yank with previous kill) in Emacs
 
 -- Alt Z is zap to char, same as dt in vim
 -- Use Alt Z to focus Dock; mnemonic: z is below a (apple) and s (status menus)
 
+-- Alt Delete reduces indentation of lines to match a line above in Emacs
+
+-- Alt Shift , goes to the top of the buffer in Emacs (mnemonic: go back)
+
 ----------------------------------------------------------------
 -- APP-SPECIFIC WINDOW MANAGEMENT
 ----------------------------------------------------------------
+
+-- CTRL SHIFT SHORTCUTS
+-- The ctrl shift bindings shifts focus another window
+-- Mnemonic: shift focus
 
 local ctrl_shift = {"ctrl", "shift"}
 
@@ -345,17 +361,9 @@ hs.hotkey.bind(ctrl_shift, "'", function()
 end)
 
 -- G goes to the next window in the hammerspoon window switcher
-hs.hotkey.bind(ctrl_shift, 'g', hs.window.switcher.nextWindow)
--- Alt I brings focus to next display/screen
-hs.hotkey.bind(ctrl_shift, "i", function ()
-  focusScreen(hs.window.focusedWindow():screen():next())
-end)
--- Alt O brings focus to previous display/screen
-hs.hotkey.bind(ctrl_shift, "o", function()
-  focusScreen(hs.window.focusedWindow():screen():previous())
-end)
+hs.hotkey.bind(ctrl_shift, "g", hs.window.switcher.nextWindow)
 -- Slash shows window hints, / is search in Vim
-hs.hotkey.bind(ctrl_shift, '/', hs.hints.windowHints)
+hs.hotkey.bind(ctrl_shift, "/", hs.hints.windowHints)
 
 function focusDisplay(d)
   return function()
@@ -368,52 +376,66 @@ hs.hotkey.bind(ctrl_shift, "2", focusDisplay(2))
 hs.hotkey.bind(ctrl_shift, "3", focusDisplay(3))
 hs.hotkey.bind(ctrl_shift, "4", focusDisplay(4))
 
+-- Ctrl Shift 9 brings focus to previous display/screen
+-- Open parentheses goes to previous session in tmux
+hs.hotkey.bind(ctrl_shift, "9", function()
+  focusScreen(hs.window.focusedWindow():screen():previous())
+end)
+
+-- Ctrl Shift 0 brings focus to next display/screen
+-- Close parentheses goes to next session in tmux
+hs.hotkey.bind(ctrl_shift, "0", function ()
+  focusScreen(hs.window.focusedWindow():screen():next())
+end)
+
 -- Period brings up finder, . represents the current directory in UNIX file systems
 -- Note: Alt Shift . is go to end of document in Emacs
 -- In Vim, use G
 -- In macOS, use Ctrl Command N instead of Alt Shift .
-hs.hotkey.bind(ctrl_shift, '.', function()
-  hs.application.launchOrFocus('Finder')
+hs.hotkey.bind(ctrl_shift, ".", function()
+  hs.application.launchOrFocus("Finder")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- Backtick brings up the console, like Ctrl ` in VS Code and GitHub Desktop
-hs.hotkey.bind(ctrl_shift, '`', function()
+hs.hotkey.bind(ctrl_shift, "`", function()
   hs.toggleConsole()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- A is for Adobe Acrobat (Use Preview instead of Adobe Acrobat)
-hs.hotkey.bind(ctrl_shift, 'a', function()
-  hs.application.launchOrFocus('Preview')
+hs.hotkey.bind(ctrl_shift, "a", function()
+  hs.application.launchOrFocus("Preview")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
+-- Ctrl Shift B is select character backward
 -- Alt Shift B is select word backward
 
 -- C is for VS Code
-hs.hotkey.bind(ctrl_shift, 'c', function()
-  hs.application.launchOrFocus('Visual Studio Code')
+hs.hotkey.bind(ctrl_shift, "c", function()
+  hs.application.launchOrFocus("Visual Studio Code")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- D is for DataSpell
-hs.hotkey.bind(ctrl_shift, 'd', function()
-  hs.application.launchOrFocus('DataSpell')
+hs.hotkey.bind(ctrl_shift, "d", function()
+  hs.application.launchOrFocus("DataSpell")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- E is for Emacs, not Excel :)
-hs.hotkey.bind(ctrl_shift, 'e', function()
-  hs.application.launchOrFocus('Emacs')
+hs.hotkey.bind(ctrl_shift, "e", function()
+  hs.application.launchOrFocus("Emacs")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- Alt Shift F is select word forward
+-- Ctrl Shift F is select character forward
 
 -- G is for Google Chrome
-hs.hotkey.bind(ctrl_shift, 'g', function()
-  hs.application.launchOrFocus('Google Chrome')
+hs.hotkey.bind(ctrl_shift, "g", function()
+  hs.application.launchOrFocus("Google Chrome")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
@@ -422,9 +444,9 @@ hs.hotkey.bind(ctrl_shift, "h", function()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- I is for iTerm
-hs.hotkey.bind(ctrl_shift, 'i', function()
-  hs.application.launchOrFocus('iTerm')
+-- I is for Terminal
+hs.hotkey.bind(ctrl_shift, "i", function()
+  hs.application.launchOrFocus("iTerm")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
@@ -442,83 +464,85 @@ hs.hotkey.bind(ctrl_shift, "l", function()
 end)
 
 -- M is for Mozilla Firefox
-hs.hotkey.bind(ctrl_shift, 'm', function()
-  hs.application.launchOrFocus('Firefox')
+hs.hotkey.bind(ctrl_shift, "m", function()
+  hs.application.launchOrFocus("Firefox")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- O is for Outlook
-hs.hotkey.bind(ctrl_shift, 'o', function()
-  hs.application.launchOrFocus('Microsoft Outlook')
+hs.hotkey.bind(ctrl_shift, "o", function()
+  hs.application.launchOrFocus("Microsoft Outlook")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- P is for PyCharm
-hs.hotkey.bind(ctrl_shift, 'p', function()
-  hs.application.launchOrFocus('PyCharm Professional')
+hs.hotkey.bind(ctrl_shift, "p", function()
+  hs.application.launchOrFocus("PyCharm Professional")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- Q is for CopyQ, as in queue
-hs.hotkey.bind(ctrl_shift, 'q', function()
-  hs.application.launchOrFocus('CopyQ')
+hs.hotkey.bind(ctrl_shift, "q", function()
+  hs.application.launchOrFocus("CopyQ")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- R is for RStudio
-hs.hotkey.bind(ctrl_shift, 'r', function()
-  hs.application.launchOrFocus('RStudio')
+hs.hotkey.bind(ctrl_shift, "r", function()
+  hs.application.launchOrFocus("RStudio")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- S is for Slack
-hs.hotkey.bind(ctrl_shift, 's', function()
-  hs.application.launchOrFocus('Slack')
+hs.hotkey.bind(ctrl_shift, "s", function()
+  hs.application.launchOrFocus("Slack")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- T is for Teams
-hs.hotkey.bind(ctrl_shift, 't', function()
-  hs.application.launchOrFocus('Microsoft Teams')
+-- T is for Terminal
+hs.hotkey.bind(ctrl_shift, "t", function()
+  hs.application.launchOrFocus("Terminal")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- U is for Utilities, where the Activity Monitor is located
-hs.hotkey.bind(ctrl_shift, 'u', function()
-  hs.application.launchOrFocus('Activity Monitor')
-  centerMouseOnWindow(hs.window.focusedWindow())
+-- U is for unminimize windows for the focused app
+hs.hotkey.bind(ctrl_shift, "u", function()
+  local app = hs.application.frontmostApplication()
+  for k, w in ipairs(app:allWindows()) do w:unminimize() end
 end)
 
 -- V is for VimR
-hs.hotkey.bind(ctrl_shift, 'v', function()
-  hs.application.launchOrFocus('VimR')
+hs.hotkey.bind(ctrl_shift, "v", function()
+  hs.application.launchOrFocus("VimR")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- W is for Word
-hs.hotkey.bind(ctrl_shift, 'w', function()
-  hs.application.launchOrFocus('WebStorm')
+hs.hotkey.bind(ctrl_shift, "w", function()
+  hs.application.launchOrFocus("WebStorm")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- X is for eXcel
-hs.hotkey.bind(ctrl_shift, 'x', function()
-  hs.application.launchOrFocus('Microsoft Excel')
-  centerMouseOnWindow(hs.window.focusedWindow())
+-- X is for eXpose
+hs.hotkey.bind(ctrl_shift, "x", function()
+  hs.expose.new():toggleShow()
 end)
 
 -- Y is for sYstem Preferences
-hs.hotkey.bind(ctrl_shift, 'y', function()
-  hs.application.launchOrFocus('System Preferences')
+hs.hotkey.bind(ctrl_shift, "y", function()
+  hs.application.launchOrFocus("System Preferences")
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
 -- Z is for Zoom
-hs.hotkey.bind(ctrl_shift, 'z', function()
-  hs.application.launchOrFocus('zoom.us')
+hs.hotkey.bind(ctrl_shift, "z", function()
+  hs.application.launchOrFocus("zoom.us")
   hs.window.focusedWindow():setFullScreen(false)
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
+
+-- MISCELLANEOUS BINDINGS
+-- Use Ctrl Alt, but it could be something else
 
 ----------------------------------------------------------------
 -- CLIPBOARD MANAGEMENT
@@ -526,7 +550,7 @@ end)
 
 -- Y imitates typing while pasting, Y is for yank, like Ctrl Y in GNU Emacs and Readline
 -- https://www.hammerspoon.org/go/#defeating-paste-blocking
-hs.hotkey.bind(ctrl_alt, 'y', function()
+hs.hotkey.bind(ctrl_alt, "y", function()
   hs.eventtap.keyStrokes(hs.pasteboard.getContents())
 end)
 
@@ -553,7 +577,7 @@ if caffeine then
     setCaffeineDisplay(hs.caffeinate.get("displayIdle"))
 end
 
--- hs.hotkey.bind("alt", "z", caffeineClicked)
+hs.hotkey.bind(ctrl_alt, "z", caffeineClicked)
 
 ----------------------------------------------------------------
 -- Disable all key bindings / Reload hammerspoon config
@@ -563,8 +587,7 @@ local hk = hs.hotkey.getHotkeys()
 
 local hkEnabled = true
 
--- Alt Shift , goes to the top of the buffer in Emacs (mnemonic: go back)
-hs.hotkey.bind(ctrl_shift, ',', function()
+hs.hotkey.bind(ctrl_alt, ",", function()
     if hkEnabled then
         for k, v in ipairs(hk) do v:disable() end
         hkEnabled = false
@@ -574,7 +597,6 @@ hs.hotkey.bind(ctrl_shift, ',', function()
     end
 end)
 
--- Alt Shift Delete reloads the config
+-- Ctrl Alt R reloads the config
 -- Delete is on the opposite side of the keyboard from Backtick
--- Alt Delete reduces indentation of lines to match a line above in Emacs
-hs.hotkey.bind(ctrl_shift, 'delete', hs.reload)
+hs.hotkey.bind(ctrl_alt, "r", hs.reload)
