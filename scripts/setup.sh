@@ -172,6 +172,7 @@ ssh-add ~/.ssh/$label
 
 cat ~/.ssh/$label.pub | pbcopy
 
+echo "Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/$label" >> ~/.ssh/config
 
 # 2: Default MacOS keybindings and keyboard layout
 

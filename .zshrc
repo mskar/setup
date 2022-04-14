@@ -431,7 +431,7 @@ alias jtr="func() { local file=$(echo '${1:-${PWD##*/}}.r') && touch $(echo '$fi
 alias jts="jupytext --sync"
 alias jtt="jupytext --to"
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && [ -d $(echo '${ntimes// /../}') ] && cd $(echo '${ntimes// /../}'); }; func"
-alias kg="func() { local label=$(echo '${1:-$(sysctl hw.model | cut -d\  -f2)}') && ssh-keygen -t rsa -b 4096 -f ~/.ssh/$(echo '$label') -C $(echo '$label') && ssh-add ~/.ssh/$(echo '$label') && cat ~/.ssh/$(echo '$label').pub | pbcopy; }; func"
+alias kg="func() { local label=$(echo '${1:-$(sysctl hw.model | cut -d\  -f2)}') && ssh-keygen -t rsa -b 4096 -f ~/.ssh/$(echo '$label') -C $(echo '$label') && ssh-add ~/.ssh/$(echo '$label') && cat ~/.ssh/$(echo '$label').pub | pbcopy && echo 'Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/'$(echo '$label') >> ~/.ssh/config; }; func"
 alias l="~/.local/bin/lvim"
 alias lS="func() { lvim -S $(echo '${@:-~/session.vim}'); }; func"
 alias la="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim $(echo '$@') --; }; func"
