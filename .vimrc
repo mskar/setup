@@ -43,7 +43,6 @@ Plug 'simnalamburt/vim-mundo'
 Plug 'jiangmiao/auto-pairs'
 Plug 'SirVer/ultisnips'
 Plug 'rkitover/vimpager'
-Plug 'mskar/transwrd'
 
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
