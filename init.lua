@@ -93,6 +93,9 @@ end
 -- https://github.com/miromannino/miro-windows-manager
 hs.loadSpoon("MiroWindowsManager")
 
+-- Ctrl Tab is used as a switcher in many apps
+-- ASCII character 9
+
 -- Ctrl Space ( ) alternates between maximized, 3/4 and 1/2 in the center
 -- Ctrl Quote (') alternates between 1/2, 1/3, and 2/3 split at the top
 -- Ctrl Forward slash (/) alternates between 1/2, 1/3, and 2/3 split at the bottom
@@ -180,6 +183,9 @@ hs.hotkey.bind("ctrl", "9", function()
   centerMouseOnWindow(win)
 end)
 
+-- Ctrl Semicolon (;) is my tmux prefix thanks to my iTerm config
+-- ASCII character 59
+
 -- Ctrl Equals (=) expands the window vertically
 -- ASCII character 61
 hs.hotkey.bind("ctrl", "=", function()
@@ -200,6 +206,33 @@ end)
 hs.hotkey.bind("ctrl", "\\", function()
   hs.window.focusedWindow():centerOnScreen(nil, true)
 end)
+
+-- Ctrl A goes to the beginning of the line in macOS and GNU Emacs/Readline
+-- Ctrl B goes one character backward in macOS and GNU Emacs/Readline
+-- Ctrl C cancels and clears line in Bash/Zsh
+-- Ctrl D deletes next character in macOS and GNU Emacs/Readline
+-- Ctrl E goes to the end of the line in macOS and GNU Emacs/Readline
+-- Ctrl F goes one character forward in macOS and GNU Emacs/Readline
+-- Ctrl G cancels in GNU Emacs/Readline and in Bash/Zsh
+-- Ctrl H deletes previous character in macOS and GNU Emacs/Readline
+-- Ctrl I is equivalent to Tab and redos previous jump in Vim
+-- Ctrl J is equivalent to Enter/Return
+-- Ctrl K deletes to the end of the line in macOS and GNU Emacs/Readline
+-- Ctrl L clears the screen but not the line in Bash/Zsh
+-- Ctrl M is equivalent to Enter/Return
+-- Ctrl N moves down
+-- Ctrl O undos previous jump in Vim
+-- Ctrl P moves up
+-- Ctrl Q triggers Vimac Hint mode
+-- Ctrl R pastes from register in Vim and does a recursive search in Bash/Zsh
+-- Ctrl S triggers Vimac Scroll mode
+-- Ctrl T transposes letters
+-- Ctrl U deletes to the beginning of the line in GNU Readline
+-- Ctrl V puts a character literally or enters block visual mode in Vim
+-- Ctrl W deletes previous word
+-- Ctrl X is used for chords in Vim and GNU Emacs/Readline
+-- Ctrl Y is used to accept completion in Vim and pasting GNU Emacs/Readline
+-- Ctrl Z suspends the current process
 
 -- The arrow keys move the current window
 -- This requires changing the
@@ -271,6 +304,9 @@ end)
 ----------------------------------------------------------------
 -- The alt only bindings focus something other than the current window
 
+-- Alt Tab is used as a switcher by the AltTab macOS application
+-- ASCII character 9
+
 -- Alt Quote goes to the previously focused window
 -- like the last jump ('') mark in Vim
 -- ASCII character 39
@@ -287,14 +323,14 @@ function focusDisplay(d)
   end
 end
 
--- Alt Shift Comma (,) goes to the top of the buffer in Emacs
--- Alt Hyphen (- ) is begin negative argument in Emacs
+-- Alt Hyphen (-) is begin negative argument in Emacs
 -- Alt Period (.) is insert previous argument in bash / zsh
--- Note: Alt Shift Period (.) is go to end of document in Emacs
+-- Alt Forwardslash (/) is hippie completion in Emacs, analogous to omnicompletion in vim
+-- ASCII characters 44-47
+-- Note: Alt Shift Period (.) goes to the end of the document in Emacs
+-- Note: Alt Shift Comma (,) goes to the start of the document in Emacs
 -- In Vim, use G
 -- In macOS, use Ctrl Command N instead of Alt Shift .
-
--- Alt Forwardslash (/) is hippie completion in Emacs, analogous to omnicompletion in vim
 
 -- Alt 0 brings focus to next display/screen
 -- Close parentheses goes to next session in tmux
