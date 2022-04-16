@@ -386,17 +386,18 @@ bind -r M-p   previous-window                                   # *:tabp* *:tabp
 bind -r M-s   choose-window                                     # *:tabs*
 bind -r Tab   last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
 bind 0        select-window -t:^                                # *:tabfir* *:tabfirst* *:tabr* *:tabrewind*
-bind 1        select-window -t:1
-bind 2        select-window -t:2
-bind 3        select-window -t:3
-bind 4        select-window -t:4
-bind 5        select-window -t:5
-bind 6        select-window -t:6
-bind 7        select-window -t:7
-bind 8        select-window -t:8
+bind 1        if-shell "tmux select-window -t :1" '' "new-window -t :1"
+bind 2        if-shell "tmux select-window -t :2" '' "new-window -t :2"
+bind 3        if-shell "tmux select-window -t :3" '' "new-window -t :3"
+bind 4        if-shell "tmux select-window -t :4" '' "new-window -t :4"
+bind 5        if-shell "tmux select-window -t :5" '' "new-window -t :5"
+bind 6        if-shell "tmux select-window -t :6" '' "new-window -t :6"
+bind 7        if-shell "tmux select-window -t :7" '' "new-window -t :7"
+bind 8        if-shell "tmux select-window -t :8" '' "new-window -t :8"
 bind 9        select-window -t:$                                # *:tabl* *:tablast*
 bind M-z      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/window.sh switch"
 bind T        break-pane                                        # *CTRL-W_T*
+# To use M-l to lowercaseWord, I have to type prefix: unbind-key -n M-l
 
 # Sessions are like buffers
 # https://github.com/sainnhe/tmux-fzf/issues/6
