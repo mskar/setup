@@ -491,41 +491,25 @@ end)
 
 local ctrl_alt = {"ctrl", "alt"}
 
--- Alt Left and Ctrl Alt B should be synonymous
-hs.hotkey.bind("alt", "left", function()
-  hs.window.focusedWindow():focusWindowWest()
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
+-- Ctrl Alt Left and Ctrl Alt B should be synonymous
 hs.hotkey.bind(ctrl_alt, "b", function()
   hs.window.focusedWindow():focusWindowWest()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- Alt Down and Ctrl Alt N should be synonymous
-hs.hotkey.bind("alt", "down", function()
-  hs.window.focusedWindow():focusWindowSouth()
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
+-- Ctrl Alt Down and Ctrl Alt N should be synonymous
 hs.hotkey.bind(ctrl_alt, "n", function()
   hs.window.focusedWindow():focusWindowSouth()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- Alt Up and Ctrl Alt P should be synonymous
-hs.hotkey.bind("alt", "up", function()
-  hs.window.focusedWindow():focusWindowNorth()
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
-hs.hotkey.bind(ctrl_alt, "up", function()
+-- Ctrl Alt Up and Ctrl Alt P should be synonymous
+hs.hotkey.bind(ctrl_alt, "p", function()
   hs.window.focusedWindow():focusWindowNorth()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
--- Alt Up and Ctrl Alt F should be synonymous
-hs.hotkey.bind("alt", "right", function()
-  hs.window.focusedWindow():focusWindowEast()
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
+-- Ctrl Alt Up and Ctrl Alt F should be synonymous
 hs.hotkey.bind(ctrl_alt, "f", function()
   hs.window.focusedWindow():focusWindowEast()
   centerMouseOnWindow(hs.window.focusedWindow())
