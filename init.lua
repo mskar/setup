@@ -406,6 +406,11 @@ hs.hotkey.bind("alt", "i", function()
 end)
 
 -- Alt J breaks line at point and indents in Emacs
+-- J focuses to your favorite Jetbrains IDE
+hs.hotkey.bind("alt", "j", function()
+  hs.application.launchOrFocus("PyCharm")
+  centerMouseOnWindow(hs.window.focusedWindow())
+end)
 
 -- Use Alt K to toggle macOS keyboard access
 -- System Preferences > Keyboard > Shortcuts > Keyboard > Turn keyboard access on or off

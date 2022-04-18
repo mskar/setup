@@ -23,7 +23,9 @@
   "r.rterm.mac" : "$(brew --prefix)\/Caskroom\/mambaforge\/base\/envs\/${workspaceFolderBasename}\/bin\/radian",
   "r.sessionWatcher" : true,
   "tabnine.experimentalAutoImports" : true,
-  "terminal.integrated.env.osx": {"FIG_NEW_SESSION": "1"},
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
   "terminal.integrated.fontFamily" : "FiraCode Nerd Font",
   "terminal.integrated.fontLigatures" : true,
   "terminal.integrated.fontSize" : 16,
