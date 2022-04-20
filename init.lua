@@ -323,7 +323,14 @@ function focusDisplay(d)
   end
 end
 
+-- Alt - focuses the window below the current window
 -- Alt Hyphen (-) is begin negative argument in Emacs
+-- ASCII character 45
+hs.hotkey.bind("alt", "-", function()
+  hs.window.focusedWindow():focusWindowSouth()
+  centerMouseOnWindow(hs.window.focusedWindow())
+end)
+
 -- Alt Period (.) is insert previous argument in bash / zsh
 -- Alt Forwardslash (/) is hippie completion in Emacs, analogous to omnicompletion in vim
 -- ASCII characters 44-47
@@ -331,6 +338,13 @@ end
 -- Note: Alt Shift Comma (,) goes to the start of the document in Emacs
 -- In Vim, use G
 -- In macOS, use Ctrl Command N instead of Alt Shift .
+
+-- Alt Semicolon (;) goes to the next window thanks to a shortcut set in System Preferences
+-- ASCII character 46
+-- This System Preferences shortcut also enables Alt Shift semicolon to go to the previous window
+-- I used Karabiner to have Alt comma send Alt Shift semicolon, so I can switch back and forth
+-- between windows using ; and , (similar to the vim motions repeat f, F, t, and T motions)
+-- Thanks to other Karabiner keyboard modification, I can hold Tab or Backslash instead of Alt
 
 -- Alt 0 brings focus to next display/screen
 -- Close parentheses goes to next session in tmux
@@ -354,15 +368,37 @@ hs.hotkey.bind("alt", "9", function()
   focusScreen(hs.window.focusedWindow():screen():previous())
 end)
 
--- Alt Semicolon (;) goes to the next window thanks to a shortcut set in System Preferences
--- ASCII character 46
--- This System Preferences shortcut also enables Alt Shift semicolon to go to the previous window
--- I used Karabiner to have Alt comma send Alt Shift semicolon, so I can switch back and forth
--- between windows using ; and , (similar to the vim motions repeat f, F, t, and T motions)
--- Thanks to other Karabiner keyboard modification, I can hold Tab or Backslash instead of Alt
-
+-- Alt = focuses the window above the current window
 -- Alt = (ASCII character 61) is count words in region in Emacs
--- Alt [ and Alt ] (ASCII character 91 and 93) are undefined
+-- ASCII character 61
+hs.hotkey.bind("alt", "=", function()
+  hs.window.focusedWindow():focusWindowNorth()
+  centerMouseOnWindow(hs.window.focusedWindow())
+end)
+
+-- Alt [ focuses the window to the left of the current window
+-- Alt [ is undefined in Emacs
+-- ASCII character 91
+hs.hotkey.bind("alt", "[", function()
+  hs.window.focusedWindow():focusWindowWest()
+  centerMouseOnWindow(hs.window.focusedWindow())
+end)
+
+-- Alt \ focuses the window behind the current window
+-- Mnemonic: BACKslash
+-- Alt \ deletes all whitespace around the cursor
+-- ASCII character 92
+hs.hotkey.bind("alt", "\\", function()
+  hs.window.focusedWindow():sendToBack()
+end)
+
+-- Alt ] focuses the window to the right of the current window
+-- Alt ] is undefined in Emacs
+-- ASCII character 93
+hs.hotkey.bind("alt", "]", function()
+  hs.window.focusedWindow():focusWindowEast()
+  centerMouseOnWindow(hs.window.focusedWindow())
+end)
 
 -- Alt Backtick (`) brings up the Hammerspoon console,
 -- like Ctrl ` in VS Code and GitHub Desktop
@@ -494,37 +530,13 @@ end)
 -- Alt Delete also deletes previous word in macOS
 -- ASCII character 127
 
-local ctrl_alt = {"ctrl", "alt"}
-
--- Ctrl Alt Left and Ctrl Alt B should be synonymous
-hs.hotkey.bind(ctrl_alt, "b", function()
-  hs.window.focusedWindow():focusWindowWest()
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
-
--- Ctrl Alt Down and Ctrl Alt N should be synonymous
-hs.hotkey.bind(ctrl_alt, "n", function()
-  hs.window.focusedWindow():focusWindowSouth()
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
-
--- Ctrl Alt Up and Ctrl Alt P should be synonymous
-hs.hotkey.bind(ctrl_alt, "p", function()
-  hs.window.focusedWindow():focusWindowNorth()
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
-
--- Ctrl Alt Up and Ctrl Alt F should be synonymous
-hs.hotkey.bind(ctrl_alt, "f", function()
-  hs.window.focusedWindow():focusWindowEast()
-  centerMouseOnWindow(hs.window.focusedWindow())
-end)
-
 ----------------------------------------------------------------
 -- MISCELLANEOUS BINDINGS
 ----------------------------------------------------------------
 -- Miscellaneous Bindings all use Ctrl Alt
 -- CopyQ shortcuts, which also use Ctrl Alt, are described below
+
+local ctrl_alt = {"ctrl", "alt"}
 
 -- CLIPBOARD MANAGEMENT
 
