@@ -1,9 +1,5 @@
 # Fig pre block. Keep at the top of this file.
-export PATH="${PATH}:${HOME}/.local/bin"
-eval "$(fig init zsh pre)"
-
-
-
+. "$HOME/.fig/shell/zshrc.pre.zsh"
 # Environment
 # https://github.com/sharkdp/fd#using-fd-with-fzf
 # https://github.com/junegunn/fzf#respecting-gitignore
@@ -963,7 +959,5 @@ if [ -f "/usr/local/Caskroom/mambaforge/base/etc/profile.d/mamba.sh" ]; then
 fi
 # <<< conda initialize <<<
 
-
-
 # Fig post block. Keep at the bottom of this file.
-eval "$(fig init zsh post)"
+. "$HOME/.fig/shell/zshrc.post.zsh"

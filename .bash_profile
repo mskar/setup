@@ -1,9 +1,5 @@
 # Fig pre block. Keep at the top of this file.
-export PATH="${PATH}:${HOME}/.local/bin"
-eval "$(fig init bash pre)"
-
-
-
+. "$HOME/.fig/shell/bash_profile.pre.bash"
 # ~/.bash_profile
 
 # Truncate current working directory in prompt
@@ -470,7 +466,5 @@ fi
 
 complete -C /usr/local/bin/bit bit
 
-
-
 # Fig post block. Keep at the bottom of this file.
-eval "$(fig init bash post)"
+. "$HOME/.fig/shell/bash_profile.post.bash"
