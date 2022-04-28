@@ -112,6 +112,10 @@ set expandtab
 let mapleader=' '
 let maplocalleader='\'
 
+" https://stackoverflow.com/questions/16622566/how-to-solve-the-collision-of-tab-key-mapping-of-ultisnips-plugin-in-the-vim
+" This seems to be necessary for coc tab completion to work
+let g:UltiSnipsExpandTrigger = "<f5>"
+
 " https://github.com/jiangmiao/auto-pairs#shortcuts
 let g:AutoPairsShortcutBackInsert = "<M-i>"
 let g:AutoPairsShortcutFastWrap = "<M-w>"
