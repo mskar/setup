@@ -1,6 +1,6 @@
 {
   "editor.accessibilitySupport" : "off",
-  "editor.fontFamily" : "FiraCode Nerd Font",
+  "editor.fontFamily" : "Ewka Nerd Font",
   "editor.fontLigatures" : true,
   "editor.fontSize" : 16,
   "editor.inlineSuggest.enabled": true,
@@ -16,7 +16,7 @@
   "python.analysis.completeFunctionParens" : true,
   "python.analysis.typeCheckingMode" : "basic",
   "python.autoComplete.addBrackets" : true,
-  "python.defaultInterpreterPath" : "$(brew --prefix)\/Caskroom\/mambaforge\/base\/envs\/${workspaceFolderBasename}\/bin\/python",
+  "python.defaultInterpreterPath" : "/usr/local/Caskroom/mambaforge/base/bin/python",
   "python.languageServer" : "Pylance",
   "r.alwaysUseActiveTerminal" : true,
   "r.bracketedPaste" : true,
@@ -26,13 +26,16 @@
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
   },
-  "terminal.integrated.fontFamily" : "FiraCode Nerd Font",
+  "terminal.integrated.fontFamily" : "Ewka Nerd Font",
   "terminal.integrated.fontLigatures" : true,
   "terminal.integrated.fontSize" : 16,
   "terminal.integrated.macOptionIsMeta" : true,
   "vscode-neovim.neovimExecutablePaths.darwin" : "\/usr\/local\/bin\/nvim",
   "vscode-neovim.neovimInitVimPaths.darwin" : "$HOME\/.config\/nvim\/init.vim",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "window.zoomLevel" : 0,
-  "workbench.editorAssociations" : {"*.ipynb" : "jupyter.notebook.ipynb"}
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "git.confirmSync": false,
+  "window.zoomLevel": 1
 }
