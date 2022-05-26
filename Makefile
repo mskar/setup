@@ -53,7 +53,7 @@ coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: $(shell brew --prefix)/bin/conda
 copyq: /Applications/CopyQ.app
 default: ~/Library/KeyBindings/DefaultKeyBinding.dict
-emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom.d/doom-emacs ~/.config/doom ~/.config/doom/config.el ~/.config/doom/package.el
+emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom.d ~/.config/doom ~/.config/doom/config.el ~/.config/doom/package.el
 exa: $(EXA)
 fasd: $(FASD)
 fd: $(FD)

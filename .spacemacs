@@ -71,7 +71,6 @@ This function should only modify configuration layer settings."
    ;; `dotspacemacs/user-config'. To use a local version of a package, use the
    ;; `:location' property: '(your-package :location "~/path/to/your-package/")
    ;; Also include the dependencies as they will not be resolved automatically.
-   dotspacemacs-additional-packages '((term-cursor :location (recipe :fetcher github :repo "h0d/term-cursor.el" )))
 
    ;; A list of packages that cannot be updated.
    dotspacemacs-frozen-packages '()
@@ -527,7 +526,6 @@ before packages are loaded."
     (interactive "p")
     (kill-line (- 1 arg)))
 
-  (global-term-cursor-mode)
 
   ;; Don't let evil-snipe remap s and S
   (evil-snipe-mode -1)
