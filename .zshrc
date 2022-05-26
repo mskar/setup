@@ -6,7 +6,8 @@
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 export PATH=~/.local/bin:/usr/local/texlive/2021basic/bin/universal-darwin:/usr/local/bin:$PATH
-export DOOMDIR=$HOME/.doom/doom-emacs-config
+export DOOMDIR=$HOME/.config/doom
+export PATH=~/.doom.d/bin:$PATH
 export EDITOR=$(brew --prefix)/bin/nvim
 export MANPAGER="nvim +Man! +Page"
 export MANWIDTH=999

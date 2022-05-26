@@ -1,6 +1,6 @@
 ln -fs ~/mskar/setup/.ideavimrc ~/.ideavimrc
 ln -fs ~/mskar/setup/.spacemacs ~/.spacemacs
-ln -fs ~/mskar/setup/config.el ~/.doom/doom-emacs-config/config.el
+ln -fs ~/mskar/setup/config.el ~/.config/doom/config.el
 ln -fs ~/mskar/setup/karabiner.json ~/.config/karabiner/
 ln -sf ~/mskar/setup/.bash_profile ~/.bash_profile
 ln -sf ~/mskar/setup/.gitconfig ~/.gitconfig
@@ -31,7 +31,7 @@ ln -sf ~/mskar/setup/keybindings.json ~/Library/Application\ Support/Code/User/k
 ln -sf ~/mskar/setup/macos.terminal ~/macos.terminal
 ln -sf ~/mskar/setup/config.lua ~/.config/lvim/config.lua
 ln -sf ~/mskar/setup/myspacevim.vim ~/.SpaceVim.d/autoload/myspacevim.vim
-ln -sf ~/mskar/setup/packages.el ~/.doom/doom-emacs-config/packages.el
+ln -sf ~/mskar/setup/packages.el ~/.config/doom/packages.el
 ln -sf ~/mskar/setup/pandoc.vim ~/.config/nvim/plugged/vim-pandoc-syntax/syntax/pandoc.vim
 ln -sf ~/mskar/setup/rstudio-prefs.json ~/.config/rstudio/rstudio-prefs.json
 ln -sf ~/mskar/setup/rstudio_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json

@@ -397,19 +397,19 @@ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 curl https://raw.githubusercontent.com/mskar/setup/main/.spacemacs -o ~/.spacemacs
 
 ### Doom emacs
-git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.doom/doom-emacs
+git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.doom.d
 
-export DOOMDIR=~/.doom/doom-emacs-config
+export DOOMDIR=~/.config/doom/
 
 mkdir -p "$DOOMDIR"
 
-echo | ~/.doom/doom-emacs/bin/doom install
+yes y | ~/.doom.d/bin/doom install
 
-curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.doom/doom-emacs-config/config.el
+curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.config/doom/config.el
 
-curl https://raw.githubusercontent.com/mskar/setup/main/packages.el -o ~/.doom/doom-emacs-config/packages.el
+curl https://raw.githubusercontent.com/mskar/setup/main/packages.el -o ~/.config/doom/packages.el
 
-~/.doom/doom-emacs/bin/doom sync
+~/.doom.d/bin/doom sync
 
 ## Set up oh my tmux
 curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf

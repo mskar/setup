@@ -53,7 +53,7 @@ coc: ~/.vim/coc-settings.json ~/.config/nvim/coc-settings.json
 conda: $(shell brew --prefix)/bin/conda
 copyq: /Applications/CopyQ.app
 default: ~/Library/KeyBindings/DefaultKeyBinding.dict
-emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom/doom-emacs ~/.doom/doom-emacs-config ~/.doom/doom-emacs-config/config.el ~/.doom/doom-emacs-config/package.el
+emacs: $(EMACS) ~/.emacs.d ~/.spacemacs ~/.doom.d/doom-emacs ~/.config/doom ~/.config/doom/config.el ~/.config/doom/package.el
 exa: $(EXA)
 fasd: $(FASD)
 fd: $(FD)
@@ -159,17 +159,17 @@ $(EMACS):
 	-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ~/.spacemacs: ~/mskar/setup/.spacemacs
 	-ln -fs ~/mskar/setup/.spacemacs ~/.spacemacs
-~/.doom/doom-emacs:
-	git clone https://github.com/hlissner/doom-emacs ~/.doom/doom-emacs
-~/.doom/doom-emacs-config:
-	export DOOMDIR=~/.doom/doom-emacs-config
-	mkdir -p ~/.doom/doom-emacs-config
-	~/.doom/doom-emacs/bin/doom install
-~/.doom/doom-emacs-config/config.el: ~/mskar/setup/config.el
-	-ln -fs ~/mskar/setup/config.el ~/.doom/doom-emacs-config/config.el
-~/.doom/doom-emacs-config/package.el: ~/mskar/setup/package.el
-	-ln -fs ~/mskar/setup/package.el ~/.doom/doom-emacs-config/package.el
-	~/.doom/doom-emacs/bin/doom sync
+~/.doom.d:
+	git clone https://github.com/hlissner/doom-emacs ~/.doom.d
+~/.config/doom:
+	export DOOMDIR=~/.config/doom
+	mkdir -p ~/.config/doom
+	~/.doom.d/bin/doom install
+~/.config/doom/config.el: ~/mskar/setup/config.el
+	-ln -fs ~/mskar/setup/config.el ~/.config/doom/config.el
+~/.config/doom/package.el: ~/mskar/setup/package.el
+	-ln -fs ~/mskar/setup/package.el ~/.config/doom/package.el
+	~/.doom.d/bin/doom sync
 $(EXA):
 	-brew install exa
 $(FASD):
