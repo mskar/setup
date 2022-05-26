@@ -1,5 +1,6 @@
 tap "browsh-org/browsh"
 tap "clementtsang/bottom"
+tap "d12frosted/emacs-plus"
 tap "eth-p/software"
 tap "homebrew/bundle"
 tap "homebrew/cask"
@@ -16,6 +17,8 @@ brew "bat"
 brew "eth-p/software/bat-extras"
 # Bit is a modern Git CLI
 brew "bit-git"
+# Yet another cross-platform graphical process/system monitor
+brew "bottom"
 # Vector graphics library with cross-device output support
 brew "cairo"
 # GNU File, Shell, and Text utilities
@@ -96,18 +99,22 @@ brew "tig"
 brew "tldr"
 # Terminal multiplexer
 brew "tmux"
+# Vi 'workalike' with many additional features
+brew "vim"
 # Internet file retriever
 brew "wget"
 # PDF viewer
 brew "xpdf"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Fish-like fast/unobtrusive autosuggestions for zsh
 brew "zsh-autosuggestions"
 # Fish shell like syntax highlighting for zsh
 brew "zsh-syntax-highlighting"
 # The modern, text-based browser
 brew "browsh-org/browsh/browsh"
-# A cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
-brew "bottom"
+# Doom Emacs recommends Emacs 27.2
+brew "d12frosted/emacs-plus/emacs-plus@27"
 # A Zsh Theme
 brew "romkatv/powerlevel10k/powerlevel10k"
 # Maintained ctags implementation
@@ -116,18 +123,18 @@ brew "universal-ctags/universal-ctags/universal-ctags", args: ["HEAD"]
 cask "adobe-acrobat-reader"
 # Application launcher and productivity software
 cask "alfred"
-# Utility to set up alt-tab to switch between windows
+# Enable Windows-like alt-tab
 cask "alt-tab"
 # Compact TeX distribution as alternative to the full TeX Live / MacTeX
 cask "basictex"
+# Desktop password and login vault
+cask "bitwarden"
 # Clipboard manager with advanced features
 cask "copyq"
 # App to build and share containerized applications and microservices
 cask "docker"
 # Tool to hide status bar icons
 cask "dozer"
-# Text editor
-cask "emacs"
 # Reimagine your terminal
 cask "fig"
 cask "font-fira-code-nerd-font"
