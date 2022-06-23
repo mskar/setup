@@ -399,7 +399,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.spacemacs -o ~/.spacema
 ### Doom emacs
 git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.doom.d
 
-export DOOMDIR=~/.config/doom/
+DOOMDIR=~/.config/doom/
 
 mkdir -p "$DOOMDIR"
 

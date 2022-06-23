@@ -1,5 +1,5 @@
 # Fig pre block. Keep at the top of this file.
-. "$HOME/.fig/shell/zshrc.pre.zsh"
+[[ -f "$HOME/.fig/shell/zshrc.pre.zsh" ]] && . "$HOME/.fig/shell/zshrc.pre.zsh"
 # Environment
 # https://github.com/sharkdp/fd#using-fd-with-fzf
 # https://github.com/junegunn/fzf#respecting-gitignore
@@ -429,7 +429,11 @@ alias jtr="func() { local file=$(echo '${1:-${PWD##*/}}.r') && touch $(echo '$fi
 alias jts="jupytext --sync"
 alias jtt="jupytext --to"
 alias k="func() { ntimes=$(echo '$(printf "%$@s")') && [ -d $(echo '${ntimes// /../}') ] && cd $(echo '${ntimes// /../}'); }; func"
-alias kg="func() { local label=$(echo '${1:-$(sysctl hw.model | cut -d\  -f2)}') && ssh-keygen -t rsa -b 4096 -f ~/.ssh/$(echo '$label') -C $(echo '$label') && ssh-add ~/.ssh/$(echo '$label') && cat ~/.ssh/$(echo '$label').pub | pbcopy && echo 'Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/'$(echo '$label') >> ~/.ssh/config; }; func"
+alias ka="func() { ssh-add --apple-use-keychain ~/.ssh/$(echo  '${1:-$(whoami)_$(sysctl hw.model | cut -d\  -f2)}'); }; func" # key add
+alias kaf="func() { local pubs=$(echo '$(ls ~/.ssh/*.pub | fzf --delimiter=/ --with-nth=5..)') && [ $(echo '$pubs') ] && echo $(echo '$pubs') | sed 's/.pub$//' | tr '\n' '\0' | xargs -0 -n1 -I '{}' ssh-add --apple-use-keychain '{}'; }; func" # key add fzf
+alias kc="func() { cat ~/.ssh/$(echo  '${1:-$(whoami)_$(sysctl hw.model | cut -d\  -f2)}.pub') | pbcopy; }; func" # key cat / copy
+alias kcf="func() { local pubs=$(echo '$(ls ~/.ssh/*.pub | fzf --delimiter=/ --with-nth=5..)') && [ $(echo '$pubs') ] && echo $(echo '$pubs') |  tr '\n' '\0' | xargs -0 -n1 -I '{}' cat '{}' | pbcopy; }; func" # key cat / copy fzf
+alias kg="func() { local label=$(echo '${1:-$(whoami)_$(sysctl hw.model | cut -d\  -f2)}') && ssh-keygen -t rsa -b 4096 -f ~/.ssh/$(echo '$label') -C $(echo '$label') && ssh-add ~/.ssh/$(echo '$label') && cat ~/.ssh/$(echo '$label').pub | pbcopy && echo 'Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/'$(echo '$label') >> ~/.ssh/config; }; func" # key gen
 alias l="~/.local/bin/lvim"
 alias lS="func() { lvim -S $(echo '${@:-~/session.vim}'); }; func"
 alias la="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim $(echo '$@') --; }; func"
@@ -682,8 +686,6 @@ alias sacrp="git submodule foreach git add --all && git submodule foreach git co
 alias sacrpf="git submodule foreach git add --all && git submodule foreach git commit --reset-author --reuse-message=HEAD && git submodule foreach git push --force-if-includes --force-with-lease"
 alias saif="softwareupdate --all --install --force"
 alias sak="ssh-agent -k"
-alias sal="ssh-add --apple-load-keychain"
-alias sau="func() { ssh-add --apple-use-keychain ~/.ssh/$(echo '$1'); }; func"
 alias sb="git stash branch"
 alias sc="git stash clear"
 alias scaa="git submodule foreach git commit --all --amend --reset-author"
@@ -962,4 +964,4 @@ fi
 # <<< conda initialize <<<
 
 # Fig post block. Keep at the bottom of this file.
-. "$HOME/.fig/shell/zshrc.post.zsh"
+[[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && . "$HOME/.fig/shell/zshrc.post.zsh"
