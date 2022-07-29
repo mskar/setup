@@ -552,6 +552,8 @@ before packages are loaded."
   (evil-define-key 'normal global-map (kbd "C-a") 'evil-numbers/inc-at-pt)
   (evil-define-key 'normal global-map (kbd "C-x") 'evil-numbers/dec-at-pt)
 
+  (evil-want-Y-yank-to-eol t)
+
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
