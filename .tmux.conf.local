@@ -452,7 +452,6 @@ set -g @plugin 'laktak/extrakto' # tab
 set -g @plugin 'roosta/tmux-fuzzback' # ?
 set -g @plugin 'sainnhe/tmux-fzf' # z i
 set -g @plugin 'tmux-plugins/tmux-continuum'
-set -g @plugin 'tmux-plugins/tmux-copycat' # / https://github.com/tmux-plugins/tmux-copycat#search
 set -g @plugin 'tmux-plugins/tmux-fpp' # f
 set -g @plugin 'tmux-plugins/tmux-resurrect' # S B
 set -g @plugin 'tmux-plugins/tpm'
