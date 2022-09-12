@@ -742,6 +742,7 @@
                                         "optional": [
                                             "caps_lock",
                                             "command",
+                                            "shift",
                                             "option"
                                         ]
                                     }
@@ -816,6 +817,7 @@
                                         "optional": [
                                             "caps_lock",
                                             "command",
+                                            "shift",
                                             "option"
                                         ]
                                     }
