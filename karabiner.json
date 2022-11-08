@@ -16,6 +16,58 @@
                 },
                 "rules": [
                     {
+                        "description": "Change hyphen (-) to command if pressed with other keys, to minus if pressed alone.",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "hyphen",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_command"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "key_code": "hyphen"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "Change backtick (`) to command if pressed with other keys, to backtick if pressed alone.",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "grave_accent_and_tilde",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_command"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "key_code": "grave_accent_and_tilde"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
                         "description": "Change caps_lock to control if pressed with other keys, to escape if pressed alone.",
                         "manipulators": [
                             {
@@ -67,11 +119,11 @@
                         ]
                     },
                     {
-                        "description": "Change backslash to option if pressed with other keys, to backslash if pressed alone",
+                        "description": "Change open square bracket ([) to option if pressed with other keys, to open square bracket if pressed alone",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "backslash",
+                                    "key_code": "open_bracket",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -85,7 +137,7 @@
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "key_code": "backslash"
+                                        "key_code": "open_bracket"
                                     }
                                 ],
                                 "type": "basic"
@@ -119,11 +171,11 @@
                         ]
                     },
                     {
-                        "description": "Change enter to control if pressed with other keys, to enter if pressed alone",
+                        "description": "Change quote (') to control if pressed with other keys, to quote if pressed alone",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "return_or_enter",
+                                    "key_code": "quote",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -137,7 +189,7 @@
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "key_code": "return_or_enter"
+                                        "key_code": "quote"
                                     }
                                 ],
                                 "type": "basic"
