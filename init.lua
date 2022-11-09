@@ -84,12 +84,6 @@ function moveWindowToDisplay(d)
   end
 end
 
-function moveWindowToSpace(s)
-    local win = hs.window.focusedWindow()
-    local hs.spaces.moveWindow(win:id(), s)
-    hs.spaces.gotoSpace(spaceID)
-end
-
 ----------------------------------------------------------------
 -- CTRL ONLY SHORTCUTS
 ----------------------------------------------------------------
@@ -118,6 +112,7 @@ spoon.MiroWindowsManager:bindHotkeys({
   left = {"ctrl", "["},
   right = {"ctrl", "]"},
 })
+
 
 -- Ctrl Comma (,) shrinks the window horizontally
 -- ASCII character 44
