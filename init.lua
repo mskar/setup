@@ -79,6 +79,9 @@ end
 function moveWindowToDisplay(d)
   return function()
     win = hs.window.focusedWindow()
+    if win:isFullScreen() then
+      win:setFullScreen(false)
+    end
     win:moveToScreen(hs.screen.allScreens()[d], true, true)
     centerMouseOnWindow(win)
   end
