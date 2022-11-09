@@ -84,6 +84,12 @@ function moveWindowToDisplay(d)
   end
 end
 
+function moveWindowToSpace(s)
+    local win = hs.window.focusedWindow()
+    local hs.spaces.moveWindow(win:id(), s)
+    hs.spaces.gotoSpace(spaceID)
+end
+
 ----------------------------------------------------------------
 -- CTRL ONLY SHORTCUTS
 ----------------------------------------------------------------
@@ -118,6 +124,9 @@ spoon.MiroWindowsManager:bindHotkeys({
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L392
 hs.hotkey.bind("ctrl", ",", function()
   local win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   local cw = current_window_rect(win)
   local move_to_rect = {}
   move_to_rect[1] = cw[1] == 0 and 0 or math.min(cw[1]+0.04,1) -- x
@@ -131,6 +140,9 @@ end)
 -- ASCII character 45
 hs.hotkey.bind("ctrl", "-", function()
   local win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   local cw = current_window_rect(win)
   local move_to_rect = {}
   move_to_rect[1] = cw[1]
@@ -145,6 +157,9 @@ end)
 -- ASCII character 46
 hs.hotkey.bind("ctrl", ".", function()
   local win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   local cw = current_window_rect(win)
   local move_to_rect = {}
   move_to_rect[1] = math.max(cw[1]-0.04,0) -- x
@@ -159,6 +174,9 @@ end)
 -- ASCII character 48
 hs.hotkey.bind("ctrl", "0", function()
   local win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   win:setFullScreen(false)
   win:moveToScreen(win:screen():next(), true, true)
   centerMouseOnWindow(win)
@@ -178,7 +196,9 @@ hs.hotkey.bind("ctrl", "4", moveWindowToDisplay(4))
 -- ASCII character 57
 hs.hotkey.bind("ctrl", "9", function()
   local win = hs.window.focusedWindow()
-  win:setFullScreen(false)
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   win:moveToScreen(win:screen():previous(), true, true)
   centerMouseOnWindow(win)
 end)
@@ -190,6 +210,9 @@ end)
 -- ASCII character 61
 hs.hotkey.bind("ctrl", "=", function()
   local win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   local cw = current_window_rect(win)
   local move_to_rect = {}
   move_to_rect[1] = cw[1]
@@ -204,7 +227,11 @@ end)
 -- works great with / and ' to create a triple horizontal split
 -- ASCII character 92
 hs.hotkey.bind("ctrl", "\\", function()
-  hs.window.focusedWindow():centerOnScreen(nil, true)
+  local win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
+  win:centerOnScreen(nil, true)
 end)
 
 -- Ctrl A goes to the beginning of the line in macOS and GNU Emacs/Readline
@@ -254,6 +281,9 @@ function nudgeLeft(d)
 end
 hs.hotkey.bind("ctrl", "left", function()
   win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   win:setFrame(nudgeLeft(win:frame()))
 end)
 
@@ -268,6 +298,9 @@ function nudgeRight(d)
 end
 hs.hotkey.bind("ctrl", "right", function()
   win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   win:setFrame(nudgeRight(win:frame()))
 end)
 
@@ -282,6 +315,9 @@ function nudgeDown(d)
 end
 hs.hotkey.bind("ctrl", "down", function()
   win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   win:setFrame(nudgeDown(win:frame()))
 end)
 
@@ -296,6 +332,9 @@ function nudgeUp(d)
 end
 hs.hotkey.bind("ctrl", "up", function()
   win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
   win:setFrame(nudgeUp(win:frame()))
 end)
 
@@ -327,7 +366,11 @@ end
 -- Alt Hyphen (-) is begin negative argument in Emacs
 -- ASCII character 45
 hs.hotkey.bind("alt", "-", function()
-  hs.window.focusedWindow():focusWindowSouth()
+  local win = hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
+  win:focusWindowSouth()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
 
