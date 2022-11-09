@@ -241,6 +241,8 @@ curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspo
 ### use `Alt Shift` as the modifier à la Amethyst
 curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindowsManager.spoon.zip | tar -xf - -C ~/.hammerspoon/Spoons
 
+curl https://raw.githubusercontent.com/mskar/setup/main/MiroWindowsManager.lua -o ~/.hammerspoon/Spoons/MiroWindowsManager.spoon/init.lua --create-dirs
+
 # CopyQ
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
 

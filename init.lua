@@ -81,8 +81,10 @@ function moveWindowToDisplay(d)
     win = hs.window.focusedWindow()
     if win:isFullScreen() then
       win:setFullScreen(false)
+      win:moveToScreen(hs.screen.allScreens()[d], false, true, 1)
+    else
+      win:moveToScreen(hs.screen.allScreens()[d], false, true)
     end
-    win:moveToScreen(hs.screen.allScreens()[d], true, true)
     centerMouseOnWindow(win)
   end
 end
@@ -114,6 +116,7 @@ spoon.MiroWindowsManager:bindHotkeys({
   down = {"ctrl", "/"}, -- Mnemonic: the slash is falling down
   left = {"ctrl", "["},
   right = {"ctrl", "]"},
+  nextscreen = {"ctrl", "0"},
 })
 
 
@@ -174,9 +177,10 @@ hs.hotkey.bind("ctrl", "0", function()
   local win = hs.window.focusedWindow()
   if win:isFullScreen() then
     win:setFullScreen(false)
+    win:moveToScreen(win:screen():next(), false, true, 1)
+  else
+    win:moveToScreen(win:screen():next(), false, true)
   end
-  win:setFullScreen(false)
-  win:moveToScreen(win:screen():next(), true, true)
   centerMouseOnWindow(win)
 end)
 
@@ -196,8 +200,10 @@ hs.hotkey.bind("ctrl", "9", function()
   local win = hs.window.focusedWindow()
   if win:isFullScreen() then
     win:setFullScreen(false)
+    win:moveToScreen(win:screen():next(), false, true, 1)
+  else
+    win:moveToScreen(win:screen():next(), false, true)
   end
-  win:moveToScreen(win:screen():previous(), true, true)
   centerMouseOnWindow(win)
 end)
 

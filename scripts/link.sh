@@ -23,6 +23,7 @@ ln -sf ~/mskar/setup/config.py ~/Library/Application\ Support/ptpython/config.py
 ln -sf ~/mskar/setup/editor_bindings.json ~/.config/rstudio/keybindings/editor_bindings.json
 ln -sf ~/mskar/setup/ginit.vim ~/.config/nvim/ginit.vim
 ln -sf ~/mskar/setup/init.lua ~/.hammerspoon/init.lua
+ln -sf ~/mskar/setup/MiroWindowsManager.lua ~/.hammerspoon/Spoons/MiroWindowsManager.spoon/init.lua
 ln -sf ~/mskar/setup/init.toml ~/.SpaceVim.d/init.toml
 ln -sf ~/mskar/setup/init.vim ~/.config/nvim/init.vim
 ln -sf ~/mskar/setup/ipython_config.py ~/.ipython/profile_default/ipython_config.py
