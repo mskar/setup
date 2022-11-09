@@ -250,6 +250,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -325,6 +326,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -401,6 +403,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -478,6 +481,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -555,6 +559,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -632,6 +637,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -707,6 +713,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -780,6 +787,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -855,6 +863,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1068,6 +1077,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1187,6 +1197,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1263,6 +1274,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1346,6 +1358,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1424,6 +1437,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1502,6 +1516,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1584,6 +1599,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1661,6 +1677,7 @@
                                             "^com\\.jetbrains\\.cwm\\.guest$",
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
+                                            "^md\\.obsidian$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
