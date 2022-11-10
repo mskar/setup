@@ -201,9 +201,9 @@ hs.hotkey.bind("ctrl", "9", function()
   local win = hs.window.focusedWindow()
   if win:isFullScreen() then
     win:setFullScreen(false)
-    win:moveToScreen(win:screen():next(), false, true, 1)
+    win:moveToScreen(win:screen():previous(), false, true, 1)
   else
-    win:moveToScreen(win:screen():next(), false, true)
+    win:moveToScreen(win:screen():previous(), false, true)
   end
   centerMouseOnWindow(win)
 end)
