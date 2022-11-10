@@ -89,6 +89,13 @@ function moveWindowToDisplay(d)
   end
 end
 
+function exitFullScreen(win)
+  local win = win or hs.window.focusedWindow()
+  if win:isFullScreen() then
+    win:setFullScreen(false)
+  end
+end
+
 ----------------------------------------------------------------
 -- CTRL ONLY SHORTCUTS
 ----------------------------------------------------------------
@@ -125,9 +132,7 @@ spoon.MiroWindowsManager:bindHotkeys({
 -- https://github.com/Hammerspoon/Spoons/blob/master/Source/WindowHalfsAndThirds.spoon/init.lua#L392
 hs.hotkey.bind("ctrl", ",", function()
   local win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   local cw = current_window_rect(win)
   local move_to_rect = {}
   move_to_rect[1] = cw[1] == 0 and 0 or math.min(cw[1]+0.04,1) -- x
@@ -141,9 +146,7 @@ end)
 -- ASCII character 45
 hs.hotkey.bind("ctrl", "-", function()
   local win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   local cw = current_window_rect(win)
   local move_to_rect = {}
   move_to_rect[1] = cw[1]
@@ -158,9 +161,7 @@ end)
 -- ASCII character 46
 hs.hotkey.bind("ctrl", ".", function()
   local win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   local cw = current_window_rect(win)
   local move_to_rect = {}
   move_to_rect[1] = math.max(cw[1]-0.04,0) -- x
@@ -214,9 +215,7 @@ end)
 -- ASCII character 61
 hs.hotkey.bind("ctrl", "=", function()
   local win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   local cw = current_window_rect(win)
   local move_to_rect = {}
   move_to_rect[1] = cw[1]
@@ -232,9 +231,7 @@ end)
 -- ASCII character 92
 hs.hotkey.bind("ctrl", "\\", function()
   local win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   win:centerOnScreen(nil, true)
 end)
 
@@ -285,9 +282,7 @@ function nudgeLeft(d)
 end
 hs.hotkey.bind("ctrl", "left", function()
   win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   win:setFrame(nudgeLeft(win:frame()))
 end)
 
@@ -302,9 +297,7 @@ function nudgeRight(d)
 end
 hs.hotkey.bind("ctrl", "right", function()
   win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   win:setFrame(nudgeRight(win:frame()))
 end)
 
@@ -319,9 +312,7 @@ function nudgeDown(d)
 end
 hs.hotkey.bind("ctrl", "down", function()
   win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   win:setFrame(nudgeDown(win:frame()))
 end)
 
@@ -336,9 +327,7 @@ function nudgeUp(d)
 end
 hs.hotkey.bind("ctrl", "up", function()
   win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   win:setFrame(nudgeUp(win:frame()))
 end)
 
@@ -371,9 +360,7 @@ end
 -- ASCII character 45
 hs.hotkey.bind("alt", "-", function()
   local win = hs.window.focusedWindow()
-  if win:isFullScreen() then
-    win:setFullScreen(false)
-  end
+  exitFullScreen(win)
   win:focusWindowSouth()
   centerMouseOnWindow(hs.window.focusedWindow())
 end)
