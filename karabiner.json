@@ -16,11 +16,11 @@
                 },
                 "rules": [
                     {
-                        "description": "Change hyphen (-) to command if pressed with other keys, to minus if pressed alone.",
+                        "description": "Change equal_sign (=) to command if pressed with other keys, to equal_sign if pressed alone.",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "hyphen",
+                                    "key_code": "equal_sign",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -34,7 +34,7 @@
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "key_code": "hyphen"
+                                        "key_code": "equal_sign"
                                     }
                                 ],
                                 "type": "basic"
@@ -119,11 +119,11 @@
                         ]
                     },
                     {
-                        "description": "Change open square bracket ([) to option if pressed with other keys, to open square bracket if pressed alone",
+                        "description": "Change close square bracket (]) to option if pressed with other keys, to close square bracket if pressed alone",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "open_bracket",
+                                    "key_code": "close_bracket",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -137,7 +137,7 @@
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "key_code": "open_bracket"
+                                        "key_code": "close_bracket"
                                     }
                                 ],
                                 "type": "basic"
@@ -171,11 +171,11 @@
                         ]
                     },
                     {
-                        "description": "Change quote (') to control if pressed with other keys, to quote if pressed alone",
+                        "description": "Change return_or_enter to control if pressed with other keys, to return_or_enter if pressed alone",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "quote",
+                                    "key_code": "return_or_enter",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -189,7 +189,7 @@
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "key_code": "quote"
+                                        "key_code": "return_or_enter"
                                     }
                                 ],
                                 "type": "basic"
@@ -251,6 +251,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -327,6 +328,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -404,6 +406,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -482,6 +485,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -560,6 +564,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -638,6 +643,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -714,6 +720,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -788,6 +795,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -864,6 +872,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1078,6 +1087,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1198,6 +1208,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1275,6 +1286,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1359,6 +1371,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1438,6 +1451,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1517,6 +1531,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1600,6 +1615,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1678,6 +1694,7 @@
                                             "^org\\.rstudio\\.RStudio$",
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
+                                            "^dev\\.Warp\\.Warp-Stable$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
