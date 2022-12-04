@@ -368,7 +368,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/kitty.conf -o ~/.config/
 
 curl https://raw.githubusercontent.com/mskar/setup/main/.hyper.js -o ~/.hyper.js --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/config.yaml -o /Users/martinskarzynski/Library/Application\ Support/tabby/config.yaml --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/config.yaml -o ~/Library/Application\ Support/tabby/config.yaml --create-dirs
 
 # CopyQ
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
