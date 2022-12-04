@@ -93,10 +93,10 @@ module.exports = {
         //
         // Cygwin
         // - Example: `C:\\cygwin64\\bin\\bash.exe`
-        shell: '',
+        // shell: '/usr/local/bin/zsh',
         // for setting shell arguments (i.e. for using interactive shellArgs: `['-i']`)
         // by default `['--login']` will be used
-        shellArgs: ['--login'],
+        // shellArgs: ['-lc', 'tmux attach || tmux new'],
         // for environment variables
         env: {},
         // Supported Options:
@@ -143,9 +143,10 @@ module.exports = {
     // `~/.hyper_plugins/local/` and include it here
     // to load it and avoid it being `npm install`ed
     localPlugins: [],
-    keymaps: {
+    // keymaps: {
     // Example
     // 'window:devtools': 'cmd+alt+o',
-    },
+        // 'Ctrl+q': 'Ctrl+;'
+    // },
 };
 //# sourceMappingURL=config-default.js.map
