@@ -450,25 +450,8 @@ curl https://raw.githubusercontent.com/mskar/setup/main/tabnine_config.json -o ~
 /usr/local/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python
 
 # 7: Code editors
-### Radian, ipython, ptpython, and jupyter-vimrc extension
-/usr/local/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab_vim jupyterlab-vimrc
-
-## Visual Studio Code (vscodium)
-curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
-
-curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json
-
-codium --install-extension ms-vsliveshare.vsliveshare --force
-
-codium --install-extension ms-python.python --force
-
-codium --install-extension ritwickdey.LiveServer --force
-
-codium --install-extension ikuyadeu.r --force
-
-codium --install-extension tabnine.tabnine-vscode --force
-
-codium --install-extension asvetliakov.vscode-neovim --force
+### Radian, ipython, ptpython, and jupyterlab vim extension and dependencies for vim and coc
+/usr/local/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab_vim node neovim
 
 ### Jupyter settings
 curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
