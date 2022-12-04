@@ -164,7 +164,7 @@ killall Dock
 ## Only one key is needed per computer
 ## The label is MacBook model
 
-local label=$(sysctl hw.model | cut -d\  -f2)
+label=$(sysctl hw.model | cut -d\  -f2)
 
 ssh-keygen -t rsa -b 4096 -f ~/.ssh/$label -C $label
 
@@ -196,7 +196,7 @@ curl https://github.com/mskar/setup/raw/main/DefaultKeyBinding.dict -o ~/Library
 
 # 3: Brew - commandline package manager
 ## Install Homebrew (this also installs xcode tools needed for git)
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 git config --global user.email 13444106+mskar@users.noreply.github.com
 
