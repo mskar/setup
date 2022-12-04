@@ -318,7 +318,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -
 
 git config --global user.email 13444106+mskar@users.noreply.github.com
 
-curl https://raw.githubusercontent.com/mskar/setup/main/Brewfile -o ~/.Brewfile
+curl https://raw.githubusercontent.com/mskar/setup/main/.Brewfile -o ~/.Brewfile
 
 brew bundle install --global || true
 
@@ -364,7 +364,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/MiroWindowsManager.lua -
 # Terminal config files
 curl https://raw.githubusercontent.com/mskar/setup/main/alacritty.yml -o ~/.config/alacritty/alacritty.yml --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/kitty.config -o ~/.config/kitty/kitty.config --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/kitty.conf -o ~/.config/kitty/kitty.conf --create-dirs
 
 curl https://raw.githubusercontent.com/mskar/setup/main/.hyper.js -o ~/.hyper.js --create-dirs
 
