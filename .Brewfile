@@ -1,6 +1,5 @@
 tap "browsh-org/browsh"
 tap "clementtsang/bottom"
-tap "d12frosted/emacs-plus"
 tap "eth-p/software"
 tap "homebrew/bundle"
 tap "homebrew/cask"
@@ -114,7 +113,7 @@ brew "zsh-syntax-highlighting"
 # The modern, text-based browser
 brew "browsh-org/browsh/browsh"
 # Doom Emacs recommends Emacs 27.2
-brew "d12frosted/emacs-plus/emacs-plus@27"
+brew "emacs"
 # A Zsh Theme
 brew "romkatv/powerlevel10k/powerlevel10k"
 # Maintained ctags implementation

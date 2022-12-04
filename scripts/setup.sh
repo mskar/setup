@@ -1,9 +1,9 @@
 # This repo contains my setup files for Mac (local) and Linux (remote).
 
 # Installation
-### `curl -fsSL https://github.com/mskar/setup/raw/main/scripts/setup.sh | /bin/bash`
+### `curl -fsSL https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh | /bin/bash`
 ## or
-### `/bin/bash -c "$(curl -fsSL https://github.com/mskar/setup/raw/main/scripts/setup.sh)"`
+### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)"`
 
 ## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 
@@ -26,7 +26,7 @@
 
 ### Curl the `macos.terminal` file
 
-curl https://github.com/mskar/setup/raw/main/macos.terminal -o ~/macos.terminal
+curl https://raw.githubusercontent.com/mskar/setup/main/macos.terminal -o ~/macos.terminal
 
 ### Run the defaults commands below to setup MacOS
 
@@ -184,13 +184,13 @@ echo "Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/$la
 
 
 #### Download keyboard layout and icon files `undead.keylayout` and `undead.icns` to `/Library/Keyboard Layouts/`
-curl https://github.com/mskar/setup/raw/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
+curl https://raw.githubusercontent.com/mskar/setup/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
 
-curl https://github.com/mskar/setup/raw/main/undead.keylayout -o ~/Library/Keyboard\ Layouts/undead.layout
+curl https://raw.githubusercontent.com/mskar/setup/main/undead.keylayout -o ~/Library/Keyboard\ Layouts/undead.layout
 
 #### Download Default MacOS keybinding dictionary file `DefaultKeyBinding.dict` to `/Library/Keybindings/`
 
-curl https://github.com/mskar/setup/raw/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict --create-dirs
 
 ### For additional keyboard setup, we need Karabiner, but to install Karabiner, let's use Homebrew.
 
@@ -200,7 +200,7 @@ curl https://github.com/mskar/setup/raw/main/DefaultKeyBinding.dict -o ~/Library
 
 git config --global user.email 13444106+mskar@users.noreply.github.com
 
-curl https://github.com/mskar/setup/raw/main/Brewfile -o ~/.Brewfile
+curl https://raw.githubusercontent.com/mskar/setup/main/Brewfile -o ~/.Brewfile
 
 brew bundle install --global || true
 
@@ -235,14 +235,14 @@ duti -s com.qvacua.VimR txt all
 duti -s com.jetbrains.DataSpell ipynb all
 
 # Hammerspoon
-curl https://github.com/mskar/setup/raw/main/init.lua -o ~/.hammerspoon/init.lua --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspoon/init.lua --create-dirs
 
 ## miro window manager spoon
 ### use `Alt Shift` as the modifier à la Amethyst
-curl -L https://github.com/miromannino/miro-windows-manager/raw/master/MiroWindowsManager.spoon.zip | tar -xf - -C ~/.hammerspoon/Spoons
+curl https://raw.githubusercontent.com/miromannino/miro-windows-manager/master/MiroWindowsManager.spoon.zip | tar -xf - -C ~/.hammerspoon/Spoons
 
 
-curl https://github.com/mskar/setup/raw/main/MiroWindowsManager.lua -o ~/.hammerspoon/Spoons/MiroWindowsManager.spoon/init.lua --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/MiroWindowsManager.lua -o ~/.hammerspoon/Spoons/MiroWindowsManager.spoon/init.lua --create-dirs
 
 # CopyQ
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
@@ -280,7 +280,7 @@ curl https://github.com/mskar/setup/raw/main/MiroWindowsManager.lua -o ~/.hammer
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
-curl https://github.com/mskar/setup/raw/main/iterm.json -o ~/iterm.json
+curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.json
 
 ### Load iterm.json, which includes the settings below
 ### In iterm2, select General > Preferences: Select load preferences from a local folder or URL
@@ -299,7 +299,7 @@ curl https://github.com/mskar/setup/raw/main/iterm.json -o ~/iterm.json
 #### Send ^[ <M-C-CR> with Ctrl Shift Cmd Return
 
 ## Set up karabiner
-curl https://github.com/mskar/setup/raw/main/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
@@ -330,21 +330,21 @@ mkdir -p ~/.local/share/nvim/undo
 $(brew --prefix)/opt/fzf/install --completion --key-bindings --no-fish --no-update-rc
 
 # Use Bash as a backup
-curl https://github.com/mskar/setup/raw/main/.bash_profile -o ~/.bash_profile
+curl https://raw.githubusercontent.com/mskar/setup/main/.bash_profile -o ~/.bash_profile
 
-curl https://github.com/mskar/setup/raw/main/.inputrc -o ~/.inputrc
+curl https://raw.githubusercontent.com/mskar/setup/main/.inputrc -o ~/.inputrc
 
 ## Download dotfiles (configuration files)
 
 # Zsh config
-curl https://github.com/mskar/setup/raw/main/.zshrc -o ~/.zshrc
+curl https://raw.githubusercontent.com/mskar/setup/main/.zshrc -o ~/.zshrc
 
 # powerlevel10k config
-curl https://github.com/mskar/setup/raw/main/.p10k.zsh -o ~/.p10k.zsh
+curl https://raw.githubusercontent.com/mskar/setup/main/.p10k.zsh -o ~/.p10k.zsh
 
 # git
 ## config
-curl https://github.com/mskar/setup/raw/main/.gitconfig -o ~/.gitconfig
+curl https://raw.githubusercontent.com/mskar/setup/main/.gitconfig -o ~/.gitconfig
 
 ## Regular expressions for diffs
 ### https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
@@ -353,26 +353,26 @@ curl https://gist.githubusercontent.com/tekin/12500956bd56784728e490d8cef9cb81/r
 
 ## automatically ignored files
 # git config, ignore, and attributes
-curl https://github.com/mskar/setup/raw/main/.gitignore -o ~/.gitignore
+curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitignore
 
 ### Vim
-curl https://github.com/mskar/setup/raw/main/.vimrc -o ~/.vimrc
+curl https://raw.githubusercontent.com/mskar/setup/main/.vimrc -o ~/.vimrc
 
 ### Vim snippets
-curl https://github.com/mskar/setup/raw/main/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
 
 ### Neovim
-curl https://github.com/mskar/setup/raw/main/init.vim -o ~/.config/nvim/init.vim --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/init.vim -o ~/.config/nvim/init.vim --create-dirs
 
 curl https://raw.githubusercontent.com/jalvesaq/Nvim-R/master/R/tmux_split.vim -o ~/tmux_split.vim
 
 ### Neovim GUIs
-curl https://github.com/mskar/setup/raw/main/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
 
 ### COC (Conqueror Of Completion)
-curl https://github.com/mskar/setup/raw/main/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
 
-curl https://github.com/mskar/setup/raw/main/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
 
 ## SpaceVim
 git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
@@ -385,10 +385,10 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vi
 
 bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
 
-curl https://github.com/mskar/setup/raw/main/config.lua -o ~/.config/lvim/config.lua --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/config.lua -o ~/.config/lvim/config.lua --create-dirs
 
 ### JetBrains IDEs
-curl https://github.com/mskar/setup/raw/main/.ideavimrc -o ~/.ideavimrc
+curl https://raw.githubusercontent.com/mskar/setup/main/.ideavimrc -o ~/.ideavimrc
 
 ## Set up emacs
 
@@ -397,7 +397,7 @@ rm -rf ~/.emacs.d
 
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 
-curl https://github.com/mskar/setup/raw/main/.spacemacs -o ~/.spacemacs
+curl https://raw.githubusercontent.com/mskar/setup/main/.spacemacs -o ~/.spacemacs
 
 ### Doom emacs
 git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.doom.d
@@ -408,37 +408,37 @@ mkdir -p "$DOOMDIR"
 
 yes y | ~/.doom.d/bin/doom install
 
-curl https://github.com/mskar/setup/raw/main/config.el -o ~/.config/doom/config.el
+curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.config/doom/config.el
 
-curl https://github.com/mskar/setup/raw/main/packages.el -o ~/.config/doom/packages.el
+curl https://raw.githubusercontent.com/mskar/setup/main/packages.el -o ~/.config/doom/packages.el
 
 ~/.doom.d/bin/doom sync
 
 ## Set up oh my tmux
 curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 
-curl https://github.com/mskar/setup/raw/main/.tmux.conf.local -o ~/.tmux.conf.local
+curl https://raw.githubusercontent.com/mskar/setup/main/.tmux.conf.local -o ~/.tmux.conf.local
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 ## Set up ipython
-curl https://github.com/mskar/setup/raw/main/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 
-curl https://github.com/mskar/setup/raw/main/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
 
 ## Set up ptpython
-curl https://github.com/mskar/setup/raw/main/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
 
 ## Set up radian
-curl https://github.com/mskar/setup/raw/main/.radian_profile -o ~/.radian_profile
+curl https://raw.githubusercontent.com/mskar/setup/main/.radian_profile -o ~/.radian_profile
 
 ln -sf .radian_profile radian_profile.R
 
 ## Set up btm
-curl https://github.com/mskar/setup/raw/main/bottom.toml -o ~/.config/bottom/bottom.toml --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/bottom.toml -o ~/.config/bottom/bottom.toml --create-dirs
 
 ## Set up TabNine
-curl https://github.com/mskar/setup/raw/main/tabnine_config.json -o ~/.config/TabNine/tabnine_config.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/tabnine_config.json -o ~/.config/TabNine/tabnine_config.json --create-dirs
 
 # 6: Conda environments (base, Python and R)
 ### Install cookiecutter (for i alias) and neovim (for vim plugins)
@@ -454,9 +454,9 @@ curl https://github.com/mskar/setup/raw/main/tabnine_config.json -o ~/.config/Ta
 /usr/local/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab_vim jupyterlab-vimrc
 
 ## Visual Studio Code (vscodium)
-curl https://github.com/mskar/setup/raw/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
 
-curl https://github.com/mskar/setup/raw/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json
+curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json
 
 codium --install-extension ms-vsliveshare.vsliveshare --force
 
@@ -471,12 +471,12 @@ codium --install-extension tabnine.tabnine-vscode --force
 codium --install-extension asvetliakov.vscode-neovim --force
 
 ### Jupyter settings
-curl https://github.com/mskar/setup/raw/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
 
-curl https://github.com/mskar/setup/raw/main/vimrc.jupyterlab-settings -o ~/.jupyter/lab/user-settings/jupyterlab-vimrc/vimrc.jupyterlab-settings --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/vimrc.jupyterlab-settings -o ~/.jupyter/lab/user-settings/jupyterlab-vimrc/vimrc.jupyterlab-settings --create-dirs
 
 ### PyCharm settings
-curl https://github.com/mskar/setup/raw/main/settings.zip -o ~/settings.zip
+curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settings.zip
 
 ## Setup PyCharm
 ### Install PyCharm via Jetbrains Toolbox
@@ -538,11 +538,11 @@ curl https://github.com/mskar/setup/raw/main/settings.zip -o ~/settings.zip
 ### When setting run configurations (`Ctrl Alt r`), set working directory to project root under Environment and deselect Run with Python Console under Execution
 
 ## Set up RStudio
-curl https://github.com/mskar/setup/raw/main/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
-curl https://github.com/mskar/setup/raw/main/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
 
-curl https://github.com/mskar/setup/raw/main/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
+curl https://raw.githubusercontent.com/mskar/setup/main/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
 
 # Initialize conda for z shell
 $(brew --prefix)/bin/conda init zsh
