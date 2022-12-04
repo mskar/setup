@@ -280,9 +280,10 @@ curl https://raw.githubusercontent.com/mskar/setup/main/MiroWindowsManager.lua -
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
-curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.json
+curl https://raw.githubusercontent.com/mskar/setup/main/com.googlecode.iterm2.plist -o ~/Library/Preferences/com.googlecode.iterm2.plist
 
 ### Load iterm.json, which includes the settings below
+### curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.json
 ### In iterm2, select General > Preferences: Select load preferences from a local folder or URL
 ### In iterm2, select Appearance > Theme: Minimal
 ### In iterm2, select Profiles > Keys: Both option keys to Esc+
