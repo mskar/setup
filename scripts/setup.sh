@@ -35,6 +35,12 @@ curl https://raw.githubusercontent.com/mskar/setup/main/macos.terminal -o ~/maco
 ### Toggle theme with ctrl option cmd t
 defaults write /Library/Preferences/.GlobalPreferences.plist _HIEnableThemeSwitchHotKey -bool true
 
+# Ask for the administrator password upfront
+sudo -v
+
+# Keep-alive: update existing `sudo` time stamp until `setup.sh` has finished
+while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
+
 ## Keyboard
 ### https://apple.stackexchange.com/a/83923
 ### In System Preferences > Keyboard > Keyboard:
@@ -54,7 +60,24 @@ defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool false
 
 defaults write com.visualstudio.code.oss ApplePressAndHoldEnabled -bool false    # For VS Codium
 
-#### Set Caps Locks to be control in System Preferences > Keyboard > Modifier Keys... (this is also done via Karabiner in karabiner.json)
+# Disable automatic capitalization as it’s annoying when typing code
+defaults write NSGlobalDomain NSAutomaticCapitalizationEnabled -bool false
+
+# Disable smart dashes as they’re annoying when typing code
+defaults write NSGlobalDomain NSAutomaticDashSubstitutionEnabled -bool false
+
+# Disable automatic period substitution as it’s annoying when typing code
+defaults write NSGlobalDomain NSAutomaticPeriodSubstitutionEnabled -bool false
+
+# Disable smart quotes as they’re annoying when typing code
+defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
+
+# Disable auto-correct
+defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
+
+# Enable full keyboard access for all controls
+# (e.g. enable Tab in modal dialogs)
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 
 ## Trackpad
 ### In System Preferences > Trackpad > Point & Click, set tracking speed to max:
@@ -73,6 +96,7 @@ defaults write com.apple.dock persistent-apps -array
 defaults write com.apple.dock static-only -bool true
 
 ### 2-finger click on Dock and Turn Dock Hiding On
+### Automatically hide and show the Dock
 defaults write com.apple.dock autohide -bool true
 
 ### https://www.defaults-write.com/delete-the-hiding-dock-delay-in-os-x/
@@ -84,8 +108,37 @@ defaults write com.apple.dock autohide-time-modifier -float 0
 ### https://macos-defaults.com/misc/enable-spring-load-actions-on-all-items.html#set-to-true
 defaults write com.apple.dock enable-spring-load-actions-on-all-items -bool true
 
+### Disable the auto-hiding Dock delay
+defaults write com.apple.dock autohide-delay -float 0
+
+### Disable the animation when hiding/showing the Dock
+defaults write com.apple.dock autohide-time-modifier -float 0
+
+### Don’t animate opening applications from the Dock
+defaults write com.apple.dock launchanim -bool false
+
+### Make Dock icons of hidden applications translucent
+defaults write com.apple.dock showhidden -bool true
+
+### Don’t show recent applications in Dock
+defaults write com.apple.dock show-recents -bool false
+
+# Minimize windows into their application’s icon
+defaults write com.apple.dock minimize-to-application -bool true
+
+# Enable spring loading for all Dock items
+defaults write com.apple.dock enable-spring-load-actions-on-all-items -bool true
+
+# Show indicator lights for open applications in the Dock
+defaults write com.apple.dock show-process-indicators -bool true
+
 ## Sound
-### Under General > Sound turn off all sounds
+
+#### Disable the sound effects on boot
+sudo nvram SystemAudioVolume=" "
+
+#### Disable user interface sound effects
+defaults write "Apple Global Domain" com.apple.sound.uiaudio.enabled -int 0
 
 #### Disable user interface sound effects
 defaults write com.apple.systemsound com.apple.sound.uiaudio.enabled -bool false
@@ -96,7 +149,7 @@ defaults write NSGlobalDomain com.apple.sound.beep.feedback -bool false
 #### Disable flashing the screen when an alert sound occurs (accessibility)
 defaults write NSGlobalDomain com.apple.sound.beep.flash -bool false
 
-### Under General > Sound "Show volume in menu bar" (doesn't work?)
+### Under Sound > Sound Effects "Show Sound in menu bar" (doesn't work?)
 defaults write com.apple.systemuiserver menuExtras -array \
     "/System/Library/CoreServices/Menu Extras/AirPort.menu" \
     "/System/Library/CoreServices/Menu Extras/Bluetooth.menu" \
@@ -105,10 +158,42 @@ defaults write com.apple.systemuiserver menuExtras -array \
 
 ## Finder
 
+# Finder: show status bar
+defaults write com.apple.finder ShowStatusBar -bool true
+
+# Finder: show path bar
+defaults write com.apple.finder ShowPathbar -bool true
+
+# Keep folders on top when sorting by name
+defaults write com.apple.finder _FXSortFoldersFirst -bool true
+
+# When performing a search, search the current folder by default
+defaults write com.apple.finder FXDefaultSearchScope -string "SCcf"
+
+# Enable spring loading for directories
+defaults write NSGlobalDomain com.apple.springing.enabled -bool true
+
+# Remove the spring loading delay for directories
+defaults write NSGlobalDomain com.apple.springing.delay -float 0
+
+# Use list view in all Finder windows by default
+# Four-letter codes for the other view modes: `icnv`, `clmv`, `glyv`
+defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
+
+# Disable the warning before emptying the Trash
+defaults write com.apple.finder WarnOnEmptyTrash -bool false
+
+### Finder: show all filename extensions
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+
+### Display full POSIX path as Finder window title
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
+
 ### Finder icons
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 3
 
 ### https://macos-defaults.com/finder/quitmenuitem.html#set-to-true
+### Finder: allow quitting via ⌘ + Q; doing so will also hide desktop icons
 defaults write com.apple.finder QuitMenuItem -bool true
 
 ### https://macos-defaults.com/finder/fxenableextensionchangewarning.html#set-to-false
@@ -154,6 +239,38 @@ defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
 ### Under General > Appearance select 'Automatically hide and show the menu bar'
 defaults write NSGlobalDomain _HIHideMenuBar -bool true
 
+## Misc
+### Save to disk (not to iCloud) by default
+defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
+
+### Use metric units
+defaults write NSGlobalDomain AppleMetricUnits -bool true
+
+### Show language menu in the top right corner of the boot screen
+sudo defaults write /Library/Preferences/com.apple.loginwindow showInputMenu -bool true
+
+### Disable shadow in screenshots
+defaults write com.apple.screencapture disable-shadow -bool true
+
+### Speed up Mission Control animations
+defaults write com.apple.dock expose-animation-duration -float 0.1
+
+# Set sidebar icon size to medium
+defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 2
+
+# Disable the “Are you sure you want to open this application?” dialog
+defaults write com.apple.LaunchServices LSQuarantine -bool false
+
+# Display ASCII control characters using caret notation in standard text views
+# Try e.g. `cd /tmp; unidecode "\x{0000}" > cc.txt; open -e cc.txt`
+defaults write NSGlobalDomain NSTextShowsControlCharacters -bool true
+
+# Disable Resume system-wide
+defaults write com.apple.systempreferences NSQuitAlwaysKeepsWindows -bool false
+
+# Disable Notification Center and remove the menu bar icon
+launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist 2> /dev/null
+
 ## Reset Finder and Dock to see results of `defaults` commands
 killall Finder
 
@@ -184,6 +301,7 @@ echo "Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/$la
 
 
 #### Download keyboard layout and icon files `undead.keylayout` and `undead.icns` to `/Library/Keyboard Layouts/`
+##### This messes up ctrl u and k in alacritty and kitty
 curl https://raw.githubusercontent.com/mskar/setup/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
 
 curl https://raw.githubusercontent.com/mskar/setup/main/undead.keylayout -o ~/Library/Keyboard\ Layouts/undead.layout
@@ -241,8 +359,16 @@ curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspo
 ### use `Alt Shift` as the modifier à la Amethyst
 curl https://raw.githubusercontent.com/miromannino/miro-windows-manager/master/MiroWindowsManager.spoon.zip | tar -xf - -C ~/.hammerspoon/Spoons
 
-
 curl https://raw.githubusercontent.com/mskar/setup/main/MiroWindowsManager.lua -o ~/.hammerspoon/Spoons/MiroWindowsManager.spoon/init.lua --create-dirs
+
+# Terminal config files
+curl https://raw.githubusercontent.com/mskar/setup/main/alacritty.yml -o ~/.config/alacritty/alacritty.yml --create-dirs
+
+curl https://raw.githubusercontent.com/mskar/setup/main/kitty.config -o ~/.config/kitty/kitty.config --create-dirs
+
+curl https://raw.githubusercontent.com/mskar/setup/main/.hyper.js -o ~/.hyper.js --create-dirs
+
+curl https://raw.githubusercontent.com/mskar/setup/main/config.yaml -o /Users/martinskarzynski/Library/Application\ Support/tabby/config.yaml --create-dirs
 
 # CopyQ
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
