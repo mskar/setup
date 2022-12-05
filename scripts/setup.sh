@@ -276,21 +276,6 @@ killall Finder
 
 killall Dock
 
-# 2: Generate SSH keys for GitHub, GitLab, and Bitbucket
-
-## Only one key is needed per computer
-## The label is MacBook model
-
-label=$(sysctl hw.model | cut -d\  -f2)
-
-ssh-keygen -t rsa -b 4096 -f ~/.ssh/$label -C $label
-
-ssh-add ~/.ssh/$label
-
-cat ~/.ssh/$label.pub | pbcopy
-
-echo "Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/$label" >> ~/.ssh/config
-
 # 2: Default MacOS keybindings and keyboard layout
 
 ### The default macOS keyboard has so-called "dead keys". Some of these "dead keys"
@@ -322,8 +307,24 @@ curl https://raw.githubusercontent.com/mskar/setup/main/.Brewfile -o ~/.Brewfile
 
 brew bundle install --global || true
 
-# 4: MacOS Applications
-## Install Karabiner-Elements with brew cask (below) or from homepage dmg https://pqrs.org/osx/karabiner/
+# 4: Generate SSH keys for GitHub, GitLab, and Bitbucket
+
+## Only one key is needed per computer
+## The label is MacBook model
+
+label=$(sysctl hw.model | cut -d\  -f2)
+
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/$label -C $label
+
+ssh-add ~/.ssh/$label
+
+cat ~/.ssh/$label.pub | pbcopy
+
+gh ssh-key add ~/.ssh/$label.pub -t $label
+
+echo "Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/$label" >> ~/.ssh/config
+
+# 5: MacOS Applications
 ## Install Ewka Nerdfont
 
 git clone https://github.com/mskar/ewka ~/mskar/ewka
@@ -331,7 +332,7 @@ git clone https://github.com/mskar/ewka ~/mskar/ewka
 cp ~/mskar/ewka/nerd/* ~/Library/Fonts
 
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
-### Use brew cask install r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
+### Use brew install --cask r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
 
 # Vimac
 ## Download, unzip, and move Vimac.app to Applications
@@ -434,12 +435,12 @@ curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.con
 ##### Bash style Emacs key bindings (rev 2) (from Emacs key bindings (rev 12))
 ##### Emacs key bindings [option+keys] (rev 5) (from Emacs key bindings (rev 12))
 
-# 5: Command line tools
-## Install fzf (fuzzy finder)
-## Install bat and exa (for fzf file preview)
-## Install fasd and fd (to provide inputs for fzf)
-## Install xpdf (e.g. pdftotext - for fzf PDF file preview)
-## Install vim and neovim
+# 6: Command line tools
+## Set up fzf (fuzzy finder)
+## Set up bat and exa (for fzf file preview)
+## Set up fasd and fd (to provide inputs for fzf)
+## Set up xpdf (e.g. pdftotext - for fzf PDF file preview)
+## Set up vim and neovim
 
 ## Use terminal emacs in the terminal (overwrite link to GUI Emacs installed via cask)
 brew link --overwrite emacs
@@ -510,7 +511,7 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vi
 
 ## Lunar Vim
 
-bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+yes y | bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
 
 curl https://raw.githubusercontent.com/mskar/setup/main/config.lua -o ~/.config/lvim/config.lua --create-dirs
 
@@ -569,16 +570,16 @@ curl https://raw.githubusercontent.com/mskar/setup/main/tabnine_config.json -o ~
 
 # 6: Conda environments (base, Python and R)
 ### Install cookiecutter (for i alias) and neovim (for vim plugins)
-/usr/local/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge neovim
+/usr/local/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge neovim node
 
-/usr/local/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn scipy
+/usr/local/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn jupyterlab_vim scipy
 
 ##### Installing r into base environment breaks nvim-R
 /usr/local/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python
 
 # 7: Code editors
 ### Radian, ipython, ptpython, and jupyterlab vim extension and dependencies for vim and coc
-/usr/local/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython jupyterlab_vim node neovim
+/usr/local/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython
 
 ### Jupyter settings
 curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
