@@ -1,6 +1,8 @@
 # This repo contains my setup files for Mac (local) and Linux (remote).
 
 # Installation
+### `/bin/bash <(curl -s https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)`
+## or
 ### `curl -fsSL https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh | /bin/bash`
 ## or
 ### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)"`

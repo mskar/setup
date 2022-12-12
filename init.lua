@@ -193,6 +193,8 @@ hs.hotkey.bind("ctrl", "1", moveWindowToDisplay(1))
 hs.hotkey.bind("ctrl", "2", moveWindowToDisplay(2))
 hs.hotkey.bind("ctrl", "3", moveWindowToDisplay(3))
 hs.hotkey.bind("ctrl", "4", moveWindowToDisplay(4))
+hs.hotkey.bind("ctrl", "5", moveWindowToDisplay(5))
+hs.hotkey.bind("ctrl", "6", moveWindowToDisplay(6))
 
 -- Ctrl Nine (9) moves the current window to the previous screen
 -- Open parentheses goes to previous session in tmux
@@ -394,6 +396,8 @@ hs.hotkey.bind("alt", "1", focusDisplay(1))
 hs.hotkey.bind("alt", "2", focusDisplay(2))
 hs.hotkey.bind("alt", "3", focusDisplay(3))
 hs.hotkey.bind("alt", "4", focusDisplay(4))
+hs.hotkey.bind("alt", "5", focusDisplay(5))
+hs.hotkey.bind("alt", "6", focusDisplay(6))
 
 -- Alt 9 brings focus to previous display/screen
 -- Open parentheses goes to previous session in tmux
