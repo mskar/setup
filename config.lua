@@ -215,9 +215,9 @@ lvim.plugins = {
     "tpope/vim-surround",
     keys = {"c", "d", "y"}
   },
+  { "tpope/vim-speeddating" },
   { "tpope/vim-repeat" },
   { "tpope/vim-unimpaired" },
-  { "mskar/transwrd" },
   {"justinmk/vim-sneak"},
   {"ethanholz/nvim-lastplace"},
   {"rkitover/vimpager"},
