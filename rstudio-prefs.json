@@ -1,5 +1,5 @@
 {
-    "jobs_tab_visibility": "shown",
+    "jobs_tab_visibility": "closed",
     "panes": {
         "quadrants": [
             "Source",
@@ -21,7 +21,8 @@
             "Plots",
             "Packages",
             "Help",
-            "Viewer"
+            "Viewer",
+            "Presentations"
         ],
         "hiddenTabSet": [],
         "console_left_on_top": false,
@@ -34,5 +35,11 @@
     "save_workspace": "never",
     "terminal_bell_style": "none",
     "default_project_location": "~",
-    "toolbar_visible": false
+    "toolbar_visible": false,
+    "initial_working_directory": "~",
+    "editor_theme": "Vibrant Ink",
+    "python_type": "conda",
+    "python_version": "3.11.0",
+    "python_path": "/usr/local/Caskroom/mambaforge/base/envs/pyr/bin/python3.11",
+    "show_terminal_tab": false
 }

@@ -1,5 +1,13 @@
 {
+    "activateConsole": "Cmd+2",
+    "activateSource": "Cmd+1",
+    "activateTerminal": "Alt+Shift+Â",
+    "closeSourceDoc": "",
+    "jumpToMatching": "",
+    "layoutZoomConsole": "Shift+Cmd+2",
+    "layoutZoomSource": "Shift+Cmd+1",
     "modifyKeyboardShortcuts": "Alt+Shift+S",
     "nextTab": "Shift+Cmd+]",
-    "previousTab": "Shift+Cmd+["
+    "previousTab": "Shift+Cmd+[",
+    "toggleRmdVisualMode": "Shift+Cmd+V"
 }

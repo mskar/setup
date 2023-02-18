@@ -1,3 +1,5 @@
 {
-    "xaringan::inf_mr" : "Shift+Cmd+X"
+    "xaringan::inf_mr": "Shift+Cmd+X",
+    "hippie::hippie_up": "Alt+/",
+    "hippie::hippie_down": "Shift+Alt+/"
 }

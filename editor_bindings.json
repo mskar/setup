@@ -1,6 +1,7 @@
 {
-    "removewordright": "Alt+D",
-    "gotowordright": "Alt+F",
     "gotowordleft": "Alt+B",
-    "removetolinestart": "Ctrl+U"
+    "gotowordright": "Alt+F",
+    "removetolinestart": "Ctrl+U",
+    "removewordright": "Alt+D",
+    "touppercase": ""
 }

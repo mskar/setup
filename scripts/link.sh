@@ -33,6 +33,7 @@ ln -sf ~/mskar/setup/macos.terminal ~/macos.terminal
 ln -sf ~/mskar/setup/config.lua ~/.config/lvim/config.lua
 ln -sf ~/mskar/setup/myspacevim.vim ~/.SpaceVim.d/autoload/myspacevim.vim
 ln -sf ~/mskar/setup/packages.el ~/.config/doom/packages.el
+mkdir -p ~/.config/nvim/plugged/vim-pandoc-syntax/syntax
 ln -sf ~/mskar/setup/pandoc.vim ~/.config/nvim/plugged/vim-pandoc-syntax/syntax/pandoc.vim
 ln -sf ~/mskar/setup/rstudio-prefs.json ~/.config/rstudio/rstudio-prefs.json
 ln -sf ~/mskar/setup/rstudio_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json

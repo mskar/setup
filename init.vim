@@ -85,6 +85,11 @@ Plug 'ConradIrwin/vim-bracketed-paste'
 " Nvim-R handles citation of its own: https://github.com/jalvesaq/Nvim-R/issues/346
 Plug 'jalvesaq/Nvim-R'
 
+" https://github.com/quarto-dev/quarto-nvim
+Plug 'quarto-dev/quarto-nvim'
+Plug 'neovim/nvim-lspconfig'
+Plug 'jmbuhr/otter.nvim'
+
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 Plug 'bfredl/nvim-miniyank'
 
