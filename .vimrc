@@ -44,6 +44,7 @@ Plug 'simnalamburt/vim-mundo'
 Plug 'jiangmiao/auto-pairs'
 Plug 'SirVer/ultisnips'
 Plug 'rkitover/vimpager'
+Plug 'szw/vim-maximizer'
 
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
@@ -791,15 +792,18 @@ nnoremap <C-i> <C-i>:file<CR>
 " https://github.com/jalvesaq/Nvim-R/blob/master/doc/Nvim-R.txt#L1075
 " To recover R console after pressing <C-w>c / <C-w>o/<C-w>q
 " https://vi.stackexchange.com/questions/241/undo-only-window
-function! Zoom()
-  if winbufnr(2) == -1 " https://stackoverflow.com/a/7070691
-    wa | source ~/session.vim
-  else
-    mksession! ~/session.vim | wincmd o
-  endif
-endfunction
+" function! Zoom()
+"   if winbufnr(2) == -1 " https://stackoverflow.com/a/7070691
+"     wa | source ~/session.vim
+"   else
+"     mksession! ~/session.vim | wincmd o
+"   endif
+" endfunction
 
-nnoremap <C-w>o :call Zoom()<CR>
+" nnoremap <C-w>o :call Zoom()<CR>
+let g:maximizer_set_default_mapping = 0
+nnoremap <silent><C-w>o :MaximizerToggle<CR>
+vnoremap <silent><C-w>o :MaximizerToggle<CR>gv
 nnoremap <C-w>c :mksession! ~/session.vim<CR>:wincmd c<CR>:file<CR>
 nnoremap <C-w>q :mksession! ~/session.vim<CR>:wincmd q<CR>:file<CR>
 nnoremap <C-w>u :silent :source ~/session.vim<CR>
