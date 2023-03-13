@@ -438,7 +438,7 @@ alias ka="func() { ssh-add --apple-use-keychain ~/.ssh/$(echo  '${1:-$(whoami)_$
 alias kaf="func() { local pubs=$(echo '$(ls ~/.ssh/*.pub | fzf --delimiter=/ --with-nth=5..)') && [ $(echo '$pubs') ] && echo $(echo '$pubs') | sed 's/.pub$//' | tr '\n' '\0' | xargs -0 -n1 -I '{}' ssh-add --apple-use-keychain '{}'; }; func" # key add fzf
 alias kc="func() { cat ~/.ssh/$(echo  '${1:-$(whoami)_$(sysctl hw.model | cut -d\  -f2)}.pub') | pbcopy; }; func" # key cat / copy
 alias kcf="func() { local pubs=$(echo '$(ls ~/.ssh/*.pub | fzf --delimiter=/ --with-nth=5..)') && [ $(echo '$pubs') ] && echo $(echo '$pubs') |  tr '\n' '\0' | xargs -0 -n1 -I '{}' cat '{}' | pbcopy; }; func" # key cat / copy fzf
-alias kg="func() { local label=$(echo '${1:-$(whoami)_$(sysctl hw.model | cut -d\  -f2)}') && ssh-keygen -t rsa -b 4096 -f ~/.ssh/$(echo '$label') -C $(echo '$label') && ssh-add ~/.ssh/$(echo '$label') && cat ~/.ssh/$(echo '$label').pub | pbcopy && echo 'Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/'$(echo '$label') >> ~/.ssh/config; }; func" # key gen
+alias kg="func() { local label=$(echo '${1:-$(whoami)_$(sysctl hw.model | cut -d\  -f2)}') && ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519 -C $(echo '$label') && ssh-add && cat ~/.ssh/id_ed25519.pub | pbcopy && echo 'Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/id_ed25519' >> ~/.ssh/config && gh ssh-key add ~/.ssh/id_ed25519.pub -t $(echo '$label') || gh auth login; }; func" # key gen
 alias l="~/.local/bin/lvim"
 alias lS="func() { lvim -S $(echo '${@:-~/session.vim}'); }; func"
 alias la="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -o lvim $(echo '$@') --; }; func"
@@ -954,21 +954,17 @@ complete -o nospace -C /usr/local/bin/bit bit
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/usr/local/Caskroom/mambaforge/base/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/opt/homebrew/Caskroom/mambaforge/base/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/usr/local/Caskroom/mambaforge/base/etc/profile.d/conda.sh" ]; then
-        . "/usr/local/Caskroom/mambaforge/base/etc/profile.d/conda.sh"
+    if [ -f "/opt/homebrew/Caskroom/mambaforge/base/etc/profile.d/conda.sh" ]; then
+        . "/opt/homebrew/Caskroom/mambaforge/base/etc/profile.d/conda.sh"
     else
-        export PATH="/usr/local/Caskroom/mambaforge/base/bin:$PATH"
+        export PATH="/opt/homebrew/Caskroom/mambaforge/base/bin:$PATH"
     fi
 fi
 unset __conda_setup
-
-if [ -f "/usr/local/Caskroom/mambaforge/base/etc/profile.d/mamba.sh" ]; then
-    . "/usr/local/Caskroom/mambaforge/base/etc/profile.d/mamba.sh"
-fi
 # <<< conda initialize <<<
 
 # Fig post block. Keep at the bottom of this file.
