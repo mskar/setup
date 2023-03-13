@@ -662,7 +662,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/editor_bindings.json -o 
 curl https://raw.githubusercontent.com/mskar/setup/main/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
 
 # Initialize conda for z shell
-$(brew --prefix)/bin/conda init zsh
+$(brew --prefix)/bin/mamba init zsh
 
 # Non-automated steps
 ## Give Hammerspoon Accessibility permissions and enable Launch Hammerspoon at login
