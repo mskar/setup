@@ -303,6 +303,10 @@ curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -
 ## Install Homebrew (this also installs xcode tools needed for git)
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
 git config --global user.email 13444106+mskar@users.noreply.github.com
 
 curl https://raw.githubusercontent.com/mskar/setup/main/.Brewfile -o ~/.Brewfile
