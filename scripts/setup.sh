@@ -527,7 +527,7 @@ DOOMDIR=~/.config/doom/
 
 mkdir -p "$DOOMDIR"
 
-yes y | ~/.doom.d/bin/doom install
+#### yes y | ~/.doom.d/bin/doom install
 
 curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.config/doom/config.el
 
