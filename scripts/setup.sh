@@ -561,12 +561,12 @@ curl https://raw.githubusercontent.com/maptv/setup/main/tabnine_config.json -o ~
 
 # 6: Conda environments (base, Python and R)
 ### Install cookiecutter (for i alias) and neovim (for vim plugins)
-$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge neovim node
+$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge python neovim
 
-$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn jupyterlab_vim scipy
+$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python joblib jupyterlab seaborn neovim numpy pandas scikit-learn jupyterlab_vim scipy
 
 ##### Installing r into base environment breaks nvim-R
-$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python
+$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python neovim
 
 # 7: Code editors
 
