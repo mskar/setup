@@ -533,7 +533,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.config/d
 
 curl https://raw.githubusercontent.com/mskar/setup/main/packages.el -o ~/.config/doom/packages.el
 
-~/.doom.d/bin/doom sync
+#### ~/.doom.d/bin/doom sync
 
 ## Set up oh my tmux
 curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
