@@ -569,8 +569,6 @@ $(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py
 $(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python
 
 # 7: Code editors
-### Radian, ipython, ptpython, and jupyterlab vim extension and dependencies for vim and coc
-$(brew --prefix)/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/maptv/radian git+https://github.com/maptv/ipython git+https://github.com/maptv/ptpython
 
 ### Jupyter settings
 curl https://raw.githubusercontent.com/maptv/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
