@@ -202,6 +202,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -281,6 +282,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -361,6 +363,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -442,6 +445,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -523,6 +527,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -604,6 +609,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -683,6 +689,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -760,6 +767,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -839,6 +847,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1056,6 +1065,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1179,6 +1189,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1259,6 +1270,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1346,6 +1358,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1428,6 +1441,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1510,6 +1524,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1596,6 +1611,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1677,6 +1693,7 @@
                                             "^com\\.visualstudio\\.code\\.oss$",
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
+                                            "^org\\.jupyter\\.jupyterlab-desktop$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"

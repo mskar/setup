@@ -344,7 +344,7 @@ cp ~/maptv/ewka/nerd/* ~/Library/Fonts
 ## Set VimR to be the default txt file editor
 duti -s com.qvacua.VimR txt all
 
-duti -s com.jetbrains.DataSpell ipynb all
+duti -s org.jupyter.jupyterlab-desktop ipynb all
 
 # Hammerspoon
 curl https://raw.githubusercontent.com/maptv/setup/main/init.lua -o ~/.hammerspoon/init.lua --create-dirs
