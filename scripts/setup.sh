@@ -563,16 +563,16 @@ curl https://raw.githubusercontent.com/mskar/setup/main/tabnine_config.json -o ~
 
 # 6: Conda environments (base, Python and R)
 ### Install cookiecutter (for i alias) and neovim (for vim plugins)
-/usr/local/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge neovim node
+$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge neovim node
 
-/usr/local/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn jupyterlab_vim scipy
+$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python=3.9 joblib jupyterlab seaborn numpy pandas scikit-learn jupyterlab_vim scipy
 
 ##### Installing r into base environment breaks nvim-R
-/usr/local/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python
+$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python
 
 # 7: Code editors
 ### Radian, ipython, ptpython, and jupyterlab vim extension and dependencies for vim and coc
-/usr/local/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython
+$(brew --prefix)/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython
 
 ### Jupyter settings
 curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
