@@ -309,7 +309,7 @@ brew bundle install --global || true
 
 model=$(sysctl hw.model | cut -d\  -f2)
 
-ssh-keygen -t ed25519 -f ~/.ssh/$(whoami)_$model -C $(whoami)_$model
+yes y | ssh-keygen -t ed25519 -f ~/.ssh/$(whoami)_$model -C $(whoami)_$model -N ''
 
 ssh-add ~/.ssh/$(whoami)_$model
 
