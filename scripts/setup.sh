@@ -25,7 +25,7 @@
 
 ### Curl the `macos.terminal` file
 
-curl https://raw.githubusercontent.com/mskar/setup/main/macos.terminal -o ~/macos.terminal
+curl https://raw.githubusercontent.com/maptv/setup/main/macos.terminal -o ~/macos.terminal
 
 ### Run the defaults commands below to setup MacOS
 
@@ -281,13 +281,13 @@ killall Dock
 
 #### Download keyboard layout and icon files `undead.keylayout` and `undead.icns` to `/Library/Keyboard Layouts/`
 ##### This messes up ctrl u and k in alacritty and kitty
-curl https://raw.githubusercontent.com/mskar/setup/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
+curl https://raw.githubusercontent.com/maptv/setup/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
 
-curl https://raw.githubusercontent.com/mskar/setup/main/undead.keylayout -o ~/Library/Keyboard\ Layouts/undead.layout
+curl https://raw.githubusercontent.com/maptv/setup/main/undead.keylayout -o ~/Library/Keyboard\ Layouts/undead.layout
 
 #### Download Default MacOS keybinding dictionary file `DefaultKeyBinding.dict` to `/Library/Keybindings/`
 
-curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/DefaultKeyBinding.dict -o ~/Library/KeyBindings/DefaultKeyBinding.dict --create-dirs
 
 ### For additional keyboard setup, we need Karabiner, but to install Karabiner, let's use Homebrew.
 
@@ -299,9 +299,9 @@ curl https://raw.githubusercontent.com/mskar/setup/main/DefaultKeyBinding.dict -
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-git config --global user.email 13444106+mskar@users.noreply.github.com
+git config --global user.email 13444106+maptv@users.noreply.github.com
 
-curl https://raw.githubusercontent.com/mskar/setup/main/.Brewfile -o ~/.Brewfile
+curl https://raw.githubusercontent.com/maptv/setup/main/.Brewfile -o ~/.Brewfile
 
 brew bundle install --global || true
 
@@ -320,9 +320,9 @@ echo "Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/$(w
 # 5: MacOS Applications
 ## Install Ewka Nerdfont
 
-git clone https://github.com/mskar/ewka ~/mskar/ewka
+git clone https://github.com/maptv/ewka ~/maptv/ewka
 
-cp ~/mskar/ewka/nerd/* ~/Library/Fonts
+cp ~/maptv/ewka/nerd/* ~/Library/Fonts
 
 ## Install r (so that the rmarkdown render alias and Nvim-R work in base environment)
 ### Use brew install --cask r: https://rstats.wtf/set-up-an-r-dev-environment.html#what-about-homebrew
@@ -347,22 +347,22 @@ duti -s com.qvacua.VimR txt all
 duti -s com.jetbrains.DataSpell ipynb all
 
 # Hammerspoon
-curl https://raw.githubusercontent.com/mskar/setup/main/init.lua -o ~/.hammerspoon/init.lua --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/init.lua -o ~/.hammerspoon/init.lua --create-dirs
 
 ## miro window manager spoon
 ### use `Alt Shift` as the modifier à la Amethyst
 curl https://raw.githubusercontent.com/miromannino/miro-windows-manager/master/MiroWindowsManager.spoon.zip | tar -xf - -C ~/.hammerspoon/Spoons
 
-curl https://raw.githubusercontent.com/mskar/setup/main/MiroWindowsManager.lua -o ~/.hammerspoon/Spoons/MiroWindowsManager.spoon/init.lua --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/MiroWindowsManager.lua -o ~/.hammerspoon/Spoons/MiroWindowsManager.spoon/init.lua --create-dirs
 
 # Terminal config files
-curl https://raw.githubusercontent.com/mskar/setup/main/alacritty.yml -o ~/.config/alacritty/alacritty.yml --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/alacritty.yml -o ~/.config/alacritty/alacritty.yml --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/kitty.conf -o ~/.config/kitty/kitty.conf --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/kitty.conf -o ~/.config/kitty/kitty.conf --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/.hyper.js -o ~/.hyper.js --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/.hyper.js -o ~/.hyper.js --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/config.yaml -o ~/Library/Application\ Support/tabby/config.yaml --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/config.yaml -o ~/Library/Application\ Support/tabby/config.yaml --create-dirs
 
 # CopyQ
 ## Load copyq.ini (commands) and copyq.cpq (configuration)
@@ -400,10 +400,10 @@ curl https://raw.githubusercontent.com/mskar/setup/main/config.yaml -o ~/Library
 ### In terminal, under Profiles > Advanced: Deselect audible bell
 
 ## Set up iterm2
-curl https://raw.githubusercontent.com/mskar/setup/main/com.googlecode.iterm2.plist -o ~/Library/Preferences/com.googlecode.iterm2.plist
+curl https://raw.githubusercontent.com/maptv/setup/main/com.googlecode.iterm2.plist -o ~/Library/Preferences/com.googlecode.iterm2.plist
 
 ### Load iterm.json, which includes the settings below
-### curl https://raw.githubusercontent.com/mskar/setup/main/iterm.json -o ~/iterm.json
+### curl https://raw.githubusercontent.com/maptv/setup/main/iterm.json -o ~/iterm.json
 ### In iterm2, select General > Preferences: Select load preferences from a local folder or URL
 ### In iterm2, select Appearance > Theme: Minimal
 ### In iterm2, select Profiles > Keys: Both option keys to Esc+
@@ -420,7 +420,7 @@ curl https://raw.githubusercontent.com/mskar/setup/main/com.googlecode.iterm2.pl
 #### Send ^[ <M-C-CR> with Ctrl Shift Cmd Return
 
 ## Set up karabiner
-curl https://raw.githubusercontent.com/mskar/setup/main/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/karabiner.json -o ~/.config/karabiner/karabiner.json --create-dirs
 
 #### Under Complex modifications > Rules you should see
 ##### Change caps_lock to control if pressed with other keys, to escape if pressed alone. (from Change caps_lock key (rev 4))
@@ -451,21 +451,21 @@ mkdir -p ~/.local/share/nvim/undo
 $(brew --prefix)/opt/fzf/install --completion --key-bindings --no-fish --no-update-rc
 
 # Use Bash as a backup
-curl https://raw.githubusercontent.com/mskar/setup/main/.bash_profile -o ~/.bash_profile
+curl https://raw.githubusercontent.com/maptv/setup/main/.bash_profile -o ~/.bash_profile
 
-curl https://raw.githubusercontent.com/mskar/setup/main/.inputrc -o ~/.inputrc
+curl https://raw.githubusercontent.com/maptv/setup/main/.inputrc -o ~/.inputrc
 
 ## Download dotfiles (configuration files)
 
 # Zsh config
-curl https://raw.githubusercontent.com/mskar/setup/main/.zshrc -o ~/.zshrc
+curl https://raw.githubusercontent.com/maptv/setup/main/.zshrc -o ~/.zshrc
 
 # powerlevel10k config
-curl https://raw.githubusercontent.com/mskar/setup/main/.p10k.zsh -o ~/.p10k.zsh
+curl https://raw.githubusercontent.com/maptv/setup/main/.p10k.zsh -o ~/.p10k.zsh
 
 # git
 ## config
-curl https://raw.githubusercontent.com/mskar/setup/main/.gitconfig -o ~/.gitconfig
+curl https://raw.githubusercontent.com/maptv/setup/main/.gitconfig -o ~/.gitconfig
 
 ## Regular expressions for diffs
 ### https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
@@ -474,26 +474,26 @@ curl https://gist.githubusercontent.com/tekin/12500956bd56784728e490d8cef9cb81/r
 
 ## automatically ignored files
 # git config, ignore, and attributes
-curl https://raw.githubusercontent.com/mskar/setup/main/.gitignore -o ~/.gitignore
+curl https://raw.githubusercontent.com/maptv/setup/main/.gitignore -o ~/.gitignore
 
 ### Vim
-curl https://raw.githubusercontent.com/mskar/setup/main/.vimrc -o ~/.vimrc
+curl https://raw.githubusercontent.com/maptv/setup/main/.vimrc -o ~/.vimrc
 
 ### Vim snippets
-curl https://raw.githubusercontent.com/mskar/setup/main/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/all.snippets -o ~/.config/coc/ultisnips/all.snippets --create-dirs
 
 ### Neovim
-curl https://raw.githubusercontent.com/mskar/setup/main/init.vim -o ~/.config/nvim/init.vim --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/init.vim -o ~/.config/nvim/init.vim --create-dirs
 
 curl https://raw.githubusercontent.com/jalvesaq/Nvim-R/master/R/tmux_split.vim -o ~/tmux_split.vim
 
 ### Neovim GUIs
-curl https://raw.githubusercontent.com/mskar/setup/main/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/ginit.vim -o ~/.config/nvim/ginit.vim --create-dirs
 
 ### COC (Conqueror Of Completion)
-curl https://raw.githubusercontent.com/mskar/setup/main/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/coc-settings.json -o ~/.config/nvim/coc-settings.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/coc-settings.json -o ~/.vim/coc-settings.json --create-dirs
 
 ## SpaceVim
 git clone https://github.com/SpaceVim/SpaceVim.git ~/.SpaceVim
@@ -506,10 +506,10 @@ curl https://raw.githubusercontent.com/py4ds/setup/master/spacevim/myspacevim.vi
 
 yes y | bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
 
-curl https://raw.githubusercontent.com/mskar/setup/main/config.lua -o ~/.config/lvim/config.lua --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/config.lua -o ~/.config/lvim/config.lua --create-dirs
 
 ### JetBrains IDEs
-curl https://raw.githubusercontent.com/mskar/setup/main/.ideavimrc -o ~/.ideavimrc
+curl https://raw.githubusercontent.com/maptv/setup/main/.ideavimrc -o ~/.ideavimrc
 
 ## Set up emacs
 
@@ -518,7 +518,7 @@ rm -rf ~/.emacs.d
 
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 
-curl https://raw.githubusercontent.com/mskar/setup/main/.spacemacs -o ~/.spacemacs
+curl https://raw.githubusercontent.com/maptv/setup/main/.spacemacs -o ~/.spacemacs
 
 ### Doom emacs
 git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.doom.d
@@ -529,35 +529,35 @@ mkdir -p "$DOOMDIR"
 
 yes y | ~/.doom.d/bin/doom install
 
-curl https://raw.githubusercontent.com/mskar/setup/main/config.el -o ~/.config/doom/config.el
+curl https://raw.githubusercontent.com/maptv/setup/main/config.el -o ~/.config/doom/config.el
 
-curl https://raw.githubusercontent.com/mskar/setup/main/packages.el -o ~/.config/doom/packages.el
+curl https://raw.githubusercontent.com/maptv/setup/main/packages.el -o ~/.config/doom/packages.el
 
 ## Set up oh my tmux
 curl https://raw.githubusercontent.com/gpakosz/.tmux/master/.tmux.conf -o ~/.tmux.conf
 
-curl https://raw.githubusercontent.com/mskar/setup/main/.tmux.conf.local -o ~/.tmux.conf.local
+curl https://raw.githubusercontent.com/maptv/setup/main/.tmux.conf.local -o ~/.tmux.conf.local
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 ## Set up ipython
-curl https://raw.githubusercontent.com/mskar/setup/main/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/ipython_config.py -o ~/.ipython/profile_default/ipython_config.py --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/keybindings.py -o ~/.ipython/profile_default/startup/keybindings.py --create-dirs
 
 ## Set up ptpython
-curl https://raw.githubusercontent.com/mskar/setup/main/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/config.py -o ~/Library/Application\ Support/ptpython/config.py --create-dirs
 
 ## Set up radian
-curl https://raw.githubusercontent.com/mskar/setup/main/.radian_profile -o ~/.radian_profile
+curl https://raw.githubusercontent.com/maptv/setup/main/.radian_profile -o ~/.radian_profile
 
 ln -sf .radian_profile radian_profile.R
 
 ## Set up btm
-curl https://raw.githubusercontent.com/mskar/setup/main/bottom.toml -o ~/.config/bottom/bottom.toml --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/bottom.toml -o ~/.config/bottom/bottom.toml --create-dirs
 
 ## Set up TabNine
-curl https://raw.githubusercontent.com/mskar/setup/main/tabnine_config.json -o ~/.config/TabNine/tabnine_config.json --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/tabnine_config.json -o ~/.config/TabNine/tabnine_config.json --create-dirs
 
 # 6: Conda environments (base, Python and R)
 ### Install cookiecutter (for i alias) and neovim (for vim plugins)
@@ -570,15 +570,15 @@ $(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r 
 
 # 7: Code editors
 ### Radian, ipython, ptpython, and jupyterlab vim extension and dependencies for vim and coc
-$(brew --prefix)/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/mskar/radian git+https://github.com/mskar/ipython git+https://github.com/mskar/ptpython
+$(brew --prefix)/Caskroom/mambaforge/base/bin/python -m pip install git+https://github.com/maptv/radian git+https://github.com/maptv/ipython git+https://github.com/maptv/ptpython
 
 ### Jupyter settings
-curl https://raw.githubusercontent.com/mskar/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/shortcuts.jupyterlab-settings -o ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/vimrc.jupyterlab-settings -o ~/.jupyter/lab/user-settings/jupyterlab-vimrc/vimrc.jupyterlab-settings --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/vimrc.jupyterlab-settings -o ~/.jupyter/lab/user-settings/jupyterlab-vimrc/vimrc.jupyterlab-settings --create-dirs
 
 ### PyCharm settings
-curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settings.zip
+curl https://raw.githubusercontent.com/maptv/setup/main/settings.zip -o ~/settings.zip
 
 ## Setup PyCharm
 ### Install PyCharm via Jetbrains Toolbox
@@ -640,11 +640,11 @@ curl https://raw.githubusercontent.com/mskar/setup/main/settings.zip -o ~/settin
 ### When setting run configurations (`Ctrl Alt r`), set working directory to project root under Environment and deselect Run with Python Console under Execution
 
 ## Set up RStudio
-curl https://raw.githubusercontent.com/mskar/setup/main/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/rstudio-prefs.json -o ~/.config/rstudio/rstudio-prefs.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/editor_bindings.json -o ~/.config/rstudio/keybindings/editor_bindings.json --create-dirs
 
-curl https://raw.githubusercontent.com/mskar/setup/main/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
+curl https://raw.githubusercontent.com/maptv/setup/main/rstudio_bindings.json -o ~/.config/rstudio/keybindings/rstudio_bindings.json --create-dirs
 
 # Initialize conda for z shell
 $(brew --prefix)/bin/mamba init zsh
