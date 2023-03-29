@@ -307,20 +307,15 @@ brew bundle install --global || true
 
 # 4: Generate SSH keys for GitHub, GitLab, and Bitbucket
 
-## Only one key is needed per computer
-## The label is MacBook model
+model=$(sysctl hw.model | cut -d\  -f2)
 
-label=$(sysctl hw.model | cut -d\  -f2)
+ssh-keygen -t ed25519 -f ~/.ssh/$(whoami)_$model -C $(whoami)_$model
 
-ssh-keygen -t rsa -b 4096 -f ~/.ssh/$label -C $label
+ssh-add ~/.ssh/$(whoami)_$model
 
-ssh-add ~/.ssh/$label
+cat ~/.ssh/$(whoami)_$model.pub | pbcopy
 
-cat ~/.ssh/$label.pub | pbcopy
-
-gh ssh-key add ~/.ssh/$label.pub -t $label
-
-echo "Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/$label" >> ~/.ssh/config
+echo "Host *\n\tUseKeychain yes\n\tAddKeysToAgent yes\n\tIdentityFile ~/.ssh/$(whoami)_$model" >> ~/.ssh/config
 
 # 5: MacOS Applications
 ## Install Ewka Nerdfont
