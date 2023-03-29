@@ -12,7 +12,6 @@ export EDITOR=$(brew --prefix)/bin/nvim
 export MANPAGER="nvim +Man! +Page"
 export MANWIDTH=999
 export PAGER=less
-export PATH=/opt/homebrew/bin:$PATH
 export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
