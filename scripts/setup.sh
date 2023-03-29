@@ -2,7 +2,7 @@
 
 # Installation
 ## Run the command below in a terminal to set up a new macOS computer:
-## /bin/bash <(curl -s https://raw.githubusercontent.com/mlptv/setup/main/scripts/setup.sh)
+## curl -s https://raw.githubusercontent.com/mlptv/setup/main/scripts/setup.sh | /bin/bash
 
 ## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 
