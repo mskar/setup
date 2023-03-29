@@ -53,7 +53,7 @@
 [rebase]
     autosquash = true
 [user]
-	email = 13444106+mskar@users.noreply.github.com
+	email = 13444106+maptv@users.noreply.github.com
     name = Martin Skarzynski
 [credential]
 	helper = osxkeychain

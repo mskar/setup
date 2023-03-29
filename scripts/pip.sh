@@ -1,4 +1,4 @@
 python -m pip install jupyter
-python -m pip install git+https://github.com/mskar/ipython
-python -m pip install git+https://github.com/mskar/ptpython
-python -m pip install git+https://github.com/mskar/radian
+python -m pip install git+https://github.com/maptv/ipython
+python -m pip install git+https://github.com/maptv/ptpython
+python -m pip install git+https://github.com/maptv/radian

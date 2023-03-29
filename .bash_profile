@@ -231,7 +231,7 @@ alias hrcp="func() { gh repo create $(echo '$1') --public $(echo '${@:2}') -y &&
 alias hrcpd="func() { gh repo create $(echo '$1') --public --description \"$(echo '${*# }')\" -y && cd $(echo '$1'); }; func"
 alias hrf="gh repo fork"
 alias hrv="gh repo view"
-alias i="func() { cookiecutter gh:mskar/cookiecutter --no-input proj_name=$(echo '$1') proj_desc=$(echo '${2:-""}') is_private=$(echo '${3:-"false"}') user_name=$(echo '${4:-"mskar"}') full_name=$(echo '${5:-"Martin Skarzynski"}') && cd $(echo '$(echo "$1" | tr "[:upper:]" "[:lower:]" | tr " " "_")') && make git env; }; func";
+alias i="func() { cookiecutter gh:maptv/cookiecutter --no-input proj_name=$(echo '$1') proj_desc=$(echo '${2:-""}') is_private=$(echo '${3:-"false"}') user_name=$(echo '${4:-"maptv"}') full_name=$(echo '${5:-"Martin Skarzynski"}') && cd $(echo '$(echo "$1" | tr "[:upper:]" "[:lower:]" | tr " " "_")') && make git env; }; func";
 alias ig="func() { echo $(echo 'echo $@ | tr " " "\n" >> $(git rev-parse --show-toplevel)/.gitignore'); }; func";
 alias ii="func() { local files=$(echo '$(git ls-files --others --exclude-standard | fzf --preview="bat --style=numbers --color=always {} | grep -E \$([ {q} ] && echo {q} | xargs | sed s/\ /\|/g | sed s/$/\|$/g || echo ^) --color=always")') && echo $(echo '$files') | tr '\n' '\0' | xargs -0 -I file bash -c 'echo "file" >> \$(git rev-parse --show-toplevel)/.gitignore'; }; func";
 alias it="func() { if $(echo '$1'); then; $(echo '$2'); fi; }; func";
