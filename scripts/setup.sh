@@ -1,12 +1,8 @@
 # This repo contains my setup files for Mac (local) and Linux (remote).
 
 # Installation
-echo << EOF
-Run the command below in a terminal to set up a new macOS computer:
-```sh
-/bin/bash <(curl -s https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)
-```
-EOF
+## Run the command below in a terminal to set up a new macOS computer:
+## /bin/bash <(curl -s https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)
 
 ## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 
