@@ -2,6 +2,7 @@
 
 # Installation
 echo << EOF
+Run the command below in a terminal to set up a new macOS computer:
 ```sh
 /bin/bash <(curl -s https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)
 ```
