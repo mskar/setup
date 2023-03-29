@@ -6,14 +6,13 @@ export FIG_WORKFLOWS_KEYBIND="^\\"
 # https://github.com/junegunn/fzf#respecting-gitignore
 # https://github.com/junegunn/fzf/wiki/Configuring-shell-key-bindings
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-export PATH=~/.local/bin:/usr/local/texlive/2021basic/bin/universal-darwin:/usr/local/bin:$PATH
 export DOOMDIR=$HOME/.config/doom
 export PATH=~/.doom.d/bin:$PATH
 export EDITOR=$(brew --prefix)/bin/nvim
 export MANPAGER="nvim +Man! +Page"
 export MANWIDTH=999
 export PAGER=less
-export PATH=$(brew --prefix)/Caskroom/mambaforge/base/bin:$PATH
+export PATH=/opt/homebrew/bin:$PATH
 export KEYTIMEOUT=1
 export FZF_DEFAULT_COMMAND="fd --type file"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"

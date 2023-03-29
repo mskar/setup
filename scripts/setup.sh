@@ -1,11 +1,11 @@
 # This repo contains my setup files for Mac (local) and Linux (remote).
 
 # Installation
-### `/bin/bash <(curl -s https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)`
-## or
-### `curl -fsSL https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh | /bin/bash`
-## or
-### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)"`
+echo << EOF
+```sh
+/bin/bash <(curl -s https://raw.githubusercontent.com/mskar/setup/main/scripts/setup.sh)
+```
+EOF
 
 ## This README is a symlink to the [setup.sh](scripts/setup.sh) script in the [scripts](scripts) directory.
 
@@ -31,11 +31,6 @@
 curl https://raw.githubusercontent.com/mskar/setup/main/macos.terminal -o ~/macos.terminal
 
 ### Run the defaults commands below to setup MacOS
-
-## Theme
-
-### Toggle theme with ctrl option cmd t
-defaults write /Library/Preferences/.GlobalPreferences.plist _HIEnableThemeSwitchHotKey -bool true
 
 # Ask for the administrator password upfront
 sudo -v
