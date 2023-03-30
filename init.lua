@@ -371,12 +371,8 @@ end)
 -- In Vim, use G
 -- In macOS, use Ctrl Command N instead of Alt Shift .
 
--- Alt Semicolon (;) goes to the next window thanks to a shortcut set in System Preferences
+-- Alt Semicolon (;) is not used for anything
 -- ASCII character 46
--- This System Preferences shortcut also enables Alt Shift semicolon to go to the previous window
--- I used Karabiner to have Alt comma send Alt Shift semicolon, so I can switch back and forth
--- between windows using ; and , (similar to the vim motions repeat f, F, t, and T motions)
--- Thanks to other Karabiner keyboard modification, I can hold Tab or Backslash instead of Alt
 
 -- Alt 0 brings focus to next display/screen
 -- Close parentheses goes to next session in tmux

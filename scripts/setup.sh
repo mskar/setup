@@ -566,7 +566,7 @@ $(brew --prefix)/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge pyth
 $(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python joblib jupyterlab seaborn neovim numpy pandas scikit-learn jupyterlab_vim scipy
 
 ##### Installing r into base environment breaks nvim-R
-$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidymodels r-tidyverse r-languageserver python neovim
+$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidyverse r-irkernel python neovim jupyterlab jupyterlab_vim
 
 # 7: Code editors
 
@@ -652,5 +652,23 @@ $(brew --prefix)/bin/mamba init zsh
 ## Restart computer to enable macOS settings set via defaults
 ## Load in the profile saved in the `macos.terminal` file
 ## Give karabiner_grabber and karabiner_observer Input Monitoring permission
-## load macos profile (macos.terminal)
-
+## Set the following keyboard shortcuts:
+### Mission Control
+#### Mission Control: Ctrl Alt Shift Cmd Up
+#### Application windows: Ctrl Alt Shift Cmd Up
+#### Move left a space: Ctrl Alt Shift Cmd Left
+#### Switch to Desktop 1: Ctrl Alt Shift Cmd 1
+#### Switch to Desktop 2: Ctrl Alt Shift Cmd 2
+#### Switch to Desktop 3: Ctrl Alt Shift Cmd 3
+#### Switch to Desktop 4: Ctrl Alt Shift Cmd 4
+#### Switch to Desktop 5: Ctrl Alt Shift Cmd 5
+### Keyboard
+#### Change the way Tab moves focus: Alt Cmd Tab
+#### Turn keyboard access on or off: Alt Cmd K
+#### Move focus to the menu bar: Alt Cmd A (A is for Apple)
+#### Move focus to the Dock: Alt Cmd Z (Z is below A and S)
+#### Move focus to the active or next window: Cmd ; (like Cmd `)
+#### Move focus to the window toolbar: Alt Cmd T
+#### Move focus to the floating window: Alt Cmd W
+#### Move focus to the next window: Cmd ` (Default)
+#### Move focus to the status menus: Alt Cmd S

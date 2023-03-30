@@ -42,31 +42,6 @@
                         ]
                     },
                     {
-                        "description": "Change Option Comma to Option Shift Semicolon",
-                        "manipulators": [
-                            {
-                                "from": {
-                                    "key_code": "comma",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "option"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "semicolon",
-                                        "modifiers": [
-                                            "left_option",
-                                            "left_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
                         "description": "Change close square bracket (]) to option if pressed with other keys, to close square bracket if pressed alone",
                         "manipulators": [
                             {
