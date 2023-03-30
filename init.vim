@@ -149,6 +149,7 @@ let g:UltiSnipsExpandTrigger = "<f5>"
 " https://github.com/jiangmiao/auto-pairs#shortcuts
 let g:AutoPairsShortcutBackInsert = "<M-i>"
 let g:AutoPairsShortcutFastWrap = "<M-w>"
+let g:AutoPairsMapCR = 0
 
 "" Enable hidden buffers
 set hidden
