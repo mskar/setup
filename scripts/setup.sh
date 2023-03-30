@@ -680,3 +680,12 @@ $(brew --prefix)/bin/mamba init zsh
 #### SurfingKeys extension with settings loaded from https://raw.githubusercontent.com/maptv/setup/main/surfingkeys.js
 #### Vimium extension with settings restored from https://raw.githubusercontent.com/maptv/setup/main/vimium-options.json
 #### LastPass extension
+#### BitWarden extension
+
+# Terminals
+## iTerm: set up to automatically run tmux attach
+## alacritty: set up to automatically run tmux attach
+## kitty: need to manually run tmux attach
+## tabby: can't figure how to remap ctrl ; to ctrl q
+## hyper: can't figure how to remap ctrl ; to ctrl q
+## terminal: can't figure how to remap ctrl ; to ctrl q
