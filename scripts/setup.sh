@@ -672,3 +672,11 @@ $(brew --prefix)/bin/mamba init zsh
 #### Move focus to the floating window: Alt Cmd W
 #### Move focus to the next window: Cmd ` (Default)
 #### Move focus to the status menus: Alt Cmd S
+## Set Sound options
+### Set alert volume to zero
+### Disable Play sound on startup
+## Add all Google profiles in Chrome
+### Each profile automatically should have
+#### SurfingKeys extension with settings loaded from https://raw.githubusercontent.com/maptv/setup/main/surfingkeys.js
+#### Vimium extension with settings restored from https://raw.githubusercontent.com/maptv/setup/main/vimium-options.json
+#### LastPass extension
