@@ -175,7 +175,6 @@ alias bu="brew upgrade"
 alias buc="brew upgrade --cask"
 alias buco="brew upgrade --cask $(echo '$(brew outdated --cask | cut -f1 | tr "\n" " ")')"
 alias buo="brew upgrade $(echo '$(brew outdated --formula | cut -f1 | tr "\n" " ")')"
-alias bw="bit switch"
 alias bx="brew uninstall"
 alias bxc="brew uninstall --cask"
 alias by="bit sync"
@@ -948,7 +947,7 @@ bindkey -M viins '˙' backward-kill-word
 bindkey -M viins '≥' insert-last-word
 
 autoload -U +X bashcompinit && bashcompinit
-complete -o nospace -C /usr/local/bin/bit bit
+complete -o nospace -C /opt/homebrew/bin/bit bit
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
