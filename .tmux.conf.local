@@ -430,7 +430,7 @@ bind y        copy-mode                                         # *y* *yank*
 # ctrl is ignored with - ; = . ] , \ ' space enter 1 9 and comma
 # ctrl [ is escape
 # c-z suspends tmux
-bind M-;    next-layout
+bind M-\;    next-layout
 bind M-,    previous-layout
 # inspired by these keybindings: https://github.com/jabirali/tmux-tilish#keybindings
 bind V      select-layout even-horizontal
