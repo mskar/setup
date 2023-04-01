@@ -337,10 +337,9 @@ cp ~/maptv/ewka/nerd/* ~/Library/Fonts
 ### the equivalent shortcut in PyCharm, `Cmd P`, conflicts with vscode's quickOpen
 ### PyCharm uses `Cmd Shift O` for quick open files and `Cmd E` for recent files
 
-# Permissions ## Grant permissions to CopyQ, altTab, Vimac, VimR and Alfred
+# Permissions
 
 # App shortcuts
-## Enable launch on login for CopyQ, altTab, and Vimac
 ## Set VimR to be the default txt file editor
 duti -s com.qvacua.VimR txt all
 
@@ -683,8 +682,8 @@ $(brew --prefix)/bin/mamba init zsh
 #### BitWarden extension
 ## Add all Internet Accounts in System Preferences
 ## Install Homerow: https://www.homerow.app
-### Grant Accessibility
-### Enable Launch at login
+### Grant Accessibility permissions to CopyQ, altTab, Homerow, Hammerspoon, VimR and Alfred
+### Enable launch on login for CopyQ, altTab, Homerow, Hammerspoon, VimR and Alfred
 ### Select ABC under Auto-switch Input Source
 ### Click Disable search & show all labels
 
