@@ -433,11 +433,11 @@ bind y        copy-mode                                         # *y* *yank*
 bind M-;    next-layout
 bind M-,    previous-layout
 # inspired by these keybindings: https://github.com/jabirali/tmux-tilish#keybindings
-bind H      select-layout even-horizontal
-bind V      select-layout even-vertical
-bind M-H    select-layout main-horizontal
-bind M-V    select-layout main-vertical
-bind M-T    select-layout tiled
+bind V      select-layout even-horizontal
+bind S      select-layout even-vertical
+bind M-V    select-layout main-horizontal # main / meta
+bind M-S    select-layout main-vertical # main / meta
+bind M-T    select-layout tiled # t and T are taken
 
 # https://superuser.com/a/325579
 set -sg repeat-time 300                  # decrease repeat timeout
@@ -536,8 +536,8 @@ set -g @continuum-boot 'on'
 set -g @continuum-boot-options 'iterm,fullscreen'
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/custom_key_bindings.md
-set -g @resurrect-save 'S'
-set -g @resurrect-restore 'B'
+set -g @resurrect-save 'D' # dump
+set -g @resurrect-restore 'L' # load
 
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
