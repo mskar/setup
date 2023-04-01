@@ -681,6 +681,12 @@ $(brew --prefix)/bin/mamba init zsh
 #### Vimium extension with settings restored from https://raw.githubusercontent.com/maptv/setup/main/vimium-options.json
 #### LastPass extension
 #### BitWarden extension
+## Add all Internet Accounts in System Preferences
+## Install Homerow: https://www.homerow.app
+### Grant Accessibility
+### Enable Launch at login
+### Select ABC under Auto-switch Input Source
+### Click Disable search & show all labels
 
 # Terminals
 ## iTerm: set up to automatically run tmux attach
