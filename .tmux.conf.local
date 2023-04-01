@@ -321,7 +321,6 @@ bind -r +     resize-pane -U 10                                 # *CTRL-W_+*
 bind -r -     resize-pane -D 10                                 # *CTRL-W_-*
 bind -r <     resize-pane -L 10                                 # *CTRL-W_<*
 bind -r >     resize-pane -R 10                                 # *CTRL-W_>*
-bind -r C     select-pane -t :.- \; resize-pane -Z              # *CTRL-W_c* *:clo* *:close*
 bind -r C-c   select-pane -t :.+ \; resize-pane -Z              # *CTRL-W_c* *:clo* *:close*
 bind -r C-h   select-pane -L                                    # *CTRL-W_<Left>* *CTRL-W_CTRL-H* *CTRL-W_h*
 bind -r C-j   select-pane -D                                    # *CTRL-W_<Down>* *CTRL-W_CTRL-J* *CTRL-W_j*
@@ -375,16 +374,16 @@ bind Enter    display-panes                                     # Vim does not d
 bind g        display-message                                   # *CTRL-G* *:f* *:fi* *:file*
 
 # Tmux windows are like Vim tabs
-bind -r C-Tab last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
-bind -r M-c   kill-window                                       # *:tabc* *:tabclose*
-bind -r M-e   new-window                                        # *:tabe* *:tabedit* *:tabnew*
-bind -r M-f   command-prompt "find-window '%%'"                 # *:tabf* *:tabfind*
-bind -r M-m   command-prompt "move-window -t '%%'"              # *:tabm* *:tabmove*
-bind -r M-n   next-window                                       # *:tabn* *:tabnext* *gt*
-bind -r M-o   kill-window -a                                    # *:tabo* *:tabonly*
-bind -r M-p   previous-window                                   # *:tabp* *:tabprevious* *gT* *:tabN*
-bind -r M-s   choose-window                                     # *:tabs*
-bind -r Tab   last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
+# C-i is the same as Tab
+bind -r I     last-window                                       # *g<Tab>* *CTRL-W_g<Tab>* *<C-Tab>*
+bind -r C     kill-window                                       # *:tabc* *:tabclose*
+bind -r E     new-window                                        # *:tabe* *:tabedit* *:tabnew*
+bind -r F     command-prompt "find-window '%%'"                 # *:tabf* *:tabfind*
+bind -r M     command-prompt "move-window -t '%%'"              # *:tabm* *:tabmove*
+bind -r N     next-window                                       # *:tabn* *:tabnext* *gt*
+bind -r O     kill-window -a                                    # *:tabo* *:tabonly*
+bind -r P     previous-window                                   # *:tabp* *:tabprevious* *gT* *:tabN*
+bind -r S     choose-window                                     # *:tabs*
 bind 0        select-window -t:^                                # *:tabfir* *:tabfirst* *:tabr* *:tabrewind*
 bind 1        if-shell "tmux select-window -t :1" '' "new-window -t :1"
 bind 2        if-shell "tmux select-window -t :2" '' "new-window -t :2"
@@ -395,9 +394,11 @@ bind 6        if-shell "tmux select-window -t :6" '' "new-window -t :6"
 bind 7        if-shell "tmux select-window -t :7" '' "new-window -t :7"
 bind 8        if-shell "tmux select-window -t :8" '' "new-window -t :8"
 bind 9        select-window -t:$                                # *:tabl* *:tablast*
-bind M-z      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/window.sh switch"
+bind L        select-window -t:$                                # *:tabl* *:tablast*
+bind Z        run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/window.sh switch"
 bind T        break-pane                                        # *CTRL-W_T*
 # To use M-l to lowercaseWord, I have to type prefix: unbind-key -n M-l
+# Uninstalling tilish enabled use of M-l with unbind-key
 
 # Sessions are like buffers
 # https://github.com/sainnhe/tmux-fzf/issues/6
@@ -415,10 +416,6 @@ bind C-d      detach-client                                     # mnemonic: deta
 bind a        choose-session                                    # mnemonic: attach
 bind d        detach-client                                     # mnemonic: detach
 
-# Find an alias using the tmux-fzf menu
-bind i        run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/menu.sh"
-bind C-i      run-shell -b "~/.tmux/plugins/tmux-fzf/scripts/menu.sh"
-
 # Tmux buffers are like Vim registers
 # use bracketed-paste (-p option)
 # https://cirw.in/blog/bracketed-paste
@@ -430,14 +427,13 @@ bind y        copy-mode                                         # *y* *yank*
 # ctrl is ignored with - ; = . ] , \ ' space enter 1 9 and comma
 # ctrl [ is escape
 # c-z suspends tmux
-bind M-\;    next-layout
-bind M-,    previous-layout
-# inspired by these keybindings: https://github.com/jabirali/tmux-tilish#keybindings
-bind V      select-layout even-horizontal
-bind S      select-layout even-vertical
-bind M-V    select-layout main-horizontal # main / meta
-bind M-S    select-layout main-vertical # main / meta
-bind M-T    select-layout tiled # t and T are taken
+bind !      select-layout even-horizontal # like M-1
+bind @      select-layout even-vertical # like M-2
+bind \#     select-layout main-horizontal # like M-3
+bind $      select-layout main-vertical # like M-4
+bind %      select-layout tiled # like M-5
+bind (      previous-layout
+bind )      next-layout
 
 # https://superuser.com/a/325579
 set -sg repeat-time 300                  # decrease repeat timeout
@@ -451,7 +447,7 @@ set -g default-command "reattach-to-user-namespace -l zsh"
 # List of plugins
 set -g @plugin 'fcsonline/tmux-thumbs' # space
 # set -g @plugin 'jabirali/tmux-tilish' # https://github.com/jabirali/tmux-tilish#keybindings
-set -g @plugin 'laktak/extrakto' # E
+set -g @plugin 'laktak/extrakto' # X
 set -g @plugin 'roosta/tmux-fuzzback' # ?
 set -g @plugin 'sainnhe/tmux-fzf' # z i
 set -g @plugin 'tmux-plugins/tmux-continuum'
@@ -465,61 +461,6 @@ set -g @fuzzback-fzf-bind 'ctrl-y:execute-silent(echo -n {3..} | pbcopy)+abort'
 
 # https://github.com/sainnhe/tmux-fzf#fzf-behavior
 TMUX_FZF_OPTIONS="--delimiter=: --nth=1"
-
-# https://github.com/sainnhe/tmux-fzf#user-menu
-TMUX_FZF_MENU=\
-"a.: add files in current directory (.)\ngit add .\n"\
-"a.c: add files in current directory (.) and commit\ngit add . && git commit\n"\
-"a.ca: add files in current directory, amend previous commit, and push\ngit add . && git commit --amend --reset-author\n"\
-"a.cap: add files in current directory, amend previous commit, and push\ngit add . && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"a.capf: add files in current directory, amend previous commit, and push\ngit add . && git commit --amend --reset-author && git push --force\n"\
-"a.car: add files in current directory and amend previous commit reusing the previous commit message\ngit add . && git commit --amend --reset-author --reuse-message=HEAD\n"\
-"a.carp: add files in current directory, amend previous commit reusing the previous commit message, and push\ngit add . && git commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"a.carpf: add files in current directory, amend previous commit reusing the previous commit message, and force push\ngit add . && git commit --amend --reset-author && git push --force\n"\
-"a.cp: add files in current directory (.), commit, and push\ngit add . && git commit && git push\n"\
-"a.cpf: add files in current directory (.), commit, and force push\ngit add . && git commit && git push --force-if-includes --force-with-lease\n"\
-"aa: add all files\ngit add --all\n"\
-"aac: add all files and commit\ngit add --all && git commit\n"\
-"aaca: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author\n"\
-"aacap: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"aacapf: add all files, amend previous commit, and push\ngit add --all && git commit --amend --reset-author && git push --force\n"\
-"aacar: add all files and amend previous commit reusing the previous commit message\ngit add --all && git commit --amend --reset-author --reuse-message=HEAD\n"\
-"aacarp: add all files, amend previous commit reusing the previous commit message, and push\ngit add --all && git commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"aacarpf: add all files, amend previous commit reusing the previous commit message, and force push\ngit add --all && git commit --amend --reset-author && git push --force\n"\
-"aacp: add all files, commit, and push\ngit add --all && git commit && git push\n"\
-"aacpf: add all files, commit, and force push\ngit add --all && git commit && git push --force-if-includes --force-with-lease\n"\
-"ai: add files interactively\ngit add --interactive\n"\
-"aic: add files interactively and commit\ngit add --interactive && git commit\n"\
-"aica: add files interactively, amend previous commit, and push\ngit add --interactive && git commit --amend --reset-author\n"\
-"aicap: add files interactively, amend previous commit, and push\ngit add --interactive && git commit --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"aicapf: add files interactively, amend previous commit, and push\ngit add --interactive && git commit --amend --reset-author && git push --force\n"\
-"aicar: add files interactively and amend previous commit reusing the previous commit message\ngit add --interactive && git commit --amend --reset-author --reuse-message=HEAD\n"\
-"aicarp: add files interactively, amend previous commit reusing the previous commit message, and push\ngit add --interactive && git commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"aicarpf: add files interactively, amend previous commit reusing the previous commit message, and force push\ngit add --interactive && git commit --amend --reset-author && git push --force\n"\
-"aicp: add files interactively, commit, and push\ngit add --interactive && git commit && git push\n"\
-"aicpf: add files interactively, commit, and force push\ngit add --interactive && git commit && git push --force-if-includes --force-with-lease\n"\
-"caa: add tracked files and amend previous commit\ngit commit --all --amend --reset-author\n"\
-"caap: add tracked files, amend previous commit, and push\ngit commit --all --amend --reset-author && git push --force-if-includes --force-with-lease\n"\
-"caapf: add tracked files, amend previous commit, and force push\ngit commit --all --amend --reset-author && git push --force\n"\
-"caar: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD\n"\
-"caarp: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"caarpf: add tracked files, amend previous commit reusing the previous commit message, and push\ngit commit --all --amend --reset-author --reuse-message=HEAD && git push --force\n"\
-"cai: add files interactively and amend previous commit\ngit commit --amend --interactive --reset-author\n"\
-"caip: add files interactively, amend previous commit, and push\ngit commit --amend --interactive --reset-author && git push --force-if-includes --force-with-lease\n"\
-"caipf: add files interactively, amend previous commit, and force push\ngit commit --amend --interactive --reset-author && git push --force\n"\
-"cair: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD\n"\
-"cairp: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"cairpf: add files interactively, amend previous commit reusing the previous commit message, and push\ngit commit --amend --interactive --reset-author --reuse-message=HEAD && git push --force\n"\
-"cap: amend previous commit, and push tracked files\ngit commit --amend && git push --force-if-includes --force-with-lease\n"\
-"capf: amend previous commit, and force push tracked files\ngit commit --amend && git push --force-if-includes --force-with-lease\n"\
-"car: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD\n"\
-"carp: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"carpf: amend previous commit reusing the previous commit message, and force push tracked files\ngit commit --amend --reset-author --reuse-message=HEAD && git push --force\n"\
-"cip: add files interactively, commit, and push tracked files\ngit commit --interactive && git push --force-if-includes --force-with-lease\n"\
-"cipf: add files interactively, commit, and force push tracked files\ngit commit --interactive && git push --force-if-includes --force-with-lease\n"\
-"cir: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD\n"\
-"cirp: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force-if-includes --force-with-lease\n"\
-"cirpf: add files interactively, commit reusing the previous commit message, and force push tracked files\ngit commit --interactive --reset-author --reuse-message=HEAD && git push --force\n"
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_vim_and_neovim_sessions.md
 # for vim
@@ -536,11 +477,11 @@ set -g @continuum-boot 'on'
 set -g @continuum-boot-options 'iterm,fullscreen'
 
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/custom_key_bindings.md
-set -g @resurrect-save 'D' # dump
-set -g @resurrect-restore 'L' # load
+set -g @resurrect-save 'M-D' # dump
+set -g @resurrect-restore 'M-L' # load
 
 # https://github.com/laktak/extrakto#options
-set -g @extrakto_key 'E'
+set -g @extrakto_key 'X'
 
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
