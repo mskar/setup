@@ -451,12 +451,12 @@ set -g default-command "reattach-to-user-namespace -l zsh"
 # List of plugins
 set -g @plugin 'fcsonline/tmux-thumbs' # space
 # set -g @plugin 'jabirali/tmux-tilish' # https://github.com/jabirali/tmux-tilish#keybindings
-set -g @plugin 'laktak/extrakto' # tab
+set -g @plugin 'laktak/extrakto' # E
 set -g @plugin 'roosta/tmux-fuzzback' # ?
 set -g @plugin 'sainnhe/tmux-fzf' # z i
 set -g @plugin 'tmux-plugins/tmux-continuum'
 set -g @plugin 'tmux-plugins/tmux-fpp' # f
-set -g @plugin 'tmux-plugins/tmux-resurrect' # S B
+set -g @plugin 'tmux-plugins/tmux-resurrect' # D L
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'wfxr/tmux-fzf-url' # u
 
@@ -538,6 +538,9 @@ set -g @continuum-boot-options 'iterm,fullscreen'
 # https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/custom_key_bindings.md
 set -g @resurrect-save 'D' # dump
 set -g @resurrect-restore 'L' # load
+
+# https://github.com/laktak/extrakto#options
+set -g @extrakto_key 'E'
 
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
