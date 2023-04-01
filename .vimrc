@@ -912,7 +912,6 @@ inoremap <silent><expr> <CR>
   \ len(complete_info()["items"]) == 1 ? "\<C-y>" :
   \ pumvisible() ? coc#_select_confirm() :
   \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
-  \ <SID>check_back_space() ? "\<CR>" :
   \ "\<CR>"
 
 function! s:check_back_space() abort
