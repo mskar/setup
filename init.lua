@@ -190,7 +190,6 @@ hs.hotkey.bind("ctrl", "2", moveWindowToDisplay(2))
 hs.hotkey.bind("ctrl", "3", moveWindowToDisplay(3))
 hs.hotkey.bind("ctrl", "4", moveWindowToDisplay(4))
 hs.hotkey.bind("ctrl", "5", moveWindowToDisplay(5))
-hs.hotkey.bind("ctrl", "6", moveWindowToDisplay(6))
 
 -- Ctrl Nine (9) moves the current window to the previous screen
 -- Open parentheses goes to previous session in tmux
@@ -353,6 +352,9 @@ function focusDisplay(d)
   end
 end
 
+-- Alt Comma (,) is not used for anything
+-- ASCII characters 44
+
 -- Alt - focuses the window below the current window
 -- Alt Hyphen (-) is begin negative argument in Emacs
 -- ASCII character 45
@@ -365,14 +367,11 @@ end)
 
 -- Alt Period (.) is insert previous argument in bash / zsh
 -- Alt Forwardslash (/) is hippie completion in Emacs, analogous to omnicompletion in vim
--- ASCII characters 44-47
+-- ASCII characters 46-47
 -- Note: Alt Shift Period (.) goes to the end of the document in Emacs
 -- Note: Alt Shift Comma (,) goes to the start of the document in Emacs
 -- In Vim, use G
 -- In macOS, use Ctrl Command N instead of Alt Shift .
-
--- Alt Semicolon (;) is not used for anything
--- ASCII character 46
 
 -- Alt 0 brings focus to next display/screen
 -- Close parentheses goes to next session in tmux
@@ -389,7 +388,6 @@ hs.hotkey.bind("alt", "2", focusDisplay(2))
 hs.hotkey.bind("alt", "3", focusDisplay(3))
 hs.hotkey.bind("alt", "4", focusDisplay(4))
 hs.hotkey.bind("alt", "5", focusDisplay(5))
-hs.hotkey.bind("alt", "6", focusDisplay(6))
 
 -- Alt 9 brings focus to previous display/screen
 -- Open parentheses goes to previous session in tmux
@@ -397,6 +395,9 @@ hs.hotkey.bind("alt", "6", focusDisplay(6))
 hs.hotkey.bind("alt", "9", function()
   focusScreen(hs.window.frontmostWindow():screen():previous())
 end)
+
+-- Alt Semicolon (;) is not used for anything
+-- ASCII character 59
 
 -- Alt = focuses the window above the current window
 -- Alt = (ASCII character 61) is count words in region in Emacs
