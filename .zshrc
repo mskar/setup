@@ -321,17 +321,14 @@ alias dtvs="git difftool --no-prompt --tool vimdiff --staged" # same as --cached
 alias duh="du -h"
 alias dw="git diff --word-diff=color"
 alias dx="docker rm -f $(echo 'docker ps -aq')"
-alias e="emacsclient -t --alternate-editor emacs"
-alias ed.="emacs --no-window-system -q --load ~/.doom.d/init.el ."
-alias ed="emacs --no-window-system -q --load ~/.doom.d/init.el"
-alias edd="emacs --daemon -q --load ~/.doom.d/init.el"
-alias eds="emacs --daemon -q --load ~/.emacs.d/init.el"
+alias e="emacsclient -t --alternate-editor emacs" # use whatever daemon if running otherwise run emacs command
+alias ed.="emacs --no-window-system" # open doom emacs dired in current directory
+alias ed="emacs --no-window-system" # open doom emacs
+alias edd="emacs --daemon" # start doom emacs daemon
+alias eds="emacs --daemon -q --load ~/spacemacs/init.el" # start spacemacs daemon
 alias ef="func() { local files=$(echo '$(fasd -Rfl | fzf --delimiter=/ --with-nth=4..)') && [ $(echo '$files') ] && echo $(echo '$files') | tr '\n' '\0' | xargs -0 emacsclient -t --alternate-editor -- ; }; func"
-alias ei="emacs -q --load ~/.emacs.d/init.el"
-alias eq="emacs -q"
-alias eql="emacs -q --load"
-alias es.="emacs --no-window-system -q --load ~/.emacs.d/init.el ."
-alias es="emacs --no-window-system -q --load ~/.emacs.d/init.el"
+alias es.="emacs --no-window-system -q --load ~/spacemacs/init.el ." # open spacemacs dired in current directory
+alias es="emacs --no-window-system -q --load ~/spacemacs/init.el" # open spacemacs
 alias esa="eval `ssh-agent -s`"
 alias ex="emacsclient -e '(kill-emacs)'"
 alias ez="emacsclient -t --alternate-editor emacs ~/.zshrc"

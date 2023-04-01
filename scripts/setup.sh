@@ -513,20 +513,16 @@ curl https://raw.githubusercontent.com/maptv/setup/main/.ideavimrc -o ~/.ideavim
 ## Set up emacs
 
 ### Spacemacs
-rm -rf ~/.emacs.d
 
-git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+git clone https://github.com/syl20bnr/spacemacs ~/spacemacs
 
 curl https://raw.githubusercontent.com/maptv/setup/main/.spacemacs -o ~/.spacemacs
 
 ### Doom emacs
-git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.doom.d
 
-DOOMDIR=~/.config/doom/
+rm -rf ~/.emacs.d
 
-mkdir -p "$DOOMDIR"
-
-yes y | ~/.doom.d/bin/doom install
+git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d
 
 curl https://raw.githubusercontent.com/maptv/setup/main/config.el -o ~/.config/doom/config.el
 
