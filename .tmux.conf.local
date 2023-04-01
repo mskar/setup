@@ -430,11 +430,14 @@ bind y        copy-mode                                         # *y* *yank*
 # ctrl is ignored with - ; = . ] , \ ' space enter 1 9 and comma
 # ctrl [ is escape
 # c-z suspends tmux
-bind M-1      select-layout even-horizontal
-bind M-2      select-layout even-vertical
-bind M-3      select-layout main-horizontal
-bind M-4      select-layout main-vertical
-bind M-5      select-layout tiled
+bind M-;    next-layout
+bind M-,    previous-layout
+# inspired by these keybindings: https://github.com/jabirali/tmux-tilish#keybindings
+bind H      select-layout even-horizontal
+bind V      select-layout even-vertical
+bind M-H    select-layout main-horizontal
+bind M-V    select-layout main-vertical
+bind M-T    select-layout tiled
 
 # https://superuser.com/a/325579
 set -sg repeat-time 300                  # decrease repeat timeout
@@ -446,8 +449,8 @@ set -g history-file ~/.tmux_history
 set -g default-command "reattach-to-user-namespace -l zsh"
 
 # List of plugins
-set -g @plugin 'fcsonline/tmux-thumbs' # space, not working
-set -g @plugin 'jabirali/tmux-tilish' # https://github.com/jabirali/tmux-tilish#keybindings
+set -g @plugin 'fcsonline/tmux-thumbs' # space
+# set -g @plugin 'jabirali/tmux-tilish' # https://github.com/jabirali/tmux-tilish#keybindings
 set -g @plugin 'laktak/extrakto' # tab
 set -g @plugin 'roosta/tmux-fuzzback' # ?
 set -g @plugin 'sainnhe/tmux-fzf' # z i
