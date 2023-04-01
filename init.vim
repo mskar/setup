@@ -7,15 +7,15 @@ let vimplug_exists=expand('~/.config/nvim/autoload/plug.vim')
 
 " https://github.com/glacambre/firenvim/issues/1285#issuecomment-1004578943
 set laststatus=0
-if exists('g:started_by_firenvim')
-    let g:firenvim_config = {
-        \ 'localSettings': {
-            \ '.*': {
-                \ 'takeover': 'never',
-            \ },
-        \ }
-    \ }
-endif
+" if exists('g:started_by_firenvim')
+"     let g:firenvim_config = {
+"         \ 'localSettings': {
+"             \ '.*': {
+"                 \ 'takeover': 'never',
+"             \ },
+"         \ }
+"     \ }
+" endif
 
 let g:vim_bootstrap_langs = "python"
 let g:vim_bootstrap_editor = "nvim"				" nvim or vim
@@ -87,9 +87,9 @@ Plug 'ConradIrwin/vim-bracketed-paste'
 Plug 'jalvesaq/Nvim-R'
 
 " https://github.com/quarto-dev/quarto-nvim
-Plug 'quarto-dev/quarto-nvim'
-Plug 'neovim/nvim-lspconfig'
-Plug 'jmbuhr/otter.nvim'
+" Plug 'quarto-dev/quarto-nvim'
+" Plug 'neovim/nvim-lspconfig'
+" Plug 'jmbuhr/otter.nvim'
 
 " https://github.com/neovim/neovim/issues/1822#issuecomment-233152833
 Plug 'bfredl/nvim-miniyank'
