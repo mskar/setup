@@ -25,7 +25,7 @@
 ;; There are two ways to load a theme. Both assume the theme is installed and
 ;; available. You can either set `doom-theme' or manually load a theme with the
 ;; `load-theme' function. This is the default:
-(setq doom-theme 'doom-one)
+(setq doom-theme 'doom-dark+)
 
 ;; If you use `org' and don't want your org files in the default location below,
 ;; change `org-directory'. It must be set before org loads!
@@ -59,6 +59,12 @@
 
 ;; copying to system clipboard is working
 (osx-clipboard-mode +1)
+
+;; quit without confirmation
+(setq confirm-kill-emacs nil)
+
+;; completely black background
+(custom-set-faces '(default ((t (:background "#000000")))))
 
 (defun backward-kill-line (arg)
   "Kill ARG lines backward."
