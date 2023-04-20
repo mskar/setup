@@ -682,6 +682,17 @@ $(brew --prefix)/bin/mamba init zsh
 ### Enable launch on login for CopyQ, altTab, Homerow, Hammerspoon, VimR and Alfred
 ### Select ABC under Auto-switch Input Source
 ### Click Disable search & show all labels
+## Set up Displays
+### The resolution of display link dual monitors should be 3840
+### Set resolution of main monitor to 2650 and MacBook monitor to 1280, so the two add up to 3840
+### Click "Arrange..." and Arrange the monitors so that the main monitor and the MacBook monitor line up with the dual link dual monitors
+### Move the white band from the top of MacBook monitor to the main monitor, the monitor order should now be:
+#### 1: main monitor
+#### 2: MacBook monitor
+#### 3: far right monitor
+#### 4: dual link dual monitors
+#### 5: far right monitor
+
 
 # Terminals
 ## iTerm: set up to automatically run tmux attach
