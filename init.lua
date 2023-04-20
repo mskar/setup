@@ -87,7 +87,7 @@ function moveWindowToDisplay(d)
   return function()
       win = hs.window.frontmostWindow()
       exitFullScreen(win)
-      win:moveToScreen(hs.screen.allScreens()[d], false, false)
+      win:moveToScreen(hs.screen.allScreens()[d], true, true)
       centerMouseOnWindow(win)
   end
 end
@@ -174,9 +174,9 @@ hs.hotkey.bind("ctrl", "0", function()
   local win = hs.window.frontmostWindow()
   if win:isFullScreen() then
     win:setFullScreen(false)
-    win:moveToScreen(win:screen():next(), false, true, 1)
+    win:moveToScreen(win:screen():next(), true, true, 1)
   else
-    win:moveToScreen(win:screen():next(), false, true)
+    win:moveToScreen(win:screen():next(), true, true)
   end
   centerMouseOnWindow(win)
 end)
@@ -198,9 +198,9 @@ hs.hotkey.bind("ctrl", "9", function()
   local win = hs.window.frontmostWindow()
   if win:isFullScreen() then
     win:setFullScreen(false)
-    win:moveToScreen(win:screen():previous(), false, true, 1)
+    win:moveToScreen(win:screen():previous(), true, true, 1)
   else
-    win:moveToScreen(win:screen():previous(), false, true)
+    win:moveToScreen(win:screen():previous(), true, true)
   end
   centerMouseOnWindow(win)
 end)
