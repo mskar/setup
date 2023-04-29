@@ -284,7 +284,7 @@ set noerrorbells visualbell t_vb=
 let g:camelchar = "A-Z0-9.,;:{([`'\""
 " COC settings
 " https://github.com/neoclide/coc.nvim/blob/82c3834f8bfc5d91ce907405722fe0f297e13cff/doc/coc.txt#L1202
-let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-json', 'coc-python', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-tabnine', 'coc-yaml', 'coc-yank']
+let g:coc_global_extensions = ['coc-bibtex', 'coc-git', 'coc-json', 'coc-python', 'coc-r-lsp', 'coc-sh', 'coc-snippets', 'coc-yaml', 'coc-yank']
 
 " Always show the signcolumn, otherwise it would shift the text each time
 " diagnostics appear/become resolved.
@@ -905,19 +905,13 @@ inoremap <silent><expr> <TAB>
   \ len(complete_info()["items"]) == 1 ? "\<C-y>" :
   \ pumvisible() ? coc#_select_confirm() :
   \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
-  \ <SID>check_back_space() ? "\<TAB>" :
-  \ coc#refresh()
+  \ "\<TAB>"
 
 inoremap <silent><expr> <CR>
   \ len(complete_info()["items"]) == 1 ? "\<C-y>" :
   \ pumvisible() ? coc#_select_confirm() :
   \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
   \ "\<CR>"
-
-function! s:check_back_space() abort
-  let col = col('.') - 1
-  return !col || getline('.')[col - 1]  =~# '\s'
-endfunction
 
 inoremap <silent><expr> <C-e> coc#pum#visible() ? coc#pum#cancel() : "\<C-e>"
 inoremap <silent><expr> <C-g> coc#pum#visible() ? coc#pum#cancel() : "\<C-e>"
