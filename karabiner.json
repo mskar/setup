@@ -49,8 +49,7 @@
                                     "key_code": "open_bracket",
                                     "modifiers": {
                                         "optional": [
-                                            "control",
-                                            "command"
+                                            "any"
                                         ]
                                     }
                                 },
@@ -76,8 +75,7 @@
                                     "key_code": "close_bracket",
                                     "modifiers": {
                                         "optional": [
-                                            "control",
-                                            "command"
+                                            "any"
                                         ]
                                     }
                                 },
@@ -103,8 +101,7 @@
                                     "key_code": "backslash",
                                     "modifiers": {
                                         "optional": [
-                                            "control",
-                                            "command"
+                                            "any"
                                         ]
                                     }
                                 },
@@ -156,8 +153,7 @@
                                     "key_code": "quote",
                                     "modifiers": {
                                         "optional": [
-                                            "option",
-                                            "command"
+                                            "any"
                                         ]
                                     }
                                 },
