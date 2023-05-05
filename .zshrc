@@ -322,7 +322,7 @@ alias duh="du -h"
 alias dw="git diff --word-diff=color"
 alias dx="docker rm -f $(echo 'docker ps -aq')"
 alias e="emacsclient -t --alternate-editor emacs" # use whatever daemon if running otherwise run emacs command
-alias ed.="emacs --no-window-system" # open doom emacs dired in current directory
+alias ed.="emacs --no-window-system ." # open doom emacs dired in current directory
 alias ed="emacs --no-window-system" # open doom emacs
 alias edd="emacs --daemon" # start doom emacs daemon
 alias eds="emacs --daemon -q --load ~/spacemacs/init.el" # start spacemacs daemon
