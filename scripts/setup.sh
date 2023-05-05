@@ -295,9 +295,9 @@ curl https://raw.githubusercontent.com/maptv/setup/main/DefaultKeyBinding.dict -
 ## Install Homebrew (this also installs xcode tools needed for git)
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
+(echo; echo 'eval "$($(brew --prefix)/bin/brew shellenv)"') >> ~/.zprofile
 
-eval "$(/opt/homebrew/bin/brew shellenv)"
+eval "$($(brew --prefix)/bin/brew shellenv)"
 
 git config --global user.email 13444106+maptv@users.noreply.github.com
 
@@ -443,10 +443,10 @@ mkdir -p ~/.vim/undodir
 mkdir -p ~/.local/share/nvim/undo
 
 ## Install fzf key bindings and fuzzy completion using the install script which runs the commented out code below
-### source /usr/local/opt/fzf/shell/key-bindings.zsh
-### source /usr/local/opt/fzf/shell/key-bindings.bash
-### source /usr/local/opt/fzf/shell/completion.zsh
-### source /usr/local/opt/fzf/shell/completion.bash
+### source /opt/homebrew/opt/fzf/shell/key-bindings.zsh
+### source /opt/homebrew/opt/fzf/shell/key-bindings.bash
+### source /opt/homebrew/opt/fzf/shell/completion.zsh
+### source /opt/homebrew/opt/fzf/shell/completion.bash
 $(brew --prefix)/opt/fzf/install --completion --key-bindings --no-fish --no-update-rc
 
 # Use Bash as a backup

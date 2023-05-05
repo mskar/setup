@@ -15,5 +15,5 @@ if has("gui_vimr")
     :VimRSetFontAndSize "Ewka Nerd Font", 28
     nnoremap <silent><D-S-{> gT
     nnoremap <silent><D-S-}> gt
-    let g:python3_host_prog = /usr/local/Caskroom/mambaforge/base/envs/py/bin/python
+    let g:python3_host_prog = /opt/homebrew/Caskroom/mambaforge/base/envs/py/bin/python
 endif
