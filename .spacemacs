@@ -37,7 +37,7 @@ This function should only modify configuration layer settings."
 
    ;; List of configuration layers to load.
    dotspacemacs-configuration-layers
-   '(
+   '(lua
      ;; ----------------------------------------------------------------
      ;; Example of useful layers you may want to use right away.
      ;; Uncomment some layer names and press `SPC f e R' (Vim style) or
@@ -532,6 +532,9 @@ before packages are loaded."
 
   ;; Don't let evil-snipe repeat with f/F/t/T
   (setq evil-snipe-repeat-keys nil)
+
+  ;; Use ; and , for evil-snipe 
+  (setq evil-snipe-override-evil-repeat-keys t)
 
   ;; evil-snipe f/F/t/T don't work on their own
   (evil-define-key 'motion global-map
