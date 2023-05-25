@@ -47,6 +47,7 @@ This function should only modify configuration layer settings."
      ;; better-defaults
      emacs-lisp
      evil-snipe
+     evil-exchange
      git
      helm
      ;; lsp
@@ -526,6 +527,8 @@ before packages are loaded."
     (interactive "p")
     (kill-line (- 1 arg)))
 
+  ;; use cx for evil-exchange to match vim-exchange
+  (setq evil-exchange-key (kbd "cx"))
 
   ;; Don't let evil-snipe remap s and S
   (evil-snipe-mode -1)

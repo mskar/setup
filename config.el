@@ -47,11 +47,17 @@
 ;; persistent undo
 (setq undo-tree-auto-save-history t)
 
+;; use cx for evil-exchange to match vim-exchange
+(setq evil-exchange-key (kbd "cx"))
+
 ;; Don't let evil-snipe remap s and S
 (after! evil-snipe (evil-snipe-mode -1))
 
 ;; Don't let evil-snipe repeat with f/F/t/T
 (setq evil-snipe-repeat-keys nil)
+
+;; Use ; and , for evil-snipe 
+(setq evil-snipe-override-evil-repeat-keys t)
 
 ;; cursor-shape
 (use-package term-cursor)
