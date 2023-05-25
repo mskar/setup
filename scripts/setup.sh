@@ -647,52 +647,56 @@ curl https://raw.githubusercontent.com/maptv/setup/main/settings.json -o ~/Libra
 
 curl https://raw.githubusercontent.com/maptv/setup/main/settings.json -o ~/Library/Application\ Support/VSCodium/User/settings.json --create-dirs
 
+curl https://raw.githubusercontent.com/maptv/setup/main/keybindings.json -o ~/Library/Application\ Support/Code/User/keybindings.json --create-dirs
+
+curl https://raw.githubusercontent.com/maptv/setup/main/keybindings.json -o ~/Library/Application\ Support/VSCodium/User/keybindings.json --create-dirs
+
 # Install vscode and vscodium extensions
-codium --install-extension asvetliakov.vscode-neovim
+$(brew --prefix)/bin/codium --install-extension asvetliakov.vscode-neovim
 
-codium --install-extension ms-python.python
+$(brew --prefix)/bin/codium --install-extension ms-python.python
 
-codium --install-extension ms-toolsai.jupyter
+$(brew --prefix)/bin/codium --install-extension ms-toolsai.jupyter
 
-codium --install-extension ms-toolsai.jupyter-keymap
+$(brew --prefix)/bin/codium --install-extension ms-toolsai.jupyter-keymap
 
-codium --install-extension ms-toolsai.jupyter-renderers
+$(brew --prefix)/bin/codium --install-extension ms-toolsai.jupyter-renderers
 
-codium --install-extension ms-toolsai.vscode-jupyter-cell-tags
+$(brew --prefix)/bin/codium --install-extension ms-toolsai.vscode-jupyter-cell-tags
 
-codium --install-extension ms-toolsai.vscode-jupyter-slideshow
+$(brew --prefix)/bin/codium --install-extension ms-toolsai.vscode-jupyter-slideshow
 
-codium --install-extension quarto.quarto
+$(brew --prefix)/bin/codium --install-extension quarto.quarto
 
-codium --install-extension REditorSupport.r
+$(brew --prefix)/bin/codium --install-extension REditorSupport.r
 
-codium --install-extension TabNine.tabnine-vscode
+$(brew --prefix)/bin/codium --install-extension TabNine.tabnine-vscode
 
-code --install-extension asvetliakov.vscode-neovim
+$(brew --prefix)/bin/code --install-extension asvetliakov.vscode-neovim
 
-code --install-extension ms-python.black-formatter
+$(brew --prefix)/bin/code --install-extension ms-python.black-formatter
 
-code --install-extension ms-python.python
+$(brew --prefix)/bin/code --install-extension ms-python.python
 
-code --install-extension ms-python.vscode-pylance
+$(brew --prefix)/bin/code --install-extension ms-python.vscode-pylance
 
-code --install-extension ms-toolsai.jupyter
+$(brew --prefix)/bin/code --install-extension ms-toolsai.jupyter
 
-code --install-extension ms-toolsai.jupyter-keymap
+$(brew --prefix)/bin/code --install-extension ms-toolsai.jupyter-keymap
 
-code --install-extension ms-toolsai.jupyter-renderers
+$(brew --prefix)/bin/code --install-extension ms-toolsai.jupyter-renderers
 
-code --install-extension ms-toolsai.vscode-jupyter-cell-tags
+$(brew --prefix)/bin/code --install-extension ms-toolsai.vscode-jupyter-cell-tags
 
-code --install-extension ms-toolsai.vscode-jupyter-slideshow
+$(brew --prefix)/bin/code --install-extension ms-toolsai.vscode-jupyter-slideshow
 
-code --install-extension quarto.quarto
+$(brew --prefix)/bin/code --install-extension quarto.quarto
 
-code --install-extension withfig.fig
+$(brew --prefix)/bin/code --install-extension withfig.fig
 
-code --install-extension REditorSupport.r
+$(brew --prefix)/bin/code --install-extension REditorSupport.r
 
-code --install-extension TabNine.tabnine-vscode
+$(brew --prefix)/bin/code --install-extension TabNine.tabnine-vscode
 
 # Non-automated steps
 ## Give Hammerspoon Accessibility permissions and enable Launch Hammerspoon at login
