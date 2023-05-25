@@ -134,10 +134,10 @@ lvim.line_wrap_cursor_movement = true
 -- Configure builtin plugins
 -- TODO: User Config for predefined plugins
 -- After changing plugin config exit and reopen LunarVim, Run :PackerInstall :PackerCompile
-lvim.builtin.dashboard.active = true
+-- lvim.builtin.dashboard.active = true
 lvim.builtin.terminal.active = true
 lvim.builtin.nvimtree.side = "left"
-lvim.builtin.nvimtree.show_icons.git = 0
+-- lvim.builtin.nvimtree.show_icons.git = 0
 
 -- Treesitter parsers change this to a table of the languages you want i.e. {"java", "python", javascript}
 lvim.builtin.treesitter.ensure_installed = "maintained"
@@ -148,7 +148,7 @@ lvim.builtin.treesitter.highlight.enabled = true
 
 
 -- Disable virtual text
-lvim.lsp.diagnostics.virtual_text = false
+-- lvim.lsp.diagnostics.virtual_text = false
 -- generic LSP settings
 -- you can set a custom on_attach function that will be used for all the language servers
 -- See <https://github.com/neovim/nvim-lspconfig#keybindings-and-completion>
@@ -176,19 +176,19 @@ lvim.lsp.diagnostics.virtual_text = false
 -- end
 
 -- set a formatter if you want to override the default lsp one (if it exists)
-lvim.lang.python.formatters = {
-  {
-    exe = "black",
-    args = {}
-  }
-}
--- set an additional linter
-lvim.lang.python.linters = {
-  {
-    exe = "flake8",
-    args = {}
-  }
-}
+-- lvim.lang.python.formatters = {
+--   {
+--     exe = "black",
+--     args = {}
+--   }
+-- }
+-- -- set an additional linter
+-- lvim.lang.python.linters = {
+--   {
+--     exe = "flake8",
+--     args = {}
+--   }
+-- }
 
 -- Additional Plugins
 lvim.plugins = {
@@ -215,9 +215,10 @@ lvim.plugins = {
     "tpope/vim-surround",
     keys = {"c", "d", "y"}
   },
-  { "tpope/vim-speeddating" },
-  { "tpope/vim-repeat" },
-  { "tpope/vim-unimpaired" },
+  {"tpope/vim-speeddating"},
+  {"tpope/vim-repeat"},
+  {"tpope/vim-unimpaired"},
+  {"tommcdo/vim-exchange"},
   {"justinmk/vim-sneak"},
   {"ethanholz/nvim-lastplace"},
   {"rkitover/vimpager"},
@@ -232,9 +233,9 @@ require'nvim-lastplace'.setup {
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
 -- https://www.lunarvim.org/configuration/05-autocommands.html
-lvim.autocommands.custom_groups = {
-  { "BufWinEnter", "*", "setlocal laststatus=0 | set showtabline=0" },
-}
+-- lvim.autocommands.custom_groups = {
+--   { "BufWinEnter", "*", "setlocal laststatus=0 | set showtabline=0" },
+-- }
 
 -- https://www.lunarvim.org/configuration/03-colorschemes.html#transparent-windows
 lvim.transparent_window = true
