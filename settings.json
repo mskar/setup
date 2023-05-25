@@ -9,33 +9,36 @@
   "editor.tabCompletion" : "on",
   "extensions.ignoreRecommendations" : false,
   "git.autofetch" : true,
-  "jupyter.alwaysTrustNotebooks" : true,
+  "git.confirmSync": false,
+  "git.openRepositoryInParentFolders": "always",
   "jupyter.askForKernelRestart": false,
-  "jupyter.interactiveWindowMode" : "perFile",
-  "jupyter.sendSelectionToInteractiveWindow" : true,
+  "jupyter.interactiveWindow.creationMode": "perFile",
+  "jupyter.interactiveWindow.textEditor.executeSelection": true,
   "python.analysis.completeFunctionParens" : true,
   "python.analysis.typeCheckingMode" : "basic",
-  "python.autoComplete.addBrackets" : true,
   "python.defaultInterpreterPath" : "/opt/homebrew/Caskroom/mambaforge/base/bin/python",
+  "python.formatting.provider": "none",
   "python.languageServer" : "Pylance",
   "r.alwaysUseActiveTerminal" : true,
   "r.bracketedPaste" : true,
   "r.rterm.mac" : "$(brew --prefix)/Caskroom/mambaforge/base/envs/${workspaceFolderBasename}/bin/radian",
   "r.sessionWatcher" : true,
+  "security.workspace.trust.untrustedFiles": "open",
   "tabnine.experimentalAutoImports" : true,
+  "terminal.integrated.inheritEnv": false,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
   },
   "terminal.integrated.fontFamily" : "Ewka Nerd Font",
-  "terminal.integrated.fontLigatures" : true,
   "terminal.integrated.fontSize" : 16,
   "terminal.integrated.macOptionIsMeta" : true,
   "vscode-neovim.neovimExecutablePaths.darwin" : "/opt/homebrew/bin/nvim",
   "vscode-neovim.neovimInitVimPaths.darwin" : "$HOME/.config/nvim/init.vim",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter.notebook.ipynb"
-  },
-  "git.confirmSync": false,
-  "window.zoomLevel": 1
+  }
 }

@@ -178,6 +178,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -258,6 +259,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -339,6 +341,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -421,6 +424,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -503,6 +507,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -585,6 +590,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -665,6 +671,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -743,6 +750,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -823,6 +831,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1041,6 +1050,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1165,6 +1175,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1246,6 +1257,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1334,6 +1346,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1417,6 +1430,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1500,6 +1514,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1587,6 +1602,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -1669,6 +1685,7 @@
                                             "^md\\.obsidian$",
                                             "^dev\\.Warp\\.Warp-Stable$",
                                             "^org\\.jupyter\\.jupyterlab-desktop$",
+                                            "^com\\.vscodium$",
                                             "^com\\.microsoft\\.VSCode$"
                                         ],
                                         "type": "frontmost_application_unless"

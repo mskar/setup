@@ -38,6 +38,7 @@ ln -sf ~/maptv/setup/pandoc.vim ~/.config/nvim/plugged/vim-pandoc-syntax/syntax/
 ln -sf ~/maptv/setup/rstudio-prefs.json ~/.config/rstudio/rstudio-prefs.json
 ln -sf ~/maptv/setup/rstudio_bindings.json ~/.config/rstudio/keybindings/rstudio_bindings.json
 ln -sf ~/maptv/setup/settings.json ~/Library/Application\ Support/Code/User/settings.json
+ln -sf ~/maptv/setup/settings.json ~/Library/Application\ Support/VSCodium/User/settings.json
 ln -sf ~/maptv/setup/shortcuts.jupyterlab-settings ~/.jupyter/lab/user-settings/@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
 ln -sf ~/maptv/setup/tabnine_config.json ~/.config/TabNine/tabnine_config.json
 ln -sf ~/maptv/setup/undead.icns ~/Library/Keyboard\ Layouts/undead.icns
