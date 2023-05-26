@@ -21,7 +21,9 @@
   { "key": "cmd+9", "command": "workbench.action.toggleSidebarVisibility", "when": "!editorFocus" },
   { "key": "cmd+9", "command": "workbench.view.scm", "when": "editorFocus" },
   { "key": "cmd+alt+b", "command": "editor.action.goToImplementation", "when": "editorHasImplementationProvider && editorTextFocus && !isInEmbeddedEditor" },
-  { "key": "alt+cmd+i",  "command": "quarto.insertCodeCell" },
+  { "key": "alt+cmd+i",  "command": "quarto.insertCodeCell", "when": "editorTextFocus && !editorReadonly" },
+  { "key": "[ c",  "command": "quarto.goToPreviousCell", "when": "editorTextFocus"},
+  { "key": "] c",  "command": "quarto.goToNextCell", "when": "editorTextFocus"},
   { "key": "cmd+alt+l", "command": "editor.action.formatDocument", "when": "editorHasDocumentFormattingProvider && editorHasSelection && editorTextFocus && !editorReadonly" },
   { "key": "cmd+alt+l", "command": "editor.action.formatSelection", "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly" },
   { "key": "cmd+alt+m", "command": "editor.action.codeAction", "when": "editorTextFocus", "args": { "kind": "refactor.extract.function", "apply": "ifSingle" } },
@@ -73,5 +75,13 @@
   { "key": "ctrl+w", "command": "deleteWordLeft", "when": "!editorFocus" },
   { "key": "shift+alt+b", "command": "cursorWordStartLeftSelect", "when": "textInputFocus" },
   { "key": "shift+alt+f", "command": "cursorWordEndRightSelect", "when": "textInputFocus" },
-  { "key": "shift+escape", "command": "workbench.action.focusActiveEditorGroup", "when": "!editorTextFocus"}
+  {
+    "key": "shift+escape",
+    "command": "workbench.action.focusActiveEditorGroup",
+    "when": "!editorTextFocus"
+  },
+  {
+    "key": "ctrl",
+    "command": "quarto.goToNextCell"
+  }
 ]
