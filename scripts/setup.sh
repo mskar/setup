@@ -377,17 +377,17 @@ curl https://raw.githubusercontent.com/maptv/setup/main/config.yaml -o ~/Library
 ### `Ctrl Alt X` pastes as plain text (mnemonic: remove (x) formatting)
 
 ## Set builtin "Move focus" macOS Keyboard shortcuts in System Preferences > Keyboard > Shortcuts > Keyboard
-### Move focus to menu bar: `Alt A` (A is for Apple)
-### Move focus to Dock: `Alt Z` (Z is below A and S on the keyboard)
-### Move focus to active or next window: `Alt ;`
-#### Which automatically enables, move focus to previous window: `Alt Shift ;`
-#### Which I activate using `Alt ,` thanks to Karabiner
-#### This pairs so perfectly with using `Alt /` for the Hammerspoon window hints
+### Move focus to menu bar: `Alt Cmd A` (A is for Apple)
+### Move focus to Dock: `Alt Cmd Z` (Z is below A and S on the keyboard)
+### Move focus to active or next window: `Cmd '` (' looks similar to `)
+#### Which automatically enables, move focus to previous window: `Cmd Shift ;`
 #### that I decided it was worth overwriting the Emacs hippie completion binding
 ### Toggle all of the focus shortcuts except "Move focus to status menus": `Alt O`
-### Move focus to window toolbar: `Alt R` (mnemonic: toolbaR, works a bit like Alt R in Emacs in that it jumps back and forth)
-### Move focus to floating window: `Alt W`
-### Move focus to status menus: `Alt S`
+### Move focus to window toolbar: `Alt Cmd T` (mnemonic: toolbaR, works a bit like Alt R in Emacs in that it jumps back and forth)
+### Move focus to floating window: `Alt Cmd W`
+### Move focus to status menus: `Alt Cmd S`
+### Change the way Tab moves focus: `Alt Cmd Tab`
+### Turn keyboard access on or off: `Alt Cmd K`
 
 ## Set up Vimac
 ### Hint Mode shortcut: `Ctrl Q`
