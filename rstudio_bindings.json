@@ -18,5 +18,12 @@
     "layoutZoomCurrentPane": "Ctrl+; O|Ctrl+; Ctrl+O",
     "layoutZoomLeftColumn": "Ctrl+; H|Ctrl+; Ctrl+H",
     "layoutZoomRightColumn": "Ctrl+; L|Ctrl+; Ctrl+L",
-    "goToHelp": "Shift+Tab"
+    "goToHelp": "Shift+Tab",
+    "goToNextChunk": "Alt+Cmd+C",
+    "goToPrevChunk": "Alt+Shift+Cmd+C",
+    "executePreviousChunks": "Alt+Cmd+Shift+E",
+    "executeSubsequentChunks": "Alt+Cmd+E",
+    "goToNextSection": "Alt+Cmd+S",
+    "goToPrevSection": "Alt+Shift+Cmd+S",
+    "restartRRunAllChunks": "Alt+Cmd+R"
 }

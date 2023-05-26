@@ -40,7 +40,7 @@
     "editor_theme": "Vibrant Ink",
     "python_type": "conda",
     "python_version": "3.11.0",
-    "python_path": "/usr/local/Caskroom/mambaforge/base/envs/pyr/bin/python3.11",
+    "python_path": "/opt/homebrew/Caskroom/mambaforge/base/envs/pyr/bin/python3.11",
     "show_terminal_tab": false,
     "insert_native_pipe_operator": true
 }
