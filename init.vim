@@ -7,15 +7,14 @@ let vimplug_exists=expand('~/.config/nvim/autoload/plug.vim')
 
 " https://github.com/glacambre/firenvim/issues/1285#issuecomment-1004578943
 set laststatus=0
-" if exists('g:started_by_firenvim')
-"     let g:firenvim_config = {
-"         \ 'localSettings': {
-"             \ '.*': {
-"                 \ 'takeover': 'never',
-"             \ },
-"         \ }
-"     \ }
-" endif
+if exists('g:started_by_firenvim')
+    let g:firenvim_config = {
+        \ 'globalSettings': {
+        \ "alt": "all",
+        \ "cmdlineTimeout": 0
+        \ }
+    \ }
+endif
 
 let g:vim_bootstrap_langs = "python"
 let g:vim_bootstrap_editor = "nvim"				" nvim or vim
