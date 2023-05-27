@@ -281,9 +281,9 @@ killall Dock
 
 #### Download keyboard layout and icon files `undead.keylayout` and `undead.icns` to `/Library/Keyboard Layouts/`
 ##### This messes up ctrl u and k in alacritty and kitty
-curl https://raw.githubusercontent.com/maptv/setup/main/undead.icns -o ~/Library/Keyboard\ Layouts/undead.icns
+sudo curl https://raw.githubusercontent.com/maptv/setup/main/undead.icns -o /Library/Keyboard\ Layouts/undead.icns
 
-curl https://raw.githubusercontent.com/maptv/setup/main/undead.keylayout -o ~/Library/Keyboard\ Layouts/undead.layout
+sudo curl https://raw.githubusercontent.com/maptv/setup/main/undead.keylayout -o /Library/Keyboard\ Layouts/undead.layout
 
 #### Download Default MacOS keybinding dictionary file `DefaultKeyBinding.dict` to `/Library/Keybindings/`
 
