@@ -27,6 +27,8 @@
   { "key": "] q",  "command": "quarto.goToNextCell", "when": "neovim.mode == normal && editorTextFocus"},
   { "key": "[ r",  "command": "r.goToPreviousChunk", "when": "neovim.mode == normal && editorTextFocus"},
   { "key": "] r",  "command": "r.goToNextChunk", "when": "neovim.mode == normal && editorTextFocus"},
+  { "key": "Shift+K", "command": "editor.action.showHover", "when": "neovim.mode == normal && editorTextFocus"},
+  { "key": "Shift+Tab", "command": "editor.action.showHover", "when": "editorTextFocus"},
   { "key": "cmd+alt+c",  "command": "quarto.goToNextCell", "when": "editorTextFocus"},
   { "key": "cmd+alt+l", "command": "editor.action.formatDocument", "when": "editorHasDocumentFormattingProvider && editorHasSelection && editorTextFocus && !editorReadonly" },
   { "key": "cmd+alt+l", "command": "editor.action.formatSelection", "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly" },
