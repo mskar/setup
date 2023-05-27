@@ -288,6 +288,7 @@ highlight LineNr     ctermbg=NONE guibg=NONE
 highlight NonText ctermbg=NONE guibg=NONE
 highlight Normal ctermbg=NONE guibg=NONE
 highlight SignColumn ctermbg=NONE guibg=NONE
+highlight MsgArea ctermbg=NONE guibg=NONE
 highlight VertSplit ctermbg=NONE guibg=NONE
 highlight pandocEmphasis gui=italic cterm=italic guifg=#ffff00 ctermfg=Yellow
 highlight pandocString guifg=#00ff00 ctermfg=Green
@@ -1478,4 +1479,3 @@ function! <SID>JumpToRegister()
 endfunction
 
 set sel=exclusive
-
