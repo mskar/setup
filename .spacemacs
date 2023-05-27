@@ -47,7 +47,6 @@ This function should only modify configuration layer settings."
      ;; better-defaults
      emacs-lisp
      evil-snipe
-     evil-exchange
      git
      helm
      ;; lsp
