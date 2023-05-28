@@ -560,8 +560,12 @@ $(brew --prefix)/Caskroom/mambaforge/base/bin/mamba install -yc conda-forge pyth
 
 $(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n py python joblib jupyterlab seaborn neovim numpy pandas scikit-learn jupyterlab_vim scipy
 
+$(brew --prefix)/Caskroom/mambaforge/base/envs/py/bin/python -m pip install jupyterlab-quarto
+
 ##### Installing r into base environment breaks nvim-R
-$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidyverse r-irkernel python neovim jupyterlab jupyterlab_vim
+$(brew --prefix)/Caskroom/mambaforge/base/bin/mamba create -yc conda-forge -n r r-essentials r-tidyverse r-irkernel python neovim jupyterlab jupyterlab_vim r-quarto
+
+$(brew --prefix)/Caskroom/mambaforge/base/envs/r/bin/python -m pip install jupyterlab-quarto
 
 # 7: Code editors
 
@@ -691,8 +695,6 @@ $(brew --prefix)/bin/code --install-extension ms-toolsai.vscode-jupyter-cell-tag
 $(brew --prefix)/bin/code --install-extension ms-toolsai.vscode-jupyter-slideshow
 
 $(brew --prefix)/bin/code --install-extension quarto.quarto
-
-$(brew --prefix)/bin/code --install-extension withfig.fig
 
 $(brew --prefix)/bin/code --install-extension REditorSupport.r
 

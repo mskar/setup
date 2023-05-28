@@ -66,6 +66,8 @@
   { "key": "ctrl+/", "command": "undo", "when": "textInputFocus" },
   { "key": "ctrl+`", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"},
   { "key": "ctrl+`", "command": "workbench.action.terminal.focus"},
+  { "key": "space t", "command": "workbench.action.terminal.focus", "when": "editorTextFocus && !neovim.recording && neovim.mode == 'normal'"},
+  { "key": "\\ t", "command": "workbench.action.terminal.focus", "when": "editorTextFocus && !neovim.recording && neovim.mode == 'normal'"},
   { "key": "ctrl+a", "command": "cursorLineStart", "when": "editorTextFocus && neovim.ctrlKeysInsert && !neovim.recording && neovim.mode == 'insert'" },
   { "key": "ctrl+alt+b", "command": "cursorWordPartLeft", "when": "textInputFocus" },
   { "key": "ctrl+alt+d", "command": "deleteWordPartRight", "when": "textInputFocus && !editorReadonly" },
